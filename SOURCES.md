@@ -34,21 +34,31 @@ leave blank only if genuinely unobtainable — never guess a number.
 
 ## Instagram organizer handles (parse periodically)
 
-Curated SF event organizers we **periodically parse from Instagram** each scan, via
-`instagram/ig_events.py` (uses the authenticated `instagram` session). IG's post feed
-comes back empty, so the chain is: **handle → profile (bio + external link) → fetch
-that linktr.ee/site → AI-parse the events** (date, venue, price, ticket link). Mostly
-immersive / sound-bath / sunset-popup / experiential — a different lane than the
-19hz rave listings, so they fill a gap the other sources miss.
+Curated SF event organizers, **DJs, and run crews** we **periodically parse from
+Instagram** each scan, via `instagram/ig_events.py` (uses the authenticated
+`instagram` session). IG's post feed comes back empty, so the chain is: **handle →
+profile (bio + external link) → fetch that linktr.ee/site → AI-parse the events**
+(date, venue, price, ticket link). Two lanes the 19hz/RA listings miss: immersive /
+sound-bath / experiential organizers, and **DJs/promoters** — who play and promote
+parties, often putting their **next gig date right in the bio text** (e.g. "6/26
+@halcyon_sf"), so read the bio gig line + external link, not just the linktree. Run
+crews feed the **sports** track.
 
-| Handle | Who | External link |
-|--------|-----|---------------|
-| `@soundmeditationpresents` | Sound baths / sound-healing symphonies (Grace Cathedral, etc.) | linktr.ee/thesoundbath |
-| `@audiumsf` | Audium Theater — 176-speaker spatial-sound immersive shows | linktr.ee/audiumsf |
-| `@gracecathedral` | Grace Cathedral event series (TILT, labyrinth, concerts) | linktr.ee/gracecathedral |
-| `@honey_gold_experience` | Honey Gold — immersive music/voice/video-mapping theater | honeygoldexperience.com |
-| `@curious.connie` | SF gathering intel — sunset DJ sets, tea-house & waterfront pop-ups | substack (curious0connie) |
-| `@fromdust.sounds` | From Dust / Feels in the Club — emotional dance music DJ | linktr.ee/fromdust |
+| Handle | Who | Track | External link |
+|--------|-----|-------|---------------|
+| `@soundmeditationpresents` | Sound baths / sound-healing symphonies (Grace Cathedral, etc.) | Music/Immersive | linktr.ee/thesoundbath |
+| `@audiumsf` | Audium Theater — 176-speaker spatial-sound immersive shows | Music/Immersive | linktr.ee/audiumsf |
+| `@gracecathedral` | Grace Cathedral event series (TILT, labyrinth, concerts) | Music/Immersive | linktr.ee/gracecathedral |
+| `@honey_gold_experience` | Honey Gold — immersive music/voice/video-mapping theater | Music/Immersive | honeygoldexperience.com |
+| `@curious.connie` | SF gathering intel — sunset DJ sets, tea-house & waterfront pop-ups | Music | substack (curious0connie) |
+| `@fromdust.sounds` | From Dust / Feels in the Club — emotional dance music DJ | Music | linktr.ee/fromdust |
+| `@jlittlemusic` | Jacqueline Little Lopez — house/tech/techno DJ | Music (DJ) | linktr.ee/JLittle |
+| `@modeleeloo_official` | MODE LEELOO — SF DJ / producer | Music (DJ) | soundcloud (mode leeloo) |
+| `@jeffstraw_official` | Jeff Straw — SF Bay disco-house DJ (@b4aftrmusic) | Music (DJ) | jeffstraw.com |
+| `@psy_matik` | Psymatik — hard dance fusion DJ | Music (DJ) | linktr.ee/Psymatik |
+| `@ryl3r` | Ryan Abuel (ryl3r) — DJ (SF/San Jose clubs) | Music (DJ) | posh.vip/f/5d9e8 |
+| `@sanfranciscofnr` | SFFNR — SF Friday Night Run, last Friday monthly since 2006 | Sports (run) | (bio — no link) |
+| `@midnightrunnerssf` | Midnight Runners SF — bootcamp runs w/ music, Weds 6:30pm | Sports (run) | link.heylo.co/zdKT |
 
 ```bash
 python3 instagram/ig_events.py                       # all SEED_HANDLES
