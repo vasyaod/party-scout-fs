@@ -5,6 +5,13 @@ week. Powers a small GitHub Pages site that reads the JSON straight from `data/`
 
 **🌐 Live site: https://vasyaod.github.io/party-scout-fs/**
 
+## File index
+Read all this file before modifying data in the repo 
+
+  * SOURCES.md        master list of sites we pull listings + prices from (canonical)
+  * REQUEREMENTS.md   
+  * MODEL.md          JSON model of data
+
 ## Layout
 
 ```
