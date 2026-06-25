@@ -142,6 +142,8 @@ const TRACKS = [
   {key:"music",  label:"🎶 Music & entertainment"},
   {key:"sports", label:"🏍️ Sports & active"},
 ];
+// Chronological day order for sorting cards (the weekend window is Thu–Sun).
+const DAY_ORDER = {Thu:0,Fri:1,Sat:2,Sun:3,Mon:4,Tue:5,Wed:6};
 const el = (t,c,h)=>{const e=document.createElement(t);if(c)e.className=c;if(h!=null)e.innerHTML=h;return e;};
 
 // iOS / iPadOS / macOS -> Apple Maps; everything else -> Google Maps.
@@ -270,6 +272,7 @@ function render(){
   TRACKS.forEach(t=>{
     let items = ((week.tracks&&week.tracks[t.key])||[]).slice().sort((a,b)=>
       ((a.active===false)-(b.active===false)) ||
+      ((DAY_ORDER[a.day]??9)-(DAY_ORDER[b.day]??9)) ||
       ((b.popularity||0)-(a.popularity||0)) ||
       (((b.ra&&b.ra.interested)||0)-((a.ra&&a.ra.interested)||0)));
     if(state.tag) items = items.filter(it=>(it.tags||[]).includes(state.tag));
