@@ -139,8 +139,8 @@ function card(it){
   const mUrl = mapsUrl(it.maps);
   if(mUrl || it.tickets){
     const acts = el("div","acts");
-    if(mUrl) acts.appendChild(btn(mUrl,"","🗺 Map"));
-    if(it.tickets) acts.appendChild(btn(it.tickets,"tix","🎟 Tickets"));
+    if(mUrl) acts.appendChild(btn(mUrl,"","Map"));
+    if(it.tickets) acts.appendChild(btn(it.tickets,"tix","Tickets"));
     c.appendChild(acts);
   }
   return c;

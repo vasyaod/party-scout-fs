@@ -144,19 +144,19 @@
         "day": "Fri",
         "time": "8:30pm",
         "area": "Sacramento",
-        "venue": "",
-        "price": "",
+        "venue": "Heart Health Park",
+        "price": "$69",
         "tags": [
           "headliner"
         ],
         "link": "",
-        "id": "2026-06-22-music-kaskade-58db9c",
-        "active": true,
         "tickets": "",
         "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=Kaskade%2C+Sacramento",
-          "apple": "https://maps.apple.com/?q=Kaskade%2C+Sacramento"
-        }
+          "google": "https://www.google.com/maps/search/?api=1&query=Heart+Health+Park%2C+Sacramento",
+          "apple": "https://maps.apple.com/?q=Heart+Health+Park%2C+Sacramento"
+        },
+        "active": true,
+        "id": "2026-06-22-music-kaskade-0e94aa"
       },
       {
         "track": "music",
@@ -166,7 +166,7 @@
         "time": "8pm",
         "area": "Oakland",
         "venue": "Fox",
-        "price": "",
+        "price": "$62–84",
         "tags": [
           "headliner"
         ],
@@ -424,6 +424,27 @@
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Madarae%2C+SF",
           "apple": "https://maps.apple.com/?q=Madarae%2C+SF"
+        }
+      },
+      {
+        "track": "music",
+        "category": "House",
+        "name": "Kaskade",
+        "day": "Fri",
+        "time": "8:30pm",
+        "area": "Sacramento",
+        "venue": "",
+        "price": "",
+        "tags": [
+          "headliner"
+        ],
+        "link": "",
+        "id": "2026-06-22-music-kaskade-58db9c",
+        "active": false,
+        "tickets": "",
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=Kaskade%2C+Sacramento",
+          "apple": "https://maps.apple.com/?q=Kaskade%2C+Sacramento"
         }
       }
     ],
