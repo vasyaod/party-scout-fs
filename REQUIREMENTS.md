@@ -94,6 +94,8 @@ generates or edits the data must honor these. (Field shapes live in
 20. **Two ids, different jobs.** `id` is the stable MERGE key (rule 5) — never use
     it for the UI. `eid` is a short, URL-safe, week-unique **selection id** for
     deep-linking only; it is **not** used for merging.
-21. **Deep-link to a card via `/#<eid>`.** Each card's DOM id is its `eid`; opening
-    `…/#<eid>` reveals (past Show more), scrolls to, and highlights that event. A
-    per-card `#` anchor lets users copy that link.
+21. **Deep-link to a card via `#/<week_start>/<eid>`.** The hash carries both the
+    week and the event, e.g. `…/#/2026-06-22/kaskade-90bf` — the site loads that
+    week, then reveals (past Show more), scrolls to, and highlights the event. A
+    per-card `#` anchor copies that link. (Bare `#<eid>` still works within the
+    loaded week.)

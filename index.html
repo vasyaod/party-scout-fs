@@ -164,7 +164,9 @@ function card(it){
   if(it.eid){
     c.id = it.eid;            // anchor target for deep-link /#<eid>
     const a = el("a","anchor","#");
-    a.href = "#"+it.eid; a.title = "Link to this event";
+    const wk = state.week && state.week.week_start;
+    a.href = wk ? `#/${wk}/${it.eid}` : "#"+it.eid;
+    a.title = "Link to this event";
     c.appendChild(a);
   }
   if(it.category) c.appendChild(el("div","cat",it.category));
@@ -297,14 +299,18 @@ function render(){
     state.tag?`No “${state.tag}” events this week.`:"No events for this week."));
   const out = document.getElementById("report");
   out.innerHTML=""; out.appendChild(root);
-  focusHash();
 }
 
-// Deep-link: /#<eid> reveals (past Show more) + scrolls to + highlights that card.
-function focusHash(){
-  const id = decodeURIComponent((location.hash||"").slice(1));
-  if(!id) return;
-  const card = document.getElementById(id);
+// Hash format: #/<week_start>/<eid>  (legacy bare #<eid> still works).
+function parseHash(){
+  const h = decodeURIComponent((location.hash||"").replace(/^#\/?/,"")).trim();
+  if(!h) return {};
+  const p = h.split("/").filter(Boolean);
+  return p.length>=2 ? {week:p[0], eid:p.slice(1).join("/")} : {eid:p[0]};
+}
+function focusEid(eid){
+  if(!eid) return;
+  const card = document.getElementById(eid);
   if(!card) return;
   if(card.classList.contains("more-hidden")){
     const sec = card.closest("section.track");
@@ -317,7 +323,18 @@ function focusHash(){
   card.classList.add("focused");
   setTimeout(()=>card.classList.remove("focused"), 2600);
 }
-window.addEventListener("hashchange", focusHash);
+// On hashchange: switch week if the hash names a different one, else just focus.
+function applyHash(){
+  const {week, eid} = parseHash();
+  const sel = document.getElementById("week");
+  if(week && state.week && week!==state.week.week_start &&
+     [...sel.options].some(o=>o.value===week)){
+    sel.value = week; loadWeek(week);   // loadWeek focuses the eid afterwards
+  } else {
+    focusEid(eid);
+  }
+}
+window.addEventListener("hashchange", applyHash);
 
 async function loadWeek(ws){
   const week = await getJSON(`data/${ws}.json`);
@@ -326,6 +343,7 @@ async function loadWeek(ws){
     (week.window?`window ${week.window}`:"") + (week.title?` · ${week.title}`:"");
   document.getElementById("mdlink").href = `data/${ws}.md`;
   render();
+  focusEid(parseHash().eid);   // honor #/<week>/<eid> after the week loads
 }
 
 async function init(){
@@ -338,9 +356,14 @@ async function init(){
       o.textContent=`${w.week_start}${w.window?"  ("+w.window+")":""} — ${n} events`;
       sel.appendChild(o);
     });
-    sel.addEventListener("change",()=>loadWeek(sel.value));
-    if(idx.weeks.length) await loadWeek(idx.weeks[0].week_start);
-    else document.getElementById("report").appendChild(el("div","empty","No weeks yet."));
+    sel.addEventListener("change",()=>{ location.hash=""; loadWeek(sel.value); });
+    if(idx.weeks.length){
+      const wks = idx.weeks.map(w=>w.week_start);
+      const hw = parseHash().week;
+      const start = (hw && wks.includes(hw)) ? hw : idx.weeks[0].week_start;
+      sel.value = start;
+      await loadWeek(start);   // loadWeek focuses the eid from the hash
+    } else document.getElementById("report").appendChild(el("div","empty","No weeks yet."));
   }catch(e){
     document.getElementById("report").appendChild(
       el("div","empty","Could not load data/index.json — "+e.message));
