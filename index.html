@@ -29,6 +29,11 @@
   .pill{font-size:12px;color:var(--muted);border:1px solid var(--line);
     border-radius:999px;padding:2px 9px}
   .grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(260px,1fr));gap:12px}
+  .more-hidden{display:none}
+  .showmore{display:block;margin:14px auto 0;cursor:pointer;font-size:14px;
+    font-weight:600;color:#cdc3f5;background:var(--panel2);border:1px solid var(--line);
+    border-radius:10px;padding:9px 18px;transition:border-color .12s,transform .08s}
+  .showmore:hover{border-color:var(--accent);color:#fff;transform:translateY(-1px)}
   .card{background:var(--panel);border:1px solid var(--line);border-radius:14px;
     padding:13px 14px;position:relative;overflow:hidden;
     display:flex;flex-direction:column}
@@ -175,6 +180,7 @@ function card(it){
 }
 
 const state = {week:null, tag:null};
+const SHOW_LIMIT = 21;   // cards shown per track before "Show more"
 
 function tagCounts(week){
   const m = new Map();
@@ -220,8 +226,20 @@ function render(){
     h.appendChild(el("span","pill",items.length+" events"));
     sec.appendChild(h);
     const grid = el("div","grid");
-    items.forEach(it=>grid.appendChild(card(it)));
+    items.forEach((it,idx)=>{
+      const cd = card(it);
+      if(idx>=SHOW_LIMIT) cd.classList.add("more-hidden");
+      grid.appendChild(cd);
+    });
     sec.appendChild(grid);
+    if(items.length>SHOW_LIMIT){
+      const more = el("button","showmore",`Show ${items.length-SHOW_LIMIT} more ▾`);
+      more.onclick = ()=>{
+        grid.querySelectorAll(".more-hidden").forEach(c=>c.classList.remove("more-hidden"));
+        more.remove();
+      };
+      sec.appendChild(more);
+    }
     root.appendChild(sec);
   });
   if(!root.childNodes.length) root.appendChild(el("div","empty",
