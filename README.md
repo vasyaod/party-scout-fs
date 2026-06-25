@@ -31,7 +31,8 @@ the Thu–Sun Jun 25–28 2026 weekend lives under `2026-06-22.*`.
   "tracks": {
     "music":  [ { "id", "track", "category", "name", "day", "time",
                   "area", "venue", "price", "tags": [], "link",
-                  "tickets", "maps": { "google", "apple" }, "active" } ],
+                  "tickets", "maps": { "google", "apple" }, "active",
+                  "ra": { "event_id", "url", "interested", "attending" } } ],
     "sports": [ ... ]
   }
 }
@@ -39,6 +40,9 @@ the Thu–Sun Jun 25–28 2026 weekend lives under `2026-06-22.*`.
 
 `id` is stable across re-runs of the same week (derived from the event's fields),
 so the site can track the same event over time.
+
+`ra` carries the **Resident Advisor rating** (`interested`/`attending` heart count)
+for events that link to ra.co — a popularity signal; `{}` when the event isn't on RA.
 
 `tickets` (buy-tickets URL) and `maps` (`{google, apple}` Maps search links) are
 never shown as raw URL text. The site exposes them only as **🗺 Map** / **🎟 Tickets**
