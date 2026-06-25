@@ -46,24 +46,28 @@ generates or edits the data must honor these. (Field shapes live in
    (RA / Tixr / Eventbrite / Etix / Ticketmaster / AXS / venue). **Never** a search
    engine. No real seller → no Buy-ticket button.
 10. **Open → the event website** (`link`): event info/lineup page.
-11. **Map per device.** The 📍 location's `open map` link opens **Apple Maps on
+11. **No circular / source links.** Never use a scrape source (e.g. `19hz.info`) as
+    an event's `link`/website — it just points back at our own aggregator. Resolve
+    the event's real page (RA / Tixr / Eventbrite / venue / official site) or leave
+    `link` empty (no Open button). Same for any other listing index we pull from.
+12. **Map per device.** The 📍 location's `open map` link opens **Apple Maps on
     iOS/iPadOS/macOS, Google Maps elsewhere**, using the per-event `address` for a
     precise pin when known.
-12. **Price on the button.** Price is combined into the Buy-ticket button
+13. **Price on the button.** Price is combined into the Buy-ticket button
     (`$NN · Buy ticket`); `Free` is a gold, same-size, non-clickable button.
-13. **Aligned cards.** In a row, tags and the action button line up across cards
+14. **Aligned cards.** In a row, tags and the action button line up across cards
     (footer pinned to the bottom; an empty action row is reserved when a card has
     no button).
 
 ## Generation
 
-14. Data is **generated**, not hand-edited. The generator + reusable enrichment
+15. Data is **generated**, not hand-edited. The generator + reusable enrichment
     (RA ratings, per-event research) live in `party-scout-code`. Read SOURCES.md,
     MODEL.md, and this file before changing the data.
 
 ## Enrichment (AI / subagents)
 
-15. **Resolve fields intelligently with AI subagents.** Don't ship whatever the raw
+16. **Resolve fields intelligently with AI subagents.** Don't ship whatever the raw
     scan emits — fan out per-event research agents (parallel) to verify each event is
     real and resolve its fields (venue, exact address, price, ticket URL, event
     website, tags, RA rating). New events and any sparse/unverified ones get this
