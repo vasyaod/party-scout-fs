@@ -79,7 +79,10 @@
   .where .om:hover{text-decoration:underline}
   .tags{margin-top:8px;display:flex;flex-wrap:wrap;gap:6px}
   .tag{font-size:11px;background:var(--panel2);border:1px solid var(--line);
-    border-radius:999px;padding:1px 8px;color:#c8bdf2}
+    border-radius:999px;padding:1px 8px;color:#c8bdf2;cursor:pointer;
+    transition:border-color .12s,color .12s}
+  .tag:hover{border-color:var(--accent);color:#fff}
+  .tag.on{background:var(--accent);border-color:var(--accent);color:#fff}
   .tag.free,.tag.outdoor,.tag.daytime{color:#ffe27a;border-color:#5a4d1f}
   .tag.headliner{color:#ff9ad1;border-color:#5a2347}
   .cloud{display:flex;flex-wrap:wrap;gap:8px 10px;align-items:center;
@@ -172,7 +175,11 @@ function card(it){
   const foot = el("div","foot");
   if(it.tags && it.tags.length){
     const wrap = el("div","tags");
-    it.tags.forEach(t=>wrap.appendChild(el("span","tag "+t,t)));
+    it.tags.forEach(t=>{
+      const tg = el("span","tag "+t+(state.tag===t?" on":""),t);
+      tg.onclick = ()=>{ state.tag = state.tag===t?null:t; render(); };
+      wrap.appendChild(tg);
+    });
     foot.appendChild(wrap);
   }
   if(it.active===false) foot.appendChild(el("div","carried","↩︎ carried over — not in latest scan"));
