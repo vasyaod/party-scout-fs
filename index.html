@@ -62,9 +62,8 @@
     border-radius:8px;padding:1px 8px}
   .price.free{color:#ffe27a;background:#33301a;border-color:#5a4d1f}
   .where{font-size:13px;color:var(--muted);margin-top:2px;align-self:flex-start}
-  a.where{text-decoration:none}
-  a.where:hover{color:#cdc3f5;text-decoration:underline}
-  a.where .om{color:var(--accent);opacity:.85}
+  .where .om{color:var(--accent);text-decoration:none;white-space:nowrap}
+  .where .om:hover{text-decoration:underline}
   .tags{margin-top:8px;display:flex;flex-wrap:wrap;gap:6px}
   .tag{font-size:11px;background:var(--panel2);border:1px solid var(--line);
     border-radius:999px;padding:1px 8px;color:#c8bdf2}
@@ -140,12 +139,15 @@ function card(it){
   let where = it.area||"";
   if(it.venue) where += (where?" · ":"")+it.venue;
   const mUrl = mapsUrl(it.maps);
-  if(where && mUrl){
-    const a = el("a","where","📍 "+where+' <span class="om">· open map</span>');
-    a.href=mUrl; a.target="_blank"; a.rel="noopener";
-    c.appendChild(a);
-  } else if(where){
-    c.appendChild(el("div","where","📍 "+where));
+  if(where){
+    const d = el("div","where","📍 "+where);
+    if(mUrl){
+      const a = el("a","om","open map");
+      a.href=mUrl; a.target="_blank"; a.rel="noopener";
+      d.insertAdjacentText("beforeend"," · ");
+      d.appendChild(a);
+    }
+    c.appendChild(d);
   }
   // Footer (tags + carried note + price/Buy-ticket) is pinned to the bottom of the
   // card so tags AND buttons line up across a row regardless of title/where height.
