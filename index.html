@@ -53,7 +53,10 @@
     color:#9affd0;background:#10331f;border:1px solid #1f6e45;border-radius:8px;
     padding:1px 8px}
   .price.free{color:#ffe27a;background:#33301a;border-color:#5a4d1f}
-  .where{font-size:13px;color:var(--muted);margin-top:2px}
+  .where{font-size:13px;color:var(--muted);margin-top:2px;display:inline-block}
+  a.where{text-decoration:none}
+  a.where:hover{color:#cdc3f5;text-decoration:underline}
+  a.where .om{color:var(--accent);opacity:.85}
   .tags{margin-top:8px;display:flex;flex-wrap:wrap;gap:6px}
   .tag{font-size:11px;background:var(--panel2);border:1px solid var(--line);
     border-radius:999px;padding:1px 8px;color:#c8bdf2}
@@ -128,7 +131,14 @@ function card(it){
   if(when) c.appendChild(el("div","when",when));
   let where = it.area||"";
   if(it.venue) where += (where?" · ":"")+it.venue;
-  if(where) c.appendChild(el("div","where","📍 "+where));
+  const mUrl = mapsUrl(it.maps);
+  if(where && mUrl){
+    const a = el("a","where","📍 "+where+' <span class="om">· open map</span>');
+    a.href=mUrl; a.target="_blank"; a.rel="noopener";
+    c.appendChild(a);
+  } else if(where){
+    c.appendChild(el("div","where","📍 "+where));
+  }
   if(it.price){
     const isFree = /free|^\$?0\b/i.test(it.price);
     c.appendChild(el("div","price"+(isFree?" free":""),it.price));
@@ -139,11 +149,10 @@ function card(it){
     c.appendChild(wrap);
   }
   if(it.active===false) c.appendChild(el("div","carried","↩︎ carried over — not in latest scan"));
-  const mUrl = mapsUrl(it.maps), tUrl = ticketsUrl(it);
-  if(mUrl || tUrl){
+  const tUrl = ticketsUrl(it);   // map now opens from the 📍 location line above
+  if(tUrl){
     const acts = el("div","acts");
-    if(mUrl) acts.appendChild(btn(mUrl,"","Map"));
-    if(tUrl) acts.appendChild(btn(tUrl,"tix","Buy ticket"));
+    acts.appendChild(btn(tUrl,"tix","Buy ticket"));
     c.appendChild(acts);
   }
   return c;
