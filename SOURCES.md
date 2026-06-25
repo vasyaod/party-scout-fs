@@ -34,6 +34,11 @@ leave blank only if genuinely unobtainable — never guess a number.
 
 ## Instagram organizer handles (parse periodically)
 
+> ⛔ **TEMPORARILY DISABLED (2026-06-25).** Do NOT run the Instagram scrape in the
+> weekly scan for now — skip `instagram/ig_events.py` and this whole source until
+> re-enabled. The handle list and code are kept below intact so it can be switched
+> back on by deleting this banner. (Paused to avoid any risk to the IG account.)
+
 Curated SF event organizers, **DJs, and run crews** we **periodically parse from
 Instagram** each scan, via `instagram/ig_events.py` (uses the authenticated
 `instagram` session). IG's post feed comes back empty, so the chain is: **handle →
