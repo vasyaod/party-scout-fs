@@ -38,9 +38,10 @@ the Thu–Sun Jun 25–28 2026 weekend lives under `2026-06-22.*`.
 so the site can track the same event over time.
 
 `tickets` (buy-tickets URL) and `maps` (`{google, apple}` Maps search links) are
-**JSON-only on purpose** — the site does not render them; they're there for a
-client to open the right Maps app per phone. `active: false` marks a "carried
-over" event kept from a prior scan (see Updating).
+never shown as raw URL text. The site exposes them only as **🗺 Map** / **🎟 Tickets**
+buttons (the URL is just the `href`); the Map button opens **Apple Maps on
+iOS/iPadOS/macOS, Google Maps elsewhere**. `active: false` marks a "carried over"
+event kept from a prior scan (see Updating).
 
 ## Updating
 

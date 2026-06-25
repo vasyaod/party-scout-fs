@@ -38,6 +38,13 @@
   .card.inactive::before{filter:grayscale(.7) brightness(.7)}
   .carried{display:inline-block;margin-top:7px;font-size:11px;color:var(--muted);
     border:1px dashed var(--line);border-radius:8px;padding:1px 8px}
+  .acts{display:flex;gap:8px;margin-top:11px;flex-wrap:wrap}
+  .btn{font-size:12px;font-weight:600;text-decoration:none;color:#cdc3f5;
+    background:var(--panel2);border:1px solid var(--line);border-radius:9px;
+    padding:4px 11px;transition:border-color .12s,color .12s,transform .08s}
+  .btn:hover{border-color:var(--accent);color:#fff;transform:translateY(-1px)}
+  .btn.tix{color:#9affd0;border-color:#1f6e45}
+  .btn.tix:hover{border-color:#27d3a2}
   .cat{font-size:11px;text-transform:uppercase;letter-spacing:.6px;color:var(--muted)}
   .name{font-weight:650;margin:3px 0 6px;line-height:1.25}
   .name a{color:var(--ink);text-decoration:none;border-bottom:1px dotted var(--muted)}
@@ -96,6 +103,16 @@ const TRACKS = [
 ];
 const el = (t,c,h)=>{const e=document.createElement(t);if(c)e.className=c;if(h!=null)e.innerHTML=h;return e;};
 
+// iOS / iPadOS / macOS -> Apple Maps; everything else -> Google Maps.
+const APPLE = /iPhone|iPad|iPod|Macintosh|Mac OS X/i.test(
+  (navigator.platform||"")+" "+(navigator.userAgent||""));
+function mapsUrl(m){ if(!m) return ""; return APPLE ? (m.apple||m.google) : (m.google||m.apple); }
+function btn(href,cls,label){
+  const a = el("a","btn"+(cls?" "+cls:""),label);
+  a.href=href; a.target="_blank"; a.rel="noopener";
+  return a;  // raw URL never shown as text — only the label
+}
+
 async function getJSON(u){const r=await fetch(u,{cache:"no-store"});if(!r.ok)throw new Error(u+" "+r.status);return r.json();}
 
 function card(it){
@@ -119,6 +136,13 @@ function card(it){
     c.appendChild(wrap);
   }
   if(it.active===false) c.appendChild(el("div","carried","↩︎ carried over — not in latest scan"));
+  const mUrl = mapsUrl(it.maps);
+  if(mUrl || it.tickets){
+    const acts = el("div","acts");
+    if(mUrl) acts.appendChild(btn(mUrl,"","🗺 Map"));
+    if(it.tickets) acts.appendChild(btn(it.tickets,"tix","🎟 Tickets"));
+    c.appendChild(acts);
+  }
   return c;
 }
 
