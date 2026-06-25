@@ -45,6 +45,10 @@
   .btn:hover{border-color:var(--accent);color:#fff;transform:translateY(-1px)}
   .btn.tix{color:#9affd0;border-color:#1f6e45}
   .btn.tix:hover{border-color:#27d3a2}
+  .btn.tix b{font-weight:750;color:#c9ffe6}
+  .btn.tix.free{color:#ffe27a;border-color:#5a4d1f}
+  .btn.tix.free b{color:#ffe27a}
+  .btn.tix.free:hover{border-color:#ffe27a}
   .cat{font-size:11px;text-transform:uppercase;letter-spacing:.6px;color:var(--muted)}
   .name{font-weight:650;margin:3px 0 6px;line-height:1.25}
   .name a{color:var(--ink);text-decoration:none;border-bottom:1px dotted var(--muted)}
@@ -139,21 +143,22 @@ function card(it){
   } else if(where){
     c.appendChild(el("div","where","📍 "+where));
   }
-  if(it.price){
-    const isFree = /free|^\$?0\b/i.test(it.price);
-    c.appendChild(el("div","price"+(isFree?" free":""),it.price));
-  }
   if(it.tags && it.tags.length){
     const wrap = el("div","tags");
     it.tags.forEach(t=>wrap.appendChild(el("span","tag "+t,t)));
     c.appendChild(wrap);
   }
   if(it.active===false) c.appendChild(el("div","carried","↩︎ carried over — not in latest scan"));
-  const tUrl = ticketsUrl(it);   // map now opens from the 📍 location line above
+  // Price + Buy ticket combined into one button. No ticket link -> price-only badge.
+  const tUrl = ticketsUrl(it);
+  const isFree = it.price && /free|^\$?0\b/i.test(it.price);
   if(tUrl){
+    const label = it.price ? `<b>${it.price}</b> · Buy ticket` : "Buy ticket";
     const acts = el("div","acts");
-    acts.appendChild(btn(tUrl,"tix","Buy ticket"));
+    acts.appendChild(btn(tUrl,"tix"+(isFree?" free":""),label));
     c.appendChild(acts);
+  } else if(it.price){
+    c.appendChild(el("div","price"+(isFree?" free":""),it.price));
   }
   return c;
 }
