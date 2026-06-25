@@ -27,7 +27,8 @@ the Thu–Sun Jun 25–28 2026 weekend lives under `2026-06-22.*`.
   "location": "San Francisco & Bay Area",
   "tracks": {
     "music":  [ { "id", "track", "category", "name", "day", "time",
-                  "area", "venue", "price", "tags": [], "link" } ],
+                  "area", "venue", "price", "tags": [], "link",
+                  "tickets", "maps": { "google", "apple" }, "active" } ],
     "sports": [ ... ]
   }
 }
@@ -35,6 +36,11 @@ the Thu–Sun Jun 25–28 2026 weekend lives under `2026-06-22.*`.
 
 `id` is stable across re-runs of the same week (derived from the event's fields),
 so the site can track the same event over time.
+
+`tickets` (buy-tickets URL) and `maps` (`{google, apple}` Maps search links) are
+**JSON-only on purpose** — the site does not render them; they're there for a
+client to open the right Maps app per phone. `active: false` marks a "carried
+over" event kept from a prior scan (see Updating).
 
 ## Updating
 
