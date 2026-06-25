@@ -1,4 +1,4 @@
-# Party Scout — data + site
+# Party Scout FS
 
 Public weekly database of SF / Bay Area events (music + sports), one report per
 week. Powers a small GitHub Pages site that reads the JSON straight from `data/`.
