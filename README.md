@@ -3,6 +3,8 @@
 Public weekly database of SF / Bay Area events (music + sports), one report per
 week. Powers a small GitHub Pages site that reads the JSON straight from `data/`.
 
+**🌐 Live site: https://vasyaod.github.io/party-scout-fs/**
+
 ## Layout
 
 ```
@@ -55,5 +57,6 @@ python generate.py weeks/<week>.input.json --repo /path/to/party-scout-fs
 
 ## Site
 
-GitHub Pages serves from the repo root. Open the Pages URL, pick a week from the
-dropdown, browse events grouped by track. Each card links out where a link exists.
+GitHub Pages serves from the repo root. Live at
+**https://vasyaod.github.io/party-scout-fs/** — pick a week from the dropdown,
+browse events grouped by track. Each card links out where a link exists.
