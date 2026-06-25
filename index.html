@@ -30,7 +30,8 @@
     border-radius:999px;padding:2px 9px}
   .grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(260px,1fr));gap:12px}
   .card{background:var(--panel);border:1px solid var(--line);border-radius:14px;
-    padding:13px 14px;position:relative;overflow:hidden}
+    padding:13px 14px;position:relative;overflow:hidden;
+    display:flex;flex-direction:column}
   .card::before{content:"";position:absolute;left:0;top:0;bottom:0;width:4px}
   .music .card::before{background:var(--music)}
   .sports .card::before{background:var(--sports)}
@@ -38,7 +39,8 @@
   .card.inactive::before{filter:grayscale(.7) brightness(.7)}
   .carried{display:inline-block;margin-top:7px;font-size:11px;color:var(--muted);
     border:1px dashed var(--line);border-radius:8px;padding:1px 8px}
-  .acts{display:flex;gap:8px;margin-top:11px;flex-wrap:wrap}
+  .acts{display:flex;gap:8px;margin-top:auto;padding-top:12px;flex-wrap:wrap;
+    align-self:flex-start}
   .btn{font-size:12px;font-weight:600;text-decoration:none;color:#cdc3f5;
     background:var(--panel2);border:1px solid var(--line);border-radius:9px;
     padding:4px 11px;transition:border-color .12s,color .12s,transform .08s}
@@ -53,11 +55,11 @@
   .name{font-weight:650;margin:3px 0 6px;line-height:1.25}
   .name a{color:var(--ink);text-decoration:none;border-bottom:1px dotted var(--muted)}
   .when{font-size:14px;color:#d7cffb}
-  .price{display:inline-block;margin-top:7px;font-size:12px;font-weight:650;
-    color:#9affd0;background:#10331f;border:1px solid #1f6e45;border-radius:8px;
-    padding:1px 8px}
+  .price{align-self:flex-start;margin-top:auto;padding-top:0;font-size:12px;
+    font-weight:650;color:#9affd0;background:#10331f;border:1px solid #1f6e45;
+    border-radius:8px;padding:1px 8px}
   .price.free{color:#ffe27a;background:#33301a;border-color:#5a4d1f}
-  .where{font-size:13px;color:var(--muted);margin-top:2px;display:inline-block}
+  .where{font-size:13px;color:var(--muted);margin-top:2px;align-self:flex-start}
   a.where{text-decoration:none}
   a.where:hover{color:#cdc3f5;text-decoration:underline}
   a.where .om{color:var(--accent);opacity:.85}
