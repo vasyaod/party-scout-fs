@@ -24,6 +24,10 @@ Add a city by: scanning its weeks into `weeks/<slug>/<week>.input.json` (with `c
 follows ALL the rules below (per-week, per-track). Week files are still Monday-dated
 within each city.
 
+On the site, default city selection should be: hash deep-link -> saved city choice ->
+browser geolocation if the user already granted it -> IP-based geolocation fallback
+-> San Francisco.
+
 ## Data integrity
 
 1. **Verify every event.** Each event must tie to a concrete source (ticket /
