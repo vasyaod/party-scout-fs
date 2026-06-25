@@ -13,7 +13,7 @@ List of all weeks, newest first. The site reads this to build the week dropdown.
     {
       "week_start": "2026-06-22",
       "window": "2026-06-25..2026-06-28",
-      "title": "SF Pride weekend (stacked)",
+      "title": "SF Pride weekend",
       "counts": { "music": 19, "sports": 10 }
     }
   ]
@@ -29,7 +29,7 @@ Jun 25–28 2026 weekend → `2026-06-22.json`).
 {
   "week_start": "2026-06-22",
   "window": "2026-06-25..2026-06-28",
-  "title": "SF Pride weekend (stacked)",
+  "title": "SF Pride weekend",
   "location": "San Francisco & Bay Area",
   "generated_at": "2026-06-25",
   "tracks": {
@@ -43,7 +43,7 @@ Jun 25–28 2026 weekend → `2026-06-22.json`).
 |-------|------|-------|
 | `week_start` | string `YYYY-MM-DD` | Monday of the week (ISO). Names the file. |
 | `window` | string | Inclusive day window, `YYYY-MM-DD..YYYY-MM-DD`. |
-| `title` | string | Human label for the week. |
+| `title` | string | Short **3–4 word** label for the week (e.g. `"SF Pride weekend"`). Required; no parentheticals. Shown in the site week picker. See REQUIREMENTS rule 3a. |
 | `location` | string | Default `"San Francisco & Bay Area"`. |
 | `generated_at` | string `YYYY-MM-DD` | When the report was built. |
 | `tracks.music` / `tracks.sports` | array&lt;event&gt; | The two ranked tracks. |
@@ -90,7 +90,7 @@ Jun 25–28 2026 weekend → `2026-06-22.json`).
 | `area` | string | City/neighborhood, e.g. `SF`, `Oakland`, `Sacramento`. |
 | `venue` | string | Venue name; `""` if unknown. |
 | `address` | string | Exact street address (city/state) when known → precise Maps pin. |
-| `why` | string | Short "why go" one-liner (≤ ~12 words) — the quick pitch, shown on the card. |
+| `why` | string | **Differentiator** one-liner (~8–16 words) — the reason to pick THIS event over others that weekend; never restates the lineup/title/process (that's `summary`). Shown on the card. See REQUIREMENTS rule 18. |
 | `summary` | string | 1–2 sentence event summary, AI-written from the event's actual page (read via an ephemeral remote-browser session). |
 | `price` | string | Lowest/GA price `"$NN"`, a range `"$NN–MM"`, or `"Free"`. `""` if unobtainable (never guessed). |
 | `tags` | array&lt;string&gt; | Genre/vibe tags (house, techno, free, outdoor, rooftop, pride, daytime…). Powers the tag cloud + filter. |

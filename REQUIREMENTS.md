@@ -19,6 +19,11 @@ generates or edits the data must honor these. (Field shapes live in
    and merge it there — **create the week file if it doesn't exist yet.** Never dump
    an event into the current week regardless of date; one organizer's events can land
    in different weeks, so split them by date.
+3a. **Every week has a short `title` (3–4 words).** Each week's `title` is a tight
+   3–4-word label capturing the weekend's character (e.g. `"SF Pride weekend"`,
+   `"July 4th weekend"`). No parentheticals or trailing qualifiers like
+   `"(stacked)"` / `"(open-air + block parties)"` — keep it punchy. It shows in the
+   site's week picker (`window · N events · title`), so it must stay scannable.
 
 ## Volume
 
