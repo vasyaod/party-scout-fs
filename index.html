@@ -349,20 +349,27 @@ async function loadWeek(ws){
   focusEid(parseHash().eid);   // honor #/<week>/<eid> after the week loads
 }
 
-// Default week when no #/<week> anchor is given: the week whose Mon–Sun span
-// contains today (the "current week"). Falls back to the most recent past week,
-// else the first listed. week_start values are Mondays.
+// Default week when no #/<week> anchor is given: ALWAYS the current week — the one
+// whose Mon–Sun span contains today. Past and future weeks may both exist, but the
+// default is current. If today is inside no listed week (gap), pick the NEAREST week
+// by date, preferring an upcoming one over a past one. week_start values are Mondays.
 function currentWeekStart(wks){
   const now = new Date();
   const t = new Date(now.getFullYear(), now.getMonth(), now.getDate());
-  let past = null;
+  const DAY = 86400000;
+  let best = null;
   for(const ws of wks){
     const [y,m,d] = ws.split("-").map(Number);
     const s = new Date(y, m-1, d), e = new Date(y, m-1, d+7);
-    if(t>=s && t<e) return ws;                       // today is inside this week
-    if(t>=s && (!past || s>past.s)) past = {ws, s};   // latest week already started
+    if(t>=s && t<e) return ws;                        // today is inside this week → current
+    // distance in days from today to this week's span (0 if inside, handled above)
+    const dist = t<s ? (s-t)/DAY : (t-e)/DAY + 1;
+    const future = t < s;
+    // nearest wins; tie → prefer upcoming
+    if(!best || dist<best.dist || (dist===best.dist && future && !best.future))
+      best = {ws, dist, future};
   }
-  return past ? past.ws : (wks[0] || null);
+  return best ? best.ws : (wks[0] || null);
 }
 
 async function init(){
