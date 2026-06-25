@@ -4,6 +4,12 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Party Scout — SF / Bay Area weekly</title>
+<link rel="icon" href="favicon.ico" sizes="any">
+<link rel="icon" type="image/png" href="favicon-32.png" sizes="32x32">
+<link rel="apple-touch-icon" href="apple-touch-icon.png">
+<meta property="og:title" content="Party Scout — SF / Bay Area weekly">
+<meta property="og:image" content="logo.png">
+<meta name="theme-color" content="#0c0a14">
 <style>
   :root{
     --bg:#0c0a14; --panel:#161226; --panel2:#1d1834; --ink:#f3eefe;
@@ -15,6 +21,8 @@
     background:radial-gradient(1200px 600px at 70% -10%,#241a4d 0%,var(--bg) 60%);
     color:var(--ink);min-height:100vh}
   header{padding:28px 20px 10px;max-width:920px;margin:0 auto}
+  .brand{display:flex;align-items:center;gap:14px}
+  .logo{border-radius:50%;box-shadow:0 0 22px rgba(124,92,255,.45);flex:none}
   h1{margin:0;font-size:26px;letter-spacing:.3px}
   h1 .spark{background:linear-gradient(90deg,var(--music),var(--accent),var(--sports));
     -webkit-background-clip:text;background-clip:text;color:transparent}
@@ -95,8 +103,13 @@
 </head>
 <body>
 <header>
-  <h1>🪩 <span class="spark">Party Scout</span></h1>
-  <div class="sub">Weekly SF &amp; Bay Area events digest — music + sports, ranked.</div>
+  <div class="brand">
+    <img class="logo" src="logo.png" alt="Party Scout" width="56" height="56">
+    <div>
+      <h1><span class="spark">Party Scout</span></h1>
+      <div class="sub">Weekly SF &amp; Bay Area events digest — music + sports, ranked.</div>
+    </div>
+  </div>
 </header>
 <main>
   <div class="controls">
