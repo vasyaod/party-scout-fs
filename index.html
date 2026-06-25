@@ -107,13 +107,9 @@ const el = (t,c,h)=>{const e=document.createElement(t);if(c)e.className=c;if(h!=
 const APPLE = /iPhone|iPad|iPod|Macintosh|Mac OS X/i.test(
   (navigator.platform||"")+" "+(navigator.userAgent||""));
 function mapsUrl(m){ if(!m) return ""; return APPLE ? (m.apple||m.google) : (m.google||m.apple); }
-// Buy-tickets target: direct tickets URL > listing link > a tickets web search.
-function ticketsUrl(it){
-  if(it.tickets) return it.tickets;
-  if(it.link) return it.link;
-  const q = encodeURIComponent([it.name, it.area, "tickets"].filter(Boolean).join(" "));
-  return "https://www.google.com/search?q="+q;
-}
+// Buy-tickets target: direct ticketer URL > event listing link. NEVER a search
+// engine — only send to the actual ticket seller/listing. Empty -> no button.
+function ticketsUrl(it){ return it.tickets || it.link || ""; }
 function btn(href,cls,label){
   const a = el("a","btn"+(cls?" "+cls:""),label);
   a.href=href; a.target="_blank"; a.rel="noopener";
@@ -143,11 +139,13 @@ function card(it){
     c.appendChild(wrap);
   }
   if(it.active===false) c.appendChild(el("div","carried","↩︎ carried over — not in latest scan"));
-  const mUrl = mapsUrl(it.maps);
-  const acts = el("div","acts");
-  if(mUrl) acts.appendChild(btn(mUrl,"","Map"));
-  acts.appendChild(btn(ticketsUrl(it),"tix","Buy ticket"));
-  c.appendChild(acts);
+  const mUrl = mapsUrl(it.maps), tUrl = ticketsUrl(it);
+  if(mUrl || tUrl){
+    const acts = el("div","acts");
+    if(mUrl) acts.appendChild(btn(mUrl,"","Map"));
+    if(tUrl) acts.appendChild(btn(tUrl,"tix","Buy ticket"));
+    c.appendChild(acts);
+  }
   return c;
 }
 
