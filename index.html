@@ -19,7 +19,7 @@
   *{box-sizing:border-box}
   body{margin:0;font:16px/1.5 system-ui,-apple-system,Segoe UI,Roboto,sans-serif;
     background:radial-gradient(1200px 600px at 70% -10%,#241a4d 0%,var(--bg) 60%);
-    color:var(--ink);min-height:100vh}
+    color:var(--ink);min-height:100vh;overflow-x:hidden}
   header{padding:28px 20px 10px;max-width:920px;margin:0 auto}
   .brand{display:flex;align-items:center;gap:14px}
   .logo{border-radius:50%;box-shadow:0 0 22px rgba(124,92,255,.45);flex:none}
@@ -30,7 +30,8 @@
   main{max-width:920px;margin:0 auto;padding:8px 20px 60px}
   .controls{display:flex;gap:10px;align-items:center;flex-wrap:wrap;margin:14px 0 6px}
   select{background:var(--panel2);color:var(--ink);border:1px solid var(--line);
-    border-radius:10px;padding:9px 12px;font-size:15px}
+    border-radius:10px;padding:9px 12px;font-size:15px;
+    min-width:0;max-width:100%}
   .meta{color:var(--muted);font-size:14px}
   .track{margin-top:26px}
   .track h2{display:flex;align-items:center;gap:10px;font-size:18px;margin:0 0 12px}
