@@ -18,3 +18,10 @@ folder is the **original + SVG + extra-resolution cache** to pull from whenever 
 different size is needed. Regenerate the downscales from `original.png` with PIL
 (`Image.resize(..., LANCZOS)`). Keep the neon-purple `#7c5cff`/`#c86bff` palette and a
 transparent background when adding a new city's emblem.
+
+## Mascot
+
+`icons/owl/` — the Party Scout owl badge:
+- `original.png` — the source raster mascot (512×512).
+- `owl.svg` — a **true vector** trace of it (via vtracer, multi-color). Scales
+  infinitely; the soft outer glow of the raster is flattened. ~460 KB.
