@@ -271,10 +271,10 @@ function render(){
   const root = el("div");
   TRACKS.forEach(t=>{
     let items = ((week.tracks&&week.tracks[t.key])||[]).slice().sort((a,b)=>
-      ((a.active===false)-(b.active===false)) ||
-      ((DAY_ORDER[a.day]??9)-(DAY_ORDER[b.day]??9)) ||
-      ((b.popularity||0)-(a.popularity||0)) ||
-      (((b.ra&&b.ra.interested)||0)-((a.ra&&a.ra.interested)||0)));
+      ((a.active===false)-(b.active===false)) ||           // carried-over events sink
+      ((b.popularity||0)-(a.popularity||0)) ||             // highest popularity on top
+      (((b.ra&&b.ra.interested)||0)-((a.ra&&a.ra.interested)||0)) ||
+      ((DAY_ORDER[a.day]??9)-(DAY_ORDER[b.day]??9)));       // then chronological by day
     if(state.tag) items = items.filter(it=>(it.tags||[]).includes(state.tag));
     if(!items.length) return;
     const sec = el("section","track "+t.key);
