@@ -61,6 +61,7 @@ Jun 25–28 2026 weekend → `2026-06-22.json`).
   "area": "SF",
   "venue": "The Pearl",
   "address": "601 19th St, San Francisco, CA 94107",
+  "why": "Soulful-house heavyweights at sunset on The Pearl rooftop",
   "price": "$71",
   "tags": ["sunset", "outdoor", "house", "deep-house", "disco-house", "soulful"],
   "link": "https://ra.co/events/2463690",
@@ -86,6 +87,7 @@ Jun 25–28 2026 weekend → `2026-06-22.json`).
 | `area` | string | City/neighborhood, e.g. `SF`, `Oakland`, `Sacramento`. |
 | `venue` | string | Venue name; `""` if unknown. |
 | `address` | string | Exact street address (city/state) when known → precise Maps pin. |
+| `why` | string | Short "why go" one-liner (≤ ~12 words) — the quick pitch, shown on the card. |
 | `price` | string | Lowest/GA price `"$NN"`, a range `"$NN–MM"`, or `"Free"`. `""` if unobtainable (never guessed). |
 | `tags` | array&lt;string&gt; | Genre/vibe tags (house, techno, free, outdoor, rooftop, pride, daytime…). Powers the tag cloud + filter. |
 | `link` | string | **Event website / info page** → the card's **Open** button. Auto-filled from RA/ticketer page when not explicit. |

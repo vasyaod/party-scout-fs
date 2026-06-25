@@ -70,6 +70,8 @@
   .name{font-weight:650;margin:3px 0 6px;line-height:1.25}
   .name a{color:var(--ink);text-decoration:none;border-bottom:1px dotted var(--muted)}
   .when{font-size:14px;color:#d7cffb}
+  .why{font-size:12.5px;font-style:italic;color:#b9aee8;margin-top:8px;
+    padding-left:9px;border-left:2px solid var(--accent);line-height:1.4}
   .price{align-self:flex-start;margin-top:11px;font-size:12px;
     font-weight:650;color:#9affd0;background:#10331f;border:1px solid #1f6e45;
     border-radius:8px;padding:1px 8px}
@@ -170,6 +172,7 @@ function card(it){
     }
     c.appendChild(d);
   }
+  if(it.why) c.appendChild(el("div","why",it.why));
   // Footer (tags + carried note + price/Buy-ticket) is pinned to the bottom of the
   // card so tags AND buttons line up across a row regardless of title/where height.
   const foot = el("div","foot");
