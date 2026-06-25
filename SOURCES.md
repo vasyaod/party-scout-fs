@@ -26,10 +26,37 @@ web_fetch/HTTP, `GQL` = `ra.co/graphql`, `JSON-LD` = schema.org in the page,
 | **SF Bike Coalition** | https://sfbike.org | L | Sports (cycling) | web_search | Group rides, Critical Mass. |
 | **RunGuides / RunningInTheUSA** | https://runguides.com · https://runningintheusa.com | L | Sports (running) | web_search | Race calendars. |
 | **Strava clubs** | https://www.strava.com/clubs | L | Sports | web_search | Local moto/cycling/run clubs. |
+| **Instagram organizers** | (handle list below) | L | Music / Immersive | `ig` | `instagram/ig_events.py` → bio + external link per handle (post feed is empty now). Events live on the linked linktr.ee/site → fetch + AI-parse. See handle list below. |
 
 **Price-source order** (cheapest → heaviest): **19hz column → RA GraphQL → Eventbrite
 JSON-LD → `common`-session render** (Tixr/AXS/RA-HTML/venue). Free/outdoor/park → `Free`;
 leave blank only if genuinely unobtainable — never guess a number.
+
+## Instagram organizer handles (parse periodically)
+
+Curated SF event organizers we **periodically parse from Instagram** each scan, via
+`instagram/ig_events.py` (uses the authenticated `instagram` session). IG's post feed
+comes back empty, so the chain is: **handle → profile (bio + external link) → fetch
+that linktr.ee/site → AI-parse the events** (date, venue, price, ticket link). Mostly
+immersive / sound-bath / sunset-popup / experiential — a different lane than the
+19hz rave listings, so they fill a gap the other sources miss.
+
+| Handle | Who | External link |
+|--------|-----|---------------|
+| `@soundmeditationpresents` | Sound baths / sound-healing symphonies (Grace Cathedral, etc.) | linktr.ee/thesoundbath |
+| `@audiumsf` | Audium Theater — 176-speaker spatial-sound immersive shows | linktr.ee/audiumsf |
+| `@gracecathedral` | Grace Cathedral event series (TILT, labyrinth, concerts) | linktr.ee/gracecathedral |
+| `@honey_gold_experience` | Honey Gold — immersive music/voice/video-mapping theater | honeygoldexperience.com |
+| `@curious.connie` | SF gathering intel — sunset DJ sets, tea-house & waterfront pop-ups | substack (curious0connie) |
+| `@fromdust.sounds` | From Dust / Feels in the Club — emotional dance music DJ | linktr.ee/fromdust |
+
+```bash
+python3 instagram/ig_events.py                       # all SEED_HANDLES
+python3 instagram/ig_events.py soundmeditationpresents audiumsf   # specific handles
+```
+
+> Extend this list as new organizers surface (and mirror them into `ig_events.py`
+> `SEED_HANDLES`). Drop a handle if it goes quiet / stops posting datable events.
 
 > Keep this table current: when a site changes, dies, or a new ticketer shows up in
 > the listings, update this file. It is the authoritative list everything else cites.
