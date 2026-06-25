@@ -53,6 +53,7 @@ Jun 25–28 2026 weekend → `2026-06-22.json`).
 ```json
 {
   "id": "2026-06-22-music-dayfall-karizma-colette-mr-v-7d2a1c",
+  "eid": "dayfall-karizma-colette-mr-v-7d2a",
   "track": "music",
   "category": "House",
   "name": "DAYFALL: Karizma, Colette, Mr. V",
@@ -62,6 +63,7 @@ Jun 25–28 2026 weekend → `2026-06-22.json`).
   "venue": "The Pearl",
   "address": "601 19th St, San Francisco, CA 94107",
   "why": "Soulful-house heavyweights at sunset on The Pearl rooftop",
+  "summary": "DAYFALL brings deep/soulful-house veterans Karizma, Colette and Mr. V to The Pearl's rooftop for a sunset session bridging day and night.",
   "price": "$71",
   "tags": ["sunset", "outdoor", "house", "deep-house", "disco-house", "soulful"],
   "link": "https://ra.co/events/2463690",
@@ -78,7 +80,8 @@ Jun 25–28 2026 weekend → `2026-06-22.json`).
 
 | Field | Type | Notes |
 |-------|------|-------|
-| `id` | string | **Stable** per event/week — derived from week + track + name/day/area/venue. Survives re-runs so the same event can be tracked over time. |
+| `id` | string | **Stable** per event/week — derived from week + track + name/day/area/venue. Used for **MERGE** matching; survives re-runs so the same event is tracked over time. |
+| `eid` | string | Short, URL-safe, week-unique **selection id** (e.g. `kaskade-90bf`). For UI deep-linking only — the card's DOM id and the `/#<eid>` anchor. **Not** used for merging. |
 | `track` | string | `"music"` or `"sports"`. |
 | `category` | string | Sub-genre/type label, e.g. `House`, `Moto`. |
 | `name` | string | Event name (shown as the card title; not a link). |
@@ -88,6 +91,7 @@ Jun 25–28 2026 weekend → `2026-06-22.json`).
 | `venue` | string | Venue name; `""` if unknown. |
 | `address` | string | Exact street address (city/state) when known → precise Maps pin. |
 | `why` | string | Short "why go" one-liner (≤ ~12 words) — the quick pitch, shown on the card. |
+| `summary` | string | 1–2 sentence event summary, AI-written from the event's actual page (read via an ephemeral remote-browser session). |
 | `price` | string | Lowest/GA price `"$NN"`, a range `"$NN–MM"`, or `"Free"`. `""` if unobtainable (never guessed). |
 | `tags` | array&lt;string&gt; | Genre/vibe tags (house, techno, free, outdoor, rooftop, pride, daytime…). Powers the tag cloud + filter. |
 | `link` | string | **Event website / info page** → the card's **Open** button. Auto-filled from RA/ticketer page when not explicit. |

@@ -48,6 +48,12 @@
   .card::before{content:"";position:absolute;left:0;top:0;bottom:0;width:4px}
   .music .card::before{background:var(--music)}
   .sports .card::before{background:var(--sports)}
+  .card .anchor{position:absolute;top:7px;right:11px;color:var(--muted);
+    text-decoration:none;font-size:14px;font-weight:700;opacity:0;transition:opacity .12s,color .12s}
+  .card:hover .anchor{opacity:.55}
+  .card .anchor:hover{color:var(--accent);opacity:1}
+  .card.focused{outline:2px solid var(--accent);outline-offset:0;
+    box-shadow:0 0 0 4px rgba(124,92,255,.28),0 0 22px rgba(124,92,255,.35)}
   .card.inactive{opacity:.6}
   .card.inactive::before{filter:grayscale(.7) brightness(.7)}
   .carried{display:inline-block;margin-top:7px;font-size:11px;color:var(--muted);
@@ -155,6 +161,12 @@ async function getJSON(u){const r=await fetch(u,{cache:"no-store"});if(!r.ok)thr
 
 function card(it){
   const c = el("div","card"+(it.active===false?" inactive":""));
+  if(it.eid){
+    c.id = it.eid;            // anchor target for deep-link /#<eid>
+    const a = el("a","anchor","#");
+    a.href = "#"+it.eid; a.title = "Link to this event";
+    c.appendChild(a);
+  }
   if(it.category) c.appendChild(el("div","cat",it.category));
   c.appendChild(el("div","name",it.name));
   const when = [it.day,it.time].filter(Boolean).join(" · ");
@@ -285,7 +297,27 @@ function render(){
     state.tag?`No “${state.tag}” events this week.`:"No events for this week."));
   const out = document.getElementById("report");
   out.innerHTML=""; out.appendChild(root);
+  focusHash();
 }
+
+// Deep-link: /#<eid> reveals (past Show more) + scrolls to + highlights that card.
+function focusHash(){
+  const id = decodeURIComponent((location.hash||"").slice(1));
+  if(!id) return;
+  const card = document.getElementById(id);
+  if(!card) return;
+  if(card.classList.contains("more-hidden")){
+    const sec = card.closest("section.track");
+    if(sec){
+      sec.querySelectorAll(".more-hidden").forEach(c=>c.classList.remove("more-hidden"));
+      const btn = sec.querySelector(".showmore"); if(btn) btn.remove();
+    }
+  }
+  card.scrollIntoView({behavior:"smooth", block:"center"});
+  card.classList.add("focused");
+  setTimeout(()=>card.classList.remove("focused"), 2600);
+}
+window.addEventListener("hashchange", focusHash);
 
 async function loadWeek(ws){
   const week = await getJSON(`data/${ws}.json`);
