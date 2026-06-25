@@ -251,7 +251,10 @@ function render(){
   buildCloud(week);
   const root = el("div");
   TRACKS.forEach(t=>{
-    let items = (week.tracks&&week.tracks[t.key])||[];
+    let items = ((week.tracks&&week.tracks[t.key])||[]).slice().sort((a,b)=>
+      ((a.active===false)-(b.active===false)) ||
+      ((b.popularity||0)-(a.popularity||0)) ||
+      (((b.ra&&b.ra.interested)||0)-((a.ra&&a.ra.interested)||0)));
     if(state.tag) items = items.filter(it=>(it.tags||[]).includes(state.tag));
     if(!items.length) return;
     const sec = el("section","track "+t.key);
