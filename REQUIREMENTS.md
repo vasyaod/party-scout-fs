@@ -60,3 +60,12 @@ generates or edits the data must honor these. (Field shapes live in
 15. Data is **generated**, not hand-edited. The generator + reusable enrichment
     (RA ratings, per-event research) live in `party-scout-code`. Read SOURCES.md,
     MODEL.md, and this file before changing the data.
+
+## Enrichment (AI / subagents)
+
+16. **Resolve fields intelligently with AI subagents.** Don't ship whatever the raw
+    scan emits — fan out per-event research agents (parallel) to verify each event is
+    real and resolve its fields (venue, exact address, price, ticket URL, event
+    website, tags, RA rating). New events and any sparse/unverified ones get this
+    pass; unverifiable events are dropped (rule 1). This is how the data reaches the
+    quality the rest of these rules assume.
