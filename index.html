@@ -349,6 +349,22 @@ async function loadWeek(ws){
   focusEid(parseHash().eid);   // honor #/<week>/<eid> after the week loads
 }
 
+// Default week when no #/<week> anchor is given: the week whose Mon–Sun span
+// contains today (the "current week"). Falls back to the most recent past week,
+// else the first listed. week_start values are Mondays.
+function currentWeekStart(wks){
+  const now = new Date();
+  const t = new Date(now.getFullYear(), now.getMonth(), now.getDate());
+  let past = null;
+  for(const ws of wks){
+    const [y,m,d] = ws.split("-").map(Number);
+    const s = new Date(y, m-1, d), e = new Date(y, m-1, d+7);
+    if(t>=s && t<e) return ws;                       // today is inside this week
+    if(t>=s && (!past || s>past.s)) past = {ws, s};   // latest week already started
+  }
+  return past ? past.ws : (wks[0] || null);
+}
+
 async function init(){
   try{
     const idx = await getJSON("data/index.json");
@@ -363,7 +379,8 @@ async function init(){
     if(idx.weeks.length){
       const wks = idx.weeks.map(w=>w.week_start);
       const hw = parseHash().week;
-      const start = (hw && wks.includes(hw)) ? hw : idx.weeks[0].week_start;
+      const start = (hw && wks.includes(hw)) ? hw
+                  : (currentWeekStart(wks) || idx.weeks[0].week_start);
       sel.value = start;
       await loadWeek(start);   // loadWeek focuses the eid from the hash
     } else document.getElementById("report").appendChild(el("div","empty","No weeks yet."));
