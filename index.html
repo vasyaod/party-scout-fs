@@ -301,12 +301,12 @@ function render(){
   out.innerHTML=""; out.appendChild(root);
 }
 
-// Hash format: #/<week_start>/<eid>  (legacy bare #<eid> still works).
+// Hash format: #/<week_start>/<eid>
 function parseHash(){
   const h = decodeURIComponent((location.hash||"").replace(/^#\/?/,"")).trim();
   if(!h) return {};
   const p = h.split("/").filter(Boolean);
-  return p.length>=2 ? {week:p[0], eid:p.slice(1).join("/")} : {eid:p[0]};
+  return p.length>=2 ? {week:p[0], eid:p.slice(1).join("/")} : {};
 }
 function focusEid(eid){
   if(!eid) return;

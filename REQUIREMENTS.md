@@ -97,5 +97,4 @@ generates or edits the data must honor these. (Field shapes live in
 21. **Deep-link to a card via `#/<week_start>/<eid>`.** The hash carries both the
     week and the event, e.g. `…/#/2026-06-22/kaskade-90bf` — the site loads that
     week, then reveals (past Show more), scrolls to, and highlights the event. A
-    per-card `#` anchor copies that link. (Bare `#<eid>` still works within the
-    loaded week.)
+    per-card `#` anchor copies that link.
