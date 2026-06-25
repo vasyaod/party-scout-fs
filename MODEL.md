@@ -70,6 +70,7 @@ Jun 25–28 2026 weekend → `2026-06-22.json`).
     "apple":  "https://maps.apple.com/?q=The+Pearl%2C+601+19th+St..."
   },
   "ra": { "event_id": "2463690", "url": "https://ra.co/events/2463690", "interested": 1, "attending": 1 },
+  "popularity": 7,
   "active": true
 }
 ```
@@ -91,6 +92,7 @@ Jun 25–28 2026 weekend → `2026-06-22.json`).
 | `tickets` | string | Direct **ticket seller** URL (RA/Tixr/Eventbrite/Etix/Ticketmaster/AXS/…) → **Buy ticket** button. Never a search engine. |
 | `maps` | object | `{ "google", "apple" }` Maps URLs (from `address` › known-venue table › `venue, area`). Client opens the right app per device. |
 | `ra` | object | Resident Advisor rating: `{ event_id, url, interested, attending }`. `{}` when the event isn't on RA. Popularity signal. |
+| `popularity` | integer 0–10 | **Hidden** heuristic popularity/hype score (NOT shown on the site) — a ranking signal. Blended from RA interest count, headliner/marquee fame, festival/block-party scale, and price tier. |
 | `active` | boolean | `true` if present in the latest scan; `false` = "carried over" (kept from a prior scan, dimmed on the site). Never deleted. |
 
 ### Link rules (summary — see REQUIREMENTS.md)

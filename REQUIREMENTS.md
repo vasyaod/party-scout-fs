@@ -73,3 +73,8 @@ generates or edits the data must honor these. (Field shapes live in
     website, tags, RA rating). New events and any sparse/unverified ones get this
     pass; unverifiable events are dropped (rule 1). This is how the data reaches the
     quality the rest of these rules assume.
+17. **Score hidden popularity (0–10).** Every event gets a `popularity` integer
+    (0–10) — a **hidden** ranking signal, never shown on the site. Fill it
+    heuristically from real characteristics: RA interest count, headliner / marquee
+    fame (≈ Google-Trends-level recognition), festival/block-party scale, price tier.
+    It's a rough nudge for ordering, not a displayed rating.
