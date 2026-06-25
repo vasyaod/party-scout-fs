@@ -7,6 +7,7 @@ week. Powers a small GitHub Pages site that reads the JSON straight from `data/`
 
 ```
 index.html        GitHub Pages app (vanilla JS, reads data/*.json)
+SOURCES.md        master list of sites we pull listings + prices from (canonical)
 .nojekyll         serve files as-is (no Jekyll processing)
 data/
   index.json      list of all weeks, newest first
