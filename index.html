@@ -34,6 +34,10 @@
   .card::before{content:"";position:absolute;left:0;top:0;bottom:0;width:4px}
   .music .card::before{background:var(--music)}
   .sports .card::before{background:var(--sports)}
+  .card.inactive{opacity:.6}
+  .card.inactive::before{filter:grayscale(.7) brightness(.7)}
+  .carried{display:inline-block;margin-top:7px;font-size:11px;color:var(--muted);
+    border:1px dashed var(--line);border-radius:8px;padding:1px 8px}
   .cat{font-size:11px;text-transform:uppercase;letter-spacing:.6px;color:var(--muted)}
   .name{font-weight:650;margin:3px 0 6px;line-height:1.25}
   .name a{color:var(--ink);text-decoration:none;border-bottom:1px dotted var(--muted)}
@@ -95,7 +99,7 @@ const el = (t,c,h)=>{const e=document.createElement(t);if(c)e.className=c;if(h!=
 async function getJSON(u){const r=await fetch(u,{cache:"no-store"});if(!r.ok)throw new Error(u+" "+r.status);return r.json();}
 
 function card(it){
-  const c = el("div","card");
+  const c = el("div","card"+(it.active===false?" inactive":""));
   if(it.category) c.appendChild(el("div","cat",it.category));
   const name = it.link
     ? `<a href="${it.link}" target="_blank" rel="noopener">${it.name}</a>` : it.name;
@@ -114,6 +118,7 @@ function card(it){
     it.tags.forEach(t=>wrap.appendChild(el("span","tag "+t,t)));
     c.appendChild(wrap);
   }
+  if(it.active===false) c.appendChild(el("div","carried","↩︎ carried over — not in latest scan"));
   return c;
 }
 
