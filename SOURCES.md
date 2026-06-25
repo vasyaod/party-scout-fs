@@ -6,6 +6,14 @@ prices** from. Read this list from here — it lives in the `party-scout-fs` rep
 (`party-scout-code`) and the scan spec (`party/README.md`) point here rather than
 keeping their own copy.
 
+**Per-city.** The table below is the **San Francisco** source set. Each city uses the
+same *kinds* of sources at its own URLs — for **Los Angeles** (`los-angeles`):
+19hz LA `https://19hz.info/eventlisting_LosAngeles.php` (anchor) · RA LA
+`ra.co/events/us/losangeles` · EDMtrain `edmtrain.com/los-angeles-ca` · Eventbrite LA ·
+Dice · Funcheap LA `losangeles.funcheap.com` (free/outdoor) · Meetup LA + LA run/cycle
+clubs (sports). Same price-source order and fetch methods. Add a new city's source
+URLs here when you add the city.
+
 Legend — Use: `L` = event listing, `P` = ticket price. Fetch: `HTTP` = plain
 web_fetch/HTTP, `GQL` = `ra.co/graphql`, `JSON-LD` = schema.org in the page,
 `common` = remote-browser `common` session (real Chrome, passes Cloudflare/JS).
