@@ -1128,16 +1128,18 @@
         "time": "5:30pm",
         "area": "SF",
         "venue": "Embarcadero Plaza",
-        "address": "",
+        "address": "1 Market St, San Francisco, CA 94111",
         "price": "Free",
         "tags": [
-          "cycling"
+          "cycling",
+          "group-ride",
+          "free"
         ],
-        "link": "",
+        "link": "https://www.sfcriticalmass.org/",
         "tickets": "",
         "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=Embarcadero+Plaza%2C+Embarcadero+Plaza%2C+San+Francisco%2C+CA",
-          "apple": "https://maps.apple.com/?q=Embarcadero+Plaza%2C+Embarcadero+Plaza%2C+San+Francisco%2C+CA"
+          "google": "https://www.google.com/maps/search/?api=1&query=Embarcadero+Plaza%2C+1+Market+St%2C+San+Francisco%2C+CA+94111",
+          "apple": "https://maps.apple.com/?q=Embarcadero+Plaza%2C+1+Market+St%2C+San+Francisco%2C+CA+94111"
         },
         "ra": {},
         "active": true,
@@ -1173,22 +1175,25 @@
         "day": "Sat",
         "time": "9am",
         "area": "SF",
-        "venue": "",
-        "address": "",
+        "venue": "Sunset Dunes Park (Upper Great Hwy)",
+        "address": "1349 Upper Great Hwy, San Francisco, CA 94122",
         "price": "Free",
         "tags": [
           "running",
-          "free"
+          "5k",
+          "free",
+          "parkrun",
+          "weekly"
         ],
-        "link": "",
-        "tickets": "",
+        "link": "https://www.parkrun.us/sunsetdunes/",
+        "tickets": "https://www.parkrun.us/sunsetdunes/",
         "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=Sunset+Dunes+parkrun+5K+%28free%29%2C+SF",
-          "apple": "https://maps.apple.com/?q=Sunset+Dunes+parkrun+5K+%28free%29%2C+SF"
+          "google": "https://www.google.com/maps/search/?api=1&query=Sunset+Dunes+Park+%28Upper+Great+Hwy%29%2C+1349+Upper+Great+Hwy%2C+San+Francisco%2C+CA+94122",
+          "apple": "https://maps.apple.com/?q=Sunset+Dunes+Park+%28Upper+Great+Hwy%29%2C+1349+Upper+Great+Hwy%2C+San+Francisco%2C+CA+94122"
         },
         "ra": {},
         "active": true,
-        "id": "2026-06-22-sports-sunset-dunes-parkrun-5k-free-40b40c"
+        "id": "2026-06-22-sports-sunset-dunes-parkrun-5k-free-2bb27b"
       },
       {
         "track": "sports",
@@ -1197,21 +1202,24 @@
         "day": "Sat",
         "time": "",
         "area": "San Jose",
-        "venue": "Calero Reservoir",
-        "address": "",
-        "price": "",
+        "venue": "Calero County Park",
+        "address": "23205 McKean Rd, San Jose, CA 95120",
+        "price": "$85–95",
         "tags": [
-          "running"
+          "running",
+          "trail",
+          "half-marathon",
+          "marathon"
         ],
-        "link": "",
-        "tickets": "",
+        "link": "https://www.thatdamrace.com/",
+        "tickets": "https://my.raceresult.com/391633/registration",
         "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=Calero+Reservoir%2C+San+Jose",
-          "apple": "https://maps.apple.com/?q=Calero+Reservoir%2C+San+Jose"
+          "google": "https://www.google.com/maps/search/?api=1&query=Calero+County+Park%2C+23205+McKean+Rd%2C+San+Jose%2C+CA+95120",
+          "apple": "https://maps.apple.com/?q=Calero+County+Park%2C+23205+McKean+Rd%2C+San+Jose%2C+CA+95120"
         },
         "ra": {},
         "active": true,
-        "id": "2026-06-22-sports-that-dam-race-calero-reservoir-a1731d"
+        "id": "2026-06-22-sports-that-dam-race-calero-reservoir-673fa5"
       },
       {
         "track": "sports",
@@ -1243,22 +1251,24 @@
         "day": "Sun",
         "time": "",
         "area": "Oakland",
-        "venue": "",
-        "address": "",
-        "price": "",
+        "venue": "Chabot Space & Science Center",
+        "address": "10000 Skyline Blvd, Oakland, CA 94619",
+        "price": "$50–70",
         "tags": [
           "running",
-          "trail"
+          "trail",
+          "10-mile",
+          "oakland-hills"
         ],
-        "link": "",
-        "tickets": "",
+        "link": "https://lmjs.org/woodmonster",
+        "tickets": "https://lmjs.org/event-6670350/Registration",
         "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=Woodmonster+Trail+Race+10M%2C+Oakland",
-          "apple": "https://maps.apple.com/?q=Woodmonster+Trail+Race+10M%2C+Oakland"
+          "google": "https://www.google.com/maps/search/?api=1&query=Chabot+Space+%26+Science+Center%2C+10000+Skyline+Blvd%2C+Oakland%2C+CA+94619",
+          "apple": "https://maps.apple.com/?q=Chabot+Space+%26+Science+Center%2C+10000+Skyline+Blvd%2C+Oakland%2C+CA+94619"
         },
         "ra": {},
         "active": true,
-        "id": "2026-06-22-sports-woodmonster-trail-race-10m-dc61c7"
+        "id": "2026-06-22-sports-woodmonster-trail-race-10m-4c26c5"
       },
       {
         "track": "sports",
@@ -1267,22 +1277,25 @@
         "day": "Sun",
         "time": "",
         "area": "Castro Valley",
-        "venue": "",
-        "address": "",
-        "price": "",
+        "venue": "Lake Chabot Regional Park",
+        "address": "17930 Lake Chabot Rd, Castro Valley, CA 94546",
+        "price": "$59–107",
         "tags": [
           "running",
-          "trail"
+          "trail",
+          "5k",
+          "10k",
+          "half-marathon"
         ],
-        "link": "",
-        "tickets": "",
+        "link": "https://runsignup.com/Race/CA/CastroValley/RochtheLoch",
+        "tickets": "https://runsignup.com/Race/CA/CastroValley/RochtheLoch",
         "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=Rock+the+Loch+%285K%2F10K%2FHalf+trail%29%2C+Castro+Valley",
-          "apple": "https://maps.apple.com/?q=Rock+the+Loch+%285K%2F10K%2FHalf+trail%29%2C+Castro+Valley"
+          "google": "https://www.google.com/maps/search/?api=1&query=Lake+Chabot+Regional+Park%2C+17930+Lake+Chabot+Rd%2C+Castro+Valley%2C+CA+94546",
+          "apple": "https://maps.apple.com/?q=Lake+Chabot+Regional+Park%2C+17930+Lake+Chabot+Rd%2C+Castro+Valley%2C+CA+94546"
         },
         "ra": {},
         "active": true,
-        "id": "2026-06-22-sports-rock-the-loch-5k-10k-half-trail-4d0071"
+        "id": "2026-06-22-sports-rock-the-loch-5k-10k-half-trail-fdc476"
       },
       {
         "track": "sports",
@@ -1306,6 +1319,136 @@
         "ra": {},
         "active": true,
         "id": "2026-06-22-sports-mare-island-half-marathon-e7a3e9"
+      },
+      {
+        "track": "sports",
+        "category": "Running",
+        "name": "SF FrontRunners Pride Run (5K/10K)",
+        "day": "Sat",
+        "time": "9am",
+        "area": "SF",
+        "venue": "Golden Gate Park",
+        "address": "Middle Dr W & Metson Rd, Golden Gate Park, San Francisco, CA 94122",
+        "price": "$60.83",
+        "tags": [
+          "running",
+          "5k",
+          "10k",
+          "pride",
+          "charity"
+        ],
+        "link": "https://www.sffr.org/priderun",
+        "tickets": "https://raceroster.com/events/2026/114403/san-francisco-pride-run-2026",
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=Golden+Gate+Park%2C+Middle+Dr+W+%26+Metson+Rd%2C+Golden+Gate+Park%2C+San+Francisco%2C+CA+94122",
+          "apple": "https://maps.apple.com/?q=Golden+Gate+Park%2C+Middle+Dr+W+%26+Metson+Rd%2C+Golden+Gate+Park%2C+San+Francisco%2C+CA+94122"
+        },
+        "ra": {},
+        "active": true,
+        "id": "2026-06-22-sports-sf-frontrunners-pride-run-5k-10k-59a9cb"
+      },
+      {
+        "track": "sports",
+        "category": "Cycling",
+        "name": "Different Spokes Pride Ride 2026 (Pink Triangle Tour)",
+        "day": "Sat",
+        "time": "9:15am",
+        "area": "SF",
+        "venue": "Marx Meadow, Golden Gate Park",
+        "address": "Marx Meadow, JFK Dr & 25th Ave, San Francisco, CA 94121",
+        "price": "Free",
+        "tags": [
+          "cycling",
+          "group-ride",
+          "pride",
+          "free"
+        ],
+        "link": "https://sfbike.org/event/different-spokes-pride-ride-2026/",
+        "tickets": "https://dssf.org/pride",
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=Marx+Meadow%2C+Golden+Gate+Park%2C+Marx+Meadow%2C+JFK+Dr+%26+25th+Ave%2C+San+Francisco%2C+CA+94121",
+          "apple": "https://maps.apple.com/?q=Marx+Meadow%2C+Golden+Gate+Park%2C+Marx+Meadow%2C+JFK+Dr+%26+25th+Ave%2C+San+Francisco%2C+CA+94121"
+        },
+        "ra": {},
+        "active": true,
+        "id": "2026-06-22-sports-different-spokes-pride-ride-2026-6c9551"
+      },
+      {
+        "track": "sports",
+        "category": "Moto",
+        "name": "Dykes on Bikes Women's Motorcycle Contingent @ SF Pride",
+        "day": "Sun",
+        "time": "arrive 8–10am",
+        "area": "SF",
+        "venue": "Pride Parade staging (Market & Steuart)",
+        "address": "Market St & Steuart St, San Francisco, CA 94105",
+        "price": "Free",
+        "tags": [
+          "moto",
+          "pride",
+          "parade",
+          "free"
+        ],
+        "link": "https://www.dykesonbikes.org/sf-pride-parade",
+        "tickets": "https://www.eventbrite.com/e/san-francisco-dykes-on-bikes-womens-motorcycle-contingent-sf-pride-2026-registration-1984642360726",
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=Pride+Parade+staging+%28Market+%26+Steuart%29%2C+Market+St+%26+Steuart+St%2C+San+Francisco%2C+CA+94105",
+          "apple": "https://maps.apple.com/?q=Pride+Parade+staging+%28Market+%26+Steuart%29%2C+Market+St+%26+Steuart+St%2C+San+Francisco%2C+CA+94105"
+        },
+        "ra": {},
+        "active": true,
+        "id": "2026-06-22-sports-dykes-on-bikes-women-s-motorcycl-965ea7"
+      },
+      {
+        "track": "sports",
+        "category": "Fitness",
+        "name": "Pride House SF x Queer & Well: Yoga with Cyrus",
+        "day": "Fri",
+        "time": "",
+        "area": "SF",
+        "venue": "Pride House SF (Mid-Market)",
+        "address": "San Francisco, CA",
+        "price": "Free",
+        "tags": [
+          "yoga",
+          "fitness",
+          "pride",
+          "free"
+        ],
+        "link": "https://19hz.info/eventlisting_BayArea.php",
+        "tickets": "",
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=Pride+House+SF+%28Mid-Market%29%2C+San+Francisco%2C+CA",
+          "apple": "https://maps.apple.com/?q=Pride+House+SF+%28Mid-Market%29%2C+San+Francisco%2C+CA"
+        },
+        "ra": {},
+        "active": true,
+        "id": "2026-06-22-sports-pride-house-sf-x-queer-well-yoga-2820c5"
+      },
+      {
+        "track": "sports",
+        "category": "Watersports",
+        "name": "Full Moon Kayak Tour with Sea Trek",
+        "day": "Sun",
+        "time": "evening",
+        "area": "Sausalito",
+        "venue": "Sea Trek (Schoonmaker Beach)",
+        "address": "Schoonmaker Point Marina, Sausalito, CA 94965",
+        "price": "$90–110",
+        "tags": [
+          "kayak",
+          "watersports",
+          "full-moon"
+        ],
+        "link": "https://www.seatrek.com/",
+        "tickets": "https://www.seatrek.com/",
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=Sea+Trek+%28Schoonmaker+Beach%29%2C+Schoonmaker+Point+Marina%2C+Sausalito%2C+CA+94965",
+          "apple": "https://maps.apple.com/?q=Sea+Trek+%28Schoonmaker+Beach%29%2C+Schoonmaker+Point+Marina%2C+Sausalito%2C+CA+94965"
+        },
+        "ra": {},
+        "active": true,
+        "id": "2026-06-22-sports-full-moon-kayak-tour-with-sea-tr-da1606"
       }
     ]
   }
