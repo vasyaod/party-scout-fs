@@ -4,6 +4,26 @@ The agreed rules for the Party Scout weekly database and site. Anything that
 generates or edits the data must honor these. (Field shapes live in
 [MODEL.md](MODEL.md); where data comes from lives in [SOURCES.md](SOURCES.md).)
 
+## Cities
+
+Data is partitioned **by city**. Each city is a kebab-case `slug` with a display
+`label`, and its weeks live under **`data/<slug>/`** (`index.json` + the per-week
+`<week>.json`/`.md`). The top-level **`data/cities.json`** lists the offered cities,
+in order (first = site default). Each week input carries `city` + `city_label`;
+`generate.py` writes to `data/<city>/` and keeps `cities.json` in sync.
+
+**Current city list:**
+
+| slug | label | location | sources |
+|------|-------|----------|---------|
+| `san-francisco` | San Francisco | San Francisco & Bay Area | 19hz Bay Area, RA SF, EDMtrain SF, … (see SOURCES.md) |
+| `los-angeles` | Los Angeles | Los Angeles & SoCal | 19hz LA, RA LA, EDMtrain LA, Funcheap LA, … |
+
+Add a city by: scanning its weeks into `weeks/<slug>/<week>.input.json` (with `city`
++ `city_label` set), running `generate.py`, and adding it to this list. Every city
+follows ALL the rules below (per-week, per-track). Week files are still Monday-dated
+within each city.
+
 ## Data integrity
 
 1. **Verify every event.** Each event must tie to a concrete source (ticket /
