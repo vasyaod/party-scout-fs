@@ -51,6 +51,7 @@
   .btn.tix.free{color:#ffe27a;border-color:#5a4d1f}
   .btn.tix.free b{color:#ffe27a}
   .btn.tix.free:hover{border-color:#ffe27a}
+  .btn.nolink{pointer-events:none}
   .cat{font-size:11px;text-transform:uppercase;letter-spacing:.6px;color:var(--muted)}
   .name{font-weight:650;margin:3px 0 6px;line-height:1.25}
   .name a{color:var(--ink);text-decoration:none;border-bottom:1px dotted var(--muted)}
@@ -162,7 +163,10 @@ function card(it){
     acts.appendChild(btn(tUrl,"tix"+(isFree?" free":""),label));
     foot.appendChild(acts);
   } else if(it.price){
-    foot.appendChild(el("div","price"+(isFree?" free":""),it.price));
+    // No ticket link: show price/Free as a same-size (non-clickable) button.
+    const acts = el("div","acts");
+    acts.appendChild(el("span","btn tix nolink"+(isFree?" free":""),`<b>${it.price}</b>`));
+    foot.appendChild(acts);
   }
   c.appendChild(foot);
   return c;
