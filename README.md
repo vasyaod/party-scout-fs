@@ -41,6 +41,9 @@ the Thu–Sun Jun 25–28 2026 weekend lives under `2026-06-22.*`.
 `id` is stable across re-runs of the same week (derived from the event's fields),
 so the site can track the same event over time.
 
+`link` is the **event website / info page** — surfaced as the card's **Open** button
+(auto-filled from the RA page or the ticketer event page when not given explicitly).
+
 `ra` carries the **Resident Advisor rating** (`interested`/`attending` heart count)
 for events that link to ra.co — a popularity signal; `{}` when the event isn't on RA.
 

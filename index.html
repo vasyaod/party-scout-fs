@@ -119,7 +119,7 @@ const APPLE = /iPhone|iPad|iPod|Macintosh|Mac OS X/i.test(
 function mapsUrl(m){ if(!m) return ""; return APPLE ? (m.apple||m.google) : (m.google||m.apple); }
 // Buy-tickets target: direct ticketer URL > event listing link. NEVER a search
 // engine — only send to the actual ticket seller/listing. Empty -> no button.
-function ticketsUrl(it){ return it.tickets || it.link || ""; }
+function ticketsUrl(it){ return it.tickets || ""; }
 function btn(href,cls,label){
   const a = el("a","btn"+(cls?" "+cls:""),label);
   a.href=href; a.target="_blank"; a.rel="noopener";
@@ -131,9 +131,7 @@ async function getJSON(u){const r=await fetch(u,{cache:"no-store"});if(!r.ok)thr
 function card(it){
   const c = el("div","card"+(it.active===false?" inactive":""));
   if(it.category) c.appendChild(el("div","cat",it.category));
-  const name = it.link
-    ? `<a href="${it.link}" target="_blank" rel="noopener">${it.name}</a>` : it.name;
-  c.appendChild(el("div","name",name));
+  c.appendChild(el("div","name",it.name));
   const when = [it.day,it.time].filter(Boolean).join(" · ");
   if(when) c.appendChild(el("div","when",when));
   let where = it.area||"";
@@ -161,16 +159,16 @@ function card(it){
   const tUrl = ticketsUrl(it);
   const isFree = it.price && /free|^\$?0\b/i.test(it.price);
   const acts = el("div","acts");
+  if(it.link) acts.appendChild(btn(it.link,"","Open"));   // event website / info page
   if(tUrl){
     const label = it.price ? `<b>${it.price}</b> · Buy ticket` : "Buy ticket";
     acts.appendChild(btn(tUrl,"tix"+(isFree?" free":""),label));
   } else if(it.price){
     // No ticket link: show price/Free as a same-size (non-clickable) button.
     acts.appendChild(el("span","btn tix nolink"+(isFree?" free":""),`<b>${it.price}</b>`));
-  } else {
-    // No price/ticket: reserve the button row so tags stay aligned across the row.
-    acts.appendChild(el("span","btn ph","&nbsp;"));
   }
+  // Reserve the button row when there's nothing, so tags stay aligned across the row.
+  if(!acts.childNodes.length) acts.appendChild(el("span","btn ph","&nbsp;"));
   foot.appendChild(acts);
   c.appendChild(foot);
   return c;
