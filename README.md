@@ -27,7 +27,7 @@ the Thu–Sun Jun 25–28 2026 weekend lives under `2026-06-22.*`.
   "location": "San Francisco & Bay Area",
   "tracks": {
     "music":  [ { "id", "track", "category", "name", "day", "time",
-                  "area", "venue", "tags": [], "link" } ],
+                  "area", "venue", "price", "tags": [], "link" } ],
     "sports": [ ... ]
   }
 }
