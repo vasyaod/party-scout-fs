@@ -86,6 +86,8 @@
   .chip .n{color:var(--muted);font-size:.72em;margin-left:5px}
   .chip.on{background:var(--accent);border-color:var(--accent);color:#fff}
   .chip.clear{color:var(--muted);border-style:dashed}
+  .chip.chip-hidden{display:none}
+  .chip.morechip{color:var(--accent);border-style:dashed;border-color:var(--accent)}
   footer{max-width:920px;margin:0 auto;padding:0 20px 50px;color:var(--muted);font-size:13px}
   a{color:var(--accent)}
   .empty{color:var(--muted);padding:30px 0}
@@ -181,6 +183,7 @@ function card(it){
 
 const state = {week:null, tag:null};
 const SHOW_LIMIT = 21;   // cards shown per track before "Show more"
+const CLOUD_LIMIT = 24;  // tags shown before the cloud's "+N more"
 
 function tagCounts(week){
   const m = new Map();
@@ -197,15 +200,25 @@ function buildCloud(week){
   box.hidden=false;
   box.appendChild(el("span","clabel","Tags"));
   const max = tags[0][1], min = tags[tags.length-1][1];
+  let shown = 0;
   tags.forEach(([tag,n])=>{
     // scale font 0.85–1.5rem by frequency
     const f = max===min ? 1.05 : 0.85 + (n-min)/(max-min)*0.65;
-    const chip = el("span","chip"+(state.tag===tag?" on":""),
+    const active = state.tag===tag;
+    const chip = el("span","chip"+(active?" on":""),
       `${tag}<span class="n">${n}</span>`);
     chip.style.fontSize = f.toFixed(2)+"rem";
-    chip.onclick = ()=>{ state.tag = state.tag===tag?null:tag; render(); };
+    chip.onclick = ()=>{ state.tag = active?null:tag; render(); };
+    if(shown>=CLOUD_LIMIT && !active) chip.classList.add("chip-hidden");
+    else shown++;
     box.appendChild(chip);
   });
+  const hidden = box.querySelectorAll(".chip-hidden").length;
+  if(hidden){
+    const more = el("span","chip morechip",`+${hidden} more`);
+    more.onclick = ()=>{ box.querySelectorAll(".chip-hidden").forEach(c=>c.classList.remove("chip-hidden")); more.remove(); };
+    box.appendChild(more);
+  }
   if(state.tag){
     const c = el("span","chip clear","✕ clear");
     c.onclick = ()=>{ state.tag=null; render(); };
