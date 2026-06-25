@@ -107,6 +107,13 @@ const el = (t,c,h)=>{const e=document.createElement(t);if(c)e.className=c;if(h!=
 const APPLE = /iPhone|iPad|iPod|Macintosh|Mac OS X/i.test(
   (navigator.platform||"")+" "+(navigator.userAgent||""));
 function mapsUrl(m){ if(!m) return ""; return APPLE ? (m.apple||m.google) : (m.google||m.apple); }
+// Buy-tickets target: direct tickets URL > listing link > a tickets web search.
+function ticketsUrl(it){
+  if(it.tickets) return it.tickets;
+  if(it.link) return it.link;
+  const q = encodeURIComponent([it.name, it.area, "tickets"].filter(Boolean).join(" "));
+  return "https://www.google.com/search?q="+q;
+}
 function btn(href,cls,label){
   const a = el("a","btn"+(cls?" "+cls:""),label);
   a.href=href; a.target="_blank"; a.rel="noopener";
@@ -137,12 +144,10 @@ function card(it){
   }
   if(it.active===false) c.appendChild(el("div","carried","↩︎ carried over — not in latest scan"));
   const mUrl = mapsUrl(it.maps);
-  if(mUrl || it.tickets){
-    const acts = el("div","acts");
-    if(mUrl) acts.appendChild(btn(mUrl,"","Map"));
-    if(it.tickets) acts.appendChild(btn(it.tickets,"tix","Tickets"));
-    c.appendChild(acts);
-  }
+  const acts = el("div","acts");
+  if(mUrl) acts.appendChild(btn(mUrl,"","Map"));
+  acts.appendChild(btn(ticketsUrl(it),"tix","Buy ticket"));
+  c.appendChild(acts);
   return c;
 }
 
