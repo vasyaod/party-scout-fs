@@ -52,6 +52,7 @@
   .btn.tix.free b{color:#ffe27a}
   .btn.tix.free:hover{border-color:#ffe27a}
   .btn.nolink{pointer-events:none}
+  .btn.ph{visibility:hidden}
   .cat{font-size:11px;text-transform:uppercase;letter-spacing:.6px;color:var(--muted)}
   .name{font-weight:650;margin:3px 0 6px;line-height:1.25}
   .name a{color:var(--ink);text-decoration:none;border-bottom:1px dotted var(--muted)}
@@ -157,17 +158,18 @@ function card(it){
   if(it.active===false) foot.appendChild(el("div","carried","↩︎ carried over — not in latest scan"));
   const tUrl = ticketsUrl(it);
   const isFree = it.price && /free|^\$?0\b/i.test(it.price);
+  const acts = el("div","acts");
   if(tUrl){
     const label = it.price ? `<b>${it.price}</b> · Buy ticket` : "Buy ticket";
-    const acts = el("div","acts");
     acts.appendChild(btn(tUrl,"tix"+(isFree?" free":""),label));
-    foot.appendChild(acts);
   } else if(it.price){
     // No ticket link: show price/Free as a same-size (non-clickable) button.
-    const acts = el("div","acts");
     acts.appendChild(el("span","btn tix nolink"+(isFree?" free":""),`<b>${it.price}</b>`));
-    foot.appendChild(acts);
+  } else {
+    // No price/ticket: reserve the button row so tags stay aligned across the row.
+    acts.appendChild(el("span","btn ph","&nbsp;"));
   }
+  foot.appendChild(acts);
   c.appendChild(foot);
   return c;
 }
