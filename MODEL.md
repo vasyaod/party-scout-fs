@@ -86,6 +86,7 @@ Jun 25–28 2026 weekend → `2026-06-22.json`). Carries `city` + `city_label` t
   "category": "House",
   "name": "DAYFALL: Karizma, Colette, Mr. V",
   "day": "Sat",
+  "date": "2026-06-27",
   "time": "6–10pm",
   "area": "SF",
   "venue": "The Pearl",
@@ -114,6 +115,7 @@ Jun 25–28 2026 weekend → `2026-06-22.json`). Carries `city` + `city_label` t
 | `category` | string | Sub-genre/type label, e.g. `House`, `Moto`. |
 | `name` | string | Event name (shown as the card title; not a link). |
 | `day` | string | `Fri` / `Sat` / `Sun` / `Sat/Sun` etc. |
+| `date` | string `YYYY-MM-DD` | The event's **calendar date**, derived from `week_start` (the Monday) + `day`. For a multi-day `day` (`Sat/Sun`) it's the **first** day. `""` when `day` is missing/unparseable. Generated — not hand-set. |
 | `time` | string | Free-form, e.g. `6–10pm`, `9pm`, `all-day–3am`. |
 | `area` | string | City/neighborhood, e.g. `SF`, `Oakland`, `Sacramento`. |
 | `venue` | string | Venue name; `""` if unknown. |
