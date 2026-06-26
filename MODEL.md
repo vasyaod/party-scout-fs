@@ -95,7 +95,7 @@ Jun 25–28 2026 weekend → `2026-06-22.json`). Carries `city` + `city_label` t
   "price": "$71",
   "tags": ["sunset", "outdoor", "house", "deep-house", "disco-house", "soulful"],
   "sources": ["https://ra.co/events/2463690"],
-  "tickets": "https://www.eventbrite.com/e/dayfall-between-day-night-tickets-1989860033927",
+  "tickets": ["https://www.eventbrite.com/e/dayfall-between-day-night-tickets-1989860033927"],
   "maps": {
     "google": "https://www.google.com/maps/search/?api=1&query=The+Pearl%2C+601+19th+St...",
     "apple":  "https://maps.apple.com/?q=The+Pearl%2C+601+19th+St..."
@@ -123,7 +123,7 @@ Jun 25–28 2026 weekend → `2026-06-22.json`). Carries `city` + `city_label` t
 | `price` | string | Lowest/GA price `"$NN"`, a range `"$NN–MM"`, or `"Free"`. `""` if unobtainable (never guessed). |
 | `tags` | array&lt;string&gt; | Genre/vibe tags (house, techno, free, outdoor, rooftop, pride, daytime…). Powers the tag cloud + filter. |
 | `sources` | array&lt;string&gt; | **Ordered list of the event's info page URLs** (replaces the old single `link`) → the card's **Open** button uses **index 0** (the highest-priority link). Scrape sources (19hz) are dropped; auto-filled from the RA/ticketer page when no explicit link. `[]` when none known. Merges as an order-preserving union (first wins). |
-| `tickets` | string | Direct **ticket seller** URL (RA/Tixr/Eventbrite/Etix/Ticketmaster/AXS/…) → **Buy ticket** button. Never a search engine. |
+| `tickets` | array&lt;string&gt; | **Ordered list of ticket-seller URLs** (RA/Tixr/Eventbrite/Etix/Ticketmaster/AXS/…) → **Buy ticket** uses **index 0**. Never a search engine. The same URL may also appear in `sources` (an event page can be both info + ticket). Merges as an order-preserving union. |
 | `maps` | object | `{ "google", "apple" }` Maps URLs (from `address` › known-venue table › `venue, area`). Client opens the right app per device. |
 | `ra` | object | Resident Advisor rating: `{ event_id, url, interested, attending }`. `{}` when the event isn't on RA. Popularity signal. |
 | `popularity` | integer 0–10 | **Hidden** heuristic popularity/hype score (NOT shown on the site) — a ranking signal. Blended from RA interest count, headliner/marquee fame, festival/block-party scale, and price tier. |
@@ -132,7 +132,7 @@ Jun 25–28 2026 weekend → `2026-06-22.json`). Carries `city` + `city_label` t
 ### Link rules (summary — see REQUIREMENTS.md)
 
 - `tickets`, `maps`, `sources` are **never shown as raw URL text** — only as buttons /
-  the `open map` link. `tickets` → **Buy ticket** (real seller only). `sources[0]` →
+  the `open map` link. `tickets[0]` → **Buy ticket** (real seller only). `sources[0]` →
   **Open** (event page). `maps` → the 📍 **open map** link (Apple on iOS/iPadOS/
   macOS, Google elsewhere).
 - `price` is combined into the Buy-ticket button (`$NN · Buy ticket`); `Free`

@@ -86,7 +86,7 @@ browser geolocation if the user already granted it -> IP-based geolocation fallb
 8. **No raw URLs as text.** `sources`, `tickets`, `maps` live in the JSON and are
    surfaced only as buttons / the `open map` link — never printed as URL text, in
    the site or the Markdown digest.
-9. **Buy ticket → the real seller only.** `tickets` points at the actual ticketer
+9. **Buy ticket → the real seller only.** `tickets` is a list; `tickets[0]` (the Buy-ticket target) points at the actual ticketer
    (RA / Tixr / Eventbrite / Etix / Ticketmaster / AXS / venue). **Never** a search
    engine. No real seller → no Buy-ticket button.
 10. **Open → the event website** (`sources[0]`): event info/lineup page.
