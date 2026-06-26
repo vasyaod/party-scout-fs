@@ -34,6 +34,13 @@ browser geolocation if the user already granted it -> IP-based geolocation fallb
    listing / venue page). If it can't be verified, **drop it** — never keep vague,
    unsourced entries. (This is what caught and removed "Pride Rooftop Party
    (daytime)".)
+1a. **Sources are an ordered list; index 0 is the highest priority.** Every event
+   carries a `sources` array of `{name, url}` (see MODEL.md) recording where it was
+   found/verified. The list is **priority-ordered — the FIRST source is the most
+   authoritative** (the anchor we trust most; e.g. the 19hz/RA listing the price was
+   pulled from). Keep the order meaningful: put the primary source first. On merge the
+   order is preserved (first wins) and new sources are appended. Older data is
+   backfilled from `ra`/`link`/`tickets`; `[]` only when nothing is known.
 2. **Never guess.** Leave a field `""` rather than inventing a value (price,
    venue, address, URL).
 3. **Weeks are Monday-dated, and every event is filed by its own date.** A week
