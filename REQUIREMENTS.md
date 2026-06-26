@@ -105,15 +105,15 @@ browser geolocation if the user already granted it -> IP-based geolocation fallb
 
 ## Images
 
-20a. **Every event has an image.** Each event carries an `image` — a small JPG saved
-    in the repo at `/img/<eid>.jpg` and served by Pages. Enrich events with images
-    (`enrich_images.py`): pull the event's own flyer/hero from its page's `og:image`
-    (try `sources[0]`, then `tickets[0]`). **Max 512px** on the longest side,
-    **JPEG**. If no image can be found, use the shared **stub** `/img/stub.jpg`.
-    Images are committed as **plain files** (NOT Git LFS — GitHub Pages serves LFS
-    pointers, not the binary, so LFS images would 404 on the site). A 512px JPG is
-    tiny (~20–60 KB), so plain files are fine. This enrichment may run on a cheaper
-    model (e.g. Sonnet); the `og:image` lookup itself is deterministic.
+20a. **Every event has an image.** Each event carries an `image` — a small JPG of the
+    event's flyer/hero. Enrich with `enrich_images.py`: pull the page `og:image`,
+    **preferring the ticket site** (`tickets[0]`, then `sources[0]`), fit to **≤512px**
+    (longest side), **JPEG**. Images are **hosted on the image service**, NOT committed
+    to this Pages repo (Pages can't serve Git-LFS binaries, and plain files bloat the
+    repo): each is `PUT` to `https://api.party-scout.app/img/<city>/<week>/<eid>.jpg`
+    (auth via `IMG_TOKEN`), and `image` is set to that public URL. No flyer found →
+    the shared stub `https://api.party-scout.app/img/stub.jpg`. The `og:image` lookup
+    is deterministic (no model needed); may run on a cheaper model if made agentic.
 
 ## Generation
 
