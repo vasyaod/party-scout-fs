@@ -103,6 +103,18 @@ browser geolocation if the user already granted it -> IP-based geolocation fallb
     (footer pinned to the bottom; an empty action row is reserved when a card has
     no button).
 
+## Images
+
+20a. **Every event has an image.** Each event carries an `image` — a small JPG saved
+    in the repo at `/img/<eid>.jpg` and served by Pages. Enrich events with images
+    (`enrich_images.py`): pull the event's own flyer/hero from its page's `og:image`
+    (try `sources[0]`, then `tickets[0]`). **Max 512px** on the longest side,
+    **JPEG**. If no image can be found, use the shared **stub** `/img/stub.jpg`.
+    Images are committed as **plain files** (NOT Git LFS — GitHub Pages serves LFS
+    pointers, not the binary, so LFS images would 404 on the site). A 512px JPG is
+    tiny (~20–60 KB), so plain files are fine. This enrichment may run on a cheaper
+    model (e.g. Sonnet); the `og:image` lookup itself is deterministic.
+
 ## Generation
 
 15. Data is **generated**, not hand-edited. The generator + reusable enrichment
