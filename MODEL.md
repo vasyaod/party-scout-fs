@@ -94,7 +94,7 @@ Jun 25–28 2026 weekend → `2026-06-22.json`). Carries `city` + `city_label` t
   "summary": "DAYFALL brings deep/soulful-house veterans Karizma, Colette and Mr. V to The Pearl's rooftop for a sunset session bridging day and night.",
   "price": "$71",
   "tags": ["sunset", "outdoor", "house", "deep-house", "disco-house", "soulful"],
-  "links": ["https://ra.co/events/2463690"],
+  "sources": ["https://ra.co/events/2463690"],
   "tickets": "https://www.eventbrite.com/e/dayfall-between-day-night-tickets-1989860033927",
   "maps": {
     "google": "https://www.google.com/maps/search/?api=1&query=The+Pearl%2C+601+19th+St...",
@@ -122,7 +122,7 @@ Jun 25–28 2026 weekend → `2026-06-22.json`). Carries `city` + `city_label` t
 | `summary` | string | 1–2 sentence event summary, AI-written from the event's actual page (read via an ephemeral remote-browser session). |
 | `price` | string | Lowest/GA price `"$NN"`, a range `"$NN–MM"`, or `"Free"`. `""` if unobtainable (never guessed). |
 | `tags` | array&lt;string&gt; | Genre/vibe tags (house, techno, free, outdoor, rooftop, pride, daytime…). Powers the tag cloud + filter. |
-| `links` | array&lt;string&gt; | **Ordered list of the event's info page URLs** (replaces the old single `link`) → the card's **Open** button uses **index 0** (the highest-priority link). Scrape sources (19hz) are dropped; auto-filled from the RA/ticketer page when no explicit link. `[]` when none known. Merges as an order-preserving union (first wins). |
+| `sources` | array&lt;string&gt; | **Ordered list of the event's info page URLs** (replaces the old single `link`) → the card's **Open** button uses **index 0** (the highest-priority link). Scrape sources (19hz) are dropped; auto-filled from the RA/ticketer page when no explicit link. `[]` when none known. Merges as an order-preserving union (first wins). |
 | `tickets` | string | Direct **ticket seller** URL (RA/Tixr/Eventbrite/Etix/Ticketmaster/AXS/…) → **Buy ticket** button. Never a search engine. |
 | `maps` | object | `{ "google", "apple" }` Maps URLs (from `address` › known-venue table › `venue, area`). Client opens the right app per device. |
 | `ra` | object | Resident Advisor rating: `{ event_id, url, interested, attending }`. `{}` when the event isn't on RA. Popularity signal. |
@@ -131,8 +131,8 @@ Jun 25–28 2026 weekend → `2026-06-22.json`). Carries `city` + `city_label` t
 
 ### Link rules (summary — see REQUIREMENTS.md)
 
-- `tickets`, `maps`, `links` are **never shown as raw URL text** — only as buttons /
-  the `open map` link. `tickets` → **Buy ticket** (real seller only). `links[0]` →
+- `tickets`, `maps`, `sources` are **never shown as raw URL text** — only as buttons /
+  the `open map` link. `tickets` → **Buy ticket** (real seller only). `sources[0]` →
   **Open** (event page). `maps` → the 📍 **open map** link (Apple on iOS/iPadOS/
   macOS, Google elsewhere).
 - `price` is combined into the Buy-ticket button (`$NN · Buy ticket`); `Free`
