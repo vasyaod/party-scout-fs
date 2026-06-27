@@ -138,19 +138,21 @@ browser geolocation if the user already granted it -> IP-based geolocation fallb
     UI shows the shared stub `https://party-scout.app/stub.jpg`. The `og:image` lookup
     is deterministic (no model needed); the intelligent fallback (read the page, pick
     the real poster, skip logos/avatars) may run on a cheaper model (e.g. Sonnet).
-20b. **Generate a placeholder when no real flyer exists — neon-city-reference recipe.**
+20b. **Generate a placeholder when no real flyer exists — text-free club-scene recipe.**
     When `enrich_images.py` can't find a real flyer, **generate** one with the recipe
-    below (implemented in `party-scout-code/gen_images.py`):
-    - **Model + endpoint:** `gpt-image-1-mini`, `quality=low`, via the **image *edits***
-      endpoint (`POST https://api.openai.com/v1/images/edits`) — NOT plain generations.
-    - **Style reference:** pass the shared neon-city image **`party-scout-fs/stub.jpg`**
-      (the Android-promo city, also the site stub) as the `image` so every flyer inherits
-      the same dark neon-city look (deep blues/purples, magenta + teal glow, cinematic).
-    - **Prompt = the event's own card:** built from `name` (Title), `category`/genre,
-      `venue` + `area`, vibe `tags`, the **`summary`**, and the **`why`** — so the art is
-      *for that event*. The event **name is rendered as the neon headline text** (spelled
-      exactly; short names come out clean, long/compound names or years may misspell —
-      acceptable, it's a placeholder). No other text/logos/faces.
+    below (implemented in `party-scout-code/gen_images.py`). See
+    `party-scout-code/IMAGE_GEN_PROMPT_HISTORY.md` for the prompt version history and why
+    the earlier neon-city-reference recipe was dropped.
+    - **Model + endpoint:** `gpt-image-1-mini`, `quality=low`, via the **image *generations***
+      endpoint (`POST https://api.openai.com/v1/images/generations`). **No style-reference
+      image** — the neon look is carried by the prompt.
+    - **Prompt = a TEXT-FREE atmospheric scene** evoked from `category`/genre + vibe `tags`:
+      a cinematic nightclub scene (silhouetted crowd facing a DJ booth, volumetric haze,
+      bold neon laser lighting — deep blues/purples, magenta + teal glow, moody and dark);
+      sports track → a dynamic outdoor neon-tinged action scene. **Do NOT** pass the event
+      `name`/`summary`/`why` as rendered text — that produced ugly, misspelled headline
+      letters. Hard negative: "ABSOLUTELY NO text, no letters, no words, no typography, no
+      logos, no signage, no faces." (The card UI already shows the title.)
     - **Output:** downscale to **≤512px JPEG**, save to **`img/gen/<eid>.jpg`** in this
       repo (Pages serves it; no upload token needed), set
       `image = https://party-scout.app/img/gen/<eid>.jpg`, and mark **`image_generated: true`**.
