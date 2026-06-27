@@ -116,13 +116,25 @@ browser geolocation if the user already granted it -> IP-based geolocation fallb
     UI shows the shared stub `https://party-scout.app/stub.jpg`. The `og:image` lookup
     is deterministic (no model needed); the intelligent fallback (read the page, pick
     the real poster, skip logos/avatars) may run on a cheaper model (e.g. Sonnet).
-20b. **Generate a placeholder when no real flyer exists.** When `enrich_images.py`
-    can't find a real flyer, **generate** one from the event's own details — its
-    `category`/genre, `venue`, city/`area`, and vibe `tags` → a moody gig-poster /
-    flyer-style image, **no text or logos**. Use the **cheapest configured image
-    model** (e.g. `gpt-image-1-mini`, low quality — ~1–2¢ each). Downscale to **≤512px
-    JPEG**, host it (`/img/gen/<eid>.jpg` in-repo, or the image service), set `image`,
-    and mark **`image_generated: true`**.
+20b. **Generate a placeholder when no real flyer exists — neon-city-reference recipe.**
+    When `enrich_images.py` can't find a real flyer, **generate** one with the recipe
+    below (implemented in `party-scout-code/gen_images.py`):
+    - **Model + endpoint:** `gpt-image-1-mini`, `quality=low`, via the **image *edits***
+      endpoint (`POST https://api.openai.com/v1/images/edits`) — NOT plain generations.
+    - **Style reference:** pass the shared neon-city image **`party-scout-fs/stub.jpg`**
+      (the Android-promo city, also the site stub) as the `image` so every flyer inherits
+      the same dark neon-city look (deep blues/purples, magenta + teal glow, cinematic).
+    - **Prompt = the event's own card:** built from `name` (Title), `category`/genre,
+      `venue` + `area`, vibe `tags`, the **`summary`**, and the **`why`** — so the art is
+      *for that event*. The event **name is rendered as the neon headline text** (spelled
+      exactly; short names come out clean, long/compound names or years may misspell —
+      acceptable, it's a placeholder). No other text/logos/faces.
+    - **Output:** downscale to **≤512px JPEG**, save to **`img/gen/<eid>.jpg`** in this
+      repo (Pages serves it; no upload token needed), set
+      `image = https://party-scout.app/img/gen/<eid>.jpg`, and mark **`image_generated: true`**.
+    - **Cost:** ~1–2¢ each (≈ \$1 for a full ~80-event pass). The script is
+      idempotent/incremental — it only touches events with an empty `image` and writes
+      each result immediately, so it's safe to re-run/resume.
 20c. **A generated image is a placeholder, not final — replace it.** `image_generated:
     true` means "no real flyer yet." A later enrichment run **re-attempts** these and,
     if it now finds a real flyer, **overwrites** the generated image and flips
