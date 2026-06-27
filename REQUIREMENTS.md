@@ -112,8 +112,22 @@ browser geolocation if the user already granted it -> IP-based geolocation fallb
     to this Pages repo (Pages can't serve Git-LFS binaries, and plain files bloat the
     repo): each is `PUT` to `https://api.party-scout.app/img/<city>/<week>/<eid>.jpg`
     (auth via `IMG_TOKEN`), and `image` is set to that public URL. No flyer found →
-    the shared stub `https://api.party-scout.app/img/stub.jpg`. The `og:image` lookup
-    is deterministic (no model needed); may run on a cheaper model if made agentic.
+    **generate one** (rule 20b); only if that also fails is `image` left `""` and the
+    UI shows the shared stub `https://party-scout.app/stub.jpg`. The `og:image` lookup
+    is deterministic (no model needed); the intelligent fallback (read the page, pick
+    the real poster, skip logos/avatars) may run on a cheaper model (e.g. Sonnet).
+20b. **Generate a placeholder when no real flyer exists.** When `enrich_images.py`
+    can't find a real flyer, **generate** one from the event's own details — its
+    `category`/genre, `venue`, city/`area`, and vibe `tags` → a moody gig-poster /
+    flyer-style image, **no text or logos**. Use the **cheapest configured image
+    model** (e.g. `gpt-image-1-mini`, low quality — ~1–2¢ each). Downscale to **≤512px
+    JPEG**, host it (`/img/gen/<eid>.jpg` in-repo, or the image service), set `image`,
+    and mark **`image_generated: true`**.
+20c. **A generated image is a placeholder, not final — replace it.** `image_generated:
+    true` means "no real flyer yet." A later enrichment run **re-attempts** these and,
+    if it now finds a real flyer, **overwrites** the generated image and flips
+    `image_generated` to `false`. Never overwrite a *real* flyer with a generated one,
+    and never overwrite a generated one with the stub.
 
 ## Generation
 
