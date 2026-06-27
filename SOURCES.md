@@ -27,6 +27,7 @@ web_fetch/HTTP, `GQL` = `ra.co/graphql`, `JSON-LD` = schema.org in the page,
 | **Dice** | https://dice.fm | L + P | Music | common | Price in JS app. |
 | **Tixr** | https://www.tixr.com | P | Music | common | Tiered prices; JS-rendered. |
 | **AXS / Ticketmaster / venue box office** | e.g. https://thefoxoakland.com | P | Music | common | Price sits in a Buy-Tickets **widget/iframe** — open/expand it, don't just scrape body. |
+| **Halcyon (venue)** | https://halcyon-sf.com/main/tickets/ | L + P | Music | common | SoMa club (314 11th St). Full upcoming-events + ticket listing; each event links out to its ticketer (mostly Dice). |
 | **See Tickets / Posh / Etix** | various | P | Music | common | Misc ticketers the 19hz/RA rows link to. |
 | **Do415** | https://do415.com | L | Both | web_search | SF happenings. |
 | **Funcheap** | https://sf.funcheap.com | L (free) | Both | HTTP | Good for free/outdoor events. |
