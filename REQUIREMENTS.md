@@ -117,6 +117,16 @@ browser geolocation if the user already granted it -> IP-based geolocation fallb
 
 ## Images
 
+20. **Adding an event ALWAYS includes its image — inline, never deferred.** Whenever a
+    single event is added or hand-forwarded (e.g. the user shares a flyer or asks to add
+    one show), set its `image` in the SAME pass — do not commit a new event with an empty
+    `image`. Order of preference: (1) a flyer the **user provided** in the conversation →
+    use it; (2) a **real flyer** found for the event (`og:image` from the ticket/listing
+    page, rule 20a); (3) otherwise **generate a cheap placeholder immediately** (rule 20b,
+    `gen_images.py` neon-city recipe, ~1–2¢). Hosted in-repo at `img/gen/<eid>.jpg` works
+    without the upload token. The point: a freshly-added card must never ship with the bare
+    stub when a real or generated image was one step away.
+
 20a. **Every event has an image.** Each event carries an `image` — a small JPG of the
     event's flyer/hero. Enrich with `enrich_images.py`: pull the page `og:image`,
     **preferring the ticket site** (`tickets[0]`, then `sources[0]`), fit to **≤512px**
