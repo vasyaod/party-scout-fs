@@ -101,6 +101,8 @@ Jun 25–28 2026 weekend → `2026-06-22.json`). Carries `city` + `city_label` t
     "google": "https://www.google.com/maps/search/?api=1&query=The+Pearl%2C+601+19th+St...",
     "apple":  "https://maps.apple.com/?q=The+Pearl%2C+601+19th+St..."
   },
+  "coords": { "lat": 37.760958, "lon": -122.401466 },
+  "coords_precise": true,
   "ra": { "event_id": "2463690", "url": "https://ra.co/events/2463690", "interested": 1, "attending": 1 },
   "image": "https://api.party-scout.app/img/san-francisco/2026-06-22/dayfall-karizma-colette-mr-v-7d2a.jpg",
   "image_generated": false,
@@ -129,6 +131,8 @@ Jun 25–28 2026 weekend → `2026-06-22.json`). Carries `city` + `city_label` t
 | `sources` | array&lt;string&gt; | **Ordered list of the event's info page URLs** (replaces the old single `link`) → the card's **Open** button uses **index 0** (the highest-priority link). Scrape sources (19hz) are dropped; auto-filled from the RA/ticketer page when no explicit link. `[]` when none known. Merges as an order-preserving union (first wins). |
 | `tickets` | array&lt;string&gt; | **Ordered list of ticket-seller URLs** (RA/Tixr/Eventbrite/Etix/Ticketmaster/AXS/…) → **Buy ticket** uses **index 0**. Never a search engine. The same URL may also appear in `sources` (an event page can be both info + ticket). Merges as an order-preserving union. |
 | `maps` | object | `{ "google", "apple" }` Maps URLs (from `address` › known-venue table › `venue, area`). Client opens the right app per device. |
+| `coords` | object \| null | `{ "lat", "lon" }` — the event's geographic point (WGS84 decimal degrees), for a map pin / map view. Geocoded by `geocode.py`: an **exact venue point** when resolvable (`address` › known-venue address › `venue, area`), otherwise the event's **city centroid** as a fallback (`area`-as-city › `city_label`). `null` only when even the city can't resolve (never guessed). Preserved across re-runs. |
+| `coords_precise` | boolean | `true` = `coords` is the **exact venue point**; `false` = it's a **city-level fallback** (the venue couldn't be pinned, so we used the city's coordinates). Lets the map avoid dropping a precise pin on a city centroid. Set by `geocode.py`, preserved across re-runs. |
 | `ra` | object | Resident Advisor rating: `{ event_id, url, interested, attending }`. `{}` when the event isn't on RA. Popularity signal. |
 | `image` | string | Public URL of the event's image — the flyer/hero (`og:image`, ticket-site preferred), an AI-generated placeholder, else `""` (the UI then shows the stub). A **≤512px JPG**. Filled by `enrich_images.py`. See REQUIREMENTS rule 20a. |
 | `image_generated` | boolean | `true` when `image` is an **AI-generated placeholder** (no real flyer could be found) — so it can be **replaced** if a real flyer turns up later. `false` for a real found flyer (or no image). Set by the enrichment, preserved across re-generation. |

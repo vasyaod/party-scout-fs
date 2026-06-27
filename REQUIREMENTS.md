@@ -97,6 +97,18 @@ browser geolocation if the user already granted it -> IP-based geolocation fallb
 12. **Map per device.** The 📍 location's `open map` link opens **Apple Maps on
     iOS/iPadOS/macOS, Google Maps elsewhere**, using the per-event `address` for a
     precise pin when known.
+12a. **Every event gets `coords` — exact venue, else the city.** Store `{lat, lon}`
+    (WGS84 decimal degrees) in `coords` for a map pin / future map view. Filled by
+    `geocode.py` (OpenStreetMap Nominatim, free, no key; honors its policy —
+    descriptive User-Agent, ≤1 req/sec, on-disk cache). Resolve the **most precise
+    point** first: `address` → known-venue address → `venue, area`. **If the exact
+    venue can't be pinned, fall back to the event's CITY** — geocode the `area` as a
+    city (e.g. a Sunnyvale venue we can't find → use **Sunnyvale's** coordinates),
+    then the week's `city_label`. Set **`coords_precise`**: `true` for an exact venue
+    point, `false` for a city-level fallback (so the map never drops a precise pin on
+    a city centroid). **Never guess** — only if even the city won't resolve is
+    `coords` left `null`. Both fields are preserved across re-runs (a point pulled
+    earlier is never wiped by a later run that lacks it).
 13. **Price on the button.** Price is combined into the Buy-ticket button
     (`$NN · Buy ticket`); `Free` is a gold, same-size, non-clickable button.
 14. **Aligned cards.** In a row, tags and the action button line up across cards
