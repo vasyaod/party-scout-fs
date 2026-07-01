@@ -42,8 +42,8 @@
         "ra": {
           "event_id": "2407527",
           "url": "https://ra.co/events/2407527",
-          "interested": 624,
-          "attending": 624
+          "interested": 636,
+          "attending": 636
         },
         "active": true,
         "popularity": 9,
@@ -375,8 +375,8 @@
         "ra": {
           "event_id": "2476779",
           "url": "https://ra.co/events/2476779",
-          "interested": 3,
-          "attending": 3
+          "interested": 4,
+          "attending": 4
         },
         "active": true,
         "popularity": 4,
@@ -561,6 +561,40 @@
       },
       {
         "track": "music",
+        "category": "Indie Dance",
+        "name": "All Your Friends",
+        "day": "Fri",
+        "date": "2026-07-10",
+        "time": "8pm",
+        "area": "SF",
+        "venue": "Rickshaw Stop",
+        "address": "155 Fell St, San Francisco, CA 94102",
+        "why": "Live-adjacent indie dance for the crowd that finds techno cold",
+        "summary": "An indie-dance, synthpop and electro-house party at Rickshaw Stop in SF on Friday from 8pm.",
+        "price": "$17–23",
+        "tags": [
+          "indie-dance",
+          "synthpop",
+          "electro-house"
+        ],
+        "sources": [],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=Rickshaw+Stop%2C+155+Fell+St%2C+San+Francisco%2C+CA+94102",
+          "apple": "https://maps.apple.com/?q=Rickshaw+Stop%2C+155+Fell+St%2C+San+Francisco%2C+CA+94102"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "image": "",
+        "image_generated": false,
+        "ra": {},
+        "active": true,
+        "popularity": 4,
+        "id": "2026-07-06-music-all-your-friends-6a1f47",
+        "eid": "all-your-friends-4e01"
+      },
+      {
+        "track": "music",
         "category": "House",
         "name": "Anjunadeep Open Air Bay Area",
         "day": "Sat",
@@ -600,6 +634,39 @@
         "popularity": 4,
         "id": "2026-07-06-music-anjunadeep-open-air-bay-area-19dd7e",
         "eid": "anjunadeep-open-air-bay-area-8b75"
+      },
+      {
+        "track": "music",
+        "category": "Tech House",
+        "name": "Apres Mundi",
+        "day": "Sat",
+        "date": "2026-07-11",
+        "time": "9pm–3am",
+        "area": "Oakland",
+        "venue": "The Loom",
+        "address": "1738 Telegraph Ave, Oakland, CA 94612",
+        "why": "East Bay tech-house till 3am without crossing the bridge",
+        "summary": "A late tech and progressive house party at The Loom in Oakland on Saturday, running 9pm–3am.",
+        "price": "$30+",
+        "tags": [
+          "tech-house",
+          "progressive-house"
+        ],
+        "sources": [],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=The+Loom%2C+1738+Telegraph+Ave%2C+Oakland%2C+CA+94612",
+          "apple": "https://maps.apple.com/?q=The+Loom%2C+1738+Telegraph+Ave%2C+Oakland%2C+CA+94612"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "image": "",
+        "image_generated": false,
+        "ra": {},
+        "active": true,
+        "popularity": 4,
+        "id": "2026-07-06-music-apres-mundi-6d3153",
+        "eid": "apres-mundi-830f"
       },
       {
         "track": "music",
@@ -1246,6 +1313,41 @@
       },
       {
         "track": "music",
+        "category": "Goth/Industrial",
+        "name": "Glitter Goth",
+        "day": "Sat",
+        "date": "2026-07-11",
+        "time": "7–11pm",
+        "area": "Santa Rosa",
+        "venue": "Arlene Francis Center",
+        "address": "99 6th St, Santa Rosa, CA 95401",
+        "why": "Cheap North Bay goth night for anyone up-county who won't drive to the city",
+        "summary": "A darkwave, post-punk and deathrock night at the Arlene Francis Center in Santa Rosa on Saturday, 7–11pm.",
+        "price": "$10",
+        "tags": [
+          "darkwave",
+          "post-punk",
+          "deathrock",
+          "industrial"
+        ],
+        "sources": [],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=Arlene+Francis+Center%2C+99+6th+St%2C+Santa+Rosa%2C+CA+95401",
+          "apple": "https://maps.apple.com/?q=Arlene+Francis+Center%2C+99+6th+St%2C+Santa+Rosa%2C+CA+95401"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "image": "",
+        "image_generated": false,
+        "ra": {},
+        "active": true,
+        "popularity": 4,
+        "id": "2026-07-06-music-glitter-goth-31e24f",
+        "eid": "glitter-goth-e65c"
+      },
+      {
+        "track": "music",
         "category": "Rock",
         "name": "Grateful Dead – American Beauty (Envelop Immersive Listening)",
         "day": "Mon",
@@ -1808,6 +1910,43 @@
         "popularity": 4,
         "id": "2026-07-06-music-pace-presents-sunday-brunch-322a40",
         "eid": "pace-presents-sunday-brunch-9064"
+      },
+      {
+        "track": "music",
+        "category": "Boat Party",
+        "name": "Pier Pressure Boat Party",
+        "day": "Sat",
+        "date": "2026-07-11",
+        "time": "4–7pm",
+        "area": "SF",
+        "venue": "Fisherman's Wharf",
+        "address": "Pier 39, San Francisco, CA 94133",
+        "why": "Bass on the bay in daylight — a rare on-the-water set with skyline views",
+        "summary": "A Saturday afternoon bass and house cruise departing Fisherman's Wharf, 4–7pm, spanning trap, dubstep and EDM on the water.",
+        "price": "",
+        "tags": [
+          "boat-party",
+          "daytime",
+          "trap",
+          "dubstep",
+          "bass",
+          "house"
+        ],
+        "sources": [],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=Fisherman%27s+Wharf%2C+Pier+39%2C+San+Francisco%2C+CA+94133",
+          "apple": "https://maps.apple.com/?q=Fisherman%27s+Wharf%2C+Pier+39%2C+San+Francisco%2C+CA+94133"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "image": "",
+        "image_generated": false,
+        "ra": {},
+        "active": true,
+        "popularity": 4,
+        "id": "2026-07-06-music-pier-pressure-boat-party-8f28c9",
+        "eid": "pier-pressure-boat-party-6026"
       },
       {
         "track": "music",
