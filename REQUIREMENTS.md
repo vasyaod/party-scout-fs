@@ -159,6 +159,16 @@ browser geolocation if the user already granted it -> IP-based geolocation fallb
     - **Cost:** ~1–2¢ each (≈ \$1 for a full ~80-event pass). The script is
       idempotent/incremental — it only touches events with an empty `image` and writes
       each result immediately, so it's safe to re-run/resume.
+    - **Free route (preferred for bulk fills):** offload generation to the **`codex`
+      agent** (openai/gpt-5.5), whose `image_generate` tool is covered by the
+      ChatGPT/Codex subscription — **\$0, no paid `OPENAI_API_KEY`**. Same text-free
+      recipe/prompt and same `img/gen/<eid>.jpg` output. Procedure + dispatch prompt:
+      **`party-scout-code/CODEX_IMAGE_GEN.md`**; build the resumable work-list with
+      `party-scout-code/gen_missing_list.py` → `tmp/missing_images.json`. **Mandatory:
+      VERIFY files on disk after every Codex run — Codex frequently returns empty text
+      even when it succeeded**, so never trust its self-report; re-run
+      `gen_missing_list.py` and re-dispatch the shrinking remainder until missing=0.
+      Keep `gen_images.py` (paid) as the fallback.
 20c. **A generated image is a placeholder, not final — replace it.** `image_generated:
     true` means "no real flyer yet." A later enrichment run **re-attempts** these and,
     if it now finds a real flyer, **overwrites** the generated image and flips
