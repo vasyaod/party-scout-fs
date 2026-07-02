@@ -44,10 +44,11 @@ leave blank only if genuinely unobtainable — never guess a number.
 
 ## Instagram organizer handles (parse periodically)
 
-> ⛔ **TEMPORARILY DISABLED (2026-06-25).** Do NOT run the Instagram scrape in the
-> weekly scan for now — skip `instagram/ig_events.py` and this whole source until
-> re-enabled. The handle list and code are kept below intact so it can be switched
-> back on by deleting this banner. (Paused to avoid any risk to the IG account.)
+> ✅ **RE-ENABLED (2026-07-02, owner go-ahead).** The Instagram scout is back on for
+> discovery. Run `instagram/ig_events.py` again, but follow **every** rule in
+> `instagram/README.md` (human-emulation: UI/mouse only for interactive actions, no URL
+> jumps, Search-bar nav, slow moves, typed pauses, feed breaks; private-API reads are
+> fine). Paused 06-25 for account safety; owner accepted the risk with "follow all the rules."
 
 Curated SF event organizers, **DJs, and run crews** we **periodically parse from
 Instagram** each scan, via `instagram/ig_events.py` (uses the authenticated
@@ -72,6 +73,7 @@ crews feed the **sports** track.
 | `@jeffstraw_official` | Jeff Straw — SF Bay disco-house DJ (@b4aftrmusic) | Music (DJ) | jeffstraw.com |
 | `@psy_matik` | Psymatik — hard dance fusion DJ | Music (DJ) | linktr.ee/Psymatik |
 | `@ryl3r` | Ryan Abuel (ryl3r) — DJ (SF/San Jose clubs) | Music (DJ) | posh.vip/f/5d9e8 |
+| `@fortheloudmouths` | THE LOUD MOUTHS — SF Bay artist collective / free pop-up **beach raves** (e.g. QUICKSAND) | Music | discord (invite) — events on **Partiful**, not the link; read posts/stories |
 | `@sanfranciscofnr` | SFFNR — SF Friday Night Run, last Friday monthly since 2006 | Sports (run) | (bio — no link) |
 | `@midnightrunnerssf` | Midnight Runners SF — bootcamp runs w/ music, Weds 6:30pm | Sports (run) | link.heylo.co/zdKT |
 
