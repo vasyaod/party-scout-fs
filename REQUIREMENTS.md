@@ -146,10 +146,12 @@ browser geolocation if the user already granted it -> IP-based geolocation fallb
     - **Model + endpoint:** `gpt-image-1-mini`, `quality=low`, via the **image *generations***
       endpoint (`POST https://api.openai.com/v1/images/generations`). **No style-reference
       image** — the neon look is carried by the prompt.
-    - **Prompt = a TEXT-FREE atmospheric scene** evoked from `category`/genre + vibe `tags`:
-      a cinematic nightclub scene (silhouetted crowd facing a DJ booth, volumetric haze,
-      bold neon laser lighting — deep blues/purples, magenta + teal glow, moody and dark);
-      sports track → a dynamic outdoor neon-tinged action scene. **Do NOT** pass the event
+    - **Prompt = a TEXT-FREE atmospheric scene** evoked from `category`/genre + vibe `tags`.
+      **Palette + scene are varied per-event, seeded deterministically from `eid`** (a hash
+      picks one of ~10 palettes and one of several scene archetypes) so flyers do NOT all
+      read as the same neon club shot — neighbours in a week look visibly different, but a
+      re-run reproduces the same image family. Music track → a cinematic club/festival/rave
+      scene; sports track → a dynamic outdoor action scene. **Do NOT** pass the event
       `name`/`summary`/`why` as rendered text — that produced ugly, misspelled headline
       letters. Hard negative: "ABSOLUTELY NO text, no letters, no words, no typography, no
       logos, no signage, no faces." (The card UI already shows the title.)
