@@ -34,12 +34,21 @@ browser geolocation if the user already granted it -> IP-based geolocation fallb
    listing / venue page). If it can't be verified, **drop it** — never keep vague,
    unsourced entries. (This is what caught and removed "Pride Rooftop Party
    (daytime)".)
-1a. **`sources` is an ordered list; index 0 is the highest priority.** Every event's
-   info/source links live in a `sources` **array** (replaces the old single `link`;
-   see MODEL.md) — the **Open** button uses `sources[0]`. The list is
-   **priority-ordered: the FIRST link is the most authoritative** (the anchor we
-   trust most; e.g. the RA/venue listing). Put the primary link first. Scrape
-   sources (19hz) are never stored. On merge the order is preserved (first wins) and
+1a. **`sources` is an ordered list; index 0 is the highest priority — and it must
+   collect EVERY site the event appears on, not just one.** Every event's info/source
+   links live in a `sources` **array** (replaces the old single `link`; see MODEL.md)
+   — the **Open** button uses `sources[0]`. **Gather all distinct sites where the
+   event is listed or mentioned** and store them as separate entries: the event's
+   official/organizer page, the **venue's own event page** (e.g. `themidwaysf.com`,
+   `1015.com`), the **ticketer** (RA / Tixr / Eventbrite / AXS / Dice), the IG
+   organizer post/permalink it was scouted from, and any editorial listing
+   (Funcheap, DoTheBay, etc.). Do **not** keep only the ticket link and drop the site
+   the event was discovered on. The list is **priority-ordered: the FIRST link is the
+   most authoritative** (the anchor we trust most; e.g. the RA/venue listing) — put
+   the primary link first, the rest after. The ONLY things excluded are our own
+   **scrape aggregators / listing indexes** (19hz and similar — see rule 11): those
+   just point back at our own pipeline, so resolve them to the real page instead of
+   storing them. Deduplicate by URL. On merge the order is preserved (first wins) and
    new links are appended; `[]` when none is known.
 2. **Never guess.** Leave a field `""` rather than inventing a value (price,
    venue, address, URL).
@@ -90,10 +99,15 @@ browser geolocation if the user already granted it -> IP-based geolocation fallb
    (RA / Tixr / Eventbrite / Etix / Ticketmaster / AXS / venue). **Never** a search
    engine. No real seller → no Buy-ticket button.
 10. **Open → the event website** (`sources[0]`): event info/lineup page.
-11. **No circular / source links.** Never store a scrape source (e.g. `19hz.info`) in
-    an event's `sources` list — it just points back at our own aggregator. Resolve
-    the event's real page (RA / Tixr / Eventbrite / venue / official site) or leave
-    `sources` empty (no Open button). Same for any other listing index we pull from.
+11. **No circular / source links — but that means ONLY third-party scrape indexes.**
+    Never store a **third-party aggregator / listing index** we scrape (e.g.
+    `19hz.info`, or any multi-venue index) in an event's `sources` list — it just
+    points back at our own pipeline. Resolve the event's real page instead, or leave
+    `sources` empty (no Open button). **This exclusion does NOT apply to a venue's own
+    site** (`themidwaysf.com`, `1015.com`, `halcyon-sf.com`, …) or an organizer's own
+    page — those are legitimate first-party sources and SHOULD be collected under rule
+    1a alongside the ticketer. The line: a site that lists many unrelated venues =
+    excluded aggregator; the venue/organizer describing its own event = keep it.
 12. **Map per device.** The 📍 location's `open map` link opens **Apple Maps on
     iOS/iPadOS/macOS, Google Maps elsewhere**, using the per-event `address` for a
     precise pin when known.
