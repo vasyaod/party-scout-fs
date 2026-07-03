@@ -141,10 +141,14 @@ browser geolocation if the user already granted it -> IP-based geolocation fallb
     without the upload token. The point: a freshly-added card must never ship with the bare
     stub when a real or generated image was one step away.
 
-20a. **Every event has an image.** Each event carries an `image` — a small JPG of the
-    event's flyer/hero. Enrich with `enrich_images.py`: pull the page `og:image`,
-    **preferring the ticket site** (`tickets[0]`, then `sources[0]`), fit to **≤512px**
-    (longest side), **JPEG**. Images are **hosted on the image service**, NOT committed
+20a. **Every event has an image — REAL FLYER FIRST, always.** Each event carries an
+    `image` — a small JPG of the event's flyer/hero. **A generated placeholder is a last
+    resort: only generate (rule 20b) when NO real flyer can be found on ANY of the event's
+    sources.** Enrich with `enrich_images.py`: pull the page `og:image`, and **try EVERY
+    URL the event has — every entry in `tickets[]` then every entry in `sources[]`** (the
+    ticketer, the venue's own page, the organizer page, editorial listings — the full
+    multi-site list rule 1a now collects), not just the first one. Take the first real
+    flyer found. Fit to **≤512px** (longest side), **JPEG**. Images are **hosted on the image service**, NOT committed
     to this Pages repo (Pages can't serve Git-LFS binaries, and plain files bloat the
     repo): each is `PUT` to `https://api.party-scout.app/img/<city>/<week>/<eid>.jpg`
     (auth via `IMG_TOKEN`), and `image` is set to that public URL. No flyer found →
@@ -152,9 +156,12 @@ browser geolocation if the user already granted it -> IP-based geolocation fallb
     UI shows the shared stub `https://party-scout.app/stub.jpg`. The `og:image` lookup
     is deterministic (no model needed); the intelligent fallback (read the page, pick
     the real poster, skip logos/avatars) may run on a cheaper model (e.g. Sonnet).
-20b. **Generate a placeholder when no real flyer exists — text-free club-scene recipe.**
-    When `enrich_images.py` can't find a real flyer, **generate** one with the recipe
-    below (implemented in `party-scout-code/gen_images.py`). See
+20b. **Generate a placeholder ONLY when no real flyer exists — text-free club-scene recipe.**
+    **Generation is the fallback of last resort — never generate an image while a real
+    flyer is still reachable on any of the event's sources (rule 20a).** Only once
+    `enrich_images.py` has checked **every** `tickets[]`/`sources[]` URL and found no real
+    flyer do you **generate** one with the recipe below (implemented in
+    `party-scout-code/gen_images.py`). See
     `party-scout-code/IMAGE_GEN_PROMPT_HISTORY.md` for the prompt version history and why
     the earlier neon-city-reference recipe was dropped.
     - **Model + endpoint:** `gpt-image-1-mini`, `quality=low`, via the **image *generations***
