@@ -1466,8 +1466,11 @@
           "google": "https://www.google.com/maps/search/?api=1&query=Rickshaw+Stop%2C+155+Fell+St%2C+San+Francisco%2C+CA+94102",
           "apple": "https://maps.apple.com/?q=Rickshaw+Stop%2C+155+Fell+St%2C+San+Francisco%2C+CA+94102"
         },
-        "coords": null,
-        "coords_precise": false,
+        "coords": {
+          "lat": 37.77599,
+          "lon": -122.420475
+        },
+        "coords_precise": true,
         "image": "https://party-scout.app/img/gen/all-your-friends-4e01.jpg",
         "image_generated": true,
         "ra": {},
@@ -1499,8 +1502,11 @@
           "google": "https://www.google.com/maps/search/?api=1&query=The+Loom%2C+1738+Telegraph+Ave%2C+Oakland%2C+CA+94612",
           "apple": "https://maps.apple.com/?q=The+Loom%2C+1738+Telegraph+Ave%2C+Oakland%2C+CA+94612"
         },
-        "coords": null,
-        "coords_precise": false,
+        "coords": {
+          "lat": 37.807134,
+          "lon": -122.27004
+        },
+        "coords_precise": true,
         "image": "https://party-scout.app/img/gen/apres-mundi-830f.jpg",
         "image_generated": true,
         "ra": {},
@@ -1610,8 +1616,11 @@
           "google": "https://www.google.com/maps/search/?api=1&query=Arlene+Francis+Center%2C+99+6th+St%2C+Santa+Rosa%2C+CA+95401",
           "apple": "https://maps.apple.com/?q=Arlene+Francis+Center%2C+99+6th+St%2C+Santa+Rosa%2C+CA+95401"
         },
-        "coords": null,
-        "coords_precise": false,
+        "coords": {
+          "lat": 38.43894,
+          "lon": -122.722082
+        },
+        "coords_precise": true,
         "image": "https://party-scout.app/img/gen/glitter-goth-e65c.jpg",
         "image_generated": true,
         "ra": {},
@@ -1887,8 +1896,11 @@
           "google": "https://www.google.com/maps/search/?api=1&query=Fisherman%27s+Wharf%2C+Pier+39%2C+San+Francisco%2C+CA+94133",
           "apple": "https://maps.apple.com/?q=Fisherman%27s+Wharf%2C+Pier+39%2C+San+Francisco%2C+CA+94133"
         },
-        "coords": null,
-        "coords_precise": false,
+        "coords": {
+          "lat": 37.808809,
+          "lon": -122.410088
+        },
+        "coords_precise": true,
         "image": "https://party-scout.app/img/gen/pier-pressure-boat-party-6026.jpg",
         "image_generated": true,
         "ra": {},
@@ -2579,7 +2591,10 @@
           "google": "https://www.google.com/maps/search/?api=1&query=Original+Pattern+Brewing+Co.%2C+Oakland",
           "apple": "https://maps.apple.com/?q=Original+Pattern+Brewing+Co.%2C+Oakland"
         },
-        "coords": null,
+        "coords": {
+          "lat": 37.804456,
+          "lon": -122.271356
+        },
         "coords_precise": false,
         "image": "https://party-scout.app/img/gen/2026-07-06-sports-oakland-beer-runners-lake-merrit-bb026a.jpg",
         "image_generated": true,
