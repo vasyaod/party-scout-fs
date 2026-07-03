@@ -30,6 +30,7 @@ web_fetch/HTTP, `GQL` = `ra.co/graphql`, `JSON-LD` = schema.org in the page,
 | **Halcyon (venue)** | https://halcyon-sf.com/main/tickets/ | L + P | Music | common | SoMa club (314 11th St). Full upcoming-events + ticket listing; each event links out to its ticketer (mostly Dice). |
 | **The Regency Ballroom (venue)** | https://www.theregencyballroom.com/shows | L + P | Music | common | 1300 Van Ness. "Shows" page = upcoming-events calendar; events link out to AXS/Ticketmaster for price. |
 | **1015 Folsom (venue)** | https://1015.com/ | L + P | Music | HTTP | SoMa mega-club (1015 Folsom St), big-room EDM/house/techno/bass. **Homepage renders the full upcoming-shows calendar in plain HTML** (date + artist); each show links out to its ticketer (**mostly RA/ra.co**, some Dice) for tickets/price. |
+| **The Midway (venue)** | https://themidwaysf.com/Events/ | L + P | Music | common | Dogpatch/Central Waterfront warehouse venue (900 Marin St), EDM/house/techno/bass + big **day parties**. `/Events/` = upcoming-events calendar. **Cloudflare-gated → render via `common`** (plain HTTP 403s). Events link out to **AXS / Eventbrite / venue box office** for price. |
 | **See Tickets / Posh / Etix** | various | P | Music | common | Misc ticketers the 19hz/RA rows link to. |
 | **Do415** | https://do415.com | L | Both | web_search | SF happenings. |
 | **Funcheap** | https://sf.funcheap.com | L (free) | Both | HTTP | Good for free/outdoor events. |
