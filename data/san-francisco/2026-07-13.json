@@ -1951,8 +1951,11 @@
           "google": "https://www.google.com/maps/search/?api=1&query=The+Midway+%28Terrace%29%2C+900+Marin+St%2C+San+Francisco%2C+CA+94124",
           "apple": "https://maps.apple.com/?q=The+Midway+%28Terrace%29%2C+900+Marin+St%2C+San+Francisco%2C+CA+94124"
         },
-        "coords": null,
-        "coords_precise": false,
+        "coords": {
+          "lat": 37.74953,
+          "lon": -122.386094
+        },
+        "coords_precise": true,
         "image": "",
         "image_generated": false,
         "ra": {},
