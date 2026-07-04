@@ -50,6 +50,16 @@ browser geolocation if the user already granted it -> IP-based geolocation fallb
    just point back at our own pipeline, so resolve them to the real page instead of
    storing them. Deduplicate by URL. On merge the order is preserved (first wins) and
    new links are appended; `[]` when none is known.
+1b. **Same event from another source → ADD the source, never duplicate.** When a scan
+   finds an event that is **already in the DB** — the same real-world event (match on
+   artist/name + date + venue, even if a *different* source surfaced it or the title
+   string differs) — do **not** create a second card. Fold the new URL into the existing
+   event's `sources` (and `tickets` if it's a ticketer) per rule 1a, and merge any newly
+   learned fields (price, address, flyer…). Add a NEW event only when it is genuinely not
+   present yet. Note `generate.py` merges by a stable `id` derived from
+   week+track+name/day/area/venue, so when the new source spells the name/venue
+   differently, reuse the existing event's `id` (edit the existing entry) instead of
+   letting a near-duplicate spawn a second card.
 2. **Never guess.** Leave a field `""` rather than inventing a value (price,
    venue, address, URL).
 3. **Weeks are Monday-dated, and every event is filed by its own date.** A week
