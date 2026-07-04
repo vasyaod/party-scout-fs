@@ -76,6 +76,7 @@ crews feed the **sports** track.
 | `@psy_matik` | Psymatik — hard dance fusion DJ | Music (DJ) | linktr.ee/Psymatik |
 | `@ryl3r` | Ryan Abuel (ryl3r) — DJ (SF/San Jose clubs) | Music (DJ) | posh.vip/f/5d9e8 |
 | `@sethfinkin` | Seth Finkin — SF DJ (8.5k) | Music (DJ) | soundcloud (sethfinkin) — no event link; gigs in posts/stories |
+| `@alldayallnightevents` | All Day All Night — SF Bay music/concert promoter since 2009 (24k, @audiosf); open-airs + club shows | Music | **alldayallnightevents.com** — full parseable events list (venue + date) |
 | `@fortheloudmouths` | THE LOUD MOUTHS — SF Bay artist collective / free pop-up **beach raves** (e.g. QUICKSAND) | Music | discord (invite) — events on **Partiful**, not the link; read posts/stories |
 | `@sanfranciscofnr` | SFFNR — SF Friday Night Run, last Friday monthly since 2006 | Sports (run) | (bio — no link) |
 | `@midnightrunnerssf` | Midnight Runners SF — bootcamp runs w/ music, Weds 6:30pm | Sports (run) | link.heylo.co/zdKT |
