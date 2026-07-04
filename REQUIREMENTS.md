@@ -60,6 +60,13 @@ browser geolocation if the user already granted it -> IP-based geolocation fallb
    week+track+name/day/area/venue, so when the new source spells the name/venue
    differently, reuse the existing event's `id` (edit the existing entry) instead of
    letting a near-duplicate spawn a second card.
+1c. **Auto-add new events — don't ask.** When a scan (or a source the user forwards)
+   turns up an event that is **verified** (rule 1), **in the scan window**, and **not
+   already in the DB** (rule 1b dedup), ADD it immediately with full enrichment — do
+   **not** pause to ask "want me to add it?". Report what was added afterward. Only stop
+   to ask when there's a genuine judgment call (off-genre / quality doubt, a data
+   conflict, or an event that would need guessing a core field). Default is act, then
+   summarize.
 2. **Never guess.** Leave a field `""` rather than inventing a value (price,
    venue, address, URL).
 3. **Weeks are Monday-dated, and every event is filed by its own date.** A week
