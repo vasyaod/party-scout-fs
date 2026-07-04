@@ -76,6 +76,13 @@ browser geolocation if the user already granted it -> IP-based geolocation fallb
    and merge it there — **create the week file if it doesn't exist yet.** Never dump
    an event into the current week regardless of date; one organizer's events can land
    in different weeks, so split them by date.
+3b. **Scan window = current week + the next 3 weeks (4 Monday-dated buckets).** "In the
+   scan window" (rules 1c, 4) means an event whose date falls in the current week's
+   Monday through the end of the 3rd week after it — 4 weekly buckets total. E.g. with
+   the current Monday `2026-06-29`, in-window = weeks `2026-06-29, 07-06, 07-13, 07-20`
+   (dates through Sun 2026-08-02). Events dated beyond that are out-of-window: note
+   them, don't add them, until the window rolls forward to include them. (Widened from
+   3→4 buckets on 2026-07-04.)
 3a. **Every week has a short `title` (3–4 words).** Each week's `title` is a tight
    3–4-word label capturing the weekend's character (e.g. `"SF Pride weekend"`,
    `"July 4th weekend"`). No parentheticals or trailing qualifiers like
