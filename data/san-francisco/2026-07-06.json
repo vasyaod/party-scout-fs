@@ -1347,9 +1347,13 @@
           "dance"
         ],
         "sources": [
-          "https://www.theindependentsf.com/tm-event/young-franco/"
+          "https://www.theindependentsf.com/tm-event/young-franco/",
+          "https://www.instagram.com/p/DZGvoTADKvf/",
+          "https://ra.co/events/2393750"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://www.axs.com/events/1371473/young-franco-tickets"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=The+Independent%2C+628+Divisadero+St%2C+San+Francisco%2C+CA+94117",
           "apple": "https://maps.apple.com/?q=The+Independent%2C+628+Divisadero+St%2C+San+Francisco%2C+CA+94117"
@@ -1360,8 +1364,11 @@
         },
         "coords_precise": true,
         "image": "https://party-scout.app/img/gen/young-franco-in-the-round-0cba.jpg",
-        "image_generated": true,
-        "ra": {},
+        "image_generated": false,
+        "ra": {
+          "event_id": "2393750",
+          "url": "https://ra.co/events/2393750"
+        },
         "active": true,
         "popularity": 5,
         "id": "2026-07-06-music-young-franco-in-the-round-1f0760",
