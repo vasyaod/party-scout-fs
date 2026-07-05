@@ -259,3 +259,22 @@ browser geolocation if the user already granted it -> IP-based geolocation fallb
     week and the event, e.g. `…/#/2026-06-22/kaskade-90bf` — the site loads that
     week, then reveals (past Show more), scrolls to, and highlights the event. A
     per-card `#` anchor copies that link.
+
+## Date filters (site + app)
+
+22. **Quick date filter chips, above the grid.** In place of the always-on week
+    dropdown, show a chip row: **This week** (default) · **Today** · **Tomorrow** ·
+    **Next week** · **📅 (pick week)** · **✕ (clear)**. Identical behaviour on web
+    and phone (mirror both `App.jsx`s + `lib.js`).
+    - **This week** — the current weekly bucket (`currentWeekStart`); the default.
+    - **Today / Tomorrow** — load whichever weekly bucket *contains that date*
+      (`weekStartOn`; tomorrow can spill into next week, e.g. a Sun→Mon roll) and
+      narrow the grid to that single calendar date (`isOnDate`). Past-but-today
+      events still show (faded), sunk to the bottom like everywhere else.
+    - **Next week** — the bucket immediately after the current one (null → empty).
+    - **📅 pick** — keeps the current week and reveals the `◀ WeekPicker ▶` control
+      so any bucket is browsable; the dropdown is hidden in every other mode.
+    - **✕ clear** — only visible when a non-default filter is active; returns to
+      This week. A deep link to a non-current week opens in pick mode.
+    - Empty states are filter-aware ("No events today." / "…tomorrow." / "…this
+      week.").
