@@ -264,8 +264,9 @@ browser geolocation if the user already granted it -> IP-based geolocation fallb
 
 22. **Quick date filter chips, above the grid.** In place of the always-on week
     dropdown, show a chip row: **This week** (default) · **Today** · **Tomorrow** ·
-    **Next week** · **📅 (pick week)** · **✕ (clear)**. Identical behaviour on web
-    and phone (mirror both `App.jsx`s + `lib.js`).
+    **Next week** · **📅 (pick week)**. Identical behaviour on web and phone (mirror
+    both `App.jsx`s + `lib.js`). No separate clear button — the **This week** chip is
+    the reset.
     - **This week** — the current weekly bucket (`currentWeekStart`); the default.
     - **Today / Tomorrow** — load whichever weekly bucket *contains that date*
       (`weekStartOn`; tomorrow can spill into next week, e.g. a Sun→Mon roll) and
@@ -274,7 +275,6 @@ browser geolocation if the user already granted it -> IP-based geolocation fallb
     - **Next week** — the bucket immediately after the current one (null → empty).
     - **📅 pick** — keeps the current week and reveals the `◀ WeekPicker ▶` control
       so any bucket is browsable; the dropdown is hidden in every other mode.
-    - **✕ clear** — only visible when a non-default filter is active; returns to
-      This week. A deep link to a non-current week opens in pick mode.
+    - A deep link to a non-current week opens in pick mode.
     - Empty states are filter-aware ("No events today." / "…tomorrow." / "…this
       week.").
