@@ -83,8 +83,15 @@ browser geolocation if the user already granted it -> IP-based geolocation fallb
    (dates through Sun 2026-08-02). Events dated beyond that are out-of-window: note
    them, don't add them, until the window rolls forward to include them. (Widened from
    3→4 buckets on 2026-07-04.)
+3c. **Research the WHOLE week, not just the weekend.** When scanning/searching for
+   events, cover all seven days **Mon–Sun**, not only Fri–Sun. Weeknight nightlife is
+   real and in-scope — Monday goth/industrial nights, Tuesday/Wednesday residencies,
+   Thursday openers, midweek gigs and day events all count. Don't skip a day because
+   it isn't the weekend; file each event into its own date (rule 3) whatever weekday
+   it lands on. The ~40-per-track target (rule 4) spans the full week, not the weekend
+   alone.
 3a. **Every week has a short `title` (3–4 words).** Each week's `title` is a tight
-   3–4-word label capturing the weekend's character (e.g. `"SF Pride weekend"`,
+   3–4-word label capturing the week's character (e.g. `"SF Pride weekend"`,
    `"July 4th weekend"`). No parentheticals or trailing qualifiers like
    `"(stacked)"` / `"(open-air + block parties)"` — keep it punchy. It shows in the
    site's week picker (`window · N events · title`), so it must stay scannable.
