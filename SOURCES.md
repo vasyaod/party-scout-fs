@@ -173,6 +173,11 @@ each event links out to its ticketer for price.
 |--------|-----|-------|---------------|
 | `@flapjackthekandikid` | DJ Flapjack — LA-based hardcore/kandi DJ (27k); heavy US/EU festival + rave touring (EDC, Burning Man) and LA renegade scene | Music (hardcore) | gig announcements in post captions (multi-date tour graphics); no single event link |
 | `@climaxevents.la` | Climax Events LA — LA warehouse/renegade rave promoter, "2 events every weekend" (21.5k) | Music (rave) | tickets via bio link (+ SMS "text CLIMAX to (833)595-0508"); event flyers in posts/stories |
+| `@cyboy_` | CYBOY — TECHNOPUNK LA DJ; co-founds Malfunction.la / Blind Tiger.la parties (7.5k) | Music (techno) | posts own flyers + stories |
+| `@ruukachan` | DJ RURU (Ruuka) — LA hard-techno DJ (6k) | Music (hard techno) | gig flyers + stories |
+| `@andrewleedj` | Andrew Lee / HARDWERQ — LA house DJ; owns LA Raves / Rave Hard / MadHouse (4.2k) | Music (house/rave) | event flyers in posts |
+| `@ginakuhn` | Gina Kuhn — LA DJ, Machine Club (Club Teegee) resident (3.5k) | Music (DJ) | posts her nights + stories |
+| `@staticproductions.llc` | Static — LA-based rave DJ/production (3.1k) | Music (rave) | gig/flyer posts |
 
 **Run/cycle crews (LA):** _(TBD — LA run/cycle clubs for the sports track.)_
 
