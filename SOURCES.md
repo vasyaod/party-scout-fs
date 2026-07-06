@@ -131,6 +131,8 @@ python3 instagram/ig_events.py soundmeditationpresents audiumsf   # specific han
 | `@raferrawb` | Rafer Rawb — Oakland hardcore DJ; promotes own Bay/North-Bay underground raves | Music (hardcore) | event details in post captions ("Legendary 90's Rave") |
 | `@_dr1ft_` | Dr1ft — Bay Area hardcore/uptempo DJ; promotes NorCal raves (Stockton/SF) | Music (hardcore) | party flyers + captions |
 | `@froggin_it_up` | Froggin — Oakland DJ; self-promotes own parties/events (geo-tags Oakland) | Music (hardcore/gabber) | event flyers + captions ("TIX HERE" bio link) |
+| `@lyssnupmusic` | LYSSN UP — SF/Bay techno DJ/producer (Replicate Blackout); geotags Halcyon SF / San Jose (3k) | Music (techno) | gig posts |
+| `@maxgardnermusic` | Max Gardner — SF techno DJ/producer (Throttle SF, Peer/Direct to Earth); Halcyon SF etc., tours intl (4.3k) | Music (techno) | gig posts/flyers |
 | `@sanfranciscofnr` | NorCal motorcycle riding club (linked @familyandmotorcycles); group canyon/highway rides — moto rides go into the sports/Activity track (category `Moto`), on-topic | Sports (moto) | (bio — no link) |
 | `@midnightrunnerssf` | Midnight Runners SF — bootcamp runs w/ music, Weds 6:30pm | Sports (run) | link.heylo.co/zdKT |
 
