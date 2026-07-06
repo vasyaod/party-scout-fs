@@ -178,6 +178,11 @@ each event links out to its ticketer for price.
 | `@andrewleedj` | Andrew Lee / HARDWERQ — LA house DJ; owns LA Raves / Rave Hard / MadHouse (4.2k) | Music (house/rave) | event flyers in posts |
 | `@ginakuhn` | Gina Kuhn — LA DJ, Machine Club (Club Teegee) resident (3.5k) | Music (DJ) | posts her nights + stories |
 | `@staticproductions.llc` | Static — LA-based rave DJ/production (3.1k) | Music (rave) | gig/flyer posts |
+| `@bigmixmike` | Big Mix Mike — LA DJ; weekly **Reggae Love Sundays** residency @ Club Tee Gee (2.9k) | Music (reggae/dj) | posts residency + gigs |
+| `@iambombsqvad` | BOMB-E — LA acid-techno DJ (8.4k); all-LA gigs (Skid Row/DTLA) | Music (acid techno) | LA gig posts + stories |
+| `@itspinkstiletto` | Pink Stiletto — LA DJ (Catch One etc.), also tours (5.6k) | Music (dj) | gig flyers |
+| `@vonwolfenheiser.ox` | Annika Wolfe — LA techno artist, Akela Recordings (6k) | Music (techno) | releases + gigs/stories |
+| `@rawvictoria` | Victoria Rawlins — LA DJ/artist + radio host (Psychic Bassline, SiriusXM) (10k) | Music (dj) | gigs |
 
 **Run/cycle crews (LA):** _(TBD — LA run/cycle clubs for the sports track.)_
 
