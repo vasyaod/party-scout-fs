@@ -69,6 +69,15 @@ browser geolocation if the user already granted it -> IP-based geolocation fallb
    summarize.
 2. **Never guess.** Leave a field `""` rather than inventing a value (price,
    venue, address, URL).
+2a. **Structured start/end times.** Besides the human `time` string, each event
+   carries **`start`** and **`end`** as 24-hour **`"HH:MM"`** strings (or `null` when
+   unknown). These are what the site uses for the fade / past-event logic, so it
+   never has to parse the fuzzy `time` (which broke on "4–10pm" etc.). Rules:
+   `end` earlier than `start` ⇒ the event **crosses midnight** (e.g. `"22:00"` →
+   `"03:00"`); a lone start with no end (`"9pm"` → `start:"21:00", end:null`) gets a
+   ~4h grace client-side. When you ADD an event, set `start`/`end` explicitly from
+   the flyer when you can (most reliable); otherwise `generate.py` derives them from
+   `time` (`derive_times`). `null`/omitted is fine when there's genuinely no time.
 3. **Weeks are Monday-dated, and every event is filed by its own date.** A week
    file/`week_start` is the Monday of the week it covers. When a new event is found
    (from any source — the scan, the Instagram organizers in SOURCES.md, or one the
