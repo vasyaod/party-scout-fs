@@ -260,6 +260,16 @@ browser geolocation if the user already granted it -> IP-based geolocation fallb
     `image_generated` to `false`. Never overwrite a *real* flyer with a generated one,
     and never overwrite a generated one with the stub.
 
+20d. **Image enrichment runs event-by-event, not as a batch — one sub-sub-agent per
+    event, commit every 5–10.** When a Sonnet enrichment sub-agent fills images, it must
+    process events **one at a time**, spawning a small **event sub-sub-agent per event**
+    that does the full "discover the real flyer (rule 20a) → generate a placeholder only
+    if none is found (rule 20b)" for that single event. **Do NOT** run image discovery/gen
+    as one big batch pass over the whole week — per-event keeps each unit small, isolates
+    failures (a gated page or a bad gen doesn't stall the rest), and lets a real flyer be
+    resolved before falling back to generation. **Commit after every 5–10 events** (not
+    once at the very end) so progress is durable and a crash never loses a long unsaved run.
+
 ## Generation
 
 15. Data is **generated**, not hand-edited. The generator + reusable enrichment
