@@ -147,21 +147,21 @@ python3 instagram/ig_events.py soundmeditationpresents audiumsf   # specific han
 | **Funcheap LA** | https://losangeles.funcheap.com | L (free) | Both | HTTP | Free/outdoor events. |
 
 **Big promoters (LA)** — the recurring organizers on the 19hz LA listing, ranked by
-how often they appear + IG-verified as big (follower count). Browse their site/link
-for their event calendar; each event links out to its ticketer for price.
+how often they appear + IG-verified as big (follower count). Each **site-verified**
+as actually running LA events (19hz "LA" spans SoCal, so San Diego promoters were
+split out into their own section below). Browse their site/link for the calendar;
+each event links out to its ticketer for price.
 
-| Promoter | Instagram | Website / link | Notes |
+| Promoter | Instagram | Website / link | Notes (site-verified LA) |
 |----------|-----------|----------------|-------|
-| **Insomniac Events** | @insomniacevents (942k) | https://insomniac.com | EDC / Factory 93 / Day Trip — the biggest EDM promoter. |
-| **Brownies & Lemonade** | @browniesandlemonade (201k) | https://linktr.ee/browniesandlemonade | Genre-bending LA shows + festivals. |
-| **Goldenvoice** | @goldenvoice (149k) | https://goldenvoice.com | AEG's LA arm — Coachella + most big concerts/venues. |
-| **FNGRS CRSSD** | @fngrscrssd (79k) | https://fngrscrssd.com | ⚠️ **San Diego, NOT LA** — CRSSD Festival @ Waterfront Park + Spin/EQ/Quartyard (all SD). On 19hz "LA" only because it spans SoCal. |
-| **LED Presents** | @ledpresents (74k) | https://ledpresents.com | Big-room EDM/bass. ⚠️ **San Diego-centric** (calendar shows SD venues: Spin/EQ/Quartyard) — appears on 19hz "LA" because that listing spans SoCal. Verify LA coverage before relying on it. |
-| **Restless Nites** | @restlessnites (29k) | https://restlessnites.com | Indie/alt/underground event series. |
-| **Minimal Effort** | @minimaleffortla (21k) | https://linktr.ee/underratedpresents | Warehouse techno (by Underrated Presents). |
-| **Subtract Music** | @subtractmusic (13k) | https://linktr.ee/subtractmusic | Events + label; house/techno (IG-verified). |
-| **This Ain't Bristol** | @thisaintbristol (13k) | https://linktr.ee/thisaintbristol | Bass / dubstep / underground. |
-| **Azure Day Party SoCal** | @azuredaypartysocal (7k) | https://azuredaypartysocal.com | ⚠️ **Orange County, not LA proper** — all events @ The Bungalow, **Huntington Beach**. |
+| **Insomniac Events** | @insomniacevents (942k) | https://insomniac.com | ✅ LA — HARD Summer, Lost In Dreams, Factory 93/Day Trip (also national). |
+| **Brownies & Lemonade** | @browniesandlemonade (201k) | https://linktr.ee/browniesandlemonade | ✅ LA-based — Shrine/The Roxy/warehouse parties (+ national takeovers). |
+| **Goldenvoice** | @goldenvoice (149k) | https://goldenvoice.com | ✅ LA — Greek Theatre, The Novo, El Rey, Shrine, Roxy (AEG's LA arm). |
+| **Restless Nites** | @restlessnites (29k) | https://restlessnites.com | ✅ LA — LA nightlife guide/ticketing (LA city selector). |
+| **Minimal Effort** | @minimaleffortla (21k) | https://linktr.ee/underratedpresents | ✅ LA — Underrated Presents, 📍Los Angeles (Arts District, warehouse techno). |
+| **Subtract Music** | @subtractmusic (13k) | https://linktr.ee/subtractmusic | ✅ LA metro — "Subtract On The Pier" + Love Long Beach Festival (**Long Beach**). |
+| **This Ain't Bristol** | @thisaintbristol (13k) | https://linktr.ee/thisaintbristol | LA-associated bass/house label+party (link is music-heavy; confirm venues at scan). |
+| **Azure Day Party SoCal** | @azuredaypartysocal (7k) | https://azuredaypartysocal.com | ⚠️ **Orange County** — all events @ The Bungalow, **Huntington Beach** (greater-LA-ish, not LA proper). |
 
 **Venues (LA):** _(TBD — add as they surface, e.g. via 19hz/RA listings.)_
 
@@ -172,6 +172,23 @@ for their event calendar; each event links out to its ticketer for price.
 | `@flapjackthekandikid` | DJ Flapjack — LA-based hardcore/kandi DJ (27k); heavy US/EU festival + rave touring (EDC, Burning Man) and LA renegade scene | Music (hardcore) | gig announcements in post captions (multi-date tour graphics); no single event link |
 
 **Run/cycle crews (LA):** _(TBD — LA run/cycle clubs for the sports track.)_
+
+---
+
+## San Diego (documented, NOT an active city yet)
+
+> **Reference section only — there is no `san-diego` city in the generator yet.**
+> These surfaced on the 19hz "Los Angeles" listing (which spans all SoCal) but are
+> genuinely **San Diego**, so they're split out here rather than mislabeled as LA.
+> RA agrees SD is its own region (`ra.co/events/us/sandiego`, area 309 — separate
+> from LA area 23). **Parked** until/if a San Diego city is added — do NOT scout
+> these into LA/SF (their events have no city home yet), so they're kept OUT of
+> `ig_events.py` `SEED_HANDLES` for now.
+
+| Promoter | Instagram | Website / link | Notes |
+|----------|-----------|----------------|-------|
+| **FNGRS CRSSD** | @fngrscrssd (79k) | https://fngrscrssd.com | CRSSD Festival @ Waterfront Park + Proper; house/techno — all San Diego. |
+| **LED Presents** | @ledpresents (74k) | https://ledpresents.com | Big-room EDM/bass; calendar is SD venues (Spin/EQ/Quartyard/Gallagher Sq). |
 
 ---
 
