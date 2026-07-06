@@ -88,6 +88,15 @@ crews feed the **sports** track.
 | `@djlisarose` | Lisa Rose — SF underground house DJ | Music (DJ) | gigs in post captions (e.g. The Bank SF) |
 | `@sanfranciscofnr` | SFFNR — SF Friday Night Run, last Friday monthly since 2006 | Sports (run) | (bio — no link) |
 | `@midnightrunnerssf` | Midnight Runners SF — bootcamp runs w/ music, Weds 6:30pm | Sports (run) | link.heylo.co/zdKT |
+| `@raferrawb` | Rafer Rawb — Oakland hardcore DJ; promotes own Bay/North-Bay underground raves | Music (hardcore) | event details in post captions (e.g. "Legendary 90's Rave") |
+| `@_dr1ft_` | Dr1ft — Bay Area hardcore/uptempo DJ; promotes NorCal raves (Stockton/SF) | Music (hardcore) | party flyers + captions |
+| `@froggin_it_up` | Froggin — Oakland DJ; self-promotes own parties/events (geo-tags Oakland) | Music (hardcore/gabber) | event flyers + captions ("TIX HERE" bio link) |
+
+> **Sourcing focus — small local events:** the goal is small local parties / bar
+> nights, so prioritize **LOCAL DJs who self-promote their OWN parties** on IG
+> (Bay Area residents posting their gig flyers) over big touring headliners (who
+> pass through but don't run local nights). E.g. keep Rafer Rawb / Dr1ft / Froggin
+> (local, self-promoting); a national act like DJ Flapjack is not a useful source.
 
 ```bash
 python3 instagram/ig_events.py                       # all SEED_HANDLES
