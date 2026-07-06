@@ -40,6 +40,9 @@ web_fetch/HTTP, `GQL` = `ra.co/graphql`, `JSON-LD` = schema.org in the page,
 | **Strava clubs** | https://www.strava.com/clubs | L | Sports | web_search | Local moto/cycling/run clubs. |
 | **Instagram organizers** | (handle list below) | L | Music / Immersive | `ig` | `instagram/ig_events.py` → bio + external link per handle (post feed is empty now). Events live on the linked linktr.ee/site → fetch + AI-parse. See handle list below. |
 
+**Excluded (do NOT scan / add as a source):**
+- **Stern Grove Festival** (`sterngrove.org`) — an **annual, once-a-year festival series**, not the recurring nightlife/party scene Party Scout tracks. Don't list it as a source or auto-add its concerts. (Any Stern Grove events already in the DB stay; just don't scan the site for more.)
+
 **Price-source order** (cheapest → heaviest): **19hz column → RA GraphQL → Eventbrite
 JSON-LD → `common`-session render** (Tixr/AXS/RA-HTML/venue). Free/outdoor/park → `Free`;
 leave blank only if genuinely unobtainable — never guess a number.
