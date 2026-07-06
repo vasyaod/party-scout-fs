@@ -38,7 +38,10 @@
           "google": "https://www.google.com/maps/search/?api=1&query=Secret+SF+Warehouse%2C+SF",
           "apple": "https://maps.apple.com/?q=Secret+SF+Warehouse%2C+SF"
         },
-        "coords": null,
+        "coords": {
+          "lat": 37.787936,
+          "lon": -122.40752
+        },
         "coords_precise": false,
         "image": "https://party-scout.app/img/gen/roll-24-legend-of-the-kandi-0a03.jpg",
         "image_generated": false,
