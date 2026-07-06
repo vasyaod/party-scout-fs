@@ -83,6 +83,9 @@ crews feed the **sports** track.
 | `@alldayallnightevents` | All Day All Night — SF Bay music/concert promoter since 2009 (24k, @audiosf); open-airs + club shows | Music | **alldayallnightevents.com** — full parseable events list (venue + date) |
 | `@fortheloudmouths` | THE LOUD MOUTHS — SF Bay artist collective / free pop-up **beach raves** (e.g. QUICKSAND) | Music | discord (invite) — events on **Partiful**, not the link; read posts/stories |
 | `@benseagren` | Ben Seagren — SF house/techno DJ, co-founder & resident of **DISTRIKT** (@distrikt_org); plays Public Works SF etc. Personal handle ~2.5k (bigger reach lives under DISTRIKT) | Music (DJ) | benseagren.com/music/upcoming-events — upcoming-events page (parse); gig dates also in post captions |
+| `@miguelmigsmusic` | Miguel Migs — SF/Bay deep-house legend (Salted/Naked Music), 28.8k; tours nationally so not every gig is SF | Music (DJ) | gig dates in post captions (e.g. Quartyard SD, It'll Do Dallas); check bio link |
+| `@djtajsf` | DJ Taj — SF-native DJ since '91 (1015 Folsom, Spundae) | Music (DJ) | gigs in post captions/stories (e.g. Hawthorn SF, Mars Bar SF) |
+| `@djlisarose` | Lisa Rose — SF underground house DJ | Music (DJ) | gigs in post captions (e.g. The Bank SF) |
 | `@sanfranciscofnr` | SFFNR — SF Friday Night Run, last Friday monthly since 2006 | Sports (run) | (bio — no link) |
 | `@midnightrunnerssf` | Midnight Runners SF — bootcamp runs w/ music, Weds 6:30pm | Sports (run) | link.heylo.co/zdKT |
 
