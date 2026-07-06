@@ -21,7 +21,7 @@ web_fetch/HTTP, `GQL` = `ra.co/graphql`, `JSON-LD` = schema.org in the page,
 | Site | URL | Use | Track | Fetch | Notes |
 |------|-----|-----|-------|-------|-------|
 | **19hz** | https://19hz.info/eventlisting_BayArea.php | L + **P** | Music | HTTP | **Anchor source.** Chronological, has a price column; rows link out to the ticketer. Try price here first. |
-| **Resident Advisor (RA)** | https://ra.co/events/us/sanfrancisco | L + P | Music | GQL / common | `ra_interest.py` → `ra.co/graphql`: `interestedCount` + `tickets[].priceRetail` (price only when RA sells the tickets). HTML is Cloudflare-gated → render via `common`. |
+| **Resident Advisor (RA)** | https://ra.co/events/us/sanfrancisco | L + P + flyer | Music | GQL / common | `enrich_ra.py` → `ra.co/graphql` (bare, not Cloudflare-gated): `interestedCount`/`attending` (the "rating") + the **poster** via `event.images[]` (the `FLYERFRONT` one; `filename` is a direct images.ra.co URL that downloads bare). CLI: `enrich_ra.py flyer <ra_id\|url> <out.jpg>` / `flyerurl <id>`; import `flyer_url()` / `save_flyer()`. Event HTML is Cloudflare-gated → render via `common`. |
 | **EDMtrain** | https://edmtrain.com/san-francisco-ca | L | Music | HTTP / web_search | Good listing, sparse pricing. |
 | **Eventbrite** | https://www.eventbrite.com/d/ca--san-francisco/ | L + P | Both | JSON-LD | `eb_demand.py`: `offers.lowPrice/highPrice` + SoldOut/salesStatus. |
 | **Dice** | https://dice.fm | L + P | Music | common | Price in JS app. |
