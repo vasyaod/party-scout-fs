@@ -32,6 +32,7 @@ section** while the extraction tool is described here.
 | **Eventbrite** | eventbrite.com (per-city discovery URL in city section) | L + P | Both | JSON-LD | `eb_demand.py`: `offers.lowPrice/highPrice` + SoldOut/salesStatus from the page JSON-LD. |
 | **Dice** | https://dice.fm | L + P | Music | common | Price in JS app. |
 | **AXS / Ticketmaster / venue box office** | e.g. https://thefoxoakland.com | P | Music | common | Price sits in a Buy-Tickets **widget/iframe** — open/expand it, don't just scrape body. |
+| **TicketWeb** | https://www.ticketweb.com | P + flyer | Music | ephemeral RBS | `ticketweb.py`: JS-rendered (bare = ~10KB shell), so one ephemeral remote-browser fetch → read the page's schema.org **JSON-LD** (`Event`) in one shot → flyer (`i.ticketweb.com`, downloads bare) + venue/full-address + start + price. `event_info(url)` → `{image, name, address, start, time, price, …}`; `save_flyer(img_or_url, out)` ≤512px JPEG. Note: its `price` is the **online total incl. fee** — the flyer's door price may differ. |
 | **See Tickets / Posh / Etix** | various | P | Music | common | Misc ticketers the 19hz/RA rows link to. |
 | **Meetup** | https://www.meetup.com | L + P | Sports | web_search / common | Rides/runs/club meets; default **Free** unless a fee is shown. |
 | **RunGuides / RunningInTheUSA** | https://runguides.com · https://runningintheusa.com | L | Sports (running) | web_search | Race calendars (national — filter by city). |
