@@ -116,6 +116,15 @@ browser geolocation if the user already granted it -> IP-based geolocation fallb
    it isn't the weekend; file each event into its own date (rule 3) whatever weekday
    it lands on. The ~40-per-track target (rule 4) spans the full week, not the weekend
    alone.
+3e. **The weekly scan uses WEBSITES / APIs only — Instagram is a SEPARATE process.**
+   The scheduled scan pulls from the web/API sources in SOURCES.md (19hz, RA,
+   EDMtrain, Eventbrite, Dice, Tixr, TicketWeb, venue sites, Funcheap, Meetup, etc.).
+   **Do NOT run the Instagram scout as part of the weekly scan.** Instagram
+   organizer/DJ handles are covered by a **separate hourly IG scout** cron ("IG hourly
+   random-handle event scout"), which shares the single `instagram` session — running
+   IG from the weekly scan too would contend for that session and duplicate work.
+   Events surfaced by the IG scout (or user-forwarded) still merge into the same DB
+   normally; the weekly scan just doesn't crawl IG itself.
 3a. **Every week has a short `title` (3–4 words).** Each week's `title` is a tight
    3–4-word label capturing the week's character (e.g. `"SF Pride weekend"`,
    `"July 4th weekend"`). No parentheticals or trailing qualifiers like
