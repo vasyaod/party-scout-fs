@@ -76,6 +76,12 @@ python3 instagram/ig_events.py soundmeditationpresents audiumsf   # specific han
 
 ## San Francisco (`san-francisco`)
 
+> **"San Francisco" = the whole Bay Area / NorCal**, not just the city. Oakland,
+> Berkeley, San Jose, Fremont, Stockton, the North Bay, etc. all belong here — a DJ
+> or event anywhere in the region is an SF source (that's why 19hz uses the **Bay
+> Area** listing, and Oakland/Stockton DJs like Rafer Rawb, Dr1ft, Froggin live in
+> this section). Only a genuinely different metro (e.g. Los Angeles) gets its own city.
+
 **Anchor listings (browse per scan):**
 
 | Site | URL | Use | Track | Fetch | Notes |
