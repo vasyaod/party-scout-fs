@@ -103,6 +103,7 @@ python3 instagram/ig_events.py soundmeditationpresents audiumsf   # specific han
 | **The Regency Ballroom** | https://www.theregencyballroom.com/shows | L + P | common | 1300 Van Ness. "Shows" page = upcoming calendar; links out to AXS/Ticketmaster for price. |
 | **1015 Folsom** | https://1015.com/ | L + P | HTTP | SoMa mega-club (1015 Folsom St), big-room EDM/house/techno/bass. Homepage renders the full upcoming-shows calendar in plain HTML; each show links out to its ticketer (mostly RA, some Dice). |
 | **The Midway** | https://themidwaysf.com/Events/ | L + P | common | Dogpatch warehouse (900 Marin St), EDM/house/techno/bass + big **day parties**. `/Events/` = upcoming calendar. **Cloudflare-gated → render via `common`**. Links out to AXS/Eventbrite/box office. |
+| **Cat Club** | https://www.sfcatclub.com/ | L + P | web_search / common | SoMa club (1190 Folsom St), two floors — the SF **goth / darkwave / synth / industrial / 80s** hub (recurring nights: NIGHTSHIFT, 1984, etc.). Calendar on the site; mostly door cover (some ticketed). |
 
 **Instagram handles (SF):**
 
