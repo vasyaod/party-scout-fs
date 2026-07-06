@@ -146,6 +146,23 @@ python3 instagram/ig_events.py soundmeditationpresents audiumsf   # specific han
 | **Eventbrite (LA)** | https://www.eventbrite.com/d/ca--los-angeles/ | L + P | Both | JSON-LD | LA discovery feed; price via `eb_demand.py`. |
 | **Funcheap LA** | https://losangeles.funcheap.com | L (free) | Both | HTTP | Free/outdoor events. |
 
+**Big promoters (LA)** — the recurring organizers on the 19hz LA listing, ranked by
+how often they appear + IG-verified as big (follower count). Browse their site/link
+for their event calendar; each event links out to its ticketer for price.
+
+| Promoter | Instagram | Website / link | Notes |
+|----------|-----------|----------------|-------|
+| **Insomniac Events** | @insomniacevents (942k) | https://insomniac.com | EDC / Factory 93 / Day Trip — the biggest EDM promoter. |
+| **Brownies & Lemonade** | @browniesandlemonade (201k) | https://linktr.ee/browniesandlemonade | Genre-bending LA shows + festivals. |
+| **Goldenvoice** | @goldenvoice (149k) | https://goldenvoice.com | AEG's LA arm — Coachella + most big concerts/venues. |
+| **FNGRS CRSSD** | @fngrscrssd (79k) | https://fngrscrssd.com | CRSSD Festival + Proper; house/techno. |
+| **LED Presents** | @ledpresents (74k) | https://led.la | Big-room EDM/bass; arenas + festivals. |
+| **Restless Nites** | @restlessnites (29k) | https://restlessnites.com | Indie/alt/underground event series. |
+| **Minimal Effort** | @minimaleffortla (21k) | https://linktr.ee/underratedpresents | Warehouse techno (by Underrated Presents). |
+| **Subtract Music** | @subtractmusic (13k) | https://linktr.ee/subtractmusic | Events + label; house/techno (IG-verified). |
+| **This Ain't Bristol** | @thisaintbristol (13k) | https://linktr.ee/thisaintbristol | Bass / dubstep / underground. |
+| **Azure Day Party SoCal** | @azuredaypartysocal (7k) | https://azuredaypartysocal.com | Rooftop/pool day parties. |
+
 **Venues (LA):** _(TBD — add as they surface, e.g. via 19hz/RA listings.)_
 
 **Instagram handles (LA):**
