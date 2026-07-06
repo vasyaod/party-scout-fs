@@ -171,6 +171,7 @@ each event links out to its ticketer for price.
 | Handle | Who | Track | External link |
 |--------|-----|-------|---------------|
 | `@flapjackthekandikid` | DJ Flapjack — LA-based hardcore/kandi DJ (27k); heavy US/EU festival + rave touring (EDC, Burning Man) and LA renegade scene | Music (hardcore) | gig announcements in post captions (multi-date tour graphics); no single event link |
+| `@climaxevents.la` | Climax Events LA — LA warehouse/renegade rave promoter, "2 events every weekend" (21.5k) | Music (rave) | tickets via bio link (+ SMS "text CLIMAX to (833)595-0508"); event flyers in posts/stories |
 
 **Run/cycle crews (LA):** _(TBD — LA run/cycle clubs for the sports track.)_
 
