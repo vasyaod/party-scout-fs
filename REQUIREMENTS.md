@@ -78,6 +78,14 @@ browser geolocation if the user already granted it -> IP-based geolocation fallb
    ~4h grace client-side. When you ADD an event, set `start`/`end` explicitly from
    the flyer when you can (most reliable); otherwise `generate.py` derives them from
    `time` (`derive_times`). `null`/omitted is fine when there's genuinely no time.
+2b. **Optional DJ lineup.** Events may carry a **`lineup`** — an array of
+   `{name, instagram}` objects, one per DJ/artist on the flyer. `name` is the
+   artist as printed; `instagram` is the **handle only** (username, no `@`, no URL —
+   the site builds `instagram.com/<handle>`), or **`null`** when a handle can't be
+   confirmed. **Optional** — omit or use `[]` when there's no lineup (venue nights,
+   runs, etc.). When adding an event, parse the DJ list from the flyer/caption and
+   look up each handle (IG search); **never guess a wrong handle** — `null` if unsure.
+   Backfill existing events gradually; nothing breaks when it's absent.
 3. **Weeks are Monday-dated, and every event is filed by its own date.** A week
    file/`week_start` is the Monday of the week it covers. When a new event is found
    (from any source — the scan, the Instagram organizers in SOURCES.md, or one the
