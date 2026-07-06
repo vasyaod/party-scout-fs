@@ -155,13 +155,13 @@ for their event calendar; each event links out to its ticketer for price.
 | **Insomniac Events** | @insomniacevents (942k) | https://insomniac.com | EDC / Factory 93 / Day Trip — the biggest EDM promoter. |
 | **Brownies & Lemonade** | @browniesandlemonade (201k) | https://linktr.ee/browniesandlemonade | Genre-bending LA shows + festivals. |
 | **Goldenvoice** | @goldenvoice (149k) | https://goldenvoice.com | AEG's LA arm — Coachella + most big concerts/venues. |
-| **FNGRS CRSSD** | @fngrscrssd (79k) | https://fngrscrssd.com | CRSSD Festival + Proper; house/techno. |
+| **FNGRS CRSSD** | @fngrscrssd (79k) | https://fngrscrssd.com | ⚠️ **San Diego, NOT LA** — CRSSD Festival @ Waterfront Park + Spin/EQ/Quartyard (all SD). On 19hz "LA" only because it spans SoCal. |
 | **LED Presents** | @ledpresents (74k) | https://ledpresents.com | Big-room EDM/bass. ⚠️ **San Diego-centric** (calendar shows SD venues: Spin/EQ/Quartyard) — appears on 19hz "LA" because that listing spans SoCal. Verify LA coverage before relying on it. |
 | **Restless Nites** | @restlessnites (29k) | https://restlessnites.com | Indie/alt/underground event series. |
 | **Minimal Effort** | @minimaleffortla (21k) | https://linktr.ee/underratedpresents | Warehouse techno (by Underrated Presents). |
 | **Subtract Music** | @subtractmusic (13k) | https://linktr.ee/subtractmusic | Events + label; house/techno (IG-verified). |
 | **This Ain't Bristol** | @thisaintbristol (13k) | https://linktr.ee/thisaintbristol | Bass / dubstep / underground. |
-| **Azure Day Party SoCal** | @azuredaypartysocal (7k) | https://azuredaypartysocal.com | Rooftop/pool day parties. |
+| **Azure Day Party SoCal** | @azuredaypartysocal (7k) | https://azuredaypartysocal.com | ⚠️ **Orange County, not LA proper** — all events @ The Bungalow, **Huntington Beach**. |
 
 **Venues (LA):** _(TBD — add as they surface, e.g. via 19hz/RA listings.)_
 
