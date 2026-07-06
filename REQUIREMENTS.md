@@ -83,6 +83,15 @@ browser geolocation if the user already granted it -> IP-based geolocation fallb
    (dates through Sun 2026-08-02). Events dated beyond that are out-of-window: note
    them, don't add them, until the window rolls forward to include them. (Widened from
    3→4 buckets on 2026-07-04.)
+3d. **Big events found individually → add even when out-of-window.** The scan-window
+   gate (3b) is for routine scans. When a **large event** — a festival, multi-day
+   campout, big-venue headliner, or major recurring institution — is found
+   individually (user-forwarded or specifically surfaced), ADD it immediately even if
+   its date is **beyond** the scan window. Rationale: big events are announced far
+   ahead and almost never cancel, so parking them until the window rolls just loses
+   coverage. File it into its own week bucket (create it if needed, rule 3), full
+   enrichment. Still gated by genre/quality (rule 1) and dedup (rule 1b). Small one-off
+   club nights stay window-bound (those can move or cancel).
 3c. **Research the WHOLE week, not just the weekend.** When scanning/searching for
    events, cover all seven days **Mon–Sun**, not only Fri–Sun. Weeknight nightlife is
    real and in-scope — Monday goth/industrial nights, Tuesday/Wednesday residencies,
