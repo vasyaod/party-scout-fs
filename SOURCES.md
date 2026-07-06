@@ -156,7 +156,7 @@ for their event calendar; each event links out to its ticketer for price.
 | **Brownies & Lemonade** | @browniesandlemonade (201k) | https://linktr.ee/browniesandlemonade | Genre-bending LA shows + festivals. |
 | **Goldenvoice** | @goldenvoice (149k) | https://goldenvoice.com | AEG's LA arm — Coachella + most big concerts/venues. |
 | **FNGRS CRSSD** | @fngrscrssd (79k) | https://fngrscrssd.com | CRSSD Festival + Proper; house/techno. |
-| **LED Presents** | @ledpresents (74k) | https://led.la | Big-room EDM/bass; arenas + festivals. |
+| **LED Presents** | @ledpresents (74k) | https://ledpresents.com | Big-room EDM/bass. ⚠️ **San Diego-centric** (calendar shows SD venues: Spin/EQ/Quartyard) — appears on 19hz "LA" because that listing spans SoCal. Verify LA coverage before relying on it. |
 | **Restless Nites** | @restlessnites (29k) | https://restlessnites.com | Indie/alt/underground event series. |
 | **Minimal Effort** | @minimaleffortla (21k) | https://linktr.ee/underratedpresents | Warehouse techno (by Underrated Presents). |
 | **Subtract Music** | @subtractmusic (13k) | https://linktr.ee/subtractmusic | Events + label; house/techno (IG-verified). |
