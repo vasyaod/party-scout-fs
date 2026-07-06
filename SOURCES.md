@@ -25,7 +25,7 @@ web_fetch/HTTP, `GQL` = `ra.co/graphql`, `JSON-LD` = schema.org in the page,
 | **EDMtrain** | https://edmtrain.com/san-francisco-ca | L | Music | HTTP / web_search | Good listing, sparse pricing. |
 | **Eventbrite** | https://www.eventbrite.com/d/ca--san-francisco/ | L + P | Both | JSON-LD | `eb_demand.py`: `offers.lowPrice/highPrice` + SoldOut/salesStatus. |
 | **Dice** | https://dice.fm | L + P | Music | common | Price in JS app. |
-| **Tixr** | https://www.tixr.com | P | Music | common | Tiered prices; JS-rendered. |
+| **Tixr** | https://www.tixr.com | P + flyer | Music | ephemeral RBS | `tixr.py`: one ephemeral remote-browser fetch (real Chrome passes **DataDome**), then reads the page's schema.org **JSON-LD** in one shot → flyer (`static.tixr.com` image, downloads bare) + **all price tiers** + venue/time/age. `event_info(url)` → `{image, offers[], price_low/high, price, address, time, …}`; `save_flyer(img_or_url, out)` fits ≤512px JPEG. price_low/high exclude add-ons (parking/coat/etc). |
 | **AXS / Ticketmaster / venue box office** | e.g. https://thefoxoakland.com | P | Music | common | Price sits in a Buy-Tickets **widget/iframe** — open/expand it, don't just scrape body. |
 | **Halcyon (venue)** | https://halcyon-sf.com/main/tickets/ | L + P | Music | common | SoMa club (314 11th St). Full upcoming-events + ticket listing; each event links out to its ticketer (mostly Dice). |
 | **The Regency Ballroom (venue)** | https://www.theregencyballroom.com/shows | L + P | Music | common | 1300 Van Ness. "Shows" page = upcoming-events calendar; events link out to AXS/Ticketmaster for price. |
