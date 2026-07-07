@@ -185,6 +185,7 @@ each event links out to its ticketer for price.
 | `@itspinkstiletto` | Pink Stiletto — LA DJ (Catch One etc.), also tours (5.6k) | Music (dj) | gig flyers |
 | `@vonwolfenheiser.ox` | Annika Wolfe — LA techno artist, Akela Recordings (6k) | Music (techno) | releases + gigs/stories |
 | `@rawvictoria` | Victoria Rawlins — LA DJ/artist + radio host (Psychic Bassline, SiriusXM) (10k) | Music (dj) | gigs |
+| `@codered.la` | CODE RED† — major LA rave/hardstyle-hardcore promoter (141k); weekly headliner nights (Sarah de Warren, Noize Suppressor, …) | Music (rave/hardstyle) | tickets via `pear.us/codered-la`; upcoming dates in bio + flyers in posts |
 
 **Run/cycle crews (LA):** _(TBD — LA run/cycle clubs for the sports track.)_
 
