@@ -128,6 +128,7 @@ python3 instagram/ig_events.py soundmeditationpresents audiumsf   # specific han
 | `@miguelmigsmusic` | Miguel Migs — SF/Bay deep-house legend (Salted/Naked Music), 28.8k; tours nationally | Music (DJ) | gig dates in post captions; check bio link |
 | `@djtajsf` | DJ Taj — SF-native DJ since '91 (1015 Folsom, Spundae) | Music (DJ) | gigs in post captions/stories (Hawthorn SF, Mars Bar SF) |
 | `@djlisarose` | Lisa Rose — SF underground house DJ | Music (DJ) | gigs in post captions (e.g. The Bank SF) |
+| `@iamdjheartbreak` | DJ Heartbreak — Bay Area R&B DJ/promoter (Walnut Creek, 21k); runs recurring series: Rhythm in the Sky (Weds rooftop, Timbri Hotel SF), The R&B Brunch (@thernbbrunchbayarea), R&B & Golf (@rnbandgolf), Broken Promises | Music (r&b) | **djheartbreak.com** — full upcoming-events list (date + city) |
 | `@raferrawb` | Rafer Rawb — Oakland hardcore DJ; promotes own Bay/North-Bay underground raves | Music (hardcore) | event details in post captions ("Legendary 90's Rave") |
 | `@_dr1ft_` | Dr1ft — Bay Area hardcore/uptempo DJ; promotes NorCal raves (Stockton/SF) | Music (hardcore) | party flyers + captions |
 | `@froggin_it_up` | Froggin — Oakland DJ; self-promotes own parties/events (geo-tags Oakland) | Music (hardcore/gabber) | event flyers + captions ("TIX HERE" bio link) |
