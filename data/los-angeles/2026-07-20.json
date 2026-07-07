@@ -395,8 +395,11 @@
           "google": "https://www.google.com/maps/search/?api=1&query=1720%2C+1720+E+16th+St%2C+Los+Angeles%2C+CA+90021%2C+USA",
           "apple": "https://maps.apple.com/?q=1720%2C+1720+E+16th+St%2C+Los+Angeles%2C+CA+90021%2C+USA"
         },
-        "coords": null,
-        "coords_precise": false,
+        "coords": {
+          "lat": 34.023027,
+          "lon": -118.241677
+        },
+        "coords_precise": true,
         "image": "https://party-scout.app/img/gen/zorza-sim0ne-4ever-la-debut-c7a9.jpg",
         "image_generated": false,
         "ra": {},
