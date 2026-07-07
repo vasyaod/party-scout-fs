@@ -124,6 +124,16 @@ browser geolocation if the user already granted it -> IP-based geolocation fallb
    runs / meetups are real in-window events and should be filed like any other (rule 3),
    verified per rule 1. Music/nightlife is one track; active/social is the other — both
    are wanted.
+3d-i. **What counts as "activity" (the `sports/active` track) — read it broadly.** Any
+   physical / movement-based pursuit is an activity and belongs on this track, whether
+   it's a ticketed event, a race, a class, or a recurring free meetup. Non-exhaustive:
+   **running** (5K/10K/half/marathon, run clubs), **cycling / bicycle** rides & crews,
+   **motorcycle / moto** rides & meets, **dancing** (classes, socials, open dance nights
+   that aren't club-DJ nightlife), **skateboarding** (skate sessions/meets), plus
+   hiking, climbing, swim/surf, yoga/fitness crews, and the like. If it's people moving
+   their bodies together, it's an activity — file it here (rule 3), verified (rule 1).
+   Only pure spectator/nightlife stuff stays off this track. When unsure whether
+   something is "sporty enough," default to **in** — breadth is wanted (rule 4).
 3e. **The weekly scan uses WEBSITES / APIs only — Instagram is a SEPARATE process.**
    The scheduled scan pulls from the web/API sources in SOURCES.md (19hz, RA,
    EDMtrain, Eventbrite, Dice, Tixr, TicketWeb, venue sites, Funcheap, Meetup, etc.).
