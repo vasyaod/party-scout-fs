@@ -116,6 +116,14 @@ browser geolocation if the user already granted it -> IP-based geolocation fallb
    it isn't the weekend; file each event into its own date (rule 3) whatever weekday
    it lands on. The ~40-per-track target (rule 4) spans the full week, not the weekend
    alone.
+3d. **Social-activity groups are in-scope — run clubs count.** The `sports/active`
+   track is not just ticketed sports; **recurring social-activity groups** (run clubs,
+   ride/hike/climb meetups, community fitness crews, etc.) are a valid category and
+   belong in it. When the IG scout (or a scan) turns up a run-club / activity account,
+   treat it as **on-genre**, not a "no nightlife → quiet pass" dismissal: its group
+   runs / meetups are real in-window events and should be filed like any other (rule 3),
+   verified per rule 1. Music/nightlife is one track; active/social is the other — both
+   are wanted.
 3e. **The weekly scan uses WEBSITES / APIs only — Instagram is a SEPARATE process.**
    The scheduled scan pulls from the web/API sources in SOURCES.md (19hz, RA,
    EDMtrain, Eventbrite, Dice, Tixr, TicketWeb, venue sites, Funcheap, Meetup, etc.).
