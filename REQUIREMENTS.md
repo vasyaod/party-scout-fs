@@ -284,14 +284,17 @@ browser geolocation if the user already granted it -> IP-based geolocation fallb
     website, tags, RA rating). New events and any sparse/unverified ones get this
     pass; unverifiable events are dropped (rule 1). This is how the data reaches the
     quality the rest of these rules assume.
-16a. **Batch scanning + deduping along week / day / city dimensions — and collect
-    stats.** When fanning out scan + dedup work across sub-agents, partition it into
-    batches keyed by any of these dimensions — **week**, **day**, **city** — or a
-    **combination** (e.g. one batch per `(city, week)`, or per `(city, day)` when a week
-    is dense or a single weekday is under-covered). Pick the granularity to fit volume:
-    coarse (a whole `city×week`) when the week is thin, **fine (per-day)** when it's dense
-    or when a specific day is a known gap (the Monday-0 miss is exactly why per-day batches
-    matter — rule 3c). Each batch runs the same verify → dedup (rule 1b) → enrich flow.
+16a. **Batch scanning + deduping along week / day / city / source dimensions — and
+    collect stats.** When fanning out scan + dedup work across sub-agents, partition it
+    into batches keyed by any of these dimensions — **week**, **day**, **city**,
+    **source** (19hz / RA / EDMtrain / Eventbrite / venue site …) — or a **combination**
+    (e.g. one batch per `(city, week)`, per `(city, day)` when a week is dense or a single
+    weekday is under-covered, or per `(city, source)` to run one source end-to-end). Pick
+    the granularity to fit volume: coarse (a whole `city×week`) when the week is thin,
+    **fine (per-day or per-source)** when it's dense or when a specific day/source is a
+    known gap (the Monday-0 miss is exactly why per-day batches matter — rule 3c; a source
+    that returned nothing is why per-source batches surface coverage holes). Each batch
+    runs the same verify → dedup (rule 1b) → enrich flow.
     **Collect and report stats per batch** — events found, added, merged/deduped, dropped
     (unverified), and images real vs generated — broken down by the batch dimension, so
     coverage holes (e.g. a weekday with 0 events, a thin city-week) are visible and can be
