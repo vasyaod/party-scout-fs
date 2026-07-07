@@ -294,7 +294,14 @@ browser geolocation if the user already granted it -> IP-based geolocation fallb
     **fine (per-day or per-source)** when it's dense or when a specific day/source is a
     known gap (the Monday-0 miss is exactly why per-day batches matter — rule 3c; a source
     that returned nothing is why per-source batches surface coverage holes). Each batch
-    runs the same verify → dedup (rule 1b) → enrich flow.
+    runs the same verify → dedup (rule 1b) → enrich flow. **Run the batches
+    SEQUENTIALLY, one after another — not all in parallel.** Sequential order is what
+    makes cross-batch dedup correct: each batch dedups against everything prior batches
+    already added, so the same event surfacing from a later source/day/week folds into the
+    existing card (rule 1b) instead of spawning a duplicate. It also keeps remote-browser
+    session use bounded (rule: max 5 ephemeral in parallel *within* a batch, not batches
+    stacked on top of each other). Commit after each batch (or every 5–10 events, rule
+    20d).
     **Collect and report stats per batch** — events found, added, merged/deduped, dropped
     (unverified), and images real vs generated — broken down by the batch dimension, so
     coverage holes (e.g. a weekday with 0 events, a thin city-week) are visible and can be
