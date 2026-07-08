@@ -124,6 +124,7 @@ python3 instagram/ig_events.py soundmeditationpresents audiumsf   # specific han
 | `@throttle_techno` | THROTTLE — recurring SF techno party series at 1015 Folsom | Music (techno) | no bio link; dates in flyers/posts → tickets via 1015/RA/Dice |
 | `@alldayallnightevents` | All Day All Night — SF Bay music/concert promoter since 2009 (24k, @audiosf) | Music | **alldayallnightevents.com** — full parseable events list (venue + date) |
 | `@fortheloudmouths` | THE LOUD MOUTHS — SF Bay collective / free pop-up **beach raves** (e.g. QUICKSAND) | Music | discord (invite) — events on **Partiful**; read posts/stories |
+| `@rhythmicremedies` | Rhythmic Remedies — Bay Area underground **jungle/DnB** rave collective (1.5k); runs own **free day parties** (Oakland/SF parks) + annual **Jungle Cruise boat party** (SF, Fisherman's Wharf) | Music (jungle/dnb) | IG group-chat "party info line" (ig.me); event details in flyers/captions, tickets per-event |
 | `@benseagren` | Ben Seagren — SF house/techno DJ, DISTRIKT resident (@distrikt_org); Public Works SF etc. | Music (DJ) | benseagren.com/music/upcoming-events |
 | `@miguelmigsmusic` | Miguel Migs — SF/Bay deep-house legend (Salted/Naked Music), 28.8k; tours nationally | Music (DJ) | gig dates in post captions; check bio link |
 | `@djtajsf` | DJ Taj — SF-native DJ since '91 (1015 Folsom, Spundae) | Music (DJ) | gigs in post captions/stories (Hawthorn SF, Mars Bar SF) |
