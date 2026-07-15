@@ -93,6 +93,7 @@ Jun 25–28 2026 weekend → `2026-06-22.json`). Carries `city` + `city_label` t
   "address": "601 19th St, San Francisco, CA 94107",
   "why": "Soulful-house heavyweights at sunset on The Pearl rooftop",
   "summary": "DAYFALL brings deep/soulful-house veterans Karizma, Colette and Mr. V to The Pearl's rooftop for a sunset session bridging day and night.",
+  "promoter": "",
   "price": "$71",
   "tags": ["sunset", "outdoor", "house", "deep-house", "disco-house", "soulful"],
   "sources": ["https://ra.co/events/2463690"],
@@ -126,6 +127,7 @@ Jun 25–28 2026 weekend → `2026-06-22.json`). Carries `city` + `city_label` t
 | `address` | string | Exact street address (city/state) when known → precise Maps pin. |
 | `why` | string | **Differentiator** one-liner (~8–16 words) — the reason to pick THIS event over others that weekend; never restates the lineup/title/process (that's `summary`). Shown on the card. See REQUIREMENTS rule 18. |
 | `summary` | string | 1–2 sentence event summary, AI-written from the event's actual page (read via an ephemeral remote-browser session). |
+| `promoter` | string | Organizer / promoter / production brand behind the event, as it presents itself (e.g. `boots.`, `No Reason SF`). Prefer the collective name over a venue or single DJ. `""` when unknown (never guessed). Optional; see REQUIREMENTS rule 2c. |
 | `price` | string | Lowest/GA price `"$NN"`, a range `"$NN–MM"`, or `"Free"`. `""` if unobtainable (never guessed). |
 | `tags` | array&lt;string&gt; | Genre/vibe tags (house, techno, free, outdoor, rooftop, pride, daytime…). Powers the tag cloud + filter. |
 | `sources` | array&lt;string&gt; | **Ordered list of EVERY site the event appears on** (replaces the old single `link`) → the card's **Open** button uses **index 0** (the highest-priority link). Collect them all — official/organizer page, the **venue's own event page** (themidwaysf.com, 1015.com…), the **ticketer** (RA/Tixr/Eventbrite/AXS/Dice), the IG post it was scouted from, editorial listings — priority-ordered, most authoritative first (see REQUIREMENTS rule 1a). Only **third-party scrape indexes** (19hz & similar multi-venue aggregators) are dropped (rule 11); a venue's own site is kept. `[]` when none known. Merges as an order-preserving union (first wins). |

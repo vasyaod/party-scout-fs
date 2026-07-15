@@ -86,6 +86,14 @@ browser geolocation if the user already granted it -> IP-based geolocation fallb
    runs, etc.). When adding an event, parse the DJ list from the flyer/caption and
    look up each handle (IG search); **never guess a wrong handle** — `null` if unsure.
    Backfill existing events gradually; nothing breaks when it's absent.
+2c. **Optional promoter.** Events may carry a **`promoter`** — a string naming the
+   organizer / promoter / production brand behind the event, as it presents itself
+   (e.g. `"boots."`, `"No Reason SF"`, `"Black Dahlia Booking"`). Prefer the
+   collective/production name over a venue or a single DJ. It's the organizer
+   identity, useful for grouping an org's parties and for finding day-of details
+   (undisclosed-warehouse addresses, other events by the same crew). **Optional** —
+   `""` when unknown; **never guess** (leave blank rather than assume the venue or a
+   headliner is the promoter). Backfill gradually; nothing breaks when it's absent.
 3. **Weeks are Monday-dated, and every event is filed by its own date.** A week
    file/`week_start` is the Monday of the week it covers. When a new event is found
    (from any source — the scan, the Instagram organizers in SOURCES.md, or one the
