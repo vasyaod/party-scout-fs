@@ -137,6 +137,17 @@ python3 instagram/ig_events.py soundmeditationpresents audiumsf   # specific han
 | `@maxgardnermusic` | Max Gardner — SF techno DJ/producer (Throttle SF, Peer/Direct to Earth); Halcyon SF etc., tours intl (4.3k) | Music (techno) | gig posts/flyers |
 | `@sanfranciscofnr` | NorCal motorcycle riding club (linked @familyandmotorcycles); group canyon/highway rides — moto rides go into the sports/Activity track (category `Moto`), on-topic | Sports (moto) | (bio — no link) |
 | `@midnightrunnerssf` | Midnight Runners SF — bootcamp runs w/ music, Weds 6:30pm | Sports (run) | link.heylo.co/zdKT |
+| `@black.panda.dj` | Black Panda (Eddie Rios) — SF/Oakland house/producer; runs Pandamonium BIPOC/queer series (@pandamonium.music) | Music (DJ) | gigs in captions (F8, El Rio, Moonglow Oakland) |
+| `@gregeversoul` | Greg Eversoul — 30yr SF house veteran (ex 1015/Ruby Skye/EndUp); founder Supertape Recordings | Music (DJ) | gigs in captions/RA (Underground SF) |
+| `@baum_dj` | BAUM (Zach Baumgarten) — Bay Area DJ/producer; elrow residency, Repopulate Mars/Sola releases | Music (DJ) | gig posts (The Midway etc.) |
+| `@gru.dii` | Gru.di (Alec Kondush) — founder of Safra Parties (SF+LA); deep/organic/melodic techno | Music (DJ) | safraparties.com/events |
+| `@merdok.sf` | Merdok — SF techno DJ (@accelerate.tv); recurring F8 1192 Folsom + DNA Lounge | Music (techno) | gigs in captions/RA |
+| `@kwohlamusic` | Kellen Wohl — SF producer/pianist/DJ; Closessions resident (@closessions) | Music (DJ) | gig posts (Treasure Island day parties etc.) |
+
+> **Found via follow-graph intersection (2026-07-16):** the six handles above were
+> discovered by intersecting who `djlisarose` / `sethfinkin` / `fromdust.sounds`
+> follow, then Google-confirming each as an active Bay-Area DJ. Added to
+> `ig_events.SEED_HANDLES`.
 
 ---
 
