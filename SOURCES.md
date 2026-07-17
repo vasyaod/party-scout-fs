@@ -145,6 +145,7 @@ python3 instagram/ig_events.py soundmeditationpresents audiumsf   # specific han
 | `@kwohlamusic` | Kellen Wohl — SF producer/pianist/DJ; Closessions resident (@closessions) | Music (DJ) | gig posts (Treasure Island day parties etc.) |
 | `@squishsf` | SQUISH — SF party collective (9k); throws own recurring parties (Great Northern, F8) | Music | dated events in bio + post flyers (owner-added 2026-07-16) |
 | `@funkstopofficial` | Funk Stop — East Bay free day-party / rave collective; throws own free-with-RSVP parties at Club Cali, Berkeley (house/techno/D&B/bass) | Music | events in flyers/captions, RSVP via **laylo** (owner-added 2026-07-16) |
+| `@djmershow` | The Mer Show — Bay Area house/electronic DJ (1.85k); self-promotes own gigs | Music | gigs in bio + post flyers (owner-added 2026-07-17) |
 
 > **Found via follow-graph intersection (2026-07-16):** the six handles above were
 > discovered by intersecting who `djlisarose` / `sethfinkin` / `fromdust.sounds`
