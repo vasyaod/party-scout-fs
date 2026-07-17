@@ -143,6 +143,7 @@ python3 instagram/ig_events.py soundmeditationpresents audiumsf   # specific han
 | `@gru.dii` | Gru.di (Alec Kondush) — founder of Safra Parties (SF+LA); deep/organic/melodic techno | Music (DJ) | safraparties.com/events |
 | `@merdok.sf` | Merdok — SF techno DJ (@accelerate.tv); recurring F8 1192 Folsom + DNA Lounge | Music (techno) | gigs in captions/RA |
 | `@kwohlamusic` | Kellen Wohl — SF producer/pianist/DJ; Closessions resident (@closessions) | Music (DJ) | gig posts (Treasure Island day parties etc.) |
+| `@squishsf` | SQUISH — SF party collective (9k); throws own recurring parties (Great Northern, F8) | Music | dated events in bio + post flyers (owner-added 2026-07-16) |
 
 > **Found via follow-graph intersection (2026-07-16):** the six handles above were
 > discovered by intersecting who `djlisarose` / `sethfinkin` / `fromdust.sounds`
