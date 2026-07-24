@@ -124,14 +124,18 @@
           "google": "https://www.google.com/maps/search/?api=1&query=El%20Rio%2C%203158%20Mission%20St%2C%20San%20Francisco%2C%20CA%2094110",
           "apple": "https://maps.apple.com/?q=El%20Rio%2C%203158%20Mission%20St%2C%20San%20Francisco%2C%20CA%2094110"
         },
-        "coords_precise": false,
+        "coords_precise": true,
         "image": null,
         "image_generated": false,
         "ra": {},
         "active": true,
         "popularity": 4,
         "id": "2026-08-03-music-melodies-of-love-el-rio-aug8",
-        "eid": "melodies-of-love-el-rio-aug8"
+        "eid": "melodies-of-love-el-rio-aug8",
+        "coords": {
+          "lat": 37.74675,
+          "lon": -122.419329
+        }
       }
     ],
     "sports": []
