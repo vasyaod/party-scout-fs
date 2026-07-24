@@ -122,7 +122,7 @@ browser geolocation if the user already granted it -> IP-based geolocation fallb
    real and in-scope — Monday goth/industrial nights, Tuesday/Wednesday residencies,
    Thursday openers, midweek gigs and day events all count. Don't skip a day because
    it isn't the weekend; file each event into its own date (rule 3) whatever weekday
-   it lands on. The ~40-per-track target (rule 4) spans the full week, not the weekend
+   it lands on. The no-cap volume rule (rule 4) spans the full week, not the weekend
    alone.
 3d. **Social-activity groups are in-scope — run clubs count.** The `sports/active`
    track is not just ticketed sports; **recurring social-activity groups** (run clubs,
@@ -159,12 +159,10 @@ browser geolocation if the user already granted it -> IP-based geolocation fallb
 
 ## Volume
 
-4. **Target ~40 events per track to start — NO upper cap.** Aim for about 40 events
-   per track (music/EDM and sports/active) in the initial scan; **going over is
-   normal and fine — 50, 60+ is all good.** 40 is a starting target, not a ceiling.
-   Gather and verify as many real in-window events as exist. Fewer is fine when the
-   weekend is thin; never pad to hit a number, and never drop a real event to stay
-   under one.
+4. **No limit on events per track or per week — gather every real one.** There is
+   **no target and no cap**, upper or otherwise. Include every genuine in-window
+   event you can verify (rule 1), whether that's 10 or 100+ per track. Never pad
+   to hit a number, and never drop or skip a real event to keep a list short.
 
 ## Pricing
 
