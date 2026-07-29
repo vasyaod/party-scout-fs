@@ -39,7 +39,7 @@
 
 <h1>Privacy Policy</h1>
 <p class="sub">
-  <span class="meta"><strong>Effective date:</strong> 2026-06-25</span><br>
+  <span class="meta"><strong>Effective date:</strong> 2026-07-28</span><br>
   <span class="meta"><strong>App:</strong> Party Scout (<code>app.partyscout</code>)</span><br>
   <span class="meta"><strong>Contact:</strong> <a href="mailto:vasiliy.vazhesov@gmail.com">vasiliy.vazhesov@gmail.com</a></span>
 </p>
@@ -73,31 +73,63 @@ permission. You can override the choice at any time with the city picker.</p>
 (browser local storage) so the app remembers it next time. It never leaves your
 device and is removed if you clear app data or uninstall.</p>
 
+<p><strong>Your taste preferences (optional).</strong> If you use the preference
+panel to tell the app what you're into ("techno, rooftop parties"), that text is
+sent to our own ranking service at <strong>api.party-scout.app</strong> so the
+week's events can be ordered for you. The service also folds it into a short
+running "preference profile", which is returned to the app and kept <strong>on
+your device</strong>. To do the ranking, the text is processed by
+<strong>OpenAI</strong> on our behalf. Nothing about your identity is attached —
+no account, no device ID, no name. This feature is entirely optional: if you
+never type or speak a preference, nothing is sent.</p>
+
+<p><strong>Microphone / voice input (optional).</strong> The preference panel has
+a hold-to-talk button. When you use it, the app asks for the <strong>microphone
+permission</strong> and hands recording to Android's own speech-recognition
+service; the app receives only the resulting <strong>text</strong>, never the
+audio. We do not record, store, or transmit audio. The transcribed text is then
+treated exactly like typed preference text above. If you never use the mic
+button, the permission is never requested.</p>
+
 <p><strong>Outbound links.</strong> Event cards link to third-party sites (e.g.
 Resident Advisor, Eventbrite, venue pages, Google Maps). Once you follow a link,
 that site's own privacy policy applies.</p>
 
 <h2>What we do NOT do</h2>
 <ul>
-  <li>We do <strong>not</strong> collect, store, or sell personal information.</li>
+  <li>We do <strong>not</strong> collect, store, or sell personal information (no
+    name, email, phone, or account of any kind).</li>
   <li>We do <strong>not</strong> use advertising or analytics SDKs.</li>
-  <li>We do <strong>not</strong> create user profiles or require any login.</li>
+  <li>We do <strong>not</strong> require any login, and we cannot link anything
+    you send to you.</li>
+  <li>We do <strong>not</strong> record or transmit audio.</li>
   <li>We do <strong>not</strong> knowingly collect data from children.</li>
 </ul>
 
 <h2>Permissions</h2>
-<p>The app requests only <strong>Internet access</strong> (to download listings).
-No location, contacts, storage, camera, or other sensitive permissions.</p>
+<ul>
+  <li><strong>Internet access</strong> — to download event listings and, if you
+    use it, to rank them by your preference.</li>
+  <li><strong>Microphone (<code>RECORD_AUDIO</code>)</strong> — only for the
+    optional hold-to-talk preference input, and only requested when you first use
+    that button.</li>
+</ul>
+<p>No location, contacts, storage, or camera permissions. The app does not
+request GPS / precise location.</p>
 
 <h2>Data safety summary</h2>
 <ul>
-  <li><strong>Data collected:</strong> None stored by the developer.</li>
+  <li><strong>Data collected:</strong> Your optional free-text preference (in-app
+    search history / other user-generated content), used for app functionality
+    and personalization. Optional — the app works fully without it.</li>
   <li><strong>Data shared:</strong> Your <strong>IP address</strong> is sent to
     ipapi.co / ipwho.is for the one-time city auto-detect (approximate location,
-    app functionality). No other data is shared.</li>
+    app functionality, processed ephemerally). Preference text is processed by
+    OpenAI as our service provider.</li>
   <li><strong>Encryption in transit:</strong> Yes (HTTPS).</li>
-  <li><strong>Account / data deletion:</strong> No account; clearing app data
-    removes the only stored value (your city choice).</li>
+  <li><strong>Account / data deletion:</strong> No account exists, so there is
+    nothing tied to you to delete. Clearing app data removes what's stored on
+    your device (your city choice and preference profile).</li>
 </ul>
 
 <h2>Changes</h2>
