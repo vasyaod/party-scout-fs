@@ -5,7 +5,7 @@
   "location": "Los Angeles & SoCal",
   "city": "los-angeles",
   "city_label": "Los Angeles",
-  "generated_at": "2026-07-06",
+  "generated_at": "2026-07-31",
   "tracks": {
     "music": [
       {
@@ -17,11 +17,11 @@
         "time": "Sat–Sun all day",
         "start": "12:00",
         "end": "23:00",
-        "area": "Inglewood",
-        "venue": "Hollywood Park",
+        "area": "Los Angeles",
+        "venue": "Hollywood Park (Adjacent to SoFi Stadium)",
         "address": "Hollywood Park, 3900 W Manchester Blvd, Inglewood, CA 90305",
-        "why": "The biggest EDM festival in LA all year — HARD Summer at Hollywood Park is the unmissable weekend anchor.",
-        "summary": "HARD Summer 2026 is Insomniac's flagship multi-stage EDM festival at Hollywood Park adjacent to SoFi Stadium, Saturday–Sunday Aug 1–2, 18+, from $282 for a 2-day GA pass.",
+        "why": "The weekend's biggest draw — a two-day stadium-lot festival, not a club night.",
+        "summary": "HARD Summer is an 18+ (21+ VIP) electronic music festival running two days, Aug 1–2 2026, at Hollywood Park with multiple GA/VIP ticket tiers and shuttle service.",
         "price": "$282+",
         "tags": [
           "festival",
@@ -30,14 +30,16 @@
           "two-day",
           "18+",
           "headliner",
-          "insomniac"
+          "insomniac",
+          "edm"
         ],
         "lineup": [],
         "sources": [
           "https://hardsummer.frontgatetickets.com/"
         ],
         "tickets": [
-          "https://hardsummer.frontgatetickets.com/event/atxrnd79tolpxu4m"
+          "https://hardsummer.frontgatetickets.com/event/atxrnd79tolpxu4m",
+          "https://hardsummer.frontgatetickets.com/"
         ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Hollywood+Park%2C+Hollywood+Park%2C+3900+W+Manchester+Blvd%2C+Inglewood%2C+CA+90305",
@@ -1425,6 +1427,260 @@
         "popularity": 5,
         "id": "2026-07-27-music-climax-hot-summer-day-two-g7h8i9",
         "eid": "climax-hot-summer-day-two-g7h8"
+      },
+      {
+        "id": "2026-07-27-music-saturday-hardfest-afters-mau-p-bac173",
+        "eid": "saturday-hardfest-afters-ae2f",
+        "track": "music",
+        "category": "Club night",
+        "name": "Saturday HARDfest Afters: Mau P, Dreya V",
+        "day": "Sat",
+        "date": "2026-08-01",
+        "time": "10PM-2AM",
+        "start": "22:00",
+        "end": "02:00",
+        "area": "Los Angeles",
+        "venue": "Ace*Mission Studios (Mission Four)",
+        "address": "560 South Mission Road, Los Angeles, CA 90033",
+        "why": "The official HARD Summer afters — headline techno without the festival lines.",
+        "summary": "A 21+ electronic afters running 10PM–2AM on August 1, 2026, featuring Mau P and Dreya V.",
+        "promoter": "",
+        "price": "$95-105",
+        "tags": [
+          "techno",
+          "afters",
+          "21+"
+        ],
+        "sources": [
+          "https://hard.frontgatetickets.com/event/mxqewxz783v0qzfu"
+        ],
+        "tickets": [
+          "https://hard.frontgatetickets.com/event/mxqewxz783v0qzfu"
+        ],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=560%20South%20Mission%20Road%2C%20Los%20Angeles%2C%20CA%2090033",
+          "apple": "https://maps.apple.com/?q=560%20South%20Mission%20Road%2C%20Los%20Angeles%2C%20CA%2090033"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "https://static-label.frontgatetickets.com/common/events/160788_lg.jpg",
+        "image_generated": false,
+        "popularity": 7,
+        "active": true
+      },
+      {
+        "id": "2026-07-27-music-vivie-j-celebraysean-68d5a0",
+        "eid": "vivie-j-celebraysean-ad1f",
+        "track": "music",
+        "category": "Day party",
+        "name": "Vivie J & Celebraysean",
+        "day": "Sat",
+        "date": "2026-08-01",
+        "time": "2pm-7pm",
+        "start": "14:00",
+        "end": "19:00",
+        "area": "Venice/Los Angeles",
+        "venue": "The Waterfront Venice",
+        "address": "",
+        "why": "Free daytime beachside day party — no ticket needed.",
+        "summary": "A Saturday day party at The Waterfront Venice in Venice Beach featuring DJ sets from Vivie J and Celebraysean.",
+        "promoter": "",
+        "price": "Free",
+        "tags": [
+          "free",
+          "daytime",
+          "waterfront",
+          "house"
+        ],
+        "sources": [
+          "https://speakeasygo.com/event/EVE-ARVRW1"
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=The%20Waterfront%20Venice%2C%20Venice/Los%20Angeles",
+          "apple": "https://maps.apple.com/?q=The%20Waterfront%20Venice%2C%20Venice/Los%20Angeles"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "https://media.speakeasygo.com/cdn-cgi/image/width=1920,dpr=auto,quality=20,format=auto,fit=cover,metadata=none,sharpen=1,onerror=redirect/dev/tW5rv-1784653923337-i3k0.jpg",
+        "image_generated": false,
+        "popularity": 4,
+        "active": true
+      },
+      {
+        "id": "2026-07-27-music-a-club-called-rhonda-w-teed-ja-aa88e2",
+        "eid": "a-club-called-rhonda-w-t-2c96",
+        "track": "music",
+        "category": "Club night",
+        "name": "A Club Called Rhonda w/ TEED, Jacques Greene, Kindness & more",
+        "day": "Sat",
+        "date": "2026-08-01",
+        "time": "9:30pm-late",
+        "start": "21:30",
+        "end": null,
+        "area": "Los Angeles",
+        "venue": "Los Globos",
+        "address": "",
+        "why": "RA-picked queer house party that leans into genre history rather than headliner spectacle.",
+        "summary": "An RA Pick queer-inclusive house party on Sunset Blvd blending chillout melodic house, Chicago house and ghettotech, with TEED, Jacques Greene, Kindness (DJ) and more.",
+        "promoter": "",
+        "price": "$10-25",
+        "tags": [
+          "house",
+          "queer",
+          "club",
+          "21+"
+        ],
+        "sources": [
+          "https://ra.co/events/2456742"
+        ],
+        "tickets": [
+          "https://ra.co/events/2456742"
+        ],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=Los%20Globos%2C%20Los%20Angeles",
+          "apple": "https://maps.apple.com/?q=Los%20Globos%2C%20Los%20Angeles"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {
+          "interestedCount": 526
+        },
+        "image": "",
+        "image_generated": false,
+        "popularity": 6,
+        "active": true
+      },
+      {
+        "id": "2026-07-27-music-nightshift-after-hours-8fca83",
+        "eid": "nightshift-after-hours-9d41",
+        "track": "music",
+        "category": "Club night",
+        "name": "Nightshift After Hours",
+        "day": "Sat",
+        "date": "2026-08-01",
+        "time": "",
+        "start": null,
+        "end": null,
+        "area": "Los Angeles",
+        "venue": "The Lexington",
+        "address": "",
+        "why": "Free RSVP after-hours speakeasy — the after-the-afters option.",
+        "summary": "A secret-DJ-lineup underground house night at a DTLA speakeasy entered through the alley, open late for those still dancing after hours.",
+        "promoter": "",
+        "price": "Free",
+        "tags": [
+          "free",
+          "after-hours",
+          "house",
+          "21+"
+        ],
+        "sources": [
+          "https://ra.co/events/2498250"
+        ],
+        "tickets": [
+          "https://ra.co/events/2498250"
+        ],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=The%20Lexington%2C%20Los%20Angeles",
+          "apple": "https://maps.apple.com/?q=The%20Lexington%2C%20Los%20Angeles"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {
+          "interestedCount": 2
+        },
+        "image": "",
+        "image_generated": false,
+        "popularity": 3,
+        "active": true
+      },
+      {
+        "id": "2026-07-27-music-beach-pod-shuffles-lolo-ayekre-a74687",
+        "eid": "beach-pod-shuffles-lolo-a610",
+        "track": "music",
+        "category": "Day party",
+        "name": "Beach Pod: Shuffles, LOLO, ayeKREATURE, OG Fern, XXXTiNA",
+        "day": "Sat",
+        "date": "2026-08-01",
+        "time": "12pm-8pm",
+        "start": "12:00",
+        "end": "20:00",
+        "area": "Huntington Beach",
+        "venue": "Sahara Sandbar",
+        "address": "21601 Pacific Coast Highway, Huntington Beach, CA 92646",
+        "why": "All-ages beach day party in Huntington Beach — no club required, just sand and shuffling.",
+        "summary": "Party Peas' all-ages beachside gathering at Sahara Sandbar with house and organic-beat DJs (OG Fern, XXXTiNA, Shuffles, LOLO, ayeKREATURE), built around shuffling and flow arts.",
+        "promoter": "",
+        "price": "",
+        "tags": [
+          "outdoor",
+          "daytime",
+          "beach",
+          "all-ages"
+        ],
+        "sources": [
+          "https://www.eventbrite.com/e/party-peas-presents-beach-pod-tickets-1993544557436"
+        ],
+        "tickets": [
+          "https://www.eventbrite.com/e/party-peas-presents-beach-pod-tickets-1993544557436"
+        ],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=21601%20Pacific%20Coast%20Highway%2C%20Huntington%20Beach%2C%20CA%2092646",
+          "apple": "https://maps.apple.com/?q=21601%20Pacific%20Coast%20Highway%2C%20Huntington%20Beach%2C%20CA%2092646"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1188463914%2F308681367326%2F1%2Foriginal.20260708-154721",
+        "image_generated": false,
+        "popularity": 3,
+        "active": true
+      },
+      {
+        "id": "2026-07-27-music-deadhead-disco-jerry-garcia-s-7a5913",
+        "eid": "deadhead-disco-jerry-gar-fbe8",
+        "track": "music",
+        "category": "Club night",
+        "name": "Deadhead Disco: Jerry Garcia's Birthday Celebration",
+        "day": "Sat",
+        "date": "2026-08-01",
+        "time": "Doors 9pm",
+        "start": "21:00",
+        "end": null,
+        "area": "Los Angeles",
+        "venue": "Teragram Ballroom",
+        "address": "",
+        "why": "The only night blending Dead jams into a continuous house set — a genre mashup nobody else is doing this weekend.",
+        "summary": "A five-hour, no-openers set by Colin Johnson recasting Grateful Dead live jams as house and dance-floor edits, marking Jerry Garcia's birthday.",
+        "promoter": "",
+        "price": "$20+",
+        "tags": [
+          "disco",
+          "house",
+          "18+"
+        ],
+        "sources": [
+          "https://ra.co/events/2495424"
+        ],
+        "tickets": [
+          "https://ra.co/events/2495424"
+        ],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=Teragram%20Ballroom%2C%20Los%20Angeles",
+          "apple": "https://maps.apple.com/?q=Teragram%20Ballroom%2C%20Los%20Angeles"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {
+          "interestedCount": 1
+        },
+        "image": "",
+        "image_generated": false,
+        "popularity": 4,
+        "active": true
       }
     ],
     "sports": [
@@ -1561,6 +1817,45 @@
         "popularity": 4,
         "id": "2026-07-27-sports-run-la-10-miler-0d106f",
         "eid": "run-la-10-miler-6445"
+      },
+      {
+        "id": "2026-07-27-sports-la-leggers-season-kickoff-grou-5e3582",
+        "eid": "la-leggers-season-kickof-1493",
+        "track": "sports",
+        "category": "Run club",
+        "name": "LA Leggers Season Kickoff Group Run",
+        "day": "Sat",
+        "date": "2026-08-01",
+        "time": "6:45am",
+        "start": "06:45",
+        "end": null,
+        "area": "Santa Monica",
+        "venue": "Tongva Park / Santa Monica City Hall area",
+        "address": "1450 Ocean Ave, Santa Monica, CA",
+        "why": "Season-kickoff group run with pace groups for every level, from walkers to marathoners.",
+        "summary": "LA Leggers' Saturday-morning running and walking community meets in Santa Monica with pace groups ranging from walkers to experienced marathoners; this session opens their new season.",
+        "promoter": "",
+        "price": "Free",
+        "tags": [
+          "free",
+          "run club",
+          "recurring"
+        ],
+        "sources": [
+          "https://laleggers.org/"
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=1450%20Ocean%20Ave%2C%20Santa%20Monica%2C%20CA",
+          "apple": "https://maps.apple.com/?q=1450%20Ocean%20Ave%2C%20Santa%20Monica%2C%20CA"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 2,
+        "active": true
       }
     ]
   }
