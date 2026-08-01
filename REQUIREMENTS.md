@@ -300,6 +300,47 @@ browser geolocation if the user already granted it -> IP-based geolocation fallb
     (RA ratings, per-event research) live in `party-scout-code`. Read SOURCES.md,
     MODEL.md, and this file before changing the data.
 
+## Validation
+
+23. **Every event is validated before it is committed — and it must pass.** The
+    unit is ONE event: before an event is written into `data/<city>/<week>.json`
+    (added by a scan, forwarded by the user, or edited), run it through
+    **[`party-scanner/validate_event.py`](https://github.com/vasyaod/party-scout-agent/blob/main/party-scanner/validate_event.py)**
+    (in the `party-scout-agent` repo) and fix what it names. **An event that fails
+    is fixed or not added — never written as-is.** Validation is part of what
+    "added" means, not an optional cleanup pass afterwards. It checks MODEL.md's
+    schema (fields present, right types, allowed values, `date` inside its week,
+    `popularity` 0–10, `eid` week-unique), the mechanical link rules (9, 11), the
+    prose rules that are checkable (a real price, rule 5; a `why` that isn't the
+    name again, rule 18) and that the flyer is really there (rules 20/20a).
+    - **A NEW event → `--candidate --strict --net`**, the full bar (`--candidate`
+      while it is still pre-merge and has no `id`/`eid` yet). `--strict` makes the
+      completeness warnings (no flyer, no price, no `why`, a MODEL.md field the
+      row never got) fail too — which is only what rules 5/18/20a already
+      demand — and `--net` spends exactly one bounded HEAD to confirm the flyer
+      exists.
+    - **Auditing what is already published → plain mode** (no network, warnings
+      don't fail). The events published before this rule carry ~730 warnings
+      (182 have no flyer at all) against 26 errors; that backlog is work to
+      grind down, never a reason to block a scan. Only ERRORs — a wrong type, a
+      missing core field, a link rule 9/11 forbids, a flyer that is genuinely
+      gone — fail plain mode.
+    - **A 403 is not a broken flyer.** `images.ra.co` and `img.evbuc.com` refuse
+      a datacenter IP for images that render perfectly in a browser, so the check
+      separates *blocked / unreachable from here* (reported, never a failure)
+      from *genuinely gone* — 404/410 or a host that doesn't resolve, which IS an
+      error. Never "fix" a blocked flyer by clearing `image`.
+    - **A deployment that genuinely cannot meet a rule waives it BY NAME**, with
+      `--ignore <rule>`, and says so. The `party-scout` agent environment has no
+      image generator or upload path checked out, so its weekly scan runs
+      `--strict --ignore image-missing` (rule 20b's placeholder is unavailable
+      there); the waived findings are still printed and counted. Never drop
+      `--strict` instead of naming what was waived, and never waive a rule the
+      environment *could* satisfy.
+    - A whole week or the whole database is the same script over every event
+      (`--file <week>.json`, `--all`); `--json` is the machine-readable form an
+      agent can read mid-run.
+
 ## Enrichment (AI / subagents)
 
 16. **Resolve fields intelligently with AI subagents.** Don't ship whatever the raw
