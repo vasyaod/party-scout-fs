@@ -503,8 +503,135 @@
         "image_generated": false,
         "popularity": 0,
         "active": true
+      },
+      {
+        "id": "2026-08-03-music-zack-fox-dj-set-164929",
+        "eid": "zack-fox-dj-set-3c0b",
+        "track": "music",
+        "category": "House/Techno",
+        "name": "Zack Fox (DJ Set)",
+        "day": "Wed",
+        "date": "2026-08-05",
+        "time": "8pm",
+        "start": "20:00",
+        "end": null,
+        "area": "SF",
+        "venue": "The Regency Ballroom",
+        "address": "1300 Van Ness Ave, San Francisco, CA 94109",
+        "why": "A comedy/rap crossover name behind the decks, not the mic - a rare DJ-only set",
+        "summary": "Zack Fox plays a DJ set at The Regency Ballroom, presented by Goldenvoice, spanning house, techno and ghettotech; no support acts listed.",
+        "promoter": "Goldenvoice",
+        "price": "$122",
+        "tags": [
+          "house",
+          "techno",
+          "ghettotech",
+          "club",
+          "dj-set"
+        ],
+        "sources": [
+          "https://vivalahiphop.com/2026/06/17/zack-fox-at-the-regency-ballroom/",
+          "https://www.theregencyballroom.com/shows"
+        ],
+        "tickets": [
+          "https://www.axs.com/events/1446039/zack-fox-tickets"
+        ],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=1300%20Van%20Ness%20Ave%2C%20San%20Francisco%2C%20CA%2094109",
+          "apple": "https://maps.apple.com/?q=1300%20Van%20Ness%20Ave%2C%20San%20Francisco%2C%20CA%2094109"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "https://vivalahiphop.com/wp-content/uploads/2026/06/img_6021.jpg",
+        "image_generated": false,
+        "popularity": 5,
+        "active": true
+      },
+      {
+        "id": "2026-08-03-music-strut-sf-dj-sauce-just-lucas-d789e8",
+        "eid": "strut-sf-dj-sauce-just-l-cc7b",
+        "track": "music",
+        "category": "House",
+        "name": "STRUT SF: DJ Sauce & Just Lucas",
+        "day": "Wed",
+        "date": "2026-08-05",
+        "time": "9pm-3am",
+        "start": "21:00",
+        "end": "03:00",
+        "area": "SF",
+        "venue": "F8",
+        "address": "1192 Folsom St, San Francisco, CA 94103",
+        "why": "Midweek house night pairing a touring label boss with a Bay Area local favorite",
+        "summary": "STRUT SF hosts Lubdub Records founder DJ Sauce alongside Bay Area favorite Just Lucas for a six-hour house night at F8.",
+        "promoter": "STRUT SF",
+        "price": "$12.51",
+        "tags": [
+          "house",
+          "club",
+          "midweek"
+        ],
+        "sources": [
+          "https://www.eventbrite.com/e/strut-sf-f8-present-dj-sauce-just-lucas-tickets-1994692186024"
+        ],
+        "tickets": [
+          "https://www.eventbrite.com/e/strut-sf-f8-present-dj-sauce-just-lucas-tickets-1994692186024"
+        ],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=1192%20Folsom%20St%2C%20San%20Francisco%2C%20CA%2094103",
+          "apple": "https://maps.apple.com/?q=1192%20Folsom%20St%2C%20San%20Francisco%2C%20CA%2094103"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1189999955%2F752911090443%2F1%2Foriginal.20260730-231814",
+        "image_generated": false,
+        "popularity": 2,
+        "active": true
       }
     ],
-    "sports": []
+    "sports": [
+      {
+        "id": "2026-08-03-sports-wednesday-fun-run-presidio-d622e8",
+        "eid": "wednesday-fun-run-presid-b7b3",
+        "track": "sports",
+        "category": "Running",
+        "name": "Wednesday Fun Run (Presidio)",
+        "day": "Wed",
+        "date": "2026-08-05",
+        "time": "6pm",
+        "start": "18:00",
+        "end": null,
+        "area": "SF",
+        "venue": "Sports Basement Presidio",
+        "address": "610 Old Mason St, San Francisco, CA 94129",
+        "why": "Free weekly trail run through the Presidio with a built-in post-run hang at the store",
+        "summary": "San Francisco Road Runners Club's Wednesday Fun Run is a semi-chaotic 5-7 mile trail run through the Presidio at an 8:00-9:30 min/mile pace, meeting inside Sports Basement Presidio.",
+        "promoter": "San Francisco Road Runners Club",
+        "price": "Free",
+        "tags": [
+          "running",
+          "trail",
+          "recurring",
+          "free",
+          "run-club"
+        ],
+        "sources": [
+          "https://www.sfrrc.org/content.aspx?page_id=22&club_id=798031&module_id=569839"
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=610%20Old%20Mason%20St%2C%20San%20Francisco%2C%20CA%2094129",
+          "apple": "https://maps.apple.com/?q=610%20Old%20Mason%20St%2C%20San%20Francisco%2C%20CA%2094129"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 1,
+        "active": true
+      }
+    ]
   }
 }
