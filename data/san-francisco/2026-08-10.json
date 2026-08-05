@@ -95,6 +95,51 @@
         "image_generated": false,
         "popularity": 2,
         "active": true
+      },
+      {
+        "id": "2026-08-10-music-babymorocco-a12e24",
+        "eid": "babymorocco-b4c1",
+        "track": "music",
+        "category": "Electronic/Indie",
+        "name": "BABYMOROCCO",
+        "day": "Wed",
+        "date": "2026-08-12",
+        "time": "Doors 7pm / Show 8pm",
+        "start": "19:00",
+        "end": "20:00",
+        "area": "SF",
+        "venue": "Rickshaw Stop",
+        "address": "155 Fell St, San Francisco, CA 94102",
+        "why": "Popscene's midweek electronic bill in an intimate 155-cap room",
+        "summary": "Popscene and Rickshaw Stop co-present BABYMOROCCO, an electronic music show with support from Harmony Tividad, at the all-ages Fell Street venue.",
+        "promoter": "Popscene",
+        "price": "$20-25",
+        "tags": [
+          "electronic",
+          "indie",
+          "all-ages",
+          "midweek"
+        ],
+        "sources": [
+          "https://rickshawstop.com/"
+        ],
+        "tickets": [
+          "https://wl.eventim.us/event/babymorocco/690327?afflky=POPSCENEPresents"
+        ],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=155%20Fell%20St%2C%20San%20Francisco%2C%20CA%2094102",
+          "apple": "https://maps.apple.com/?q=155%20Fell%20St%2C%20San%20Francisco%2C%20CA%2094102"
+        },
+        "coords": {
+          "lat": 37.7763,
+          "lon": -122.416
+        },
+        "coords_precise": true,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 3,
+        "active": true
       }
     ],
     "sports": [
@@ -141,6 +186,49 @@
         "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1040389713%2F146401415103%2F1%2Foriginal.20250528-073238?w=1880&auto=format%2Ccompress&q=75&sharp=10&s=2bd492634e48860efcb98c32b4a2860d",
         "image_generated": false,
         "popularity": 3,
+        "active": true
+      },
+      {
+        "id": "2026-08-10-sports-golden-gate-running-club-wedne-cae17e",
+        "eid": "golden-gate-running-club-9c83",
+        "track": "sports",
+        "category": "Running",
+        "name": "Golden Gate Running Club — Wednesday Track Workout",
+        "day": "Wed",
+        "date": "2026-08-12",
+        "time": "6:15pm",
+        "start": "18:15",
+        "end": null,
+        "area": "SF",
+        "venue": "Kezar Stadium",
+        "address": "Kezar Stadium, San Francisco, CA",
+        "why": "Structured, no-drop track intervals for every pace, not just a social jog",
+        "summary": "Golden Gate Running Club hosts a weekly Wednesday track workout at Kezar Stadium, meeting on the south side of the track for rotating, coached speed sessions.",
+        "promoter": "Golden Gate Running Club",
+        "price": "Free",
+        "tags": [
+          "running",
+          "run-club",
+          "track",
+          "recurring"
+        ],
+        "sources": [
+          "https://www.goldengaterunningclub.org/weekly-runs"
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=Kezar%20Stadium%2C%20San%20Francisco%2C%20CA",
+          "apple": "https://maps.apple.com/?q=Kezar%20Stadium%2C%20San%20Francisco%2C%20CA"
+        },
+        "coords": {
+          "lat": 37.7666,
+          "lon": -122.455
+        },
+        "coords_precise": true,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 2,
         "active": true
       }
     ]
