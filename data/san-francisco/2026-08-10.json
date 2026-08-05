@@ -5,7 +5,7 @@
   "location": "San Francisco & Bay Area",
   "city": "san-francisco",
   "city_label": "San Francisco",
-  "generated_at": "2026-07-31",
+  "generated_at": "2026-08-05",
   "tracks": {
     "music": [
       {
@@ -49,6 +49,51 @@
         "image": "",
         "image_generated": false,
         "popularity": 3,
+        "active": true
+      },
+      {
+        "id": "2026-08-10-music-motown-on-mondays-fa0f3c",
+        "eid": "motown-on-mondays-1fcb",
+        "track": "music",
+        "category": "Motown/Soul",
+        "name": "Motown on Mondays",
+        "day": "Mon",
+        "date": "2026-08-10",
+        "time": "7pm-2am",
+        "start": "19:00",
+        "end": "02:00",
+        "area": "SF",
+        "venue": "Madrone Art Bar",
+        "address": "500 Divisadero St, San Francisco, CA 94117",
+        "why": "A 15+ year weekly institution for free early-night Motown dancing, no ticket needed",
+        "summary": "DJ Gordo Cabeza and weekly guest DJs spin Motown originals and remixes at Madrone Art Bar's long-running Monday night dance party, free before 8pm.",
+        "promoter": "",
+        "price": "Free before 8pm / $5 after",
+        "tags": [
+          "motown",
+          "soul",
+          "dance",
+          "weekly",
+          "free",
+          "21+"
+        ],
+        "sources": [
+          "https://sf.funcheap.com/event-series/motown-mondays-madrone/"
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=500%20Divisadero%20St%2C%20San%20Francisco%2C%20CA%2094117",
+          "apple": "https://maps.apple.com/?q=500%20Divisadero%20St%2C%20San%20Francisco%2C%20CA%2094117"
+        },
+        "coords": {
+          "lat": 37.7742412,
+          "lon": -122.4374025
+        },
+        "coords_precise": true,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 2,
         "active": true
       }
     ],
