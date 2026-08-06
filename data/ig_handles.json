@@ -1,0 +1,550 @@
+{
+  "$comment": "The hourly IG scout's roster — the ONLY copy of this list. ig-party-scout/ig_events.py loads it (there is no SEED_HANDLES in Python any more), so adding a handle here is enough. Loaded and validated by party-scout-agent/source_registry.py. `handle` is the stable id; status 'documented' means deliberately parked and NOT scouted (a handle whose city the site doesn't publish yet). Handles that are also browsable web sources carry `source_id` into data/sources.json. Web sources are a separate list: data/sources.json.",
+  "version": 1,
+  "handles": [
+    {
+      "handle": "soundmeditationpresents",
+      "who": "Sound Meditation Presents — sound baths / sound-healing symphonies (Grace Cathedral, etc.)",
+      "city": "san-francisco",
+      "track": ["music"],
+      "focus": "immersive",
+      "status": "active",
+      "external_url": "https://linktr.ee/thesoundbath"
+    },
+    {
+      "handle": "audiumsf",
+      "who": "Audium Theater — 176-speaker spatial-sound immersive shows",
+      "city": "san-francisco",
+      "track": ["music"],
+      "focus": "immersive",
+      "status": "active",
+      "external_url": "https://linktr.ee/audiumsf"
+    },
+    {
+      "handle": "gracecathedral",
+      "who": "Grace Cathedral event series (TILT, labyrinth, concerts)",
+      "city": "san-francisco",
+      "track": ["music"],
+      "focus": "immersive",
+      "status": "active",
+      "external_url": "https://linktr.ee/gracecathedral"
+    },
+    {
+      "handle": "honey_gold_experience",
+      "who": "Honey Gold — immersive music / voice / video-mapping theater",
+      "city": "san-francisco",
+      "track": ["music"],
+      "focus": "immersive",
+      "status": "active",
+      "external_url": "https://honeygoldexperience.com"
+    },
+    {
+      "handle": "curious.connie",
+      "who": "SF gathering intel — sunset DJ sets, tea-house and waterfront pop-ups",
+      "city": "san-francisco",
+      "track": ["music"],
+      "status": "active",
+      "notes": "External link is a Substack (curious0connie)."
+    },
+    {
+      "handle": "fromdust.sounds",
+      "who": "From Dust / Feels in the Club — emotional dance music DJ",
+      "city": "san-francisco",
+      "track": ["music"],
+      "status": "active",
+      "external_url": "https://linktr.ee/fromdust"
+    },
+    {
+      "handle": "jlittlemusic",
+      "who": "Jacqueline Little Lopez — house / tech / techno DJ",
+      "city": "san-francisco",
+      "track": ["music"],
+      "focus": "dj",
+      "status": "active",
+      "external_url": "https://linktr.ee/JLittle"
+    },
+    {
+      "handle": "modeleeloo_official",
+      "who": "MODE LEELOO — SF DJ / producer",
+      "city": "san-francisco",
+      "track": ["music"],
+      "focus": "dj",
+      "status": "active",
+      "notes": "External link is SoundCloud (mode leeloo)."
+    },
+    {
+      "handle": "jeffstraw_official",
+      "who": "Jeff Straw — SF Bay disco-house DJ (@b4aftrmusic)",
+      "city": "san-francisco",
+      "track": ["music"],
+      "focus": "dj",
+      "status": "active",
+      "external_url": "https://jeffstraw.com"
+    },
+    {
+      "handle": "psy_matik",
+      "who": "Psymatik — hard dance fusion DJ",
+      "city": "san-francisco",
+      "track": ["music"],
+      "focus": "dj",
+      "status": "active",
+      "external_url": "https://linktr.ee/Psymatik",
+      "notes": "Geo-tags Denver too — semi-touring, so check the city per gig."
+    },
+    {
+      "handle": "ryl3r",
+      "who": "Ryan Abuel (ryl3r) — DJ, SF and San Jose clubs",
+      "city": "san-francisco",
+      "track": ["music"],
+      "focus": "dj",
+      "status": "active",
+      "external_url": "https://posh.vip/f/5d9e8"
+    },
+    {
+      "handle": "sethfinkin",
+      "who": "Seth Finkin — SF DJ (8.5k)",
+      "city": "san-francisco",
+      "track": ["music"],
+      "focus": "dj",
+      "status": "active",
+      "notes": "SoundCloud (sethfinkin), no event link — the gigs are in posts and stories."
+    },
+    {
+      "handle": "throttle_techno",
+      "who": "THROTTLE — recurring SF techno party series at 1015 Folsom",
+      "city": "san-francisco",
+      "track": ["music"],
+      "focus": "techno",
+      "status": "active",
+      "notes": "No bio link; dates are in the flyers/posts and tickets go via 1015 Folsom, RA or Dice."
+    },
+    {
+      "handle": "alldayallnightevents",
+      "who": "All Day All Night — SF Bay music/concert promoter since 2009 (24k, @audiosf)",
+      "city": "san-francisco",
+      "track": ["music"],
+      "status": "active",
+      "external_url": "https://alldayallnightevents.com",
+      "notes": "The site carries a full parseable events list (venue + date) — one of the best-yielding handles."
+    },
+    {
+      "handle": "fortheloudmouths",
+      "who": "THE LOUD MOUTHS — SF Bay collective, free pop-up beach raves (e.g. QUICKSAND)",
+      "city": "san-francisco",
+      "track": ["music"],
+      "status": "active",
+      "notes": "The bio link is a Discord invite; the events themselves go up on Partiful, so read the posts and stories."
+    },
+    {
+      "handle": "rhythmicremedies",
+      "who": "Rhythmic Remedies — Bay Area underground jungle/DnB rave collective (1.5k)",
+      "city": "san-francisco",
+      "track": ["music"],
+      "focus": "jungle / dnb",
+      "status": "active",
+      "notes": "Runs its own free day parties (Oakland/SF parks) plus an annual Jungle Cruise boat party (SF, Fisherman's Wharf). The bio link is an IG group-chat \"party info line\" (ig.me); details are in flyers and captions, tickets per event."
+    },
+    {
+      "handle": "benseagren",
+      "who": "Ben Seagren — SF house/techno DJ, DISTRIKT resident (@distrikt_org), Public Works SF etc.",
+      "city": "san-francisco",
+      "track": ["music"],
+      "focus": "dj",
+      "status": "active",
+      "external_url": "https://benseagren.com/music/upcoming-events"
+    },
+    {
+      "handle": "miguelmigsmusic",
+      "who": "Miguel Migs — SF/Bay deep-house legend (Salted / Naked Music), 28.8k",
+      "city": "san-francisco",
+      "track": ["music"],
+      "focus": "dj",
+      "status": "active",
+      "notes": "Tours nationally, so check the city per gig. Dates are in post captions; check the bio link too."
+    },
+    {
+      "handle": "djtajsf",
+      "who": "DJ Taj — SF-native DJ since '91 (1015 Folsom, Spundae)",
+      "city": "san-francisco",
+      "track": ["music"],
+      "focus": "dj",
+      "status": "active",
+      "notes": "Gigs in post captions and stories (Hawthorn SF, Mars Bar SF)."
+    },
+    {
+      "handle": "djlisarose",
+      "who": "Lisa Rose — SF underground house DJ",
+      "city": "san-francisco",
+      "track": ["music"],
+      "focus": "dj",
+      "status": "active",
+      "notes": "Gigs in post captions (e.g. The Bank SF)."
+    },
+    {
+      "handle": "iamdjheartbreak",
+      "who": "DJ Heartbreak — Bay Area R&B DJ/promoter (Walnut Creek, 21k)",
+      "city": "san-francisco",
+      "track": ["music"],
+      "focus": "r&b",
+      "status": "active",
+      "external_url": "https://djheartbreak.com",
+      "notes": "Runs recurring series: Rhythm in the Sky (Weds rooftop, Timbri Hotel SF), The R&B Brunch (@thernbbrunchbayarea), R&B & Golf (@rnbandgolf), Broken Promises. The site has the full upcoming-events list with date + city."
+    },
+    {
+      "handle": "raferrawb",
+      "who": "Rafer Rawb — Oakland hardcore DJ",
+      "city": "san-francisco",
+      "track": ["music"],
+      "focus": "hardcore",
+      "status": "active",
+      "notes": "Promotes his own Bay / North-Bay underground raves; details are in post captions (\"Legendary 90's Rave\")."
+    },
+    {
+      "handle": "_dr1ft_",
+      "who": "Dr1ft — Bay Area hardcore/uptempo DJ",
+      "city": "san-francisco",
+      "track": ["music"],
+      "focus": "hardcore",
+      "status": "active",
+      "notes": "Promotes NorCal raves (Stockton, SF) via party flyers and captions."
+    },
+    {
+      "handle": "froggin_it_up",
+      "who": "Froggin — Oakland DJ",
+      "city": "san-francisco",
+      "track": ["music"],
+      "focus": "hardcore / gabber",
+      "status": "active",
+      "notes": "Self-promotes his own parties (geo-tags Oakland); event flyers and captions, with a \"TIX HERE\" bio link."
+    },
+    {
+      "handle": "lyssnupmusic",
+      "who": "LYSSN UP — SF/Bay techno DJ/producer, Replicate Blackout (3k)",
+      "city": "san-francisco",
+      "track": ["music"],
+      "focus": "techno",
+      "status": "active",
+      "notes": "Geotags Halcyon SF / San Jose; gigs in posts. Found by mining LA DJ lineups."
+    },
+    {
+      "handle": "maxgardnermusic",
+      "who": "Max Gardner — SF techno DJ/producer, Throttle SF and Peer / Direct to Earth (4.3k)",
+      "city": "san-francisco",
+      "track": ["music"],
+      "focus": "techno",
+      "status": "active",
+      "notes": "Halcyon SF etc., tours internationally; gig posts and flyers. Found by mining LA DJ lineups."
+    },
+    {
+      "handle": "sanfranciscofnr",
+      "who": "NorCal motorcycle riding club (linked @familyandmotorcycles)",
+      "city": "san-francisco",
+      "track": ["sports"],
+      "focus": "moto",
+      "status": "active",
+      "notes": "Group canyon/highway rides. Moto rides belong in the sports/Activity track (category Moto) — on-topic. No bio link."
+    },
+    {
+      "handle": "midnightrunnerssf",
+      "who": "Midnight Runners SF — bootcamp runs with music, Wednesdays 6:30pm",
+      "city": "san-francisco",
+      "track": ["sports"],
+      "focus": "running",
+      "status": "active",
+      "external_url": "https://link.heylo.co/zdKT"
+    },
+    {
+      "handle": "black.panda.dj",
+      "who": "Black Panda (Eddie Rios) — SF/Oakland house DJ/producer",
+      "city": "san-francisco",
+      "track": ["music"],
+      "focus": "dj",
+      "status": "active",
+      "notes": "Runs the Pandamonium BIPOC/queer series (@pandamonium.music); gigs in captions (F8, El Rio, Moonglow Oakland). Found 2026-07-16 by intersecting who djlisarose / sethfinkin / fromdust.sounds follow, then confirming each as an active Bay-Area DJ."
+    },
+    {
+      "handle": "gregeversoul",
+      "who": "Greg Eversoul — 30-year SF house veteran (ex 1015 / Ruby Skye / EndUp), founder of Supertape Recordings",
+      "city": "san-francisco",
+      "track": ["music"],
+      "focus": "dj",
+      "status": "active",
+      "notes": "Gigs in captions and on RA (Underground SF). Found 2026-07-16 via the djlisarose / sethfinkin / fromdust.sounds follow-graph intersection."
+    },
+    {
+      "handle": "baum_dj",
+      "who": "BAUM (Zach Baumgarten) — Bay Area DJ/producer; elrow residency, Repopulate Mars / Sola releases",
+      "city": "san-francisco",
+      "track": ["music"],
+      "focus": "dj",
+      "status": "active",
+      "notes": "Gig posts (The Midway etc.). Found 2026-07-16 via the djlisarose / sethfinkin / fromdust.sounds follow-graph intersection."
+    },
+    {
+      "handle": "gru.dii",
+      "who": "Gru.di (Alec Kondush) — founder of Safra Parties (SF + LA); deep / organic / melodic techno",
+      "city": "san-francisco",
+      "track": ["music"],
+      "focus": "dj",
+      "status": "active",
+      "external_url": "https://safraparties.com/events",
+      "notes": "Found 2026-07-16 via the djlisarose / sethfinkin / fromdust.sounds follow-graph intersection."
+    },
+    {
+      "handle": "merdok.sf",
+      "who": "Merdok — SF techno DJ (@accelerate.tv)",
+      "city": "san-francisco",
+      "track": ["music"],
+      "focus": "techno",
+      "status": "active",
+      "notes": "Recurring F8 (1192 Folsom) and DNA Lounge nights; gigs in captions and on RA. Found 2026-07-16 via the djlisarose / sethfinkin / fromdust.sounds follow-graph intersection."
+    },
+    {
+      "handle": "kwohlamusic",
+      "who": "Kellen Wohl — SF producer / pianist / DJ, Closessions resident (@closessions)",
+      "city": "san-francisco",
+      "track": ["music"],
+      "focus": "dj",
+      "status": "active",
+      "notes": "Gig posts (Treasure Island day parties etc.). Found 2026-07-16 via the djlisarose / sethfinkin / fromdust.sounds follow-graph intersection."
+    },
+    {
+      "handle": "squishsf",
+      "who": "SQUISH — SF party collective (9k)",
+      "city": "san-francisco",
+      "track": ["music"],
+      "status": "active",
+      "notes": "Throws its own recurring parties (Great Northern, F8); dated events in the bio plus post flyers. Owner-added 2026-07-16."
+    },
+    {
+      "handle": "funkstopofficial",
+      "who": "Funk Stop — East Bay free day-party / rave collective",
+      "city": "san-francisco",
+      "track": ["music"],
+      "status": "active",
+      "notes": "Throws its own free-with-RSVP parties at Club Cali, Berkeley (house/techno/D&B/bass); events in flyers and captions, RSVP via laylo. Owner-added 2026-07-16."
+    },
+    {
+      "handle": "djmershow",
+      "who": "The Mer Show — Bay Area house/electronic DJ (1.85k)",
+      "city": "san-francisco",
+      "track": ["music"],
+      "status": "active",
+      "notes": "Self-promotes his own gigs in the bio and post flyers. Owner-added 2026-07-17."
+    },
+
+    {
+      "handle": "flapjackthekandikid",
+      "who": "DJ Flapjack — LA-based hardcore/kandi DJ (27k)",
+      "city": "los-angeles",
+      "track": ["music"],
+      "focus": "hardcore",
+      "status": "active",
+      "notes": "Heavy US/EU festival and rave touring (EDC, Burning Man) plus the LA renegade scene, so check the city per gig. Announcements are in post captions as multi-date tour graphics; no single event link. LA-based, so an LA source and never an SF one."
+    },
+    {
+      "handle": "climaxevents.la",
+      "who": "Climax Events LA — warehouse/renegade rave promoter, \"2 events every weekend\" (21.5k)",
+      "city": "los-angeles",
+      "track": ["music"],
+      "focus": "rave",
+      "status": "active",
+      "notes": "Tickets via the bio link, plus an SMS list (\"text CLIMAX to (833) 595-0508\"); event flyers in posts and stories."
+    },
+    {
+      "handle": "cyboy_",
+      "who": "CYBOY — TECHNOPUNK LA DJ (7.5k)",
+      "city": "los-angeles",
+      "track": ["music"],
+      "focus": "techno",
+      "status": "active",
+      "notes": "Co-founds the Malfunction.la and Blind Tiger.la parties; posts his own flyers and stories. Mined from LA promoter lineups, 2026-07-06."
+    },
+    {
+      "handle": "ruukachan",
+      "who": "DJ RURU (Ruuka) — LA hard-techno DJ (6k)",
+      "city": "los-angeles",
+      "track": ["music"],
+      "focus": "hard techno",
+      "status": "active",
+      "notes": "Gig flyers and stories. Mined from LA promoter lineups, 2026-07-06."
+    },
+    {
+      "handle": "andrewleedj",
+      "who": "Andrew Lee / HARDWERQ — LA house DJ (4.2k)",
+      "city": "los-angeles",
+      "track": ["music"],
+      "focus": "house / rave",
+      "status": "active",
+      "notes": "Owns LA Raves / Rave Hard / MadHouse; event flyers in posts. Mined from LA promoter lineups, 2026-07-06."
+    },
+    {
+      "handle": "ginakuhn",
+      "who": "Gina Kuhn — LA DJ, Machine Club (Club Teegee) resident (3.5k)",
+      "city": "los-angeles",
+      "track": ["music"],
+      "focus": "dj",
+      "status": "active",
+      "notes": "Posts her nights and stories. Mined from LA promoter lineups, 2026-07-06."
+    },
+    {
+      "handle": "staticproductions.llc",
+      "who": "Static — LA-based rave DJ / production (3.1k)",
+      "city": "los-angeles",
+      "track": ["music"],
+      "focus": "rave",
+      "status": "active",
+      "notes": "Gig and flyer posts. Mined from LA promoter lineups, 2026-07-06."
+    },
+    {
+      "handle": "bigmixmike",
+      "who": "Big Mix Mike — LA DJ (2.9k)",
+      "city": "los-angeles",
+      "track": ["music"],
+      "focus": "reggae / dj",
+      "status": "active",
+      "notes": "Weekly Reggae Love Sundays residency at Club Tee Gee; posts the residency and other gigs. LA locality confirmed via post geotags."
+    },
+    {
+      "handle": "iambombsqvad",
+      "who": "BOMB-E — LA acid-techno DJ (8.4k)",
+      "city": "los-angeles",
+      "track": ["music"],
+      "focus": "acid techno",
+      "status": "active",
+      "notes": "All-LA gigs (Skid Row / DTLA); gig posts and stories. LA locality confirmed via post geotags."
+    },
+    {
+      "handle": "itspinkstiletto",
+      "who": "Pink Stiletto — LA DJ, Catch One etc. (5.6k)",
+      "city": "los-angeles",
+      "track": ["music"],
+      "focus": "dj",
+      "status": "active",
+      "notes": "Also tours, so check the city per gig; gig flyers. LA locality confirmed via post geotags."
+    },
+    {
+      "handle": "vonwolfenheiser.ox",
+      "who": "Annika Wolfe — LA techno artist, Akela Recordings (6k)",
+      "city": "los-angeles",
+      "track": ["music"],
+      "focus": "techno",
+      "status": "active",
+      "notes": "Releases plus gigs and stories. LA locality confirmed via post geotags."
+    },
+    {
+      "handle": "rawvictoria",
+      "who": "Victoria Rawlins — LA DJ/artist and radio host (Psychic Bassline, SiriusXM), 10k",
+      "city": "los-angeles",
+      "track": ["music"],
+      "focus": "dj",
+      "status": "active",
+      "notes": "Gigs. LA locality confirmed via post geotags."
+    },
+    {
+      "handle": "codered.la",
+      "who": "CODE RED† — major LA rave / hardstyle-hardcore promoter (141k)",
+      "city": "los-angeles",
+      "track": ["music"],
+      "focus": "rave / hardstyle",
+      "status": "active",
+      "external_url": "https://pear.us/codered-la",
+      "notes": "Weekly headliner nights (Sarah de Warren, Noize Suppressor, …); upcoming dates in the bio and flyers in posts."
+    },
+
+    {
+      "handle": "insomniacevents",
+      "who": "Insomniac Events (942k)",
+      "city": "los-angeles",
+      "track": ["music"],
+      "status": "active",
+      "source_id": "insomniac-events",
+      "notes": "One of the big LA promoters, ranked in from 19hz-LA frequency and verified LA on both IG and its site (2026-07-06). Its calendar is the linked web source; the handle is for flyers and date announcements."
+    },
+    {
+      "handle": "browniesandlemonade",
+      "who": "Brownies & Lemonade (201k)",
+      "city": "los-angeles",
+      "track": ["music"],
+      "status": "active",
+      "source_id": "brownies-and-lemonade",
+      "notes": "Big LA promoter from the 19hz-LA frequency ranking, IG- and site-verified LA."
+    },
+    {
+      "handle": "goldenvoice",
+      "who": "Goldenvoice (149k)",
+      "city": "los-angeles",
+      "track": ["music"],
+      "status": "active",
+      "source_id": "goldenvoice",
+      "notes": "Big LA promoter from the 19hz-LA frequency ranking, IG- and site-verified LA."
+    },
+    {
+      "handle": "restlessnites",
+      "who": "Restless Nites (29k)",
+      "city": "los-angeles",
+      "track": ["music"],
+      "status": "active",
+      "source_id": "restless-nites",
+      "notes": "Big LA promoter from the 19hz-LA frequency ranking, IG- and site-verified LA."
+    },
+    {
+      "handle": "minimaleffortla",
+      "who": "Minimal Effort / Underrated Presents (21k)",
+      "city": "los-angeles",
+      "track": ["music"],
+      "focus": "techno",
+      "status": "active",
+      "source_id": "minimal-effort",
+      "notes": "Big LA promoter from the 19hz-LA frequency ranking, IG- and site-verified LA."
+    },
+    {
+      "handle": "subtractmusic",
+      "who": "Subtract Music (13k)",
+      "city": "los-angeles",
+      "track": ["music"],
+      "status": "active",
+      "source_id": "subtract-music",
+      "notes": "Big LA-metro promoter from the 19hz-LA frequency ranking; its events are in Long Beach rather than LA proper."
+    },
+    {
+      "handle": "thisaintbristol",
+      "who": "This Ain't Bristol (13k)",
+      "city": "los-angeles",
+      "track": ["music"],
+      "focus": "bass / house",
+      "status": "active",
+      "source_id": "this-aint-bristol",
+      "notes": "LA-associated label and party from the 19hz-LA frequency ranking; confirm the venues at scan time."
+    },
+    {
+      "handle": "azuredaypartysocal",
+      "who": "Azure Day Party SoCal (7k)",
+      "city": "los-angeles",
+      "track": ["music"],
+      "status": "active",
+      "source_id": "azure-day-party-socal",
+      "notes": "Orange County rather than LA proper — every event is at The Bungalow, Huntington Beach."
+    },
+
+    {
+      "handle": "fngrscrssd",
+      "who": "FNGRS CRSSD — CRSSD Festival, house/techno (79k)",
+      "city": "san-diego",
+      "track": ["music"],
+      "focus": "house / techno",
+      "status": "documented",
+      "source_id": "fngrs-crssd",
+      "notes": "PARKED, deliberately NOT in the scout roster: San Diego is not a published city, so its events have no week file to be filed into. Do not scout it into LA or SF. Flip to active when a san-diego city exists."
+    },
+    {
+      "handle": "ledpresents",
+      "who": "LED Presents — big-room EDM/bass, San Diego venues (74k)",
+      "city": "san-diego",
+      "track": ["music"],
+      "status": "documented",
+      "source_id": "led-presents",
+      "notes": "PARKED for the same reason as fngrscrssd — no san-diego city exists yet."
+    }
+  ]
+}
