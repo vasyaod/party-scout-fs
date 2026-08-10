@@ -1,281 +1,323 @@
 {
-  "week_start": "2026-08-10",
-  "window": "2026-08-10..2026-08-16",
-  "title": "Mid August",
-  "location": "San Francisco & Bay Area",
-  "city": "san-francisco",
-  "city_label": "San Francisco",
-  "generated_at": "2026-08-05",
-  "tracks": {
-    "music": [
-      {
-        "id": "2026-08-10-music-rb-and-ready-chateau-walnut-creek-2f7b91",
-        "eid": "rb-and-ready-2f7b",
-        "track": "music",
-        "category": "R&B/Nightlife",
-        "name": "R&B & Ready",
-        "day": "Tue",
-        "date": "2026-08-11",
-        "time": "",
-        "start": null,
-        "end": null,
-        "area": "Walnut Creek",
-        "venue": "Château Walnut Creek",
-        "address": "",
-        "why": "Guided R&B singles mixer format designed for actual conversation, not a typical club night",
-        "summary": "R&B & Ready returns to Château Walnut Creek for a guided R&B singles mixer, Tuesday August 11 - timeless R&B, handcrafted cocktails, and guided connection experiences for singles.",
-        "promoter": "DJ Heartbreak",
-        "price": "",
-        "tags": [
-          "rnb",
-          "singles",
-          "mixer",
-          "nightlife"
+    "week_start": "2026-08-10",
+    "window": "2026-08-10..2026-08-16",
+    "title": "Mid August",
+    "location": "San Francisco & Bay Area",
+    "city": "san-francisco",
+    "city_label": "San Francisco",
+    "generated_at": "2026-08-05",
+    "tracks": {
+        "music": [
+            {
+                "id": "2026-08-10-music-rb-and-ready-chateau-walnut-creek-2f7b91",
+                "eid": "rb-and-ready-2f7b",
+                "track": "music",
+                "category": "R&B/Nightlife",
+                "name": "R&B & Ready",
+                "day": "Tue",
+                "date": "2026-08-11",
+                "time": "",
+                "start": null,
+                "end": null,
+                "area": "Walnut Creek",
+                "venue": "Château Walnut Creek",
+                "address": "",
+                "why": "Guided R&B singles mixer format designed for actual conversation, not a typical club night",
+                "summary": "R&B & Ready returns to Château Walnut Creek for a guided R&B singles mixer, Tuesday August 11 - timeless R&B, handcrafted cocktails, and guided connection experiences for singles.",
+                "promoter": "DJ Heartbreak",
+                "price": "",
+                "tags": [
+                    "rnb",
+                    "singles",
+                    "mixer",
+                    "nightlife"
+                ],
+                "sources": [
+                    "https://www.instagram.com/p/DbE-tGIlA5l/",
+                    "https://www.instagram.com/p/DbbkrMAy80B/"
+                ],
+                "tickets": [
+                    "https://djheartbreak.com"
+                ],
+                "maps": {
+                    "google": "https://www.google.com/maps/search/?api=1&query=Ch%C3%A2teau%20Walnut%20Creek%2C%20Walnut%20Creek%2C%20CA",
+                    "apple": "https://maps.apple.com/?q=Ch%C3%A2teau%20Walnut%20Creek%2C%20Walnut%20Creek%2C%20CA"
+                },
+                "coords": null,
+                "coords_precise": false,
+                "ra": {},
+                "image": "",
+                "image_generated": false,
+                "popularity": 3,
+                "active": true
+            },
+            {
+                "id": "2026-08-10-music-motown-on-mondays-fa0f3c",
+                "eid": "motown-on-mondays-1fcb",
+                "track": "music",
+                "category": "Motown/Soul",
+                "name": "Motown on Mondays",
+                "day": "Mon",
+                "date": "2026-08-10",
+                "time": "7pm-2am",
+                "start": "19:00",
+                "end": "02:00",
+                "area": "SF",
+                "venue": "Madrone Art Bar",
+                "address": "500 Divisadero St, San Francisco, CA 94117",
+                "why": "A 15+ year weekly institution for free early-night Motown dancing, no ticket needed",
+                "summary": "DJ Gordo Cabeza and weekly guest DJs spin Motown originals and remixes at Madrone Art Bar's long-running Monday night dance party, free before 8pm.",
+                "promoter": "",
+                "price": "Free before 8pm / $5 after",
+                "tags": [
+                    "motown",
+                    "soul",
+                    "dance",
+                    "weekly",
+                    "free",
+                    "21+"
+                ],
+                "sources": [
+                    "https://sf.funcheap.com/event-series/motown-mondays-madrone/"
+                ],
+                "tickets": [],
+                "maps": {
+                    "google": "https://www.google.com/maps/search/?api=1&query=500%20Divisadero%20St%2C%20San%20Francisco%2C%20CA%2094117",
+                    "apple": "https://maps.apple.com/?q=500%20Divisadero%20St%2C%20San%20Francisco%2C%20CA%2094117"
+                },
+                "coords": {
+                    "lat": 37.7742412,
+                    "lon": -122.4374025
+                },
+                "coords_precise": true,
+                "ra": {},
+                "image": "",
+                "image_generated": false,
+                "popularity": 2,
+                "active": true
+            },
+            {
+                "id": "2026-08-10-music-babymorocco-a12e24",
+                "eid": "babymorocco-b4c1",
+                "track": "music",
+                "category": "Electronic/Indie",
+                "name": "BABYMOROCCO",
+                "day": "Wed",
+                "date": "2026-08-12",
+                "time": "Doors 7pm / Show 8pm",
+                "start": "19:00",
+                "end": "20:00",
+                "area": "SF",
+                "venue": "Rickshaw Stop",
+                "address": "155 Fell St, San Francisco, CA 94102",
+                "why": "Popscene's midweek electronic bill in an intimate 155-cap room",
+                "summary": "Popscene and Rickshaw Stop co-present BABYMOROCCO, an electronic music show with support from Harmony Tividad, at the all-ages Fell Street venue.",
+                "promoter": "Popscene",
+                "price": "$20-25",
+                "tags": [
+                    "electronic",
+                    "indie",
+                    "all-ages",
+                    "midweek"
+                ],
+                "sources": [
+                    "https://rickshawstop.com/"
+                ],
+                "tickets": [
+                    "https://wl.eventim.us/event/babymorocco/690327?afflky=POPSCENEPresents"
+                ],
+                "maps": {
+                    "google": "https://www.google.com/maps/search/?api=1&query=155%20Fell%20St%2C%20San%20Francisco%2C%20CA%2094102",
+                    "apple": "https://maps.apple.com/?q=155%20Fell%20St%2C%20San%20Francisco%2C%20CA%2094102"
+                },
+                "coords": {
+                    "lat": 37.7763,
+                    "lon": -122.416
+                },
+                "coords_precise": true,
+                "ra": {},
+                "image": "",
+                "image_generated": false,
+                "popularity": 3,
+                "active": true
+            },
+            {
+                "id": "2026-08-10-music-run-it-back-casmalia-f8-b91a22",
+                "eid": "run-it-back-casmalia-f8-7c4e",
+                "track": "music",
+                "category": "Bass House/Techno",
+                "name": "Run It Back Presents: Casmalia",
+                "day": "Wed",
+                "date": "2026-08-12",
+                "time": "10pm-2am",
+                "start": "22:00",
+                "end": "02:00",
+                "area": "SF",
+                "venue": "F8",
+                "address": "1192 Folsom St, San Francisco, CA 94103",
+                "why": "Free RSVP before 11pm gets an EDC/Coachella-tour LA headliner into F8's back room on a Wednesday",
+                "summary": "Run It Back brings LA producer Casmalia (Insomniac Records, mau5trap, Night Bass) to headline F8's back room, backed by a full local support lineup and free RSVP before 11pm.",
+                "promoter": "Run It Back",
+                "price": "Free RSVP before 11pm",
+                "tags": [
+                    "bass house",
+                    "techno",
+                    "midweek",
+                    "residency"
+                ],
+                "sources": [
+                    "https://www.instagram.com/p/DbrNtMiyC8h/",
+                    "https://www.instagram.com/p/DbypOrAAfuj/",
+                    "https://www.instagram.com/f8sf/"
+                ],
+                "tickets": [],
+                "maps": {
+                    "google": "https://www.google.com/maps/search/?api=1&query=1192%20Folsom%20St%2C%20San%20Francisco%2C%20CA%2094103",
+                    "apple": "https://maps.apple.com/?q=1192%20Folsom%20St%2C%20San%20Francisco%2C%20CA%2094103"
+                },
+                "coords": {
+                    "lat": 37.7766,
+                    "lon": -122.4103
+                },
+                "coords_precise": true,
+                "ra": {},
+                "image": "",
+                "image_generated": false,
+                "popularity": 3,
+                "active": true
+            },
+            {
+                "id": "2026-08-10-music-salty-residency-seth-finkin-napa-music-hall-a1c3e2",
+                "eid": "salty-residency-seth-finkin-a1c3",
+                "track": "music",
+                "category": "House/Techno",
+                "name": "Salty Residency: Seth Finkin",
+                "day": "Fri",
+                "date": "2026-08-14",
+                "time": "6PM-Late",
+                "start": "18:00",
+                "end": null,
+                "area": "Napa",
+                "venue": "Napa Music Hall",
+                "address": "",
+                "why": "SF beach-party and pop-up renegade DJ Seth Finkin headlines a residency night with free happy-hour plaza set before the paid club room",
+                "summary": "Salty Sundays Productions residency night at Napa Music Hall: San Francisco DJ Seth Finkin (disco, house, world percussion) with residents Mark G and Tamer. Outdoor plaza happy hour 6-9PM is free; club room 9PM-late is $25.",
+                "promoter": "Salty Sundays Productions",
+                "price": "$25 (free happy hour 6-9PM)",
+                "tags": [
+                    "house",
+                    "disco",
+                    "techno",
+                    "residency"
+                ],
+                "sources": [
+                    "https://www.instagram.com/p/DbwcAudvIac/",
+                    "https://www.instagram.com/p/DbyU1YYGwng/",
+                    "https://www.instagram.com/sethfinkin/"
+                ],
+                "tickets": [],
+                "maps": {
+                    "google": "https://www.google.com/maps/search/?api=1&query=Napa%20Music%20Hall%2C%20Napa%2C%20CA",
+                    "apple": "https://maps.apple.com/?q=Napa%20Music%20Hall%2C%20Napa%2C%20CA"
+                },
+                "coords": null,
+                "coords_precise": false,
+                "ra": {},
+                "image": "",
+                "image_generated": false,
+                "popularity": 3,
+                "active": true
+            }
         ],
-        "sources": [
-          "https://www.instagram.com/p/DbE-tGIlA5l/",
-          "https://www.instagram.com/p/DbbkrMAy80B/"
-        ],
-        "tickets": [
-          "https://djheartbreak.com"
-        ],
-        "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=Ch%C3%A2teau%20Walnut%20Creek%2C%20Walnut%20Creek%2C%20CA",
-          "apple": "https://maps.apple.com/?q=Ch%C3%A2teau%20Walnut%20Creek%2C%20Walnut%20Creek%2C%20CA"
-        },
-        "coords": null,
-        "coords_precise": false,
-        "ra": {},
-        "image": "",
-        "image_generated": false,
-        "popularity": 3,
-        "active": true
-      },
-      {
-        "id": "2026-08-10-music-motown-on-mondays-fa0f3c",
-        "eid": "motown-on-mondays-1fcb",
-        "track": "music",
-        "category": "Motown/Soul",
-        "name": "Motown on Mondays",
-        "day": "Mon",
-        "date": "2026-08-10",
-        "time": "7pm-2am",
-        "start": "19:00",
-        "end": "02:00",
-        "area": "SF",
-        "venue": "Madrone Art Bar",
-        "address": "500 Divisadero St, San Francisco, CA 94117",
-        "why": "A 15+ year weekly institution for free early-night Motown dancing, no ticket needed",
-        "summary": "DJ Gordo Cabeza and weekly guest DJs spin Motown originals and remixes at Madrone Art Bar's long-running Monday night dance party, free before 8pm.",
-        "promoter": "",
-        "price": "Free before 8pm / $5 after",
-        "tags": [
-          "motown",
-          "soul",
-          "dance",
-          "weekly",
-          "free",
-          "21+"
-        ],
-        "sources": [
-          "https://sf.funcheap.com/event-series/motown-mondays-madrone/"
-        ],
-        "tickets": [],
-        "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=500%20Divisadero%20St%2C%20San%20Francisco%2C%20CA%2094117",
-          "apple": "https://maps.apple.com/?q=500%20Divisadero%20St%2C%20San%20Francisco%2C%20CA%2094117"
-        },
-        "coords": {
-          "lat": 37.7742412,
-          "lon": -122.4374025
-        },
-        "coords_precise": true,
-        "ra": {},
-        "image": "",
-        "image_generated": false,
-        "popularity": 2,
-        "active": true
-      },
-      {
-        "id": "2026-08-10-music-babymorocco-a12e24",
-        "eid": "babymorocco-b4c1",
-        "track": "music",
-        "category": "Electronic/Indie",
-        "name": "BABYMOROCCO",
-        "day": "Wed",
-        "date": "2026-08-12",
-        "time": "Doors 7pm / Show 8pm",
-        "start": "19:00",
-        "end": "20:00",
-        "area": "SF",
-        "venue": "Rickshaw Stop",
-        "address": "155 Fell St, San Francisco, CA 94102",
-        "why": "Popscene's midweek electronic bill in an intimate 155-cap room",
-        "summary": "Popscene and Rickshaw Stop co-present BABYMOROCCO, an electronic music show with support from Harmony Tividad, at the all-ages Fell Street venue.",
-        "promoter": "Popscene",
-        "price": "$20-25",
-        "tags": [
-          "electronic",
-          "indie",
-          "all-ages",
-          "midweek"
-        ],
-        "sources": [
-          "https://rickshawstop.com/"
-        ],
-        "tickets": [
-          "https://wl.eventim.us/event/babymorocco/690327?afflky=POPSCENEPresents"
-        ],
-        "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=155%20Fell%20St%2C%20San%20Francisco%2C%20CA%2094102",
-          "apple": "https://maps.apple.com/?q=155%20Fell%20St%2C%20San%20Francisco%2C%20CA%2094102"
-        },
-        "coords": {
-          "lat": 37.7763,
-          "lon": -122.416
-        },
-        "coords_precise": true,
-        "ra": {},
-        "image": "",
-        "image_generated": false,
-        "popularity": 3,
-        "active": true
-      },
-      {
-        "id": "2026-08-10-music-run-it-back-casmalia-f8-b91a22",
-        "eid": "run-it-back-casmalia-f8-7c4e",
-        "track": "music",
-        "category": "Bass House/Techno",
-        "name": "Run It Back Presents: Casmalia",
-        "day": "Wed",
-        "date": "2026-08-12",
-        "time": "10pm-2am",
-        "start": "22:00",
-        "end": "02:00",
-        "area": "SF",
-        "venue": "F8",
-        "address": "1192 Folsom St, San Francisco, CA 94103",
-        "why": "Free RSVP before 11pm gets an EDC/Coachella-tour LA headliner into F8's back room on a Wednesday",
-        "summary": "Run It Back brings LA producer Casmalia (Insomniac Records, mau5trap, Night Bass) to headline F8's back room, backed by a full local support lineup and free RSVP before 11pm.",
-        "promoter": "Run It Back",
-        "price": "Free RSVP before 11pm",
-        "tags": [
-          "bass house",
-          "techno",
-          "midweek",
-          "residency"
-        ],
-        "sources": [
-          "https://www.instagram.com/p/DbrNtMiyC8h/",
-          "https://www.instagram.com/p/DbypOrAAfuj/",
-          "https://www.instagram.com/f8sf/"
-        ],
-        "tickets": [],
-        "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=1192%20Folsom%20St%2C%20San%20Francisco%2C%20CA%2094103",
-          "apple": "https://maps.apple.com/?q=1192%20Folsom%20St%2C%20San%20Francisco%2C%20CA%2094103"
-        },
-        "coords": {
-          "lat": 37.7766,
-          "lon": -122.4103
-        },
-        "coords_precise": true,
-        "ra": {},
-        "image": "",
-        "image_generated": false,
-        "popularity": 3,
-        "active": true
-      }
-    ],
-    "sports": [
-      {
-        "id": "2026-08-10-sports-silent-disco-night-at-the-chur-007d38",
-        "eid": "silent-disco-night-at-th-5083",
-        "track": "sports",
-        "category": "Skate",
-        "name": "Silent Disco Night at the Church of 8 Wheels",
-        "day": "Tue",
-        "date": "2026-08-11",
-        "time": "8-10pm",
-        "start": "20:00",
-        "end": "22:00",
-        "area": "SF",
-        "venue": "Church of 8 Wheels",
-        "address": "554 Fillmore St, San Francisco, CA 94117",
-        "why": "Three DJs battle live through color-coded silent-disco channels you switch on the fly",
-        "summary": "Weekly Tuesday roller-skate night inside a converted church where three DJs perform simultaneously through wireless silent-disco headphones, letting skaters vote which channel to follow and who returns next week.",
-        "promoter": "",
-        "price": "$20",
-        "tags": [
-          "skate",
-          "recurring",
-          "weeknight",
-          "silent-disco"
-        ],
-        "sources": [
-          "https://www.eventbrite.com/e/silent-disco-night-at-the-church-of-8-wheels-800-pm-to-1000-pm-tickets-153941742897"
-        ],
-        "tickets": [
-          "https://www.eventbrite.com/e/silent-disco-night-at-the-church-of-8-wheels-800-pm-to-1000-pm-tickets-153941742897"
-        ],
-        "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=554%20Fillmore%20St%2C%20San%20Francisco%2C%20CA%2094117",
-          "apple": "https://maps.apple.com/?q=554%20Fillmore%20St%2C%20San%20Francisco%2C%20CA%2094117"
-        },
-        "coords": {
-          "lat": 37.7747473,
-          "lon": -122.4305919
-        },
-        "coords_precise": true,
-        "ra": {},
-        "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1040389713%2F146401415103%2F1%2Foriginal.20250528-073238?w=1880&auto=format%2Ccompress&q=75&sharp=10&s=2bd492634e48860efcb98c32b4a2860d",
-        "image_generated": false,
-        "popularity": 3,
-        "active": true
-      },
-      {
-        "id": "2026-08-10-sports-golden-gate-running-club-wedne-cae17e",
-        "eid": "golden-gate-running-club-9c83",
-        "track": "sports",
-        "category": "Running",
-        "name": "Golden Gate Running Club — Wednesday Track Workout",
-        "day": "Wed",
-        "date": "2026-08-12",
-        "time": "6:15pm",
-        "start": "18:15",
-        "end": null,
-        "area": "SF",
-        "venue": "Kezar Stadium",
-        "address": "Kezar Stadium, San Francisco, CA",
-        "why": "Structured, no-drop track intervals for every pace, not just a social jog",
-        "summary": "Golden Gate Running Club hosts a weekly Wednesday track workout at Kezar Stadium, meeting on the south side of the track for rotating, coached speed sessions.",
-        "promoter": "Golden Gate Running Club",
-        "price": "Free",
-        "tags": [
-          "running",
-          "run-club",
-          "track",
-          "recurring"
-        ],
-        "sources": [
-          "https://www.goldengaterunningclub.org/weekly-runs"
-        ],
-        "tickets": [],
-        "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=Kezar%20Stadium%2C%20San%20Francisco%2C%20CA",
-          "apple": "https://maps.apple.com/?q=Kezar%20Stadium%2C%20San%20Francisco%2C%20CA"
-        },
-        "coords": {
-          "lat": 37.7666,
-          "lon": -122.455
-        },
-        "coords_precise": true,
-        "ra": {},
-        "image": "",
-        "image_generated": false,
-        "popularity": 2,
-        "active": true
-      }
-    ]
-  }
+        "sports": [
+            {
+                "id": "2026-08-10-sports-silent-disco-night-at-the-chur-007d38",
+                "eid": "silent-disco-night-at-th-5083",
+                "track": "sports",
+                "category": "Skate",
+                "name": "Silent Disco Night at the Church of 8 Wheels",
+                "day": "Tue",
+                "date": "2026-08-11",
+                "time": "8-10pm",
+                "start": "20:00",
+                "end": "22:00",
+                "area": "SF",
+                "venue": "Church of 8 Wheels",
+                "address": "554 Fillmore St, San Francisco, CA 94117",
+                "why": "Three DJs battle live through color-coded silent-disco channels you switch on the fly",
+                "summary": "Weekly Tuesday roller-skate night inside a converted church where three DJs perform simultaneously through wireless silent-disco headphones, letting skaters vote which channel to follow and who returns next week.",
+                "promoter": "",
+                "price": "$20",
+                "tags": [
+                    "skate",
+                    "recurring",
+                    "weeknight",
+                    "silent-disco"
+                ],
+                "sources": [
+                    "https://www.eventbrite.com/e/silent-disco-night-at-the-church-of-8-wheels-800-pm-to-1000-pm-tickets-153941742897"
+                ],
+                "tickets": [
+                    "https://www.eventbrite.com/e/silent-disco-night-at-the-church-of-8-wheels-800-pm-to-1000-pm-tickets-153941742897"
+                ],
+                "maps": {
+                    "google": "https://www.google.com/maps/search/?api=1&query=554%20Fillmore%20St%2C%20San%20Francisco%2C%20CA%2094117",
+                    "apple": "https://maps.apple.com/?q=554%20Fillmore%20St%2C%20San%20Francisco%2C%20CA%2094117"
+                },
+                "coords": {
+                    "lat": 37.7747473,
+                    "lon": -122.4305919
+                },
+                "coords_precise": true,
+                "ra": {},
+                "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1040389713%2F146401415103%2F1%2Foriginal.20250528-073238?w=1880&auto=format%2Ccompress&q=75&sharp=10&s=2bd492634e48860efcb98c32b4a2860d",
+                "image_generated": false,
+                "popularity": 3,
+                "active": true
+            },
+            {
+                "id": "2026-08-10-sports-golden-gate-running-club-wedne-cae17e",
+                "eid": "golden-gate-running-club-9c83",
+                "track": "sports",
+                "category": "Running",
+                "name": "Golden Gate Running Club — Wednesday Track Workout",
+                "day": "Wed",
+                "date": "2026-08-12",
+                "time": "6:15pm",
+                "start": "18:15",
+                "end": null,
+                "area": "SF",
+                "venue": "Kezar Stadium",
+                "address": "Kezar Stadium, San Francisco, CA",
+                "why": "Structured, no-drop track intervals for every pace, not just a social jog",
+                "summary": "Golden Gate Running Club hosts a weekly Wednesday track workout at Kezar Stadium, meeting on the south side of the track for rotating, coached speed sessions.",
+                "promoter": "Golden Gate Running Club",
+                "price": "Free",
+                "tags": [
+                    "running",
+                    "run-club",
+                    "track",
+                    "recurring"
+                ],
+                "sources": [
+                    "https://www.goldengaterunningclub.org/weekly-runs"
+                ],
+                "tickets": [],
+                "maps": {
+                    "google": "https://www.google.com/maps/search/?api=1&query=Kezar%20Stadium%2C%20San%20Francisco%2C%20CA",
+                    "apple": "https://maps.apple.com/?q=Kezar%20Stadium%2C%20San%20Francisco%2C%20CA"
+                },
+                "coords": {
+                    "lat": 37.7666,
+                    "lon": -122.455
+                },
+                "coords_precise": true,
+                "ra": {},
+                "image": "",
+                "image_generated": false,
+                "popularity": 2,
+                "active": true
+            }
+        ]
+    }
 }
