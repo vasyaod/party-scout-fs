@@ -97,18 +97,87 @@
         "popularity": 2,
         "active": true,
         "lineup": [
-          { "name": "bc.rydah", "instagram": "bc.rydah" },
-          { "name": "its_ufo", "instagram": "its_ufo" },
-          { "name": "soeneido", "instagram": "soeneido" },
-          { "name": "mf_mama", "instagram": "mf_mama" },
-          { "name": "sobaworldwide", "instagram": "_sobaworldwide_" },
-          { "name": "itsdjveee", "instagram": "itsdjveee" },
-          { "name": "khariszmabeats", "instagram": "khariszmabeats" },
-          { "name": "kavieramusic", "instagram": "kavieramusic" },
-          { "name": "rivsntings", "instagram": "rivsntings" }
+          {
+            "name": "bc.rydah",
+            "instagram": "bc.rydah"
+          },
+          {
+            "name": "its_ufo",
+            "instagram": "its_ufo"
+          },
+          {
+            "name": "soeneido",
+            "instagram": "soeneido"
+          },
+          {
+            "name": "mf_mama",
+            "instagram": "mf_mama"
+          },
+          {
+            "name": "sobaworldwide",
+            "instagram": "_sobaworldwide_"
+          },
+          {
+            "name": "itsdjveee",
+            "instagram": "itsdjveee"
+          },
+          {
+            "name": "khariszmabeats",
+            "instagram": "khariszmabeats"
+          },
+          {
+            "name": "kavieramusic",
+            "instagram": "kavieramusic"
+          },
+          {
+            "name": "rivsntings",
+            "instagram": "rivsntings"
+          }
         ]
       }
     ],
-    "sports": []
+    "sports": [
+      {
+        "track": "sports",
+        "category": "Motorcycle Ride",
+        "name": "Taco Tuesday Moto Ride",
+        "day": "Tue",
+        "date": "2026-08-18",
+        "time": "",
+        "start": null,
+        "end": null,
+        "area": "Sunset District",
+        "venue": "Underdogs Too",
+        "address": "3600 Taraval St, San Francisco, CA 94116",
+        "why": "A biker-community taco night open to all motorcycles and riders, co-hosted by four Bay Area MC clubs for dinner and conversation.",
+        "summary": "Underdogs Too hosts a Taco Tuesday for the biker community on August 18, co-hosted by Delinquents Motorcycle Club, Delinquents MC San Jose, Family & Motorcycles, and Throttle Island T.I. — all motorcycles and riders welcome.",
+        "promoter": "",
+        "price": "",
+        "tags": [
+          "motorcycle",
+          "community",
+          "weekly"
+        ],
+        "lineup": [],
+        "sources": [
+          "https://www.instagram.com/p/Db1bcC5ym50/",
+          "https://www.instagram.com/sanfranciscofnr/"
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=Underdogs+Too%2C+3600+Taraval+St%2C+San+Francisco%2C+CA+94116",
+          "apple": "https://maps.apple.com/?q=Underdogs+Too%2C+3600+Taraval+St%2C+San+Francisco%2C+CA+94116"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 1,
+        "active": true,
+        "id": "2026-08-17-sports-taco-tuesday-moto-ride-underdogs-a1c3",
+        "eid": "taco-tuesday-moto-ride-a1c3"
+      }
+    ]
   }
 }
