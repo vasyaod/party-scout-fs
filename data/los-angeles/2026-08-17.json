@@ -5,7 +5,7 @@
   "location": "Los Angeles & SoCal",
   "city": "los-angeles",
   "city_label": "Los Angeles",
-  "generated_at": "2026-07-31",
+  "generated_at": "2026-08-12",
   "tracks": {
     "music": [
       {
@@ -109,6 +109,51 @@
         "eid": "trap-rave-code-red-lucki-2026"
       }
     ],
-    "sports": []
+    "sports": [
+      {
+        "id": "2026-08-17-sports-la-running-club-monday-runday-16287b",
+        "eid": "la-running-club-monday-r-8f0b",
+        "track": "sports",
+        "category": "Running",
+        "name": "LA Running Club Monday Runday",
+        "day": "Mon",
+        "date": "2026-08-17",
+        "time": "6:45pm-8pm",
+        "start": "18:45",
+        "end": "20:00",
+        "area": "Playa Del Rey",
+        "venue": "Playa Provisions",
+        "address": "119 Culver Blvd, Playa Del Rey, CA",
+        "why": "Free weekly beach-adjacent group run with an ocean-breeze sunset route, run/jog/walk pace options welcome",
+        "summary": "LA Running Club's standing Monday evening group run starting at Playa Provisions in Playa Del Rey, covering 4 to 6 miles along the coast.",
+        "promoter": "LA Running Club",
+        "price": "Free",
+        "tags": [
+          "running",
+          "run-club",
+          "recurring",
+          "free",
+          "playa-del-rey"
+        ],
+        "sources": [
+          "https://www.larunningclub.com/"
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=119%20Culver%20Blvd%2C%20Playa%20Del%20Rey%2C%20CA",
+          "apple": "https://maps.apple.com/?q=119%20Culver%20Blvd%2C%20Playa%20Del%20Rey%2C%20CA"
+        },
+        "coords": {
+          "lat": 33.9580067,
+          "lon": -118.4497472
+        },
+        "coords_precise": true,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 3,
+        "active": true
+      }
+    ]
   }
 }
