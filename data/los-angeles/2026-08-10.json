@@ -1543,6 +1543,52 @@
         "image_generated": false,
         "popularity": 4,
         "active": true
+      },
+      {
+        "id": "2026-08-10-music-rufus-du-sol-ben-bohmer-2ec7b9",
+        "eid": "rufus-du-sol-ben-bohmer-1a3a",
+        "track": "music",
+        "category": "Electronic",
+        "name": "RÜFÜS DU SOL, Ben Böhmer",
+        "day": "Wed",
+        "date": "2026-08-12",
+        "time": "7:30pm",
+        "start": "19:30",
+        "end": null,
+        "area": "Inglewood",
+        "venue": "Kia Forum",
+        "address": "3900 W Manchester Blvd, Inglewood, CA 90305",
+        "why": "A-list touring electronic act headlining an arena mid-residency run",
+        "summary": "RÜFÜS DU SOL bring their North American arena tour to the Kia Forum with support from Ben Böhmer, part of a multi-night residency at the venue.",
+        "promoter": "",
+        "price": "$55+",
+        "tags": [
+          "electronic",
+          "house",
+          "arena",
+          "touring"
+        ],
+        "sources": [
+          "https://www.jambase.com/show/rufus-du-sol-kia-forum-20260812",
+          "https://thekiaforum.com/event/rufus-du-sol/"
+        ],
+        "tickets": [
+          "https://www.ticketmaster.com/rufus-du-sol-tickets/artist/1957114"
+        ],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=3900%20W%20Manchester%20Blvd%2C%20Inglewood%2C%20CA%2090305",
+          "apple": "https://maps.apple.com/?q=3900%20W%20Manchester%20Blvd%2C%20Inglewood%2C%20CA%2090305"
+        },
+        "coords": {
+          "lat": 33.9581,
+          "lon": -118.3417
+        },
+        "coords_precise": true,
+        "ra": {},
+        "image": "https://thekiaforum.com/wp-content/uploads/2026/02/GTC204575H_RufusDuSol_WEB_New_size_only_1024x576_0-1.jpg",
+        "image_generated": false,
+        "popularity": 8,
+        "active": true
       }
     ],
     "sports": [
@@ -1764,6 +1810,92 @@
         "image": "",
         "image_generated": false,
         "popularity": 3,
+        "active": true
+      },
+      {
+        "id": "2026-08-10-sports-la-running-club-wednesday-nigh-8fc7e4",
+        "eid": "la-running-club-wednesda-3aec",
+        "track": "sports",
+        "category": "Running",
+        "name": "LA Running Club Wednesday Night Track",
+        "day": "Wed",
+        "date": "2026-08-12",
+        "time": "7pm",
+        "start": "19:00",
+        "end": null,
+        "area": "Santa Monica",
+        "venue": "Santa Monica High School Track",
+        "address": "601 Pico Blvd, Santa Monica, CA 90405",
+        "why": "Free weekly coached track workout, first-come first-served",
+        "summary": "LA Running Club runs a weekly coached track workout at Santa Monica High School's track, capped at 50 runners on a first-come, first-served basis.",
+        "promoter": "LA Running Club",
+        "price": "Free",
+        "tags": [
+          "running",
+          "run-club",
+          "free",
+          "recurring"
+        ],
+        "sources": [
+          "https://www.larunningclub.com/"
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=601%20Pico%20Blvd%2C%20Santa%20Monica%2C%20CA%2090405",
+          "apple": "https://maps.apple.com/?q=601%20Pico%20Blvd%2C%20Santa%20Monica%2C%20CA%2090405"
+        },
+        "coords": {
+          "lat": 34.0138,
+          "lon": -118.4816
+        },
+        "coords_precise": true,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 2,
+        "active": true
+      },
+      {
+        "id": "2026-08-10-sports-rainbow-skate-night-30da40",
+        "eid": "rainbow-skate-night-e89e",
+        "track": "sports",
+        "category": "Skate",
+        "name": "Rainbow Skate Night",
+        "day": "Wed",
+        "date": "2026-08-12",
+        "time": "8-11pm",
+        "start": "20:00",
+        "end": "23:00",
+        "area": "Glendale",
+        "venue": "Moonlight Rollerway",
+        "address": "5110 San Fernando Rd, Glendale, CA 91204",
+        "why": "LA's premier LGBTQ+ roller skate night, weekly recurring",
+        "summary": "Moonlight Rollerway hosts Rainbow Skate Night, an all-ages LGBTQ+ roller skate session with rentals available for guests without their own skates.",
+        "promoter": "",
+        "price": "$23",
+        "tags": [
+          "skate",
+          "lgbtq",
+          "recurring",
+          "all-ages"
+        ],
+        "sources": [
+          "https://moonlightrollerway.com/hours/"
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=5110%20San%20Fernando%20Rd%2C%20Glendale%2C%20CA%2091204",
+          "apple": "https://maps.apple.com/?q=5110%20San%20Fernando%20Rd%2C%20Glendale%2C%20CA%2091204"
+        },
+        "coords": {
+          "lat": 34.1656,
+          "lon": -118.2534
+        },
+        "coords_precise": true,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 2,
         "active": true
       }
     ]
