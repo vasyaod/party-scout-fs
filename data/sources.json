@@ -412,9 +412,9 @@
       "use": ["listing"],
       "track": ["music", "sports"],
       "fetch": ["HTTP"],
-      "status": "active",
+      "status": "excluded",
       "aliases": ["funcheap-la"],
-      "notes": "Free/outdoor events."
+      "notes": "Free/outdoor events. Excluded 2026-08-13: 0 kept / 0 found over 10 recorded week-units, and losangeles.funcheap.com now fails DNS resolution entirely (ERR_NAME_NOT_RESOLVED) from this environment, not just a Cloudflare gate. Re-check status by hand before reactivating."
     },
 
     {
