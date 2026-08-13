@@ -5,7 +5,7 @@
   "location": "Los Angeles & SoCal",
   "city": "los-angeles",
   "city_label": "Los Angeles",
-  "generated_at": "2026-08-12",
+  "generated_at": "2026-08-13",
   "tracks": {
     "music": [
       {
@@ -69,18 +69,18 @@
         "id": "2026-08-10-music-body-wave-park-party-882c01",
         "eid": "body-wave-park-party-e914",
         "track": "music",
-        "category": "House",
+        "category": "House/Bass",
         "name": "body wave: Park Party",
         "day": "Sat",
         "date": "2026-08-15",
-        "time": "12–8pm",
+        "time": "12:00–20:00",
         "start": "12:00",
         "end": "20:00",
         "area": "Los Angeles",
         "venue": "Elysian Park",
         "address": "929 Academy Road, Los Angeles, CA 90012",
-        "why": "Free all-ages picnic rave with wine and a stacked all-local DJ lineup",
-        "summary": "A free outdoor park party in Elysian Park featuring a lineup of local LA DJs across house and disco, with a picnic/family-friendly setup and natural wine from GCF Wines.",
+        "why": "Free, family-friendly outdoor park party — bring the kids, not just a ticket.",
+        "summary": "Body Wave throws a free, all-ages park party at Elysian Park with a six-plus-DJ lineup including Alex Ho, AIRS, Chase Aldridge, Dakota Dean, Dirtie Blonde and Eddie Junior.",
         "promoter": "",
         "price": "Free",
         "tags": [
@@ -103,19 +103,19 @@
           "apple": "https://maps.apple.com/?q=929%20Academy%20Road%2C%20Los%20Angeles%2C%20CA%2090012"
         },
         "coords": {
-          "lat": 34.0781,
-          "lon": -118.2295
+          "lat": 34.0803201,
+          "lon": -118.2379463
         },
         "coords_precise": true,
         "ra": {
           "event_id": "2502022",
           "url": "https://ra.co/events/2502022",
-          "interested": 52,
-          "attending": 52
+          "interested": 62,
+          "attending": 62
         },
         "image": "https://images.ra.co/2dbe55ebd7ecb3cf884a3abbba63c055336b919f.jpg",
         "image_generated": false,
-        "popularity": 7,
+        "popularity": 0,
         "active": true
       },
       {
@@ -219,40 +219,48 @@
         "name": "Ferry Corsten",
         "day": "Sat",
         "date": "2026-08-15",
-        "time": "10pm–2am",
+        "time": "22:00–06:00",
         "start": "22:00",
         "end": "02:00",
-        "area": "Hollywood",
+        "area": "Los Angeles",
         "venue": "Avalon Hollywood",
-        "address": "1735 Vine St, Hollywood, CA",
-        "why": "A-list global trance headliner in one of LA's biggest club rooms",
-        "summary": "Trance legend Ferry Corsten headlines a late-night set at Avalon Hollywood, one of LA's largest and longest-running nightclubs.",
+        "address": "1735 Vine Street, Hollywood, CA 90028",
+        "why": "A-list global trance headliner — the marquee pick of the whole week.",
+        "summary": "Trance legend Ferry Corsten headlines a full club night at Avalon Hollywood, presented by Insomniac Events, running 10pm to 6am.",
         "promoter": "",
-        "price": "$23",
+        "price": "$30",
         "tags": [
           "trance",
           "progressive-house",
-          "headliner"
+          "headliner",
+          "club"
         ],
         "sources": [
-          "https://www.tixr.com/groups/avalonhollywood/events/ferry-corsten-191043"
+          "https://www.tixr.com/groups/avalonhollywood/events/ferry-corsten-191043",
+          "https://ra.co/events/2447405"
         ],
         "tickets": [
-          "https://www.tixr.com/groups/avalonhollywood/events/ferry-corsten-191043"
+          "https://www.tixr.com/groups/avalonhollywood/events/ferry-corsten-191043",
+          "https://ra.co/events/2447405"
         ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=1735%20Vine%20St%2C%20Hollywood%2C%20CA",
           "apple": "https://maps.apple.com/?q=1735%20Vine%20St%2C%20Hollywood%2C%20CA"
         },
         "coords": {
-          "lat": 34.1016,
-          "lon": -118.3269
+          "lat": 34.1027177,
+          "lon": -118.326997
         },
         "coords_precise": true,
-        "ra": {},
-        "image": "",
+        "ra": {
+          "event_id": "2447405",
+          "url": "https://ra.co/events/2447405",
+          "interested": 21,
+          "attending": 21
+        },
+        "image": "https://images.ra.co/9357106ae358037251ee44d98f900bc2d192dcfe.jpg",
         "image_generated": false,
-        "popularity": 8,
+        "popularity": 0,
         "active": true
       },
       {
@@ -350,20 +358,21 @@
         "name": "DOES YOUR MAMA KNOW? (DYMK FINALE)",
         "day": "Sat",
         "date": "2026-08-15",
-        "time": "9pm–3am",
+        "time": "21:00–03:00",
         "start": "21:00",
         "end": "03:00",
         "area": "Los Angeles",
         "venue": "Catch One",
         "address": "4067 W Pico Blvd, Los Angeles, CA 90019",
-        "why": "Finale night of an LA house institution dating back to 1992",
-        "summary": "The finale of DOES YOUR MAMA KNOW?, LA's long-running house after-hours series tracing back to 1992, closing out at the historic Catch One.",
+        "why": "The finale of an after-hours series tracing back to LA's Coconut Teaszer scene in 1992.",
+        "summary": "DYMK, one of LA's longest-running after-hours nights (tracing its roots to Coconut Teaszer in 1992), holds its finale edition at Catch One.",
         "promoter": "",
         "price": "$25",
         "tags": [
           "house",
           "deep-house",
-          "after-hours"
+          "after-hours",
+          "legacy"
         ],
         "sources": [
           "https://ra.co/events/2467433"
@@ -376,19 +385,19 @@
           "apple": "https://maps.apple.com/?q=4067%20W%20Pico%20Blvd%2C%20Los%20Angeles%2C%20CA%2090019"
         },
         "coords": {
-          "lat": 34.0479,
-          "lon": -118.3347
+          "lat": 34.0479694,
+          "lon": -118.3239255
         },
         "coords_precise": true,
         "ra": {
           "event_id": "2467433",
           "url": "https://ra.co/events/2467433",
-          "interested": 23,
-          "attending": 23
+          "interested": 24,
+          "attending": 24
         },
         "image": "https://images.ra.co/156f82033568fea290b10d85614296f4e5767013.png",
         "image_generated": false,
-        "popularity": 6,
+        "popularity": 0,
         "active": true
       },
       {
@@ -1588,6 +1597,600 @@
         "image": "https://thekiaforum.com/wp-content/uploads/2026/02/GTC204575H_RufusDuSol_WEB_New_size_only_1024x576_0-1.jpg",
         "image_generated": false,
         "popularity": 8,
+        "active": true
+      },
+      {
+        "id": "2026-08-10-music-nightshift-after-hours-a6b12a",
+        "eid": "nightshift-after-hours-533b",
+        "track": "music",
+        "category": "House",
+        "name": "NIGHTSHIFT AFTER HOURS",
+        "day": "Fri",
+        "date": "2026-08-14",
+        "time": "23:00–05:00",
+        "start": null,
+        "end": null,
+        "area": "Los Angeles",
+        "venue": "The Lexington",
+        "address": "129 E. 3rd St, Los Angeles, Ca, 90013",
+        "why": "Free 21+ speakeasy after-hours through 5am, alley entrance only.",
+        "summary": "NIGHTSHIFT is a recurring after-hours night at a hidden DTLA speakeasy entered through an alley, playing underground house music from a rotating Blind Tiger-curated DJ lineup until 5am.",
+        "promoter": "",
+        "price": "Free",
+        "tags": [
+          "house",
+          "after-hours",
+          "speakeasy",
+          "free"
+        ],
+        "sources": [
+          "https://ra.co/events/2508562"
+        ],
+        "tickets": [
+          "https://ra.co/events/2508562"
+        ],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=129%20E.%203rd%20St%2C%20Los%20Angeles%2C%20Ca%2C%2090013",
+          "apple": "https://maps.apple.com/?q=129%20E.%203rd%20St%2C%20Los%20Angeles%2C%20Ca%2C%2090013"
+        },
+        "coords": {
+          "lat": 34.0536909,
+          "lon": -118.242766
+        },
+        "coords_precise": true,
+        "ra": {
+          "event_id": "2508562",
+          "url": "https://ra.co/events/2508562",
+          "interested": 4,
+          "attending": 4
+        },
+        "image": "https://images.ra.co/6687e671b977dca57a8cef2aa15e386c37e51cf3.jpg",
+        "image_generated": false,
+        "popularity": 0,
+        "active": true
+      },
+      {
+        "id": "2026-08-10-music-bananas-pool-party-af1d68",
+        "eid": "bananas-pool-party-1102",
+        "track": "music",
+        "category": "Pool Party",
+        "name": "Bananas Pool Party",
+        "day": "Sat",
+        "date": "2026-08-15",
+        "time": "13:00–18:00",
+        "start": null,
+        "end": null,
+        "area": "Los Angeles",
+        "venue": "Hotel Ziggy",
+        "address": "8462 Sunset Blvd, West Hollywood, CA 90069",
+        "why": "LA's long-running tropical pool party, back for another afternoon session.",
+        "summary": "Bananas, LA's recurring tropical-themed pool party, returns to the Hotel Ziggy pool deck for an afternoon of poolside DJ sets and summer daytime vibes.",
+        "promoter": "",
+        "price": "$15",
+        "tags": [
+          "pool-party",
+          "daytime",
+          "tropical"
+        ],
+        "sources": [
+          "https://ra.co/events/2497330"
+        ],
+        "tickets": [
+          "https://ra.co/events/2497330"
+        ],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=8462%20Sunset%20Blvd%2C%20West%20Hollywood%2C%20CA%2090069",
+          "apple": "https://maps.apple.com/?q=8462%20Sunset%20Blvd%2C%20West%20Hollywood%2C%20CA%2090069"
+        },
+        "coords": {
+          "lat": 34.0942755,
+          "lon": -118.3750581
+        },
+        "coords_precise": true,
+        "ra": {
+          "event_id": "2497330",
+          "url": "https://ra.co/events/2497330",
+          "interested": 2,
+          "attending": 2
+        },
+        "image": "https://images.ra.co/f44fc93f1b56ede4189edfa5a9294cad5e8c8cdf.png",
+        "image_generated": false,
+        "popularity": 0,
+        "active": true
+      },
+      {
+        "id": "2026-08-10-music-dim-mak-in-the-park-1b0d1b",
+        "eid": "dim-mak-in-the-park-8bf0",
+        "track": "music",
+        "category": "EDM/Bass",
+        "name": "DIM MAK in the Park",
+        "day": "Sat",
+        "date": "2026-08-15",
+        "time": "15:00–21:00",
+        "start": null,
+        "end": null,
+        "area": "Los Angeles",
+        "venue": "Pershing Square",
+        "address": "532 S Olive Street, Los Angeles, CA 90013, USA",
+        "why": "A free outdoor festival-scale bill (Bingo Players, Borgeous) in a downtown park.",
+        "summary": "Dim Mak throws a free outdoor concert at Pershing Square with a festival-scale lineup including Bingo Players, Borgeous, Ohgeesy, Scott Storch and more.",
+        "promoter": "",
+        "price": "Free",
+        "tags": [
+          "free",
+          "outdoor",
+          "festival",
+          "park"
+        ],
+        "sources": [
+          "https://ra.co/events/2511910"
+        ],
+        "tickets": [
+          "https://ra.co/events/2511910"
+        ],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=532%20S%20Olive%20Street%2C%20Los%20Angeles%2C%20CA%2090013%2C%20USA",
+          "apple": "https://maps.apple.com/?q=532%20S%20Olive%20Street%2C%20Los%20Angeles%2C%20CA%2090013%2C%20USA"
+        },
+        "coords": {
+          "lat": 34.0489738,
+          "lon": -118.2531831
+        },
+        "coords_precise": true,
+        "ra": {
+          "event_id": "2511910",
+          "url": "https://ra.co/events/2511910",
+          "interested": 0,
+          "attending": 0
+        },
+        "image": "https://images.ra.co/42a38d95bd69bfb69a78692f2b7a93c0ea614e79.jpg",
+        "image_generated": false,
+        "popularity": 0,
+        "active": true
+      },
+      {
+        "id": "2026-08-10-music-expression-682a7b",
+        "eid": "expression-4609",
+        "track": "music",
+        "category": "House",
+        "name": "Expression",
+        "day": "Sat",
+        "date": "2026-08-15",
+        "time": "22:00–02:00",
+        "start": null,
+        "end": null,
+        "area": "Los Angeles",
+        "venue": "Sunset at EDITION",
+        "address": "1090 NORTH DOHENY DRIVE, WEST HOLLYWOOD, CA 90069",
+        "why": "A hotel rooftop house night pairing two different resident DJs.",
+        "summary": "Expression returns to the dance floor in partnership with Sunset at EDITION, with DJ sets from Things You Say and Zen Freeman.",
+        "promoter": "",
+        "price": "$20",
+        "tags": [
+          "house",
+          "rooftop",
+          "hotel"
+        ],
+        "sources": [
+          "https://ra.co/events/2487030"
+        ],
+        "tickets": [
+          "https://ra.co/events/2487030"
+        ],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=1090%20NORTH%20DOHENY%20DRIVE%2C%20WEST%20HOLLYWOOD%2C%20CA%2090069",
+          "apple": "https://maps.apple.com/?q=1090%20NORTH%20DOHENY%20DRIVE%2C%20WEST%20HOLLYWOOD%2C%20CA%2090069"
+        },
+        "coords": {
+          "lat": 34.090405,
+          "lon": -118.3896506
+        },
+        "coords_precise": true,
+        "ra": {
+          "event_id": "2487030",
+          "url": "https://ra.co/events/2487030",
+          "interested": 8,
+          "attending": 8
+        },
+        "image": "https://images.ra.co/01c8ae622083f3cd53b57e1924637748d99dabad.png",
+        "image_generated": false,
+        "popularity": 0,
+        "active": true
+      },
+      {
+        "id": "2026-08-10-music-float-rooftop-pool-party-feat-070c71",
+        "eid": "float-rooftop-pool-party-4ef6",
+        "track": "music",
+        "category": "Melodic House",
+        "name": "FLOAT Rooftop Pool Party feat. Massane [2-8 PM]",
+        "day": "Sat",
+        "date": "2026-08-15",
+        "time": "14:00–20:00",
+        "start": null,
+        "end": null,
+        "area": "Los Angeles",
+        "venue": "Level 8 DTLA",
+        "address": "1254 S Figueroa St, Los Angeles, CA 90015",
+        "why": "A daytime rooftop pool session built around an Anjunadeep-signed melodic-house DJ.",
+        "summary": "FLOAT brings Anjunadeep artist Massane to the Level 8 DTLA rooftop pool for a Saturday afternoon session running 2 to 8pm.",
+        "promoter": "",
+        "price": "$25",
+        "tags": [
+          "pool-party",
+          "daytime",
+          "rooftop",
+          "melodic-house"
+        ],
+        "sources": [
+          "https://ra.co/events/2449788"
+        ],
+        "tickets": [
+          "https://ra.co/events/2449788"
+        ],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=1254%20S%20Figueroa%20St%2C%20Los%20Angeles%2C%20CA%2090015",
+          "apple": "https://maps.apple.com/?q=1254%20S%20Figueroa%20St%2C%20Los%20Angeles%2C%20CA%2090015"
+        },
+        "coords": {
+          "lat": 34.0411824,
+          "lon": -118.2673953
+        },
+        "coords_precise": true,
+        "ra": {
+          "event_id": "2449788",
+          "url": "https://ra.co/events/2449788",
+          "interested": 31,
+          "attending": 31
+        },
+        "image": "https://images.ra.co/a1300f1259471b615e78052cb87be8b5729a0488.jpg",
+        "image_generated": false,
+        "popularity": 0,
+        "active": true
+      },
+      {
+        "id": "2026-08-10-music-frenegade-presents-lost-sound-8cce93",
+        "eid": "frenegade-presents-lost-1ead",
+        "track": "music",
+        "category": "Minimal/Techno",
+        "name": "Frenegade presents: Lost & Sound Vol. II (House - Minimal - Techno) West LA",
+        "day": "Sat",
+        "date": "2026-08-15",
+        "time": "21:00–02:00",
+        "start": null,
+        "end": null,
+        "area": "Los Angeles",
+        "venue": "Lost and Found",
+        "address": "11700 National Blvd Unit D, Los Angeles, CA 90064",
+        "why": "A free late-night minimal/techno gathering in West LA rather than the usual DTLA cluster.",
+        "summary": "Frenegade's Lost & Sound Vol. II returns to Lost and Found in West LA for a late-night gathering mixing house, minimal and techno.",
+        "promoter": "",
+        "price": "Free",
+        "tags": [
+          "minimal",
+          "techno",
+          "house",
+          "free"
+        ],
+        "sources": [
+          "https://ra.co/events/2499834"
+        ],
+        "tickets": [
+          "https://ra.co/events/2499834"
+        ],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=11700%20National%20Blvd%20Unit%20D%2C%20Los%20Angeles%2C%20CA%2090064",
+          "apple": "https://maps.apple.com/?q=11700%20National%20Blvd%20Unit%20D%2C%20Los%20Angeles%2C%20CA%2090064"
+        },
+        "coords": {
+          "lat": 34.0221242,
+          "lon": -118.4388683
+        },
+        "coords_precise": true,
+        "ra": {
+          "event_id": "2499834",
+          "url": "https://ra.co/events/2499834",
+          "interested": 7,
+          "attending": 7
+        },
+        "image": "https://images.ra.co/15edf8016984827b4799d02dee3ef8d7d96f8964.png",
+        "image_generated": false,
+        "popularity": 0,
+        "active": true
+      },
+      {
+        "id": "2026-08-10-music-kcon-afterglow-1b3702",
+        "eid": "kcon-afterglow-88c4",
+        "track": "music",
+        "category": "K-pop",
+        "name": "KCON: AFTERGLOW",
+        "day": "Sat",
+        "date": "2026-08-15",
+        "time": "22:00–02:00",
+        "start": null,
+        "end": null,
+        "area": "Los Angeles",
+        "venue": "Clifton's Republic",
+        "address": "648 S Broadway, Los Angeles, California 90014",
+        "why": "A K-pop-specific afterparty timed to KCON's concert night — a genre lane of its own.",
+        "summary": "KCON: AFTERGLOW is the official K-pop afterparty for concertgoers, held at Clifton's Republic once the KCON concert lets out.",
+        "promoter": "",
+        "price": "$20",
+        "tags": [
+          "kpop",
+          "afterparty"
+        ],
+        "sources": [
+          "https://ra.co/events/2501209"
+        ],
+        "tickets": [
+          "https://ra.co/events/2501209"
+        ],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=648%20S%20Broadway%2C%20Los%20Angeles%2C%20California%2090014",
+          "apple": "https://maps.apple.com/?q=648%20S%20Broadway%2C%20Los%20Angeles%2C%20California%2090014"
+        },
+        "coords": {
+          "lat": 34.0452815,
+          "lon": -118.2528228
+        },
+        "coords_precise": true,
+        "ra": {
+          "event_id": "2501209",
+          "url": "https://ra.co/events/2501209",
+          "interested": 3,
+          "attending": 3
+        },
+        "image": "https://images.ra.co/b469bc510cf5fc09eda067a70ec20e4bc1cda232.png",
+        "image_generated": false,
+        "popularity": 0,
+        "active": true
+      },
+      {
+        "id": "2026-08-10-music-kcrw-summer-nights-with-metro-df0f32",
+        "eid": "kcrw-summer-nights-with-b049",
+        "track": "music",
+        "category": "Eclectic/DJ",
+        "name": "KCRW Summer Nights with Metro Art",
+        "day": "Sat",
+        "date": "2026-08-15",
+        "time": "18:00–22:00",
+        "start": null,
+        "end": null,
+        "area": "Los Angeles",
+        "venue": "Union Station",
+        "address": "800 N Alameda St, Los Angeles, CA 90012",
+        "why": "Free, all-ages DJ night inside a historic downtown landmark.",
+        "summary": "KCRW and Metro Art present a free, all-ages Summer Nights session inside the historic Union Station building, with DJ sets from J.Rocc and Luxxury.",
+        "promoter": "",
+        "price": "Free",
+        "tags": [
+          "free",
+          "outdoor",
+          "historic-venue",
+          "all-ages"
+        ],
+        "sources": [
+          "https://ra.co/events/2509939"
+        ],
+        "tickets": [
+          "https://ra.co/events/2509939"
+        ],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=800%20N%20Alameda%20St%2C%20Los%20Angeles%2C%20CA%2090012",
+          "apple": "https://maps.apple.com/?q=800%20N%20Alameda%20St%2C%20Los%20Angeles%2C%20CA%2090012"
+        },
+        "coords": {
+          "lat": 34.0561575,
+          "lon": -118.2355206
+        },
+        "coords_precise": true,
+        "ra": {
+          "event_id": "2509939",
+          "url": "https://ra.co/events/2509939",
+          "interested": 2,
+          "attending": 2
+        },
+        "image": "https://images.ra.co/68439a0f5e71b8d21292b22e151bceec4b6236f8.png",
+        "image_generated": false,
+        "popularity": 0,
+        "active": true
+      },
+      {
+        "id": "2026-08-10-music-linger-cf673c",
+        "eid": "linger-c837",
+        "track": "music",
+        "category": "House",
+        "name": "LINGER",
+        "day": "Sat",
+        "date": "2026-08-15",
+        "time": "20:00–00:00",
+        "start": null,
+        "end": null,
+        "area": "Los Angeles",
+        "venue": "Baby Battista @ Nico's",
+        "address": "3111 Glendale Blvd #2, Los Angeles, CA 90039",
+        "why": "A free intimate house night built around two DJs' shared musical history.",
+        "summary": "Linger is a dancefloor tribute from deesco and Mary McHenry, held at Baby Battista's residency inside Nico's.",
+        "promoter": "",
+        "price": "Free",
+        "tags": [
+          "house",
+          "free",
+          "intimate"
+        ],
+        "sources": [
+          "https://ra.co/events/2492054"
+        ],
+        "tickets": [
+          "https://ra.co/events/2492054"
+        ],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=3111%20Glendale%20Blvd%20%232%2C%20Los%20Angeles%2C%20CA%2090039",
+          "apple": "https://maps.apple.com/?q=3111%20Glendale%20Blvd%20%232%2C%20Los%20Angeles%2C%20CA%2090039"
+        },
+        "coords": {
+          "lat": 34.1164501,
+          "lon": -118.2629134
+        },
+        "coords_precise": true,
+        "ra": {
+          "event_id": "2492054",
+          "url": "https://ra.co/events/2492054",
+          "interested": 95,
+          "attending": 95
+        },
+        "image": "https://images.ra.co/d4f269456ce8758401c30d106a85be6d02c96624.jpg",
+        "image_generated": false,
+        "popularity": 0,
+        "active": true
+      },
+      {
+        "id": "2026-08-10-music-lut-day-party-shan-nash-open-t-73f957",
+        "eid": "lut-day-party-shan-nash-5072",
+        "track": "music",
+        "category": "House",
+        "name": "LUT DAY PARTY: Shan Nash (Open to Close)",
+        "day": "Sat",
+        "date": "2026-08-15",
+        "time": "16:00–23:00",
+        "start": null,
+        "end": null,
+        "area": "Los Angeles",
+        "venue": "Harbor House DTLA",
+        "address": "1000 Wilshire Blvd, Los Angeles, CA 90017",
+        "why": "A birthday-edition day party where the founder plays open-to-close solo.",
+        "summary": "LUT Project founder Shan Nash takes full control of the decks open-to-close for a birthday-edition day party at Harbor House DTLA.",
+        "promoter": "",
+        "price": "$40",
+        "tags": [
+          "day-party",
+          "house",
+          "birthday"
+        ],
+        "sources": [
+          "https://ra.co/events/2512230"
+        ],
+        "tickets": [
+          "https://ra.co/events/2512230"
+        ],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=1000%20Wilshire%20Blvd%2C%20Los%20Angeles%2C%20CA%2090017",
+          "apple": "https://maps.apple.com/?q=1000%20Wilshire%20Blvd%2C%20Los%20Angeles%2C%20CA%2090017"
+        },
+        "coords": {
+          "lat": 34.051474,
+          "lon": -118.261657
+        },
+        "coords_precise": true,
+        "ra": {
+          "event_id": "2512230",
+          "url": "https://ra.co/events/2512230",
+          "interested": 0,
+          "attending": 0
+        },
+        "image": "https://images.ra.co/b7e53e4edbcde1633d816c1a2d90215ec0debe4f.jpg",
+        "image_generated": false,
+        "popularity": 0,
+        "active": true
+      },
+      {
+        "id": "2026-08-10-music-nightshift-after-hours-4597bb",
+        "eid": "nightshift-after-hours-e936",
+        "track": "music",
+        "category": "House",
+        "name": "NIGHTSHIFT AFTER HOURS",
+        "day": "Sat",
+        "date": "2026-08-15",
+        "time": "23:00–05:00",
+        "start": null,
+        "end": null,
+        "area": "Los Angeles",
+        "venue": "The Lexington",
+        "address": "129 E. 3rd St, Los Angeles, Ca, 90013",
+        "why": "Free 21+ speakeasy after-hours through 5am, alley entrance only.",
+        "summary": "NIGHTSHIFT is a recurring after-hours night at a hidden DTLA speakeasy entered through an alley, playing underground house music from a rotating Blind Tiger-curated DJ lineup until 5am.",
+        "promoter": "",
+        "price": "Free",
+        "tags": [
+          "house",
+          "after-hours",
+          "speakeasy",
+          "free"
+        ],
+        "sources": [
+          "https://ra.co/events/2508563"
+        ],
+        "tickets": [
+          "https://ra.co/events/2508563"
+        ],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=129%20E.%203rd%20St%2C%20Los%20Angeles%2C%20Ca%2C%2090013",
+          "apple": "https://maps.apple.com/?q=129%20E.%203rd%20St%2C%20Los%20Angeles%2C%20Ca%2C%2090013"
+        },
+        "coords": {
+          "lat": 34.0536909,
+          "lon": -118.242766
+        },
+        "coords_precise": true,
+        "ra": {
+          "event_id": "2508563",
+          "url": "https://ra.co/events/2508563",
+          "interested": 1,
+          "attending": 1
+        },
+        "image": "https://images.ra.co/451a4ddfa94cdfff0cfb2fa526ba9dbff80f41be.jpg",
+        "image_generated": false,
+        "popularity": 0,
+        "active": true
+      },
+      {
+        "id": "2026-08-10-music-nightshift-after-hours-a00d2f",
+        "eid": "nightshift-after-hours-be68",
+        "track": "music",
+        "category": "House",
+        "name": "NIGHTSHIFT AFTER HOURS",
+        "day": "Sun",
+        "date": "2026-08-16",
+        "time": "23:00–05:00",
+        "start": null,
+        "end": null,
+        "area": "Los Angeles",
+        "venue": "The Lexington",
+        "address": "129 E. 3rd St, Los Angeles, Ca, 90013",
+        "why": "Free 21+ speakeasy after-hours through 5am, alley entrance only.",
+        "summary": "NIGHTSHIFT is a recurring after-hours night at a hidden DTLA speakeasy entered through an alley, playing underground house music from a rotating Blind Tiger-curated DJ lineup until 5am.",
+        "promoter": "",
+        "price": "Free",
+        "tags": [
+          "house",
+          "after-hours",
+          "speakeasy",
+          "free"
+        ],
+        "sources": [
+          "https://ra.co/events/2508564"
+        ],
+        "tickets": [
+          "https://ra.co/events/2508564"
+        ],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=129%20E.%203rd%20St%2C%20Los%20Angeles%2C%20Ca%2C%2090013",
+          "apple": "https://maps.apple.com/?q=129%20E.%203rd%20St%2C%20Los%20Angeles%2C%20Ca%2C%2090013"
+        },
+        "coords": {
+          "lat": 34.0536909,
+          "lon": -118.242766
+        },
+        "coords_precise": true,
+        "ra": {
+          "event_id": "2508564",
+          "url": "https://ra.co/events/2508564",
+          "interested": 5,
+          "attending": 5
+        },
+        "image": "https://images.ra.co/b68ce6ed670e82b43406a76613ca68338525184d.jpg",
+        "image_generated": false,
+        "popularity": 0,
         "active": true
       }
     ],
