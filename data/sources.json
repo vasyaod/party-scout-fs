@@ -14,7 +14,7 @@
       "parser": "ra_interest.py",
       "status": "active",
       "aliases": ["ra.co", "ra.co-graphql", "ra.co-listing", "ra.co-graphql-search"],
-      "notes": "`ra_interest.py` queries ra.co/graphql (unauthenticated, NOT Cloudflare-gated) and returns everything a candidate needs in one call: interestedCount/attending (the \"rating\" heart count), venue address, start/end, cost, blurb, the FLYERFRONT poster from event.images[] (filename = a direct images.ra.co URL that downloads bare) and the artist list. Event HTML is Cloudflare-gated, so render it via `common` only if graphql is missing something. Per-city listing URLs are their own entries (ra-san-francisco, ra-los-angeles)."
+      "notes": "`ra_interest.py` queries ra.co/graphql (unauthenticated, NOT Cloudflare-gated) and returns everything a candidate needs in one call: interestedCount/attending (the \"rating\" heart count), venue address, start/end, cost, blurb, the FLYERFRONT poster from event.images[] (filename = a direct images.ra.co URL that downloads bare) and the artist list. Event HTML is Cloudflare-gated, so render it via `common` only if graphql is missing something. Per-city listing URLs are their own entries (ra-san-francisco, ra-los-angeles) and are the EXPENSIVE path — reach RA through this entry first. Over 27 recorded units every kept RA event came through here (73 kept / 82 found); the two listing entries between them are 8 tries, 1 found, 0 kept."
     },
     {
       "id": "tixr",
@@ -181,6 +181,62 @@
       "status": "active",
       "notes": "Local moto / cycling / run clubs — filter by city."
     },
+    {
+      "id": "search-run-clubs",
+      "name": "Run-club standing search",
+      "url": "https://duckduckgo.com/?q=%3Ccity%3E+run+club+group+run+%3Cweekday%3E",
+      "city": "common",
+      "kind": "directory",
+      "use": ["listing"],
+      "track": ["sports"],
+      "focus": "running",
+      "fetch": ["web_search"],
+      "status": "active",
+      "aliases": ["web-search-run-clubs", "web-search-la-run-clubs", "websearch-run-club"],
+      "notes": "A STANDING SEARCH, not a site: the `url` is the query shape, and `fetch: web_search` is how it is actually run. It is registered because it is measured — 22 kept / 29 found over 24 units across both cities, the single most productive channel the sports track has, and it was invisible to the registry because the runs recorded it under three names. What it kept re-finding is now registered as real entries (sfrrc, oakland-continental-club, la-leggers, la-running-club, koreatown-run-club), so from here it is a DISCOVERY channel: run it to find a club that is not in the registry yet, and add what it finds — not to re-derive the ones above."
+    },
+    {
+      "id": "search-skate-sessions",
+      "name": "Skate-session standing search",
+      "url": "https://duckduckgo.com/?q=%3Ccity%3E+group+skate+night+skate+%3Cweekday%3E",
+      "city": "common",
+      "kind": "directory",
+      "use": ["listing"],
+      "track": ["sports"],
+      "focus": "skating",
+      "fetch": ["web_search"],
+      "status": "active",
+      "aliases": ["web-search-skate", "web-search-la-skate"],
+      "notes": "Standing search, same shape as `search-run-clubs`. 5 kept / 10 found over 12 units. Everything it has kept is now a known recurring fixture — LA Friday Night Skate (Fridays only, its own entry), Moonlight Rollerway and Church of 8 Wheels — so treat a non-Friday LA skate search as discovery, not lookup."
+    },
+    {
+      "id": "search-cycling-rides",
+      "name": "Group-ride standing search",
+      "url": "https://duckduckgo.com/?q=%3Ccity%3E+group+ride+cycling+club+%3Cweekday%3E",
+      "city": "common",
+      "kind": "directory",
+      "use": ["listing"],
+      "track": ["sports"],
+      "focus": "cycling",
+      "fetch": ["web_search"],
+      "status": "active",
+      "aliases": ["web-search-cycling", "web-search-la-cycling"],
+      "notes": "Standing search. ON PROBATION: 1 kept / 3 found over 12 units — kept active only because sf-bike-coalition (its registered counterpart) 403s on plain fetch and is at 1 kept itself, so parking both would leave the cycling track with no channel at all. If the next sweep adds no kept event through it, park it the way `search-moto-rides` was parked."
+    },
+    {
+      "id": "search-moto-rides",
+      "name": "Motorcycle-ride standing search",
+      "url": "https://duckduckgo.com/?q=%3Ccity%3E+motorcycle+group+ride+meetup+%3Cweekday%3E",
+      "city": "common",
+      "kind": "directory",
+      "use": ["listing"],
+      "track": ["sports"],
+      "focus": "motorcycle",
+      "fetch": ["web_search"],
+      "status": "documented",
+      "aliases": ["web-search-moto", "web-search-la-moto", "web-search-moto-cycle-skate"],
+      "notes": "PARKED 2026-08-12 on measured yield (issue #14): 1 kept / 1 found over 20 units, recorded under three different names — the worst ratio in the whole record. Nearly every LA and SF unit filed a MISS for the moto track after spending this search, and the one registered moto source with a real calendar (sf-motorcycle-club) has no rides in-window either. This is a genuine content gap, not a fetch failure: there is no dated, machine-readable moto-ride source for either city yet. Un-park only together with a real one — finding it is a discovery task, not a per-unit search."
+    },
 
     {
       "id": "19hz-bay-area",
@@ -193,7 +249,7 @@
       "fetch": ["HTTP"],
       "status": "active",
       "aliases": ["19hz.info", "19hz"],
-      "notes": "THE anchor source for SF. Chronological, carries a price column, and every row links out to its ticketer — try the price here first. The listing itself is an aggregator index, so it never goes into an event's `sources` (REQUIREMENTS rules 8-11)."
+      "notes": "KNOWN AMBIGUITY, do not make it worse: the bare names `19hz` and `19hz.info` are the SITE, not a city listing, and they resolve here. Three LA units (2026-08-01, 08-05, 08-06) recorded them, so that yield is folded into this Bay Area row and 19hz-los-angeles reads low by the same amount. An alias cannot be resolved per city, so this is the one figure in the yield table that is known-wrong; ALWAYS record the per-city id. THE anchor source for SF. Chronological, carries a price column, and every row links out to its ticketer — try the price here first. The listing itself is an aggregator index, so it never goes into an event's `sources` (REQUIREMENTS rules 8-11)."
     },
     {
       "id": "ra-san-francisco",
@@ -206,7 +262,7 @@
       "fetch": ["GQL", "common"],
       "parser": "ra_interest.py",
       "status": "active",
-      "notes": "The SF listing URL; extraction is the shared `resident-advisor` entry."
+      "notes": "The SF listing URL; extraction is the shared `resident-advisor` entry. NEVER spend a plain-HTTP/WebFetch call on it — the listing page itself is Cloudflare-gated and 403s (units 2026-08-03, 08-05, 08-10, 08-12; re-verified 403 on 2026-08-12). It DOES render through the `common` session (unit 2026-08-04, which surfaced the Interzone event). 3 tries, 1 found, 0 kept: query graphql via `resident-advisor` first, and spend a `common` render here only when 19hz-bay-area has no rows for the unit's day. RA's SF area id is still unknown — ids 22 (DC), 24, 25 (Ibiza) and 26 were probed on 2026-08-05 and are not it; do not re-probe them."
     },
     {
       "id": "edmtrain-san-francisco",
@@ -217,9 +273,9 @@
       "use": ["listing"],
       "track": ["music"],
       "fetch": ["HTTP", "web_search"],
-      "status": "active",
+      "status": "documented",
       "aliases": ["edmtrain.com"],
-      "notes": "Good listing, sparse pricing."
+      "notes": "Good listing, sparse pricing. PARKED 2026-08-12 on measured yield (issue #14): 0 found, 0 kept over 9 units — the largest zero in the record. This is NOT a gate: the page fetches fine (HTTP 200, 142KB, re-verified 2026-08-12). Everything it lists for the Bay is already on 19hz-bay-area, which also carries the price column EDMtrain lacks. Un-park if 19hz coverage drops. The LA entry is separate and still active (1 kept over 4 units)."
     },
     {
       "id": "eventbrite-san-francisco",
@@ -232,19 +288,20 @@
       "fetch": ["JSON-LD"],
       "parser": "eb_demand.py",
       "status": "active",
-      "notes": "SF discovery feed; price via the shared `eventbrite` entry."
+      "notes": "SF discovery feed; price via the shared `eventbrite` entry. The FEED is bot-gated: 405 on plain WebFetch (unit 2026-08-03) and a 'Human Verification' puzzle even through the `common` session (unit 2026-08-04) — 4 found, 0 kept over 2 units. Per-EVENT JSON-LD via `eventbrite` is unaffected and is where its 19 kept events come from."
     },
     {
       "id": "do415",
-      "name": "Do415",
-      "url": "https://do415.com",
+      "name": "DoTheBay (formerly Do415)",
+      "url": "https://dothebay.com",
       "city": "san-francisco",
       "kind": "anchor",
       "use": ["listing"],
       "track": ["music", "sports"],
-      "fetch": ["web_search"],
+      "fetch": ["HTTP", "common"],
       "status": "active",
-      "notes": "SF happenings."
+      "aliases": ["dothebay.com", "do415.com"],
+      "notes": "SF happenings. do415.com hard-redirects here (301, verified 2026-08-12), so the two names are one source. FIXED 2026-08-12 (issue #14) after 6 tries / 0 kept: it has a date-filterable URL, which is exactly what unit 2026-08-04 said it needed — `https://dothebay.com/events/YYYY/M/D`, no zero padding (`/events/2026/8/15` -> 200, 'What to do in The Bay Area on August 15th, 2026'; `/events/2026/aug/15` -> 404). Scan THAT URL for the unit's day, never the homepage, which is 'today'-only and was why every prior unit got irrelevant content. The 403s recorded on 08-03/08-13/08-16 are User-Agent, not Cloudflare: the same URL returns 200 to a desktop-Chrome UA, so use the `common` session (or any fetch that sets a real UA) rather than bare WebFetch."
     },
     {
       "id": "funcheap-san-francisco",
@@ -283,9 +340,9 @@
       "use": ["listing", "price"],
       "track": ["music"],
       "fetch": ["common"],
-      "status": "active",
+      "status": "documented",
       "aliases": ["halcyon-sf.com"],
-      "notes": "SoMa club (314 11th St). Full upcoming-events + ticket listing; each event links out to its ticketer, mostly Dice."
+      "notes": "SoMa club (314 11th St). Full upcoming-events + ticket listing; each event links out to its ticketer, mostly Dice. PARKED 2026-08-12 on measured yield (issue #14): 3 tries, 0 found, 0 kept. Not a gate — the page fetches fine (HTTP 200, 130KB, re-verified 2026-08-12) — its nights simply arrive through 19hz-bay-area first, with the price column attached (unit 2026-08-07 priced a Halcyon night straight off the 19hz row). Un-park the moment a unit needs a Halcyon date 19hz does not carry."
     },
     {
       "id": "regency-ballroom",
@@ -308,9 +365,9 @@
       "use": ["listing", "price"],
       "track": ["music"],
       "fetch": ["HTTP"],
-      "status": "active",
+      "status": "documented",
       "aliases": ["1015.com"],
-      "notes": "SoMa mega-club (1015 Folsom St): big-room EDM/house/techno/bass. The homepage renders the whole upcoming-shows calendar in plain HTML — cheapest venue source we have. Each show links out to its ticketer, mostly RA, some Dice."
+      "notes": "SoMa mega-club (1015 Folsom St): big-room EDM/house/techno/bass. The homepage renders the whole upcoming-shows calendar in plain HTML — cheapest venue source we have. Each show links out to its ticketer, mostly RA, some Dice. PARKED 2026-08-12 on measured yield (issue #14): 5 tries, 0 found, 0 kept. Not a gate (HTTP 200, 133KB, re-verified 2026-08-12) — its shows reach us through 19hz-bay-area first (unit 2026-08-14 took 'Momentum: In The Dungeon' @ 1015 Folsom, $27.25, off the 19hz row). Because the fetch is cheap and returns the WHOLE calendar, this is the first entry to un-park if a collect stage (issue #9) ever harvests a city-week in one pass rather than one day at a time."
     },
     {
       "id": "the-midway",
@@ -335,9 +392,77 @@
       "track": ["music"],
       "focus": "goth / darkwave / synth / industrial / 80s",
       "fetch": ["web_search", "common"],
-      "status": "active",
+      "status": "documented",
       "aliases": ["sfcatclub.com"],
-      "notes": "SoMa club (1190 Folsom St), two floors — the SF goth/darkwave/synth/industrial/80s hub, with recurring nights (NIGHTSHIFT, 1984, …). Calendar on the site; mostly door cover, some ticketed."
+      "notes": "SoMa club (1190 Folsom St), two floors — the SF goth/darkwave/synth/industrial/80s hub, with recurring nights (NIGHTSHIFT, 1984, …). Calendar on the site; mostly door cover, some ticketed. PARKED 2026-08-12 on measured yield (issue #14): 4 tries, 0 found, 0 kept. Not a gate (HTTP 200, 210KB, re-verified 2026-08-12). Two reasons it kept coming back empty: the club is CLOSED MONDAYS by its own posted hours (unit 2026-08-03), and its recurring nights arrive via 19hz-bay-area anyway — unit 2026-08-06 confirmed the 1984 goth night on the club's own site but still took the price from the 19hz column. Un-park if the goth/darkwave track is ever scanned on its own."
+    },
+    {
+      "id": "dna-lounge",
+      "name": "DNA Lounge",
+      "url": "https://www.dnalounge.com/calendar/",
+      "city": "san-francisco",
+      "kind": "venue",
+      "use": ["listing", "price"],
+      "track": ["music"],
+      "fetch": ["HTTP"],
+      "status": "active",
+      "aliases": ["dnalounge.com"],
+      "notes": "SoMa club (375 Eleventh St), two floors, open since 1985 — the SF venue with the most machine-readable calendar of the lot: /calendar/ is plain HTML and fetches bare (HTTP 200, verified 2026-08-12). ADDED 2026-08-12 (issue #14) on 3 kept / 3 found over 2 units, every one of them re-derived by paid web_search because it was not in the registry. Its pages carry no og:image, so a flyer has to come from the ticketer (units 2026-08-08, 08-15)."
+    },
+    {
+      "id": "sfrrc",
+      "name": "San Francisco Road Runners Club",
+      "url": "https://sfrrc.org",
+      "city": "san-francisco",
+      "kind": "promoter",
+      "use": ["listing"],
+      "track": ["sports"],
+      "focus": "running",
+      "fetch": ["HTTP", "web_search"],
+      "status": "active",
+      "aliases": ["sfrrc.org", "sfrrc.clubexpress.com"],
+      "notes": "Recurring Bay Area club runs — the Wednesday Fun Run and the Saturday club run are the two that have been kept. ADDED 2026-08-12 (issue #14): 2 kept over 3 units, re-derived by web_search each time. The site is on ClubExpress, hence the second alias. Gotcha (unit 2026-08-08): the main page loads bare but /events and /calendar 403, and the Saturday run's start point rotates weekly — get it through `common`, or leave the venue blank rather than guess."
+    },
+    {
+      "id": "oakland-continental-club",
+      "name": "Oakland Continental Club",
+      "url": "https://oaklandcontinentalclub.com",
+      "city": "san-francisco",
+      "kind": "promoter",
+      "use": ["listing"],
+      "track": ["sports"],
+      "focus": "running",
+      "fetch": ["HTTP", "web_search"],
+      "status": "active",
+      "aliases": ["oaklandcontinentalclub.com"],
+      "notes": "East Bay running club with recurring group runs. `san-francisco` is the whole Bay Area (see SOURCES.md § What the cities mean). ADDED 2026-08-12 (issue #14) on 1 kept / 1 found, re-derived by web_search. HTTP 200 verified 2026-08-12."
+    },
+    {
+      "id": "socialsf",
+      "name": "SocialSF",
+      "url": "https://socialsf.net",
+      "city": "san-francisco",
+      "kind": "promoter",
+      "use": ["listing"],
+      "track": ["music"],
+      "fetch": ["HTTP", "web_search"],
+      "status": "active",
+      "aliases": ["socialsf.net"],
+      "notes": "SF nightlife promoter / entertainment group running its own recurring parties. ADDED 2026-08-12 (issue #14) on 1 kept / 1 found (unit 2026-08-07), re-derived by web_search. HTTP 200 verified 2026-08-12."
+    },
+    {
+      "id": "sf-motorcycle-club",
+      "name": "San Francisco Motorcycle Club",
+      "url": "https://sf-mc.org",
+      "city": "san-francisco",
+      "kind": "promoter",
+      "use": ["listing"],
+      "track": ["sports"],
+      "focus": "motorcycle",
+      "fetch": ["HTTP"],
+      "status": "documented",
+      "aliases": ["sf-mc.org"],
+      "notes": "PARKED THE DAY IT WAS REGISTERED, on purpose (issue #14) — the record of WHY is the point, so the next run does not re-derive it by web_search a fourth time. Founded 1904, the oldest moto club in the country, and its own 2026 ride calendar is public and fetches fine (HTTP 200, verified 2026-08-12) — it simply has NO rides scheduled anywhere in the scan window: checked directly on 2026-08-07, 08-09 and 08-13, 0 found / 0 kept over 3 tries, and each of those units filed a MISS for the moto track. Un-park when its calendar has rides in-window; see also `search-moto-rides`, parked for the same measured reason."
     },
     {
       "id": "stern-grove-festival",
@@ -363,7 +488,7 @@
       "fetch": ["HTTP"],
       "status": "active",
       "aliases": ["19hz-la"],
-      "notes": "THE anchor source for LA. Chronological, price column, rows link out to the ticketer. Its \"Los Angeles\" listing spans all of SoCal, so check each row is really LA — San Diego promoters that surfaced here are parked as `documented` entries, not filed as LA."
+      "notes": "Its recorded yield reads LOW: three LA units typed the bare `19hz`/`19hz.info`, which resolve to 19hz-bay-area — see that entry's note, and always record this id for an LA unit. THE anchor source for LA. Chronological, price column, rows link out to the ticketer. Its \"Los Angeles\" listing spans all of SoCal, so check each row is really LA — San Diego promoters that surfaced here are parked as `documented` entries, not filed as LA."
     },
     {
       "id": "ra-los-angeles",
@@ -376,7 +501,7 @@
       "fetch": ["GQL", "common"],
       "parser": "ra_interest.py",
       "status": "active",
-      "notes": "The LA listing URL (RA area 23); extraction is the shared `resident-advisor` entry."
+      "notes": "The LA listing URL (RA area 23); extraction is the shared `resident-advisor` entry. NEVER spend a plain-HTTP/WebFetch call on it — Cloudflare-gated, 403 on every attempt (units 2026-08-01, 08-12, 08-13, 08-17; re-verified 403 on 2026-08-12). 5 tries, 0 found, 0 kept. Query graphql area 23 via `resident-advisor` first; spend a `common` render here only when 19hz-los-angeles has no rows for the unit's day."
     },
     {
       "id": "edmtrain-los-angeles",
@@ -400,8 +525,8 @@
       "track": ["music", "sports"],
       "fetch": ["JSON-LD"],
       "parser": "eb_demand.py",
-      "status": "active",
-      "notes": "LA discovery feed; price via the shared `eventbrite` entry."
+      "status": "documented",
+      "notes": "LA discovery feed; price via the shared `eventbrite` entry. PARKED 2026-08-12 on measured yield (issue #14): 6 tries, 0 found, 0 kept. The feed answers 405 to a direct fetch on every attempt (units 2026-08-12, 08-13, 08-15, 08-17; re-verified 405 from a desktop-Chrome UA on 2026-08-12), and its SF twin is bot-walled even through the `common` session — this is a wall, not a thin day. The per-EVENT JSON-LD path through the shared `eventbrite` entry is unaffected and still carries 19 kept events; unit 2026-08-15 reached an Eventbrite-only LA event (ONE PIECE RAVE) through web_search instead, which is the supported route until the feed is reachable."
     },
     {
       "id": "funcheap-los-angeles",
@@ -412,11 +537,93 @@
       "use": ["listing"],
       "track": ["music", "sports"],
       "fetch": ["HTTP"],
-      "status": "active",
+      "status": "documented",
       "aliases": ["funcheap-la"],
-      "notes": "Free/outdoor events."
+      "notes": "Free/outdoor events. PARKED 2026-08-12 (issue #14) — THE URL DOES NOT EXIST. losangeles.funcheap.com does not resolve (DNS NXDOMAIN), and neither does the la.funcheap.com the 2026-08-01 unit guessed at; both re-checked with getent on 2026-08-12, both NXDOMAIN. Funcheap publishes an SF edition only (sf.funcheap.com, alive and productive — 9 kept). 7 tries, 0 found, 0 kept, and three separate units asked a human to fix or drop this row. Do not un-park without a hostname that resolves."
     },
 
+    {
+      "id": "kia-forum",
+      "name": "Kia Forum",
+      "url": "https://thekiaforum.com",
+      "city": "los-angeles",
+      "kind": "venue",
+      "use": ["listing"],
+      "track": ["music"],
+      "fetch": ["HTTP", "web_search"],
+      "status": "active",
+      "aliases": ["thekiaforum.com"],
+      "notes": "Inglewood arena (3900 W Manchester Blvd) — greater LA, not LA proper; label it honestly. ADDED 2026-08-12 (issue #14) on 3 kept / 3 found over 3 units, re-derived by web_search every time. It is the FIRST LA venue entry in this registry. Its own site fetches fine (HTTP 200, verified 2026-08-12) and is the workaround for Ticketmaster: TM's bot wall ('Your Browsing Activity Has Been Paused') held even through an ephemeral RBS session on unit 2026-08-13, so take date/venue from here and the price from the 19hz-los-angeles column, or from a LiveNation/SeatGeek mirror (unit 2026-08-06 got $175 that way with no RBS at all)."
+    },
+    {
+      "id": "friday-night-skate-la",
+      "name": "LA Friday Night Skate",
+      "url": "https://fridaynightskate.org",
+      "city": "los-angeles",
+      "kind": "promoter",
+      "use": ["listing"],
+      "track": ["sports"],
+      "focus": "skating",
+      "fetch": ["HTTP", "web_search"],
+      "status": "active",
+      "aliases": ["fridaynightskate.org"],
+      "notes": "Weekly group skate, 20+ years running: FRIDAYS 9pm from Santa Monica City Hall, ~10-15 miles. Despite the .org name this is LOS ANGELES, not SF (verified on unit 2026-08-07). ADDED 2026-08-12 (issue #14) on 2 kept / 2 found; it single-handedly carried the sports track of the 2026-08-14 LA unit. It is Friday-ONLY: units 2026-08-13, 08-15 and 08-16 each spent a skate search re-learning that. Do not query it for a non-Friday unit."
+    },
+    {
+      "id": "la-running-club",
+      "name": "Los Angeles Running Club",
+      "url": "https://www.larunningclub.com",
+      "city": "los-angeles",
+      "kind": "promoter",
+      "use": ["listing"],
+      "track": ["sports"],
+      "focus": "running",
+      "fetch": ["HTTP", "web_search"],
+      "status": "active",
+      "aliases": ["larunningclub.com"],
+      "notes": "Recurring LA group runs. ADDED 2026-08-12 (issue #14) on 2 kept / 2 found over 2 units (2026-08-12 and 08-17), both re-derived by web_search. HTTP 200 verified 2026-08-12."
+    },
+    {
+      "id": "la-leggers",
+      "name": "LA Leggers",
+      "url": "https://laleggers.org",
+      "city": "los-angeles",
+      "kind": "promoter",
+      "use": ["listing"],
+      "track": ["sports"],
+      "focus": "running",
+      "fetch": ["HTTP", "web_search"],
+      "status": "active",
+      "aliases": ["laleggers.org"],
+      "notes": "LA's long-running marathon-training running and walking club — recurring SATURDAY-morning run out of Santa Monica. ADDED 2026-08-12 (issue #14) on 1 kept / 1 found; the very first LA sweep unit (2026-08-01) asked for it by name as the first LA run-crew entry, and five later units re-derived it. HTTP 200 verified 2026-08-12."
+    },
+    {
+      "id": "koreatown-run-club",
+      "name": "Koreatown Run Club",
+      "url": "https://koreatownrunclub.com",
+      "city": "los-angeles",
+      "kind": "promoter",
+      "use": ["listing"],
+      "track": ["sports"],
+      "focus": "running",
+      "fetch": ["HTTP", "web_search"],
+      "status": "active",
+      "aliases": ["koreatownrunclub.com"],
+      "notes": "Recurring THURSDAY run from Love Hour, 532 N Western Ave, Koreatown (venue confirmed on unit 2026-08-06). ADDED 2026-08-12 (issue #14) on 1 kept / 1 found, re-derived by web_search on later units. The site itself is merch-first (HTTP 200, verified 2026-08-12), so the dated run usually has to be confirmed from its IG — see data/ig_handles.json."
+    },
+    {
+      "id": "speakeasygo",
+      "name": "Speakeasy",
+      "url": "https://speakeasygo.com",
+      "city": "los-angeles",
+      "kind": "directory",
+      "use": ["listing"],
+      "track": ["music"],
+      "fetch": ["HTTP", "web_search"],
+      "status": "active",
+      "aliases": ["speakeasygo.com"],
+      "notes": "Nightlife/experience listing for lounges and clubs. ADDED 2026-08-12 (issue #14) on 3 kept / 3 found over 3 units (2026-08-01, 08-08, 08-15) — and it is one of the two alias splits the issue named: the runs recorded it as both `speakeasygo` and `speakeasygo.com`, so its yield was reading as 2+1 rather than 3. Filed under `los-angeles` because every kept event was LA; move it to `common` if it ever produces in SF. HTTP 200 verified 2026-08-12."
+    },
     {
       "id": "insomniac-events",
       "name": "Insomniac Events",

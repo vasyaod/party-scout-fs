@@ -49,16 +49,39 @@ remote-browser `common` session — real Chrome, passes Cloudflare/JS),
 `ticketer`, `anchor` (a per-city listing worked every scan), `venue`, `promoter`,
 `directory` (national, filter by city).
 
+**A standing search is a source too.** Four entries — `search-run-clubs`,
+`search-skate-sessions`, `search-cycling-rides`, `search-moto-rides` — are not
+sites: their `fetch` is `web_search` and their `url` is the query shape, written
+out so it is legible rather than re-invented per run. They are here because a
+paid search that is not in the registry is a cost nobody can see: those four were
+recorded under **ten** different free-text names across 27 units, so their real
+yield (22 kept for run clubs; 1 kept in 20 tries for moto) only appeared once
+they were folded into one key each. Once a search keeps returning the same club,
+**register the club** and demote the search to discovery — finding something new
+is what a search is worth paying for.
+
 **`status` is how a source stops being scanned without being forgotten:**
 
 - `active` — worked normally.
-- `documented` — deliberately parked. Today that is the **San Diego** promoters:
-  they surfaced on the 19hz "Los Angeles" listing (which spans all SoCal) but are
-  genuinely San Diego, and there is no `san-diego` city here yet, so their events
-  have no week file to be filed into. RA agrees SD is its own region
-  (`ra.co/events/us/sandiego`, area 309, separate from LA's area 23). Do **not**
-  scout them into LA or SF; flip them to `active` if a San Diego city is added.
-  A `documented` handle is not in the scout's roster.
+- `documented` — deliberately parked. Two kinds sit here:
+  - **No city to file it into** — the **San Diego** promoters. They surfaced on
+    the 19hz "Los Angeles" listing (which spans all SoCal) but are genuinely San
+    Diego, and there is no `san-diego` city here yet, so their events have no
+    week file to go in. RA agrees SD is its own region
+    (`ra.co/events/us/sandiego`, area 309, separate from LA's area 23). Do
+    **not** scout them into LA or SF; flip them to `active` if a San Diego city
+    is added. A `documented` handle is not in the scout's roster.
+  - **Measured dead weight** — a source that was scanned and did not pay for its
+    fetch. Parked in bulk on 2026-08-12 from 27 recorded units (issue #14):
+    `funcheap-los-angeles` (the hostname does not resolve, and neither does the
+    `la.funcheap.com` a run guessed at), `eventbrite-los-angeles` (405 wall),
+    `edmtrain-san-francisco`, `1015-folsom`, `halcyon-sf`, `cat-club` (all fetch
+    fine — their shows just reach us through 19hz first), `sf-motorcycle-club`
+    and `search-moto-rides` (no dated moto source exists for either city yet).
+  **Parking is not deleting, and the `notes` is the whole point:** it records the
+  measured yield, the diagnosis, and the condition that un-parks it. A source
+  deleted outright gets re-derived by paid `web_search` a month later, which is
+  precisely the waste issue #14 was filed about.
 - `excluded` — deliberately NOT scanned, with the reason in `notes`. Today:
   **Stern Grove Festival** (an annual once-a-year festival series, not the
   recurring nightlife scene Party Scout tracks). Events already in the DB stay;
@@ -138,10 +161,17 @@ here — a DJ or event anywhere in the region is an SF source. That is why 19hz 
 the **Bay Area** listing and why Oakland/Stockton DJs (Rafer Rawb, Dr1ft, Froggin)
 sit in this city. Only a genuinely different metro gets its own city.
 
-**Los Angeles (`los-angeles`)** has its anchor listings and its big promoters, but
-**no venue entries and no run/cycle crews yet** — add them as they surface via the
-19hz LA listing or RA. The 19hz "Los Angeles" listing spans all of SoCal, so check
-each row is really LA before filing it.
+**Los Angeles (`los-angeles`)** has its anchor listings, its big promoters, and —
+since 2026-08-12 — its first **venue** (`kia-forum`, Inglewood) and its first
+**run/skate crews** (`la-leggers`, `la-running-club`, `koreatown-run-club`,
+`friday-night-skate-la`). Every one of those had been re-discovered by paid
+`web_search` on unit after unit before it was written down. Cycling and
+motorcycle crews are still genuinely missing for LA — the searches for them are
+`search-cycling-rides` (on probation) and `search-moto-rides` (parked); a real
+dated source for either is a discovery task, not a per-unit search. Keep adding
+entries as they surface via the 19hz LA listing or RA. The 19hz "Los Angeles"
+listing spans all of SoCal, so check each row is really LA before filing it —
+Kia Forum is Inglewood and is labelled as greater LA, not LA proper.
 
 ---
 
