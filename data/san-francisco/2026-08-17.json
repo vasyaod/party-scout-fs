@@ -5,7 +5,7 @@
   "location": "San Francisco & Bay Area",
   "city": "san-francisco",
   "city_label": "San Francisco",
-  "generated_at": "2026-08-05",
+  "generated_at": "2026-08-13",
   "tracks": {
     "music": [
       {
@@ -22,7 +22,7 @@
         "area": "Concord",
         "venue": "Diablo Creek Golf Course",
         "address": "Diablo Creek Golf Course, Concord, CA",
-        "why": "A three-hour golf-and-R&B mixer with instruction and clubs provided, not just another club night \u2014 beginners and regulars both welcome.",
+        "why": "A three-hour golf-and-R&B mixer with instruction and clubs provided, not just another club night — beginners and regulars both welcome.",
         "summary": "DJ Heartbreak's R&B & Golf returns to Diablo Creek Golf Course in Concord on Saturday, August 22, with three hours of golf, R&B music, professional instruction, giveaways, and a closing mixer.",
         "promoter": "DJ Heartbreak",
         "price": "",
@@ -63,13 +63,13 @@
         "name": "West Coast Jungle Showcase",
         "day": "Sat",
         "date": "2026-08-22",
-        "time": "9pm\u2013late",
+        "time": "9pm–late",
         "start": "21:00",
         "end": null,
         "area": "Oakland",
         "venue": "TBA (secret Oakland location, released day-of)",
         "address": "",
-        "why": "An all-California jungle/DNB lineup at a warehouse-style spot whose address only drops the day of the show \u2014 presale-only entry.",
+        "why": "An all-California jungle/DNB lineup at a warehouse-style spot whose address only drops the day of the show — presale-only entry.",
         "summary": "Rhythmic Remedies' West Coast Jungle Showcase hits a secret Oakland location on Saturday, August 22, with a heavy-hitting lineup of West Coast jungle and DNB DJs/producers, 9pm to late.",
         "promoter": "Rhythmic Remedies",
         "price": "",
@@ -176,6 +176,103 @@
         "popularity": 2,
         "active": true,
         "lineup": []
+      },
+      {
+        "id": "2026-08-17-music-rival-consoles-live-a-v-tour-7bc23e",
+        "eid": "rival-consoles-live-a-v-a6e1",
+        "track": "music",
+        "category": "Electronic/Ambient",
+        "name": "Rival Consoles Live A/V Tour",
+        "day": "Thu",
+        "date": "2026-08-20",
+        "time": "9:00 PM",
+        "start": "21:00",
+        "end": "02:30",
+        "area": "San Francisco",
+        "venue": "1015 Folsom",
+        "address": "1015 Folsom Street, San Francisco, CA 94103",
+        "why": "A full audio-visual narrative set from an electronic composer, not a DJ set - deep listening over a dance-floor filler night",
+        "summary": "Rival Consoles (Ryan Lee West) brings his Landscape from Memory A/V Tour to 1015 Folsom on Thursday August 20, an immersive live audio-visual performance co-created with visual artist David Sydiongco spanning ambient to techno, with support from Khotin and MOSTASH.",
+        "promoter": "DJ Dials & 1015 Folsom",
+        "price": "$25-30",
+        "tags": [
+          "electronic",
+          "ambient",
+          "techno",
+          "live-av",
+          "21+"
+        ],
+        "sources": [
+          "https://ra.co/events/2411126"
+        ],
+        "tickets": [
+          "https://ra.co/events/2411126"
+        ],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=1015%20Folsom%20Street%2C%20San%20Francisco%2C%20CA%2094103",
+          "apple": "https://maps.apple.com/?q=1015%20Folsom%20Street%2C%20San%20Francisco%2C%20CA%2094103"
+        },
+        "coords": {
+          "lat": 37.7780411,
+          "lon": -122.405683
+        },
+        "coords_precise": true,
+        "ra": {
+          "id": "2411126",
+          "interested": 135,
+          "url": "https://ra.co/events/2411126"
+        },
+        "image": "https://images.ra.co/f615d9d2e370572c0f4c5ebcfb42dea880d1e5ec.jpg",
+        "image_generated": false,
+        "popularity": 0,
+        "active": true
+      },
+      {
+        "id": "2026-08-17-music-wobbleland-2026-25b7af",
+        "eid": "wobbleland-2026-2124",
+        "track": "music",
+        "category": "Bass/Dubstep",
+        "name": "Wobbleland 2026",
+        "day": "Fri",
+        "date": "2026-08-21",
+        "time": "5:00 PM",
+        "start": "17:00",
+        "end": "00:00",
+        "area": "San Jose",
+        "venue": "San Jose Convention Center",
+        "address": "150 W San Carlos St, San Jose, CA 95113",
+        "why": "Excision-headlined 2-day bass festival with a stacked dubstep/hardstyle lineup - the biggest single production in the Bay Area this week",
+        "summary": "Wobbleland 2026, presented by Bassrush, is a two-day bass music festival at the San Jose Convention Center Friday-Saturday August 21-22, headlined by Excision, Alison Wonderland and NGHTMRE across dubstep, hardstyle, drum & bass and trap.",
+        "promoter": "Bassrush x Vital",
+        "price": "$99.99-169.99",
+        "tags": [
+          "dubstep",
+          "bass",
+          "festival",
+          "hardstyle",
+          "18+"
+        ],
+        "sources": [
+          "https://www.insomniac.com/events/wobbleland-2026-2026-08-21-san-jose-ca/",
+          "https://bassrush.frontgatetickets.com/event/p5uo1c8jikpiero6"
+        ],
+        "tickets": [
+          "https://bassrush.frontgatetickets.com/event/p5uo1c8jikpiero6"
+        ],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=150%20W%20San%20Carlos%20St%2C%20San%20Jose%2C%20CA%2095113",
+          "apple": "https://maps.apple.com/?q=150%20W%20San%20Carlos%20St%2C%20San%20Jose%2C%20CA%2095113"
+        },
+        "coords": {
+          "lat": 37.3296898,
+          "lon": -121.8896322
+        },
+        "coords_precise": true,
+        "ra": {},
+        "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2026/04/24184811/wQy083rUfcTKgd2jUnGE7qYIJSjjJ7aw5TPGod9P.jpg",
+        "image_generated": false,
+        "popularity": 0,
+        "active": true
       }
     ],
     "sports": [
@@ -192,7 +289,7 @@
         "venue": "Underdogs Too",
         "address": "3600 Taraval St, San Francisco, CA 94116",
         "why": "A biker-community taco night open to all motorcycles and riders, co-hosted by four Bay Area MC clubs for dinner and conversation.",
-        "summary": "Underdogs Too hosts a Taco Tuesday for the biker community on August 18, co-hosted by Delinquents Motorcycle Club, Delinquents MC San Jose, Family & Motorcycles, and Throttle Island T.I. \u2014 all motorcycles and riders welcome.",
+        "summary": "Underdogs Too hosts a Taco Tuesday for the biker community on August 18, co-hosted by Delinquents Motorcycle Club, Delinquents MC San Jose, Family & Motorcycles, and Throttle Island T.I. — all motorcycles and riders welcome.",
         "promoter": "",
         "price": "",
         "tags": [
