@@ -5,7 +5,7 @@
   "location": "San Francisco & Bay Area",
   "city": "san-francisco",
   "city_label": "San Francisco",
-  "generated_at": "2026-08-12",
+  "generated_at": "2026-08-13",
   "tracks": {
     "music": [
       {
@@ -739,29 +739,32 @@
         "id": "2026-08-10-music-borgore-e8e063",
         "eid": "borgore-b31b",
         "track": "music",
-        "category": "Bass / EDM",
+        "category": "Bass/Dubstep",
         "name": "Borgore",
         "day": "Sat",
         "date": "2026-08-15",
-        "time": "evening",
+        "time": "10pm",
         "start": null,
         "end": null,
         "area": "SF",
         "venue": "The Midway",
-        "address": "900 Marin St, San Francisco, CA",
-        "why": "A marquee touring dubstep/bass headliner at one of SF's largest club rooms",
-        "summary": "Touring dubstep and drum-and-bass headliner Borgore plays The Midway.",
+        "address": "900 Marin St, San Francisco, CA 94124",
+        "why": "Headliner-scale bass show at one of SF's largest indoor rooms",
+        "summary": "Bass producer Borgore headlines The Midway's 888 Garage room for a 10pm show, with tickets sold through Tixr and resale available on the major secondary markets.",
         "promoter": "",
-        "price": "$50",
+        "price": "$25–35",
         "tags": [
           "dubstep",
           "bass",
           "headliner"
         ],
         "sources": [
-          "https://themidwaysf.com/borgore"
+          "https://themidwaysf.com/borgore",
+          "https://www.jambase.com/show/borgore-the-midway-20260815"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://tixr.com"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=900%20Marin%20St%2C%20San%20Francisco%2C%20CA",
           "apple": "https://maps.apple.com/?q=900%20Marin%20St%2C%20San%20Francisco%2C%20CA"
@@ -774,7 +777,7 @@
         "ra": {},
         "image": "",
         "image_generated": false,
-        "popularity": 6,
+        "popularity": 0,
         "active": true
       },
       {
@@ -1721,6 +1724,103 @@
         "image_generated": false,
         "popularity": 3,
         "active": true
+      },
+      {
+        "id": "2026-08-10-music-teego-presents-afro-thursdays-ab5723",
+        "eid": "teego-presents-afro-thur-4870",
+        "track": "music",
+        "category": "Afrobeats/House",
+        "name": "Teego presents Afro Thursdays",
+        "day": "Thu",
+        "date": "2026-08-13",
+        "time": "9pm–2am",
+        "start": "21:00",
+        "end": "02:00",
+        "area": "SF",
+        "venue": "F8 1192 Folsom",
+        "address": "1192 Folsom St, San Francisco, CA 94103",
+        "why": "Free-before-11 Afrobeats/house night for a weeknight that's usually dead",
+        "summary": "Teego SF's Afro Thursdays brings HIDRA, Mode Leeloo, Irona and Camillionaire to F8's Folsom Street room, with free entry before 11pm on RSVP for the 21+ night.",
+        "promoter": "Teego SF",
+        "price": "Free–$10",
+        "tags": [
+          "afrobeats",
+          "house",
+          "free-before-11"
+        ],
+        "sources": [
+          "https://ra.co/events/2502596"
+        ],
+        "tickets": [
+          "https://ra.co/events/2502596"
+        ],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=1192%20Folsom%20St%2C%20San%20Francisco%2C%20CA%2094103",
+          "apple": "https://maps.apple.com/?q=1192%20Folsom%20St%2C%20San%20Francisco%2C%20CA%2094103"
+        },
+        "coords": {
+          "lat": 37.7752814,
+          "lon": -122.4099546
+        },
+        "coords_precise": true,
+        "ra": {
+          "event_id": "2502596",
+          "url": "https://ra.co/events/2502596",
+          "interested": 29,
+          "attending": 29
+        },
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "active": true
+      },
+      {
+        "id": "2026-08-10-music-lyny-villager-a51a8f",
+        "eid": "lyny-villager-b53e",
+        "track": "music",
+        "category": "House",
+        "name": "LYNY + Villager",
+        "day": "Fri",
+        "date": "2026-08-14",
+        "time": "10pm–3am",
+        "start": "22:00",
+        "end": "03:00",
+        "area": "SF",
+        "venue": "1015 Folsom",
+        "address": "1015 Folsom Street, San Francisco, CA 94103",
+        "why": "1015's Klub Room adds a second, cheaper local-DJ room in the same building",
+        "summary": "LYNY and Villager headline 1015 Folsom's main room with support from Tej and Ratchaelbeats, while the Klub Room next door runs a separate local lineup of Falldren and Btchplz the same night.",
+        "promoter": "Brownies and Lemonade",
+        "price": "$20–30",
+        "tags": [
+          "house",
+          "club"
+        ],
+        "sources": [
+          "https://ra.co/events/2452736"
+        ],
+        "tickets": [
+          "https://ra.co/events/2452736"
+        ],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=1015%20Folsom%20Street%2C%20San%20Francisco%2C%20CA%2094103",
+          "apple": "https://maps.apple.com/?q=1015%20Folsom%20Street%2C%20San%20Francisco%2C%20CA%2094103"
+        },
+        "coords": {
+          "lat": 37.7780411,
+          "lon": -122.405683
+        },
+        "coords_precise": true,
+        "ra": {
+          "event_id": "2452736",
+          "url": "https://ra.co/events/2452736",
+          "interested": 77,
+          "attending": 77
+        },
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "active": true
       }
     ],
     "sports": [
@@ -2167,6 +2267,50 @@
         "image": "",
         "image_generated": false,
         "popularity": 1,
+        "active": true
+      },
+      {
+        "id": "2026-08-10-sports-bespoke-cycles-saturday-group-05543a",
+        "eid": "bespoke-cycles-saturday-416f",
+        "track": "sports",
+        "category": "Cycling",
+        "name": "Bespoke Cycles Saturday Group Ride",
+        "day": "Sat",
+        "date": "2026-08-15",
+        "time": "7:45am meet, 8:15am roll",
+        "start": "07:45",
+        "end": "08:15",
+        "area": "SF",
+        "venue": "Bespoke Cycles",
+        "address": "2843 Clay Street, San Francisco, CA 94115",
+        "why": "No-drop weekly ride, so any pace can hang without getting dropped",
+        "summary": "Bespoke Cycles runs a free, no-drop group ride every Saturday, meeting at the Clay Street shop at 7:45am for coffee before rolling out together at 8:15am on a route pulled from the shop's Strava club.",
+        "promoter": "",
+        "price": "Free",
+        "tags": [
+          "cycling",
+          "no-drop",
+          "recurring"
+        ],
+        "sources": [
+          "https://www.bespokecyclessf.com/rides"
+        ],
+        "tickets": [
+          "https://www.bespokecyclessf.com/rides"
+        ],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=2843%20Clay%20Street%2C%20San%20Francisco%2C%20CA%2094115",
+          "apple": "https://maps.apple.com/?q=2843%20Clay%20Street%2C%20San%20Francisco%2C%20CA%2094115"
+        },
+        "coords": {
+          "lat": 37.7897755,
+          "lon": -122.4397927
+        },
+        "coords_precise": true,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
         "active": true
       }
     ]
