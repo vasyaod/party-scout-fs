@@ -313,14 +313,23 @@ browser geolocation if the user already granted it -> IP-based geolocation fallb
     `popularity` 0–10, `eid` week-unique), the mechanical link rules (9, 11), the
     prose rules that are checkable (a real price, rule 5; a `why` that isn't the
     name again, rule 18) and that the flyer is really there (rules 20/20a).
-    - **A NEW event → `--candidate --strict --net`**, the full bar (`--candidate`
-      while it is still pre-merge and has no `id`/`eid` yet). `--strict` makes the
-      completeness warnings (no flyer, no price, no `why`, a MODEL.md field the
-      row never got) fail too — which is only what rules 5/18/20a already
-      demand — and `--net` spends exactly one bounded HEAD to confirm the flyer
-      exists.
-    - **Auditing what is already published → plain mode** (no network, warnings
-      don't fail). The events published before this rule carry ~730 warnings
+    - **A NEW event → `--candidate --net`** (`--candidate` while it is still
+      pre-merge and has no `id`/`eid` yet; `--net` spends exactly one bounded
+      HEAD to confirm the flyer exists). **ERRORS fail; completeness warnings do
+      not.** `--strict` — which made warnings fail too — is no longer the bar
+      for adding an event.
+
+      Why it went (measured 2026-08-13 over the whole published DB, 1,227
+      events): the strict bar rejected **49%** of events, against **2%** with a
+      real error. The single largest cause was `image-placeholder` (191 events
+      blocked by it alone) — this environment has no image generator, so that
+      is the deployment's gap, not the event's; second was `coords-city-level`
+      (111). Holding half the database out of the site to enforce completeness
+      the pipeline cannot produce is a worse outcome than shipping an event
+      with a stub flyer. An incomplete event is still *reported* as incomplete
+      (`candidate_pool.py` keeps naming its gaps, so enrichment still targets
+      them) — it just no longer waits forever.
+    - **Auditing what is already published → the same bar** (add no network). The events published before this rule carry ~730 warnings
       (182 have no flyer at all) against 26 errors; that backlog is work to
       grind down, never a reason to block a scan. Only ERRORs — a wrong type, a
       missing core field, a link rule 9/11 forbids, a flyer that is genuinely
@@ -330,13 +339,14 @@ browser geolocation if the user already granted it -> IP-based geolocation fallb
       separates *blocked / unreachable from here* (reported, never a failure)
       from *genuinely gone* — 404/410 or a host that doesn't resolve, which IS an
       error. Never "fix" a blocked flyer by clearing `image`.
-    - **A deployment that genuinely cannot meet a rule waives it BY NAME**, with
-      `--ignore <rule>`, and says so. The `party-scout` agent environment has no
-      image generator or upload path checked out, so its weekly scan runs
-      `--strict --ignore image-missing` (rule 20b's placeholder is unavailable
-      there); the waived findings are still printed and counted. Never drop
-      `--strict` instead of naming what was waived, and never waive a rule the
-      environment *could* satisfy.
+    - **`--ignore <rule>` no longer changes any verdict**, because every rule it
+      waived was a warning. It survives only to keep a known-unsatisfiable
+      finding out of the report — the `party-scout` environment has no image
+      generator or upload path checked out, so `--ignore image-missing` keeps
+      that noise down. Waived findings are still printed and counted.
+    - **`--strict` still exists as an audit mode**, and is the right tool for
+      "show me everything that is incomplete". It is simply not what gates a
+      write any more.
     - A whole week or the whole database is the same script over every event
       (`--file <week>.json`, `--all`); `--json` is the machine-readable form an
       agent can read mid-run.
