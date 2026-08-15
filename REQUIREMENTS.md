@@ -347,6 +347,19 @@ browser geolocation if the user already granted it -> IP-based geolocation fallb
     - **`--strict` still exists as an audit mode**, and is the right tool for
       "show me everything that is incomplete". It is simply not what gates a
       write any more.
+    - **`enriched` is counted, never a gate.** Every event carries `enriched`
+      (MODEL.md), an integer count of completed enrichment passes: `0` = no
+      pass on record, `1`/`2`/`3` = how many. The validator type-checks it like
+      `popularity` and an event missing it only WARNS — the events published
+      before it existed are backfilled to `0`, which is the only value we can
+      prove for them. **Never make `enriched >= 1` a condition of writing an
+      event.** This deployment cannot fill some gaps at all (no image
+      generator), so gating on enrichment would strand exactly the events the
+      `--strict` retirement above freed — the same bug in a new costume.
+      Guarantee the pass runs (rule 16b), count it, and publish regardless of
+      what it managed to fill. A merge may only ever RAISE the count: a re-scan
+      re-derives it from a candidate that starts at `0`, and overwriting would
+      silently reset an event that has had three passes.
     - A whole week or the whole database is the same script over every event
       (`--file <week>.json`, `--all`); `--json` is the machine-readable form an
       agent can read mid-run.
@@ -381,6 +394,19 @@ browser geolocation if the user already granted it -> IP-based geolocation fallb
     (unverified), and images real vs generated — broken down by the batch dimension, so
     coverage holes (e.g. a weekday with 0 events, a thin city-week) are visible and can be
     re-scanned. Surface the stats in the run's summary/report.
+16b. **Every event we ADD gets at least one enrichment pass.** Adding is not
+    finished when the harvest lands: a first-pass harvest leaves fields empty, and
+    an event nobody ever went back to is indistinguishable from one that was
+    worked three times unless the pass is guaranteed and counted. The scanner's
+    enrichment queue (`candidate_pool.py queue`) therefore hands out
+    never-enriched candidates FIRST and queues them **even when nothing is
+    missing**, so a row that happens to look complete is still looked at once;
+    `record` then raises the event's `enriched` count. A pass that COMPLETED
+    counts even if it filled nothing; a failed one raises `attempts` instead. If
+    the fetch budget runs out before the queue does, the leftovers stay queued
+    and the run reports how many are still `never_enriched` — that is the honest
+    reading, never a reason to hold the events back (rule 23).
+
 17. **Score hidden popularity (0–10).** Every event gets a `popularity` integer
     (0–10) — a **hidden** ranking signal, never shown on the site. Fill it
     heuristically from real characteristics: RA interest count, headliner / marquee

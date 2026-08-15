@@ -88,6 +88,8 @@ Jun 25–28 2026 weekend → `2026-06-22.json`). Carries `city` + `city_label` t
   "day": "Sat",
   "date": "2026-06-27",
   "time": "6–10pm",
+  "start": "18:00",
+  "end": "22:00",
   "area": "SF",
   "venue": "The Pearl",
   "address": "601 19th St, San Francisco, CA 94107",
@@ -98,6 +100,10 @@ Jun 25–28 2026 weekend → `2026-06-22.json`). Carries `city` + `city_label` t
   "tags": ["sunset", "outdoor", "house", "deep-house", "disco-house", "soulful"],
   "sources": ["https://ra.co/events/2463690"],
   "tickets": ["https://www.eventbrite.com/e/dayfall-between-day-night-tickets-1989860033927"],
+  "lineup": [
+    { "name": "Karizma", "instagram": null },
+    { "name": "Colette", "instagram": null }
+  ],
   "maps": {
     "google": "https://www.google.com/maps/search/?api=1&query=The+Pearl%2C+601+19th+St...",
     "apple":  "https://maps.apple.com/?q=The+Pearl%2C+601+19th+St..."
@@ -108,6 +114,7 @@ Jun 25–28 2026 weekend → `2026-06-22.json`). Carries `city` + `city_label` t
   "image": "https://api.party-scout.app/img/san-francisco/2026-06-22/dayfall-karizma-colette-mr-v-7d2a.jpg",
   "image_generated": false,
   "popularity": 7,
+  "enriched": 2,
   "active": true
 }
 ```
@@ -122,6 +129,8 @@ Jun 25–28 2026 weekend → `2026-06-22.json`). Carries `city` + `city_label` t
 | `day` | string | `Fri` / `Sat` / `Sun` / `Sat/Sun` etc. |
 | `date` | string `YYYY-MM-DD` | The event's **calendar date**, derived from `week_start` (the Monday) + `day`. For a multi-day `day` (`Sat/Sun`) it's the **first** day. `""` when `day` is missing/unparseable. Generated — not hand-set. |
 | `time` | string | Free-form, e.g. `6–10pm`, `9pm`, `all-day–3am`. |
+| `start` | string `"HH:MM"` \| null | 24-hour **start**, what the site's fade / past-event logic reads instead of parsing `time`. `null` when genuinely unknown. Set from the flyer when possible, else derived from `time` (`derive_times`). See REQUIREMENTS rule 2a. |
+| `end` | string `"HH:MM"` \| null | 24-hour **end**. An `end` earlier than `start` means the event **crosses midnight** (`"22:00"` → `"03:00"`); a lone start with no end gets a ~4h grace client-side. `null` when unknown. See REQUIREMENTS rule 2a. |
 | `area` | string | City/neighborhood, e.g. `SF`, `Oakland`, `Sacramento`. |
 | `venue` | string | Venue name; `""` if unknown. |
 | `address` | string | Exact street address (city/state) when known → precise Maps pin. |
@@ -132,6 +141,7 @@ Jun 25–28 2026 weekend → `2026-06-22.json`). Carries `city` + `city_label` t
 | `tags` | array&lt;string&gt; | Genre/vibe tags (house, techno, free, outdoor, rooftop, pride, daytime…). Powers the tag cloud + filter. |
 | `sources` | array&lt;string&gt; | **Ordered list of EVERY site the event appears on** (replaces the old single `link`) → the card's **Open** button uses **index 0** (the highest-priority link). Collect them all — official/organizer page, the **venue's own event page** (themidwaysf.com, 1015.com…), the **ticketer** (RA/Tixr/Eventbrite/AXS/Dice), the IG post it was scouted from, editorial listings — priority-ordered, most authoritative first (see REQUIREMENTS rule 1a). Only **third-party scrape indexes** (19hz & similar multi-venue aggregators) are dropped (rule 11); a venue's own site is kept. `[]` when none known. Merges as an order-preserving union (first wins). |
 | `tickets` | array&lt;string&gt; | **Ordered list of ticket-seller URLs** (RA/Tixr/Eventbrite/Etix/Ticketmaster/AXS/…) → **Buy ticket** uses **index 0**. Never a search engine. The same URL may also appear in `sources` (an event page can be both info + ticket). Merges as an order-preserving union. |
+| `lineup` | array&lt;object&gt; | **Optional** DJ/artist lineup — `{ "name", "instagram" }` per artist on the flyer. `name` as printed; `instagram` is the **handle only** (no `@`, no URL) or `null` when it cannot be confirmed — never a guessed handle. Omit or `[]` when there is no lineup. See REQUIREMENTS rule 2b. |
 | `maps` | object | `{ "google", "apple" }` Maps URLs (from `address` › known-venue table › `venue, area`). Client opens the right app per device. |
 | `coords` | object \| null | `{ "lat", "lon" }` — the event's geographic point (WGS84 decimal degrees), for a map pin / map view. Geocoded by `geocode.py`: an **exact venue point** when resolvable (`address` › known-venue address › `venue, area`), otherwise the event's **city centroid** as a fallback (`area`-as-city › `city_label`). `null` only when even the city can't resolve (never guessed). Preserved across re-runs. |
 | `coords_precise` | boolean | `true` = `coords` is the **exact venue point**; `false` = it's a **city-level fallback** (the venue couldn't be pinned, so we used the city's coordinates). Lets the map avoid dropping a precise pin on a city centroid. Set by `geocode.py`, preserved across re-runs. |
@@ -139,6 +149,7 @@ Jun 25–28 2026 weekend → `2026-06-22.json`). Carries `city` + `city_label` t
 | `image` | string | Public URL of the event's image — the flyer/hero (`og:image`, ticket-site preferred), an AI-generated placeholder, else `""` (the UI then shows the stub). A **≤512px JPG**. Filled by `enrich_images.py`. See REQUIREMENTS rule 20a. |
 | `image_generated` | boolean | `true` when `image` is an **AI-generated placeholder** (no real flyer could be found) — so it can be **replaced** if a real flyer turns up later. `false` for a real found flyer (or no image). Set by the enrichment, preserved across re-generation. |
 | `popularity` | integer 0–10 | **Hidden** heuristic popularity/hype score (NOT shown on the site) — a ranking signal. Blended from RA interest count, headliner/marquee fame, festival/block-party scale, and price tier. |
+| `enriched` | integer ≥ 0 | How many **completed enrichment passes** the event has had. `0` = no pass on record (an event we harvested but never worked); `1`/`2`/`3` = how many times. A pass that ran and filled nothing still counts — some gaps exist nowhere, so counting improvements would leave those events reading as permanently neglected; pair it with the pool's `missing` to see whether a pass helped. Written by `candidate_pool.py record`, **merged upward only** (a re-scan re-derives it from 0 and must never lower it), and **never a publish gate**. Defaults to `0`. See REQUIREMENTS rule 23. |
 | `active` | boolean | `true` if present in the latest scan; `false` = "carried over" (kept from a prior scan, dimmed on the site). Never deleted. |
 
 ### Link rules (summary — see REQUIREMENTS.md)
