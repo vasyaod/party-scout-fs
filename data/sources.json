@@ -206,7 +206,7 @@
       "fetch": ["GQL", "common"],
       "parser": "ra_interest.py",
       "status": "active",
-      "notes": "The SF listing URL; extraction is the shared `resident-advisor` entry."
+      "notes": "The SF listing URL; extraction is the shared `resident-advisor` entry. RA GraphQL area id 218 (\"San Francisco/Oakland\"): eventListings(filters:{areas:{eq:218}, listingDate:{gte,lte}}) on https://ra.co/graphql returns the WHOLE city-week in one unauthenticated, non-Cloudflare-gated call (needs a browser-like User-Agent + Referer, not just Content-Type) — measured across 3 week units now (san-francisco 08-24..08-30, 08-31..09-06, 09-07..09-13) as a cheaper anchor-listing path than a 19hz/common-session render, with zero remote-browser sessions on any of them."
     },
     {
       "id": "edmtrain-san-francisco",
