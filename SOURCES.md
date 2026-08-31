@@ -138,10 +138,19 @@ here — a DJ or event anywhere in the region is an SF source. That is why 19hz 
 the **Bay Area** listing and why Oakland/Stockton DJs (Rafer Rawb, Dr1ft, Froggin)
 sit in this city. Only a genuinely different metro gets its own city.
 
-**Los Angeles (`los-angeles`)** has its anchor listings and its big promoters, but
-**no venue entries and no run/cycle crews yet** — add them as they surface via the
-19hz LA listing or RA. The 19hz "Los Angeles" listing spans all of SoCal, so check
-each row is really LA before filing it.
+**Los Angeles (`los-angeles`)** has its anchor listings, its big promoters, and
+since issue #40 three venue entries — Hollywood Forever (the Masonic Lodge),
+The Wiltern, the Hollywood Bowl. It still has **no run/cycle crews yet** — add
+them as they surface via the 19hz LA listing or RA. The 19hz "Los Angeles"
+listing spans all of SoCal, so check each row is really LA before filing it.
+
+The venue entries are there because the aggregators are not enough on their own:
+a show at a traditional or independent venue is often listed on the venue's own
+calendar and nowhere the anchors reach (issue #40 was Cold Cave at the Masonic
+Lodge, on TicketWeb and Songkick but on no LA anchor). Collect harvests a
+`kind: "venue"` whose `use` includes `"listing"` for exactly that reason, after
+the city's anchors — so registering one buys a real fetch, and a venue that
+yields nothing over many runs should be parked like any other dead source.
 
 ---
 
