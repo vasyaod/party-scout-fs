@@ -418,6 +418,47 @@
     },
 
     {
+      "id": "hollywood-forever",
+      "name": "Hollywood Forever (Masonic Lodge)",
+      "url": "https://hollywoodforever.com/events-calendar/",
+      "city": "los-angeles",
+      "kind": "venue",
+      "use": ["listing", "price"],
+      "track": ["music"],
+      "focus": "goth / darkwave / indie, plus Cinespia cemetery film screenings",
+      "fetch": ["HTTP"],
+      "status": "active",
+      "aliases": ["hollywoodforever.com"],
+      "notes": "6000 Santa Monica Blvd. The Masonic Lodge (~200 cap) and the cemetery lawn — LA's counterpart to Cat Club's corner of the scene. /events-calendar/ renders the whole upcoming list in plain HTML, the cheapest LA venue source we have. Links out to TicketWeb / Dice. Registered for issue #40: Cold Cave performing Cremations (2026-09-10) was on this calendar and on no LA anchor."
+    },
+    {
+      "id": "the-wiltern",
+      "name": "The Wiltern",
+      "url": "https://www.wiltern.com/shows",
+      "city": "los-angeles",
+      "kind": "venue",
+      "use": ["listing", "price"],
+      "track": ["music"],
+      "fetch": ["common"],
+      "status": "active",
+      "aliases": ["wiltern.com"],
+      "notes": "3790 Wilshire Blvd (Koreatown), Live Nation theatre (~1,850). /shows is the upcoming calendar — NOT /events, which is a placeholder stub. JS-rendered with no server HTML at all, so render via `common`. Links out to Ticketmaster for price."
+    },
+    {
+      "id": "hollywood-bowl",
+      "name": "Hollywood Bowl",
+      "url": "https://www.hollywoodbowl.com/events/performances",
+      "city": "los-angeles",
+      "kind": "venue",
+      "use": ["listing", "price"],
+      "track": ["music"],
+      "fetch": ["common"],
+      "status": "active",
+      "aliases": ["hollywoodbowl.com"],
+      "notes": "2301 N Highland Ave. The LA Phil's outdoor amphitheatre: classical and jazz alongside major pop/rock bills (My Chemical Romance, Erykah Badu, Empire of the Sun). JS-rendered, so `common`; the url self-redirects to the upcoming-season filter. Prices from its own box office."
+    },
+
+    {
       "id": "insomniac-events",
       "name": "Insomniac Events",
       "url": "https://insomniac.com",
