@@ -26,6 +26,8 @@ data/
   index.json      list of all weeks, newest first
   <YYYY-MM-DD>.json   one week (Monday-dated), machine-readable
   <YYYY-MM-DD>.md     same week, human-readable digest
+tools/            checks run over the data (see Checks below)
+.github/workflows/  CI that runs those checks
 ```
 
 Each week is named after the **Monday** of the week its window falls in, e.g.
@@ -37,6 +39,18 @@ See **[MODEL.md](MODEL.md)** for the full field-by-field JSON data model (week
 object, per-event fields, `index.json`). The rules behind those fields — pricing,
 merge/never-delete, JSON-only-but-actionable links, verification — are in
 **[REQUIREMENTS.md](REQUIREMENTS.md)**.
+
+## Checks
+
+CI (`.github/workflows/data-integrity.yml`) refuses a pull request or a push to
+`main` that removes an event from a week file — REQUIREMENTS.md rule 7 says an
+event that drops out of view is kept and flagged `active: false`, never deleted.
+Additions, `active` flips and re-keyed `id`s all pass. To run it by hand against
+whatever you are about to push:
+
+```
+python3 tools/check_no_event_deletions.py --base origin/main
+```
 
 ## Updating
 
