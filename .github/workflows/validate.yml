@@ -1,0 +1,32 @@
+name: validate data
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'data/**'
+      - 'scripts/**'
+      - '.github/workflows/validate.yml'
+  pull_request:
+    paths:
+      - 'data/**'
+      - 'scripts/**'
+      - '.github/workflows/validate.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      # Check the checker first: a validator whose checks stopped firing
+      # would report clean data no matter what is in data/.
+      - name: Self-test the validator
+        run: python3 scripts/test_validate_data.py
+
+      - name: Validate data/ against MODEL.md
+        run: python3 scripts/validate_data.py

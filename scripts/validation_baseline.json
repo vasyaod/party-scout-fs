@@ -1,0 +1,73 @@
+{
+  "_comment": "Pre-existing violations tolerated by scripts/validate_data.py: max allowed count per check. Regenerate with `python3 scripts/validate_data.py --update-baseline`.",
+  "allowed": {
+    "event-date-outside-window": 13,
+    "event-empty-field": 2,
+    "event-field-type": 33,
+    "event-lineup-shape": 9,
+    "event-missing-field": 4,
+    "event-time-format": 7,
+    "event-unknown-field": 21
+  },
+  "samples": {
+    "event-date-outside-window": [
+      "data/san-francisco/2026-06-29.json tracks.music[21]: 2026-06-29 not in 2026-07-02..2026-07-05",
+      "data/san-francisco/2026-06-29.json tracks.music[25]: 2026-07-01 not in 2026-07-02..2026-07-05",
+      "data/san-francisco/2026-06-29.json tracks.music[27]: 2026-06-29 not in 2026-07-02..2026-07-05",
+      "data/san-francisco/2026-06-29.json tracks.music[58]: 2026-06-30 not in 2026-07-02..2026-07-05",
+      "data/san-francisco/2026-06-29.json tracks.music[61]: 2026-07-01 not in 2026-07-02..2026-07-05",
+      "data/san-francisco/2026-06-29.json tracks.music[63]: 2026-06-30 not in 2026-07-02..2026-07-05",
+      "data/san-francisco/2026-06-29.json tracks.music[66]: 2026-07-01 not in 2026-07-02..2026-07-05",
+      "data/san-francisco/2026-06-29.json tracks.sports[9]: 2026-06-30 not in 2026-07-02..2026-07-05"
+    ],
+    "event-empty-field": [
+      "data/los-angeles/2026-09-07.json tracks.music[4]: area",
+      "data/los-angeles/2026-09-07.json tracks.music[18]: area"
+    ],
+    "event-field-type": [
+      "data/los-angeles/2026-07-13.json tracks.music[50]: price is null",
+      "data/los-angeles/2026-07-13.json tracks.music[51]: venue is null",
+      "data/los-angeles/2026-07-13.json tracks.music[51]: address is null",
+      "data/los-angeles/2026-07-13.json tracks.music[51]: price is null",
+      "data/los-angeles/2026-07-20.json tracks.music[34]: price is null",
+      "data/los-angeles/2026-07-20.json tracks.music[34]: maps is list, want dict",
+      "data/los-angeles/2026-07-27.json tracks.music[26]: price is null",
+      "data/los-angeles/2026-07-27.json tracks.music[26]: image is null"
+    ],
+    "event-lineup-shape": [
+      "data/los-angeles/2026-07-20.json tracks.music[34]: str entry",
+      "data/los-angeles/2026-07-20.json tracks.music[34]: str entry",
+      "data/los-angeles/2026-07-20.json tracks.music[34]: str entry",
+      "data/los-angeles/2026-08-03.json tracks.music[0]: str entry",
+      "data/los-angeles/2026-08-03.json tracks.music[0]: str entry",
+      "data/los-angeles/2026-08-03.json tracks.music[0]: str entry",
+      "data/los-angeles/2026-08-03.json tracks.music[0]: str entry",
+      "data/los-angeles/2026-08-03.json tracks.music[0]: str entry"
+    ],
+    "event-missing-field": [
+      "data/los-angeles/2026-07-20.json tracks.music[34]: id",
+      "data/los-angeles/2026-07-20.json tracks.music[34]: eid",
+      "data/los-angeles/2026-07-20.json tracks.music[34]: popularity",
+      "data/los-angeles/2026-07-20.json tracks.music[34]: active"
+    ],
+    "event-time-format": [
+      "data/san-francisco/2026-07-20.json tracks.music[33]: end=''",
+      "data/san-francisco/2026-07-20.json tracks.music[48]: end=''",
+      "data/san-francisco/2026-07-20.json tracks.music[91]: end=''",
+      "data/san-francisco/2026-08-03.json tracks.music[1]: start=''",
+      "data/san-francisco/2026-08-03.json tracks.music[1]: end=''",
+      "data/san-francisco/2026-08-03.json tracks.music[3]: start=''",
+      "data/san-francisco/2026-08-03.json tracks.music[3]: end=''"
+    ],
+    "event-unknown-field": [
+      "data/san-francisco/2026-08-31.json tracks.music[0]: link",
+      "data/san-francisco/2026-08-31.json tracks.music[2]: link",
+      "data/san-francisco/2026-08-31.json tracks.music[3]: link",
+      "data/san-francisco/2026-08-31.json tracks.music[4]: link",
+      "data/san-francisco/2026-08-31.json tracks.music[5]: link",
+      "data/san-francisco/2026-08-31.json tracks.music[6]: link",
+      "data/san-francisco/2026-08-31.json tracks.music[7]: link",
+      "data/san-francisco/2026-08-31.json tracks.music[8]: link"
+    ]
+  }
+}

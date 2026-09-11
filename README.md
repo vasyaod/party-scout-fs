@@ -47,6 +47,21 @@ The files here are generated — do not hand-edit. The generator lives in
 python generate.py weeks/<week>.input.json --repo /path/to/party-scout-fs
 ```
 
+## Validation
+
+`scripts/validate_data.py` checks `data/` against [MODEL.md](MODEL.md) — event
+schema, each city's `index.json` vs its week files, and `data/stats.json`
+totals. It runs on every push/PR that touches `data/` (`.github/workflows/validate.yml`).
+
+```
+python3 scripts/validate_data.py        # stdlib only, no install
+```
+
+Violations that pre-date the check are recorded per check in
+`scripts/validation_baseline.json`; the run fails only when a check goes
+*above* its baseline, i.e. on a new or growing violation. Fix those in the
+generator, not by hand-editing `data/`.
+
 ## Site
 
 GitHub Pages serves from the repo root. Live at
