@@ -5,7 +5,7 @@
   "location": "Los Angeles & SoCal",
   "city": "los-angeles",
   "city_label": "Los Angeles",
-  "generated_at": "2026-08-31",
+  "generated_at": "2026-09-11",
   "tracks": {
     "music": [
       {
@@ -388,7 +388,7 @@
         "why": "A headline house set in a proper mid-size theater rather than a bar or warehouse.",
         "summary": "House DJ/producer BL3SS headlines a full night at the historic El Rey Theatre, a mid-size Goldenvoice room on Wilshire.",
         "promoter": "",
-        "price": "$29-42",
+        "price": "$29-42, 18+",
         "tags": [
           "house"
         ],
@@ -396,7 +396,8 @@
           "https://ra.co/events/2470038"
         ],
         "tickets": [
-          "https://www.axs.com/events/1474784/bl3ss-tickets"
+          "https://www.axs.com/events/1474784/bl3ss-tickets",
+          "https://ra.co/events/2470038"
         ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=5515%20Wilshire%20Blvd%2C%20Los%20Angeles%2C%20CA%2090036",
@@ -407,7 +408,11 @@
           "lon": -118.3489122
         },
         "coords_precise": true,
-        "ra": {},
+        "ra": {
+          "event_id": "2470038",
+          "url": "https://ra.co/events/2470038",
+          "interested": 4
+        },
         "image": "https://images.ra.co/333c2345e8b0520c16d3cda14eedb2ea12c18efa.png",
         "image_generated": false,
         "popularity": 0,
@@ -426,7 +431,7 @@
         "start": null,
         "end": null,
         "area": "Los Angeles",
-        "venue": "TBA - Secret Location DTLA",
+        "venue": "TBA - Secret Location DTLA ",
         "address": "",
         "why": "A true secret-address warehouse night rather than a listed club, for the same $25 door.",
         "summary": "Lizdek's Midnight Society throws a secret-location DTLA house party running deep into the early morning.",
@@ -451,7 +456,11 @@
           "lon": -118.242766
         },
         "coords_precise": false,
-        "ra": {},
+        "ra": {
+          "event_id": "2487167",
+          "url": "https://ra.co/events/2487167",
+          "interested": 91
+        },
         "image": "https://images.ra.co/4932b65737b5f8adb303370adb8b6c4e75a3aa9e.jpg",
         "image_generated": false,
         "popularity": 0,
@@ -494,7 +503,11 @@
           "lon": -118.355557
         },
         "coords_precise": true,
-        "ra": {},
+        "ra": {
+          "event_id": "2509931",
+          "url": "https://ra.co/events/2509931",
+          "interested": 1
+        },
         "image": "https://images.ra.co/0c3cd3da5ddcb3f21cba3bff9a0495865f82e51a.png",
         "image_generated": false,
         "popularity": 0,
@@ -562,7 +575,7 @@
         "why": "A veteran NYC deep-house DJ on a downtown all-nighter that runs to sunrise.",
         "summary": "Signal Underground's downtown deep house night headlined by NYC veteran Nita Aviance, running until 6am.",
         "promoter": "",
-        "price": "$25 before midnight / $30-60",
+        "price": "$25 b4 12 / $30-60, 21+",
         "tags": [
           "deep house",
           "underground"
@@ -582,7 +595,11 @@
           "lon": -118.242766
         },
         "coords_precise": false,
-        "ra": {},
+        "ra": {
+          "event_id": "2511856",
+          "url": "https://ra.co/events/2511856",
+          "interested": 185
+        },
         "image": "https://images.ra.co/bfc59e6ffe0b9a5b04b52cd01f21c2acc8ad5f78.png",
         "image_generated": false,
         "popularity": 0,
@@ -600,25 +617,31 @@
         "time": "",
         "start": null,
         "end": null,
-        "area": "",
+        "area": "Los Angeles",
         "venue": "Que Sera",
         "address": "",
         "why": "",
         "summary": "",
         "promoter": "",
-        "price": "",
+        "price": "$15",
         "tags": [],
         "sources": [
           "https://ra.co/events/2499438"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://ra.co/events/2499438"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Que%20Sera",
           "apple": "https://maps.apple.com/?q=Que%20Sera"
         },
         "coords": null,
         "coords_precise": false,
-        "ra": {},
+        "ra": {
+          "event_id": "2499438",
+          "url": "https://ra.co/events/2499438",
+          "interested": 4
+        },
         "image": "https://party-scout.app/img/gen/virtigo-presents-diavol-49ef.jpg",
         "image_generated": true,
         "popularity": 0,
@@ -636,22 +659,28 @@
         "time": "",
         "start": null,
         "end": null,
-        "area": "",
+        "area": "Los Angeles",
         "venue": "TBA - Los Angeles",
         "address": "",
         "why": "",
         "summary": "",
         "promoter": "",
-        "price": "",
+        "price": "$25-45",
         "tags": [],
         "sources": [
           "https://ra.co/events/2494139"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://ra.co/events/2494139"
+        ],
         "maps": {},
         "coords": null,
         "coords_precise": false,
-        "ra": {},
+        "ra": {
+          "event_id": "2494139",
+          "url": "https://ra.co/events/2494139",
+          "interested": 490
+        },
         "image": "https://party-scout.app/img/gen/work-presents-d-dan-all-8485.jpg",
         "image_generated": true,
         "popularity": 0,
@@ -675,7 +704,7 @@
         "why": "A mid-size theater show on the Miracle Mile, easy alternative to the DTLA warehouse crush that night.",
         "summary": "Arlo plays a tech house / EDM set at the historic El Rey Theatre on Wilshire.",
         "promoter": "",
-        "price": "$29-42",
+        "price": "$29-42, 18+",
         "tags": [
           "tech house",
           "EDM"
@@ -713,11 +742,11 @@
         "end": "02:00",
         "area": "Los Angeles",
         "venue": "Academy LA",
-        "address": "6021 Hollywood Blvd.  Los Angeles, CA 90028, USA",
-        "why": "A tight back-to-back set from two house-scene favorites in an intimate Hollywood room.",
-        "summary": "ATRIP and DJ Boring play a back-to-back house/techno set at Academy LA in Hollywood.",
+        "address": "6021 Hollywood Blvd, Los Angeles, CA 90028",
+        "why": "A DJ pairing with strong RA interest and a free-entry Hollywood room.",
+        "summary": "ATRIP and DJ Boring play a B2B set at Academy LA in Hollywood.",
         "promoter": "",
-        "price": "$25",
+        "price": "Free",
         "tags": [
           "house",
           "techno"
@@ -726,7 +755,8 @@
           "https://ra.co/events/2512849"
         ],
         "tickets": [
-          "https://www.ticketweb.com/event/atrip-b2b-dj-boring-academy-la-tickets/15016193"
+          "https://www.ticketweb.com/event/atrip-b2b-dj-boring-academy-la-tickets/15016193",
+          "https://ra.co/events/2512849"
         ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=6021%20Hollywood%20Blvd.%20%20Los%20Angeles%2C%20CA%2090028%2C%20USA",
@@ -734,11 +764,15 @@
         },
         "coords": null,
         "coords_precise": false,
-        "ra": {},
-        "image": "",
+        "ra": {
+          "event_id": "2512849",
+          "url": "https://ra.co/events/2512849",
+          "interested": 18
+        },
+        "image": "https://images.ra.co/962f5260443aae5ab89cc8cb83026eb20df55082.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 1,
+        "enriched": 2,
         "active": true
       },
       {
@@ -797,7 +831,7 @@
         "why": "Same Bass Boat 004 party, filed here under its dock address rather than the RA listing.",
         "summary": "Bass Boat 004 sunset boat party departing from the Long Beach ferry dock, two stages of VOID sound.",
         "promoter": "",
-        "price": "$60+",
+        "price": "$60+, 21+",
         "tags": [
           "dubstep",
           "bass music",
@@ -837,7 +871,7 @@
         "why": "A warehouse-scale bass night from a crew with a track record, for anyone who wants the boat party's energy on land.",
         "summary": "Bass Bridge 003 is a DTLA warehouse party from the same Good Society crew behind the Bass Boat series.",
         "promoter": "",
-        "price": "$34+",
+        "price": "$34+, 21+",
         "tags": [
           "dubstep",
           "bass music"
@@ -1064,7 +1098,11 @@
           "lon": -118.242766
         },
         "coords_precise": false,
-        "ra": {},
+        "ra": {
+          "event_id": "2497743",
+          "url": "https://ra.co/events/2497743",
+          "interested": 363
+        },
         "image": "",
         "image_generated": false,
         "popularity": 0,
@@ -1088,14 +1126,15 @@
         "why": "Sunset Strip venue pedigree for a tech house bill, an alternative to the DTLA warehouse circuit.",
         "summary": "Conrad Taylor plays a tech house / EDM set at the historic Roxy Theatre on the Sunset Strip.",
         "promoter": "",
-        "price": "$35+",
+        "price": "$42.27",
         "tags": [
           "tech house",
           "EDM"
         ],
         "sources": [],
         "tickets": [
-          "https://www.axs.com/events/1489914"
+          "https://www.axs.com/events/1489914",
+          "https://ra.co/events/2533732"
         ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=9009%20W%20Sunset%20Blvd%2C%20West%20Hollywood%2C%20CA%2090069",
@@ -1106,7 +1145,11 @@
           "lon": -118.3879797
         },
         "coords_precise": true,
-        "ra": {},
+        "ra": {
+          "event_id": "2533732",
+          "url": "https://ra.co/events/2533732",
+          "interested": 0
+        },
         "image": "",
         "image_generated": false,
         "popularity": 0,
@@ -1130,7 +1173,7 @@
         "why": "Free, oceanfront, boardwalk daytime vibe — exactly the free-outdoor-daytime style that overperforms with this crowd.",
         "summary": "Dell Carmell plays a free RSVP house/disco set at The Waterfront on the Venice boardwalk.",
         "promoter": "",
-        "price": "Free w/RSVP",
+        "price": "Free w/rsvp, 21+",
         "tags": [
           "house",
           "disco"
@@ -1213,7 +1256,7 @@
         "why": "A cheap, small-room disco night in Silver Lake — the low-commitment option on a stacked Saturday.",
         "summary": "Donuts: A Disco Party at El Cid on Sunset Junction, a small-room disco night.",
         "promoter": "",
-        "price": "$13.65",
+        "price": "$14, 21+",
         "tags": [
           "disco"
         ],
@@ -1311,7 +1354,11 @@
         },
         "coords": null,
         "coords_precise": false,
-        "ra": {},
+        "ra": {
+          "event_id": "2509889",
+          "url": "https://ra.co/events/2509889",
+          "interested": 100
+        },
         "image": "",
         "image_generated": false,
         "popularity": 0,
@@ -1335,7 +1382,7 @@
         "why": "A free daytime set from a rising Inland Empire rapper at a small, iconic venue.",
         "summary": "A free live performance at Virgil Normal spotlighting emerging Inland Empire rapper Chav, backed by a DJ set opening and closing the show.",
         "promoter": "",
-        "price": "Free",
+        "price": "$0.00",
         "tags": [
           "hip-hop",
           "live"
@@ -1355,7 +1402,11 @@
           "lon": -118.242766
         },
         "coords_precise": false,
-        "ra": {},
+        "ra": {
+          "event_id": "2506691",
+          "url": "https://ra.co/events/2506691",
+          "interested": 0
+        },
         "image": "https://images.ra.co/8276c22eb56451adc4f9545b47151adca161e523.jpg",
         "image_generated": false,
         "popularity": 0,
@@ -1379,7 +1430,7 @@
         "why": "Free monthly disco night in a genuinely themed roller-disco room, not just a bar with a DJ.",
         "summary": "Monthly disco house night at Kiss Kiss Bang Bang's checkered dance floor, with Blake Weber and Chi Chi Dango on the decks and roller-skater performances.",
         "promoter": "",
-        "price": "Free",
+        "price": "Free, 21+",
         "tags": [
           "house",
           "disco",
@@ -1446,7 +1497,11 @@
           "lon": -118.233179
         },
         "coords_precise": true,
-        "ra": {},
+        "ra": {
+          "event_id": "2513682",
+          "url": "https://ra.co/events/2513682",
+          "interested": 5
+        },
         "image": "https://images.ra.co/e2ae9eaa683b29dcf8bc250d94931e378df8d2b8.png",
         "image_generated": false,
         "popularity": 0,
@@ -1470,7 +1525,7 @@
         "why": "An explicitly queer-safe dancefloor with a secret-guest headliner nobody's naming yet.",
         "summary": "Queer-inclusive warehouse rave with a mystery headliner alongside Amsterdam residents Fafi Abdel Nour and ketia; address emailed to ticket holders day-of.",
         "promoter": "",
-        "price": "$21 before midnight / $34-60",
+        "price": "$22-50",
         "tags": [
           "house",
           "queer",
@@ -1491,7 +1546,11 @@
           "lon": -118.242766
         },
         "coords_precise": false,
-        "ra": {},
+        "ra": {
+          "event_id": "2505779",
+          "url": "https://ra.co/events/2505779",
+          "interested": 161
+        },
         "image": "https://images.ra.co/e4e04b9a54aec4a57d30f894a9d35d931ba35600.png",
         "image_generated": false,
         "popularity": 0,
@@ -1523,7 +1582,8 @@
           "https://ra.co/events/2453761"
         ],
         "tickets": [
-          "https://dice.fm/event/mxd97v-planet-x-12th-sep-california-plaza-los-angeles-tickets"
+          "https://dice.fm/event/mxd97v-planet-x-12th-sep-california-plaza-los-angeles-tickets",
+          "https://ra.co/events/2453761"
         ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=340%20S%20Grand%20Ave%2C%20Los%20Angeles%2C%20CA%2090071%2C%20USA",
@@ -1531,7 +1591,11 @@
         },
         "coords": null,
         "coords_precise": false,
-        "ra": {},
+        "ra": {
+          "event_id": "2453761",
+          "url": "https://ra.co/events/2453761",
+          "interested": 29
+        },
         "image": "",
         "image_generated": false,
         "popularity": 0,
@@ -1555,7 +1619,7 @@
         "why": "A $10 door for a full dubstep/riddim bill, cheapest bass night of the week by a wide margin.",
         "summary": "Party Pursuit's Reality Not Found brings a dubstep/riddim/trap lineup to Rockafellas in Corona for a low-cost 21+ night.",
         "promoter": "",
-        "price": "$10",
+        "price": "$10, 21+",
         "tags": [
           "dubstep",
           "riddim",
@@ -1640,13 +1704,13 @@
         "time": "22:00-05:00",
         "start": null,
         "end": null,
-        "area": "North Hollywood/Los Angeles",
-        "venue": "TBA - Community Berlin",
+        "area": "Los Angeles",
+        "venue": "TBA - Community Berlin (11819 Sherman Way, North Hollywood, CA, 91605, USA)",
         "address": "11819 Sherman Way, North Hollywood, CA 91605",
         "why": "One of the few 21+ house nights running a full five hours past midnight this weekend.",
         "summary": "Late-night underground house party at Community Berlin in North Hollywood built around deep, hypnotic grooves through to 5am.",
         "promoter": "",
-        "price": "$30.55-45.20",
+        "price": "$30",
         "tags": [
           "house",
           "underground"
@@ -1663,7 +1727,11 @@
         },
         "coords": null,
         "coords_precise": false,
-        "ra": {},
+        "ra": {
+          "event_id": "2492058",
+          "url": "https://ra.co/events/2492058",
+          "interested": 26
+        },
         "image": "",
         "image_generated": false,
         "popularity": 0,
@@ -1682,12 +1750,12 @@
         "start": null,
         "end": null,
         "area": "Long Beach",
-        "venue": "The Men's Room Bar",
+        "venue": "Men's Room Bar",
         "address": "",
         "why": "A one-off return of a touring queer house party that hasn't played Long Beach in a while.",
         "summary": "STEAM's touring house party pops back up in Long Beach for one night, with DJ Mark Kanemura making his STEAM Long Beach debut at The Men's Room.",
         "promoter": "",
-        "price": "$18-35",
+        "price": "$18-35, 21+",
         "tags": [
           "house",
           "EDM",
@@ -1697,7 +1765,8 @@
           "https://ra.co/events/2498010"
         ],
         "tickets": [
-          "https://ra.co/events/2498010"
+          "https://ra.co/events/2498010",
+          "https://www.eventbrite.com/e/steam-towel-party-long-beach-tickets-1995174650087"
         ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=The%20Men%27s%20Room%20Bar%2C%20Long%20Beach",
@@ -1729,7 +1798,7 @@
         "why": "A full-scale beachfront festival lineup, not just a club night, right on the sand.",
         "summary": "Insomniac's beachfront daytime festival returns to Huntington State Beach with a stacked tech/progressive house lineup led by a Bunt. b2b Kaskade set.",
         "promoter": "",
-        "price": "$120+",
+        "price": "$110+, 18+",
         "tags": [
           "tech house",
           "progressive house",
@@ -1775,7 +1844,7 @@
         "why": "An all-ages hyperpop headline show, a rarer genre booking than the weekend's house/techno glut.",
         "summary": "Hyperpop artist Tiffany Day plays an all-ages headline set at Don Quixote as part of a Goldenvoice-booked run.",
         "promoter": "",
-        "price": "$41+",
+        "price": "$41+, All ages",
         "tags": [
           "hyperpop"
         ],
@@ -1818,7 +1887,7 @@
         "why": "A genuinely international techno bill (Istanbul, LA, Tokyo) at a WORK-caliber warehouse night.",
         "summary": "WORK's warehouse techno series brings Istanbul's Beste Hira together with LA techno mainstay Stephen Disario and veteran Takaaki Itoh for an all-night dark, driving set.",
         "promoter": "",
-        "price": "$25 before midnight / $29-35",
+        "price": "$25-45",
         "tags": [
           "techno"
         ],
@@ -1837,7 +1906,11 @@
           "lon": -118.242766
         },
         "coords_precise": false,
-        "ra": {},
+        "ra": {
+          "event_id": "2499615",
+          "url": "https://ra.co/events/2499615",
+          "interested": 114
+        },
         "image": "https://images.ra.co/57fbadde91c0c60723e114bc28c2991e5043f7e9.png",
         "image_generated": false,
         "popularity": 0,
@@ -1861,12 +1934,14 @@
         "why": "",
         "summary": "",
         "promoter": "",
-        "price": "$20",
+        "price": "$20 pre, 21+",
         "tags": [
           "house"
         ],
         "sources": [],
-        "tickets": [],
+        "tickets": [
+          "https://posh.vip/e/azure-day-party-huntington-beach-2027-1-10-22-30"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=The%20Bungalow%2C%20Huntington%20Beach",
           "apple": "https://maps.apple.com/?q=The%20Bungalow%2C%20Huntington%20Beach"
@@ -1897,14 +1972,16 @@
         "why": "",
         "summary": "",
         "promoter": "",
-        "price": "$46.80-93.55",
+        "price": "$46.80-93.55, 21+",
         "tags": [
           "tech house",
           "progressive house",
           "neo trance"
         ],
         "sources": [],
-        "tickets": [],
+        "tickets": [
+          "https://ra.co/events/2513078"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Strange%20House%2C%20Los%20Angeles",
           "apple": "https://maps.apple.com/?q=Strange%20House%2C%20Los%20Angeles"
@@ -1930,12 +2007,12 @@
         "start": "18:00",
         "end": "00:00",
         "area": "Los Angeles",
-        "venue": "TBA (venue announced day-of)",
+        "venue": "Apotheke",
         "address": "",
         "why": "An all-vinyl open-air Sunday close-out, free before 7pm for the daytime crowd.",
         "summary": "Sunday Sessions LA is a vinyl-only open-air house night with Xica Soul, Gil Tamazyan and Julian, billed as the biggest vinyl-only event in the US.",
         "promoter": "",
-        "price": "Free b4 7pm / $23-34",
+        "price": "$0-35",
         "tags": [
           "tech house",
           "deep house",
@@ -1956,7 +2033,11 @@
         },
         "coords": null,
         "coords_precise": false,
-        "ra": {},
+        "ra": {
+          "event_id": "2514110",
+          "url": "https://ra.co/events/2514110",
+          "interested": 155
+        },
         "image": "",
         "image_generated": false,
         "popularity": 0,
@@ -1980,13 +2061,15 @@
         "why": "",
         "summary": "",
         "promoter": "",
-        "price": "Free",
+        "price": "Free, All ages",
         "tags": [
           "house",
           "disco"
         ],
         "sources": [],
-        "tickets": [],
+        "tickets": [
+          "https://www.facebook.com/events/25223424614021436/"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Rosie%27s%20Dog%20Beach%2C%20Long%20Beach/Los%20Angeles",
           "apple": "https://maps.apple.com/?q=Rosie%27s%20Dog%20Beach%2C%20Long%20Beach/Los%20Angeles"
@@ -1995,6 +2078,4398 @@
         "coords_precise": false,
         "ra": {},
         "image": "https://party-scout.app/img/gen/tech-me-2-da-beach-decom-5b74.jpg",
+        "image_generated": true,
+        "popularity": 0,
+        "enriched": 1,
+        "active": true
+      },
+      {
+        "id": "2026-09-07-music-abba-night-1fa918",
+        "eid": "abba-night-84e2",
+        "track": "music",
+        "category": "",
+        "name": "Abba Night",
+        "day": "Fri",
+        "date": "2026-09-11",
+        "time": "",
+        "start": null,
+        "end": null,
+        "area": "Los Angeles",
+        "venue": "Boardner's By La Belle",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "$18.91-29.57, 21+",
+        "tags": [],
+        "sources": [],
+        "tickets": [
+          "https://www.eventbrite.com/e/abba-night-tickets-1993591958213"
+        ],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=Boardner%27s%20By%20La%20Belle%2C%20Los%20Angeles",
+          "apple": "https://maps.apple.com/?q=Boardner%27s%20By%20La%20Belle%2C%20Los%20Angeles"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "https://party-scout.app/img/gen/abba-night-84e2.jpg",
+        "image_generated": true,
+        "popularity": 0,
+        "enriched": 1,
+        "active": true
+      },
+      {
+        "id": "2026-09-07-music-b-l-w-by-ykw-feat-aiden-ramos-24b644",
+        "eid": "b-l-w-by-ykw-feat-aiden-6447",
+        "track": "music",
+        "category": "House",
+        "name": "B.LØW by YKW feat. Aiden Ramos",
+        "day": "Fri",
+        "date": "2026-09-11",
+        "time": "21:00–02:00",
+        "start": null,
+        "end": null,
+        "area": "Los Angeles",
+        "venue": "Bar Franca",
+        "address": "438 S Main St, Los Angeles, CA 90013",
+        "why": "Free entry at an intimate DTLA bar, a low-commitment way to catch two local selectors.",
+        "summary": "YKW's B.LOW night welcomes Aiden Ramos and Enzo Muro to Bar Franca for a free DTLA bar set.",
+        "promoter": "",
+        "price": "Free",
+        "tags": [
+          "house",
+          "free"
+        ],
+        "sources": [
+          "https://ra.co/events/2527959"
+        ],
+        "tickets": [
+          "https://ra.co/events/2527959"
+        ],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=438%20S%20Main%20St%2C%20Los%20Angeles%2C%20CA%2090013",
+          "apple": "https://maps.apple.com/?q=438%20S%20Main%20St%2C%20Los%20Angeles%2C%20CA%2090013"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {
+          "event_id": "2527959",
+          "url": "https://ra.co/events/2527959",
+          "interested": 11
+        },
+        "image": "https://images.ra.co/1302caedee7eeb20b3453e3d21ae34336d31d2f6.jpg",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 1,
+        "active": true
+      },
+      {
+        "id": "2026-09-07-music-b-low-feat-aiden-ramos-enzo-mu-7eef39",
+        "eid": "b-low-feat-aiden-ramos-e-0fa0",
+        "track": "music",
+        "category": "House",
+        "name": "B.Low Feat. Aiden Ramos, Enzo Muro",
+        "day": "Fri",
+        "date": "2026-09-11",
+        "time": "21:00–02:00",
+        "start": null,
+        "end": null,
+        "area": "Los Angeles",
+        "venue": "Bar Franca",
+        "address": "438 S Main St, Los Angeles, CA 90013",
+        "why": "Free entry at an intimate DTLA bar, a low-commitment way to catch two local selectors.",
+        "summary": "YKW's B.LOW night welcomes Aiden Ramos and Enzo Muro to Bar Franca for a free DTLA bar set.",
+        "promoter": "",
+        "price": "Free",
+        "tags": [
+          "house",
+          "free"
+        ],
+        "sources": [
+          "https://ra.co/events/2527959"
+        ],
+        "tickets": [
+          "https://ra.co/events/2527959"
+        ],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=Bar%20Franca%2C%20Los%20Angeles",
+          "apple": "https://maps.apple.com/?q=Bar%20Franca%2C%20Los%20Angeles"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "https://images.ra.co/1302caedee7eeb20b3453e3d21ae34336d31d2f6.jpg",
+        "image_generated": true,
+        "popularity": 0,
+        "enriched": 2,
+        "active": true
+      },
+      {
+        "id": "2026-09-07-music-blade-rave-3af7ec",
+        "eid": "blade-rave-520c",
+        "track": "music",
+        "category": "",
+        "name": "Blade Rave",
+        "day": "Fri",
+        "date": "2026-09-11",
+        "time": "",
+        "start": null,
+        "end": null,
+        "area": "Huntington Beach",
+        "venue": "The Circle OC",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "$17+, 21+",
+        "tags": [],
+        "sources": [],
+        "tickets": [
+          "https://dice.fm/event/v3xemd-blade-rave-11th-sep-the-circle-oc-los-angeles-tickets"
+        ],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=The%20Circle%20OC%2C%20Huntington%20Beach",
+          "apple": "https://maps.apple.com/?q=The%20Circle%20OC%2C%20Huntington%20Beach"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "https://party-scout.app/img/gen/blade-rave-520c.jpg",
+        "image_generated": true,
+        "popularity": 0,
+        "enriched": 1,
+        "active": true
+      },
+      {
+        "id": "2026-09-07-music-chrome-nights-techno-tupac-ste-ff1699",
+        "eid": "chrome-nights-techno-tup-7488",
+        "track": "music",
+        "category": "",
+        "name": "Chrome Nights: Techno Tupac, Steady Rock, Red Flag, Solitaire, Loomi",
+        "day": "Fri",
+        "date": "2026-09-11",
+        "time": "",
+        "start": null,
+        "end": null,
+        "area": "Los Angeles",
+        "venue": "District 7",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "Free w/rsvp b4 11:30pm / $10",
+        "tags": [],
+        "sources": [],
+        "tickets": [
+          "https://pear.us/chrome-nights/post/chrome-nights"
+        ],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=District%207%2C%20Los%20Angeles",
+          "apple": "https://maps.apple.com/?q=District%207%2C%20Los%20Angeles"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "https://party-scout.app/img/gen/chrome-nights-techno-tup-7488.jpg",
+        "image_generated": true,
+        "popularity": 0,
+        "enriched": 1,
+        "active": true
+      },
+      {
+        "id": "2026-09-07-music-club-venus-bjork-dance-party-a1dd47",
+        "eid": "club-venus-bjork-dance-p-6054",
+        "track": "music",
+        "category": "",
+        "name": "Club Venus: Bjork Dance Party",
+        "day": "Fri",
+        "date": "2026-09-11",
+        "time": "",
+        "start": null,
+        "end": null,
+        "area": "Los Angeles",
+        "venue": "Boardner's By La Belle",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "$18.91-29.57, 21+",
+        "tags": [],
+        "sources": [],
+        "tickets": [
+          "https://www.eventbrite.com/e/club-venus-bjork-dance-party-tickets-1993501899846"
+        ],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=Boardner%27s%20By%20La%20Belle%2C%20Los%20Angeles",
+          "apple": "https://maps.apple.com/?q=Boardner%27s%20By%20La%20Belle%2C%20Los%20Angeles"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "https://party-scout.app/img/gen/club-venus-bjork-dance-p-6054.jpg",
+        "image_generated": true,
+        "popularity": 0,
+        "enriched": 1,
+        "active": true
+      },
+      {
+        "id": "2026-09-07-music-cold-cave-performing-cremation-6e7ced",
+        "eid": "cold-cave-performing-cre-7ec3",
+        "track": "music",
+        "category": "Goth/Darkwave",
+        "name": "Cold Cave Performing Cremations w/ Rosa Anschutz",
+        "day": "Fri",
+        "date": "2026-09-11",
+        "time": "8:00pm-11:00pm",
+        "start": null,
+        "end": null,
+        "area": "Los Angeles",
+        "venue": "The Masonic Lodge at Hollywood Forever",
+        "address": "6000 Santa Monica Blvd, Los Angeles, CA 90038",
+        "why": "A full-album performance from a marquee darkwave act in the Masonic Lodge's small (~200-cap) room - an intimate way to see them.",
+        "summary": "Cold Cave performs their album Cremations in full at the Masonic Lodge at Hollywood Forever, with support from Rosa Anschutz.",
+        "promoter": "",
+        "price": "All ages",
+        "tags": [
+          "goth",
+          "darkwave",
+          "live"
+        ],
+        "sources": [
+          "https://hollywoodforever.com/event/cold-cave-performing-cremations-with-rosa-anschutz/",
+          "https://www.facebook.com/events/1302784324547522/"
+        ],
+        "tickets": [
+          "https://hollywoodforever.com/event/cold-cave-performing-cremations-with-rosa-anschutz/"
+        ],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=6000%20Santa%20Monica%20Blvd%2C%20Los%20Angeles%2C%20CA%2090038",
+          "apple": "https://maps.apple.com/?q=6000%20Santa%20Monica%20Blvd%2C%20Los%20Angeles%2C%20CA%2090038"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 1,
+        "active": true
+      },
+      {
+        "id": "2026-09-07-music-d-dan-6f2fce",
+        "eid": "d-dan-7f16",
+        "track": "music",
+        "category": "",
+        "name": "D.Dan",
+        "day": "Fri",
+        "date": "2026-09-11",
+        "time": "",
+        "start": null,
+        "end": null,
+        "area": "Los Angeles",
+        "venue": "",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "$30 b4 12 / $35-42, 21+",
+        "tags": [],
+        "sources": [],
+        "tickets": [
+          "https://ra.co/events/2494139"
+        ],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=Los%20Angeles",
+          "apple": "https://maps.apple.com/?q=Los%20Angeles"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-09-07-music-da-tweekaz-ffe3e1",
+        "eid": "da-tweekaz-e559",
+        "track": "music",
+        "category": "",
+        "name": "Da Tweekaz",
+        "day": "Fri",
+        "date": "2026-09-11",
+        "time": "",
+        "start": null,
+        "end": null,
+        "area": "Santa Ana",
+        "venue": "The Observatory",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "$38+, 18+",
+        "tags": [],
+        "sources": [],
+        "tickets": [
+          "https://www.ticketmaster.com/event/090064BAFA531124"
+        ],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=The%20Observatory%2C%20Santa%20Ana",
+          "apple": "https://maps.apple.com/?q=The%20Observatory%2C%20Santa%20Ana"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-09-07-music-deborah-de-luca-anne-futagami-c06f33",
+        "eid": "deborah-de-luca-anne-fut-4c67",
+        "track": "music",
+        "category": "",
+        "name": "Deborah De Luca, Anne Futagami, Knox",
+        "day": "Fri",
+        "date": "2026-09-11",
+        "time": "",
+        "start": null,
+        "end": null,
+        "area": "Los Angeles",
+        "venue": "Exchange",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "$41-110, 21+",
+        "tags": [],
+        "sources": [],
+        "tickets": [
+          "https://www.tixr.com/groups/exchangela/events/deborah-de-luca-201441"
+        ],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=Exchange%2C%20Los%20Angeles",
+          "apple": "https://maps.apple.com/?q=Exchange%2C%20Los%20Angeles"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-09-07-music-dj-dae-duvbshock-max-rush-mama-75f699",
+        "eid": "dj-dae-duvbshock-max-rus-571a",
+        "track": "music",
+        "category": "",
+        "name": "DJ Dae, Duvbshock, Max Rush, Mama J",
+        "day": "Fri",
+        "date": "2026-09-11",
+        "time": "",
+        "start": null,
+        "end": null,
+        "area": "Los Angeles",
+        "venue": "Dusty Vinyl",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "Free, 21+",
+        "tags": [],
+        "sources": [],
+        "tickets": [
+          "https://www.eventbrite.com/e/dusty-vinyl-bar-sept-11th-tickets-1999736668206"
+        ],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=Dusty%20Vinyl%2C%20Los%20Angeles",
+          "apple": "https://maps.apple.com/?q=Dusty%20Vinyl%2C%20Los%20Angeles"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-09-07-music-electric-ave-64cbdd",
+        "eid": "electric-ave-f7aa",
+        "track": "music",
+        "category": "",
+        "name": "Electric Ave",
+        "day": "Fri",
+        "date": "2026-09-11",
+        "time": "",
+        "start": null,
+        "end": null,
+        "area": "Los Angeles",
+        "venue": "Los Globos",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "21+",
+        "tags": [],
+        "sources": [],
+        "tickets": [
+          "https://www.facebook.com/events/1439995701302013/"
+        ],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=Los%20Globos%2C%20Los%20Angeles",
+          "apple": "https://maps.apple.com/?q=Los%20Globos%2C%20Los%20Angeles"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-09-07-music-fireworks-finale-onerepublic-e868f7",
+        "eid": "fireworks-finale-onerepu-3ba7",
+        "track": "music",
+        "category": "Pop",
+        "name": "Fireworks Finale: OneRepublic",
+        "day": "Fri",
+        "date": "2026-09-11",
+        "time": "8:00pm",
+        "start": null,
+        "end": null,
+        "area": "Los Angeles",
+        "venue": "Hollywood Bowl",
+        "address": "2301 N Highland Ave, Los Angeles, CA 90068",
+        "why": "An arena-scale marquee headliner in the Bowl's outdoor amphitheatre with a fireworks finale, not a club show.",
+        "summary": "OneRepublic headlines the Hollywood Bowl's season-closing Fireworks Finale on its opening night, backed by a fireworks show after the set.",
+        "promoter": "",
+        "price": "$27+",
+        "tags": [
+          "pop",
+          "fireworks",
+          "outdoor"
+        ],
+        "sources": [
+          "https://www.hollywoodbowl.com/events/performances"
+        ],
+        "tickets": [
+          "https://www.hollywoodbowl.com/events/performances"
+        ],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=2301%20N%20Highland%20Ave%2C%20Los%20Angeles%2C%20CA%2090068",
+          "apple": "https://maps.apple.com/?q=2301%20N%20Highland%20Ave%2C%20Los%20Angeles%2C%20CA%2090068"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 1,
+        "active": true
+      },
+      {
+        "id": "2026-09-07-music-flores-negras-vein-jaq-xs-vile-6004c9",
+        "eid": "flores-negras-vein-jaq-x-e6ba",
+        "track": "music",
+        "category": "",
+        "name": "Flores Negras, Vein, Jaq.xs, Vilena, Xyky, Vyper",
+        "day": "Fri",
+        "date": "2026-09-11",
+        "time": "",
+        "start": null,
+        "end": null,
+        "area": "Los Angeles",
+        "venue": "",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "$10-20",
+        "tags": [],
+        "sources": [],
+        "tickets": [
+          "https://posh.vip/e/lickndip-flores-negras-911"
+        ],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=Los%20Angeles",
+          "apple": "https://maps.apple.com/?q=Los%20Angeles"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-09-07-music-freaks-only-travis-holcombe-sc-9c7b85",
+        "eid": "freaks-only-travis-holco-3a4a",
+        "track": "music",
+        "category": "",
+        "name": "Freaks Only: Travis Holcombe, Scott Tillett",
+        "day": "Fri",
+        "date": "2026-09-11",
+        "time": "",
+        "start": null,
+        "end": null,
+        "area": "Los Angeles",
+        "venue": "Club Tee Gee",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "Free, 21+",
+        "tags": [],
+        "sources": [],
+        "tickets": [
+          "https://ra.co/events/2532636"
+        ],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=Club%20Tee%20Gee%2C%20Los%20Angeles",
+          "apple": "https://maps.apple.com/?q=Club%20Tee%20Gee%2C%20Los%20Angeles"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-09-07-music-freaks-only-35d192",
+        "eid": "freaks-only-2e6c",
+        "track": "music",
+        "category": "Disco",
+        "name": "FREAKS ONLY",
+        "day": "Fri",
+        "date": "2026-09-11",
+        "time": "22:00–02:00",
+        "start": null,
+        "end": null,
+        "area": "Los Angeles",
+        "venue": "Club Tee Gee",
+        "address": "3210 Glendale Blvd, Los Angeles, CA 90039",
+        "why": "No cover, no list, no RSVP - a genuinely walk-in-friendly neighborhood night in Atwater Village.",
+        "summary": "Freaks Only returns to Club Tee Gee in Atwater Village with resident Travis Holcombe and We Own The Night co-founder Scott Tillett spinning disco, post-punk, Italo and house.",
+        "promoter": "",
+        "price": "Free",
+        "tags": [
+          "disco",
+          "post-punk",
+          "italo",
+          "free"
+        ],
+        "sources": [
+          "https://ra.co/events/2532636"
+        ],
+        "tickets": [
+          "https://ra.co/events/2532636"
+        ],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=3210%20Glendale%20Blvd%2C%20Los%20Angeles%2C%20CA%2090039",
+          "apple": "https://maps.apple.com/?q=3210%20Glendale%20Blvd%2C%20Los%20Angeles%2C%20CA%2090039"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {
+          "event_id": "2532636",
+          "url": "https://ra.co/events/2532636",
+          "interested": 5
+        },
+        "image": "https://images.ra.co/dcea56a013799b5d9908d770774fd0062d29b526.jpg",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 1,
+        "active": true
+      },
+      {
+        "id": "2026-09-07-music-grace-bones-presents-house-of-8e45e0",
+        "eid": "grace-bones-presents-hou-8aca",
+        "track": "music",
+        "category": "",
+        "name": "Grace Bones presents House of Chic",
+        "day": "Fri",
+        "date": "2026-09-11",
+        "time": "",
+        "start": null,
+        "end": null,
+        "area": "Los Angeles",
+        "venue": "TBA -  Select Fm London",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "Free",
+        "tags": [],
+        "sources": [],
+        "tickets": [
+          "https://ra.co/events/2530072"
+        ],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=Los%20Angeles",
+          "apple": "https://maps.apple.com/?q=Los%20Angeles"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {
+          "event_id": "2530072",
+          "url": "https://ra.co/events/2530072",
+          "interested": 0
+        },
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-09-07-music-heav3n-5363c2",
+        "eid": "heav3n-7b38",
+        "track": "music",
+        "category": "",
+        "name": "Heav3n",
+        "day": "Fri",
+        "date": "2026-09-11",
+        "time": "",
+        "start": null,
+        "end": null,
+        "area": "Los Angeles",
+        "venue": "Dave & Buster's Hollywood",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "$15-40, 21+",
+        "tags": [],
+        "sources": [],
+        "tickets": [
+          "https://www.eventbrite.com/e/heav3n-x-dave-busters-rave-tickets-1999110488285"
+        ],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=Dave%20%26%20Buster%27s%20Hollywood%2C%20Los%20Angeles",
+          "apple": "https://maps.apple.com/?q=Dave%20%26%20Buster%27s%20Hollywood%2C%20Los%20Angeles"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-09-07-music-juptr-x-recollect-at-dusty-vin-9e8e18",
+        "eid": "juptr-x-recollect-at-dus-4509",
+        "track": "music",
+        "category": "",
+        "name": "JUPTR X RECOLLECT AT Dusty Vinyl BAR",
+        "day": "Fri",
+        "date": "2026-09-11",
+        "time": "",
+        "start": null,
+        "end": null,
+        "area": "Los Angeles",
+        "venue": "Dusty Vinyl",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "$10",
+        "tags": [],
+        "sources": [],
+        "tickets": [
+          "https://ra.co/events/2529867"
+        ],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=Dusty%20Vinyl%2C%20Los%20Angeles",
+          "apple": "https://maps.apple.com/?q=Dusty%20Vinyl%2C%20Los%20Angeles"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {
+          "event_id": "2529867",
+          "url": "https://ra.co/events/2529867",
+          "interested": 0
+        },
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-09-07-music-kana-hishiya-and-midnite-mary-55726a",
+        "eid": "kana-hishiya-and-midnite-cd0b",
+        "track": "music",
+        "category": "",
+        "name": "Kana Hishiya and Midnite Mary",
+        "day": "Fri",
+        "date": "2026-09-11",
+        "time": "",
+        "start": null,
+        "end": null,
+        "area": "Los Angeles",
+        "venue": "Apotheke",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "Free, 21+",
+        "tags": [],
+        "sources": [],
+        "tickets": [
+          "https://ra.co/events/2523846"
+        ],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=Apotheke%2C%20Los%20Angeles",
+          "apple": "https://maps.apple.com/?q=Apotheke%2C%20Los%20Angeles"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-09-07-music-karaba-kmni-8a248f",
+        "eid": "karaba-kmni-d320",
+        "track": "music",
+        "category": "",
+        "name": "Karaba, Kmni",
+        "day": "Fri",
+        "date": "2026-09-11",
+        "time": "",
+        "start": null,
+        "end": null,
+        "area": "Los Angeles",
+        "venue": "The Spotlight",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "$25+, 21+",
+        "tags": [],
+        "sources": [],
+        "tickets": [
+          "https://dice.fm/event/q2qkvp-karaba-11th-sep-the-spotlight-los-angeles-tickets"
+        ],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=The%20Spotlight%2C%20Los%20Angeles",
+          "apple": "https://maps.apple.com/?q=The%20Spotlight%2C%20Los%20Angeles"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-09-07-music-the-last-bu-tea-call-friday-f1f062",
+        "eid": "the-last-bu-tea-call-fri-2112",
+        "track": "music",
+        "category": "Speakeasy",
+        "name": "The Last Bu Tea Call Friday",
+        "day": "Fri",
+        "date": "2026-09-11",
+        "time": "20:30–03:00",
+        "start": null,
+        "end": null,
+        "area": "Los Angeles",
+        "venue": "Bu Tea Den",
+        "address": "2715 S Main St, Los Angeles, CA 90007",
+        "why": "An intimate 30-cap speakeasy closing out its run - a one-time-only last call, not a recurring night.",
+        "summary": "The last Friday of this DTLA warehouse tea speakeasy and art lounge, home to fortune-telling machines, capped at 30 people.",
+        "promoter": "",
+        "price": "$10",
+        "tags": [
+          "speakeasy",
+          "intimate"
+        ],
+        "sources": [
+          "https://ra.co/events/2528111"
+        ],
+        "tickets": [
+          "https://buteaden.com/buteacall",
+          "https://ra.co/events/2528111"
+        ],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=2715%20S%20Main%20St%2C%20Los%20Angeles%2C%20CA%2090007",
+          "apple": "https://maps.apple.com/?q=2715%20S%20Main%20St%2C%20Los%20Angeles%2C%20CA%2090007"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {
+          "event_id": "2528111",
+          "url": "https://ra.co/events/2528111",
+          "interested": 3
+        },
+        "image": "https://images.ra.co/c955c5a0d3dab8c85b771b50a42428bf48089416.png",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 2,
+        "active": true
+      },
+      {
+        "id": "2026-09-07-music-lohrasp-kansara-ccbeb8",
+        "eid": "lohrasp-kansara-4e98",
+        "track": "music",
+        "category": "",
+        "name": "Lohrasp Kansara",
+        "day": "Fri",
+        "date": "2026-09-11",
+        "time": "",
+        "start": null,
+        "end": null,
+        "area": "Los Angeles",
+        "venue": "Members",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "21+",
+        "tags": [],
+        "sources": [],
+        "tickets": [
+          "https://shotgun.live/en/events/members-presents-lohrasp-kansara"
+        ],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=Members%2C%20Los%20Angeles",
+          "apple": "https://maps.apple.com/?q=Members%2C%20Los%20Angeles"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-09-07-music-luke-noize-968376",
+        "eid": "luke-noize-82fc",
+        "track": "music",
+        "category": "",
+        "name": "Luke Noize",
+        "day": "Fri",
+        "date": "2026-09-11",
+        "time": "",
+        "start": null,
+        "end": null,
+        "area": "Los Angeles",
+        "venue": "",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "$21+",
+        "tags": [],
+        "sources": [],
+        "tickets": [
+          "https://posh.vip/e/sxtcy-presents-luke-noize"
+        ],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=Los%20Angeles",
+          "apple": "https://maps.apple.com/?q=Los%20Angeles"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-09-07-music-massimiliano-pagliara-masha-ma-248796",
+        "eid": "massimiliano-pagliara-ma-3ac8",
+        "track": "music",
+        "category": "",
+        "name": "Massimiliano Pagliara, Masha Mar, James Axon - Open Air",
+        "day": "Fri",
+        "date": "2026-09-11",
+        "time": "",
+        "start": null,
+        "end": null,
+        "area": "Los Angeles",
+        "venue": "",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "$29 pre / $39-45, 21+",
+        "tags": [],
+        "sources": [],
+        "tickets": [
+          "https://shotgun.live/en/events/midnight-lovers-with-massimiliano-pagliara"
+        ],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=Los%20Angeles",
+          "apple": "https://maps.apple.com/?q=Los%20Angeles"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-09-07-music-mat-zo-ddc1ea",
+        "eid": "mat-zo-e54b",
+        "track": "music",
+        "category": "",
+        "name": "Mat Zo",
+        "day": "Fri",
+        "date": "2026-09-11",
+        "time": "",
+        "start": null,
+        "end": null,
+        "area": "Los Angeles",
+        "venue": "Dirt Dog Compound",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "$15-30, 18+",
+        "tags": [],
+        "sources": [],
+        "tickets": [
+          "https://Matzolive.eventbrite.com/"
+        ],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=Dirt%20Dog%20Compound%2C%20Los%20Angeles",
+          "apple": "https://maps.apple.com/?q=Dirt%20Dog%20Compound%2C%20Los%20Angeles"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-09-07-music-microdose-sun-soaked-pre-party-7ada45",
+        "eid": "microdose-sun-soaked-pre-d31a",
+        "track": "music",
+        "category": "",
+        "name": "Microdose: Sun Soaked Pre-Party (Unoffficial)",
+        "day": "Fri",
+        "date": "2026-09-11",
+        "time": "",
+        "start": null,
+        "end": null,
+        "area": "Costa Mesa",
+        "venue": "Kitsch Bar",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "21+",
+        "tags": [],
+        "sources": [],
+        "tickets": [
+          "https://posh.vip/e/microdose-sunsoaked-preparty-unoffficial"
+        ],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=Kitsch%20Bar%2C%20Costa%20Mesa",
+          "apple": "https://maps.apple.com/?q=Kitsch%20Bar%2C%20Costa%20Mesa"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-09-07-music-mina-ae0e40",
+        "eid": "mina-2c32",
+        "track": "music",
+        "category": "",
+        "name": "Mina",
+        "day": "Fri",
+        "date": "2026-09-11",
+        "time": "",
+        "start": null,
+        "end": null,
+        "area": "Los Angeles",
+        "venue": "The Regent Theater",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "$35-49, 18+",
+        "tags": [],
+        "sources": [],
+        "tickets": [
+          "https://www.ticketmaster.com/event/090064E6FC72A8BD"
+        ],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=The%20Regent%20Theater%2C%20Los%20Angeles",
+          "apple": "https://maps.apple.com/?q=The%20Regent%20Theater%2C%20Los%20Angeles"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-09-07-music-nightshift-after-hours-908fe9",
+        "eid": "nightshift-after-hours-e90d",
+        "track": "music",
+        "category": "House",
+        "name": "Nightshift After Hours",
+        "day": "Fri",
+        "date": "2026-09-11",
+        "time": "23:00–05:00",
+        "start": null,
+        "end": null,
+        "area": "Los Angeles",
+        "venue": "The Lexington",
+        "address": "129 E. 3rd St, Los Angeles, CA 90013",
+        "why": "Free before 1am and open every night of the week for a late finish.",
+        "summary": "A free-entry DTLA speakeasy after-hours party through a hidden alley entrance, running underground house music seven nights a week.",
+        "promoter": "",
+        "price": "Free w/rsvp b4 1 / $23, 21+",
+        "tags": [
+          "house",
+          "afterhours",
+          "speakeasy",
+          "free"
+        ],
+        "sources": [
+          "https://ra.co/events/2530578"
+        ],
+        "tickets": [
+          "https://ra.co/events/2530578"
+        ],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=129%20E.%203rd%20St%2C%20Los%20Angeles%2C%20CA%2090013",
+          "apple": "https://maps.apple.com/?q=129%20E.%203rd%20St%2C%20Los%20Angeles%2C%20CA%2090013"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "https://images.ra.co/fe1904e42b438dd30c3981f5c4983649bd3c73e2.jpg",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 1,
+        "active": true
+      },
+      {
+        "id": "2026-09-07-music-nimda-x-prosecute-x-yvm3-d06e87",
+        "eid": "nimda-x-prosecute-x-yvm3-ef09",
+        "track": "music",
+        "category": "",
+        "name": "Nimda X Prosecute X Yvm3",
+        "day": "Fri",
+        "date": "2026-09-11",
+        "time": "",
+        "start": null,
+        "end": null,
+        "area": "Los Angeles",
+        "venue": "Avalon Hollywood",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "$19.95, 21+",
+        "tags": [],
+        "sources": [],
+        "tickets": [
+          "https://www.ticketweb.com/event/id/15034163"
+        ],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=Avalon%20Hollywood%2C%20Los%20Angeles",
+          "apple": "https://maps.apple.com/?q=Avalon%20Hollywood%2C%20Los%20Angeles"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-09-07-music-one-for-nepal-captain-planet-j-2fabed",
+        "eid": "one-for-nepal-captain-pl-c93b",
+        "track": "music",
+        "category": "",
+        "name": "One For Nepal - Captain Planet, Jeremy Sole, Rob Garz, Phatrick, Puffs, Ethos",
+        "day": "Fri",
+        "date": "2026-09-11",
+        "time": "",
+        "start": null,
+        "end": null,
+        "area": "Los Angeles",
+        "venue": "The Airliner",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "$17.25, 21+",
+        "tags": [],
+        "sources": [],
+        "tickets": [
+          "https://ra.co/events/2529047"
+        ],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=The%20Airliner%2C%20Los%20Angeles",
+          "apple": "https://maps.apple.com/?q=The%20Airliner%2C%20Los%20Angeles"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-09-07-music-pulp-evolution-rave-art-galler-1f8ea3",
+        "eid": "pulp-evolution-rave-art-316d",
+        "track": "music",
+        "category": "Rave",
+        "name": "PULP: EVOLUTION (RAVE + ART GALLERY)",
+        "day": "Fri",
+        "date": "2026-09-11",
+        "time": "22:00–05:00",
+        "start": null,
+        "end": null,
+        "area": "Los Angeles",
+        "venue": "TBA - DTLA",
+        "address": "",
+        "why": "Combines a real gallery show with an all-night rave, so it's more than a straight club night.",
+        "summary": "An 18+ rave combined with a friends' art gallery show at a DTLA secret location, themed around evolution in both the music and the art on display.",
+        "promoter": "",
+        "price": "$20",
+        "tags": [
+          "rave",
+          "art",
+          "warehouse"
+        ],
+        "sources": [
+          "https://ra.co/events/2522289"
+        ],
+        "tickets": [
+          "https://partiful.com/e/FQIEUsye8uoCTjqVqACk?c=CJH6wk3N",
+          "https://ra.co/events/2522289"
+        ],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=Los%20Angeles",
+          "apple": "https://maps.apple.com/?q=Los%20Angeles"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {
+          "event_id": "2522289",
+          "url": "https://ra.co/events/2522289",
+          "interested": 6
+        },
+        "image": "https://images.ra.co/222d1052823482c3b7ff4116313e278a7d111b35.png",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 2,
+        "active": true
+      },
+      {
+        "id": "2026-09-07-music-rave-haven-2-year-anniversary-b643ab",
+        "eid": "rave-haven-2-year-annive-1204",
+        "track": "music",
+        "category": "",
+        "name": "Rave Haven 2 Year Anniversary",
+        "day": "Fri",
+        "date": "2026-09-11",
+        "time": "",
+        "start": null,
+        "end": null,
+        "area": "DTLA/Los Angeles",
+        "venue": "",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "$7.50+, 21+",
+        "tags": [],
+        "sources": [],
+        "tickets": [
+          "https://posh.vip/e/2-year-anniversary-4"
+        ],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=DTLA/Los%20Angeles",
+          "apple": "https://maps.apple.com/?q=DTLA/Los%20Angeles"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-09-07-music-reverberation-radio-dj-night-b5be5b",
+        "eid": "reverberation-radio-dj-n-9434",
+        "track": "music",
+        "category": "",
+        "name": "Reverberation Radio DJ Night",
+        "day": "Fri",
+        "date": "2026-09-11",
+        "time": "",
+        "start": null,
+        "end": null,
+        "area": "Los Angeles",
+        "venue": "Zebulon",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "Free, 21+",
+        "tags": [],
+        "sources": [],
+        "tickets": [
+          "https://dice.fm/event/6a5e95235c1071000173359d"
+        ],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=Zebulon%2C%20Los%20Angeles",
+          "apple": "https://maps.apple.com/?q=Zebulon%2C%20Los%20Angeles"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-09-07-music-road-to-otg-ft-justin-martin-eee104",
+        "eid": "road-to-otg-ft-justin-ma-27a2",
+        "track": "music",
+        "category": "",
+        "name": "Road To Otg Ft. Justin Martin",
+        "day": "Fri",
+        "date": "2026-09-11",
+        "time": "",
+        "start": null,
+        "end": null,
+        "area": "Santa Ana",
+        "venue": "True Hq",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "$17-25+, 21+",
+        "tags": [],
+        "sources": [],
+        "tickets": [
+          "https://shotgun.live/en/events/road-to-otg-ft-justin-martin"
+        ],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=True%20Hq%2C%20Santa%20Ana",
+          "apple": "https://maps.apple.com/?q=True%20Hq%2C%20Santa%20Ana"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-09-07-music-rush-146f56",
+        "eid": "rush-178a",
+        "track": "music",
+        "category": "",
+        "name": "Rush",
+        "day": "Fri",
+        "date": "2026-09-11",
+        "time": "",
+        "start": null,
+        "end": null,
+        "area": "Inland Empire",
+        "venue": "",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "$13+, 18+",
+        "tags": [],
+        "sources": [],
+        "tickets": [
+          "https://posh.vip/e/rush-43?t=ig"
+        ],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=Inland%20Empire",
+          "apple": "https://maps.apple.com/?q=Inland%20Empire"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-09-07-music-san-holo-5aa85a",
+        "eid": "san-holo-f21c",
+        "track": "music",
+        "category": "",
+        "name": "San Holo",
+        "day": "Fri",
+        "date": "2026-09-11",
+        "time": "",
+        "start": null,
+        "end": null,
+        "area": "Los Angeles",
+        "venue": "Hollywood Palladium",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "$59-103, 18+",
+        "tags": [],
+        "sources": [],
+        "tickets": [
+          "https://www.ticketmaster.com/event/0900647EA88187AD"
+        ],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=Hollywood%20Palladium%2C%20Los%20Angeles",
+          "apple": "https://maps.apple.com/?q=Hollywood%20Palladium%2C%20Los%20Angeles"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-09-07-music-sexbeat-la-a-high-energy-goth-ccdc7e",
+        "eid": "sexbeat-la-a-high-energy-3b67",
+        "track": "music",
+        "category": "",
+        "name": "Sexbeat LA: A High Energy Goth Club",
+        "day": "Fri",
+        "date": "2026-09-11",
+        "time": "",
+        "start": null,
+        "end": null,
+        "area": "Los Angeles",
+        "venue": "Knucklehead Hollywood",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "$18, 21+",
+        "tags": [],
+        "sources": [],
+        "tickets": [
+          "https://tickets.venuepilot.com/e/sexbeat-la-a-high-energy-goth-club-2026-09-11-knucklehead-hollywood-los-angeles-bd8d82"
+        ],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=Knucklehead%20Hollywood%2C%20Los%20Angeles",
+          "apple": "https://maps.apple.com/?q=Knucklehead%20Hollywood%2C%20Los%20Angeles"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-09-07-music-silva-bumpa-98e7a0",
+        "eid": "silva-bumpa-9f75",
+        "track": "music",
+        "category": "",
+        "name": "Silva Bumpa",
+        "day": "Fri",
+        "date": "2026-09-11",
+        "time": "",
+        "start": null,
+        "end": null,
+        "area": "Los Angeles",
+        "venue": "Sound Nightclub",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "$40 pre, 21+",
+        "tags": [],
+        "sources": [],
+        "tickets": [
+          "https://dice.fm/event/eox3rw-silva-bumpa-11th-sep-sound-nightclub-los-angeles-tickets"
+        ],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=Sound%20Nightclub%2C%20Los%20Angeles",
+          "apple": "https://maps.apple.com/?q=Sound%20Nightclub%2C%20Los%20Angeles"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-09-07-music-soft-vein-79eb8a",
+        "eid": "soft-vein-3679",
+        "track": "music",
+        "category": "",
+        "name": "Soft Vein",
+        "day": "Fri",
+        "date": "2026-09-11",
+        "time": "",
+        "start": null,
+        "end": null,
+        "area": "Los Angeles",
+        "venue": "Zebulon",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "$26.78, 21+",
+        "tags": [],
+        "sources": [],
+        "tickets": [
+          "https://dice.fm/event/69fa456d87a4f000018aa230"
+        ],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=Zebulon%2C%20Los%20Angeles",
+          "apple": "https://maps.apple.com/?q=Zebulon%2C%20Los%20Angeles"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-09-07-music-thievery-corporation-cb9753",
+        "eid": "thievery-corporation-5c63",
+        "track": "music",
+        "category": "",
+        "name": "Thievery Corporation",
+        "day": "Fri",
+        "date": "2026-09-11",
+        "time": "",
+        "start": null,
+        "end": null,
+        "area": "Inglewood/Los Angeles",
+        "venue": "Youtube Theater",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "$43+",
+        "tags": [],
+        "sources": [],
+        "tickets": [
+          "https://www.ticketmaster.com/event/0A0064A8D42CCFE8"
+        ],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=Youtube%20Theater%2C%20Inglewood/Los%20Angeles",
+          "apple": "https://maps.apple.com/?q=Youtube%20Theater%2C%20Inglewood/Los%20Angeles"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-09-07-music-w-a-s-p-1984-to-headless-14567a",
+        "eid": "w-a-s-p-1984-to-headless-46a4",
+        "track": "music",
+        "category": "",
+        "name": "W.A.S.P. - 1984 to Headless",
+        "day": "Fri",
+        "date": "2026-09-11",
+        "time": "",
+        "start": null,
+        "end": null,
+        "area": "Los Angeles",
+        "venue": "The Wiltern",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "",
+        "tags": [],
+        "sources": [
+          "https://www.wiltern.com/shows"
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=The%20Wiltern%2C%20Los%20Angeles",
+          "apple": "https://maps.apple.com/?q=The%20Wiltern%2C%20Los%20Angeles"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-09-07-music-account-suspension-at-t-billin-5e1c1e",
+        "eid": "account-suspension-at-t-ab02",
+        "track": "music",
+        "category": "",
+        "name": "Account Suspension — AT&T Billing Done in 90 Seconds",
+        "day": "Sat",
+        "date": "2026-09-12",
+        "time": "",
+        "start": null,
+        "end": null,
+        "area": "Los Angeles",
+        "venue": "516 S Anderson Street",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "",
+        "tags": [],
+        "sources": [],
+        "tickets": [
+          "https://ra.co/events/2532293"
+        ],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=516%20S%20Anderson%20Street%2C%20Los%20Angeles",
+          "apple": "https://maps.apple.com/?q=516%20S%20Anderson%20Street%2C%20Los%20Angeles"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {
+          "event_id": "2532293",
+          "url": "https://ra.co/events/2532293",
+          "interested": 0
+        },
+        "image": "https://party-scout.app/img/gen/account-suspension-at-t-ab02.jpg",
+        "image_generated": true,
+        "popularity": 0,
+        "enriched": 1,
+        "active": true
+      },
+      {
+        "id": "2026-09-07-music-at-your-wurst-w-piero-pirupa-1d2ed9",
+        "eid": "at-your-wurst-w-piero-pi-6722",
+        "track": "music",
+        "category": "House/Techno",
+        "name": "AT YOUR WÜRST W/ PIERO Pirupa",
+        "day": "Sat",
+        "date": "2026-09-12",
+        "time": "22:00–02:00",
+        "start": null,
+        "end": null,
+        "area": "Venice/Los Angeles",
+        "venue": "Wurstküche Restaurant Venice Beach",
+        "address": "625 Lincoln Blvd, Venice, CA 90291",
+        "why": "A marquee international house/techno headliner in an intimate restaurant/bar setting, not a big room.",
+        "summary": "Clubview Records' monthly Wurstkuche night brings house/techno producer Piero Pirupa to Venice for his LA debut at this venue.",
+        "promoter": "",
+        "price": "$23+, 21+",
+        "tags": [
+          "house",
+          "techno"
+        ],
+        "sources": [
+          "https://ra.co/events/2522979"
+        ],
+        "tickets": [
+          "https://ra.co/events/2522979",
+          "https://shotgun.live/events/at-your-wurst-w-piero-pirupa"
+        ],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=625%20Lincoln%20Blvd%2C%20Venice%2C%20CA%2090291",
+          "apple": "https://maps.apple.com/?q=625%20Lincoln%20Blvd%2C%20Venice%2C%20CA%2090291"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {
+          "event_id": "2522979",
+          "url": "https://ra.co/events/2522979",
+          "interested": 18
+        },
+        "image": "https://images.ra.co/1b93b03374ef7dc713c88ba0fe4765c3b9a5e6a4.jpg",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 1,
+        "active": true
+      },
+      {
+        "id": "2026-09-07-music-bassfluff-afterparty-with-tiff-c8bde9",
+        "eid": "bassfluff-afterparty-wit-b1c8",
+        "track": "music",
+        "category": "Bass",
+        "name": "BASSFLUFF afterparty with Tiffany Day",
+        "day": "Sat",
+        "date": "2026-09-12",
+        "time": "23:00–04:00",
+        "start": null,
+        "end": null,
+        "area": "Los Angeles",
+        "venue": "TBA - Downtown Los Angeles",
+        "address": "",
+        "why": "An official afterparty tied to a same-night headline show, with a DJ set from Tiffany Day herself.",
+        "summary": "A secret-location DTLA afterparty for Tiffany Day's Bassfluff show, with the address texted to ticket holders the day of.",
+        "promoter": "",
+        "price": "$20-40",
+        "tags": [
+          "bass",
+          "afterparty"
+        ],
+        "sources": [
+          "https://ra.co/events/2532619"
+        ],
+        "tickets": [
+          "https://ra.co/events/2532619"
+        ],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=Los%20Angeles",
+          "apple": "https://maps.apple.com/?q=Los%20Angeles"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {
+          "event_id": "2532619",
+          "url": "https://ra.co/events/2532619",
+          "interested": 500
+        },
+        "image": "https://images.ra.co/eaae82a6a2fbb7ec2a57b2b8673c95999cb09b61.png",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 1,
+        "active": true
+      },
+      {
+        "id": "2026-09-07-music-beste-hira-stephen-disario-tak-b78727",
+        "eid": "beste-hira-stephen-disar-a22a",
+        "track": "music",
+        "category": "Techno",
+        "name": "Beste Hira, Stephen Disario, Takaaki Itoh",
+        "day": "Sat",
+        "date": "2026-09-12",
+        "time": "23:00–06:00",
+        "start": "23:00",
+        "end": "06:00",
+        "area": "Los Angeles",
+        "venue": "TBA - Los Angeles",
+        "address": "",
+        "why": "Three internationally respected techno DJs on one WORK Warehouse-style bill, in the deep-techno lane rather than tech house.",
+        "summary": "WORK presents Beste Hira, Stephen Disario and Takaaki Itoh for a night of deep, driving techno; location emailed to ticket holders day-of.",
+        "promoter": "",
+        "price": "$25 b4 12 / $29-35, 21+",
+        "tags": [
+          "techno"
+        ],
+        "sources": [],
+        "tickets": [
+          "https://ra.co/events/2499615"
+        ],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=Los%20Angeles",
+          "apple": "https://maps.apple.com/?q=Los%20Angeles"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 1,
+        "active": true
+      },
+      {
+        "id": "2026-09-07-music-burnin-chancla-006-hi-fi-all-v-22c355",
+        "eid": "burnin-chancla-006-hi-fi-cc5e",
+        "track": "music",
+        "category": "Balearic",
+        "name": "Burnin' Chancla 006 (Hi-Fi All-Vinyl Dance Night): Chris Pavlov, VHS King",
+        "day": "Sat",
+        "date": "2026-09-12",
+        "time": "22:00–03:00",
+        "start": null,
+        "end": null,
+        "area": "Los Angeles",
+        "venue": "",
+        "address": "",
+        "why": "A dedicated vintage hi-fi vinyl-only sound system, a different listening experience than a standard club PA.",
+        "summary": "Burnin' Chancla, a traveling balearic sound system party built around a 4-point vintage JBL/Altec rig and one big mirror ball, returns for its 6th installment with Chris Pavlov and VHS King.",
+        "promoter": "",
+        "price": "$20",
+        "tags": [
+          "balearic",
+          "vinyl-only",
+          "sound-system"
+        ],
+        "sources": [
+          "https://ra.co/events/2504607"
+        ],
+        "tickets": [
+          "https://ra.co/events/2504607"
+        ],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=Los%20Angeles",
+          "apple": "https://maps.apple.com/?q=Los%20Angeles"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "https://images.ra.co/bb5b2f33d25b32325b7b0d7ac14e830637000961.jpg",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 2,
+        "active": true
+      },
+      {
+        "id": "2026-09-07-music-city-pop-waves-casiopea-specia-8133fa",
+        "eid": "city-pop-waves-casiopea-9dd3",
+        "track": "music",
+        "category": "Live",
+        "name": "City Pop Waves: Casiopea Special Live 2026 in Los Angeles",
+        "day": "Sat",
+        "date": "2026-09-12",
+        "time": "",
+        "start": null,
+        "end": null,
+        "area": "Los Angeles",
+        "venue": "The Wiltern",
+        "address": "3790 Wilshire Blvd, Los Angeles, CA 90010",
+        "why": "A rare US live show from a legendary Japanese jazz-fusion act, a genuinely uncommon booking for this room.",
+        "summary": "City Pop Waves brings the legendary Japanese jazz-fusion band Casiopea to The Wiltern for a special live show.",
+        "promoter": "",
+        "price": "",
+        "tags": [
+          "jazz-fusion",
+          "live",
+          "city-pop"
+        ],
+        "sources": [
+          "https://www.wiltern.com/shows"
+        ],
+        "tickets": [
+          "https://www.wiltern.com/shows"
+        ],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=3790%20Wilshire%20Blvd%2C%20Los%20Angeles%2C%20CA%2090010",
+          "apple": "https://maps.apple.com/?q=3790%20Wilshire%20Blvd%2C%20Los%20Angeles%2C%20CA%2090010"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 1,
+        "active": true
+      },
+      {
+        "id": "2026-09-07-music-cunty-classics-dance-party-sha-f1c0e8",
+        "eid": "cunty-classics-dance-par-5fb0",
+        "track": "music",
+        "category": "",
+        "name": "Cunty Classics Dance Party: Shana Sarett & Vince Rossi",
+        "day": "Sat",
+        "date": "2026-09-12",
+        "time": "",
+        "start": null,
+        "end": null,
+        "area": "Los Angeles",
+        "venue": "Zebulon",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "Free, 21+",
+        "tags": [],
+        "sources": [],
+        "tickets": [
+          "https://dice.fm/event/6a14959d7bbbff00012304cd"
+        ],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=Zebulon%2C%20Los%20Angeles",
+          "apple": "https://maps.apple.com/?q=Zebulon%2C%20Los%20Angeles"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-09-07-music-daylight-day-party-a75564",
+        "eid": "daylight-day-party-242e",
+        "track": "music",
+        "category": "",
+        "name": "Daylight Day Party",
+        "day": "Sat",
+        "date": "2026-09-12",
+        "time": "",
+        "start": null,
+        "end": null,
+        "area": "Los Angeles",
+        "venue": "3250 Wilshire Blvd",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "Free, 21+",
+        "tags": [],
+        "sources": [],
+        "tickets": [
+          "https://www.instagram.com/p/Dc_iSZwMbuE/"
+        ],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=3250%20Wilshire%20Blvd%2C%20Los%20Angeles",
+          "apple": "https://maps.apple.com/?q=3250%20Wilshire%20Blvd%2C%20Los%20Angeles"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-09-07-music-deep-in-dis-showcase-choice-ch-a17a1c",
+        "eid": "deep-in-dis-showcase-cho-7cf3",
+        "track": "music",
+        "category": "Deep House",
+        "name": "Deep In Dis Showcase: Choice, Chemtrail, Johnny Hazy, Mikeb, Mario Liberti",
+        "day": "Sat",
+        "date": "2026-09-12",
+        "time": "23:00–06:00",
+        "start": null,
+        "end": null,
+        "area": "DTLA/Los Angeles",
+        "venue": "",
+        "address": "",
+        "why": "A new-space debut built specifically around its sound system rather than a familiar room.",
+        "summary": "Capsule and Groove Inc host a deep-house night in a new DTLA space with a world-renowned sound system, featuring Chemtrail Johnny, Hazy, Mikeb and guest Jason-Douglas.",
+        "promoter": "",
+        "price": "$20",
+        "tags": [
+          "deep-house"
+        ],
+        "sources": [
+          "https://ra.co/events/2504340"
+        ],
+        "tickets": [
+          "https://ra.co/events/2504340"
+        ],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=DTLA/Los%20Angeles",
+          "apple": "https://maps.apple.com/?q=DTLA/Los%20Angeles"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 1,
+        "active": true
+      },
+      {
+        "id": "2026-09-07-music-discotheke-bite-takeover-20d983",
+        "eid": "discotheke-bite-takeover-9161",
+        "track": "music",
+        "category": "Disco",
+        "name": "DISCOTHEKE - BITE TAKEOVER",
+        "day": "Sat",
+        "date": "2026-09-12",
+        "time": "17:00–23:59",
+        "start": null,
+        "end": null,
+        "area": "Los Angeles",
+        "venue": "Apotheke",
+        "address": "1746 N Spring St, Los Angeles, CA 90012",
+        "why": "A rare daytime patio session rather than the usual late-night club slot for this series.",
+        "summary": "Discotheke DJs take over the Apotheke patio for a rare daytime link-up with the BITE party series.",
+        "promoter": "",
+        "price": "",
+        "tags": [
+          "disco",
+          "daytime",
+          "patio"
+        ],
+        "sources": [
+          "https://ra.co/events/2534574"
+        ],
+        "tickets": [
+          "https://ra.co/events/2534574"
+        ],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=1746%20N%20Spring%20St%2C%20Los%20Angeles%2C%20CA%2090012",
+          "apple": "https://maps.apple.com/?q=1746%20N%20Spring%20St%2C%20Los%20Angeles%2C%20CA%2090012"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {
+          "event_id": "2534574",
+          "url": "https://ra.co/events/2534574",
+          "interested": 1
+        },
+        "image": "https://images.ra.co/018110ffcc50d0f18e09e18bad1651cb37533990.jpg",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 1,
+        "active": true
+      },
+      {
+        "id": "2026-09-07-music-dnbnl-block-party-pendulum-and-48cbf0",
+        "eid": "dnbnl-block-party-pendul-5dd0",
+        "track": "music",
+        "category": "",
+        "name": "Dnbnl Block Party: Pendulum, Andromedik, Blossom, Danny Byrd, Dirtyphonics, Fred V, K Motionz, Manila Killa, Mozey, Natty Lou, Skanka, S.P.Y, T & Sugah",
+        "day": "Sat",
+        "date": "2026-09-12",
+        "time": "",
+        "start": null,
+        "end": null,
+        "area": "Los Angeles",
+        "venue": "The Compound",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "$55+, 21+",
+        "tags": [],
+        "sources": [],
+        "tickets": [
+          "https://dice.fm/event/k6lm7o-bl-presents-dnbnl-block-party-la-12th-sep-mateo-warehouse-los-angeles-tickets"
+        ],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=The%20Compound%2C%20Los%20Angeles",
+          "apple": "https://maps.apple.com/?q=The%20Compound%2C%20Los%20Angeles"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-09-07-music-energy-bill-at-consumers-energ-3beb36",
+        "eid": "energy-bill-at-consumers-d02e",
+        "track": "music",
+        "category": "",
+        "name": "Energy Bill at Consumers Energy: Pay Free by Phone, Same Day",
+        "day": "Sat",
+        "date": "2026-09-12",
+        "time": "",
+        "start": null,
+        "end": null,
+        "area": "Los Angeles",
+        "venue": "516 S Anderson Street",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "",
+        "tags": [],
+        "sources": [],
+        "tickets": [
+          "https://ra.co/events/2533629"
+        ],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=516%20S%20Anderson%20Street%2C%20Los%20Angeles",
+          "apple": "https://maps.apple.com/?q=516%20S%20Anderson%20Street%2C%20Los%20Angeles"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {
+          "event_id": "2533629",
+          "url": "https://ra.co/events/2533629",
+          "interested": 0
+        },
+        "image": "https://party-scout.app/img/gen/energy-bill-at-consumers-d02e.jpg",
+        "image_generated": true,
+        "popularity": 0,
+        "enriched": 1,
+        "active": true
+      },
+      {
+        "id": "2026-09-07-music-factory-93-presents-hot-meal-r-8699a5",
+        "eid": "factory-93-presents-hot-be03",
+        "track": "music",
+        "category": "House",
+        "name": "Factory 93 presents: Hot Meal Records LA Showcase",
+        "day": "Sat",
+        "date": "2026-09-12",
+        "time": "21:00–02:00",
+        "start": null,
+        "end": null,
+        "area": "Los Angeles",
+        "venue": "Avalon Hollywood",
+        "address": "1735 Vine Street, Hollywood, CA 90028",
+        "why": "A full label showcase with five acts, stacked lineup depth for one ticket at a major Hollywood room.",
+        "summary": "Factory 93 hosts a Hot Meal Records label showcase at Avalon Hollywood featuring Bad Boombox, madgavs, Mischluft, Ollie Lishman and Supergloss.",
+        "promoter": "",
+        "price": "",
+        "tags": [
+          "house",
+          "label-showcase"
+        ],
+        "sources": [
+          "https://ra.co/events/2500149"
+        ],
+        "tickets": [
+          "https://ra.co/events/2500149"
+        ],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=1735%20Vine%20Street%2C%20Hollywood%2C%20CA%2090028",
+          "apple": "https://maps.apple.com/?q=1735%20Vine%20Street%2C%20Hollywood%2C%20CA%2090028"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {
+          "event_id": "2500149",
+          "url": "https://ra.co/events/2500149",
+          "interested": 78
+        },
+        "image": "https://images.ra.co/12870fd3edd4591d6f20ef6baae3b02a8a1f52dc.jpg",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 1,
+        "active": true
+      },
+      {
+        "id": "2026-09-07-music-the-femcels-4f343a",
+        "eid": "the-femcels-9519",
+        "track": "music",
+        "category": "",
+        "name": "The Femcels",
+        "day": "Sat",
+        "date": "2026-09-12",
+        "time": "",
+        "start": null,
+        "end": null,
+        "area": "Los Angeles",
+        "venue": "Zebulon",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "$31.21, 21+",
+        "tags": [],
+        "sources": [],
+        "tickets": [
+          "https://dice.fm/event/69f130eda0d0570001609d7b"
+        ],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=Zebulon%2C%20Los%20Angeles",
+          "apple": "https://maps.apple.com/?q=Zebulon%2C%20Los%20Angeles"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-09-07-music-fireworks-finale-onerepublic-fa8fe9",
+        "eid": "fireworks-finale-onerepu-7e3a",
+        "track": "music",
+        "category": "Pop",
+        "name": "Fireworks Finale: OneRepublic",
+        "day": "Sat",
+        "date": "2026-09-12",
+        "time": "8:00pm",
+        "start": null,
+        "end": null,
+        "area": "Los Angeles",
+        "venue": "Hollywood Bowl",
+        "address": "2301 N Highland Ave, Los Angeles, CA 90068",
+        "why": "An arena-scale marquee headliner in the Bowl's outdoor amphitheatre with a fireworks finale, not a club show.",
+        "summary": "OneRepublic headlines the Hollywood Bowl's season-closing Fireworks Finale, backed by a full fireworks show after the set.",
+        "promoter": "",
+        "price": "$27+",
+        "tags": [
+          "pop",
+          "fireworks",
+          "outdoor"
+        ],
+        "sources": [
+          "https://www.hollywoodbowl.com/events/performances"
+        ],
+        "tickets": [
+          "https://www.hollywoodbowl.com/events/performances"
+        ],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=2301%20N%20Highland%20Ave%2C%20Los%20Angeles%2C%20CA%2090068",
+          "apple": "https://maps.apple.com/?q=2301%20N%20Highland%20Ave%2C%20Los%20Angeles%2C%20CA%2090068"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 1,
+        "active": true
+      },
+      {
+        "id": "2026-09-07-music-the-garage-vibe-at-golden-hour-2f7b1d",
+        "eid": "the-garage-vibe-at-golde-8e7f",
+        "track": "music",
+        "category": "Pool Party",
+        "name": "The Garage Vibe at GOLDEN HOUR (ROOFTOP POOL PARTY) 21",
+        "day": "Sat",
+        "date": "2026-09-12",
+        "time": "14:00–21:00",
+        "start": null,
+        "end": null,
+        "area": "Los Angeles",
+        "venue": "Level 8 DTLA",
+        "address": "1254 S Figueroa St, Los Angeles, CA 90015",
+        "why": "A daytime rooftop pool party marking a promoter's return after a 2-year hiatus, with skyline views.",
+        "summary": "The Garage Vibe returns to LA after a two-year hiatus with a DTLA rooftop pool party at Level 8, running from day into sunset.",
+        "promoter": "",
+        "price": "",
+        "tags": [
+          "pool-party",
+          "rooftop",
+          "daytime"
+        ],
+        "sources": [
+          "https://ra.co/events/2520336"
+        ],
+        "tickets": [
+          "https://ra.co/events/2520336"
+        ],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=1254%20S%20Figueroa%20St%2C%20Los%20Angeles%2C%20CA%2090015",
+          "apple": "https://maps.apple.com/?q=1254%20S%20Figueroa%20St%2C%20Los%20Angeles%2C%20CA%2090015"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {
+          "event_id": "2520336",
+          "url": "https://ra.co/events/2520336",
+          "interested": 3
+        },
+        "image": "https://images.ra.co/66319e24c9deb8d32e5f82ba8c06fdbc4fb1a000.png",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 1,
+        "active": true
+      },
+      {
+        "id": "2026-09-07-music-the-garage-vibe-khalon-damian-3e9e27",
+        "eid": "the-garage-vibe-khalon-d-5e1b",
+        "track": "music",
+        "category": "",
+        "name": "The Garage Vibe: Khalon, Damian Sam, Cazier, Swain Sam, Ali Arefi, Malone Wright",
+        "day": "Sat",
+        "date": "2026-09-12",
+        "time": "",
+        "start": null,
+        "end": null,
+        "area": "Los Angeles",
+        "venue": "Level 8 DTLA",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "$17, 21+",
+        "tags": [],
+        "sources": [],
+        "tickets": [
+          "https://posh.vip/e/minow-golden-hour-rooftop-pool-party"
+        ],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=Level%208%20DTLA%2C%20Los%20Angeles",
+          "apple": "https://maps.apple.com/?q=Level%208%20DTLA%2C%20Los%20Angeles"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-09-07-music-good-society-after-dark-wareho-404e87",
+        "eid": "good-society-after-dark-6458",
+        "track": "music",
+        "category": "",
+        "name": "Good Society: After Dark Warehouse Party",
+        "day": "Sat",
+        "date": "2026-09-12",
+        "time": "",
+        "start": null,
+        "end": null,
+        "area": "DTLA/Los Angeles",
+        "venue": "",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "$28.02-71.20, 21+",
+        "tags": [],
+        "sources": [],
+        "tickets": [
+          "https://pear.us/good-society/post/return-to-shore-003"
+        ],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=DTLA/Los%20Angeles",
+          "apple": "https://maps.apple.com/?q=DTLA/Los%20Angeles"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-09-07-music-groove-night-9aab60",
+        "eid": "groove-night-b5aa",
+        "track": "music",
+        "category": "",
+        "name": "Groove Night",
+        "day": "Sat",
+        "date": "2026-09-12",
+        "time": "",
+        "start": null,
+        "end": null,
+        "area": "Los Angeles",
+        "venue": "1178 E 23rd St",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "$10-15",
+        "tags": [],
+        "sources": [],
+        "tickets": [
+          "https://posh.vip/e/groove-night-1"
+        ],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=1178%20E%2023rd%20St%2C%20Los%20Angeles",
+          "apple": "https://maps.apple.com/?q=1178%20E%2023rd%20St%2C%20Los%20Angeles"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-09-07-music-groovers-inn-527515",
+        "eid": "groovers-inn-d273",
+        "track": "music",
+        "category": "",
+        "name": "Groovers Inn",
+        "day": "Sat",
+        "date": "2026-09-12",
+        "time": "",
+        "start": null,
+        "end": null,
+        "area": "Inland Empire",
+        "venue": "",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "$13+, 18+",
+        "tags": [],
+        "sources": [],
+        "tickets": [
+          "https://posh.vip/e/groovers-inn-21?t=ig"
+        ],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=Inland%20Empire",
+          "apple": "https://maps.apple.com/?q=Inland%20Empire"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-09-07-music-heat-map-ee89df",
+        "eid": "heat-map-b9a6",
+        "track": "music",
+        "category": "Global/World",
+        "name": "HEAT MAP",
+        "day": "Sat",
+        "date": "2026-09-12",
+        "time": "21:30–02:00",
+        "start": null,
+        "end": null,
+        "area": "Los Angeles",
+        "venue": "The Moroccan Lounge",
+        "address": "901 E 1st St, Los Angeles, CA 90012",
+        "why": "A genre-blending global/world-music party rather than a straight house/techno night.",
+        "summary": "Neuroscientist-DJ VANI presents Heat Map, an audiovisual global-electronic party blending afrobeats, latin tech, baile funk and Arabic sounds, with DJ SuperNova and Alé Araya.",
+        "promoter": "",
+        "price": "$20",
+        "tags": [
+          "global",
+          "afrobeats",
+          "world"
+        ],
+        "sources": [
+          "https://ra.co/events/2532696"
+        ],
+        "tickets": [
+          "https://ra.co/events/2532696"
+        ],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=The%20Moroccan%20Lounge%2C%20Los%20Angeles",
+          "apple": "https://maps.apple.com/?q=The%20Moroccan%20Lounge%2C%20Los%20Angeles"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {
+          "event_id": "2532696",
+          "url": "https://ra.co/events/2532696",
+          "interested": 0
+        },
+        "image": "https://images.ra.co/82dc418d11c74f0c42f1f20031c994c664f07d68.jpg",
+        "image_generated": true,
+        "popularity": 0,
+        "enriched": 2,
+        "active": true
+      },
+      {
+        "id": "2026-09-07-music-hood-rave-the-airliner-takeove-82a9fa",
+        "eid": "hood-rave-the-airliner-t-5eb0",
+        "track": "music",
+        "category": "House",
+        "name": "HOOD RAVE: THE AIRLINER TAKEOVER",
+        "day": "Sat",
+        "date": "2026-09-12",
+        "time": "14:00–02:00",
+        "start": null,
+        "end": null,
+        "area": "Los Angeles",
+        "venue": "The Airliner",
+        "address": "2419 N Broadway, Los Angeles, CA 90036",
+        "why": "A rare day-into-night double bill combining a daytime pool/patio vibe with a late-night rave in one ticket.",
+        "summary": "A day-to-night takeover of The Airliner: an afternoon Kita's World day party (2-8pm) followed by the Hood Rave night party through 2am.",
+        "promoter": "",
+        "price": "$15/$20",
+        "tags": [
+          "house",
+          "rave",
+          "day-party"
+        ],
+        "sources": [
+          "https://ra.co/events/2525473"
+        ],
+        "tickets": [
+          "https://ra.co/events/2525473"
+        ],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=2419%20N%20Broadway%2C%20Los%20Angeles%2C%20CA%2090036",
+          "apple": "https://maps.apple.com/?q=2419%20N%20Broadway%2C%20Los%20Angeles%2C%20CA%2090036"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {
+          "event_id": "2525473",
+          "url": "https://ra.co/events/2525473",
+          "interested": 73
+        },
+        "image": "https://images.ra.co/8823cf47df8e34c5259a2ae13df92018ced676e6.jpg",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 2,
+        "active": true
+      },
+      {
+        "id": "2026-09-07-music-hot-meal-records-la-showcase-b-8dcbda",
+        "eid": "hot-meal-records-la-show-1ded",
+        "track": "music",
+        "category": "",
+        "name": "Hot Meal Records LA Showcase: Bad Boombox, madgavs, Mischluft, Ollie Lishman, Supergloss",
+        "day": "Sat",
+        "date": "2026-09-12",
+        "time": "",
+        "start": null,
+        "end": null,
+        "area": "Los Angeles",
+        "venue": "Ace*Mission Studios",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "$44-54, 21+",
+        "tags": [],
+        "sources": [],
+        "tickets": [
+          "https://factory93.frontgatetickets.com/event/r2orps4g3ot7hsj5"
+        ],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=Ace%2AMission%20Studios%2C%20Los%20Angeles",
+          "apple": "https://maps.apple.com/?q=Ace%2AMission%20Studios%2C%20Los%20Angeles"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-09-07-music-house-rules-02-bhoosh-caiio-le-31b413",
+        "eid": "house-rules-02-bhoosh-ca-c550",
+        "track": "music",
+        "category": "",
+        "name": "House Rules #02: Bhoosh, Caiio, Le Chev",
+        "day": "Sat",
+        "date": "2026-09-12",
+        "time": "",
+        "start": null,
+        "end": null,
+        "area": "Huntington Beach",
+        "venue": "The Circle OC",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "Free w/rsvp b4 10pm / $25+, 21+",
+        "tags": [],
+        "sources": [],
+        "tickets": [
+          "https://houseruleshuntingtonbeach.eventbrite.com/"
+        ],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=The%20Circle%20OC%2C%20Huntington%20Beach",
+          "apple": "https://maps.apple.com/?q=The%20Circle%20OC%2C%20Huntington%20Beach"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-09-07-music-intro-to-music-production-w-an-438f99",
+        "eid": "intro-to-music-productio-f94f",
+        "track": "music",
+        "category": "Workshop",
+        "name": "Intro To Music Production w/ Angelica Hay",
+        "day": "Sat",
+        "date": "2026-09-12",
+        "time": "15:00–17:00",
+        "start": null,
+        "end": null,
+        "area": "Los Angeles",
+        "venue": "Io Music Academy La",
+        "address": "1550 N Gower St, Los Angeles, CA",
+        "why": "A free hands-on production workshop rather than a party - a way to learn, not just watch.",
+        "summary": "A free beginner-friendly workshop on making music in Ableton Live, taught by artist/producer Angelica Hay, covering DAW basics, drum programming and recording fundamentals.",
+        "promoter": "",
+        "price": "Free",
+        "tags": [
+          "workshop",
+          "free",
+          "education"
+        ],
+        "sources": [
+          "https://ra.co/events/2509889"
+        ],
+        "tickets": [
+          "https://ra.co/events/2509889"
+        ],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=Io%20Music%20Academy%20La%2C%20Los%20Angeles",
+          "apple": "https://maps.apple.com/?q=Io%20Music%20Academy%20La%2C%20Los%20Angeles"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "https://images.ra.co/5f231b115cf7e1d20ec58ebe258b4da97f259856.png",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 2,
+        "active": true
+      },
+      {
+        "id": "2026-09-07-music-listen-to-music-outside-in-the-beaf5b",
+        "eid": "listen-to-music-outside-3449",
+        "track": "music",
+        "category": "Outdoor",
+        "name": "Listen To Music Outside In The Daylight Under A Tree",
+        "day": "Sat",
+        "date": "2026-09-12",
+        "time": "13:00–20:00",
+        "start": null,
+        "end": null,
+        "area": "Los Angeles",
+        "venue": "La Tierra De La Culebra",
+        "address": "240 S Ave 57, Los Angeles, CA 90042",
+        "why": "A free-outdoor-daytime park gathering under a big oak tree, exactly the low-key open-air vibe worth hunting for.",
+        "summary": "Leaving Records' donation-based outdoor community gathering returns to La Tierra de la Culebra park with a site-specific performance and afternoon DJ set from Rachana.",
+        "promoter": "",
+        "price": "",
+        "tags": [
+          "outdoor",
+          "daytime",
+          "free",
+          "park",
+          "community"
+        ],
+        "sources": [
+          "https://ra.co/events/2534497"
+        ],
+        "tickets": [
+          "https://ra.co/events/2534497"
+        ],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=240%20S%20Ave%2057%2C%20Los%20Angeles%2C%20CA%2090042",
+          "apple": "https://maps.apple.com/?q=240%20S%20Ave%2057%2C%20Los%20Angeles%2C%20CA%2090042"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {
+          "event_id": "2534497",
+          "url": "https://ra.co/events/2534497",
+          "interested": 1
+        },
+        "image": "https://images.ra.co/b542cd132c588318bee08359f72aff491978b5fc.jpg",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 1,
+        "active": true
+      },
+      {
+        "id": "2026-09-07-music-nia-archives-live-82bb27",
+        "eid": "nia-archives-live-a957",
+        "track": "music",
+        "category": "Jungle/DnB",
+        "name": "Nia Archives (Live)",
+        "day": "Sat",
+        "date": "2026-09-12",
+        "time": "23:00–06:00",
+        "start": null,
+        "end": null,
+        "area": "Los Angeles",
+        "venue": "Fonda Theatre",
+        "address": "6126 Hollywood Blvd, Hollywood, CA 90028",
+        "why": "A breakout jungle/drum-and-bass artist with major festival buzz, playing a live set rather than a DJ set.",
+        "summary": "Nia Archives plays a live set at the Fonda Theatre in Hollywood.",
+        "promoter": "",
+        "price": "",
+        "tags": [
+          "jungle",
+          "dnb",
+          "live"
+        ],
+        "sources": [
+          "https://ra.co/events/2533808"
+        ],
+        "tickets": [
+          "https://ra.co/events/2533808"
+        ],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=6126%20Hollywood%20Blvd%2C%20Hollywood%2C%20CA%2090028",
+          "apple": "https://maps.apple.com/?q=6126%20Hollywood%20Blvd%2C%20Hollywood%2C%20CA%2090028"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {
+          "event_id": "2533808",
+          "url": "https://ra.co/events/2533808",
+          "interested": 4
+        },
+        "image": "https://images.ra.co/240878b885393af31ef678c164a07f7943867fbf.jpg",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 1,
+        "active": true
+      },
+      {
+        "id": "2026-09-07-music-nightshift-after-hours-556bd3",
+        "eid": "nightshift-after-hours-6174",
+        "track": "music",
+        "category": "House",
+        "name": "NIGHTSHIFT AFTER HOURS",
+        "day": "Sat",
+        "date": "2026-09-12",
+        "time": "23:00–05:00",
+        "start": null,
+        "end": null,
+        "area": "Los Angeles",
+        "venue": "The Lexington",
+        "address": "129 E. 3rd St, Los Angeles, CA 90013",
+        "why": "Free before 1am and open every night of the week for a late finish.",
+        "summary": "A free-entry DTLA speakeasy after-hours party through a hidden alley entrance, running underground house music seven nights a week.",
+        "promoter": "",
+        "price": "Free",
+        "tags": [
+          "house",
+          "afterhours",
+          "speakeasy",
+          "free"
+        ],
+        "sources": [
+          "https://ra.co/events/2530579"
+        ],
+        "tickets": [
+          "https://ra.co/events/2530579"
+        ],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=129%20E.%203rd%20St%2C%20Los%20Angeles%2C%20CA%2090013",
+          "apple": "https://maps.apple.com/?q=129%20E.%203rd%20St%2C%20Los%20Angeles%2C%20CA%2090013"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {
+          "event_id": "2530579",
+          "url": "https://ra.co/events/2530579",
+          "interested": 2
+        },
+        "image": "https://images.ra.co/9978316713be9602a688de26a13c37b700b9c72b.jpg",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 1,
+        "active": true
+      },
+      {
+        "id": "2026-09-07-music-notlo-friends-00b077",
+        "eid": "notlo-friends-5169",
+        "track": "music",
+        "category": "",
+        "name": "NotLö & Friends",
+        "day": "Sat",
+        "date": "2026-09-12",
+        "time": "",
+        "start": null,
+        "end": null,
+        "area": "Los Angeles",
+        "venue": "Lost On Main",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "$30",
+        "tags": [],
+        "sources": [],
+        "tickets": [
+          "https://ra.co/events/2529173"
+        ],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=Lost%20On%20Main%2C%20Los%20Angeles",
+          "apple": "https://maps.apple.com/?q=Lost%20On%20Main%2C%20Los%20Angeles"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {
+          "event_id": "2529173",
+          "url": "https://ra.co/events/2529173",
+          "interested": 0
+        },
+        "image": "https://party-scout.app/img/gen/notlo-friends-5169.jpg",
+        "image_generated": true,
+        "popularity": 0,
+        "enriched": 1,
+        "active": true
+      },
+      {
+        "id": "2026-09-07-music-paradisco-19e1ae",
+        "eid": "paradisco-b0f6",
+        "track": "music",
+        "category": "Disco",
+        "name": "Paradisco",
+        "day": "Sat",
+        "date": "2026-09-12",
+        "time": "22:00–02:00",
+        "start": null,
+        "end": null,
+        "area": "Los Angeles",
+        "venue": "Kiss Kiss Bang Bang",
+        "address": "3531 Wilshire Blvd, Los Angeles, CA 90010",
+        "why": "Immersive disco decor and roller-skater performances make this a more theatrical night than a standard DJ set.",
+        "summary": "Paradisco returns to Kiss Kiss Bang Bang's disco-themed room with Blake Weber and Chi Chi Dango, featuring a glowing checkered dance floor and roller-skater performances.",
+        "promoter": "",
+        "price": "Free",
+        "tags": [
+          "disco",
+          "free"
+        ],
+        "sources": [
+          "https://ra.co/events/2506250"
+        ],
+        "tickets": [
+          "https://ra.co/events/2506250"
+        ],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=3531%20Wilshire%20Blvd%2C%20Los%20Angeles%2C%20CA%2090010",
+          "apple": "https://maps.apple.com/?q=3531%20Wilshire%20Blvd%2C%20Los%20Angeles%2C%20CA%2090010"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {
+          "event_id": "2506250",
+          "url": "https://ra.co/events/2506250",
+          "interested": 4
+        },
+        "image": "https://images.ra.co/a9a88cfb8829e4fc49e4e3ae57c680032334c37a.jpg",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 1,
+        "active": true
+      },
+      {
+        "id": "2026-09-07-music-pay-bill-at-at-t-pay-free-by-p-d40c09",
+        "eid": "pay-bill-at-at-t-pay-fre-d856",
+        "track": "music",
+        "category": "",
+        "name": "Pay Bill at AT&T: Pay Free by Phone, Same Day",
+        "day": "Sat",
+        "date": "2026-09-12",
+        "time": "",
+        "start": null,
+        "end": null,
+        "area": "Los Angeles",
+        "venue": "St J Cyber Cafe",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "",
+        "tags": [],
+        "sources": [],
+        "tickets": [
+          "https://ra.co/events/2532327"
+        ],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=St%20J%20Cyber%20Cafe%2C%20Los%20Angeles",
+          "apple": "https://maps.apple.com/?q=St%20J%20Cyber%20Cafe%2C%20Los%20Angeles"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {
+          "event_id": "2532327",
+          "url": "https://ra.co/events/2532327",
+          "interested": 1
+        },
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-09-07-music-planet-love-w-fafi-abdel-nour-535f5b",
+        "eid": "planet-love-w-fafi-abdel-5651",
+        "track": "music",
+        "category": "House",
+        "name": "Planet Love w/ Fafi Abdel Nour, Ketia, James Axon, Craigie Knowes",
+        "day": "Sat",
+        "date": "2026-09-12",
+        "time": "22:00–06:00",
+        "start": null,
+        "end": null,
+        "area": "Los Angeles",
+        "venue": "",
+        "address": "",
+        "why": "A queer, inclusive dancefloor with two international LA-debut DJs and a mystery big-name guest.",
+        "summary": "Planet Love's first triple-header brings LA debuts from Amsterdam's Fafi Abdel Nour and Lisbon's ketia alongside resident James Axon and an unannounced secret guest, at a secret LA location.",
+        "promoter": "",
+        "price": "$22-50",
+        "tags": [
+          "house",
+          "queer",
+          "lgbtq"
+        ],
+        "sources": [
+          "https://ra.co/events/2505779"
+        ],
+        "tickets": [
+          "https://ra.co/events/2505779"
+        ],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=Los%20Angeles",
+          "apple": "https://maps.apple.com/?q=Los%20Angeles"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "https://images.ra.co/e4e04b9a54aec4a57d30f894a9d35d931ba35600.png",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 2,
+        "active": true
+      },
+      {
+        "id": "2026-09-07-music-planet-love-0e2b6c",
+        "eid": "planet-love-ab26",
+        "track": "music",
+        "category": "",
+        "name": "Planet Love",
+        "day": "Sat",
+        "date": "2026-09-12",
+        "time": "",
+        "start": null,
+        "end": null,
+        "area": "Los Angeles",
+        "venue": "",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "$21-60",
+        "tags": [
+          "house",
+          "progressive house",
+          "uk garage",
+          "deep house"
+        ],
+        "sources": [],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=Los%20Angeles",
+          "apple": "https://maps.apple.com/?q=Los%20Angeles"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "https://party-scout.app/img/gen/planet-love-ab26.jpg",
+        "image_generated": true,
+        "popularity": 0,
+        "enriched": 1,
+        "active": true
+      },
+      {
+        "id": "2026-09-07-music-planet-x-ben-sterling-dean-tur-97c014",
+        "eid": "planet-x-ben-sterling-de-4a85",
+        "track": "music",
+        "category": "",
+        "name": "Planet X - Ben Sterling, Dean Turnley, Rafael",
+        "day": "Sat",
+        "date": "2026-09-12",
+        "time": "",
+        "start": null,
+        "end": null,
+        "area": "Los Angeles",
+        "venue": "California Plaza",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "$80 pre, 21+",
+        "tags": [],
+        "sources": [],
+        "tickets": [
+          "https://dice.fm/event/mxd97v-planet-x-12th-sep-california-plaza-los-angeles-tickets"
+        ],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=California%20Plaza%2C%20Los%20Angeles",
+          "apple": "https://maps.apple.com/?q=California%20Plaza%2C%20Los%20Angeles"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-09-07-music-plastics-dept-feat-kj-sawka-li-87baa0",
+        "eid": "plastics-dept-feat-kj-sa-be58",
+        "track": "music",
+        "category": "Breakbeat/DnB",
+        "name": "Plastics Dept. Feat Kj Sawka Live, 2kinetik X Werd, Varial, Mx-81",
+        "day": "Sat",
+        "date": "2026-09-12",
+        "time": "20:00–23:59",
+        "start": null,
+        "end": null,
+        "area": "Los Angeles",
+        "venue": "Boomtown Brewery",
+        "address": "700 Jackson St, Los Angeles, CA 90012",
+        "why": "Free admission and an all-live (not DJ-set) breakbeat/DnB/IDM lineup, a different format than a standard club night.",
+        "summary": "Perfect Circuit's Plastics Dept. returns to Boomtown Brewery for its 4th installment: live breakbeat/DnB/IDM sets from KJ Sawka, 2KINETIK x Werd, Varial and MX-81.",
+        "promoter": "",
+        "price": "Free",
+        "tags": [
+          "breakbeat",
+          "dnb",
+          "idm",
+          "free",
+          "live"
+        ],
+        "sources": [
+          "https://ra.co/events/2513682"
+        ],
+        "tickets": [
+          "https://ra.co/events/2513682"
+        ],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=Boomtown%20Brewery%2C%20Los%20Angeles",
+          "apple": "https://maps.apple.com/?q=Boomtown%20Brewery%2C%20Los%20Angeles"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "https://images.ra.co/e2ae9eaa683b29dcf8bc250d94931e378df8d2b8.png",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 2,
+        "active": true
+      },
+      {
+        "id": "2026-09-07-music-plastics-dept-620aa7",
+        "eid": "plastics-dept-d989",
+        "track": "music",
+        "category": "",
+        "name": "Plastics Dept.",
+        "day": "Sat",
+        "date": "2026-09-12",
+        "time": "",
+        "start": null,
+        "end": null,
+        "area": "Los Angeles",
+        "venue": "Boomtown Brewery",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "Free",
+        "tags": [
+          "live electronic",
+          "breaks",
+          "techno",
+          "acid",
+          "IDM"
+        ],
+        "sources": [],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=Boomtown%20Brewery%2C%20Los%20Angeles",
+          "apple": "https://maps.apple.com/?q=Boomtown%20Brewery%2C%20Los%20Angeles"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "https://party-scout.app/img/gen/plastics-dept-d989.jpg",
+        "image_generated": true,
+        "popularity": 0,
+        "enriched": 1,
+        "active": true
+      },
+      {
+        "id": "2026-09-07-music-rayray-naij-xoxo-denkai-ava-ja-7b6d9a",
+        "eid": "rayray-naij-xoxo-denkai-321c",
+        "track": "music",
+        "category": "",
+        "name": "Rayray, Naij, Xoxo, Denkai, Ava Janei, Obzdn",
+        "day": "Sat",
+        "date": "2026-09-12",
+        "time": "",
+        "start": null,
+        "end": null,
+        "area": "DTLA/Los Angeles",
+        "venue": "",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "$17-45, 18+",
+        "tags": [],
+        "sources": [],
+        "tickets": [
+          "https://posh.vip/e/rayray-1"
+        ],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=DTLA/Los%20Angeles",
+          "apple": "https://maps.apple.com/?q=DTLA/Los%20Angeles"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-09-07-music-rip-tide-adam-auburn-f05250",
+        "eid": "rip-tide-adam-auburn-b3bc",
+        "track": "music",
+        "category": "",
+        "name": "Rip Tide: Adam Auburn",
+        "day": "Sat",
+        "date": "2026-09-12",
+        "time": "",
+        "start": null,
+        "end": null,
+        "area": "DTLA/Los Angeles",
+        "venue": "",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "$5-20, 21+",
+        "tags": [],
+        "sources": [],
+        "tickets": [
+          "https://posh.vip/e/rip-tide-house-techno-afters-featuring-adam-auburn"
+        ],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=DTLA/Los%20Angeles",
+          "apple": "https://maps.apple.com/?q=DTLA/Los%20Angeles"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-09-07-music-rip-tide-feat-adam-auburn-1188a7",
+        "eid": "rip-tide-feat-adam-aubur-47b6",
+        "track": "music",
+        "category": "House",
+        "name": "Rip Tide feat. Adam Auburn",
+        "day": "Sat",
+        "date": "2026-09-12",
+        "time": "23:59–05:00",
+        "start": null,
+        "end": null,
+        "area": "Los Angeles",
+        "venue": "TBA - DTLA Warehouse",
+        "address": "",
+        "why": "A nearly-3-decade house veteran (ex-Disneyland resident DJ) at a full-production secret warehouse.",
+        "summary": "House/techno veteran Adam Auburn headlines Rip Tide at a secret DTLA warehouse with an outdoor patio, full production and local support from GEM and Bimbofied.",
+        "promoter": "",
+        "price": "$5 - $20",
+        "tags": [
+          "house",
+          "techno",
+          "warehouse"
+        ],
+        "sources": [
+          "https://ra.co/events/2522962"
+        ],
+        "tickets": [
+          "https://ra.co/events/2522962"
+        ],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=Los%20Angeles",
+          "apple": "https://maps.apple.com/?q=Los%20Angeles"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {
+          "event_id": "2522962",
+          "url": "https://ra.co/events/2522962",
+          "interested": 3
+        },
+        "image": "https://images.ra.co/3884ab4e650c833fb52e63a3c67bf8f935d22b76.jpg",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 1,
+        "active": true
+      },
+      {
+        "id": "2026-09-07-music-simon-says-josh-peace-georgi-254aae",
+        "eid": "simon-says-josh-peace-ge-eb76",
+        "track": "music",
+        "category": "",
+        "name": "Simon Says : Josh Peace + Georgi",
+        "day": "Sat",
+        "date": "2026-09-12",
+        "time": "",
+        "start": null,
+        "end": null,
+        "area": "Los Angeles",
+        "venue": "The Spotlight",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "$25+, 21+",
+        "tags": [],
+        "sources": [],
+        "tickets": [
+          "https://dice.fm/event/53m6q8-simon-says-josh-peace-georgi-12th-sep-the-spotlight-los-angeles-tickets"
+        ],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=The%20Spotlight%2C%20Los%20Angeles",
+          "apple": "https://maps.apple.com/?q=The%20Spotlight%2C%20Los%20Angeles"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-09-07-music-soundwave-kidz-deez-daze-ff4b88",
+        "eid": "soundwave-kidz-deez-daze-fcf0",
+        "track": "music",
+        "category": "",
+        "name": "Soundwave: Kidz Deez Daze",
+        "day": "Sat",
+        "date": "2026-09-12",
+        "time": "",
+        "start": null,
+        "end": null,
+        "area": "Los Angeles",
+        "venue": "Community Berlin",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "$30.55-45.20, 21+",
+        "tags": [
+          "tech house"
+        ],
+        "sources": [],
+        "tickets": [
+          "https://ra.co/events/2492058"
+        ],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=Community%20Berlin%2C%20Los%20Angeles",
+          "apple": "https://maps.apple.com/?q=Community%20Berlin%2C%20Los%20Angeles"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "https://party-scout.app/img/gen/soundwave-kidz-deez-daze-fcf0.jpg",
+        "image_generated": true,
+        "popularity": 0,
+        "enriched": 1,
+        "active": true
+      },
+      {
+        "id": "2026-09-07-music-steam-long-beach-e8078d",
+        "eid": "steam-long-beach-6cc4",
+        "track": "music",
+        "category": "House",
+        "name": "STEAM Long Beach",
+        "day": "Sat",
+        "date": "2026-09-12",
+        "time": "21:00–02:00",
+        "start": null,
+        "end": null,
+        "area": "Los Angeles",
+        "venue": "TBA - Men's Room Bar Long Beach",
+        "address": "",
+        "why": "A one-off return of a dormant Long Beach series - been asked for and not run in a while.",
+        "summary": "STEAM's Long Beach pop-up returns for a one-night special at The Men's Room, with DJ Mark Kanemura making his STEAM Long Beach debut.",
+        "promoter": "",
+        "price": "$15",
+        "tags": [
+          "house",
+          "lgbtq"
+        ],
+        "sources": [
+          "https://ra.co/events/2498010"
+        ],
+        "tickets": [
+          "https://ra.co/events/2498010"
+        ],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=Los%20Angeles",
+          "apple": "https://maps.apple.com/?q=Los%20Angeles"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {
+          "event_id": "2498010",
+          "url": "https://ra.co/events/2498010",
+          "interested": 4
+        },
+        "image": "https://images.ra.co/da5beacc2c6eeb28945b9fca3f015fc88fbc665d.png",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 1,
+        "active": true
+      },
+      {
+        "id": "2026-09-07-music-sunset-sessions-4e4303",
+        "eid": "sunset-sessions-c00b",
+        "track": "music",
+        "category": "Rooftop",
+        "name": "SUNSET SESSIONS",
+        "day": "Sat",
+        "date": "2026-09-12",
+        "time": "23:00–06:00",
+        "start": null,
+        "end": null,
+        "area": "Los Angeles",
+        "venue": "Level 8 DTLA",
+        "address": "1254 S Figueroa St, Los Angeles, CA 90015",
+        "why": "Free RSVP rooftop happy hour that rolls into a late-night set - low commitment, high view.",
+        "summary": "Golden Hour's rooftop happy-hour-into-night session returns to Level 8 at the Moxy Hotel, free with RSVP.",
+        "promoter": "",
+        "price": "Free",
+        "tags": [
+          "rooftop",
+          "free",
+          "happy-hour"
+        ],
+        "sources": [
+          "https://ra.co/events/2535277"
+        ],
+        "tickets": [
+          "https://ra.co/events/2535277"
+        ],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=Level%208%20DTLA%2C%20Los%20Angeles",
+          "apple": "https://maps.apple.com/?q=Level%208%20DTLA%2C%20Los%20Angeles"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {
+          "event_id": "2535277",
+          "url": "https://ra.co/events/2535277",
+          "interested": 0
+        },
+        "image": "https://images.ra.co/d2206fdb2a0c9366dae836c1b2beec306adb154e.png",
+        "image_generated": true,
+        "popularity": 0,
+        "enriched": 2,
+        "active": true
+      },
+      {
+        "id": "2026-09-07-music-sxtcy-saturday-as-above-so-bel-90e887",
+        "eid": "sxtcy-saturday-as-above-5e0b",
+        "track": "music",
+        "category": "",
+        "name": "Sxtcy Saturday: As Above So Below, Chemicalbuse, Seph Vein, Xuliet",
+        "day": "Sat",
+        "date": "2026-09-12",
+        "time": "",
+        "start": null,
+        "end": null,
+        "area": "Los Angeles",
+        "venue": "",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "$21 b4 130 / $18-30",
+        "tags": [],
+        "sources": [],
+        "tickets": [
+          "https://posh.vip/e/sxtcy-saturday-912"
+        ],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=Los%20Angeles",
+          "apple": "https://maps.apple.com/?q=Los%20Angeles"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-09-07-music-tania-cassette-7bfb2a",
+        "eid": "tania-cassette-4d13",
+        "track": "music",
+        "category": "",
+        "name": "Tania Cassette",
+        "day": "Sat",
+        "date": "2026-09-12",
+        "time": "",
+        "start": null,
+        "end": null,
+        "area": "Los Angeles",
+        "venue": "The Paramount",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "$25, All ages",
+        "tags": [],
+        "sources": [],
+        "tickets": [
+          "https://dice.fm/event/3or2vg-tania-cassette-12th-sep-the-paramount-los-angeles-tickets"
+        ],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=The%20Paramount%2C%20Los%20Angeles",
+          "apple": "https://maps.apple.com/?q=The%20Paramount%2C%20Los%20Angeles"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-09-07-music-tara-dikhof-r4w-bimbofied-a-h-4fecbb",
+        "eid": "tara-dikhof-r4w-bimbofie-2db8",
+        "track": "music",
+        "category": "",
+        "name": "Tara Dikhof, R4w, Bimbofied, A$h, DJ Bimbo Jackie",
+        "day": "Sat",
+        "date": "2026-09-12",
+        "time": "",
+        "start": null,
+        "end": null,
+        "area": "Los Angeles",
+        "venue": "",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "$10-20",
+        "tags": [],
+        "sources": [],
+        "tickets": [
+          "https://posh.vip/e/lickndip-tara-dikhof-912"
+        ],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=Los%20Angeles",
+          "apple": "https://maps.apple.com/?q=Los%20Angeles"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-09-07-music-thermal-w-vladimir-dubyshkin-47890d",
+        "eid": "thermal-w-vladimir-dubys-413e",
+        "track": "music",
+        "category": "Techno",
+        "name": "Thermal w/ Vladimir Dubyshkin",
+        "day": "Sat",
+        "date": "2026-09-12",
+        "time": "23:00–05:00",
+        "start": null,
+        "end": null,
+        "area": "DTLA/Los Angeles",
+        "venue": "",
+        "address": "",
+        "why": "A globally respected techno act (трип Recordings) with a high RA interest count (363) for this pass.",
+        "summary": "Closer presents Thermal with Vladimir Dubyshkin (трип Recordings/Nina Kraviz), a hybrid live/DJ techno performance blending hypnotic grooves with trance, electro and breakbeat, plus support from Lake Hills and Jaq.xs.",
+        "promoter": "",
+        "price": "$33 b4 12 / $44-50, 21+",
+        "tags": [
+          "techno"
+        ],
+        "sources": [
+          "https://ra.co/events/2497743"
+        ],
+        "tickets": [
+          "https://ra.co/events/2497743"
+        ],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=DTLA/Los%20Angeles",
+          "apple": "https://maps.apple.com/?q=DTLA/Los%20Angeles"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "https://images.ra.co/8ac5dd92e52c1196bf7e5864f5ecab9ab9030e86.png",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 1,
+        "active": true
+      },
+      {
+        "id": "2026-09-07-music-undr-hardcore-rave-08d211",
+        "eid": "undr-hardcore-rave-ca6e",
+        "track": "music",
+        "category": "",
+        "name": "Undr Hardcore Rave",
+        "day": "Sat",
+        "date": "2026-09-12",
+        "time": "",
+        "start": null,
+        "end": null,
+        "area": "Los Angeles",
+        "venue": "3921 E Olympic Blvd",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "$10 pre / $15, 18++",
+        "tags": [],
+        "sources": [],
+        "tickets": [
+          "https://www.tickettailor.com/events/undr/2401905"
+        ],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=3921%20E%20Olympic%20Blvd%2C%20Los%20Angeles",
+          "apple": "https://maps.apple.com/?q=3921%20E%20Olympic%20Blvd%2C%20Los%20Angeles"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-09-07-music-voltique-one-year-anniversary-55470b",
+        "eid": "voltique-one-year-annive-415f",
+        "track": "music",
+        "category": "Tech House",
+        "name": "Voltique: One Year Anniversary - BUCK/OFF, Laser Fox, masato, Nic Jericho",
+        "day": "Sat",
+        "date": "2026-09-12",
+        "time": "23:00–05:00",
+        "start": null,
+        "end": null,
+        "area": "DTLA/Los Angeles",
+        "venue": "",
+        "address": "",
+        "why": "Highest local-interest count of this pass (157) - a proven, in-demand night hitting its 1-year mark.",
+        "summary": "Voltique's one-year anniversary tech-house party in DTLA with BUCK/OFF, Laser Fox, masato and Nic Jericho, full laser production and a dark room.",
+        "promoter": "",
+        "price": "$29",
+        "tags": [
+          "tech-house",
+          "anniversary"
+        ],
+        "sources": [
+          "https://ra.co/events/2523137"
+        ],
+        "tickets": [
+          "https://ra.co/events/2523137"
+        ],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=DTLA/Los%20Angeles",
+          "apple": "https://maps.apple.com/?q=DTLA/Los%20Angeles"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "https://images.ra.co/48fe88f4ef67099bb0aa4f7804c21c7d10443d8e.jpg",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 2,
+        "active": true
+      },
+      {
+        "id": "2026-09-07-music-voltique-one-year-anniversary-48e675",
+        "eid": "voltique-one-year-annive-f2bc",
+        "track": "music",
+        "category": "Tech House",
+        "name": "Voltique: One Year Anniversary",
+        "day": "Sat",
+        "date": "2026-09-12",
+        "time": "23:00–05:00",
+        "start": null,
+        "end": null,
+        "area": "Los Angeles",
+        "venue": "TBA - DTLA",
+        "address": "",
+        "why": "Highest local-interest count of this pass (157) - a proven, in-demand night hitting its 1-year mark.",
+        "summary": "Voltique's one-year anniversary tech-house party in DTLA with BUCK/OFF, Laser Fox, masato and Nic Jericho, full laser production and a dark room.",
+        "promoter": "",
+        "price": "$29",
+        "tags": [
+          "tech-house",
+          "anniversary"
+        ],
+        "sources": [
+          "https://ra.co/events/2523137"
+        ],
+        "tickets": [
+          "https://ra.co/events/2523137"
+        ],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=Los%20Angeles",
+          "apple": "https://maps.apple.com/?q=Los%20Angeles"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {
+          "event_id": "2523137",
+          "url": "https://ra.co/events/2523137",
+          "interested": 157
+        },
+        "image": "https://images.ra.co/48fe88f4ef67099bb0aa4f7804c21c7d10443d8e.jpg",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 1,
+        "active": true
+      },
+      {
+        "id": "2026-09-07-music-what-the-duck-pool-party-5aa780",
+        "eid": "what-the-duck-pool-party-9301",
+        "track": "music",
+        "category": "Pool Party",
+        "name": "What The Duck Pool Party",
+        "day": "Sat",
+        "date": "2026-09-12",
+        "time": "14:00–20:00",
+        "start": null,
+        "end": null,
+        "area": "Los Angeles",
+        "venue": "W Hollywood",
+        "address": "6250 Hollywood Blvd, Hollywood, CA 90028",
+        "why": "Free-outdoor-daytime pool party energy at a hotel rooftop, playful theme rather than a straight club night.",
+        "summary": "A rubber-duck-themed rooftop pool party at the W Hollywood, the finale of the series, with cabanas, bars and food available all day.",
+        "promoter": "",
+        "price": "$15",
+        "tags": [
+          "pool-party",
+          "daytime",
+          "rooftop"
+        ],
+        "sources": [
+          "https://ra.co/events/2532503"
+        ],
+        "tickets": [
+          "https://posh.vip/f/dc288?t=dir-19hz",
+          "https://ra.co/events/2532503"
+        ],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=6250%20Hollywood%20Blvd%2C%20Hollywood%2C%20CA%2090028",
+          "apple": "https://maps.apple.com/?q=6250%20Hollywood%20Blvd%2C%20Hollywood%2C%20CA%2090028"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {
+          "event_id": "2532503",
+          "url": "https://ra.co/events/2532503",
+          "interested": 3
+        },
+        "image": "https://images.ra.co/5f0d0dba13e09492b5053af64d27cf860e327119.png",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 2,
+        "active": true
+      },
+      {
+        "id": "2026-09-07-music-divine-timing-honoring-spinori-4f457b",
+        "eid": "divine-timing-honoring-s-1d0f",
+        "track": "music",
+        "category": "",
+        "name": "Divine Timing Honoring Spinorita: Mr. Fowler, Mr Anderson, UNITYCHECK, Grandfather",
+        "day": "Sun",
+        "date": "2026-09-13",
+        "time": "",
+        "start": null,
+        "end": null,
+        "area": "Los Angeles",
+        "venue": "Elysian Park",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "",
+        "tags": [],
+        "sources": [],
+        "tickets": [
+          "https://ra.co/events/2529271"
+        ],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=Elysian%20Park%2C%20Los%20Angeles",
+          "apple": "https://maps.apple.com/?q=Elysian%20Park%2C%20Los%20Angeles"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-09-07-music-house-heads-beach-club-bones-l-39318b",
+        "eid": "house-heads-beach-club-b-0b2e",
+        "track": "music",
+        "category": "",
+        "name": "House Heads Beach Club: Bones, Lee Wells, Tika + Secret Guest",
+        "day": "Sun",
+        "date": "2026-09-13",
+        "time": "",
+        "start": null,
+        "end": null,
+        "area": "Santa Monica/Los Angeles",
+        "venue": "Perry's Beach Club",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "$23+, 21+",
+        "tags": [],
+        "sources": [],
+        "tickets": [
+          "https://posh.vip/e/perrys-beach-club-santa-monica-beach-sun-sep-13th"
+        ],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=Perry%27s%20Beach%20Club%2C%20Santa%20Monica/Los%20Angeles",
+          "apple": "https://maps.apple.com/?q=Perry%27s%20Beach%20Club%2C%20Santa%20Monica/Los%20Angeles"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-09-07-music-lucy-dacus-with-the-hollywood-fd5a28",
+        "eid": "lucy-dacus-with-the-holl-aec2",
+        "track": "music",
+        "category": "",
+        "name": "Lucy Dacus with the Hollywood Bowl Orchestra / Cat Power performing The Greatest / KCRW Festival",
+        "day": "Sun",
+        "date": "2026-09-13",
+        "time": "7:00pm",
+        "start": "19:00",
+        "end": null,
+        "area": "Los Angeles",
+        "venue": "Hollywood Bowl",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "",
+        "tags": [],
+        "sources": [
+          "https://www.hollywoodbowl.com/events/performances"
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=Hollywood%20Bowl%2C%20Los%20Angeles",
+          "apple": "https://maps.apple.com/?q=Hollywood%20Bowl%2C%20Los%20Angeles"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-09-07-music-mezza-2-in-collab-w-le-frique-577b44",
+        "eid": "mezza-2-in-collab-w-le-f-c5e2",
+        "track": "music",
+        "category": "",
+        "name": "Mezza 2 In Collab w/ Le Frique Sonique - Jeremy Sole, Danna",
+        "day": "Sun",
+        "date": "2026-09-13",
+        "time": "",
+        "start": null,
+        "end": null,
+        "area": "Los Angeles",
+        "venue": "High Tide",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "$25, 18+",
+        "tags": [],
+        "sources": [],
+        "tickets": [
+          "https://ra.co/events/2526843"
+        ],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=High%20Tide%2C%20Los%20Angeles",
+          "apple": "https://maps.apple.com/?q=High%20Tide%2C%20Los%20Angeles"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-09-07-music-nightshift-after-hours-7e8855",
+        "eid": "nightshift-after-hours-512c",
+        "track": "music",
+        "category": "House",
+        "name": "NIGHTSHIFT AFTER HOURS",
+        "day": "Sun",
+        "date": "2026-09-13",
+        "time": "23:00–05:00",
+        "start": null,
+        "end": null,
+        "area": "Los Angeles",
+        "venue": "The Lexington",
+        "address": "129 E. 3rd St, Los Angeles, CA 90013",
+        "why": "Free before 1am and open every night of the week for a late finish.",
+        "summary": "A free-entry DTLA speakeasy after-hours party through a hidden alley entrance, running underground house music seven nights a week.",
+        "promoter": "",
+        "price": "Free",
+        "tags": [
+          "house",
+          "afterhours",
+          "speakeasy",
+          "free"
+        ],
+        "sources": [
+          "https://ra.co/events/2530580"
+        ],
+        "tickets": [
+          "https://ra.co/events/2530580"
+        ],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=129%20E.%203rd%20St%2C%20Los%20Angeles%2C%20CA%2090013",
+          "apple": "https://maps.apple.com/?q=129%20E.%203rd%20St%2C%20Los%20Angeles%2C%20CA%2090013"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {
+          "event_id": "2530580",
+          "url": "https://ra.co/events/2530580",
+          "interested": 1
+        },
+        "image": "https://images.ra.co/a3e70b2337c77b69cb1f80bdd512e3a3defa1852.jpg",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 1,
+        "active": true
+      },
+      {
+        "id": "2026-09-07-music-rooftop-sessions-w-juliet-mend-196460",
+        "eid": "rooftop-sessions-w-julie-5974",
+        "track": "music",
+        "category": "",
+        "name": "Rooftop Sessions w/ Juliet Mendoza",
+        "day": "Sun",
+        "date": "2026-09-13",
+        "time": "",
+        "start": null,
+        "end": null,
+        "area": "Pomona",
+        "venue": "301 South Garey Avenue",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "$13.21-20, 18+",
+        "tags": [],
+        "sources": [],
+        "tickets": [
+          "https://shotgun.live/en/events/rooftop-sessions-with-juliet-mendoza"
+        ],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=301%20South%20Garey%20Avenue%2C%20Pomona",
+          "apple": "https://maps.apple.com/?q=301%20South%20Garey%20Avenue%2C%20Pomona"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-09-07-music-stranger-than-echonomist-stran-b3c5eb",
+        "eid": "stranger-than-echonomist-ac13",
+        "track": "music",
+        "category": "",
+        "name": "STRANGER THAN; Echonomist - Strange House",
+        "day": "Sun",
+        "date": "2026-09-13",
+        "time": "",
+        "start": null,
+        "end": null,
+        "area": "Los Angeles",
+        "venue": "TBA - Strange House (1717 N Bronson Ave, Los Angeles, CA)",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "$",
+        "tags": [],
+        "sources": [
+          "https://ra.co/events/2513078"
+        ],
+        "tickets": [
+          "https://ra.co/events/2513078"
+        ],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=Los%20Angeles",
+          "apple": "https://maps.apple.com/?q=Los%20Angeles"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {
+          "event_id": "2513078",
+          "url": "https://ra.co/events/2513078",
+          "interested": 9
+        },
+        "image": "https://party-scout.app/img/gen/stranger-than-echonomist-6c12.jpg",
+        "image_generated": true,
+        "popularity": 0,
+        "enriched": 1,
+        "active": true
+      },
+      {
+        "id": "2026-09-07-music-sunday-sessions-la-vinyl-only-fa7234",
+        "eid": "sunday-sessions-la-vinyl-2c95",
+        "track": "music",
+        "category": "",
+        "name": "Sunday Sessions La (Vinyl Only) Open Air: Xica Soul, Gil Tamazyan, Julian",
+        "day": "Sun",
+        "date": "2026-09-13",
+        "time": "",
+        "start": null,
+        "end": null,
+        "area": "Los Angeles",
+        "venue": "",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "Free b4 7pm / $23-34, 21+",
+        "tags": [],
+        "sources": [],
+        "tickets": [
+          "https://shotgun.live/en/events/sunday-sessions-la-08-24-90"
+        ],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=Los%20Angeles",
+          "apple": "https://maps.apple.com/?q=Los%20Angeles"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-09-07-music-sungay-brunch-victor-rodriguez-fe2908",
+        "eid": "sungay-brunch-victor-rod-dba2",
+        "track": "music",
+        "category": "",
+        "name": "Sungay Brunch - Victor Rodriguez, Rob Aquino, Chitara, Love Baila",
+        "day": "Sun",
+        "date": "2026-09-13",
+        "time": "",
+        "start": null,
+        "end": null,
+        "area": "Los Angeles",
+        "venue": "The Hoxton Hotel",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "$15, 21+",
+        "tags": [],
+        "sources": [],
+        "tickets": [
+          "https://ra.co/events/2526819"
+        ],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=The%20Hoxton%20Hotel%2C%20Los%20Angeles",
+          "apple": "https://maps.apple.com/?q=The%20Hoxton%20Hotel%2C%20Los%20Angeles"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-09-07-music-mat-zo-at-the-compound-los-ang-5aeade",
+        "eid": "mat-zo-at-the-compound-l-9944",
+        "track": "music",
+        "category": "",
+        "name": "Mat Zo at The Compound, Los Angeles (Album Tour)",
+        "day": "Fri",
+        "date": "2026-09-11",
+        "time": "",
+        "start": null,
+        "end": null,
+        "area": "Los Angeles",
+        "venue": "The Compound by Dirt Dog",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "$25",
+        "tags": [],
+        "sources": [],
+        "tickets": [
+          "https://ra.co/events/2533311"
+        ],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=The%20Compound%20by%20Dirt%20Dog%2C%20Los%20Angeles",
+          "apple": "https://maps.apple.com/?q=The%20Compound%20by%20Dirt%20Dog%2C%20Los%20Angeles"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {
+          "event_id": "2533311",
+          "url": "https://ra.co/events/2533311",
+          "interested": 2
+        },
+        "image": "https://party-scout.app/img/gen/mat-zo-at-the-compound-l-9944.jpg",
+        "image_generated": true,
+        "popularity": 0,
+        "enriched": 1,
+        "active": true
+      },
+      {
+        "id": "2026-09-07-music-midnite-radio-presents-kana-hi-47537e",
+        "eid": "midnite-radio-presents-k-0a31",
+        "track": "music",
+        "category": "",
+        "name": "Midnite Radio presents: Kana Hishiya and Midnite Mary",
+        "day": "Fri",
+        "date": "2026-09-11",
+        "time": "",
+        "start": null,
+        "end": null,
+        "area": "Los Angeles",
+        "venue": "Apotheke",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "",
+        "tags": [],
+        "sources": [],
+        "tickets": [
+          "https://ra.co/events/2523846"
+        ],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=Apotheke%2C%20Los%20Angeles",
+          "apple": "https://maps.apple.com/?q=Apotheke%2C%20Los%20Angeles"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {
+          "event_id": "2523846",
+          "url": "https://ra.co/events/2523846",
+          "interested": 16
+        },
+        "image": "https://party-scout.app/img/gen/midnite-radio-presents-k-0a31.jpg",
+        "image_generated": true,
+        "popularity": 0,
+        "enriched": 1,
+        "active": true
+      },
+      {
+        "id": "2026-09-07-music-nightshift-after-houirs-4b99bc",
+        "eid": "nightshift-after-houirs-b5ee",
+        "track": "music",
+        "category": "",
+        "name": "NIGHTSHIFT AFTER HOUIRS",
+        "day": "Fri",
+        "date": "2026-09-11",
+        "time": "",
+        "start": null,
+        "end": null,
+        "area": "Los Angeles",
+        "venue": "The Lexington",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "Free",
+        "tags": [],
+        "sources": [],
+        "tickets": [
+          "https://ra.co/events/2530578"
+        ],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=The%20Lexington%2C%20Los%20Angeles",
+          "apple": "https://maps.apple.com/?q=The%20Lexington%2C%20Los%20Angeles"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {
+          "event_id": "2530578",
+          "url": "https://ra.co/events/2530578",
+          "interested": 5
+        },
+        "image": "https://party-scout.app/img/gen/nightshift-after-houirs-b5ee.jpg",
+        "image_generated": true,
+        "popularity": 0,
+        "enriched": 1,
+        "active": true
+      },
+      {
+        "id": "2026-09-07-music-one-for-nepal-la-s-music-commu-c0d553",
+        "eid": "one-for-nepal-la-s-music-3f0f",
+        "track": "music",
+        "category": "",
+        "name": "ONE FOR NEPAL - LA's Music Community Unites",
+        "day": "Fri",
+        "date": "2026-09-11",
+        "time": "",
+        "start": null,
+        "end": null,
+        "area": "Los Angeles",
+        "venue": "The Airliner",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "$15",
+        "tags": [],
+        "sources": [],
+        "tickets": [
+          "https://ra.co/events/2529047"
+        ],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=The%20Airliner%2C%20Los%20Angeles",
+          "apple": "https://maps.apple.com/?q=The%20Airliner%2C%20Los%20Angeles"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {
+          "event_id": "2529047",
+          "url": "https://ra.co/events/2529047",
+          "interested": 66
+        },
+        "image": "https://party-scout.app/img/gen/one-for-nepal-la-s-music-3f0f.jpg",
+        "image_generated": true,
+        "popularity": 0,
+        "enriched": 1,
+        "active": true
+      },
+      {
+        "id": "2026-09-07-music-raving-101-23eb68",
+        "eid": "raving-101-afe7",
+        "track": "music",
+        "category": "",
+        "name": "Raving 101",
+        "day": "Fri",
+        "date": "2026-09-11",
+        "time": "",
+        "start": null,
+        "end": null,
+        "area": "Los Angeles",
+        "venue": "La Bufadora Bar",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "Free",
+        "tags": [],
+        "sources": [],
+        "tickets": [
+          "https://ra.co/events/2532660"
+        ],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=La%20Bufadora%20Bar%2C%20Los%20Angeles",
+          "apple": "https://maps.apple.com/?q=La%20Bufadora%20Bar%2C%20Los%20Angeles"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {
+          "event_id": "2532660",
+          "url": "https://ra.co/events/2532660",
+          "interested": 2
+        },
+        "image": "https://party-scout.app/img/gen/raving-101-afe7.jpg",
+        "image_generated": true,
+        "popularity": 0,
+        "enriched": 1,
+        "active": true
+      },
+      {
+        "id": "2026-09-07-music-body-bag-kunt-cobain-4evr-prin-b605b9",
+        "eid": "body-bag-kunt-cobain-4ev-1d36",
+        "track": "music",
+        "category": "",
+        "name": "Body Bag, Kunt Cobain, 4evr, Princess Bun Bunz, Sabbath, Webmistress, Bbyafrika, Chzter, SleezLa - Live In The Flesh",
+        "day": "Sat",
+        "date": "2026-09-12",
+        "time": "",
+        "start": null,
+        "end": null,
+        "area": "Los Angeles",
+        "venue": "1720",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "$33+, 21+",
+        "tags": [],
+        "sources": [],
+        "tickets": [
+          "https://dice.fm/event/k65ae9-minty-boi-presents-bodybag-la-live-in-the-flesh-12th-sep-1720-los-angeles-tickets"
+        ],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=1720%2C%20Los%20Angeles",
+          "apple": "https://maps.apple.com/?q=1720%2C%20Los%20Angeles"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "https://party-scout.app/img/gen/body-bag-kunt-cobain-4ev-1d36.jpg",
+        "image_generated": true,
+        "popularity": 0,
+        "enriched": 1,
+        "active": true
+      },
+      {
+        "id": "2026-09-07-music-city-pop-waves-casiopea-specia-6dacc6",
+        "eid": "city-pop-waves-casiopea-bd8f",
+        "track": "music",
+        "category": "",
+        "name": "City Pop Waves: Casiopea Special Live 2026 in Los Angeles",
+        "day": "Sun",
+        "date": "2026-09-13",
+        "time": "",
+        "start": null,
+        "end": null,
+        "area": "Los Angeles",
+        "venue": "The Wiltern",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "",
+        "tags": [],
+        "sources": [
+          "https://www.wiltern.com/shows"
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=The%20Wiltern%2C%20Los%20Angeles",
+          "apple": "https://maps.apple.com/?q=The%20Wiltern%2C%20Los%20Angeles"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "https://party-scout.app/img/gen/city-pop-waves-casiopea-bd8f.jpg",
+        "image_generated": true,
+        "popularity": 0,
+        "enriched": 1,
+        "active": true
+      },
+      {
+        "id": "2026-09-07-music-divine-timing-honoring-spinori-b76fba",
+        "eid": "divine-timing-honoring-s-7062",
+        "track": "music",
+        "category": "",
+        "name": "Divine Timing honoring Spiñorita",
+        "day": "Sun",
+        "date": "2026-09-13",
+        "time": "",
+        "start": null,
+        "end": null,
+        "area": "Los Angeles",
+        "venue": "Elysian Park",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "",
+        "tags": [],
+        "sources": [],
+        "tickets": [
+          "https://ra.co/events/2529271"
+        ],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=Elysian%20Park%2C%20Los%20Angeles",
+          "apple": "https://maps.apple.com/?q=Elysian%20Park%2C%20Los%20Angeles"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {
+          "event_id": "2529271",
+          "url": "https://ra.co/events/2529271",
+          "interested": 4
+        },
+        "image": "https://party-scout.app/img/gen/divine-timing-honoring-s-7062.jpg",
+        "image_generated": true,
+        "popularity": 0,
+        "enriched": 1,
+        "active": true
+      },
+      {
+        "id": "2026-09-07-music-mezza-2-in-collab-with-le-friq-8c1060",
+        "eid": "mezza-2-in-collab-with-l-21d5",
+        "track": "music",
+        "category": "",
+        "name": "mezza 2 in collab with Le Frique Sonique",
+        "day": "Sun",
+        "date": "2026-09-13",
+        "time": "",
+        "start": null,
+        "end": null,
+        "area": "Los Angeles",
+        "venue": "High Tide",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "$25",
+        "tags": [],
+        "sources": [],
+        "tickets": [
+          "https://ra.co/events/2526843"
+        ],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=High%20Tide%2C%20Los%20Angeles",
+          "apple": "https://maps.apple.com/?q=High%20Tide%2C%20Los%20Angeles"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {
+          "event_id": "2526843",
+          "url": "https://ra.co/events/2526843",
+          "interested": 20
+        },
+        "image": "https://party-scout.app/img/gen/mezza-2-in-collab-with-l-21d5.jpg",
+        "image_generated": true,
+        "popularity": 0,
+        "enriched": 1,
+        "active": true
+      },
+      {
+        "id": "2026-09-07-music-sungay-brunch-los-angeles-with-b22fcf",
+        "eid": "sungay-brunch-los-angele-3809",
+        "track": "music",
+        "category": "",
+        "name": "SUNGAY BRUNCH - Los Angeles with Victor Rodriguez",
+        "day": "Sun",
+        "date": "2026-09-13",
+        "time": "",
+        "start": null,
+        "end": null,
+        "area": "Los Angeles",
+        "venue": "The Hoxton Hotel - LA",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "$15",
+        "tags": [],
+        "sources": [],
+        "tickets": [
+          "https://ra.co/events/2526819"
+        ],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=The%20Hoxton%20Hotel%20-%20LA%2C%20Los%20Angeles",
+          "apple": "https://maps.apple.com/?q=The%20Hoxton%20Hotel%20-%20LA%2C%20Los%20Angeles"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {
+          "event_id": "2526819",
+          "url": "https://ra.co/events/2526819",
+          "interested": 6
+        },
+        "image": "https://party-scout.app/img/gen/sungay-brunch-los-angele-3809.jpg",
         "image_generated": true,
         "popularity": 0,
         "enriched": 1,
