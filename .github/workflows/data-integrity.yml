@@ -1,0 +1,45 @@
+name: data integrity
+
+# REQUIREMENTS.md rule 7: an event is never deleted, only flagged
+# `active: false`. This gate refuses a change that drops one from a week file.
+#
+# Both triggers matter: pull requests are the reviewed path, but nearly every
+# commit here is a direct push from the generator, and a silent loss on that
+# path is the one worth hearing about.
+on:
+  pull_request:
+    paths:
+      - 'data/**'
+      - 'tools/check_no_event_deletions.py'
+      - '.github/workflows/data-integrity.yml'
+  push:
+    branches: [main]
+    paths:
+      - 'data/**'
+      - 'tools/check_no_event_deletions.py'
+      - '.github/workflows/data-integrity.yml'
+
+jobs:
+  no-event-deletions:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          # The whole history: the check reads the base commit's copy of every
+          # changed week file out of git.
+          fetch-depth: 0
+          ref: ${{ github.event.pull_request.head.sha || github.sha }}
+
+      - name: No event removed from a committed week
+        run: |
+          if [ "${{ github.event_name }}" = "pull_request" ]; then
+            python3 tools/check_no_event_deletions.py \
+              --base "${{ github.event.pull_request.base.sha }}"
+          elif ! git cat-file -e "${{ github.event.before }}^{commit}" 2>/dev/null; then
+            # New branch (all-zero sha), or a force push whose old tip is gone.
+            echo "no reachable previous commit to compare against, skipping"
+          else
+            # before/after are consecutive on a push, so compare them directly.
+            python3 tools/check_no_event_deletions.py \
+              --no-merge-base --base "${{ github.event.before }}"
+          fi
