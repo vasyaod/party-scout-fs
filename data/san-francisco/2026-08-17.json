@@ -5,7 +5,7 @@
   "location": "San Francisco & Bay Area",
   "city": "san-francisco",
   "city_label": "San Francisco",
-  "generated_at": "2026-08-14",
+  "generated_at": "2026-09-10",
   "tracks": {
     "music": [
       {
@@ -22,7 +22,7 @@
         "area": "Concord",
         "venue": "Diablo Creek Golf Course",
         "address": "Diablo Creek Golf Course, Concord, CA",
-        "why": "A three-hour golf-and-R&B mixer with instruction and clubs provided, not just another club night \u2014 beginners and regulars both welcome.",
+        "why": "A three-hour golf-and-R&B mixer with instruction and clubs provided, not just another club night — beginners and regulars both welcome.",
         "summary": "DJ Heartbreak's R&B & Golf returns to Diablo Creek Golf Course in Concord on Saturday, August 22, with three hours of golf, R&B music, professional instruction, giveaways, and a closing mixer.",
         "promoter": "DJ Heartbreak",
         "price": "",
@@ -44,8 +44,8 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
-        "image_generated": false,
+        "image": "https://party-scout.app/img/gen/r-b-golf-e1d5.jpg",
+        "image_generated": true,
         "popularity": 2,
         "active": true,
         "lineup": [
@@ -53,7 +53,8 @@
             "name": "DJ Heartbreak",
             "instagram": "iamdjheartbreak"
           }
-        ]
+        ],
+        "enriched": 0
       },
       {
         "id": "2026-08-17-music-west-coast-jungle-showcase-oak-9f2c31",
@@ -63,13 +64,13 @@
         "name": "West Coast Jungle Showcase",
         "day": "Sat",
         "date": "2026-08-22",
-        "time": "9pm\u2013late",
+        "time": "9pm–late",
         "start": "21:00",
         "end": null,
         "area": "Oakland",
         "venue": "TBA (secret Oakland location, released day-of)",
         "address": "",
-        "why": "An all-California jungle/DNB lineup at a warehouse-style spot whose address only drops the day of the show \u2014 presale-only entry.",
+        "why": "An all-California jungle/DNB lineup at a warehouse-style spot whose address only drops the day of the show — presale-only entry.",
         "summary": "Rhythmic Remedies' West Coast Jungle Showcase hits a secret Oakland location on Saturday, August 22, with a heavy-hitting lineup of West Coast jungle and DNB DJs/producers, 9pm to late.",
         "promoter": "Rhythmic Remedies",
         "price": "",
@@ -92,8 +93,8 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
-        "image_generated": false,
+        "image": "https://party-scout.app/img/gen/west-coast-jungle-showca-a826.jpg",
+        "image_generated": true,
         "popularity": 2,
         "active": true,
         "lineup": [
@@ -133,7 +134,8 @@
             "name": "rivsntings",
             "instagram": "rivsntings"
           }
-        ]
+        ],
+        "enriched": 0
       },
       {
         "id": "2026-08-17-music-anjunafamily-sf-community-gathering-bella-e91a",
@@ -171,11 +173,12 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
-        "image_generated": false,
+        "image": "https://party-scout.app/img/gen/anjunafamily-sf-communit-6ddc.jpg",
+        "image_generated": true,
         "popularity": 2,
         "active": true,
-        "lineup": []
+        "lineup": [],
+        "enriched": 0
       },
       {
         "id": "2026-08-17-music-so-house-your-evening-so-far-valencia-c4a1",
@@ -185,7 +188,7 @@
         "name": "SO HOUSE... YOUR EVENING SO FAR?",
         "day": "Mon",
         "date": "2026-08-17",
-        "time": "9PM\u2013Late",
+        "time": "9PM–Late",
         "start": "21:00",
         "end": null,
         "area": "Mission District",
@@ -211,8 +214,8 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
-        "image_generated": false,
+        "image": "https://party-scout.app/img/gen/so-house-your-evening-so-9a2f.jpg",
+        "image_generated": true,
         "popularity": 1,
         "active": true,
         "lineup": [
@@ -228,7 +231,8 @@
             "name": "Yango.dj",
             "instagram": "yango.dj"
           }
-        ]
+        ],
+        "enriched": 0
       },
       {
         "id": "2026-08-17-music-mirage-treasure-island-mersea-d9e2",
@@ -264,11 +268,12 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
-        "image_generated": false,
+        "image": "https://party-scout.app/img/gen/mirage-cb53.jpg",
+        "image_generated": true,
         "popularity": 1,
         "active": true,
-        "lineup": []
+        "lineup": [],
+        "enriched": 0
       },
       {
         "id": "2026-08-17-music-rival-consoles-live-a-v-tour-7bc23e",
@@ -312,13 +317,16 @@
         "coords_precise": true,
         "ra": {
           "id": "2411126",
-          "interested": 135,
-          "url": "https://ra.co/events/2411126"
+          "interested": 210,
+          "url": "https://ra.co/events/2411126",
+          "event_id": "2411126",
+          "attending": 210
         },
         "image": "https://images.ra.co/f615d9d2e370572c0f4c5ebcfb42dea880d1e5ec.jpg",
         "image_generated": false,
         "popularity": 0,
-        "active": true
+        "active": true,
+        "enriched": 0
       },
       {
         "id": "2026-08-17-music-wobbleland-2026-25b7af",
@@ -343,7 +351,8 @@
           "bass",
           "festival",
           "hardstyle",
-          "18+"
+          "18+",
+          "18-plus"
         ],
         "sources": [
           "https://www.insomniac.com/events/wobbleland-2026-2026-08-21-san-jose-ca/",
@@ -365,7 +374,8 @@
         "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2026/04/24184811/wQy083rUfcTKgd2jUnGE7qYIJSjjJ7aw5TPGod9P.jpg",
         "image_generated": false,
         "popularity": 0,
-        "active": true
+        "active": true,
+        "enriched": 0
       },
       {
         "id": "2026-08-17-music-levi-the-midway-sf-a3c9e2",
@@ -399,8 +409,8 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
-        "image_generated": false,
+        "image": "https://party-scout.app/img/gen/levi-at-the-midway-70cc.jpg",
+        "image_generated": true,
         "popularity": 2,
         "active": true,
         "lineup": [
@@ -408,48 +418,60 @@
             "name": "LEVI",
             "instagram": "baum_dj"
           }
-        ]
+        ],
+        "enriched": 0
       },
       {
         "id": "2026-08-17-music-tangerine-dream-908132",
         "eid": "tangerine-dream-50f7",
         "track": "music",
-        "category": "",
+        "category": "Electronic",
         "name": "Tangerine Dream",
         "day": "Mon",
         "date": "2026-08-17",
-        "time": "",
-        "start": null,
+        "time": "8pm",
+        "start": "20:00",
         "end": null,
         "area": "San Francisco",
         "venue": "The Regency Ballroom",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "1300 Van Ness Avenue, San Francisco, CA 94109",
+        "why": "Genre-founding synth pioneers on tour, in a rare all-ages show",
+        "summary": "German electronic pioneers Tangerine Dream bring their Continuum Tour to The Regency Ballroom for an all-ages show built on their signature synthesizer-driven sound.",
         "promoter": "",
-        "price": "",
-        "tags": [],
-        "sources": [
-          "https://dothebay.com/events/2026/8/17/tangerine-dream-tickets"
+        "price": "$48–55",
+        "tags": [
+          "electronic",
+          "synth",
+          "all-ages"
         ],
-        "tickets": [],
+        "sources": [
+          "https://dothebay.com/events/2026/8/17/tangerine-dream-tickets",
+          "https://www.axs.com/events/1454991/tangerine-dream-tickets"
+        ],
+        "tickets": [
+          "https://www.axs.com/events/1454991/tangerine-dream-tickets"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=The%20Regency%20Ballroom%2C%20San%20Francisco",
           "apple": "https://maps.apple.com/?q=The%20Regency%20Ballroom%2C%20San%20Francisco"
         },
-        "coords": null,
-        "coords_precise": false,
+        "coords": {
+          "lat": 37.7878176,
+          "lon": -122.4215762
+        },
+        "coords_precise": true,
         "ra": {},
-        "image": "",
-        "image_generated": false,
+        "image": "https://party-scout.app/img/gen/tangerine-dream-50f7.jpg",
+        "image_generated": true,
         "popularity": 0,
-        "active": true
+        "active": true,
+        "enriched": 0
       },
       {
         "id": "2026-08-17-music-all-vinyl-techno-tuesday-nino-4b81c8",
         "eid": "all-vinyl-techno-tuesday-f6ee",
         "track": "music",
-        "category": "",
+        "category": "Techno",
         "name": "All-Vinyl Techno Tuesday: Nino Msk",
         "day": "Tue",
         "date": "2026-08-18",
@@ -463,7 +485,10 @@
         "summary": "",
         "promoter": "",
         "price": "",
-        "tags": [],
+        "tags": [
+          "techno",
+          "vinyl-only"
+        ],
         "sources": [],
         "tickets": [],
         "maps": {
@@ -473,10 +498,11 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
-        "image_generated": false,
+        "image": "https://party-scout.app/img/gen/all-vinyl-techno-tuesday-f6ee.jpg",
+        "image_generated": true,
         "popularity": 0,
-        "active": true
+        "active": true,
+        "enriched": 0
       },
       {
         "id": "2026-08-17-music-borgore-wook-appruvd-ayvo-b2b-b5a9cb",
@@ -496,7 +522,9 @@
         "summary": "",
         "promoter": "",
         "price": "",
-        "tags": [],
+        "tags": [
+          "b2b"
+        ],
         "sources": [],
         "tickets": [],
         "maps": {
@@ -506,10 +534,11 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
-        "image_generated": false,
+        "image": "https://party-scout.app/img/gen/borgore-wook-appruvd-ayv-44a3.jpg",
+        "image_generated": true,
         "popularity": 0,
-        "active": true
+        "active": true,
+        "enriched": 0
       },
       {
         "id": "2026-08-17-music-wtf-jcore-jess960-minako-lilot-62d3b3",
@@ -539,16 +568,17 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
-        "image_generated": false,
+        "image": "https://party-scout.app/img/gen/wtf-jcore-jess960-minako-1640.jpg",
+        "image_generated": true,
         "popularity": 0,
-        "active": true
+        "active": true,
+        "enriched": 0
       },
       {
         "id": "2026-08-17-music-berkeley-welcome-week-rave-a732a9",
         "eid": "berkeley-welcome-week-ra-3861",
         "track": "music",
-        "category": "",
+        "category": "Rave",
         "name": "Berkeley Welcome Week Rave",
         "day": "Wed",
         "date": "2026-08-19",
@@ -572,10 +602,11 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
-        "image_generated": false,
+        "image": "https://party-scout.app/img/gen/berkeley-welcome-week-ra-3861.jpg",
+        "image_generated": true,
         "popularity": 0,
-        "active": true
+        "active": true,
+        "enriched": 0
       },
       {
         "id": "2026-08-17-music-dark-vinyl-la-gitana-747-littl-71ab45",
@@ -605,10 +636,11 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
-        "image_generated": false,
+        "image": "https://party-scout.app/img/gen/dark-vinyl-la-gitana-747-d525.jpg",
+        "image_generated": true,
         "popularity": 0,
-        "active": true
+        "active": true,
+        "enriched": 0
       },
       {
         "id": "2026-08-17-music-discoesq-1e14a9",
@@ -638,16 +670,17 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
-        "image_generated": false,
+        "image": "https://party-scout.app/img/gen/discoesq-0b85.jpg",
+        "image_generated": true,
         "popularity": 0,
-        "active": true
+        "active": true,
+        "enriched": 0
       },
       {
         "id": "2026-08-17-music-guera-all-vinyl-c08cf8",
         "eid": "guera-all-vinyl-85ee",
         "track": "music",
-        "category": "",
+        "category": "Vinyl",
         "name": "Guera - All Vinyl",
         "day": "Thu",
         "date": "2026-08-20",
@@ -661,7 +694,9 @@
         "summary": "",
         "promoter": "",
         "price": "",
-        "tags": [],
+        "tags": [
+          "vinyl-only"
+        ],
         "sources": [],
         "tickets": [],
         "maps": {
@@ -671,10 +706,11 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
-        "image_generated": false,
+        "image": "https://party-scout.app/img/gen/guera-all-vinyl-85ee.jpg",
+        "image_generated": true,
         "popularity": 0,
-        "active": true
+        "active": true,
+        "enriched": 0
       },
       {
         "id": "2026-08-17-music-loud-time-audio1-shadow-spirit-668780",
@@ -704,16 +740,17 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
-        "image_generated": false,
+        "image": "https://party-scout.app/img/gen/loud-time-audio1-shadow-fc07.jpg",
+        "image_generated": true,
         "popularity": 0,
-        "active": true
+        "active": true,
+        "enriched": 0
       },
       {
         "id": "2026-08-17-music-shelter-sf-dnb-b363e7",
         "eid": "shelter-sf-dnb-3095",
         "track": "music",
-        "category": "",
+        "category": "Drum & Bass",
         "name": "Shelter SF Dnb",
         "day": "Thu",
         "date": "2026-08-20",
@@ -727,7 +764,9 @@
         "summary": "",
         "promoter": "",
         "price": "",
-        "tags": [],
+        "tags": [
+          "drum-and-bass"
+        ],
         "sources": [],
         "tickets": [],
         "maps": {
@@ -737,10 +776,11 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
-        "image_generated": false,
+        "image": "https://party-scout.app/img/gen/shelter-sf-dnb-3095.jpg",
+        "image_generated": true,
         "popularity": 0,
-        "active": true
+        "active": true,
+        "enriched": 0
       },
       {
         "id": "2026-08-17-music-wayward-axis-minty-4e50f2",
@@ -770,10 +810,11 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
-        "image_generated": false,
+        "image": "https://party-scout.app/img/gen/wayward-axis-minty-e788.jpg",
+        "image_generated": true,
         "popularity": 0,
-        "active": true
+        "active": true,
+        "enriched": 0
       },
       {
         "id": "2026-08-17-music-we-work-here-agropol-pap-john-100242",
@@ -803,10 +844,11 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
-        "image_generated": false,
+        "image": "https://party-scout.app/img/gen/we-work-here-agropol-pap-e651.jpg",
+        "image_generated": true,
         "popularity": 0,
-        "active": true
+        "active": true,
+        "enriched": 0
       },
       {
         "id": "2026-08-17-music-b2b-004-back2brotherhood-art-p-f9472b",
@@ -826,7 +868,9 @@
         "summary": "",
         "promoter": "",
         "price": "",
-        "tags": [],
+        "tags": [
+          "b2b"
+        ],
         "sources": [],
         "tickets": [],
         "maps": {
@@ -836,10 +880,11 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
-        "image_generated": false,
+        "image": "https://party-scout.app/img/gen/b2b-004-back2brotherhood-2159.jpg",
+        "image_generated": true,
         "popularity": 0,
-        "active": true
+        "active": true,
+        "enriched": 0
       },
       {
         "id": "2026-08-17-music-bijou-0ee2c1",
@@ -869,16 +914,17 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
-        "image_generated": false,
+        "image": "https://party-scout.app/img/gen/bijou-e8be.jpg",
+        "image_generated": true,
         "popularity": 0,
-        "active": true
+        "active": true,
+        "enriched": 0
       },
       {
         "id": "2026-08-17-music-block-rockin-beats-90s-rave-0b5389",
         "eid": "block-rockin-beats-90s-r-0642",
         "track": "music",
-        "category": "",
+        "category": "Rave",
         "name": "Block Rockin' Beats: 90s Rave",
         "day": "Fri",
         "date": "2026-08-21",
@@ -892,7 +938,9 @@
         "summary": "",
         "promoter": "",
         "price": "",
-        "tags": [],
+        "tags": [
+          "90s"
+        ],
         "sources": [],
         "tickets": [],
         "maps": {
@@ -902,10 +950,11 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
-        "image_generated": false,
+        "image": "https://party-scout.app/img/gen/block-rockin-beats-90s-r-0642.jpg",
+        "image_generated": true,
         "popularity": 0,
-        "active": true
+        "active": true,
+        "enriched": 0
       },
       {
         "id": "2026-08-17-music-bongo-chris-sedayao-buck-wilso-be46c3",
@@ -935,16 +984,17 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
-        "image_generated": false,
+        "image": "https://party-scout.app/img/gen/bongo-chris-sedayao-buck-dd19.jpg",
+        "image_generated": true,
         "popularity": 0,
-        "active": true
+        "active": true,
+        "enriched": 0
       },
       {
         "id": "2026-08-17-music-boogie-nights-a735e8",
         "eid": "boogie-nights-bbd1",
         "track": "music",
-        "category": "",
+        "category": "Disco",
         "name": "Boogie Nights",
         "day": "Fri",
         "date": "2026-08-21",
@@ -968,16 +1018,17 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
-        "image_generated": false,
+        "image": "https://party-scout.app/img/gen/boogie-nights-bbd1.jpg",
+        "image_generated": true,
         "popularity": 0,
-        "active": true
+        "active": true,
+        "enriched": 0
       },
       {
         "id": "2026-08-17-music-clb-intrncnl-noche-de-perreo-2b7269",
         "eid": "clb-intrncnl-noche-de-pe-bb4c",
         "track": "music",
-        "category": "",
+        "category": "Latin",
         "name": "Clb Intrncnl: Noche De Perreo",
         "day": "Fri",
         "date": "2026-08-21",
@@ -1001,10 +1052,11 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
-        "image_generated": false,
+        "image": "https://party-scout.app/img/gen/clb-intrncnl-noche-de-pe-bb4c.jpg",
+        "image_generated": true,
         "popularity": 0,
-        "active": true
+        "active": true,
+        "enriched": 0
       },
       {
         "id": "2026-08-17-music-datsko-jush-tosh-normis-557ce4",
@@ -1034,10 +1086,11 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
-        "image_generated": false,
+        "image": "https://party-scout.app/img/gen/datsko-jush-tosh-normis-acbe.jpg",
+        "image_generated": true,
         "popularity": 0,
-        "active": true
+        "active": true,
+        "enriched": 0
       },
       {
         "id": "2026-08-17-music-dev-cloud-b2b-ndmore-48d19f",
@@ -1057,7 +1110,9 @@
         "summary": "",
         "promoter": "",
         "price": "",
-        "tags": [],
+        "tags": [
+          "b2b"
+        ],
         "sources": [],
         "tickets": [],
         "maps": {
@@ -1067,10 +1122,11 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
-        "image_generated": false,
+        "image": "https://party-scout.app/img/gen/dev-cloud-b2b-ndmore-179f.jpg",
+        "image_generated": true,
         "popularity": 0,
-        "active": true
+        "active": true,
+        "enriched": 0
       },
       {
         "id": "2026-08-17-music-feral-lands-ft-gawm-fc4fb7",
@@ -1100,10 +1156,11 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
-        "image_generated": false,
+        "image": "https://party-scout.app/img/gen/feral-lands-ft-gawm-5f5d.jpg",
+        "image_generated": true,
         "popularity": 0,
-        "active": true
+        "active": true,
+        "enriched": 0
       },
       {
         "id": "2026-08-17-music-north-american-scum-meikee-mag-893c74",
@@ -1133,43 +1190,57 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
-        "image_generated": false,
+        "image": "https://party-scout.app/img/gen/north-american-scum-meik-bda7.jpg",
+        "image_generated": true,
         "popularity": 0,
-        "active": true
+        "active": true,
+        "enriched": 0
       },
       {
         "id": "2026-08-17-music-oliver-koletzki-e81c9a",
         "eid": "oliver-koletzki-051a",
         "track": "music",
-        "category": "",
+        "category": "House",
         "name": "Oliver Koletzki",
         "day": "Fri",
         "date": "2026-08-21",
-        "time": "",
-        "start": null,
+        "time": "9:30pm–2am",
+        "start": "21:30",
         "end": null,
         "area": "San Francisco",
         "venue": "Public Works",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "161 Erie St, San Francisco, CA 94103",
+        "why": "Two decades shaping melodic house headline a Mission District club mainstay",
+        "summary": "German producer and Stil vor Talent label founder Oliver Koletzki returns to Public Works with support from Benjamin K and Asymmetry for a night of melodic house and driving techno.",
         "promoter": "",
-        "price": "",
-        "tags": [],
-        "sources": [],
-        "tickets": [],
+        "price": "$10–60",
+        "tags": [
+          "house",
+          "melodic-house",
+          "techno"
+        ],
+        "sources": [
+          "https://dothebay.com/events/2026/8/21/oliver-koletzki-presented-by-public-works-tickets",
+          "https://www.eventbrite.com/e/oliver-koletzki-presented-by-public-works-tickets-1990117178052"
+        ],
+        "tickets": [
+          "https://www.eventbrite.com/e/oliver-koletzki-presented-by-public-works-tickets-1990117178052"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Public%20Works%2C%20San%20Francisco",
           "apple": "https://maps.apple.com/?q=Public%20Works%2C%20San%20Francisco"
         },
-        "coords": null,
-        "coords_precise": false,
+        "coords": {
+          "lat": 37.7688931,
+          "lon": -122.4192651
+        },
+        "coords_precise": true,
         "ra": {},
-        "image": "",
-        "image_generated": false,
+        "image": "https://party-scout.app/img/gen/oliver-koletzki-051a.jpg",
+        "image_generated": true,
         "popularity": 0,
-        "active": true
+        "active": true,
+        "enriched": 0
       },
       {
         "id": "2026-08-17-music-pierce-warnecke-and-matthew-bi-0796c8",
@@ -1199,10 +1270,11 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
-        "image_generated": false,
+        "image": "https://party-scout.app/img/gen/pierce-warnecke-and-matt-5e33.jpg",
+        "image_generated": true,
         "popularity": 0,
-        "active": true
+        "active": true,
+        "enriched": 0
       },
       {
         "id": "2026-08-17-music-pre-playa-party-the-unofficial-ed61bb",
@@ -1232,16 +1304,17 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
-        "image_generated": false,
+        "image": "https://party-scout.app/img/gen/pre-playa-party-the-unof-a09d.jpg",
+        "image_generated": true,
         "popularity": 0,
-        "active": true
+        "active": true,
+        "enriched": 0
       },
       {
         "id": "2026-08-17-music-red-room-techno-bc971c",
         "eid": "red-room-techno-a3a1",
         "track": "music",
-        "category": "",
+        "category": "Techno",
         "name": "Red Room Techno",
         "day": "Fri",
         "date": "2026-08-21",
@@ -1255,7 +1328,9 @@
         "summary": "",
         "promoter": "",
         "price": "",
-        "tags": [],
+        "tags": [
+          "techno"
+        ],
         "sources": [],
         "tickets": [],
         "maps": {
@@ -1265,10 +1340,11 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
-        "image_generated": false,
+        "image": "https://party-scout.app/img/gen/red-room-techno-a3a1.jpg",
+        "image_generated": true,
         "popularity": 0,
-        "active": true
+        "active": true,
+        "enriched": 0
       },
       {
         "id": "2026-08-17-music-scummy-rumi-modyl-colson-f0241e",
@@ -1298,10 +1374,11 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
-        "image_generated": false,
+        "image": "https://party-scout.app/img/gen/scummy-rumi-modyl-colson-7c49.jpg",
+        "image_generated": true,
         "popularity": 0,
-        "active": true
+        "active": true,
+        "enriched": 0
       },
       {
         "id": "2026-08-17-music-siete-catorce-sucia-travieza-b53dc2",
@@ -1331,10 +1408,11 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
-        "image_generated": false,
+        "image": "https://party-scout.app/img/gen/siete-catorce-sucia-trav-5250.jpg",
+        "image_generated": true,
         "popularity": 0,
-        "active": true
+        "active": true,
+        "enriched": 0
       },
       {
         "id": "2026-08-17-music-throttle-oguz-neux-softchaos-e84062",
@@ -1364,16 +1442,17 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
-        "image_generated": false,
+        "image": "https://party-scout.app/img/gen/throttle-oguz-neux-softc-61b5.jpg",
+        "image_generated": true,
         "popularity": 0,
-        "active": true
+        "active": true,
+        "enriched": 0
       },
       {
         "id": "2026-08-17-music-velvet-club-edgar-goth-spice-m-c6a08c",
         "eid": "velvet-club-edgar-goth-s-2d29",
         "track": "music",
-        "category": "",
+        "category": "Goth",
         "name": "Velvet Club: Edgar, Goth Spice, Mare.e.fresh, Wockie",
         "day": "Fri",
         "date": "2026-08-21",
@@ -1387,7 +1466,9 @@
         "summary": "",
         "promoter": "",
         "price": "",
-        "tags": [],
+        "tags": [
+          "goth"
+        ],
         "sources": [],
         "tickets": [],
         "maps": {
@@ -1397,10 +1478,11 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
-        "image_generated": false,
+        "image": "https://party-scout.app/img/gen/velvet-club-edgar-goth-s-2d29.jpg",
+        "image_generated": true,
         "popularity": 0,
-        "active": true
+        "active": true,
+        "enriched": 0
       },
       {
         "id": "2026-08-17-music-wobbleland-2026-the-afters-fri-8395b4",
@@ -1430,10 +1512,11 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
-        "image_generated": false,
+        "image": "https://party-scout.app/img/gen/wobbleland-2026-the-afte-a29a.jpg",
+        "image_generated": true,
         "popularity": 0,
-        "active": true
+        "active": true,
+        "enriched": 0
       },
       {
         "id": "2026-08-17-music-buck-wilson-0164bd",
@@ -1463,10 +1546,11 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
-        "image_generated": false,
+        "image": "https://party-scout.app/img/gen/buck-wilson-055b.jpg",
+        "image_generated": true,
         "popularity": 0,
-        "active": true
+        "active": true,
+        "enriched": 0
       },
       {
         "id": "2026-08-17-music-chai-rave-sf-one-year-annivers-c0fea9",
@@ -1503,10 +1587,11 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
-        "image_generated": false,
+        "image": "https://party-scout.app/img/gen/chai-rave-sf-one-year-an-242b.jpg",
+        "image_generated": true,
         "popularity": 0,
-        "active": true
+        "active": true,
+        "enriched": 0
       },
       {
         "id": "2026-08-17-music-chaos-dro-fec717",
@@ -1536,10 +1621,11 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
-        "image_generated": false,
+        "image": "https://party-scout.app/img/gen/chaos-dro-b8ff.jpg",
+        "image_generated": true,
         "popularity": 0,
-        "active": true
+        "active": true,
+        "enriched": 0
       },
       {
         "id": "2026-08-17-music-chaos-in-the-415-afc2d5",
@@ -1569,10 +1655,11 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
-        "image_generated": false,
+        "image": "https://party-scout.app/img/gen/chaos-in-the-415-1d2e.jpg",
+        "image_generated": true,
         "popularity": 0,
-        "active": true
+        "active": true,
+        "enriched": 0
       },
       {
         "id": "2026-08-17-music-chris-lake-murda-beatz-jackie-0039b1",
@@ -1615,10 +1702,11 @@
           "interested": 92,
           "url": "https://ra.co/events/2470701"
         },
-        "image": "",
-        "image_generated": false,
+        "image": "https://party-scout.app/img/gen/chris-lake-murda-beatz-j-703e.jpg",
+        "image_generated": true,
         "popularity": 0,
-        "active": true
+        "active": true,
+        "enriched": 0
       },
       {
         "id": "2026-08-17-music-crystal-city-club-ffc4dc",
@@ -1648,10 +1736,11 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
-        "image_generated": false,
+        "image": "https://party-scout.app/img/gen/crystal-city-club-dce8.jpg",
+        "image_generated": true,
         "popularity": 0,
-        "active": true
+        "active": true,
+        "enriched": 0
       },
       {
         "id": "2026-08-17-music-discip-braydon-terzo-chase-har-1445cf",
@@ -1671,7 +1760,9 @@
         "summary": "",
         "promoter": "",
         "price": "",
-        "tags": [],
+        "tags": [
+          "b2b"
+        ],
         "sources": [],
         "tickets": [],
         "maps": {
@@ -1681,16 +1772,17 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
-        "image_generated": false,
+        "image": "https://party-scout.app/img/gen/discip-braydon-terzo-cha-85c6.jpg",
+        "image_generated": true,
         "popularity": 0,
-        "active": true
+        "active": true,
+        "enriched": 0
       },
       {
         "id": "2026-08-17-music-enchanted-realms-rave-24599a",
         "eid": "enchanted-realms-rave-6ac2",
         "track": "music",
-        "category": "",
+        "category": "Rave",
         "name": "Enchanted Realms Rave",
         "day": "Sat",
         "date": "2026-08-22",
@@ -1714,10 +1806,11 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
-        "image_generated": false,
+        "image": "https://party-scout.app/img/gen/enchanted-realms-rave-6ac2.jpg",
+        "image_generated": true,
         "popularity": 0,
-        "active": true
+        "active": true,
+        "enriched": 0
       },
       {
         "id": "2026-08-17-music-ethernal-s-5th-return-3463e1",
@@ -1747,16 +1840,17 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
-        "image_generated": false,
+        "image": "https://party-scout.app/img/gen/ethernal-s-5th-return-5ab5.jpg",
+        "image_generated": true,
         "popularity": 0,
-        "active": true
+        "active": true,
+        "enriched": 0
       },
       {
         "id": "2026-08-17-music-fiver-finger-disco-summer-seri-df5d6b",
         "eid": "fiver-finger-disco-summe-ecb5",
         "track": "music",
-        "category": "",
+        "category": "Disco",
         "name": "Fiver Finger Disco Summer Series",
         "day": "Sat",
         "date": "2026-08-22",
@@ -1770,7 +1864,9 @@
         "summary": "",
         "promoter": "",
         "price": "",
-        "tags": [],
+        "tags": [
+          "disco"
+        ],
         "sources": [],
         "tickets": [],
         "maps": {
@@ -1780,10 +1876,11 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
-        "image_generated": false,
+        "image": "https://party-scout.app/img/gen/fiver-finger-disco-summe-ecb5.jpg",
+        "image_generated": true,
         "popularity": 0,
-        "active": true
+        "active": true,
+        "enriched": 0
       },
       {
         "id": "2026-08-17-music-free-techno-lady-starlight-adr-b61519",
@@ -1799,7 +1896,7 @@
         "area": "San Francisco",
         "venue": "Salesforce Park",
         "address": "Salesforce Park, San Francisco, CA",
-        "why": "Free, outdoor, daytime rooftop-park techno with a live hardware set from Lady Starlight \u2014 exactly the free-outdoor-daytime type Vasilii likes.",
+        "why": "Free, outdoor, daytime rooftop-park techno with a live hardware set from Lady Starlight — exactly the free-outdoor-daytime type Vasilii likes.",
         "summary": "Free Techno returns to Salesforce Park's rooftop amphitheater Saturday, August 22, 4-8pm, with a live hardware performance from Lady Starlight plus DJ sets from Adra, Max Gardner and Zachary Noel.",
         "promoter": "",
         "price": "Free",
@@ -1824,10 +1921,11 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
-        "image_generated": false,
+        "image": "https://party-scout.app/img/gen/free-techno-lady-starlig-792d.jpg",
+        "image_generated": true,
         "popularity": 0,
-        "active": true
+        "active": true,
+        "enriched": 0
       },
       {
         "id": "2026-08-17-music-freeform-b70f17",
@@ -1857,16 +1955,17 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
-        "image_generated": false,
+        "image": "https://party-scout.app/img/gen/freeform-21aa.jpg",
+        "image_generated": true,
         "popularity": 0,
-        "active": true
+        "active": true,
+        "enriched": 0
       },
       {
         "id": "2026-08-17-music-furry-rave-oakland-e585cb",
         "eid": "furry-rave-oakland-200a",
         "track": "music",
-        "category": "",
+        "category": "Rave",
         "name": "Furry Rave Oakland",
         "day": "Sat",
         "date": "2026-08-22",
@@ -1890,10 +1989,11 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
-        "image_generated": false,
+        "image": "https://party-scout.app/img/gen/furry-rave-oakland-200a.jpg",
+        "image_generated": true,
         "popularity": 0,
-        "active": true
+        "active": true,
+        "enriched": 0
       },
       {
         "id": "2026-08-17-music-gabss-cade-connors-davani-42c01b",
@@ -1923,16 +2023,17 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
-        "image_generated": false,
+        "image": "https://party-scout.app/img/gen/gabss-cade-connors-davan-f64f.jpg",
+        "image_generated": true,
         "popularity": 0,
-        "active": true
+        "active": true,
+        "enriched": 0
       },
       {
         "id": "2026-08-17-music-hell-heim-goth-night-a79bce",
         "eid": "hell-heim-goth-night-1fa9",
         "track": "music",
-        "category": "",
+        "category": "Goth",
         "name": "Hell Heim Goth Night",
         "day": "Sat",
         "date": "2026-08-22",
@@ -1946,7 +2047,9 @@
         "summary": "",
         "promoter": "",
         "price": "",
-        "tags": [],
+        "tags": [
+          "goth"
+        ],
         "sources": [],
         "tickets": [],
         "maps": {
@@ -1956,16 +2059,17 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
-        "image_generated": false,
+        "image": "https://party-scout.app/img/gen/hell-heim-goth-night-1fa9.jpg",
+        "image_generated": true,
         "popularity": 0,
-        "active": true
+        "active": true,
+        "enriched": 0
       },
       {
         "id": "2026-08-17-music-house-on-the-lake-jumanjee-g4-d4c48b",
         "eid": "house-on-the-lake-jumanj-1e70",
         "track": "music",
-        "category": "",
+        "category": "House",
         "name": "House On The Lake: Jumanjee, G4, EMSO",
         "day": "Sat",
         "date": "2026-08-22",
@@ -1979,7 +2083,9 @@
         "summary": "",
         "promoter": "",
         "price": "",
-        "tags": [],
+        "tags": [
+          "house"
+        ],
         "sources": [],
         "tickets": [],
         "maps": {
@@ -1989,10 +2095,11 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
-        "image_generated": false,
+        "image": "https://party-scout.app/img/gen/house-on-the-lake-jumanj-1e70.jpg",
+        "image_generated": true,
         "popularity": 0,
-        "active": true
+        "active": true,
+        "enriched": 0
       },
       {
         "id": "2026-08-17-music-karaba-g-stav-atang-11bf3e",
@@ -2022,10 +2129,11 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
-        "image_generated": false,
+        "image": "https://party-scout.app/img/gen/karaba-g-stav-atang-ed8e.jpg",
+        "image_generated": true,
         "popularity": 0,
-        "active": true
+        "active": true,
+        "enriched": 0
       },
       {
         "id": "2026-08-17-music-kwon-yeonsu-b2z-crown-g-bbddy-b8d23c",
@@ -2055,10 +2163,11 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
-        "image_generated": false,
+        "image": "https://party-scout.app/img/gen/kwon-yeonsu-b2z-crown-g-9bb0.jpg",
+        "image_generated": true,
         "popularity": 0,
-        "active": true
+        "active": true,
+        "enriched": 0
       },
       {
         "id": "2026-08-17-music-late-night-clubbing-068-bcb857",
@@ -2088,10 +2197,11 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
-        "image_generated": false,
+        "image": "https://party-scout.app/img/gen/late-night-clubbing-068-59f1.jpg",
+        "image_generated": true,
         "popularity": 0,
-        "active": true
+        "active": true,
+        "enriched": 0
       },
       {
         "id": "2026-08-17-music-leftover-beats-cornii-fygma-on-d85cae",
@@ -2121,10 +2231,11 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
-        "image_generated": false,
+        "image": "https://party-scout.app/img/gen/leftover-beats-cornii-fy-f40b.jpg",
+        "image_generated": true,
         "popularity": 0,
-        "active": true
+        "active": true,
+        "enriched": 0
       },
       {
         "id": "2026-08-17-music-lento-san-francisco-519155",
@@ -2154,10 +2265,11 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
-        "image_generated": false,
+        "image": "https://party-scout.app/img/gen/lento-san-francisco-d412.jpg",
+        "image_generated": true,
         "popularity": 0,
-        "active": true
+        "active": true,
+        "enriched": 0
       },
       {
         "id": "2026-08-17-music-monoclick-7f98f3",
@@ -2187,10 +2299,11 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
-        "image_generated": false,
+        "image": "https://party-scout.app/img/gen/monoclick-9cb0.jpg",
+        "image_generated": true,
         "popularity": 0,
-        "active": true
+        "active": true,
+        "enriched": 0
       },
       {
         "id": "2026-08-17-music-pluko-313f73",
@@ -2213,14 +2326,18 @@
         "tags": [
           "bass",
           "electronic",
-          "club"
+          "club",
+          "melodic-dubstep"
         ],
         "sources": [
           "https://edmtrain.com/tours/pluko-10363/san-francisco-512479",
-          "https://www.eventbrite.com/e/pluko-tickets-1991801000410"
+          "https://www.eventbrite.com/e/pluko-tickets-1991801000410",
+          "https://dothebay.com/events/2026/8/22/pluko-tickets",
+          "https://www.axs.com/events/1490272/pluko-tickets"
         ],
         "tickets": [
-          "https://www.eventbrite.com/e/pluko-tickets-1991801000410"
+          "https://www.eventbrite.com/e/pluko-tickets-1991801000410",
+          "https://www.axs.com/events/1490272/pluko-tickets"
         ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=101%206th%20St%2C%20San%20Francisco%2C%20CA",
@@ -2229,10 +2346,11 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
-        "image_generated": false,
+        "image": "https://party-scout.app/img/gen/pluko-cb0d.jpg",
+        "image_generated": true,
         "popularity": 0,
-        "active": true
+        "active": true,
+        "enriched": 0
       },
       {
         "id": "2026-08-17-music-putos-discos-1d2fed",
@@ -2262,10 +2380,11 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
-        "image_generated": false,
+        "image": "https://party-scout.app/img/gen/putos-discos-5f9c.jpg",
+        "image_generated": true,
         "popularity": 0,
-        "active": true
+        "active": true,
+        "enriched": 0
       },
       {
         "id": "2026-08-17-music-summer-slam-3475b7",
@@ -2295,10 +2414,11 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
-        "image_generated": false,
+        "image": "https://party-scout.app/img/gen/summer-slam-4b39.jpg",
+        "image_generated": true,
         "popularity": 0,
-        "active": true
+        "active": true,
+        "enriched": 0
       },
       {
         "id": "2026-08-17-music-sunset-dj-pop-up-sahrfaiyah-me-a73e75",
@@ -2328,16 +2448,17 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
-        "image_generated": false,
+        "image": "https://party-scout.app/img/gen/sunset-dj-pop-up-sahrfai-ff7c.jpg",
+        "image_generated": true,
         "popularity": 0,
-        "active": true
+        "active": true,
+        "enriched": 0
       },
       {
         "id": "2026-08-17-music-that-90-s-rave-6ce149",
         "eid": "that-90-s-rave-b2d7",
         "track": "music",
-        "category": "",
+        "category": "Rave",
         "name": "That 90's Rave",
         "day": "Sat",
         "date": "2026-08-22",
@@ -2351,7 +2472,9 @@
         "summary": "",
         "promoter": "",
         "price": "",
-        "tags": [],
+        "tags": [
+          "90s"
+        ],
         "sources": [],
         "tickets": [],
         "maps": {
@@ -2361,10 +2484,11 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
-        "image_generated": false,
+        "image": "https://party-scout.app/img/gen/that-90-s-rave-b2d7.jpg",
+        "image_generated": true,
         "popularity": 0,
-        "active": true
+        "active": true,
+        "enriched": 0
       },
       {
         "id": "2026-08-17-music-track-id-x-alore-19f867",
@@ -2394,10 +2518,11 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
-        "image_generated": false,
+        "image": "https://party-scout.app/img/gen/track-id-x-alore-1c14.jpg",
+        "image_generated": true,
         "popularity": 0,
-        "active": true
+        "active": true,
+        "enriched": 0
       },
       {
         "id": "2026-08-17-music-une-nuit-a-paris-san-luu-s2-ir-238007",
@@ -2427,10 +2552,11 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
-        "image_generated": false,
+        "image": "https://party-scout.app/img/gen/une-nuit-a-paris-san-luu-fb9f.jpg",
+        "image_generated": true,
         "popularity": 0,
-        "active": true
+        "active": true,
+        "enriched": 0
       },
       {
         "id": "2026-08-17-music-wobbleland-2026-the-afters-sat-408151",
@@ -2460,10 +2586,11 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
-        "image_generated": false,
+        "image": "https://party-scout.app/img/gen/wobbleland-2026-the-afte-a6a8.jpg",
+        "image_generated": true,
         "popularity": 0,
-        "active": true
+        "active": true,
+        "enriched": 0
       },
       {
         "id": "2026-08-17-music-bubblebath-ketamine-princess-e-d42460",
@@ -2493,10 +2620,11 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
-        "image_generated": false,
+        "image": "https://party-scout.app/img/gen/bubblebath-ketamine-prin-26ca.jpg",
+        "image_generated": true,
         "popularity": 0,
-        "active": true
+        "active": true,
+        "enriched": 0
       },
       {
         "id": "2026-08-17-music-eric-luttrell-d9543e",
@@ -2526,10 +2654,11 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
-        "image_generated": false,
+        "image": "https://party-scout.app/img/gen/eric-luttrell-a03f.jpg",
+        "image_generated": true,
         "popularity": 0,
-        "active": true
+        "active": true,
+        "enriched": 0
       },
       {
         "id": "2026-08-17-music-late-night-clubbing-069-c45a8d",
@@ -2559,10 +2688,11 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
-        "image_generated": false,
+        "image": "https://party-scout.app/img/gen/late-night-clubbing-069-1485.jpg",
+        "image_generated": true,
         "popularity": 0,
-        "active": true
+        "active": true,
+        "enriched": 0
       },
       {
         "id": "2026-08-17-music-parked-vol-4-recess-in-the-sky-70fb02",
@@ -2592,10 +2722,11 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
-        "image_generated": false,
+        "image": "https://party-scout.app/img/gen/parked-vol-4-recess-in-t-8882.jpg",
+        "image_generated": true,
         "popularity": 0,
-        "active": true
+        "active": true,
+        "enriched": 0
       },
       {
         "id": "2026-08-17-music-broken-promises-oakland-95291f",
@@ -2633,8 +2764,8 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
-        "image_generated": false,
+        "image": "https://party-scout.app/img/gen/broken-promises-r-b-nigh-d64a.jpg",
+        "image_generated": true,
         "popularity": 2,
         "active": true,
         "lineup": [
@@ -2642,7 +2773,8 @@
             "name": "DJ Heartbreak",
             "instagram": "iamdjheartbreak"
           }
-        ]
+        ],
+        "enriched": 0
       },
       {
         "id": "2026-08-17-music-broken-promises-concord-b191df",
@@ -2681,8 +2813,8 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
-        "image_generated": false,
+        "image": "https://party-scout.app/img/gen/broken-promises-r-b-nigh-b0ec.jpg",
+        "image_generated": true,
         "popularity": 2,
         "active": true,
         "lineup": [
@@ -2694,14 +2826,15 @@
             "name": "Elijah Jaron",
             "instagram": "elijahjaron"
           }
-        ]
+        ],
+        "enriched": 0
       },
       {
         "id": "2026-08-19-music-pink-stiletto-hot-goth-oak-a1b2c3",
         "eid": "pink-stiletto-hgf-oak-a1b2",
         "track": "music",
         "category": "Darkwave / Synthpop",
-        "name": "Pink Stiletto \u2014 Hot Goth GF Radio Special",
+        "name": "Pink Stiletto — Hot Goth GF Radio Special",
         "day": "Wed",
         "date": "2026-08-19",
         "time": "",
@@ -2730,8 +2863,8 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
-        "image_generated": false,
+        "image": "https://party-scout.app/img/gen/pink-stiletto-hot-goth-g-8447.jpg",
+        "image_generated": true,
         "popularity": 2,
         "active": true,
         "lineup": [
@@ -2747,7 +2880,8 @@
             "name": "Spectre Oakland",
             "instagram": "spectreoakland"
           }
-        ]
+        ],
+        "enriched": 0
       },
       {
         "id": "2026-08-17-music-industry-sundays-butter-sf-ccb69b",
@@ -2784,8 +2918,8 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
-        "image_generated": false,
+        "image": "https://party-scout.app/img/gen/industry-sundays-5973.jpg",
+        "image_generated": true,
         "popularity": 2,
         "active": true,
         "lineup": [
@@ -2793,7 +2927,8 @@
             "name": "Jeff Straw",
             "instagram": "jeffstraw_official"
           }
-        ]
+        ],
+        "enriched": 0
       }
     ],
     "sports": [
@@ -2810,7 +2945,7 @@
         "venue": "Underdogs Too",
         "address": "3600 Taraval St, San Francisco, CA 94116",
         "why": "A biker-community taco night open to all motorcycles and riders, co-hosted by four Bay Area MC clubs for dinner and conversation.",
-        "summary": "Underdogs Too hosts a Taco Tuesday for the biker community on August 18, co-hosted by Delinquents Motorcycle Club, Delinquents MC San Jose, Family & Motorcycles, and Throttle Island T.I. \u2014 all motorcycles and riders welcome.",
+        "summary": "Underdogs Too hosts a Taco Tuesday for the biker community on August 18, co-hosted by Delinquents Motorcycle Club, Delinquents MC San Jose, Family & Motorcycles, and Throttle Island T.I. — all motorcycles and riders welcome.",
         "promoter": "",
         "price": "",
         "tags": [
@@ -2831,12 +2966,13 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
-        "image_generated": false,
+        "image": "https://party-scout.app/img/gen/taco-tuesday-moto-ride-5b4a.jpg",
+        "image_generated": true,
         "popularity": 1,
         "active": true,
         "id": "2026-08-17-sports-taco-tuesday-moto-ride-underdogs-a1c3",
-        "eid": "taco-tuesday-moto-ride-a1c3"
+        "eid": "taco-tuesday-moto-ride-a1c3",
+        "enriched": 0
       },
       {
         "id": "2026-08-17-sports-santa-rosa-marathon-weekend-00c4ba",
@@ -2846,8 +2982,8 @@
         "name": "Santa Rosa Marathon Weekend",
         "day": "Sat",
         "date": "2026-08-22",
-        "time": "",
-        "start": null,
+        "time": "morning",
+        "start": "07:00",
         "end": null,
         "area": "Santa Rosa",
         "venue": "Downtown Santa Rosa",
@@ -2860,7 +2996,8 @@
           "running",
           "marathon",
           "5k",
-          "10k"
+          "10k",
+          "half-marathon"
         ],
         "sources": [
           "https://runningintheusa.com/race/list/san%20francisco-county-ca/august",
@@ -2876,80 +3013,99 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
-        "image_generated": false,
+        "image": "https://party-scout.app/img/gen/santa-rosa-marathon-week-2678.jpg",
+        "image_generated": true,
         "popularity": 0,
-        "active": true
+        "active": true,
+        "enriched": 0
       },
       {
         "id": "2026-08-17-sports-walt-stack-dse-double-dipsea-23454c",
         "eid": "walt-stack-dse-double-di-55f0",
         "track": "sports",
-        "category": "",
+        "category": "Running",
         "name": "Walt Stack DSE Double Dipsea",
         "day": "Sat",
         "date": "2026-08-22",
-        "time": "",
-        "start": null,
+        "time": "7am",
+        "start": "07:00",
         "end": null,
         "area": "Stinson Beach",
         "venue": "Stinson Beach",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "3512 Shoreline Hwy, Stinson Beach, CA 94970",
+        "why": "56-year-old handicap format gives slower runners a real head start",
+        "summary": "The 56th annual Walt Stack DSE Double Dipsea is a 13.7-mile handicapped trail race from Stinson Beach to Mill Valley and back on the Dipsea Trail.",
         "promoter": "",
-        "price": "",
-        "tags": [],
+        "price": "$194–237",
+        "tags": [
+          "running",
+          "trail",
+          "handicap-race"
+        ],
         "sources": [
-          "https://dserunners.com/race-schedule/"
+          "https://dserunners.com/race-schedule/",
+          "https://raceroster.com/events/2026/114663/walt-stack-dse-double-dipsea-2026"
         ],
         "tickets": [],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Stinson%20Beach%2C%20Stinson%20Beach",
           "apple": "https://maps.apple.com/?q=Stinson%20Beach%2C%20Stinson%20Beach"
         },
-        "coords": null,
-        "coords_precise": false,
+        "coords": {
+          "lat": 37.8986705,
+          "lon": -122.6401966
+        },
+        "coords_precise": true,
         "ra": {},
-        "image": "",
-        "image_generated": false,
+        "image": "https://party-scout.app/img/gen/walt-stack-dse-double-di-55f0.jpg",
+        "image_generated": true,
         "popularity": 0,
-        "active": true
+        "active": true,
+        "enriched": 0
       },
       {
         "id": "2026-08-17-sports-lmjs-fourth-sunday-run-b9bfd6",
         "eid": "lmjs-fourth-sunday-run-75bc",
         "track": "sports",
-        "category": "",
+        "category": "Running",
         "name": "LMJS Fourth Sunday Run",
         "day": "Sun",
         "date": "2026-08-23",
-        "time": "",
-        "start": null,
+        "time": "8:40am–9am",
+        "start": "09:00",
         "end": null,
         "area": "Oakland",
         "venue": "Oakland",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "Lake Merritt, Oakland, CA",
+        "why": "Cheapest race series in the Bay — as little as $3 for members",
+        "summary": "Lake Merritt Joggers and Striders' monthly Fourth Sunday Run offers certified 5K, 10K and 15K races around the lake, running since 1977.",
         "promoter": "",
-        "price": "",
-        "tags": [],
+        "price": "$3–7",
+        "tags": [
+          "running",
+          "run-club",
+          "low-cost"
+        ],
         "sources": [
-          "https://runningintheusa.com/race/list/san%20francisco-county-ca/august"
+          "https://runningintheusa.com/race/list/san%20francisco-county-ca/august",
+          "https://lmjs.org/forth_sunday_run"
         ],
         "tickets": [],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Oakland%2C%20Oakland",
           "apple": "https://maps.apple.com/?q=Oakland%2C%20Oakland"
         },
-        "coords": null,
-        "coords_precise": false,
+        "coords": {
+          "lat": 37.804621,
+          "lon": -122.2562502
+        },
+        "coords_precise": true,
         "ra": {},
-        "image": "",
-        "image_generated": false,
+        "image": "https://party-scout.app/img/gen/lmjs-fourth-sunday-run-75bc.jpg",
+        "image_generated": true,
         "popularity": 0,
-        "active": true
+        "active": true,
+        "enriched": 0
       }
     ]
   }

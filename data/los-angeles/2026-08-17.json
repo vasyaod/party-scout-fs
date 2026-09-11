@@ -5,7 +5,7 @@
   "location": "Los Angeles & SoCal",
   "city": "los-angeles",
   "city_label": "Los Angeles",
-  "generated_at": "2026-08-14",
+  "generated_at": "2026-09-10",
   "tracks": {
     "music": [
       {
@@ -65,7 +65,8 @@
         "coords": {
           "lat": 34.1613492,
           "lon": -118.1676674
-        }
+        },
+        "enriched": 0
       },
       {
         "track": "music",
@@ -106,7 +107,8 @@
         "active": true,
         "popularity": 4,
         "id": "2026-08-17-music-trap-rave-x-code-red-present-lucki-6ac7d2",
-        "eid": "trap-rave-code-red-lucki-2026"
+        "eid": "trap-rave-code-red-lucki-2026",
+        "enriched": 0
       },
       {
         "id": "2026-08-17-music-big-gay-day-rave-a-queer-day-p-e9abc9",
@@ -116,7 +118,7 @@
         "name": "Big Gay Day Rave: A Queer Day Party",
         "day": "Sat",
         "date": "2026-08-22",
-        "time": "3pm\u20139pm",
+        "time": "3pm–9pm",
         "start": "15:00",
         "end": "21:00",
         "area": "Los Angeles",
@@ -125,7 +127,7 @@
         "why": "A day-into-night queer party with a solo-raver mixer for meeting people, not just a club set.",
         "summary": "Big Gay Day Rave brings a sapphic-focused day party to Beaches Tropicana in West Hollywood, with dancers, drag performers and a first-hour mixer for solo attendees.",
         "promoter": "",
-        "price": "$0\u201312",
+        "price": "$0–12",
         "tags": [
           "queer",
           "day-party",
@@ -151,12 +153,13 @@
           "event_id": "2505652",
           "url": "https://ra.co/events/2505652",
           "interested": 2,
-          "attending": 2
+          "attending": 5
         },
         "image": "https://images.ra.co/bdebe29e50382714638735ed7ad9cdf8a04e7a09.png",
         "image_generated": false,
         "popularity": 0,
-        "active": true
+        "active": true,
+        "enriched": 0
       },
       {
         "id": "2026-08-17-music-commonthread-radio4radio-dubla-bb5520",
@@ -166,7 +169,7 @@
         "name": "COMMONTHREAD - RADIO4RADIO (DUBLAB x VPN)",
         "day": "Sat",
         "date": "2026-08-22",
-        "time": "9pm\u20132am",
+        "time": "9pm–2am",
         "start": "21:00",
         "end": "02:00",
         "area": "Los Angeles",
@@ -201,12 +204,13 @@
           "event_id": "2509908",
           "url": "https://ra.co/events/2509908",
           "interested": 6,
-          "attending": 6
+          "attending": 13
         },
         "image": "https://images.ra.co/cab6a0edd6aca8d8dd767e7ad69b691e16ccb473.png",
         "image_generated": false,
         "popularity": 0,
-        "active": true
+        "active": true,
+        "enriched": 0
       },
       {
         "id": "2026-08-17-music-engine-drone-676913",
@@ -216,13 +220,13 @@
         "name": "Engine Drone",
         "day": "Sat",
         "date": "2026-08-22",
-        "time": "8pm\u20132am",
+        "time": "8pm–2am",
         "start": "20:00",
         "end": "02:00",
         "area": "Los Angeles",
         "venue": "The Redwood Bar And Grill",
         "address": "316 W. 2nd Street, Los Angeles, CA  90012",
-        "why": "Another Redwood Bar dive-bar night the same week as Ritual \u2014 a recurring venue series, not a one-off.",
+        "why": "Another Redwood Bar dive-bar night the same week as Ritual — a recurring venue series, not a one-off.",
         "summary": "Engine Drone is a Saturday night at The Redwood Bar And Grill, the DTLA dive-bar venue known for punk and rock shows; no further lineup details were published.",
         "promoter": "",
         "price": "$10",
@@ -251,10 +255,11 @@
           "interested": 0,
           "attending": 0
         },
-        "image": "",
-        "image_generated": false,
+        "image": "https://party-scout.app/img/gen/engine-drone-f239.jpg",
+        "image_generated": true,
         "popularity": 0,
-        "active": true
+        "active": true,
+        "enriched": 0
       },
       {
         "id": "2026-08-17-music-float-rooftop-pool-party-feat-08fc7c",
@@ -264,7 +269,7 @@
         "name": "FLOAT Rooftop Pool Party feat. Durante [2-8 PM]",
         "day": "Sat",
         "date": "2026-08-22",
-        "time": "2pm\u20138pm",
+        "time": "2pm–8pm",
         "start": "14:00",
         "end": "20:00",
         "area": "Los Angeles",
@@ -299,12 +304,13 @@
           "event_id": "2480989",
           "url": "https://ra.co/events/2480989",
           "interested": 19,
-          "attending": 19
+          "attending": 48
         },
         "image": "https://images.ra.co/3b0e19c368962ab256ca04f92563789a034925c7.jpg",
         "image_generated": false,
         "popularity": 0,
-        "active": true
+        "active": true,
+        "enriched": 0
       },
       {
         "id": "2026-08-17-music-anemone-x-twentieth-street-gar-e5009e",
@@ -314,14 +320,14 @@
         "name": "anemone x twentieth street garden",
         "day": "Sat",
         "date": "2026-08-22",
-        "time": "3pm\u20139pm",
+        "time": "3pm–9pm",
         "start": "15:00",
         "end": "21:00",
         "area": "Los Angeles",
         "venue": "TBA - West Adams",
         "address": "",
-        "why": "A free, outdoor, garden-set daytime ambient/downtempo session \u2014 a rare daytime pick.",
-        "summary": "anemone hosts an open-air afternoon of ambient, downtempo and jazz at the Twentieth Street Garden with local acts Sharada Shashidhar, 435t, Jane Margarette, prv.d and agrayb\u00e9.",
+        "why": "A free, outdoor, garden-set daytime ambient/downtempo session — a rare daytime pick.",
+        "summary": "anemone hosts an open-air afternoon of ambient, downtempo and jazz at the Twentieth Street Garden with local acts Sharada Shashidhar, 435t, Jane Margarette, prv.d and agraybé.",
         "promoter": "",
         "price": "$25",
         "tags": [
@@ -351,12 +357,13 @@
           "event_id": "2506607",
           "url": "https://ra.co/events/2506607",
           "interested": 16,
-          "attending": 16
+          "attending": 57
         },
         "image": "https://images.ra.co/9d673f4e8ad0e76781b2b4d3f5fcc0948cb24755.jpg",
         "image_generated": false,
         "popularity": 0,
-        "active": true
+        "active": true,
+        "enriched": 0
       },
       {
         "id": "2026-08-17-music-bodyshop-7043c0",
@@ -366,7 +373,7 @@
         "name": "bodyshop",
         "day": "Sat",
         "date": "2026-08-22",
-        "time": "11pm\u20135am",
+        "time": "11pm–5am",
         "start": "23:00",
         "end": "05:00",
         "area": "Los Angeles",
@@ -400,12 +407,13 @@
           "event_id": "2501192",
           "url": "https://ra.co/events/2501192",
           "interested": 75,
-          "attending": 75
+          "attending": 315
         },
         "image": "https://images.ra.co/6485894f9bd0936bbdddab39d328622f3ede419f.jpg",
         "image_generated": false,
         "popularity": 1,
-        "active": true
+        "active": true,
+        "enriched": 0
       },
       {
         "id": "2026-08-17-music-cvntrol-freak-e7e1c9",
@@ -415,7 +423,7 @@
         "name": "CVNTROL FREAK",
         "day": "Sat",
         "date": "2026-08-22",
-        "time": "9pm\u20132am",
+        "time": "9pm–2am",
         "start": "21:00",
         "end": "02:00",
         "area": "Los Angeles",
@@ -450,12 +458,13 @@
           "event_id": "2480479",
           "url": "https://ra.co/events/2480479",
           "interested": 2,
-          "attending": 2
+          "attending": 6
         },
         "image": "https://images.ra.co/3fd3a45083e9f3e0547d18e25aab123e9a205eb4.png",
         "image_generated": false,
         "popularity": 0,
-        "active": true
+        "active": true,
+        "enriched": 0
       },
       {
         "id": "2026-08-17-music-i-love-dnb-voltage-ac13-a0749e",
@@ -465,7 +474,7 @@
         "name": "I LOVE DNB: Voltage + AC13",
         "day": "Sat",
         "date": "2026-08-22",
-        "time": "10pm\u20133:30am",
+        "time": "10pm–3:30am",
         "start": "22:00",
         "end": "03:30",
         "area": "Los Angeles",
@@ -499,12 +508,13 @@
           "event_id": "2482082",
           "url": "https://ra.co/events/2482082",
           "interested": 121,
-          "attending": 121
+          "attending": 352
         },
         "image": "https://images.ra.co/47eacfd944f59f94ed5d4328ea30bcc6ff61003e.png",
         "image_generated": false,
         "popularity": 2,
-        "active": true
+        "active": true,
+        "enriched": 0
       },
       {
         "id": "2026-08-17-music-incognito-presents-paolo-ferra-d1919a",
@@ -523,7 +533,7 @@
         "why": "Hard-techno warehouse night led by Barcelona's HEX co-founder, LA debut set",
         "summary": "INCOGNITO hosts the LA debut of Italian techno producer Paolo Ferrara for an extended hard set, joined by resident Elise Ember and KriStyle. Location is a warehouse sent to ticket buyers before doors.",
         "promoter": "",
-        "price": "$20\u201350",
+        "price": "$20–50",
         "tags": [
           "techno",
           "warehouse",
@@ -548,12 +558,13 @@
           "event_id": "2455245",
           "url": "https://ra.co/events/2455245",
           "interested": 386,
-          "attending": 386
+          "attending": 568
         },
-        "image": "",
-        "image_generated": false,
+        "image": "https://party-scout.app/img/gen/incognito-presents-paolo-fc06.jpg",
+        "image_generated": true,
         "popularity": 0,
-        "active": true
+        "active": true,
+        "enriched": 0
       },
       {
         "id": "2026-08-17-music-midnight-lovers-with-azzecca-a-d6adf1",
@@ -572,7 +583,7 @@
         "why": "Day-into-night open-air terrace party with food and vendors, not just a club room",
         "summary": "Midnight Lovers runs a day-into-night open-air party on a downtown LA terrace, with a high-energy lineup, food trucks and vendors on site.",
         "promoter": "",
-        "price": "$25\u201340",
+        "price": "$25–40",
         "tags": [
           "house",
           "open-air",
@@ -598,12 +609,13 @@
           "event_id": "2439190",
           "url": "https://ra.co/events/2439190",
           "interested": 294,
-          "attending": 294
+          "attending": 800
         },
-        "image": "",
-        "image_generated": false,
+        "image": "https://party-scout.app/img/gen/midnight-lovers-with-azz-1638.jpg",
+        "image_generated": true,
         "popularity": 0,
-        "active": true
+        "active": true,
+        "enriched": 0
       },
       {
         "id": "2026-08-17-music-re-form-presents-trip-to-galax-0370d2",
@@ -622,7 +634,7 @@
         "why": "Dutch techno pioneer's dedicated high-BPM concept show with immersive lights",
         "summary": "RE/FORM presents Trip To Galaxy, Dutch producer Joris Voorn's high-BPM techno show concept built around immersive lighting, with support from Luis Miranda and Materielle.",
         "promoter": "",
-        "price": "$30\u201370",
+        "price": "$30–70",
         "tags": [
           "techno",
           "immersive"
@@ -646,12 +658,13 @@
           "event_id": "2474930",
           "url": "https://ra.co/events/2474930",
           "interested": 439,
-          "attending": 439
+          "attending": 1067
         },
-        "image": "",
-        "image_generated": false,
+        "image": "https://party-scout.app/img/gen/re-form-presents-trip-to-6360.jpg",
+        "image_generated": true,
         "popularity": 0,
-        "active": true
+        "active": true,
+        "enriched": 0
       },
       {
         "id": "2026-08-17-music-rival-consoles-b4a4bf",
@@ -695,12 +708,13 @@
           "event_id": "2469915",
           "url": "https://ra.co/events/2469915",
           "interested": 10,
-          "attending": 10
+          "attending": 21
         },
-        "image": "",
-        "image_generated": false,
+        "image": "https://party-scout.app/img/gen/rival-consoles-51b0.jpg",
+        "image_generated": true,
         "popularity": 0,
-        "active": true
+        "active": true,
+        "enriched": 0
       },
       {
         "id": "2026-08-17-music-steam-towel-party-la-f79242",
@@ -744,12 +758,13 @@
           "event_id": "2511098",
           "url": "https://ra.co/events/2511098",
           "interested": 0,
-          "attending": 0
+          "attending": 1
         },
-        "image": "",
-        "image_generated": false,
+        "image": "https://party-scout.app/img/gen/steam-towel-party-la-003a.jpg",
+        "image_generated": true,
         "popularity": 0,
-        "active": true
+        "active": true,
+        "enriched": 0
       },
       {
         "id": "2026-08-17-music-swxch-007-boris-the-residency-fbe74b",
@@ -768,7 +783,7 @@
         "why": "Private, address-on-request warehouse techno residency with strict door policy",
         "summary": "SWXCH's Boris residency continues as a private warehouse event with door-only ticketing and a strict conduct policy; location sent via Instagram.",
         "promoter": "",
-        "price": "$20\u201340",
+        "price": "$20–40",
         "tags": [
           "techno",
           "warehouse",
@@ -793,12 +808,13 @@
           "event_id": "2482583",
           "url": "https://ra.co/events/2482583",
           "interested": 300,
-          "attending": 300
+          "attending": 551
         },
-        "image": "",
-        "image_generated": false,
+        "image": "https://party-scout.app/img/gen/swxch-007-boris-the-resi-737e.jpg",
+        "image_generated": true,
         "popularity": 0,
-        "active": true
+        "active": true,
+        "enriched": 0
       },
       {
         "id": "2026-08-17-music-vibra-sol-2da413",
@@ -846,10 +862,11 @@
           "interested": 0,
           "attending": 0
         },
-        "image": "",
-        "image_generated": false,
+        "image": "https://party-scout.app/img/gen/vibra-sol-4448.jpg",
+        "image_generated": true,
         "popularity": 0,
-        "active": true
+        "active": true,
+        "enriched": 0
       },
       {
         "id": "2026-08-17-music-jockey-jord-8b1b48",
@@ -859,30 +876,40 @@
         "name": "Jockey Jord",
         "day": "Tue",
         "date": "2026-08-18",
-        "time": "",
-        "start": null,
+        "time": "8pm–2am",
+        "start": "20:00",
         "end": null,
-        "area": "",
+        "area": "Los Angeles",
         "venue": "The Redwood Bar And Grill",
-        "address": "",
+        "address": "316 W. 2nd Street, Los Angeles, CA 90012",
         "why": "",
         "summary": "",
         "promoter": "",
-        "price": "",
+        "price": "$10",
         "tags": [],
-        "sources": [],
+        "sources": [
+          "https://ra.co/events/2488444"
+        ],
         "tickets": [],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=The%20Redwood%20Bar%20And%20Grill",
           "apple": "https://maps.apple.com/?q=The%20Redwood%20Bar%20And%20Grill"
         },
-        "coords": null,
-        "coords_precise": false,
-        "ra": {},
-        "image": "",
-        "image_generated": false,
+        "coords": {
+          "lat": 34.0527161,
+          "lon": -118.2473947
+        },
+        "coords_precise": true,
+        "ra": {
+          "event_id": "2488444",
+          "url": "https://ra.co/events/2488444",
+          "attending": 0
+        },
+        "image": "https://party-scout.app/img/gen/jockey-jord-fde0.jpg",
+        "image_generated": true,
         "popularity": 0,
-        "active": true
+        "active": true,
+        "enriched": 0
       },
       {
         "id": "2026-08-17-music-an-evening-with-5d3633",
@@ -892,288 +919,401 @@
         "name": "an evening with",
         "day": "Wed",
         "date": "2026-08-19",
-        "time": "",
-        "start": null,
+        "time": "8pm–2am",
+        "start": "20:00",
         "end": null,
-        "area": "",
+        "area": "Los Angeles",
         "venue": "The Redwood Bar And Grill",
-        "address": "",
+        "address": "316 W. 2nd Street, Los Angeles, CA 90012",
         "why": "",
         "summary": "",
         "promoter": "",
         "price": "",
         "tags": [],
-        "sources": [],
+        "sources": [
+          "https://ra.co/events/2493174"
+        ],
         "tickets": [],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=The%20Redwood%20Bar%20And%20Grill",
           "apple": "https://maps.apple.com/?q=The%20Redwood%20Bar%20And%20Grill"
         },
-        "coords": null,
-        "coords_precise": false,
-        "ra": {},
-        "image": "",
-        "image_generated": false,
+        "coords": {
+          "lat": 34.0527161,
+          "lon": -118.2473947
+        },
+        "coords_precise": true,
+        "ra": {
+          "event_id": "2493174",
+          "url": "https://ra.co/events/2493174",
+          "attending": 0
+        },
+        "image": "https://party-scout.app/img/gen/an-evening-with-a90d.jpg",
+        "image_generated": true,
         "popularity": 0,
-        "active": true
+        "active": true,
+        "enriched": 0
       },
       {
         "id": "2026-08-17-music-clinic-x-native-boundaries-orl-bf0e6a",
         "eid": "clinic-x-native-boundari-f44d",
         "track": "music",
-        "category": "",
+        "category": "Techno",
         "name": "Clinic x Native Boundaries: Orlando Voorn",
         "day": "Wed",
         "date": "2026-08-19",
-        "time": "",
-        "start": null,
+        "time": "10pm–2am",
+        "start": "22:00",
         "end": null,
-        "area": "",
+        "area": "Los Angeles",
         "venue": "Jungle Hollywood",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "1640 N Cahuenga Blvd, Los Angeles, CA 90028",
+        "why": "Techno/house release party with an outdoor vendor market and cheap early RSVP",
+        "summary": "A techno/house release party at Jungle Hollywood led by Orlando Voorn, with support from Mesme and Jiggy Boyz and an outdoor vendor market.",
         "promoter": "",
-        "price": "",
-        "tags": [],
-        "sources": [],
-        "tickets": [],
+        "price": "$20",
+        "tags": [
+          "techno",
+          "house",
+          "outdoor"
+        ],
+        "sources": [
+          "https://ra.co/events/2510559"
+        ],
+        "tickets": [
+          "https://ra.co/events/2510559"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Jungle%20Hollywood",
           "apple": "https://maps.apple.com/?q=Jungle%20Hollywood"
         },
-        "coords": null,
-        "coords_precise": false,
-        "ra": {},
-        "image": "",
-        "image_generated": false,
+        "coords": {
+          "lat": 34.101045,
+          "lon": -118.3292891
+        },
+        "coords_precise": true,
+        "ra": {
+          "event_id": "2510559",
+          "url": "https://ra.co/events/2510559",
+          "attending": 42
+        },
+        "image": "https://party-scout.app/img/gen/clinic-x-native-boundari-9543.jpg",
+        "image_generated": true,
         "popularity": 0,
-        "active": true
+        "active": true,
+        "enriched": 0
       },
       {
         "id": "2026-08-17-music-little-bar-massive-pressure-ju-259a08",
         "eid": "little-bar-massive-press-c7f8",
         "track": "music",
-        "category": "",
+        "category": "Drum & Bass",
         "name": "LITTLE BAR, MASSIVE PRESSURE - JUNGLE",
         "day": "Wed",
         "date": "2026-08-19",
-        "time": "",
-        "start": null,
+        "time": "8pm–12am",
+        "start": "20:00",
         "end": null,
-        "area": "",
+        "area": "Los Angeles",
         "venue": "EOS Lounge",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "500 Anacapa St, Santa Barbara, CA 93101",
+        "why": "805-scene drum & bass regulars headline an intimate small-bar jungle night",
+        "summary": "Santa Barbara jungle/DNB regulars Sam Cumulus and Jon Bizniz headline an intimate night at the Little Bar inside EOS Lounge, with support from ERS-ONE.",
         "promoter": "",
         "price": "",
-        "tags": [],
-        "sources": [],
+        "tags": [
+          "drum-and-bass",
+          "jungle"
+        ],
+        "sources": [
+          "https://ra.co/events/2502930"
+        ],
         "tickets": [],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=EOS%20Lounge",
           "apple": "https://maps.apple.com/?q=EOS%20Lounge"
         },
-        "coords": null,
-        "coords_precise": false,
-        "ra": {},
-        "image": "",
-        "image_generated": false,
+        "coords": {
+          "lat": 34.4181579,
+          "lon": -119.6945281
+        },
+        "coords_precise": true,
+        "ra": {
+          "event_id": "2502930",
+          "url": "https://ra.co/events/2502930",
+          "attending": 0
+        },
+        "image": "https://party-scout.app/img/gen/little-bar-massive-press-db77.jpg",
+        "image_generated": true,
         "popularity": 0,
-        "active": true
+        "active": true,
+        "enriched": 0
       },
       {
         "id": "2026-08-17-music-afterglow-apotheke-1cef6b",
         "eid": "afterglow-apotheke-f52d",
         "track": "music",
-        "category": "",
+        "category": "Deep House",
         "name": "Afterglow - Apotheke",
         "day": "Thu",
         "date": "2026-08-20",
-        "time": "",
-        "start": null,
+        "time": "8pm–11:30pm",
+        "start": "20:00",
         "end": null,
-        "area": "",
+        "area": "Los Angeles",
         "venue": "Apotheke",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "1746 N Spring St, Los Angeles, CA 90012",
+        "why": "Frames itself around feel and connection, not how late or hard the set goes",
+        "summary": "A recurring house night at Apotheke built around classic house, soulful vocals and disco, framed as a celebration of connection rather than how late the night runs.",
         "promoter": "",
-        "price": "",
-        "tags": [],
-        "sources": [],
+        "price": "Free",
+        "tags": [
+          "deep-house",
+          "disco",
+          "free"
+        ],
+        "sources": [
+          "https://ra.co/events/2497213"
+        ],
         "tickets": [],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Apotheke",
           "apple": "https://maps.apple.com/?q=Apotheke"
         },
-        "coords": null,
-        "coords_precise": false,
-        "ra": {},
-        "image": "",
-        "image_generated": false,
+        "coords": {
+          "lat": 34.070192,
+          "lon": -118.2255342
+        },
+        "coords_precise": true,
+        "ra": {
+          "event_id": "2497213",
+          "url": "https://ra.co/events/2497213",
+          "attending": 6
+        },
+        "image": "https://party-scout.app/img/gen/afterglow-apotheke-3920.jpg",
+        "image_generated": true,
         "popularity": 0,
-        "active": true
+        "active": true,
+        "enriched": 0
       },
       {
         "id": "2026-08-17-music-hot-space-feat-parallels-dj-se-8220a6",
         "eid": "hot-space-feat-parallels-08a1",
         "track": "music",
-        "category": "",
+        "category": "Italo Disco",
         "name": "HOT SPACE! Feat. Parallels (DJ Set) & SLACKMACHINE",
         "day": "Thu",
         "date": "2026-08-20",
-        "time": "",
-        "start": null,
+        "time": "10pm–2am",
+        "start": "22:00",
         "end": null,
-        "area": "",
+        "area": "Los Angeles",
         "venue": "Zero Lounge",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "1710 N Hudson Ave, Los Angeles CA 90028",
+        "why": "A touring synthpop artist trades her band for a rare Italo-disco DJ set",
+        "summary": "Synthpop artist Holly Dodson of Parallels DJs a set of indie sleaze, Italo disco and dark disco alongside SLACKMACHINE at Zero Lounge.",
         "promoter": "",
         "price": "",
-        "tags": [],
-        "sources": [],
+        "tags": [
+          "italo-disco",
+          "electronica"
+        ],
+        "sources": [
+          "https://ra.co/events/2509650"
+        ],
         "tickets": [],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Zero%20Lounge",
           "apple": "https://maps.apple.com/?q=Zero%20Lounge"
         },
-        "coords": null,
-        "coords_precise": false,
-        "ra": {},
-        "image": "",
-        "image_generated": false,
+        "coords": {
+          "lat": 34.1018741,
+          "lon": -118.3319533
+        },
+        "coords_precise": true,
+        "ra": {
+          "event_id": "2509650",
+          "url": "https://ra.co/events/2509650",
+          "attending": 2
+        },
+        "image": "https://party-scout.app/img/gen/hot-space-feat-parallels-dfd0.jpg",
+        "image_generated": true,
         "popularity": 0,
-        "active": true
+        "active": true,
+        "enriched": 0
       },
       {
         "id": "2026-08-17-music-no-sisig-no-rakenrol-de93d7",
         "eid": "no-sisig-no-rakenrol-6577",
         "track": "music",
         "category": "",
-        "name": "No Sisig, No Rakenrol \ud83c\uddf5\ud83c\udded",
+        "name": "No Sisig, No Rakenrol 🇵🇭",
         "day": "Thu",
         "date": "2026-08-20",
-        "time": "",
-        "start": null,
+        "time": "7pm–1am",
+        "start": "19:00",
         "end": null,
-        "area": "",
+        "area": "Los Angeles",
         "venue": "The Redwood Bar And Grill",
-        "address": "",
+        "address": "316 W. 2nd Street, Los Angeles, CA 90012",
         "why": "",
         "summary": "",
         "promoter": "",
-        "price": "",
+        "price": "$10",
         "tags": [],
-        "sources": [],
+        "sources": [
+          "https://ra.co/events/2493175"
+        ],
         "tickets": [],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=The%20Redwood%20Bar%20And%20Grill",
           "apple": "https://maps.apple.com/?q=The%20Redwood%20Bar%20And%20Grill"
         },
-        "coords": null,
-        "coords_precise": false,
-        "ra": {},
-        "image": "",
-        "image_generated": false,
+        "coords": {
+          "lat": 34.0527161,
+          "lon": -118.2473947
+        },
+        "coords_precise": true,
+        "ra": {
+          "event_id": "2493175",
+          "url": "https://ra.co/events/2493175",
+          "attending": 1
+        },
+        "image": "https://party-scout.app/img/gen/no-sisig-no-rakenrol-df4e.jpg",
+        "image_generated": true,
         "popularity": 0,
-        "active": true
+        "active": true,
+        "enriched": 0
       },
       {
         "id": "2026-08-17-music-recollect-underground-01a42c",
         "eid": "recollect-underground-d231",
         "track": "music",
-        "category": "",
+        "category": "House",
         "name": "RECOLLECT UNDERGROUND",
         "day": "Thu",
         "date": "2026-08-20",
-        "time": "",
-        "start": null,
+        "time": "11pm–5am",
+        "start": "23:00",
         "end": null,
-        "area": "",
+        "area": "Los Angeles",
         "venue": "TBA - Location Link in Bio on Instagram @recollectunderground",
         "address": "",
-        "why": "",
-        "summary": "",
+        "why": "After-hours deep house that runs until sunrise at a secret DTLA spot",
+        "summary": "Deep and Chicago house afters at a still-secret DTLA location, with guest John Lynx from Chicago joined by Recollect residents, running 11pm to sunrise.",
         "promoter": "",
-        "price": "",
-        "tags": [],
-        "sources": [],
+        "price": "$10",
+        "tags": [
+          "house"
+        ],
+        "sources": [
+          "https://ra.co/events/2503057"
+        ],
         "tickets": [],
-        "maps": {},
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=Los%20Angeles",
+          "apple": "https://maps.apple.com/?q=Los%20Angeles"
+        },
         "coords": null,
         "coords_precise": false,
-        "ra": {},
-        "image": "",
-        "image_generated": false,
+        "ra": {
+          "event_id": "2503057",
+          "url": "https://ra.co/events/2503057",
+          "attending": 4
+        },
+        "image": "https://party-scout.app/img/gen/recollect-underground-e8c8.jpg",
+        "image_generated": true,
         "popularity": 0,
-        "active": true
+        "active": true,
+        "enriched": 0
       },
       {
         "id": "2026-08-17-music-ameega-xl-middleton-moniquea-l-88099c",
         "eid": "ameega-xl-middleton-moni-cbfe",
         "track": "music",
-        "category": "",
+        "category": "Funk / Soul",
         "name": "Ameega, XL Middleton, & Moniquea - Live at Indeed Indeed",
         "day": "Fri",
         "date": "2026-08-21",
-        "time": "",
-        "start": null,
+        "time": "9pm–1am",
+        "start": "21:00",
         "end": null,
-        "area": "",
+        "area": "Los Angeles",
         "venue": "Hello Stranger",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "320 East 2nd Street Los Angeles, CA 90012",
+        "why": "A live funk band plus a vinyl record pop-up shop, not just DJ sets",
+        "summary": "French modern-funk band Ameega performs live alongside LA locals XL Middleton and Moniquea at a secret monthly funk hideout, with a vinyl record pop-up on site.",
         "promoter": "",
-        "price": "",
-        "tags": [],
-        "sources": [],
+        "price": "$15–$20",
+        "tags": [
+          "funk-soul"
+        ],
+        "sources": [
+          "https://ra.co/events/2485041"
+        ],
         "tickets": [],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Hello%20Stranger",
           "apple": "https://maps.apple.com/?q=Hello%20Stranger"
         },
-        "coords": null,
-        "coords_precise": false,
-        "ra": {},
-        "image": "",
-        "image_generated": false,
+        "coords": {
+          "lat": 34.048464,
+          "lon": -118.240612
+        },
+        "coords_precise": true,
+        "ra": {
+          "event_id": "2485041",
+          "url": "https://ra.co/events/2485041",
+          "attending": 2
+        },
+        "image": "https://party-scout.app/img/gen/ameega-xl-middleton-moni-e0c7.jpg",
+        "image_generated": true,
         "popularity": 0,
-        "active": true
+        "active": true,
+        "enriched": 0
       },
       {
         "id": "2026-08-17-music-grace-bones-presents-house-of-29ca83",
         "eid": "grace-bones-presents-hou-07dd",
         "track": "music",
-        "category": "",
+        "category": "House",
         "name": "Grace Bones presents House of Chic",
         "day": "Fri",
         "date": "2026-08-21",
-        "time": "",
-        "start": null,
+        "time": "4pm–5pm",
+        "start": "16:00",
         "end": null,
-        "area": "",
+        "area": "Los Angeles",
         "venue": "TBA - Select Fm London Live ",
         "address": "",
-        "why": "",
-        "summary": "",
+        "why": "A UK radio institution's weekly broadcast, brought to a rare live edition",
+        "summary": "House of Chic, a UK house-and-garage radio broadcast reaching over 50,000 weekly listeners on Select FM, brings its regular session to a live LA edition.",
         "promoter": "",
-        "price": "",
-        "tags": [],
-        "sources": [],
+        "price": "Free",
+        "tags": [
+          "house",
+          "free"
+        ],
+        "sources": [
+          "https://ra.co/events/2511720"
+        ],
         "tickets": [],
-        "maps": {},
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=Los%20Angeles",
+          "apple": "https://maps.apple.com/?q=Los%20Angeles"
+        },
         "coords": null,
         "coords_precise": false,
-        "ra": {},
-        "image": "",
-        "image_generated": false,
+        "ra": {
+          "event_id": "2511720",
+          "url": "https://ra.co/events/2511720",
+          "attending": 1
+        },
+        "image": "https://party-scout.app/img/gen/grace-bones-presents-hou-7d29.jpg",
+        "image_generated": true,
         "popularity": 0,
-        "active": true
+        "active": true,
+        "enriched": 0
       },
       {
         "id": "2026-08-17-music-hollywood-palladium-9adfd3",
@@ -1183,252 +1323,361 @@
         "name": "Hollywood Palladium",
         "day": "Fri",
         "date": "2026-08-21",
-        "time": "",
-        "start": null,
+        "time": "10pm–11pm",
+        "start": "22:00",
         "end": null,
-        "area": "",
+        "area": "Los Angeles",
         "venue": "Hollywood Palladium",
-        "address": "",
+        "address": "6215 Sunset Blvd, West Hollywood, CA 90069",
         "why": "",
         "summary": "",
         "promoter": "",
         "price": "",
         "tags": [],
-        "sources": [],
+        "sources": [
+          "https://ra.co/events/2391675"
+        ],
         "tickets": [],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Hollywood%20Palladium",
           "apple": "https://maps.apple.com/?q=Hollywood%20Palladium"
         },
-        "coords": null,
-        "coords_precise": false,
-        "ra": {},
-        "image": "",
-        "image_generated": false,
+        "coords": {
+          "lat": 34.0950819,
+          "lon": -118.3733627
+        },
+        "coords_precise": true,
+        "ra": {
+          "event_id": "2391675",
+          "url": "https://ra.co/events/2391675",
+          "attending": 13
+        },
+        "image": "https://party-scout.app/img/gen/hollywood-palladium-caf9.jpg",
+        "image_generated": true,
         "popularity": 0,
-        "active": true
+        "active": true,
+        "enriched": 0
       },
       {
         "id": "2026-08-17-music-incognito-and-dirty-epic-prese-0ff3ec",
         "eid": "incognito-and-dirty-epic-c43a",
         "track": "music",
-        "category": "",
+        "category": "Techno",
         "name": "INCOGNITO and Dirty Epic present: Further with DJ Bone, Stacey Hotwaxx Hale & Mapamota",
         "day": "Fri",
         "date": "2026-08-21",
-        "time": "",
-        "start": null,
+        "time": "11pm–5am",
+        "start": "23:00",
         "end": null,
-        "area": "",
+        "area": "Los Angeles",
         "venue": "TBA",
         "address": "",
-        "why": "",
-        "summary": "",
+        "why": "Two bona fide Detroit house/techno pioneers on one bill, not tribute sets",
+        "summary": "Detroit techno and house pioneers DJ Bone and Stacey \"Hotwaxx\" Hale headline together, with support from Mapamota.",
         "promoter": "",
-        "price": "",
-        "tags": [],
-        "sources": [],
-        "tickets": [],
-        "maps": {},
+        "price": "$20–40",
+        "tags": [
+          "techno",
+          "house",
+          "lgbtq"
+        ],
+        "sources": [
+          "https://ra.co/events/2492445"
+        ],
+        "tickets": [
+          "https://ra.co/events/2492445"
+        ],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=Los%20Angeles",
+          "apple": "https://maps.apple.com/?q=Los%20Angeles"
+        },
         "coords": null,
         "coords_precise": false,
-        "ra": {},
-        "image": "",
-        "image_generated": false,
+        "ra": {
+          "event_id": "2492445",
+          "url": "https://ra.co/events/2492445",
+          "attending": 384
+        },
+        "image": "https://party-scout.app/img/gen/incognito-and-dirty-epic-a7f6.jpg",
+        "image_generated": true,
         "popularity": 0,
-        "active": true
+        "active": true,
+        "enriched": 0
       },
       {
         "id": "2026-08-17-music-the-knocks-a5772f",
         "eid": "the-knocks-30ab",
         "track": "music",
-        "category": "",
+        "category": "Disco",
         "name": "The Knocks",
         "day": "Fri",
         "date": "2026-08-21",
-        "time": "",
-        "start": null,
+        "time": "8pm–11:59pm",
+        "start": "20:00",
         "end": null,
-        "area": "",
+        "area": "Los Angeles",
         "venue": "The Bellwether",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "333 S Boylston St, Los Angeles, CA 90017",
+        "why": "All-ages show with a paid VIP-lounge upgrade instead of a hard price tier",
+        "summary": "An all-ages show at The Bellwether with an optional $85 upgrade for early access to the exclusive Looking Glass Lounge.",
         "promoter": "",
-        "price": "",
-        "tags": [],
-        "sources": [],
+        "price": "$39.25",
+        "tags": [
+          "disco",
+          "electronica"
+        ],
+        "sources": [
+          "https://ra.co/events/2476576"
+        ],
         "tickets": [],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=The%20Bellwether",
           "apple": "https://maps.apple.com/?q=The%20Bellwether"
         },
-        "coords": null,
-        "coords_precise": false,
-        "ra": {},
-        "image": "",
-        "image_generated": false,
+        "coords": {
+          "lat": 34.0562378,
+          "lon": -118.2584445
+        },
+        "coords_precise": true,
+        "ra": {
+          "event_id": "2476576",
+          "url": "https://ra.co/events/2476576",
+          "attending": 11
+        },
+        "image": "https://party-scout.app/img/gen/the-knocks-95d5.jpg",
+        "image_generated": true,
         "popularity": 0,
-        "active": true
+        "active": true,
+        "enriched": 0
       },
       {
         "id": "2026-08-17-music-loading-heaven-exe-f44776",
         "eid": "loading-heaven-exe-b677",
         "track": "music",
-        "category": "",
+        "category": "Trance",
         "name": "Loading... Heaven.exe",
         "day": "Fri",
         "date": "2026-08-21",
-        "time": "",
-        "start": null,
+        "time": "10pm–1am",
+        "start": "22:00",
         "end": null,
-        "area": "",
+        "area": "Los Angeles",
         "venue": "Zero Lounge",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "1710 N Hudson Ave, Los Angeles CA 90028",
+        "why": "No-cover trance night built around two DJs trading closing sets",
+        "summary": "A no-cover trance night at Zero Lounge with Adrenaline and Authenticity trading sets across the evening.",
         "promoter": "",
-        "price": "",
-        "tags": [],
-        "sources": [],
+        "price": "Free",
+        "tags": [
+          "trance",
+          "free"
+        ],
+        "sources": [
+          "https://ra.co/events/2506587"
+        ],
         "tickets": [],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Zero%20Lounge",
           "apple": "https://maps.apple.com/?q=Zero%20Lounge"
         },
-        "coords": null,
-        "coords_precise": false,
-        "ra": {},
-        "image": "",
-        "image_generated": false,
+        "coords": {
+          "lat": 34.1018741,
+          "lon": -118.3319533
+        },
+        "coords_precise": true,
+        "ra": {
+          "event_id": "2506587",
+          "url": "https://ra.co/events/2506587",
+          "attending": 1
+        },
+        "image": "https://party-scout.app/img/gen/loading-heaven-exe-84d2.jpg",
+        "image_generated": true,
         "popularity": 0,
-        "active": true
+        "active": true,
+        "enriched": 0
       },
       {
         "id": "2026-08-17-music-love-is-a-virus-d662a5",
         "eid": "love-is-a-virus-8242",
         "track": "music",
-        "category": "",
+        "category": "Techno",
         "name": "LOVE IS A VIRUS",
         "day": "Fri",
         "date": "2026-08-21",
-        "time": "",
-        "start": null,
+        "time": "11pm–12am",
+        "start": "23:00",
         "end": null,
-        "area": "",
+        "area": "Los Angeles",
         "venue": "TBA",
         "address": "",
-        "why": "",
-        "summary": "",
+        "why": "Free techno rave that leans hard into a cyber-goth dress code",
+        "summary": "A free, dark-techno rave in Los Angeles that encourages attendees to show up in cyber-goth outfits.",
         "promoter": "",
-        "price": "",
-        "tags": [],
-        "sources": [],
+        "price": "Free",
+        "tags": [
+          "techno",
+          "hardcore",
+          "free"
+        ],
+        "sources": [
+          "https://ra.co/events/2498962"
+        ],
         "tickets": [],
-        "maps": {},
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=Los%20Angeles",
+          "apple": "https://maps.apple.com/?q=Los%20Angeles"
+        },
         "coords": null,
         "coords_precise": false,
-        "ra": {},
-        "image": "",
-        "image_generated": false,
+        "ra": {
+          "event_id": "2498962",
+          "url": "https://ra.co/events/2498962",
+          "attending": 6
+        },
+        "image": "https://party-scout.app/img/gen/love-is-a-virus-cef4.jpg",
+        "image_generated": true,
         "popularity": 0,
-        "active": true
+        "active": true,
+        "enriched": 0
       },
       {
         "id": "2026-08-17-music-the-one-hundred-0ba8d1",
         "eid": "the-one-hundred-3ae1",
         "track": "music",
-        "category": "",
+        "category": "House",
         "name": "The One Hundred",
         "day": "Fri",
         "date": "2026-08-21",
-        "time": "",
-        "start": null,
+        "time": "9:30pm–2am",
+        "start": "21:30",
         "end": null,
-        "area": "",
+        "area": "Los Angeles",
         "venue": "The Airliner",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "2419 N Broadway, Los Angeles, CA 90036",
+        "why": "A genre-blurring educator and label founder, not a single-genre headliner",
+        "summary": "DJ Rimarkable, an Afro-Puerto Rican educator and label founder known for blending deep house, techno, soul and disco, headlines at The Airliner.",
         "promoter": "",
-        "price": "",
-        "tags": [],
-        "sources": [],
-        "tickets": [],
+        "price": "$10–$20",
+        "tags": [
+          "house",
+          "deep-house"
+        ],
+        "sources": [
+          "https://ra.co/events/2493727"
+        ],
+        "tickets": [
+          "https://ra.co/events/2493727"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=The%20Airliner",
           "apple": "https://maps.apple.com/?q=The%20Airliner"
         },
-        "coords": null,
-        "coords_precise": false,
-        "ra": {},
-        "image": "",
-        "image_generated": false,
+        "coords": {
+          "lat": 34.0737153,
+          "lon": -118.2161797
+        },
+        "coords_precise": true,
+        "ra": {
+          "event_id": "2493727",
+          "url": "https://ra.co/events/2493727",
+          "attending": 43
+        },
+        "image": "https://party-scout.app/img/gen/the-one-hundred-cabd.jpg",
+        "image_generated": true,
         "popularity": 0,
-        "active": true
+        "active": true,
+        "enriched": 0
       },
       {
         "id": "2026-08-17-music-out-on-the-mountain-six-flags-ccdb9a",
         "eid": "out-on-the-mountain-six-16d2",
         "track": "music",
-        "category": "",
+        "category": "Tech House",
         "name": "Out on the Mountain - Six Flags Magic Mountain LGBTQ Pride Night",
         "day": "Fri",
         "date": "2026-08-21",
-        "time": "",
-        "start": null,
+        "time": "6pm–12am",
+        "start": "18:00",
         "end": null,
-        "area": "",
+        "area": "Los Angeles",
         "venue": "Six Flags Magic Mountain",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "26101 Magic Mountain Pkwy, Valencia, CA 91355",
+        "why": "Rare chance to pair theme-park rides with a queer dance party",
+        "summary": "Six Flags Magic Mountain's one-night LGBTQ Pride Night pairs the park's rides with multiple dance parties and entertainment.",
         "promoter": "",
-        "price": "",
-        "tags": [],
-        "sources": [],
+        "price": "$74",
+        "tags": [
+          "tech-house",
+          "club",
+          "lgbtq"
+        ],
+        "sources": [
+          "https://ra.co/events/2494854"
+        ],
         "tickets": [],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Six%20Flags%20Magic%20Mountain",
           "apple": "https://maps.apple.com/?q=Six%20Flags%20Magic%20Mountain"
         },
-        "coords": null,
-        "coords_precise": false,
-        "ra": {},
-        "image": "",
-        "image_generated": false,
+        "coords": {
+          "lat": 34.4250568,
+          "lon": -118.5970454
+        },
+        "coords_precise": true,
+        "ra": {
+          "event_id": "2494854",
+          "url": "https://ra.co/events/2494854",
+          "attending": 4
+        },
+        "image": "https://party-scout.app/img/gen/out-on-the-mountain-six-dcf9.jpg",
+        "image_generated": true,
         "popularity": 0,
-        "active": true
+        "active": true,
+        "enriched": 0
       },
       {
         "id": "2026-08-17-music-sanctuary-10-year-anniversary-ff0382",
         "eid": "sanctuary-10-year-annive-39ff",
         "track": "music",
-        "category": "",
+        "category": "Trance",
         "name": "SANCTUARY - 10 YEAR ANNIVERSARY (TRANCE CLASSICS - WHITE ATTIRE THEMED)",
         "day": "Fri",
         "date": "2026-08-21",
-        "time": "",
-        "start": null,
+        "time": "9pm–3am",
+        "start": "21:00",
         "end": null,
-        "area": "",
+        "area": "Los Angeles",
         "venue": "TBA",
         "address": "",
-        "why": "",
-        "summary": "",
+        "why": "A decade-old trance series' anniversary, themed in all-white attire",
+        "summary": "A white-attire-themed tenth-anniversary edition of the trance series Sanctuary at The Compound by Dirt Dog, revisiting a decade of uplifting trance classics.",
         "promoter": "",
-        "price": "",
-        "tags": [],
-        "sources": [],
-        "tickets": [],
-        "maps": {},
+        "price": "$15",
+        "tags": [
+          "trance"
+        ],
+        "sources": [
+          "https://ra.co/events/2496158"
+        ],
+        "tickets": [
+          "https://ra.co/events/2496158"
+        ],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=Los%20Angeles",
+          "apple": "https://maps.apple.com/?q=Los%20Angeles"
+        },
         "coords": null,
         "coords_precise": false,
-        "ra": {},
-        "image": "",
-        "image_generated": false,
+        "ra": {
+          "event_id": "2496158",
+          "url": "https://ra.co/events/2496158",
+          "attending": 32
+        },
+        "image": "https://party-scout.app/img/gen/sanctuary-10-year-annive-1db0.jpg",
+        "image_generated": true,
         "popularity": 0,
-        "active": true
+        "active": true,
+        "enriched": 0
       },
       {
         "id": "2026-08-17-music-sanglorians-f668fc",
@@ -1438,156 +1687,223 @@
         "name": "Sanglorians",
         "day": "Fri",
         "date": "2026-08-21",
-        "time": "",
-        "start": null,
+        "time": "8pm–2am",
+        "start": "20:00",
         "end": null,
-        "area": "",
+        "area": "Los Angeles",
         "venue": "The Redwood Bar And Grill",
-        "address": "",
+        "address": "316 W. 2nd Street, Los Angeles, CA 90012",
         "why": "",
         "summary": "",
         "promoter": "",
-        "price": "",
+        "price": "$10",
         "tags": [],
-        "sources": [],
+        "sources": [
+          "https://ra.co/events/2488445"
+        ],
         "tickets": [],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=The%20Redwood%20Bar%20And%20Grill",
           "apple": "https://maps.apple.com/?q=The%20Redwood%20Bar%20And%20Grill"
         },
-        "coords": null,
-        "coords_precise": false,
-        "ra": {},
-        "image": "",
-        "image_generated": false,
+        "coords": {
+          "lat": 34.0527161,
+          "lon": -118.2473947
+        },
+        "coords_precise": true,
+        "ra": {
+          "event_id": "2488445",
+          "url": "https://ra.co/events/2488445",
+          "attending": 0
+        },
+        "image": "https://party-scout.app/img/gen/sanglorians-d87e.jpg",
+        "image_generated": true,
         "popularity": 0,
-        "active": true
+        "active": true,
+        "enriched": 0
       },
       {
         "id": "2026-08-17-music-set-safra-with-monkey-safari-m-c904e0",
         "eid": "set-safra-with-monkey-sa-fc46",
         "track": "music",
-        "category": "",
+        "category": "Deep House",
         "name": "SET & Safra with Monkey Safari & Marques Wyatt Under the 6th St Bridge, LA",
         "day": "Fri",
         "date": "2026-08-21",
-        "time": "",
-        "start": null,
+        "time": "9pm–3am",
+        "start": "21:00",
         "end": null,
-        "area": "",
+        "area": "Los Angeles",
         "venue": "The Bridge",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "To Be Announced - DTLA",
+        "why": "Six-hour open-air set under a downtown bridge, a Burning Man send-off",
+        "summary": "A six-hour open-air house set under the 6th Street Bridge in downtown LA with Monkey Safari and Marques Wyatt, framed as a send-off on the road to Burning Man.",
         "promoter": "",
-        "price": "",
-        "tags": [],
-        "sources": [],
-        "tickets": [],
+        "price": "$25–$50",
+        "tags": [
+          "deep-house",
+          "afro-house",
+          "outdoor"
+        ],
+        "sources": [
+          "https://ra.co/events/2502179"
+        ],
+        "tickets": [
+          "https://ra.co/events/2502179"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=The%20Bridge",
           "apple": "https://maps.apple.com/?q=The%20Bridge"
         },
         "coords": null,
         "coords_precise": false,
-        "ra": {},
-        "image": "",
-        "image_generated": false,
+        "ra": {
+          "event_id": "2502179",
+          "url": "https://ra.co/events/2502179",
+          "attending": 140
+        },
+        "image": "https://party-scout.app/img/gen/set-safra-with-monkey-sa-7b28.jpg",
+        "image_generated": true,
         "popularity": 0,
-        "active": true
+        "active": true,
+        "enriched": 0
       },
       {
         "id": "2026-08-17-music-utopia-presents-dialed-records-465c74",
         "eid": "utopia-presents-dialed-r-e174",
         "track": "music",
-        "category": "",
+        "category": "Tech House",
         "name": "Utopia presents Dialed Records: Sepp",
         "day": "Fri",
         "date": "2026-08-21",
-        "time": "",
-        "start": null,
+        "time": "11pm–6am",
+        "start": "23:00",
         "end": null,
-        "area": "",
+        "area": "Los Angeles",
         "venue": "TBA",
         "address": "",
-        "why": "",
-        "summary": "",
+        "why": "A 25-year vinyl-collecting veteran headlines back to back with a legendary duo",
+        "summary": "Vinyl collector Andrey Pushkarev and the duo H Foundation (Hipp-E and Halo Varga) headline the latest Dialed Records edition at Utopia.",
         "promoter": "",
         "price": "",
-        "tags": [],
-        "sources": [],
+        "tags": [
+          "tech-house",
+          "minimal-techno"
+        ],
+        "sources": [
+          "https://ra.co/events/2508555"
+        ],
         "tickets": [],
-        "maps": {},
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=Los%20Angeles",
+          "apple": "https://maps.apple.com/?q=Los%20Angeles"
+        },
         "coords": null,
         "coords_precise": false,
-        "ra": {},
-        "image": "",
-        "image_generated": false,
+        "ra": {
+          "event_id": "2508555",
+          "url": "https://ra.co/events/2508555",
+          "attending": 23
+        },
+        "image": "https://party-scout.app/img/gen/utopia-presents-dialed-r-b993.jpg",
+        "image_generated": true,
         "popularity": 0,
-        "active": true
+        "active": true,
+        "enriched": 0
       },
       {
         "id": "2026-08-17-music-vice-the-360-cage-rebirth-w-pa-e834fe",
         "eid": "vice-the-360-cage-rebirt-2885",
         "track": "music",
-        "category": "",
+        "category": "Techno",
         "name": "VICE the 360 CAGE REBIRTH w/Partok",
         "day": "Fri",
         "date": "2026-08-21",
-        "time": "",
-        "start": null,
+        "time": "10pm–5am",
+        "start": "22:00",
         "end": null,
-        "area": "",
+        "area": "Los Angeles",
         "venue": "TBA",
         "address": "",
-        "why": "",
-        "summary": "",
+        "why": "Built around an immersive 360-degree dancefloor, not a standard DJ booth",
+        "summary": "A two-floor techno and house night built around an immersive 360-degree dancefloor called The Cage, plus a dark room and outdoor courtyard.",
         "promoter": "",
-        "price": "",
-        "tags": [],
-        "sources": [],
-        "tickets": [],
-        "maps": {},
+        "price": "$40",
+        "tags": [
+          "techno",
+          "house",
+          "outdoor"
+        ],
+        "sources": [
+          "https://ra.co/events/2504480"
+        ],
+        "tickets": [
+          "https://ra.co/events/2504480"
+        ],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=Los%20Angeles",
+          "apple": "https://maps.apple.com/?q=Los%20Angeles"
+        },
         "coords": null,
         "coords_precise": false,
-        "ra": {},
-        "image": "",
-        "image_generated": false,
+        "ra": {
+          "event_id": "2504480",
+          "url": "https://ra.co/events/2504480",
+          "attending": 294
+        },
+        "image": "https://party-scout.app/img/gen/vice-the-360-cage-rebirt-18eb.jpg",
+        "image_generated": true,
         "popularity": 0,
-        "active": true
+        "active": true,
+        "enriched": 0
       },
       {
         "id": "2026-08-17-music-wobble-5a8ab8",
         "eid": "wobble-0cb9",
         "track": "music",
-        "category": "",
+        "category": "Deep House",
         "name": "WOBBLE",
         "day": "Fri",
         "date": "2026-08-21",
-        "time": "",
-        "start": null,
+        "time": "9:30pm–1am",
+        "start": "21:30",
         "end": null,
-        "area": "",
+        "area": "Los Angeles",
         "venue": "Apotheke",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "1746 N Spring St, Los Angeles, CA 90012",
+        "why": "All-vinyl deep house set, played entirely off wax",
+        "summary": "An all-vinyl deep house night at Apotheke running late into the evening.",
         "promoter": "",
-        "price": "",
-        "tags": [],
-        "sources": [],
-        "tickets": [],
+        "price": "Free",
+        "tags": [
+          "deep-house",
+          "free"
+        ],
+        "sources": [
+          "https://ra.co/events/2512839"
+        ],
+        "tickets": [
+          "https://ra.co/events/2512839"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Apotheke",
           "apple": "https://maps.apple.com/?q=Apotheke"
         },
-        "coords": null,
-        "coords_precise": false,
-        "ra": {},
-        "image": "",
-        "image_generated": false,
+        "coords": {
+          "lat": 34.070192,
+          "lon": -118.2255342
+        },
+        "coords_precise": true,
+        "ra": {
+          "event_id": "2512839",
+          "url": "https://ra.co/events/2512839",
+          "attending": 6
+        },
+        "image": "https://party-scout.app/img/gen/wobble-7f58.jpg",
+        "image_generated": true,
         "popularity": 0,
-        "active": true
+        "active": true,
+        "enriched": 0
       },
       {
         "id": "2026-08-17-music-818-cf7a7f",
@@ -1597,13 +1913,13 @@
         "name": "818",
         "day": "Sat",
         "date": "2026-08-22",
-        "time": "8pm\u20133:30am",
+        "time": "8pm–3:30am",
         "start": "20:00",
         "end": "03:30",
         "area": "Los Angeles",
         "venue": "TBA",
         "address": "",
-        "why": "Little public info beyond the artist names \u2014 a lower-confidence pick this pass.",
+        "why": "Little public info beyond the artist names — a lower-confidence pick this pass.",
         "summary": "818 is a Saturday-night event at a TBA Los Angeles location featuring drenchrome and El Keamo; the organizer's page carried no further description.",
         "promoter": "",
         "price": "",
@@ -1629,12 +1945,13 @@
           "event_id": "2462796",
           "url": "https://ra.co/events/2462796",
           "interested": 60,
-          "attending": 60
+          "attending": 92
         },
         "image": "https://images.ra.co/69aca24550b75a18ed31b445c7ffdd02935fa7ae.jpg",
         "image_generated": false,
         "popularity": 1,
-        "active": true
+        "active": true,
+        "enriched": 0
       },
       {
         "id": "2026-08-17-music-category-vol-001-precious-meta-4eb9c2",
@@ -1644,7 +1961,7 @@
         "name": "CATEGORY VOL. 001: PRECIOUS METALS",
         "day": "Sat",
         "date": "2026-08-22",
-        "time": "10pm\u20134am",
+        "time": "10pm–4am",
         "start": "22:00",
         "end": "04:00",
         "area": "Los Angeles",
@@ -1679,12 +1996,13 @@
           "event_id": "2511955",
           "url": "https://ra.co/events/2511955",
           "interested": 1,
-          "attending": 1
+          "attending": 8
         },
         "image": "https://images.ra.co/2987483f4bea4d453866b84bbe7f90d1eb1220a3.jpg",
         "image_generated": false,
         "popularity": 0,
-        "active": true
+        "active": true,
+        "enriched": 0
       },
       {
         "id": "2026-08-17-music-closer-presents-thermal-with-d-0522de",
@@ -1694,7 +2012,7 @@
         "name": "CLOSER presents THERMAL with DATSKO (LA Debut)",
         "day": "Sat",
         "date": "2026-08-22",
-        "time": "11pm\u20135am",
+        "time": "11pm–5am",
         "start": "23:00",
         "end": "05:00",
         "area": "Los Angeles",
@@ -1728,12 +2046,13 @@
           "event_id": "2442689",
           "url": "https://ra.co/events/2442689",
           "interested": 117,
-          "attending": 117
+          "attending": 238
         },
         "image": "https://images.ra.co/ff7181f6684d362e4b45115b234f88ef7b0c4faa.png",
         "image_generated": false,
         "popularity": 1,
-        "active": true
+        "active": true,
+        "enriched": 0
       },
       {
         "id": "2026-08-17-music-intro-to-djing-with-miles-otwa-5cfc1d",
@@ -1748,7 +2067,7 @@
         "end": "17:00",
         "area": "Los Angeles",
         "venue": "IO Music Academy LA",
-        "address": "",
+        "address": "1550 N Gower St",
         "why": "Free hands-on DJ fundamentals class, no experience or gear required",
         "summary": "A free workshop at IO Music Academy's Hollywood campus led by instructor Miles Otway, covering DJ equipment, music discovery, Rekordbox organization, beatmatching and reading a crowd.",
         "promoter": "",
@@ -1768,18 +2087,22 @@
           "google": "https://www.google.com/maps/search/?api=1&query=IO%20Music%20Academy%20LA%2C%20Los%20Angeles",
           "apple": "https://maps.apple.com/?q=IO%20Music%20Academy%20LA%2C%20Los%20Angeles"
         },
-        "coords": null,
-        "coords_precise": false,
+        "coords": {
+          "lat": 34.0991786,
+          "lon": -118.3222021
+        },
+        "coords_precise": true,
         "ra": {
           "event_id": "2506662",
           "url": "https://ra.co/events/2506662",
           "interested": 58,
-          "attending": 58
+          "attending": 118
         },
-        "image": "",
-        "image_generated": false,
+        "image": "https://party-scout.app/img/gen/intro-to-djing-with-mile-71cb.jpg",
+        "image_generated": true,
         "popularity": 0,
-        "active": true
+        "active": true,
+        "enriched": 0
       },
       {
         "id": "2026-08-17-music-kcrw-presents-latroit-house-en-61e2e6",
@@ -1794,7 +2117,7 @@
         "end": "06:00",
         "area": "Los Angeles",
         "venue": "Say Yes",
-        "address": "",
+        "address": "1645 Wilcox Ave, Los Angeles, CA 90028",
         "why": "Grammy winner performing live house alongside KCRW's own tastemaker DJ",
         "summary": "KCRW presents Grammy-winning producer Latroit performing classic house music live, joined on stage by KCRW host Jason Bentley and special guests at Say Yes.",
         "promoter": "",
@@ -1814,18 +2137,22 @@
           "google": "https://www.google.com/maps/search/?api=1&query=Say%20Yes%2C%20Los%20Angeles",
           "apple": "https://maps.apple.com/?q=Say%20Yes%2C%20Los%20Angeles"
         },
-        "coords": null,
-        "coords_precise": false,
+        "coords": {
+          "lat": 34.101118,
+          "lon": -118.3312536
+        },
+        "coords_precise": true,
         "ra": {
           "event_id": "2502254",
           "url": "https://ra.co/events/2502254",
           "interested": 2,
-          "attending": 2
+          "attending": 9
         },
-        "image": "",
-        "image_generated": false,
+        "image": "https://party-scout.app/img/gen/kcrw-presents-latroit-ho-d527.jpg",
+        "image_generated": true,
         "popularity": 0,
-        "active": true
+        "active": true,
+        "enriched": 0
       },
       {
         "id": "2026-08-17-music-mutate-oguz-fb1eb2",
@@ -1867,12 +2194,13 @@
           "event_id": "2461046",
           "url": "https://ra.co/events/2461046",
           "interested": 7,
-          "attending": 7
+          "attending": 8
         },
-        "image": "",
-        "image_generated": false,
+        "image": "https://party-scout.app/img/gen/mutate-oguz-ba0c.jpg",
+        "image_generated": true,
         "popularity": 0,
-        "active": true
+        "active": true,
+        "enriched": 0
       },
       {
         "id": "2026-08-17-music-noizu-dafd44",
@@ -1914,12 +2242,13 @@
           "event_id": "2507509",
           "url": "https://ra.co/events/2507509",
           "interested": 0,
-          "attending": 0
+          "attending": 3
         },
-        "image": "",
-        "image_generated": false,
+        "image": "https://party-scout.app/img/gen/noizu-1d9c.jpg",
+        "image_generated": true,
         "popularity": 0,
-        "active": true
+        "active": true,
+        "enriched": 0
       },
       {
         "id": "2026-08-17-music-potion-001-40899f",
@@ -1934,7 +2263,7 @@
         "end": "01:00",
         "area": "Los Angeles",
         "venue": "Apotheke",
-        "address": "",
+        "address": "1746 N Spring St, Los Angeles, CA 90012",
         "why": "Small-room electronic night, free entry",
         "summary": "A free electronic music night, Potion 001, at Apotheke.",
         "promoter": "",
@@ -1953,18 +2282,22 @@
           "google": "https://www.google.com/maps/search/?api=1&query=Apotheke%2C%20Los%20Angeles",
           "apple": "https://maps.apple.com/?q=Apotheke%2C%20Los%20Angeles"
         },
-        "coords": null,
-        "coords_precise": false,
+        "coords": {
+          "lat": 34.070192,
+          "lon": -118.2255342
+        },
+        "coords_precise": true,
         "ra": {
           "event_id": "2509896",
           "url": "https://ra.co/events/2509896",
           "interested": 8,
-          "attending": 8
+          "attending": 12
         },
-        "image": "",
-        "image_generated": false,
+        "image": "https://party-scout.app/img/gen/potion-001-ec76.jpg",
+        "image_generated": true,
         "popularity": 0,
-        "active": true
+        "active": true,
+        "enriched": 0
       },
       {
         "id": "2026-08-17-music-rossi-72ed35",
@@ -1979,7 +2312,7 @@
         "end": "00:00",
         "area": "Los Angeles",
         "venue": "Expo Lawn West",
-        "address": "",
+        "address": "800 Exposition Blvd, Los Angeles, CA 90037",
         "why": "Outdoor lawn stage set, open-air alternative to a club room",
         "summary": "A DJ set from Rossi on the Expo Lawn West outdoor stage.",
         "promoter": "",
@@ -1998,18 +2331,22 @@
           "google": "https://www.google.com/maps/search/?api=1&query=Expo%20Lawn%20West%2C%20Los%20Angeles",
           "apple": "https://maps.apple.com/?q=Expo%20Lawn%20West%2C%20Los%20Angeles"
         },
-        "coords": null,
-        "coords_precise": false,
+        "coords": {
+          "lat": 34.0180715,
+          "lon": -118.2864527
+        },
+        "coords_precise": true,
         "ra": {
           "event_id": "2455016",
           "url": "https://ra.co/events/2455016",
           "interested": 13,
-          "attending": 13
+          "attending": 21
         },
-        "image": "",
-        "image_generated": false,
+        "image": "https://party-scout.app/img/gen/rossi-6270.jpg",
+        "image_generated": true,
         "popularity": 0,
-        "active": true
+        "active": true,
+        "enriched": 0
       },
       {
         "id": "2026-08-17-music-soundwave-great-quality-entert-b37cc2",
@@ -2024,7 +2361,7 @@
         "end": "05:00",
         "area": "Los Angeles",
         "venue": "Berlin",
-        "address": "",
+        "address": "11819 Sherman Way. North Hollywood, CA 91605",
         "why": "Acclaimed melodic-house label boss headlining with two local support DJs",
         "summary": "SOUNDWAVE and Great Quality Entertainment present melodic house/techno producer Oliver Koletzki, with support from local DJs Tamam and Omar Lanza at Berlin.",
         "promoter": "",
@@ -2043,18 +2380,22 @@
           "google": "https://www.google.com/maps/search/?api=1&query=Berlin%2C%20Los%20Angeles",
           "apple": "https://maps.apple.com/?q=Berlin%2C%20Los%20Angeles"
         },
-        "coords": null,
-        "coords_precise": false,
+        "coords": {
+          "lat": 34.201279,
+          "lon": -118.390906
+        },
+        "coords_precise": true,
         "ra": {
           "event_id": "2490103",
           "url": "https://ra.co/events/2490103",
           "interested": 69,
-          "attending": 69
+          "attending": 170
         },
-        "image": "",
-        "image_generated": false,
+        "image": "https://party-scout.app/img/gen/soundwave-great-quality-28f4.jpg",
+        "image_generated": true,
         "popularity": 0,
-        "active": true
+        "active": true,
+        "enriched": 0
       },
       {
         "id": "2026-08-17-music-spice-presents-rush-hour-923515",
@@ -2069,11 +2410,11 @@
         "end": "02:00",
         "area": "Los Angeles",
         "venue": "The Melrose House",
-        "address": "",
+        "address": "4216 Melrose ave. Los Angeles, CA 90029",
         "why": "No-repeat-set format night built around discovery, not one predictable headliner",
         "summary": "SPICE presents Rush Hour, a discovery-focused night at The Melrose House with rotating DJ sets from the SPICE crew: AKU, Bianca Maieli, MTOORAY and DJ Sudi.",
         "promoter": "",
-        "price": "$10\u201330",
+        "price": "$10–30",
         "tags": [
           "house",
           "eclectic"
@@ -2088,18 +2429,22 @@
           "google": "https://www.google.com/maps/search/?api=1&query=The%20Melrose%20House%2C%20Los%20Angeles",
           "apple": "https://maps.apple.com/?q=The%20Melrose%20House%2C%20Los%20Angeles"
         },
-        "coords": null,
-        "coords_precise": false,
+        "coords": {
+          "lat": 34.0835087,
+          "lon": -118.2921233
+        },
+        "coords_precise": true,
         "ra": {
           "event_id": "2505797",
           "url": "https://ra.co/events/2505797",
           "interested": 3,
-          "attending": 3
+          "attending": 10
         },
-        "image": "",
-        "image_generated": false,
+        "image": "https://party-scout.app/img/gen/spice-presents-rush-hour-debe.jpg",
+        "image_generated": true,
         "popularity": 0,
-        "active": true
+        "active": true,
+        "enriched": 0
       },
       {
         "id": "2026-08-17-music-the-dancing-skeletons-06d297",
@@ -2109,129 +2454,186 @@
         "name": "The Dancing Skeletons",
         "day": "Sun",
         "date": "2026-08-23",
-        "time": "",
-        "start": null,
+        "time": "4pm–10pm",
+        "start": "16:00",
         "end": null,
-        "area": "",
+        "area": "Los Angeles",
         "venue": "The Redwood Bar And Grill",
-        "address": "",
+        "address": "316 W. 2nd Street, Los Angeles, CA 90012",
         "why": "",
         "summary": "",
         "promoter": "",
-        "price": "",
+        "price": "$10",
         "tags": [],
-        "sources": [],
+        "sources": [
+          "https://ra.co/events/2488447"
+        ],
         "tickets": [],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=The%20Redwood%20Bar%20And%20Grill",
           "apple": "https://maps.apple.com/?q=The%20Redwood%20Bar%20And%20Grill"
         },
-        "coords": null,
-        "coords_precise": false,
-        "ra": {},
-        "image": "",
-        "image_generated": false,
+        "coords": {
+          "lat": 34.0527161,
+          "lon": -118.2473947
+        },
+        "coords_precise": true,
+        "ra": {
+          "event_id": "2488447",
+          "url": "https://ra.co/events/2488447",
+          "attending": 0
+        },
+        "image": "https://party-scout.app/img/gen/the-dancing-skeletons-278a.jpg",
+        "image_generated": true,
         "popularity": 0,
-        "active": true
+        "active": true,
+        "enriched": 0
       },
       {
         "id": "2026-08-17-music-day-trip-in-the-park-la-discip-c1eae1",
         "eid": "day-trip-in-the-park-la-a03b",
         "track": "music",
-        "category": "",
+        "category": "House",
         "name": "Day Trip In The Park LA: Discip, Adam Sellouk, Gabss, Welker",
         "day": "Sun",
         "date": "2026-08-23",
-        "time": "",
-        "start": null,
+        "time": "2pm–8:30pm",
+        "start": "14:00",
         "end": null,
-        "area": "",
+        "area": "Los Angeles",
         "venue": "Los Angeles State Historic Park",
-        "address": "",
+        "address": "1245 N. Spring St, Los Angeles, CA 90012",
         "why": "",
         "summary": "",
         "promoter": "",
-        "price": "",
-        "tags": [],
-        "sources": [],
+        "price": "Free",
+        "tags": [
+          "house",
+          "free"
+        ],
+        "sources": [
+          "https://ra.co/events/2436978"
+        ],
         "tickets": [],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Los%20Angeles%20State%20Historic%20Park",
           "apple": "https://maps.apple.com/?q=Los%20Angeles%20State%20Historic%20Park"
         },
-        "coords": null,
-        "coords_precise": false,
-        "ra": {},
-        "image": "",
-        "image_generated": false,
+        "coords": {
+          "lat": 34.0652018,
+          "lon": -118.2349652
+        },
+        "coords_precise": true,
+        "ra": {
+          "event_id": "2436978",
+          "url": "https://ra.co/events/2436978",
+          "attending": 12
+        },
+        "image": "https://party-scout.app/img/gen/day-trip-in-the-park-la-8f4b.jpg",
+        "image_generated": true,
         "popularity": 0,
-        "active": true
+        "active": true,
+        "enriched": 0
       },
       {
         "id": "2026-08-17-music-summer-club-la-x-g-unit-studio-301ec6",
         "eid": "summer-club-la-x-g-unit-4461",
         "track": "music",
-        "category": "",
+        "category": "House",
         "name": "Summer Club LA x G-Unit Studios Pool Party at The Valorian Hotel Rooftop",
         "day": "Sun",
         "date": "2026-08-23",
-        "time": "",
-        "start": null,
+        "time": "3pm–9pm",
+        "start": "15:00",
         "end": null,
-        "area": "",
+        "area": "Los Angeles",
         "venue": "White Rabbit Sky Lounge at The Valorian (Formerly Skybar at Mondrian)",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "8440 Sunset Blvd., Los Angeles, CA 90069",
+        "why": "A G-Unit Studios collaboration pool party overlooking West Hollywood",
+        "summary": "A rooftop pool party at White Rabbit Sky Lounge in West Hollywood, a G-Unit Studios collaboration running 3 to 9pm overlooking the city.",
         "promoter": "",
-        "price": "",
-        "tags": [],
-        "sources": [],
-        "tickets": [],
+        "price": "$20",
+        "tags": [
+          "house",
+          "hip-hop",
+          "outdoor",
+          "rooftop"
+        ],
+        "sources": [
+          "https://ra.co/events/2505568"
+        ],
+        "tickets": [
+          "https://ra.co/events/2505568"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=White%20Rabbit%20Sky%20Lounge%20at%20The%20Valorian%20%28Formerly%20Skybar%20at%20Mondrian%29",
           "apple": "https://maps.apple.com/?q=White%20Rabbit%20Sky%20Lounge%20at%20The%20Valorian%20%28Formerly%20Skybar%20at%20Mondrian%29"
         },
-        "coords": null,
-        "coords_precise": false,
-        "ra": {},
-        "image": "",
-        "image_generated": false,
+        "coords": {
+          "lat": 34.0946031,
+          "lon": -118.3742417
+        },
+        "coords_precise": true,
+        "ra": {
+          "event_id": "2505568",
+          "url": "https://ra.co/events/2505568",
+          "attending": 3
+        },
+        "image": "https://party-scout.app/img/gen/summer-club-la-x-g-unit-979c.jpg",
+        "image_generated": true,
         "popularity": 0,
-        "active": true
+        "active": true,
+        "enriched": 0
       },
       {
         "id": "2026-08-17-music-sunday-sessions-la-miro-all-ni-147d58",
         "eid": "sunday-sessions-la-miro-b6ac",
         "track": "music",
-        "category": "",
+        "category": "House",
         "name": "Sunday Sessions LA: Miro All Night Long (Vinyl Only)",
         "day": "Sun",
         "date": "2026-08-23",
-        "time": "",
-        "start": null,
+        "time": "5pm–11pm",
+        "start": "17:00",
         "end": null,
-        "area": "",
+        "area": "Los Angeles",
         "venue": "450 S Bixel St, Los Angeles, CA 90017",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "1746 N Spring St, Los Angeles, CA 90012",
+        "why": "One DJ plays start to finish on vinyl only, no lineup rotation",
+        "summary": "DJ Miro plays an all-vinyl, start-to-finish marathon set on Apotheke's outdoor patio for the Sunday Sessions series.",
         "promoter": "",
-        "price": "",
-        "tags": [],
-        "sources": [],
-        "tickets": [],
+        "price": "$0–35",
+        "tags": [
+          "house",
+          "deep-house",
+          "outdoor",
+          "vinyl-only"
+        ],
+        "sources": [
+          "https://ra.co/events/2482778"
+        ],
+        "tickets": [
+          "https://ra.co/events/2482778"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=450%20S%20Bixel%20St%2C%20Los%20Angeles%2C%20CA%2090017",
           "apple": "https://maps.apple.com/?q=450%20S%20Bixel%20St%2C%20Los%20Angeles%2C%20CA%2090017"
         },
-        "coords": null,
-        "coords_precise": false,
-        "ra": {},
-        "image": "",
-        "image_generated": false,
+        "coords": {
+          "lat": 34.070192,
+          "lon": -118.2255342
+        },
+        "coords_precise": true,
+        "ra": {
+          "event_id": "2482778",
+          "url": "https://ra.co/events/2482778",
+          "attending": 127
+        },
+        "image": "https://party-scout.app/img/gen/sunday-sessions-la-miro-ecc4.jpg",
+        "image_generated": true,
         "popularity": 0,
-        "active": true
+        "active": true,
+        "enriched": 0
       },
       {
         "id": "2026-08-17-music-road-to-black-rock-city-6ab3f1",
@@ -2309,7 +2711,7 @@
         "venue": null,
         "address": null,
         "promoter": "CLIMAX | RAVELA",
-        "why": "Hard-techno all-nighter running past sunrise, part of the CLIMAX/RAVELA secret-location series (see 360\u00b0 Cage).",
+        "why": "Hard-techno all-nighter running past sunrise, part of the CLIMAX/RAVELA secret-location series (see 360° Cage).",
         "summary": "CLIMAX and RAVELA present How Hard Can You Go, an all-night hard techno rave at a secret Los Angeles location, Saturday August 22, 11:59pm to sunrise.",
         "price": null,
         "tags": [
@@ -2360,7 +2762,8 @@
         "active": true,
         "popularity": 5,
         "id": "2026-08-17-music-how-hard-can-you-go-875516",
-        "eid": "how-hard-can-you-go-875516"
+        "eid": "how-hard-can-you-go-875516",
+        "enriched": 0
       }
     ],
     "sports": [
@@ -2403,10 +2806,11 @@
         },
         "coords_precise": true,
         "ra": {},
-        "image": "",
-        "image_generated": false,
+        "image": "https://party-scout.app/img/gen/la-running-club-monday-r-8f0b.jpg",
+        "image_generated": true,
         "popularity": 3,
-        "active": true
+        "active": true,
+        "enriched": 0
       }
     ]
   }
