@@ -12,6 +12,14 @@ at a base commit and fails if an event that was present there is gone. Additions
 are free; so is `active: true` -> `active: false` (that IS the carried-over
 form rule 7 asks for).
 
+The one legitimate removal is a *fold*: rule 1b says the same real-world event
+gets one card, so when a dedupe verdict merges two already-published duplicates
+the loser's card is orphaned and belongs out of the file. That is declared in the
+commit message with a `Fold: <removed-id> -> <keeper-id>` trailer, and it is only
+honoured when `<keeper-id>` is actually present in the same week file at head —
+so a fold cannot quietly become a deletion by naming a keeper that isn't there.
+Every commit in `<base>..<head>` is read, because one push can carry several.
+
 Usage:
     tools/check_no_event_deletions.py --base <ref> [--head <ref>]
 
@@ -29,6 +37,10 @@ import subprocess
 import sys
 
 WEEK_FILE = re.compile(r"^data/[^/]+/\d{4}-\d{2}-\d{2}\.json$")
+
+# A whole line of its own, so the prose above it ("… -> …" shorthand in the body
+# of 1bf1f30, say) cannot be mistaken for a declaration.
+FOLD_TRAILER = re.compile(r"^Fold:[ \t]*(\S+)[ \t]*->[ \t]*(\S+)[ \t]*$", re.MULTILINE)
 
 
 def git(*args):
@@ -104,6 +116,51 @@ def removed_events(before, after):
     ]
 
 
+def fold_declarations(base, head):
+    """`{removed-id: {keeper-id, …}}` declared by the commits in `base..head`.
+
+    Read across the whole range, not just the tip: a single push can carry
+    several folds, and the range is exactly the set of commits this run is
+    judging. A removed id declared more than once is accounted for if *any* of
+    its declared keepers survives — the check below is "the event went
+    somewhere", and one surviving keeper is that somewhere.
+    """
+    out = git("log", "--format=%B", f"{base}..{head}")
+    if out is None:
+        sys.exit(f"error: cannot read commit messages for {base}..{head}")
+    folds = {}
+    for removed, keeper in FOLD_TRAILER.findall(out.decode("utf-8", "replace")):
+        folds.setdefault(removed, set()).add(keeper)
+    return folds
+
+
+def split_folds(gone, head_events, folds):
+    """Partition `gone` into (honoured folds, still-unaccounted removals).
+
+    Returns `([(event, keeper), …], [(event, note), …])`. An event is a fold
+    only when its `id` was declared *and* the declared keeper is present in this
+    same week file at head; a declaration whose keeper is missing stays a
+    failure, and says so.
+    """
+    head_ids = {e["id"] for e in head_events if e.get("id")}
+    folded, unaccounted = [], []
+    for event in gone:
+        eid = event.get("id")
+        declared = folds.get(eid) if eid else None
+        if not declared:
+            unaccounted.append((event, None))
+            continue
+        present = sorted(k for k in declared if k in head_ids)
+        if present:
+            folded.append((event, present[0]))
+        else:
+            missing = ", ".join(sorted(declared))
+            unaccounted.append(
+                (event, f"declared `Fold: … -> {missing}`, but no such event is here")
+            )
+    return folded, unaccounted
+
+
 def changed_week_files(base, head):
     # --no-renames so a week file renamed away still shows up under its old
     # path; a rename out of `data/<city>/<week>.json` drops the week from the
@@ -138,7 +195,10 @@ def main():
         print(f"no week files changed between {base[:12]} and {head} — nothing to check")
         return 0
 
+    folds = fold_declarations(base, head)
+
     failures = []
+    honoured = []
     for path in paths:
         before = blob(base, path)
         if before is None:
@@ -151,16 +211,32 @@ def main():
             continue
         after = blob(head, path)
         if after is None:
-            failures.append((path, base_events, "the file itself was deleted"))
+            # No head copy at all, so no keeper can be present in it: a declared
+            # fold cannot excuse the whole week file going away.
+            gone = [(e, None) for e in base_events]
+            failures.append((path, gone, "the file itself was deleted"))
             continue
         try:
             head_events = events(after, path, head)
         except ValueError as exc:
-            failures.append((path, base_events, str(exc)))
+            failures.append((path, [(e, None) for e in base_events], str(exc)))
             continue
         gone = removed_events(base_events, head_events)
         if gone:
-            failures.append((path, gone, None))
+            folded, unaccounted = split_folds(gone, head_events, folds)
+            if folded:
+                honoured.append((path, folded))
+            if unaccounted:
+                failures.append((path, unaccounted, None))
+
+    if honoured:
+        total_folds = sum(len(f) for _, f in honoured)
+        print(f"{total_folds} declared fold(s) honoured:")
+        for path, folded in honoured:
+            print(f"\n  {path}")
+            for event, keeper in folded:
+                print(f"    - {describe(event)}\n      folded into {keeper}")
+        print()
 
     total = sum(len(gone) for _, gone, _ in failures)
     if not failures:
@@ -170,13 +246,17 @@ def main():
     print(f"{total} event(s) removed across {len(failures)} week file(s):")
     for path, gone, why in failures:
         print(f"\n  {path}" + (f" — {why}" if why else ""))
-        for event in gone:
-            print(f"    - {describe(event)}")
+        for event, note in gone:
+            print(f"    - {describe(event)}" + (f" — {note}" if note else ""))
     print(
         "\nREQUIREMENTS.md rule 7: never delete events. An event that dropped out"
         "\nof view is kept and flagged `active: false` ('carried over'), so that it"
         "\nflips back to `active: true` if it reappears. Restore the entries above"
         "\nfrom the base commit rather than removing them."
+        "\n\nIf a removal is a rule 1b fold — a duplicate retracted into a keeper card"
+        "\nthat stays in the same week file — declare it in the commit message with a"
+        "\n`Fold: <removed-id> -> <keeper-id>` trailer on a line of its own, one per"
+        "\nretracted card. The keeper must be present at head for it to count."
     )
     return 1
 

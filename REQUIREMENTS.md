@@ -178,7 +178,13 @@ browser geolocation if the user already granted it -> IP-based geolocation fallb
    never wiped by a later run that lacks it). Tags are unioned.
 7. **Never delete events.** A party can drop out of view but still exist — an event
    missing from the latest scan is kept and flagged `active: false` ("carried
-   over"); it flips back to `active: true` if it reappears.
+   over"); it flips back to `active: true` if it reappears. The one exception is a
+   rule 1b **fold**: when a dedupe verdict merges two cards that were *both* already
+   published, the loser is orphaned and comes out — but only declared, with a
+   `Fold: <removed-id> -> <keeper-id>` trailer on its own line in the commit message,
+   one per retracted card, and only when that keeper is still in the same week file.
+   `tools/check_no_event_deletions.py` enforces both halves; an undeclared removal,
+   or one whose named keeper isn't there, still fails.
 
 ## Links & buttons (site)
 
