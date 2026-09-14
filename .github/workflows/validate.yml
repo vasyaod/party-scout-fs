@@ -41,7 +41,12 @@ jobs:
       # in a clone that never installed it, so CI stays the absolute bar — but a
       # gate that quietly stopped refusing bad commits would look like nothing
       # at all, so its own self-test runs here.
+      #
+      # It runs even when the step above failed: that one reads the real data/,
+      # so a data problem (#10 today) would otherwise skip this and hide whether
+      # the gate still fires. The gate's own cases are synthetic and independent.
       - name: Self-test the pre-commit gate
+        if: ${{ !cancelled() }}
         run: python3 tools/test_pre_commit_validate.py
 
       - name: Validate data/ against MODEL.md
