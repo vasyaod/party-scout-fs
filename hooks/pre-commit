@@ -1,0 +1,5 @@
+#!/bin/sh
+# Party Scout FS pre-commit gate. Active only once
+#   python3 tools/install_hooks.py
+# has pointed core.hooksPath at this directory — git installs nothing on clone.
+exec python3 "$(dirname "$0")/../tools/pre_commit_validate.py"

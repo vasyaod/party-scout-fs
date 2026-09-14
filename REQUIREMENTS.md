@@ -369,6 +369,21 @@ browser geolocation if the user already granted it -> IP-based geolocation fallb
     - A whole week or the whole database is the same script over every event
       (`--file <week>.json`, `--all`); `--json` is the machine-readable form an
       agent can read mid-run.
+    - **This repo has its own gate, and every clone has to install it.**
+      `validate_event.py` above lives in `party-scout-agent`; nothing on this
+      side can tell whether it ran, and in practice something got past it — 132
+      undocumented fields sat on `main` for three days (issue #10). So the repo
+      gates itself too: **`python3 tools/install_hooks.py`, once per clone,
+      including the throwaway clone an agent scans in** — after which
+      `tools/pre_commit_validate.py` runs `scripts/validate_data.py` over the
+      tree each commit would record and refuses a commit that pushes any check
+      *above what `HEAD` already carried*. `python3 tools/install_hooks.py
+      --check` exits non-zero while it is not live, which is the thing for a
+      scan's setup to assert rather than assume. This does not soften rule 23:
+      the per-event bar is still where a bad event is caught cheaply, and a
+      hook — bypassable with `--no-verify`, absent in a clone that skipped the
+      install — is the last net before CI, never a reason to skip validating an
+      event.
 
 ## Enrichment (AI / subagents)
 
