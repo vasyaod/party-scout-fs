@@ -3,6 +3,9 @@ name: data integrity
 # REQUIREMENTS.md rule 7: an event is never deleted, only flagged
 # `active: false`. This gate refuses a change that drops one from a week file.
 #
+# A rule 1b fold is the one declared exception, via a `Fold: <removed> -> <keeper>`
+# commit trailer; the gate checks the keeper actually survived.
+#
 # Both triggers matter: pull requests are the reviewed path, but nearly every
 # commit here is a direct push from the generator, and a silent loss on that
 # path is the one worth hearing about.
@@ -11,12 +14,14 @@ on:
     paths:
       - 'data/**'
       - 'tools/check_no_event_deletions.py'
+      - 'tools/test_check_no_event_deletions.py'
       - '.github/workflows/data-integrity.yml'
   push:
     branches: [main]
     paths:
       - 'data/**'
       - 'tools/check_no_event_deletions.py'
+      - 'tools/test_check_no_event_deletions.py'
       - '.github/workflows/data-integrity.yml'
 
 jobs:
@@ -29,6 +34,11 @@ jobs:
           # changed week file out of git.
           fetch-depth: 0
           ref: ${{ github.event.pull_request.head.sha || github.sha }}
+
+      # Check the checker first: a gate that stopped firing — or one that
+      # started excusing removals nobody declared — reads as green either way.
+      - name: Self-test the deletion gate
+        run: python3 tools/test_check_no_event_deletions.py
 
       - name: No event removed from a committed week
         run: |
