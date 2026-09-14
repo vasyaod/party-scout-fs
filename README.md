@@ -27,6 +27,7 @@ data/
   <YYYY-MM-DD>.json   one week (Monday-dated), machine-readable
   <YYYY-MM-DD>.md     same week, human-readable digest
 tools/            checks run over the data (see Checks below)
+hooks/            git hooks — install them once per clone (see Before you commit)
 .github/workflows/  CI that runs those checks
 ```
 
@@ -75,6 +76,33 @@ Violations that pre-date the check are recorded per check in
 `scripts/validation_baseline.json`; the run fails only when a check goes
 *above* its baseline, i.e. on a new or growing violation. Fix those in the
 generator, not by hand-editing `data/`.
+
+## Before you commit — install the hooks
+
+**Run this once in every clone, including a throwaway one an agent just made:**
+
+```
+python3 tools/install_hooks.py          # points core.hooksPath at hooks/
+python3 tools/install_hooks.py --check  # exit 0 only if the gate is really live
+```
+
+Git installs nothing on clone, so until you run it the only thing checking
+`data/` is CI — after the push has already landed on `main` and gone live.
+With it installed, every commit that touches `data/` or `scripts/` is measured
+first by `tools/pre_commit_validate.py`:
+
+- it validates **the tree the commit would record** (`git commit -a` included),
+  not the working tree;
+- it refuses the commit only for a check whose count goes **up** against `HEAD`
+  — you are never blocked by a violation someone else committed, and it says so
+  when `data/` is above its baseline for reasons that pre-date you;
+- `git commit --no-verify` skips it. CI does not, which is why
+  `validate.yml` stays exactly as it was.
+
+Run the gate by hand — no hook, no commit needed — with
+`python3 tools/pre_commit_validate.py`. That it actually refuses a bad commit
+is pinned by `python3 tools/test_pre_commit_validate.py`, which makes real
+commits in throwaway repos.
 
 ## Site
 
