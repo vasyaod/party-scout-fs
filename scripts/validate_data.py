@@ -100,6 +100,11 @@ EVENT_OPTIONAL = {
 # that identify or place an event are required to be non-empty here.
 NON_EMPTY = ("id", "eid", "track", "name", "area")
 
+# Checks whose `detail` is nothing but a field name. Only 8 samples are kept,
+# and they are the first 8 in file order — they can all land on one field and
+# hide the one that actually dominates the count, so tally the names too.
+BREAKDOWN = ("event-unknown-field", "event-missing-field", "event-empty-field")
+
 
 class Report:
     """Collects violations keyed by check code."""
@@ -107,12 +112,22 @@ class Report:
     def __init__(self) -> None:
         self.counts: Counter = Counter()
         self.samples: dict = {}
+        self.fields: dict = {}
 
     def add(self, code: str, where: str, detail: str = "") -> None:
         self.counts[code] += 1
         self.samples.setdefault(code, [])
         if len(self.samples[code]) < 8:
             self.samples[code].append(f"{where}{': ' + detail if detail else ''}")
+        if code in BREAKDOWN and detail:
+            self.fields.setdefault(code, Counter())[detail] += 1
+
+    def breakdown(self, code: str) -> str:
+        """`field name → count`, commonest first — "" when there is nothing to tally."""
+        tally = self.fields.get(code)
+        if not tally:
+            return ""
+        return ", ".join(f"{name} {n}" for name, n in sorted(tally.items(), key=lambda kv: (-kv[1], kv[0])))
 
 
 def load_json(path: str, rep: Report):
@@ -511,6 +526,9 @@ def main(argv=None) -> int:
             allowed = baseline.get(code, 0)
             mark = "FAIL" if found > allowed else "ok  "
             print(f"  {mark} {code}: {found} (allowed {allowed})")
+            tally = rep.breakdown(code)
+            if tally:
+                print(f"         by field: {tally}")
             for sample in rep.samples[code]:
                 print(f"         {sample}")
             if found > len(rep.samples[code]):

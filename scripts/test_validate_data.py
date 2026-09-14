@@ -209,13 +209,32 @@ def main() -> int:
                 print(f"  ok   {code}")
             shutil.rmtree(root)
 
+        # Only 8 samples are printed, in file order — nine `link`s crowd the
+        # lone `shoe_size` out of them entirely. The tally is the only thing
+        # in the output that says which field actually dominates.
+        root = os.path.join(tmp, "breakdown")
+        shutil.copytree(pristine, root)
+        week = read(root, CITY, WEEK)
+        for event in week["tracks"]["music"][:9]:
+            event["link"] = "https://x"
+        first_event(week)["shoe_size"] = 44
+        write(root, week, CITY, WEEK)
+        out = run(root).stdout
+        if "by field: link 9, shoe_size 1" not in out:
+            failures.append("event-unknown-field breakdown: no per-field tally\n" + out)
+            print("  FAIL event-unknown-field breakdown")
+        else:
+            print("  ok   event-unknown-field breakdown")
+        shutil.rmtree(root)
+
+    total = len(CASES) + 2  # the cases, plus the control and the breakdown
     print()
     if failures:
         for failure in failures:
             print(failure)
-        print(f"{len(failures)}/{len(CASES) + 1} cases FAILED")
+        print(f"{len(failures)}/{total} cases FAILED")
         return 1
-    print(f"{len(CASES) + 1}/{len(CASES) + 1} cases passed")
+    print(f"{total}/{total} cases passed")
     return 0
 
 

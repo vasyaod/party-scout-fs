@@ -7,7 +7,7 @@
     "event-lineup-shape": 9,
     "event-missing-field": 4,
     "event-time-format": 7,
-    "event-unknown-field": 21
+    "event-unknown-field": 0
   },
   "samples": {
     "event-date-outside-window": [
@@ -58,16 +58,6 @@
       "data/san-francisco/2026-08-03.json tracks.music[1]: end=''",
       "data/san-francisco/2026-08-03.json tracks.music[3]: start=''",
       "data/san-francisco/2026-08-03.json tracks.music[3]: end=''"
-    ],
-    "event-unknown-field": [
-      "data/san-francisco/2026-08-31.json tracks.music[0]: link",
-      "data/san-francisco/2026-08-31.json tracks.music[2]: link",
-      "data/san-francisco/2026-08-31.json tracks.music[3]: link",
-      "data/san-francisco/2026-08-31.json tracks.music[4]: link",
-      "data/san-francisco/2026-08-31.json tracks.music[5]: link",
-      "data/san-francisco/2026-08-31.json tracks.music[6]: link",
-      "data/san-francisco/2026-08-31.json tracks.music[7]: link",
-      "data/san-francisco/2026-08-31.json tracks.music[8]: link"
     ]
   }
 }
