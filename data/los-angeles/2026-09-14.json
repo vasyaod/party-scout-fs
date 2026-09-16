@@ -2381,23 +2381,28 @@
         "id": "2026-09-14-music-jigitz-killen-d38ee6",
         "eid": "jigitz-killen-e731",
         "track": "music",
-        "category": "",
+        "category": "Indie Dance",
         "name": "Jigitz, Killen.",
         "day": "Sat",
         "date": "2026-09-19",
-        "time": "",
-        "start": null,
+        "time": "9pm",
+        "start": "21:00",
         "end": null,
         "area": "Los Angeles",
         "venue": "Fonda Theatre",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "6126 Hollywood Blvd, Los Angeles, CA 90028",
+        "why": "Brooklyn-via-Albuquerque indie-dance producer headlines a Hollywood theater date",
+        "summary": "Indie-dance producer jigitz plays the Fonda Theatre with support from Killen.",
         "promoter": "",
         "price": "$136",
-        "tags": [],
+        "tags": [
+          "indie-dance",
+          "electronic"
+        ],
         "sources": [],
-        "tickets": [],
+        "tickets": [
+          "https://www.axs.com/events/1471594/jigitz-tickets"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Fonda%20Theatre%2C%20Los%20Angeles%2C%20CA",
           "apple": "https://maps.apple.com/?q=Fonda%20Theatre%2C%20Los%20Angeles%2C%20CA"
@@ -2408,14 +2413,24 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
-        "active": true
+        "enriched": 1,
+        "active": true,
+        "lineup": [
+          {
+            "name": "jigitz",
+            "instagram": null
+          },
+          {
+            "name": "Killen.",
+            "instagram": null
+          }
+        ]
       },
       {
         "id": "2026-09-14-music-jon-hassell-listening-party-f2bea1",
         "eid": "jon-hassell-listening-pa-c9b8",
         "track": "music",
-        "category": "",
+        "category": "Ambient",
         "name": "Jon Hassell Listening Party",
         "day": "Sat",
         "date": "2026-09-19",
@@ -2424,12 +2439,16 @@
         "end": null,
         "area": "Los Angeles, CA",
         "venue": "The Airliner",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "2419 N Broadway, Los Angeles, CA 90031",
+        "why": "Dublab's ambient listening series honors Jon Hassell with live sets from Photay and Celia Hollander",
+        "summary": "A Dublab-hosted listening party at The Airliner exploring Jon Hassell's Fourth World sound, with live accompaniment from Photay and Celia Hollander.",
         "promoter": "",
         "price": "",
-        "tags": [],
+        "tags": [
+          "ambient",
+          "listening-party",
+          "experimental"
+        ],
         "sources": [],
         "tickets": [],
         "maps": {
@@ -2442,14 +2461,24 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
-        "active": true
+        "enriched": 1,
+        "active": true,
+        "lineup": [
+          {
+            "name": "Photay",
+            "instagram": null
+          },
+          {
+            "name": "Celia Hollander",
+            "instagram": null
+          }
+        ]
       },
       {
         "id": "2026-09-14-music-paradisco-scotty-boy-880877",
         "eid": "paradisco-scotty-boy-bfb6",
         "track": "music",
-        "category": "",
+        "category": "Disco",
         "name": "Paradisco: Scotty Boy",
         "day": "Sat",
         "date": "2026-09-19",
@@ -2459,11 +2488,14 @@
         "area": "Los Angeles",
         "venue": "Kiss Kiss Bang Bang",
         "address": "",
-        "why": "",
-        "summary": "",
+        "why": "Monthly disco-house party on Koreatown's glowing checkered dance floor",
+        "summary": "Paradisco brings modern disco and disco-house to Kiss Kiss Bang Bang's retro Studio-54-style room, with sets from Scotty Boy.",
         "promoter": "",
         "price": "free",
-        "tags": [],
+        "tags": [
+          "disco",
+          "disco-house"
+        ],
         "sources": [],
         "tickets": [],
         "maps": {
@@ -2476,14 +2508,14 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
         "id": "2026-09-14-music-producing-techno-w-pilo-5cca41",
         "eid": "producing-techno-w-pilo-9f97",
         "track": "music",
-        "category": "",
+        "category": "Workshop",
         "name": "Producing Techno w/ Pilo",
         "day": "Sat",
         "date": "2026-09-19",
@@ -2492,13 +2524,19 @@
         "end": null,
         "area": "Los Angeles",
         "venue": "Io Music Academy La",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "1550 N Gower St, Los Angeles, CA 90028",
+        "why": "Hands-on techno production session taught by LA mainstay Pilo (Boysnoize, Turbo)",
+        "summary": "IO Music Academy hosts a techno production workshop led by LA producer Pilo, known for releases on Boysnoize and Turbo.",
         "promoter": "",
         "price": "free",
-        "tags": [],
-        "sources": [],
+        "tags": [
+          "workshop",
+          "techno",
+          "production"
+        ],
+        "sources": [
+          "https://www.iomusic.academy/locations/los-angeles"
+        ],
         "tickets": [],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Io%20Music%20Academy%20La%2C%20Los%20Angeles%2C%20CA",
@@ -2510,30 +2548,39 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
         "id": "2026-09-14-music-gregory-alan-isakov-with-the-h-3c6597",
         "eid": "gregory-alan-isakov-with-9ff8",
         "track": "music",
-        "category": "",
+        "category": "Folk",
         "name": "Gregory Alan Isakov with the Hollywood Bowl Orchestra, Jose Gonzalez",
         "day": "Sun",
         "date": "2026-09-20",
-        "time": "",
-        "start": null,
+        "time": "7:30pm",
+        "start": "19:30",
         "end": null,
         "area": "Los Angeles",
         "venue": "Hollywood Bowl",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "2301 N Highland Ave, Los Angeles, CA 90068",
+        "why": "First-ever Hollywood Bowl headline show, backed by the full Bowl Orchestra with Jose Gonzalez support",
+        "summary": "Singer-songwriter Gregory Alan Isakov makes his Hollywood Bowl headline debut backed by the Hollywood Bowl Orchestra, with support from Jose Gonzalez.",
         "promoter": "",
-        "price": "",
-        "tags": [],
-        "sources": [],
-        "tickets": [],
+        "price": "$27",
+        "tags": [
+          "folk",
+          "indie",
+          "orchestral"
+        ],
+        "sources": [
+          "https://dolosangeles.com/events/2026/9/20/gregory-alan-isakov-with-the-hollywood-bowl-orchestra-tickets",
+          "https://www.gregoryalanisakovhollywoodbowl.com/"
+        ],
+        "tickets": [
+          "https://www.todaytix.com/los-angeles/shows/46463-gregory-alan-isakov"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Hollywood%20Bowl%2C%20Los%20Angeles%2C%20CA",
           "apple": "https://maps.apple.com/?q=Hollywood%20Bowl%2C%20Los%20Angeles%2C%20CA"
@@ -2544,8 +2591,18 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
-        "active": true
+        "enriched": 1,
+        "active": true,
+        "lineup": [
+          {
+            "name": "Gregory Alan Isakov",
+            "instagram": null
+          },
+          {
+            "name": "Jose Gonzalez",
+            "instagram": null
+          }
+        ]
       },
       {
         "id": "2026-09-14-music-information-ekkel-8733dc",
@@ -2578,7 +2635,7 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
@@ -2729,22 +2786,29 @@
         "id": "2026-09-14-music-sunday-sessions-la-vinyl-only-e27879",
         "eid": "sunday-sessions-la-vinyl-ce7d",
         "track": "music",
-        "category": "",
+        "category": "House",
         "name": "Sunday Sessions La (Vinyl Only) Open Air",
         "day": "Sun",
         "date": "2026-09-20",
-        "time": "",
-        "start": null,
-        "end": null,
+        "time": "6pm-12am",
+        "start": "18:00",
+        "end": "00:00",
         "area": "Los Angeles",
         "venue": "TBA",
         "address": "",
-        "why": "",
-        "summary": "",
+        "why": "The biggest vinyl-only party in the US — an outdoor all-analog set, no digital",
+        "summary": "Sunday Sessions LA's vinyl-only open-air series returns for a Sunday-into-Monday outdoor session with a curated all-vinyl lineup.",
         "promoter": "",
         "price": "free/$23-34",
-        "tags": [],
-        "sources": [],
+        "tags": [
+          "house",
+          "vinyl-only",
+          "open-air",
+          "outdoor"
+        ],
+        "sources": [
+          "https://www.eventbrite.com/e/sunday-sessions-la-vinyl-only-open-air-tickets-1998126376781"
+        ],
         "tickets": [],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Los%20Angeles%2C%20CA",
@@ -2756,7 +2820,7 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
@@ -3205,7 +3269,7 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
@@ -3239,7 +3303,7 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
@@ -3273,7 +3337,7 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
