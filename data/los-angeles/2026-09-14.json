@@ -1768,14 +1768,14 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
         "id": "2026-09-14-music-the-one-hundred-2987ce",
         "eid": "the-one-hundred-611d",
         "track": "music",
-        "category": "",
+        "category": "Deep House",
         "name": "The One Hundred",
         "day": "Fri",
         "date": "2026-09-18",
@@ -1784,13 +1784,19 @@
         "end": null,
         "area": "Los Angeles, CA",
         "venue": "The Airliner",
-        "address": "",
-        "why": "",
-        "summary": "",
-        "promoter": "",
+        "address": "2419 N Broadway, Los Angeles, CA 90031",
+        "why": "Monthly soulful deep-house/garage residency from Juliet Mendoza in a Lincoln Heights dive bar",
+        "summary": "The One Hundred is Juliet Mendoza's monthly residency rooted in soulful deep house and garage, held every third Friday at The Airliner.",
+        "promoter": "Juliet Mendoza",
         "price": "",
-        "tags": [],
-        "sources": [],
+        "tags": [
+          "deep-house",
+          "garage",
+          "soulful"
+        ],
+        "sources": [
+          "https://ra.co/events/2434457"
+        ],
         "tickets": [],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=The%20Airliner%2C%20Los%20Angeles%2C%20CA",
@@ -1802,7 +1808,7 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
@@ -1870,30 +1876,36 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
         "id": "2026-09-14-music-partiboi69-406512",
         "eid": "partiboi69-77ae",
         "track": "music",
-        "category": "",
+        "category": "Club",
         "name": "Partiboi69",
         "day": "Fri",
         "date": "2026-09-18",
-        "time": "",
-        "start": null,
+        "time": "10pm",
+        "start": "22:00",
         "end": null,
         "area": "Los Angeles, CA",
         "venue": "Avalon Hollywood",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "1735 Vine St, Los Angeles, CA 90028",
+        "why": "Genre-blurring club/bass producer headlines Hollywood's biggest dance floor",
+        "summary": "Partiboi69 brings his frenetic club-and-bass sound to Avalon Hollywood, supported by Strawbry and Coldsweat.",
         "promoter": "",
-        "price": "",
-        "tags": [],
+        "price": "$36",
+        "tags": [
+          "club",
+          "bass",
+          "hyperpop"
+        ],
         "sources": [],
-        "tickets": [],
+        "tickets": [
+          "https://www.tickpick.com/buy-partiboi69-tickets-avalon-hollywood-9-18-26-10pm/8166083/"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Avalon%20Hollywood%2C%20Los%20Angeles%2C%20CA",
           "apple": "https://maps.apple.com/?q=Avalon%20Hollywood%2C%20Los%20Angeles%2C%20CA"
@@ -1904,8 +1916,22 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
-        "active": true
+        "enriched": 1,
+        "active": true,
+        "lineup": [
+          {
+            "name": "Partiboi69",
+            "instagram": null
+          },
+          {
+            "name": "Strawbry",
+            "instagram": null
+          },
+          {
+            "name": "Coldsweat",
+            "instagram": null
+          }
+        ]
       },
       {
         "id": "2026-09-14-music-saymyname-307349",
@@ -1945,21 +1971,25 @@
         "id": "2026-09-14-music-sebastiane-1efa4a",
         "eid": "sebastiane-58ea",
         "track": "music",
-        "category": "",
+        "category": "Disco",
         "name": "Sebastiane",
         "day": "Fri",
         "date": "2026-09-18",
-        "time": "",
-        "start": null,
+        "time": "10pm",
+        "start": "22:00",
         "end": null,
         "area": "Los Angeles, CA",
         "venue": "Akbar",
-        "address": "",
-        "why": "",
-        "summary": "",
-        "promoter": "",
+        "address": "4356 W Sunset Blvd, Los Angeles, CA",
+        "why": "Silver Lake's long-running homoerotic disco bacchanal, hosted by Atlas and Jason Hazzard",
+        "summary": "Sebastiane turns Akbar into a homoerotic disco bacchanal with DJs Sindri and Jumpr, hosted by Atlas and Jason Hazzard.",
+        "promoter": "Sebastiane",
         "price": "",
-        "tags": [],
+        "tags": [
+          "disco",
+          "queer",
+          "lgbtq"
+        ],
         "sources": [],
         "tickets": [],
         "maps": {
@@ -1972,29 +2002,45 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
-        "active": true
+        "enriched": 1,
+        "active": true,
+        "lineup": [
+          {
+            "name": "Sindri",
+            "instagram": null
+          },
+          {
+            "name": "Jumpr",
+            "instagram": null
+          }
+        ]
       },
       {
         "id": "2026-09-14-music-soulwax-0fc8dc",
         "eid": "soulwax-9e24",
         "track": "music",
-        "category": "",
+        "category": "Electronic Rock",
         "name": "Soulwax",
         "day": "Fri",
         "date": "2026-09-18",
-        "time": "",
-        "start": null,
+        "time": "9pm",
+        "start": "21:00",
         "end": null,
         "area": "Los Angeles, CA",
         "venue": "Fonda Theatre",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "6126 Hollywood Blvd, Los Angeles, CA 90028",
+        "why": "Second of two Hollywood nights from the raucous Belgian dance-punk legends",
+        "summary": "Belgian brothers David and Stephen Dewaele's Soulwax play a raucous live set blending rock, electro and disco at the historic Fonda Theatre.",
         "promoter": "",
         "price": "",
-        "tags": [],
-        "sources": [],
+        "tags": [
+          "electronic",
+          "rock",
+          "dance-punk"
+        ],
+        "sources": [
+          "https://dolosangeles.com/events/2026/9/18/soulwax-tickets"
+        ],
         "tickets": [],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Fonda%20Theatre%2C%20Los%20Angeles%2C%20CA",
@@ -2006,29 +2052,35 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
         "id": "2026-09-14-music-vanta-viora-social-house-a2f08e",
         "eid": "vanta-viora-social-house-0206",
         "track": "music",
-        "category": "",
+        "category": "Social",
         "name": "Vanta Viora: Social House",
         "day": "Fri",
         "date": "2026-09-18",
-        "time": "",
-        "start": null,
-        "end": null,
+        "time": "9pm-4am",
+        "start": "21:00",
+        "end": "04:00",
         "area": "Los Angeles, CA",
         "venue": "TBA Woodland Hills",
         "address": "",
-        "why": "",
-        "summary": "",
+        "why": "Private Woodland Hills mansion mixer with a pool, arcade and fashion showcase",
+        "summary": "VANTA VIORA's Social House turns a private Woodland Hills mansion into an all-night mixer with dancing, pool access, arcade games and a fashion showcase.",
         "promoter": "",
         "price": "",
-        "tags": [],
-        "sources": [],
+        "tags": [
+          "mixer",
+          "mansion-party",
+          "social"
+        ],
+        "sources": [
+          "https://www.eventbrite.com/e/vanta-viora-social-house-mansion-mixerparty-tickets-1991816802675"
+        ],
         "tickets": [],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Los%20Angeles%2C%20CA",
@@ -2040,7 +2092,7 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
@@ -2149,22 +2201,28 @@
         "id": "2026-09-14-music-bobby-beethoven-katie-rex-486e5b",
         "eid": "bobby-beethoven-katie-re-6337",
         "track": "music",
-        "category": "",
+        "category": "House",
         "name": "Bobby Beethoven & Katie Rex",
         "day": "Sat",
         "date": "2026-09-19",
-        "time": "",
-        "start": null,
+        "time": "11pm",
+        "start": "23:00",
         "end": null,
         "area": "Los Angeles",
         "venue": "TBA",
         "address": "",
-        "why": "",
-        "summary": "",
-        "promoter": "",
+        "why": "Consent-forward underground house night at an undisclosed DTLA location",
+        "summary": "SMD's late-night underground party brings Bobby Beethoven and Katie Rex to a secret Downtown LA venue, with consent mandatory and no photos or video.",
+        "promoter": "SMD",
         "price": "$41-46",
-        "tags": [],
-        "sources": [],
+        "tags": [
+          "house",
+          "underground",
+          "secret-location"
+        ],
+        "sources": [
+          "https://playalarga.co/events/smd-with-bobby-beethoven-and-katie-rex/"
+        ],
         "tickets": [],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Los%20Angeles%2C%20CA",
@@ -2176,7 +2234,7 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
@@ -2251,21 +2309,25 @@
         "id": "2026-09-14-music-derrick-carter-jt-donaldson-2c9c99",
         "eid": "derrick-carter-jt-donald-cc8e",
         "track": "music",
-        "category": "",
+        "category": "House",
         "name": "Derrick Carter & JT Donaldson",
         "day": "Sat",
         "date": "2026-09-19",
-        "time": "",
-        "start": null,
+        "time": "9pm",
+        "start": "21:00",
         "end": null,
         "area": "Los Angeles, CA",
         "venue": "TBA",
         "address": "",
-        "why": "",
-        "summary": "",
+        "why": "Chicago house pioneers Derrick Carter and JT Donaldson play a secret LA location",
+        "summary": "Chicago house legends Derrick Carter and JT Donaldson team up for a secret-location LA date.",
         "promoter": "",
         "price": "",
-        "tags": [],
+        "tags": [
+          "house",
+          "chicago-house",
+          "secret-location"
+        ],
         "sources": [],
         "tickets": [],
         "maps": {
@@ -2278,7 +2340,7 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
@@ -2312,7 +2374,7 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
