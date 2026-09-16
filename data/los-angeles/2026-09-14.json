@@ -3362,7 +3362,7 @@
         "id": "2026-09-14-music-loadinga-heaven-exe-1c26ed",
         "eid": "loadinga-heaven-exe-d0fd",
         "track": "music",
-        "category": "",
+        "category": "music",
         "name": "Loadinga Heaven.Exe",
         "day": "Thu",
         "date": "2026-09-17",
@@ -3371,12 +3371,15 @@
         "end": null,
         "area": "Los Angeles",
         "venue": "Zero Lounge",
-        "address": "",
+        "address": "1710 N Hudson Ave, Los Angeles, CA 90028",
         "why": "",
         "summary": "",
         "promoter": "",
         "price": "free",
-        "tags": [],
+        "tags": [
+          "y2k",
+          "nightlife"
+        ],
         "sources": [],
         "tickets": [],
         "maps": {
@@ -3396,7 +3399,7 @@
         "id": "2026-09-14-music-rave-god-rich-run-that-crvsh-01e43b",
         "eid": "rave-god-rich-run-that-c-55e9",
         "track": "music",
-        "category": "",
+        "category": "music",
         "name": "Rave God, Rich Run That, Crvsh",
         "day": "Thu",
         "date": "2026-09-17",
@@ -3410,7 +3413,10 @@
         "summary": "",
         "promoter": "",
         "price": "",
-        "tags": [],
+        "tags": [
+          "rave",
+          "bass"
+        ],
         "sources": [],
         "tickets": [],
         "maps": {
@@ -3616,14 +3622,16 @@
         "address": "2419 N Broadway, Los Angeles, CA 90031",
         "why": "Dublab's ambient listening series honors Jon Hassell with live sets from Photay and Celia Hollander",
         "summary": "A Dublab-hosted listening party at The Airliner exploring Jon Hassell's Fourth World sound, with live accompaniment from Photay and Celia Hollander.",
-        "promoter": "",
+        "promoter": "dublab",
         "price": "free",
         "tags": [
           "ambient",
           "listening-party",
           "experimental"
         ],
-        "sources": [],
+        "sources": [
+          "https://ra.co/dj/photay"
+        ],
         "tickets": [],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=The%20Airliner%2C%20Los%20Angeles",
