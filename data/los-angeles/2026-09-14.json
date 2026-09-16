@@ -815,23 +815,32 @@
         "id": "2026-09-14-music-soulwax-d389b8",
         "eid": "soulwax-7928",
         "track": "music",
-        "category": "",
+        "category": "Electronic Rock",
         "name": "Soulwax",
         "day": "Thu",
         "date": "2026-09-17",
-        "time": "",
-        "start": null,
+        "time": "9pm",
+        "start": "21:00",
         "end": null,
         "area": "Los Angeles, CA",
         "venue": "Fonda Theatre",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "6126 Hollywood Blvd, Los Angeles, CA 90028",
+        "why": "Belgian dance-punk legends open a two-night Hollywood stand with their raucous live show",
+        "summary": "Belgian brothers David and Stephen Dewaele's Soulwax play a raucous live set blending rock, electro and disco at the historic Fonda Theatre.",
         "promoter": "",
         "price": "",
-        "tags": [],
-        "sources": [],
-        "tickets": [],
+        "tags": [
+          "electronic",
+          "rock",
+          "dance-punk"
+        ],
+        "sources": [
+          "https://www.songkick.com/concerts/43286793-soulwax-at-fonda-theatre",
+          "https://dolosangeles.com/events/2026/9/18/soulwax-tickets"
+        ],
+        "tickets": [
+          "https://www.axs.com/events/1496219/soulwax-tickets"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Fonda%20Theatre%2C%20Los%20Angeles%2C%20CA",
           "apple": "https://maps.apple.com/?q=Fonda%20Theatre%2C%20Los%20Angeles%2C%20CA"
@@ -842,7 +851,7 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
@@ -876,28 +885,31 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
         "id": "2026-09-14-music-arisa-lavenge-trakrunner-and-x-c89dbf",
         "eid": "arisa-lavenge-trakrunner-a430",
         "track": "music",
-        "category": "",
+        "category": "House",
         "name": "Arisa, Lavenge, Trakrunner and Xuliet",
         "day": "Fri",
         "date": "2026-09-18",
-        "time": "",
-        "start": null,
+        "time": "9pm",
+        "start": "21:00",
         "end": null,
         "area": "Los Angeles, CA",
         "venue": "Dusty Vinyl",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "11326 W Pico Blvd, Los Angeles, CA",
+        "why": "Rising West LA selectors Lavenge and Xuliet headline an intimate Pico Blvd night",
+        "summary": "A night of house and open-format sounds from Arisa, Lavenge, Trakrunner and Xuliet at the Pico Blvd listening bar Dusty Vinyl.",
         "promoter": "",
         "price": "",
-        "tags": [],
+        "tags": [
+          "house",
+          "open-format"
+        ],
         "sources": [],
         "tickets": [],
         "maps": {
@@ -910,29 +922,36 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
         "id": "2026-09-14-music-baile-world-ft-jyoty-cquestt-m-289cf6",
         "eid": "baile-world-ft-jyoty-cqu-3ba7",
         "track": "music",
-        "category": "",
+        "category": "Baile",
         "name": "Baile World Ft Jyoty, Cquestt, Mango & Ginger",
         "day": "Fri",
         "date": "2026-09-18",
-        "time": "",
-        "start": null,
-        "end": null,
+        "time": "10pm-3am",
+        "start": "22:00",
+        "end": "03:00",
         "area": "DTLA/Los Angeles, CA",
         "venue": "TBA",
         "address": "",
-        "why": "",
-        "summary": "",
-        "promoter": "",
+        "why": "LA's Baile World throws down with international guest Jyoty at a limited-capacity DTLA warehouse",
+        "summary": "Baile World's DTLA warehouse party welcomes special guest Jyoty alongside residents Cquestt, Mango & Ginger and DJ Nico for a night of reggaeton, dancehall and club sounds.",
+        "promoter": "Baile World",
         "price": "",
-        "tags": [],
-        "sources": [],
+        "tags": [
+          "baile",
+          "reggaeton",
+          "dancehall",
+          "hip-hop"
+        ],
+        "sources": [
+          "https://ra.co/events/2514413"
+        ],
         "tickets": [],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=DTLA/Los%20Angeles%2C%20CA",
@@ -944,29 +963,54 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
-        "active": true
+        "enriched": 1,
+        "active": true,
+        "lineup": [
+          {
+            "name": "Jyoty",
+            "instagram": null
+          },
+          {
+            "name": "Cquestt",
+            "instagram": null
+          },
+          {
+            "name": "Mango & Ginger",
+            "instagram": null
+          },
+          {
+            "name": "DJ Nico",
+            "instagram": null
+          }
+        ]
       },
       {
         "id": "2026-09-14-music-baile-world-jyoty-cquestt-mang-215e04",
         "eid": "baile-world-jyoty-cquest-da3d",
         "track": "music",
-        "category": "",
+        "category": "Baile",
         "name": "BAILE WORLD: Jyoty, CQUESTT, Mango, DJ Nico, Mango & Ginger",
         "day": "Fri",
         "date": "2026-09-18",
-        "time": "",
-        "start": null,
-        "end": null,
+        "time": "10pm-3am",
+        "start": "22:00",
+        "end": "03:00",
         "area": "Los Angeles, CA",
         "venue": "Los Angeles",
         "address": "",
-        "why": "",
-        "summary": "",
-        "promoter": "",
+        "why": "LA's Baile World throws down with international guest Jyoty at a limited-capacity DTLA warehouse",
+        "summary": "Baile World's DTLA warehouse party welcomes special guest Jyoty alongside residents Cquestt, Mango & Ginger and DJ Nico for a night of reggaeton, dancehall and club sounds.",
+        "promoter": "Baile World",
         "price": "",
-        "tags": [],
-        "sources": [],
+        "tags": [
+          "baile",
+          "reggaeton",
+          "dancehall",
+          "hip-hop"
+        ],
+        "sources": [
+          "https://ra.co/events/2514413"
+        ],
         "tickets": [],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Los%20Angeles%2C%20Los%20Angeles%2C%20CA",
@@ -978,8 +1022,26 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
-        "active": true
+        "enriched": 1,
+        "active": true,
+        "lineup": [
+          {
+            "name": "Jyoty",
+            "instagram": null
+          },
+          {
+            "name": "Cquestt",
+            "instagram": null
+          },
+          {
+            "name": "Mango & Ginger",
+            "instagram": null
+          },
+          {
+            "name": "DJ Nico",
+            "instagram": null
+          }
+        ]
       },
       {
         "id": "2026-09-14-music-bayroom-the-orange-coast-kp-mi-25b8d3",
@@ -1012,7 +1074,7 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
@@ -1046,7 +1108,7 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
@@ -1080,14 +1142,14 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
         "id": "2026-09-14-music-deepchord-agora-photay-65920b",
         "eid": "deepchord-agora-photay-8426",
         "track": "music",
-        "category": "",
+        "category": "Techno",
         "name": "Deepchord (Agora), Photay",
         "day": "Fri",
         "date": "2026-09-18",
@@ -1096,13 +1158,19 @@
         "end": null,
         "area": "Los Angeles, CA",
         "venue": "Agora Records",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "1022 S Santa Fe Ave, Los Angeles, CA 90021",
+        "why": "Dub-techno mainstay Deepchord shares the room with Photay's live electronics at a DTLA record shop",
+        "summary": "Agora Records' Arts District shop hosts a rare live pairing of dub-techno producer Deepchord and electronic musician Photay.",
         "promoter": "",
         "price": "",
-        "tags": [],
-        "sources": [],
+        "tags": [
+          "techno",
+          "ambient",
+          "dub-techno"
+        ],
+        "sources": [
+          "https://ra.co/events/2524033"
+        ],
         "tickets": [],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Agora%20Records%2C%20Los%20Angeles%2C%20CA",
@@ -1114,14 +1182,24 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
-        "active": true
+        "enriched": 1,
+        "active": true,
+        "lineup": [
+          {
+            "name": "Deepchord",
+            "instagram": null
+          },
+          {
+            "name": "Photay",
+            "instagram": null
+          }
+        ]
       },
       {
         "id": "2026-09-14-music-deepchord-live-photay-live-f216ca",
         "eid": "deepchord-live-photay-li-3d3a",
         "track": "music",
-        "category": "",
+        "category": "Techno",
         "name": "Deepchord (Live) + Photay (Live)",
         "day": "Fri",
         "date": "2026-09-18",
@@ -1130,13 +1208,19 @@
         "end": null,
         "area": "Los Angeles, CA",
         "venue": "Agora Records",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "1022 S Santa Fe Ave, Los Angeles, CA 90021",
+        "why": "Dub-techno mainstay Deepchord shares the room with Photay's live electronics at a DTLA record shop",
+        "summary": "Agora Records' Arts District shop hosts a rare live pairing of dub-techno producer Deepchord and electronic musician Photay.",
         "promoter": "",
         "price": "",
-        "tags": [],
-        "sources": [],
+        "tags": [
+          "techno",
+          "ambient",
+          "dub-techno"
+        ],
+        "sources": [
+          "https://ra.co/events/2524033"
+        ],
         "tickets": [],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Agora%20Records%2C%20Los%20Angeles%2C%20CA",
@@ -1148,8 +1232,18 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
-        "active": true
+        "enriched": 1,
+        "active": true,
+        "lineup": [
+          {
+            "name": "Deepchord",
+            "instagram": null
+          },
+          {
+            "name": "Photay",
+            "instagram": null
+          }
+        ]
       },
       {
         "id": "2026-09-14-music-dragonflies-b69ec4",
