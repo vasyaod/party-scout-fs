@@ -54,18 +54,24 @@
         "name": "Open Decks",
         "day": "Mon",
         "date": "2026-09-14",
-        "time": "",
-        "start": null,
+        "time": "8pm",
+        "start": "20:00",
         "end": null,
         "area": "Los Angeles",
         "venue": "The Grayson Bar",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "351 S Broadway, Los Angeles, CA",
+        "why": "Free weekly open-decks night on the house Pioneer gear at The Grayson",
+        "summary": "A recurring Monday open-decks night in The Grayson's Slipper Clutch back room, open to anyone who wants to sign up and play a set.",
         "promoter": "",
         "price": "free",
-        "tags": [],
-        "sources": [],
+        "tags": [
+          "open-decks",
+          "free",
+          "weekly"
+        ],
+        "sources": [
+          "https://www.instagram.com/thegraysonla/reel/DCkLdsETJkg/"
+        ],
         "tickets": [],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=The%20Grayson%20Bar%2C%20Los%20Angeles%2C%20CA",
@@ -77,30 +83,38 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
         "id": "2026-09-14-music-andrea-bocelli-ca6d1d",
         "eid": "andrea-bocelli-11f8",
         "track": "music",
-        "category": "",
+        "category": "Classical",
         "name": "Andrea Bocelli",
         "day": "Tue",
         "date": "2026-09-15",
-        "time": "",
-        "start": null,
+        "time": "8pm",
+        "start": "20:00",
         "end": null,
         "area": "Los Angeles",
         "venue": "Hollywood Bowl",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "2301 N Highland Ave, Los Angeles, CA 90068",
+        "why": "First of two Hollywood Bowl nights with the best-selling classical artist alive",
+        "summary": "Tenor Andrea Bocelli brings his Romanza 30th Anniversary World Tour to the Hollywood Bowl for a night of opera and pop-classical favorites.",
         "promoter": "",
         "price": "",
-        "tags": [],
-        "sources": [],
-        "tickets": [],
+        "tags": [
+          "classical",
+          "orchestra",
+          "opera"
+        ],
+        "sources": [
+          "https://www.hollywoodbowl.com/events/performances/4357/2026-09-16/andrea-bocelli"
+        ],
+        "tickets": [
+          "https://www.axs.com/events/1304832/andrea-bocelli-tickets"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Hollywood%20Bowl%2C%20Los%20Angeles%2C%20CA",
           "apple": "https://maps.apple.com/?q=Hollywood%20Bowl%2C%20Los%20Angeles%2C%20CA"
@@ -111,7 +125,7 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
@@ -156,23 +170,31 @@
         "id": "2026-09-14-music-andrea-bocelli-6c6edd",
         "eid": "andrea-bocelli-be09",
         "track": "music",
-        "category": "",
+        "category": "Classical",
         "name": "Andrea Bocelli",
         "day": "Wed",
         "date": "2026-09-16",
-        "time": "",
-        "start": null,
+        "time": "8pm",
+        "start": "20:00",
         "end": null,
         "area": "Los Angeles",
         "venue": "Hollywood Bowl",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "2301 N Highland Ave, Los Angeles, CA 90068",
+        "why": "Second of two Hollywood Bowl nights with the best-selling classical artist alive",
+        "summary": "Tenor Andrea Bocelli returns to the Hollywood Bowl for a second night of his Romanza 30th Anniversary World Tour.",
         "promoter": "",
         "price": "",
-        "tags": [],
-        "sources": [],
-        "tickets": [],
+        "tags": [
+          "classical",
+          "orchestra",
+          "opera"
+        ],
+        "sources": [
+          "https://www.hollywoodbowl.com/events/performances/4357/2026-09-16/andrea-bocelli"
+        ],
+        "tickets": [
+          "https://www.axs.com/events/1304834/andrea-bocelli-tickets"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Hollywood%20Bowl%2C%20Los%20Angeles%2C%20CA",
           "apple": "https://maps.apple.com/?q=Hollywood%20Bowl%2C%20Los%20Angeles%2C%20CA"
@@ -183,7 +205,7 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
@@ -228,22 +250,30 @@
         "id": "2026-09-14-music-axel-boman-f4dd5c",
         "eid": "axel-boman-2eec",
         "track": "music",
-        "category": "",
+        "category": "House",
         "name": "Axel Boman",
         "day": "Wed",
         "date": "2026-09-16",
-        "time": "",
-        "start": null,
-        "end": null,
+        "time": "7pm-12am",
+        "start": "19:00",
+        "end": "00:00",
         "area": "Los Angeles",
         "venue": "Bar Franca",
-        "address": "",
-        "why": "",
-        "summary": "",
-        "promoter": "",
+        "address": "438 S Main St, Los Angeles, CA 90013",
+        "why": "Free no-cover night with the Studio Barnhus co-founder on the decks all night",
+        "summary": "Stockholm's Axel Boman takes over Bar Franca's sound room open-to-close for Midnight Lovers' free, no-cover residency night.",
+        "promoter": "Midnight Lovers",
         "price": "free",
-        "tags": [],
-        "sources": [],
+        "tags": [
+          "house",
+          "free",
+          "no-cover",
+          "residency"
+        ],
+        "sources": [
+          "https://ra.co/events/2532519",
+          "https://findmuse.app/concerts/los-angeles/midnight-lovers-with-axel-boman-all-night-long-bar-franca-2026-09-17"
+        ],
         "tickets": [],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Bar%20Franca%2C%20Los%20Angeles%2C%20CA",
@@ -255,29 +285,37 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
         "id": "2026-09-14-music-midnight-lovers-axel-boman-a945a6",
         "eid": "midnight-lovers-axel-bom-aad0",
         "track": "music",
-        "category": "",
+        "category": "House",
         "name": "Midnight Lovers: Axel Boman",
         "day": "Wed",
         "date": "2026-09-16",
-        "time": "",
-        "start": null,
-        "end": null,
+        "time": "7pm-12am",
+        "start": "19:00",
+        "end": "00:00",
         "area": "Los Angeles, CA",
         "venue": "Bar Franca",
-        "address": "",
-        "why": "",
-        "summary": "",
-        "promoter": "",
+        "address": "438 S Main St, Los Angeles, CA 90013",
+        "why": "Bar Franca's flagship no-cover residency night, headlined by Boman all night long",
+        "summary": "Stockholm's Axel Boman takes over Bar Franca's sound room open-to-close for Midnight Lovers' free, no-cover residency night.",
+        "promoter": "Midnight Lovers",
         "price": "",
-        "tags": [],
-        "sources": [],
+        "tags": [
+          "house",
+          "free",
+          "no-cover",
+          "residency"
+        ],
+        "sources": [
+          "https://ra.co/events/2532519",
+          "https://findmuse.app/concerts/los-angeles/midnight-lovers-with-axel-boman-all-night-long-bar-franca-2026-09-17"
+        ],
         "tickets": [],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Bar%20Franca%2C%20Los%20Angeles%2C%20CA",
@@ -289,30 +327,39 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
         "id": "2026-09-14-music-my-hero-academia-in-concert-6ad721",
         "eid": "my-hero-academia-in-conc-879e",
         "track": "music",
-        "category": "",
+        "category": "Anime Concert",
         "name": "My Hero Academia in Concert",
         "day": "Wed",
         "date": "2026-09-16",
-        "time": "",
-        "start": null,
+        "time": "7pm",
+        "start": "19:00",
         "end": null,
         "area": "Los Angeles",
         "venue": "The Wiltern",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "3790 Wilshire Blvd, Los Angeles, CA 90010",
+        "why": "Full live orchestra performs My Hero Academia's score — a rare anime-orchestral crossover",
+        "summary": "A live orchestra performs the original score and theme songs from the My Hero Academia anime series at The Wiltern.",
         "promoter": "",
-        "price": "",
-        "tags": [],
-        "sources": [],
-        "tickets": [],
+        "price": "$79",
+        "tags": [
+          "anime",
+          "orchestra",
+          "family-friendly"
+        ],
+        "sources": [
+          "https://dolosangeles.com/events/2026/9/16/my-hero-academia-in-concert-tickets",
+          "https://www.wiltern.com/"
+        ],
+        "tickets": [
+          "https://www.livenation.com/event/vv170Z_FGkTLPhCg/my-hero-academia-in-concert"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=The%20Wiltern%2C%20Los%20Angeles%2C%20CA",
           "apple": "https://maps.apple.com/?q=The%20Wiltern%2C%20Los%20Angeles%2C%20CA"
@@ -323,7 +370,7 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
@@ -367,23 +414,31 @@
         "id": "2026-09-14-music-daniel-avery-touching-ice-draa-a4fa4f",
         "eid": "daniel-avery-touching-ic-69a2",
         "track": "music",
-        "category": "",
+        "category": "Techno",
         "name": "Daniel Avery, Touching Ice, Draag",
         "day": "Thu",
         "date": "2026-09-17",
-        "time": "",
-        "start": null,
+        "time": "9pm",
+        "start": "21:00",
         "end": null,
         "area": "Los Angeles, CA",
         "venue": "El Rey Theatre LA",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "5515 Wilshire Blvd, Los Angeles, CA 90036",
+        "why": "UK techno auteur Daniel Avery headlines an intimate Miracle Mile theater date",
+        "summary": "British producer Daniel Avery brings his atmospheric techno live show to the El Rey Theatre, supported by Touching Ice and Draag.",
         "promoter": "",
         "price": "",
-        "tags": [],
-        "sources": [],
-        "tickets": [],
+        "tags": [
+          "techno",
+          "electronic"
+        ],
+        "sources": [
+          "https://www.songkick.com/concerts/43287583-daniel-avery-at-el-rey-theatre",
+          "https://www.theelrey.com/"
+        ],
+        "tickets": [
+          "https://www.axs.com/events/1485526/daniel-avery-tickets"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=El%20Rey%20Theatre%20LA%2C%20Los%20Angeles%2C%20CA",
           "apple": "https://maps.apple.com/?q=El%20Rey%20Theatre%20LA%2C%20Los%20Angeles%2C%20CA"
@@ -394,30 +449,52 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
-        "active": true
+        "enriched": 1,
+        "active": true,
+        "lineup": [
+          {
+            "name": "Daniel Avery",
+            "instagram": null
+          },
+          {
+            "name": "Touching Ice",
+            "instagram": null
+          },
+          {
+            "name": "Draag",
+            "instagram": null
+          }
+        ]
       },
       {
         "id": "2026-09-14-music-daniel-avery-362168",
         "eid": "daniel-avery-efef",
         "track": "music",
-        "category": "",
+        "category": "Techno",
         "name": "Daniel Avery",
         "day": "Thu",
         "date": "2026-09-17",
-        "time": "",
-        "start": null,
+        "time": "9pm",
+        "start": "21:00",
         "end": null,
         "area": "Los Angeles, CA",
         "venue": "El Rey",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "5515 Wilshire Blvd, Los Angeles, CA 90036",
+        "why": "UK techno artist headlines an intimate Miracle Mile theater date",
+        "summary": "British producer Daniel Avery brings his atmospheric techno live show to the El Rey Theatre.",
         "promoter": "",
         "price": "",
-        "tags": [],
-        "sources": [],
-        "tickets": [],
+        "tags": [
+          "techno",
+          "electronic"
+        ],
+        "sources": [
+          "https://www.songkick.com/concerts/43287583-daniel-avery-at-el-rey-theatre",
+          "https://www.theelrey.com/"
+        ],
+        "tickets": [
+          "https://www.axs.com/events/1485526/daniel-avery-tickets"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=El%20Rey%2C%20Los%20Angeles%2C%20CA",
           "apple": "https://maps.apple.com/?q=El%20Rey%2C%20Los%20Angeles%2C%20CA"
@@ -428,8 +505,14 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
-        "active": true
+        "enriched": 1,
+        "active": true,
+        "lineup": [
+          {
+            "name": "Daniel Avery",
+            "instagram": null
+          }
+        ]
       },
       {
         "id": "2026-09-14-music-die-electric-vol-22-08839c",
@@ -533,7 +616,7 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
@@ -683,7 +766,7 @@
         "id": "2026-09-14-music-shay-de-castro-tattoopudge-ba2924",
         "eid": "shay-de-castro-tattoopud-7409",
         "track": "music",
-        "category": "",
+        "category": "Techno",
         "name": "Shay De Castro, Tattoopudge",
         "day": "Thu",
         "date": "2026-09-17",
@@ -693,12 +776,17 @@
         "area": "Long Beach, CA",
         "venue": "Que Sera",
         "address": "",
-        "why": "",
-        "summary": "",
-        "promoter": "",
+        "why": "Third installment of Shay De Castro's curated underground techno series in a Long Beach dive bar",
+        "summary": "MUSEO 003 brings Long Beach techno curator Shay De Castro back to Que Sera with support from Tattoopudge for an intimate underground night.",
+        "promoter": "MUSEO",
         "price": "",
-        "tags": [],
-        "sources": [],
+        "tags": [
+          "techno",
+          "underground"
+        ],
+        "sources": [
+          "https://ra.co/events/2520080"
+        ],
         "tickets": [],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Que%20Sera%2C%20Long%20Beach%2C%20CA",
@@ -710,8 +798,18 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
-        "active": true
+        "enriched": 1,
+        "active": true,
+        "lineup": [
+          {
+            "name": "Shay De Castro",
+            "instagram": "shaydecastro"
+          },
+          {
+            "name": "Tattoopudge",
+            "instagram": null
+          }
+        ]
       },
       {
         "id": "2026-09-14-music-soulwax-d389b8",
