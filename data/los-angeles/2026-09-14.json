@@ -1283,21 +1283,24 @@
         "id": "2026-09-14-music-electric-ave-31ff4e",
         "eid": "electric-ave-362b",
         "track": "music",
-        "category": "",
+        "category": "Techno",
         "name": "Electric Ave",
         "day": "Fri",
         "date": "2026-09-18",
-        "time": "",
-        "start": null,
+        "time": "10pm",
+        "start": "22:00",
         "end": null,
         "area": "Los Angeles",
         "venue": "Los Globos",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "3040 Sunset Blvd, Los Angeles, CA 90026",
+        "why": "Sunset Junction dance floor turned over to a night of techno at Los Globos",
+        "summary": "Electric Ave brings a night of techno and electronic sounds to the Los Globos main room on Sunset Blvd.",
         "promoter": "",
         "price": "21+",
-        "tags": [],
+        "tags": [
+          "techno",
+          "electronic"
+        ],
         "sources": [],
         "tickets": [],
         "maps": {
@@ -1310,7 +1313,7 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
@@ -1321,14 +1324,14 @@
         "name": "Global 360 w/ Maad West B2B Dvnk",
         "day": "Fri",
         "date": "2026-09-18",
-        "time": "",
-        "start": null,
+        "time": "10pm",
+        "start": "22:00",
         "end": null,
         "area": "Los Angeles, CA",
         "venue": "El Cid",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "4212 W Sunset Blvd, Los Angeles, CA 90029",
+        "why": "Multi-b2b lineup packs Silver Lake's flamenco-club-turned-dance-floor for one night",
+        "summary": "A stacked lineup led by Maad West and Dvnk takes over El Cid's Sunset Blvd stage for a night of back-to-back sets.",
         "promoter": "",
         "price": "",
         "tags": [],
@@ -1344,29 +1347,65 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
-        "active": true
+        "enriched": 1,
+        "active": true,
+        "lineup": [
+          {
+            "name": "Maad West",
+            "instagram": null
+          },
+          {
+            "name": "Dvnk",
+            "instagram": null
+          },
+          {
+            "name": "HIFEELINGS",
+            "instagram": null
+          },
+          {
+            "name": "Martha",
+            "instagram": null
+          },
+          {
+            "name": "Sentimiento",
+            "instagram": null
+          },
+          {
+            "name": "83la",
+            "instagram": null
+          },
+          {
+            "name": "Keio",
+            "instagram": null
+          }
+        ]
       },
       {
         "id": "2026-09-14-music-gravedgr-alyssa-jolee-034f4b",
         "eid": "gravedgr-alyssa-jolee-d018",
         "track": "music",
-        "category": "",
+        "category": "Hard Techno",
         "name": "GRAVEDGR, Alyssa Jolee",
         "day": "Fri",
         "date": "2026-09-18",
-        "time": "",
-        "start": null,
+        "time": "8pm",
+        "start": "20:00",
         "end": null,
         "area": "Los Angeles, CA",
         "venue": "Hollywood Palladium",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "6215 Sunset Blvd, Hollywood, CA 90028",
+        "why": "Masked hard-techno/trap producer headlines with vocalist Alyssa Jolee and support from Vessel",
+        "summary": "GRAVEDGR's hard-hitting trap-meets-hard-techno production headlines Hollywood Palladium with Alyssa Jolee's vocal-driven sets and support from Vessel.",
         "promoter": "",
         "price": "",
-        "tags": [],
-        "sources": [],
+        "tags": [
+          "hard-techno",
+          "hard-trap",
+          "bass"
+        ],
+        "sources": [
+          "https://www.songkick.com/concerts/43275291-gravedgr-at-hollywood-palladium"
+        ],
         "tickets": [],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Hollywood%20Palladium%2C%20Los%20Angeles%2C%20CA",
@@ -1378,8 +1417,22 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
-        "active": true
+        "enriched": 1,
+        "active": true,
+        "lineup": [
+          {
+            "name": "GRAVEDGR",
+            "instagram": null
+          },
+          {
+            "name": "Alyssa Jolee",
+            "instagram": null
+          },
+          {
+            "name": "Vessel",
+            "instagram": null
+          }
+        ]
       },
       {
         "id": "2026-09-14-music-juice-unlaced-c932b2",
@@ -1412,30 +1465,36 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
         "id": "2026-09-14-music-julian-fijma-58116d",
         "eid": "julian-fijma-f1dd",
         "track": "music",
-        "category": "",
+        "category": "House",
         "name": "Julian Fijma",
         "day": "Fri",
         "date": "2026-09-18",
-        "time": "",
-        "start": null,
+        "time": "10pm",
+        "start": "22:00",
         "end": null,
         "area": "Los Angeles, CA",
         "venue": "Sound Nightclub",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "1642 N Las Palmas Ave, Los Angeles, CA 90028",
+        "why": "Dutch underground-house riser plays an intimate Hollywood club date",
+        "summary": "Amsterdam-based producer Julian Fijma, fresh off a #1 Beatport Minimal/Deep Tech chart, plays Sound Nightclub.",
         "promoter": "",
-        "price": "",
-        "tags": [],
+        "price": "$39.89",
+        "tags": [
+          "house",
+          "underground",
+          "minimal"
+        ],
         "sources": [],
-        "tickets": [],
+        "tickets": [
+          "https://dice.fm/event/oe83mr-julian-fijma-18th-sep-sound-nightclub-los-angeles-tickets"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Sound%20Nightclub%2C%20Los%20Angeles%2C%20CA",
           "apple": "https://maps.apple.com/?q=Sound%20Nightclub%2C%20Los%20Angeles%2C%20CA"
@@ -1446,7 +1505,7 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
@@ -1480,30 +1539,38 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
         "id": "2026-09-14-music-kybba-d49b21",
         "eid": "kybba-71f5",
         "track": "music",
-        "category": "",
+        "category": "Bass",
         "name": "Kybba",
         "day": "Fri",
         "date": "2026-09-18",
-        "time": "",
-        "start": null,
+        "time": "9pm",
+        "start": "21:00",
         "end": null,
         "area": "Los Angeles",
         "venue": "Don Quixote",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "2811 E Olympic Blvd, Los Angeles, CA",
+        "why": "High-energy tropical-bass producer packs an 800-cap DTLA room",
+        "summary": "Kybba brings his blend of tropical bass and global rhythms to Don Quixote for a high-energy headline set.",
         "promoter": "",
         "price": "18+",
-        "tags": [],
-        "sources": [],
-        "tickets": [],
+        "tags": [
+          "bass",
+          "tropical-bass",
+          "global-bass"
+        ],
+        "sources": [
+          "https://ra.co/events/2470039"
+        ],
+        "tickets": [
+          "https://www.axs.com/events/1471712/kybba-tickets"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Don%20Quixote%2C%20Los%20Angeles%2C%20CA",
           "apple": "https://maps.apple.com/?q=Don%20Quixote%2C%20Los%20Angeles%2C%20CA"
@@ -1514,14 +1581,14 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
         "id": "2026-09-14-music-lights-down-low-2manydjs-corey-4f1eda",
         "eid": "lights-down-low-2manydjs-c233",
         "track": "music",
-        "category": "",
+        "category": "Electronic",
         "name": "Lights Down Low: 2ManyDJs, Corey Sizemore, Richie Panic",
         "day": "Fri",
         "date": "2026-09-18",
@@ -1531,11 +1598,14 @@
         "area": "Los Angeles, CA",
         "venue": "Downtown Los Angeles",
         "address": "",
-        "why": "",
-        "summary": "",
-        "promoter": "",
+        "why": "Belgian genre-blending legends 2manyDJs headline LDL's genre-fluid DTLA warehouse series",
+        "summary": "Lights Down Low's Downtown LA warehouse series welcomes eclectic Belgian selectors 2manyDJs alongside Corey Sizemore and Richie Panic.",
+        "promoter": "Lights Down Low",
         "price": "",
-        "tags": [],
+        "tags": [
+          "electronic",
+          "eclectic"
+        ],
         "sources": [],
         "tickets": [],
         "maps": {
@@ -1548,28 +1618,46 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
-        "active": true
+        "enriched": 1,
+        "active": true,
+        "lineup": [
+          {
+            "name": "2manyDJs",
+            "instagram": null
+          },
+          {
+            "name": "Corey Sizemore",
+            "instagram": null
+          },
+          {
+            "name": "Richie Panic",
+            "instagram": null
+          }
+        ]
       },
       {
         "id": "2026-09-14-music-malaa-matt-faulk-pitchblack-e8c800",
         "eid": "malaa-matt-faulk-pitchbl-9ed0",
         "track": "music",
-        "category": "",
+        "category": "Bass House",
         "name": "Malaa, Matt Faulk, Pitchblack",
         "day": "Fri",
         "date": "2026-09-18",
-        "time": "",
-        "start": null,
+        "time": "10pm",
+        "start": "22:00",
         "end": null,
         "area": "Costa Mesa, CA",
         "venue": "Time Nightclub",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "1875 Newport Blvd, Costa Mesa, CA 92627",
+        "why": "Masked French bass-house don headlines an Orange County late-night with back-to-back support",
+        "summary": "Parisian producer Malaa brings his balaclava-clad bass-house sound to Time Nightclub, joined by Matt Faulk and Pitchblack.",
         "promoter": "",
         "price": "",
-        "tags": [],
+        "tags": [
+          "bass-house",
+          "tech-house",
+          "future-house"
+        ],
         "sources": [],
         "tickets": [],
         "maps": {
@@ -1582,7 +1670,7 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
@@ -1593,14 +1681,14 @@
         "name": "MARTHA, MAAD WEST, DVNK",
         "day": "Fri",
         "date": "2026-09-18",
-        "time": "",
-        "start": null,
+        "time": "10pm",
+        "start": "22:00",
         "end": null,
         "area": "Los Angeles, CA",
         "venue": "El Cid",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "4212 W Sunset Blvd, Los Angeles, CA 90029",
+        "why": "Multi-b2b lineup packs Silver Lake's flamenco-club-turned-dance-floor for one night",
+        "summary": "A stacked lineup led by Maad West and Dvnk takes over El Cid's Sunset Blvd stage for a night of back-to-back sets.",
         "promoter": "",
         "price": "",
         "tags": [],
@@ -1616,8 +1704,38 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
-        "active": true
+        "enriched": 1,
+        "active": true,
+        "lineup": [
+          {
+            "name": "Maad West",
+            "instagram": null
+          },
+          {
+            "name": "Dvnk",
+            "instagram": null
+          },
+          {
+            "name": "Martha",
+            "instagram": null
+          },
+          {
+            "name": "HIFEELINGS",
+            "instagram": null
+          },
+          {
+            "name": "Sentimiento",
+            "instagram": null
+          },
+          {
+            "name": "83la",
+            "instagram": null
+          },
+          {
+            "name": "Keio",
+            "instagram": null
+          }
+        ]
       },
       {
         "id": "2026-09-14-music-nandu-hbb-4dff09",
