@@ -54,18 +54,24 @@
         "name": "Open Decks",
         "day": "Mon",
         "date": "2026-09-14",
-        "time": "",
-        "start": null,
+        "time": "8pm",
+        "start": "20:00",
         "end": null,
         "area": "Los Angeles",
         "venue": "The Grayson Bar",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "351 S Broadway, Los Angeles, CA",
+        "why": "Free weekly open-decks night on the house Pioneer gear at The Grayson",
+        "summary": "A recurring Monday open-decks night in The Grayson's Slipper Clutch back room, open to anyone who wants to sign up and play a set.",
         "promoter": "",
         "price": "free",
-        "tags": [],
-        "sources": [],
+        "tags": [
+          "open-decks",
+          "free",
+          "weekly"
+        ],
+        "sources": [
+          "https://www.instagram.com/thegraysonla/reel/DCkLdsETJkg/"
+        ],
         "tickets": [],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=The%20Grayson%20Bar%2C%20Los%20Angeles%2C%20CA",
@@ -77,30 +83,38 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
         "id": "2026-09-14-music-andrea-bocelli-ca6d1d",
         "eid": "andrea-bocelli-11f8",
         "track": "music",
-        "category": "",
+        "category": "Classical",
         "name": "Andrea Bocelli",
         "day": "Tue",
         "date": "2026-09-15",
-        "time": "",
-        "start": null,
+        "time": "8pm",
+        "start": "20:00",
         "end": null,
         "area": "Los Angeles",
         "venue": "Hollywood Bowl",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "2301 N Highland Ave, Los Angeles, CA 90068",
+        "why": "First of two Hollywood Bowl nights with the best-selling classical artist alive",
+        "summary": "Tenor Andrea Bocelli brings his Romanza 30th Anniversary World Tour to the Hollywood Bowl for a night of opera and pop-classical favorites.",
         "promoter": "",
         "price": "",
-        "tags": [],
-        "sources": [],
-        "tickets": [],
+        "tags": [
+          "classical",
+          "orchestra",
+          "opera"
+        ],
+        "sources": [
+          "https://www.hollywoodbowl.com/events/performances/4357/2026-09-16/andrea-bocelli"
+        ],
+        "tickets": [
+          "https://www.axs.com/events/1304832/andrea-bocelli-tickets"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Hollywood%20Bowl%2C%20Los%20Angeles%2C%20CA",
           "apple": "https://maps.apple.com/?q=Hollywood%20Bowl%2C%20Los%20Angeles%2C%20CA"
@@ -111,7 +125,7 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
@@ -156,23 +170,31 @@
         "id": "2026-09-14-music-andrea-bocelli-6c6edd",
         "eid": "andrea-bocelli-be09",
         "track": "music",
-        "category": "",
+        "category": "Classical",
         "name": "Andrea Bocelli",
         "day": "Wed",
         "date": "2026-09-16",
-        "time": "",
-        "start": null,
+        "time": "8pm",
+        "start": "20:00",
         "end": null,
         "area": "Los Angeles",
         "venue": "Hollywood Bowl",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "2301 N Highland Ave, Los Angeles, CA 90068",
+        "why": "Second of two Hollywood Bowl nights with the best-selling classical artist alive",
+        "summary": "Tenor Andrea Bocelli returns to the Hollywood Bowl for a second night of his Romanza 30th Anniversary World Tour.",
         "promoter": "",
         "price": "",
-        "tags": [],
-        "sources": [],
-        "tickets": [],
+        "tags": [
+          "classical",
+          "orchestra",
+          "opera"
+        ],
+        "sources": [
+          "https://www.hollywoodbowl.com/events/performances/4357/2026-09-16/andrea-bocelli"
+        ],
+        "tickets": [
+          "https://www.axs.com/events/1304834/andrea-bocelli-tickets"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Hollywood%20Bowl%2C%20Los%20Angeles%2C%20CA",
           "apple": "https://maps.apple.com/?q=Hollywood%20Bowl%2C%20Los%20Angeles%2C%20CA"
@@ -183,7 +205,7 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
@@ -228,22 +250,30 @@
         "id": "2026-09-14-music-axel-boman-f4dd5c",
         "eid": "axel-boman-2eec",
         "track": "music",
-        "category": "",
+        "category": "House",
         "name": "Axel Boman",
         "day": "Wed",
         "date": "2026-09-16",
-        "time": "",
-        "start": null,
-        "end": null,
+        "time": "7pm-12am",
+        "start": "19:00",
+        "end": "00:00",
         "area": "Los Angeles",
         "venue": "Bar Franca",
-        "address": "",
-        "why": "",
-        "summary": "",
-        "promoter": "",
+        "address": "438 S Main St, Los Angeles, CA 90013",
+        "why": "Free no-cover night with the Studio Barnhus co-founder on the decks all night",
+        "summary": "Stockholm's Axel Boman takes over Bar Franca's sound room open-to-close for Midnight Lovers' free, no-cover residency night.",
+        "promoter": "Midnight Lovers",
         "price": "free",
-        "tags": [],
-        "sources": [],
+        "tags": [
+          "house",
+          "free",
+          "no-cover",
+          "residency"
+        ],
+        "sources": [
+          "https://ra.co/events/2532519",
+          "https://findmuse.app/concerts/los-angeles/midnight-lovers-with-axel-boman-all-night-long-bar-franca-2026-09-17"
+        ],
         "tickets": [],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Bar%20Franca%2C%20Los%20Angeles%2C%20CA",
@@ -255,29 +285,37 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
         "id": "2026-09-14-music-midnight-lovers-axel-boman-a945a6",
         "eid": "midnight-lovers-axel-bom-aad0",
         "track": "music",
-        "category": "",
+        "category": "House",
         "name": "Midnight Lovers: Axel Boman",
         "day": "Wed",
         "date": "2026-09-16",
-        "time": "",
-        "start": null,
-        "end": null,
+        "time": "7pm-12am",
+        "start": "19:00",
+        "end": "00:00",
         "area": "Los Angeles, CA",
         "venue": "Bar Franca",
-        "address": "",
-        "why": "",
-        "summary": "",
-        "promoter": "",
+        "address": "438 S Main St, Los Angeles, CA 90013",
+        "why": "Bar Franca's flagship no-cover residency night, headlined by Boman all night long",
+        "summary": "Stockholm's Axel Boman takes over Bar Franca's sound room open-to-close for Midnight Lovers' free, no-cover residency night.",
+        "promoter": "Midnight Lovers",
         "price": "",
-        "tags": [],
-        "sources": [],
+        "tags": [
+          "house",
+          "free",
+          "no-cover",
+          "residency"
+        ],
+        "sources": [
+          "https://ra.co/events/2532519",
+          "https://findmuse.app/concerts/los-angeles/midnight-lovers-with-axel-boman-all-night-long-bar-franca-2026-09-17"
+        ],
         "tickets": [],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Bar%20Franca%2C%20Los%20Angeles%2C%20CA",
@@ -289,30 +327,39 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
         "id": "2026-09-14-music-my-hero-academia-in-concert-6ad721",
         "eid": "my-hero-academia-in-conc-879e",
         "track": "music",
-        "category": "",
+        "category": "Anime Concert",
         "name": "My Hero Academia in Concert",
         "day": "Wed",
         "date": "2026-09-16",
-        "time": "",
-        "start": null,
+        "time": "7pm",
+        "start": "19:00",
         "end": null,
         "area": "Los Angeles",
         "venue": "The Wiltern",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "3790 Wilshire Blvd, Los Angeles, CA 90010",
+        "why": "Full live orchestra performs My Hero Academia's score — a rare anime-orchestral crossover",
+        "summary": "A live orchestra performs the original score and theme songs from the My Hero Academia anime series at The Wiltern.",
         "promoter": "",
-        "price": "",
-        "tags": [],
-        "sources": [],
-        "tickets": [],
+        "price": "$79",
+        "tags": [
+          "anime",
+          "orchestra",
+          "family-friendly"
+        ],
+        "sources": [
+          "https://dolosangeles.com/events/2026/9/16/my-hero-academia-in-concert-tickets",
+          "https://www.wiltern.com/"
+        ],
+        "tickets": [
+          "https://www.livenation.com/event/vv170Z_FGkTLPhCg/my-hero-academia-in-concert"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=The%20Wiltern%2C%20Los%20Angeles%2C%20CA",
           "apple": "https://maps.apple.com/?q=The%20Wiltern%2C%20Los%20Angeles%2C%20CA"
@@ -323,7 +370,7 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
@@ -367,23 +414,31 @@
         "id": "2026-09-14-music-daniel-avery-touching-ice-draa-a4fa4f",
         "eid": "daniel-avery-touching-ic-69a2",
         "track": "music",
-        "category": "",
+        "category": "Techno",
         "name": "Daniel Avery, Touching Ice, Draag",
         "day": "Thu",
         "date": "2026-09-17",
-        "time": "",
-        "start": null,
+        "time": "9pm",
+        "start": "21:00",
         "end": null,
         "area": "Los Angeles, CA",
         "venue": "El Rey Theatre LA",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "5515 Wilshire Blvd, Los Angeles, CA 90036",
+        "why": "UK techno auteur Daniel Avery headlines an intimate Miracle Mile theater date",
+        "summary": "British producer Daniel Avery brings his atmospheric techno live show to the El Rey Theatre, supported by Touching Ice and Draag.",
         "promoter": "",
         "price": "",
-        "tags": [],
-        "sources": [],
-        "tickets": [],
+        "tags": [
+          "techno",
+          "electronic"
+        ],
+        "sources": [
+          "https://www.songkick.com/concerts/43287583-daniel-avery-at-el-rey-theatre",
+          "https://www.theelrey.com/"
+        ],
+        "tickets": [
+          "https://www.axs.com/events/1485526/daniel-avery-tickets"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=El%20Rey%20Theatre%20LA%2C%20Los%20Angeles%2C%20CA",
           "apple": "https://maps.apple.com/?q=El%20Rey%20Theatre%20LA%2C%20Los%20Angeles%2C%20CA"
@@ -394,30 +449,52 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
-        "active": true
+        "enriched": 1,
+        "active": true,
+        "lineup": [
+          {
+            "name": "Daniel Avery",
+            "instagram": null
+          },
+          {
+            "name": "Touching Ice",
+            "instagram": null
+          },
+          {
+            "name": "Draag",
+            "instagram": null
+          }
+        ]
       },
       {
         "id": "2026-09-14-music-daniel-avery-362168",
         "eid": "daniel-avery-efef",
         "track": "music",
-        "category": "",
+        "category": "Techno",
         "name": "Daniel Avery",
         "day": "Thu",
         "date": "2026-09-17",
-        "time": "",
-        "start": null,
+        "time": "9pm",
+        "start": "21:00",
         "end": null,
         "area": "Los Angeles, CA",
         "venue": "El Rey",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "5515 Wilshire Blvd, Los Angeles, CA 90036",
+        "why": "UK techno artist headlines an intimate Miracle Mile theater date",
+        "summary": "British producer Daniel Avery brings his atmospheric techno live show to the El Rey Theatre.",
         "promoter": "",
         "price": "",
-        "tags": [],
-        "sources": [],
-        "tickets": [],
+        "tags": [
+          "techno",
+          "electronic"
+        ],
+        "sources": [
+          "https://www.songkick.com/concerts/43287583-daniel-avery-at-el-rey-theatre",
+          "https://www.theelrey.com/"
+        ],
+        "tickets": [
+          "https://www.axs.com/events/1485526/daniel-avery-tickets"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=El%20Rey%2C%20Los%20Angeles%2C%20CA",
           "apple": "https://maps.apple.com/?q=El%20Rey%2C%20Los%20Angeles%2C%20CA"
@@ -428,8 +505,14 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
-        "active": true
+        "enriched": 1,
+        "active": true,
+        "lineup": [
+          {
+            "name": "Daniel Avery",
+            "instagram": null
+          }
+        ]
       },
       {
         "id": "2026-09-14-music-die-electric-vol-22-08839c",
@@ -533,7 +616,7 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
@@ -683,7 +766,7 @@
         "id": "2026-09-14-music-shay-de-castro-tattoopudge-ba2924",
         "eid": "shay-de-castro-tattoopud-7409",
         "track": "music",
-        "category": "",
+        "category": "Techno",
         "name": "Shay De Castro, Tattoopudge",
         "day": "Thu",
         "date": "2026-09-17",
@@ -693,12 +776,17 @@
         "area": "Long Beach, CA",
         "venue": "Que Sera",
         "address": "",
-        "why": "",
-        "summary": "",
-        "promoter": "",
+        "why": "Third installment of Shay De Castro's curated underground techno series in a Long Beach dive bar",
+        "summary": "MUSEO 003 brings Long Beach techno curator Shay De Castro back to Que Sera with support from Tattoopudge for an intimate underground night.",
+        "promoter": "MUSEO",
         "price": "",
-        "tags": [],
-        "sources": [],
+        "tags": [
+          "techno",
+          "underground"
+        ],
+        "sources": [
+          "https://ra.co/events/2520080"
+        ],
         "tickets": [],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Que%20Sera%2C%20Long%20Beach%2C%20CA",
@@ -710,30 +798,49 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
-        "active": true
+        "enriched": 1,
+        "active": true,
+        "lineup": [
+          {
+            "name": "Shay De Castro",
+            "instagram": "shaydecastro"
+          },
+          {
+            "name": "Tattoopudge",
+            "instagram": null
+          }
+        ]
       },
       {
         "id": "2026-09-14-music-soulwax-d389b8",
         "eid": "soulwax-7928",
         "track": "music",
-        "category": "",
+        "category": "Electronic Rock",
         "name": "Soulwax",
         "day": "Thu",
         "date": "2026-09-17",
-        "time": "",
-        "start": null,
+        "time": "9pm",
+        "start": "21:00",
         "end": null,
         "area": "Los Angeles, CA",
         "venue": "Fonda Theatre",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "6126 Hollywood Blvd, Los Angeles, CA 90028",
+        "why": "Belgian dance-punk legends open a two-night Hollywood stand with their raucous live show",
+        "summary": "Belgian brothers David and Stephen Dewaele's Soulwax play a raucous live set blending rock, electro and disco at the historic Fonda Theatre.",
         "promoter": "",
         "price": "",
-        "tags": [],
-        "sources": [],
-        "tickets": [],
+        "tags": [
+          "electronic",
+          "rock",
+          "dance-punk"
+        ],
+        "sources": [
+          "https://www.songkick.com/concerts/43286793-soulwax-at-fonda-theatre",
+          "https://dolosangeles.com/events/2026/9/18/soulwax-tickets"
+        ],
+        "tickets": [
+          "https://www.axs.com/events/1496219/soulwax-tickets"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Fonda%20Theatre%2C%20Los%20Angeles%2C%20CA",
           "apple": "https://maps.apple.com/?q=Fonda%20Theatre%2C%20Los%20Angeles%2C%20CA"
@@ -744,7 +851,7 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
@@ -778,28 +885,31 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
         "id": "2026-09-14-music-arisa-lavenge-trakrunner-and-x-c89dbf",
         "eid": "arisa-lavenge-trakrunner-a430",
         "track": "music",
-        "category": "",
+        "category": "House",
         "name": "Arisa, Lavenge, Trakrunner and Xuliet",
         "day": "Fri",
         "date": "2026-09-18",
-        "time": "",
-        "start": null,
+        "time": "9pm",
+        "start": "21:00",
         "end": null,
         "area": "Los Angeles, CA",
         "venue": "Dusty Vinyl",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "11326 W Pico Blvd, Los Angeles, CA",
+        "why": "Rising West LA selectors Lavenge and Xuliet headline an intimate Pico Blvd night",
+        "summary": "A night of house and open-format sounds from Arisa, Lavenge, Trakrunner and Xuliet at the Pico Blvd listening bar Dusty Vinyl.",
         "promoter": "",
         "price": "",
-        "tags": [],
+        "tags": [
+          "house",
+          "open-format"
+        ],
         "sources": [],
         "tickets": [],
         "maps": {
@@ -812,29 +922,36 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
         "id": "2026-09-14-music-baile-world-ft-jyoty-cquestt-m-289cf6",
         "eid": "baile-world-ft-jyoty-cqu-3ba7",
         "track": "music",
-        "category": "",
+        "category": "Baile",
         "name": "Baile World Ft Jyoty, Cquestt, Mango & Ginger",
         "day": "Fri",
         "date": "2026-09-18",
-        "time": "",
-        "start": null,
-        "end": null,
+        "time": "10pm-3am",
+        "start": "22:00",
+        "end": "03:00",
         "area": "DTLA/Los Angeles, CA",
         "venue": "TBA",
         "address": "",
-        "why": "",
-        "summary": "",
-        "promoter": "",
+        "why": "LA's Baile World throws down with international guest Jyoty at a limited-capacity DTLA warehouse",
+        "summary": "Baile World's DTLA warehouse party welcomes special guest Jyoty alongside residents Cquestt, Mango & Ginger and DJ Nico for a night of reggaeton, dancehall and club sounds.",
+        "promoter": "Baile World",
         "price": "",
-        "tags": [],
-        "sources": [],
+        "tags": [
+          "baile",
+          "reggaeton",
+          "dancehall",
+          "hip-hop"
+        ],
+        "sources": [
+          "https://ra.co/events/2514413"
+        ],
         "tickets": [],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=DTLA/Los%20Angeles%2C%20CA",
@@ -846,29 +963,54 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
-        "active": true
+        "enriched": 1,
+        "active": true,
+        "lineup": [
+          {
+            "name": "Jyoty",
+            "instagram": null
+          },
+          {
+            "name": "Cquestt",
+            "instagram": null
+          },
+          {
+            "name": "Mango & Ginger",
+            "instagram": null
+          },
+          {
+            "name": "DJ Nico",
+            "instagram": null
+          }
+        ]
       },
       {
         "id": "2026-09-14-music-baile-world-jyoty-cquestt-mang-215e04",
         "eid": "baile-world-jyoty-cquest-da3d",
         "track": "music",
-        "category": "",
+        "category": "Baile",
         "name": "BAILE WORLD: Jyoty, CQUESTT, Mango, DJ Nico, Mango & Ginger",
         "day": "Fri",
         "date": "2026-09-18",
-        "time": "",
-        "start": null,
-        "end": null,
+        "time": "10pm-3am",
+        "start": "22:00",
+        "end": "03:00",
         "area": "Los Angeles, CA",
         "venue": "Los Angeles",
         "address": "",
-        "why": "",
-        "summary": "",
-        "promoter": "",
+        "why": "LA's Baile World throws down with international guest Jyoty at a limited-capacity DTLA warehouse",
+        "summary": "Baile World's DTLA warehouse party welcomes special guest Jyoty alongside residents Cquestt, Mango & Ginger and DJ Nico for a night of reggaeton, dancehall and club sounds.",
+        "promoter": "Baile World",
         "price": "",
-        "tags": [],
-        "sources": [],
+        "tags": [
+          "baile",
+          "reggaeton",
+          "dancehall",
+          "hip-hop"
+        ],
+        "sources": [
+          "https://ra.co/events/2514413"
+        ],
         "tickets": [],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Los%20Angeles%2C%20Los%20Angeles%2C%20CA",
@@ -880,8 +1022,26 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
-        "active": true
+        "enriched": 1,
+        "active": true,
+        "lineup": [
+          {
+            "name": "Jyoty",
+            "instagram": null
+          },
+          {
+            "name": "Cquestt",
+            "instagram": null
+          },
+          {
+            "name": "Mango & Ginger",
+            "instagram": null
+          },
+          {
+            "name": "DJ Nico",
+            "instagram": null
+          }
+        ]
       },
       {
         "id": "2026-09-14-music-bayroom-the-orange-coast-kp-mi-25b8d3",
@@ -914,7 +1074,7 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
@@ -948,7 +1108,7 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
@@ -982,14 +1142,14 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
         "id": "2026-09-14-music-deepchord-agora-photay-65920b",
         "eid": "deepchord-agora-photay-8426",
         "track": "music",
-        "category": "",
+        "category": "Techno",
         "name": "Deepchord (Agora), Photay",
         "day": "Fri",
         "date": "2026-09-18",
@@ -998,13 +1158,19 @@
         "end": null,
         "area": "Los Angeles, CA",
         "venue": "Agora Records",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "1022 S Santa Fe Ave, Los Angeles, CA 90021",
+        "why": "Dub-techno mainstay Deepchord shares the room with Photay's live electronics at a DTLA record shop",
+        "summary": "Agora Records' Arts District shop hosts a rare live pairing of dub-techno producer Deepchord and electronic musician Photay.",
         "promoter": "",
         "price": "",
-        "tags": [],
-        "sources": [],
+        "tags": [
+          "techno",
+          "ambient",
+          "dub-techno"
+        ],
+        "sources": [
+          "https://ra.co/events/2524033"
+        ],
         "tickets": [],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Agora%20Records%2C%20Los%20Angeles%2C%20CA",
@@ -1016,14 +1182,24 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
-        "active": true
+        "enriched": 1,
+        "active": true,
+        "lineup": [
+          {
+            "name": "Deepchord",
+            "instagram": null
+          },
+          {
+            "name": "Photay",
+            "instagram": null
+          }
+        ]
       },
       {
         "id": "2026-09-14-music-deepchord-live-photay-live-f216ca",
         "eid": "deepchord-live-photay-li-3d3a",
         "track": "music",
-        "category": "",
+        "category": "Techno",
         "name": "Deepchord (Live) + Photay (Live)",
         "day": "Fri",
         "date": "2026-09-18",
@@ -1032,13 +1208,19 @@
         "end": null,
         "area": "Los Angeles, CA",
         "venue": "Agora Records",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "1022 S Santa Fe Ave, Los Angeles, CA 90021",
+        "why": "Dub-techno mainstay Deepchord shares the room with Photay's live electronics at a DTLA record shop",
+        "summary": "Agora Records' Arts District shop hosts a rare live pairing of dub-techno producer Deepchord and electronic musician Photay.",
         "promoter": "",
         "price": "",
-        "tags": [],
-        "sources": [],
+        "tags": [
+          "techno",
+          "ambient",
+          "dub-techno"
+        ],
+        "sources": [
+          "https://ra.co/events/2524033"
+        ],
         "tickets": [],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Agora%20Records%2C%20Los%20Angeles%2C%20CA",
@@ -1050,8 +1232,18 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
-        "active": true
+        "enriched": 1,
+        "active": true,
+        "lineup": [
+          {
+            "name": "Deepchord",
+            "instagram": null
+          },
+          {
+            "name": "Photay",
+            "instagram": null
+          }
+        ]
       },
       {
         "id": "2026-09-14-music-dragonflies-b69ec4",
@@ -1091,21 +1283,24 @@
         "id": "2026-09-14-music-electric-ave-31ff4e",
         "eid": "electric-ave-362b",
         "track": "music",
-        "category": "",
+        "category": "Techno",
         "name": "Electric Ave",
         "day": "Fri",
         "date": "2026-09-18",
-        "time": "",
-        "start": null,
+        "time": "10pm",
+        "start": "22:00",
         "end": null,
         "area": "Los Angeles",
         "venue": "Los Globos",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "3040 Sunset Blvd, Los Angeles, CA 90026",
+        "why": "Sunset Junction dance floor turned over to a night of techno at Los Globos",
+        "summary": "Electric Ave brings a night of techno and electronic sounds to the Los Globos main room on Sunset Blvd.",
         "promoter": "",
         "price": "21+",
-        "tags": [],
+        "tags": [
+          "techno",
+          "electronic"
+        ],
         "sources": [],
         "tickets": [],
         "maps": {
@@ -1118,7 +1313,7 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
@@ -1129,14 +1324,14 @@
         "name": "Global 360 w/ Maad West B2B Dvnk",
         "day": "Fri",
         "date": "2026-09-18",
-        "time": "",
-        "start": null,
+        "time": "10pm",
+        "start": "22:00",
         "end": null,
         "area": "Los Angeles, CA",
         "venue": "El Cid",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "4212 W Sunset Blvd, Los Angeles, CA 90029",
+        "why": "Multi-b2b lineup packs Silver Lake's flamenco-club-turned-dance-floor for one night",
+        "summary": "A stacked lineup led by Maad West and Dvnk takes over El Cid's Sunset Blvd stage for a night of back-to-back sets.",
         "promoter": "",
         "price": "",
         "tags": [],
@@ -1152,29 +1347,65 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
-        "active": true
+        "enriched": 1,
+        "active": true,
+        "lineup": [
+          {
+            "name": "Maad West",
+            "instagram": null
+          },
+          {
+            "name": "Dvnk",
+            "instagram": null
+          },
+          {
+            "name": "HIFEELINGS",
+            "instagram": null
+          },
+          {
+            "name": "Martha",
+            "instagram": null
+          },
+          {
+            "name": "Sentimiento",
+            "instagram": null
+          },
+          {
+            "name": "83la",
+            "instagram": null
+          },
+          {
+            "name": "Keio",
+            "instagram": null
+          }
+        ]
       },
       {
         "id": "2026-09-14-music-gravedgr-alyssa-jolee-034f4b",
         "eid": "gravedgr-alyssa-jolee-d018",
         "track": "music",
-        "category": "",
+        "category": "Hard Techno",
         "name": "GRAVEDGR, Alyssa Jolee",
         "day": "Fri",
         "date": "2026-09-18",
-        "time": "",
-        "start": null,
+        "time": "8pm",
+        "start": "20:00",
         "end": null,
         "area": "Los Angeles, CA",
         "venue": "Hollywood Palladium",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "6215 Sunset Blvd, Hollywood, CA 90028",
+        "why": "Masked hard-techno/trap producer headlines with vocalist Alyssa Jolee and support from Vessel",
+        "summary": "GRAVEDGR's hard-hitting trap-meets-hard-techno production headlines Hollywood Palladium with Alyssa Jolee's vocal-driven sets and support from Vessel.",
         "promoter": "",
         "price": "",
-        "tags": [],
-        "sources": [],
+        "tags": [
+          "hard-techno",
+          "hard-trap",
+          "bass"
+        ],
+        "sources": [
+          "https://www.songkick.com/concerts/43275291-gravedgr-at-hollywood-palladium"
+        ],
         "tickets": [],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Hollywood%20Palladium%2C%20Los%20Angeles%2C%20CA",
@@ -1186,8 +1417,22 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
-        "active": true
+        "enriched": 1,
+        "active": true,
+        "lineup": [
+          {
+            "name": "GRAVEDGR",
+            "instagram": null
+          },
+          {
+            "name": "Alyssa Jolee",
+            "instagram": null
+          },
+          {
+            "name": "Vessel",
+            "instagram": null
+          }
+        ]
       },
       {
         "id": "2026-09-14-music-juice-unlaced-c932b2",
@@ -1220,30 +1465,36 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
         "id": "2026-09-14-music-julian-fijma-58116d",
         "eid": "julian-fijma-f1dd",
         "track": "music",
-        "category": "",
+        "category": "House",
         "name": "Julian Fijma",
         "day": "Fri",
         "date": "2026-09-18",
-        "time": "",
-        "start": null,
+        "time": "10pm",
+        "start": "22:00",
         "end": null,
         "area": "Los Angeles, CA",
         "venue": "Sound Nightclub",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "1642 N Las Palmas Ave, Los Angeles, CA 90028",
+        "why": "Dutch underground-house riser plays an intimate Hollywood club date",
+        "summary": "Amsterdam-based producer Julian Fijma, fresh off a #1 Beatport Minimal/Deep Tech chart, plays Sound Nightclub.",
         "promoter": "",
-        "price": "",
-        "tags": [],
+        "price": "$39.89",
+        "tags": [
+          "house",
+          "underground",
+          "minimal"
+        ],
         "sources": [],
-        "tickets": [],
+        "tickets": [
+          "https://dice.fm/event/oe83mr-julian-fijma-18th-sep-sound-nightclub-los-angeles-tickets"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Sound%20Nightclub%2C%20Los%20Angeles%2C%20CA",
           "apple": "https://maps.apple.com/?q=Sound%20Nightclub%2C%20Los%20Angeles%2C%20CA"
@@ -1254,7 +1505,7 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
@@ -1288,30 +1539,38 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
         "id": "2026-09-14-music-kybba-d49b21",
         "eid": "kybba-71f5",
         "track": "music",
-        "category": "",
+        "category": "Bass",
         "name": "Kybba",
         "day": "Fri",
         "date": "2026-09-18",
-        "time": "",
-        "start": null,
+        "time": "9pm",
+        "start": "21:00",
         "end": null,
         "area": "Los Angeles",
         "venue": "Don Quixote",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "2811 E Olympic Blvd, Los Angeles, CA",
+        "why": "High-energy tropical-bass producer packs an 800-cap DTLA room",
+        "summary": "Kybba brings his blend of tropical bass and global rhythms to Don Quixote for a high-energy headline set.",
         "promoter": "",
         "price": "18+",
-        "tags": [],
-        "sources": [],
-        "tickets": [],
+        "tags": [
+          "bass",
+          "tropical-bass",
+          "global-bass"
+        ],
+        "sources": [
+          "https://ra.co/events/2470039"
+        ],
+        "tickets": [
+          "https://www.axs.com/events/1471712/kybba-tickets"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Don%20Quixote%2C%20Los%20Angeles%2C%20CA",
           "apple": "https://maps.apple.com/?q=Don%20Quixote%2C%20Los%20Angeles%2C%20CA"
@@ -1322,14 +1581,14 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
         "id": "2026-09-14-music-lights-down-low-2manydjs-corey-4f1eda",
         "eid": "lights-down-low-2manydjs-c233",
         "track": "music",
-        "category": "",
+        "category": "Electronic",
         "name": "Lights Down Low: 2ManyDJs, Corey Sizemore, Richie Panic",
         "day": "Fri",
         "date": "2026-09-18",
@@ -1339,11 +1598,14 @@
         "area": "Los Angeles, CA",
         "venue": "Downtown Los Angeles",
         "address": "",
-        "why": "",
-        "summary": "",
-        "promoter": "",
+        "why": "Belgian genre-blending legends 2manyDJs headline LDL's genre-fluid DTLA warehouse series",
+        "summary": "Lights Down Low's Downtown LA warehouse series welcomes eclectic Belgian selectors 2manyDJs alongside Corey Sizemore and Richie Panic.",
+        "promoter": "Lights Down Low",
         "price": "",
-        "tags": [],
+        "tags": [
+          "electronic",
+          "eclectic"
+        ],
         "sources": [],
         "tickets": [],
         "maps": {
@@ -1356,28 +1618,46 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
-        "active": true
+        "enriched": 1,
+        "active": true,
+        "lineup": [
+          {
+            "name": "2manyDJs",
+            "instagram": null
+          },
+          {
+            "name": "Corey Sizemore",
+            "instagram": null
+          },
+          {
+            "name": "Richie Panic",
+            "instagram": null
+          }
+        ]
       },
       {
         "id": "2026-09-14-music-malaa-matt-faulk-pitchblack-e8c800",
         "eid": "malaa-matt-faulk-pitchbl-9ed0",
         "track": "music",
-        "category": "",
+        "category": "Bass House",
         "name": "Malaa, Matt Faulk, Pitchblack",
         "day": "Fri",
         "date": "2026-09-18",
-        "time": "",
-        "start": null,
+        "time": "10pm",
+        "start": "22:00",
         "end": null,
         "area": "Costa Mesa, CA",
         "venue": "Time Nightclub",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "1875 Newport Blvd, Costa Mesa, CA 92627",
+        "why": "Masked French bass-house don headlines an Orange County late-night with back-to-back support",
+        "summary": "Parisian producer Malaa brings his balaclava-clad bass-house sound to Time Nightclub, joined by Matt Faulk and Pitchblack.",
         "promoter": "",
         "price": "",
-        "tags": [],
+        "tags": [
+          "bass-house",
+          "tech-house",
+          "future-house"
+        ],
         "sources": [],
         "tickets": [],
         "maps": {
@@ -1390,7 +1670,7 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
@@ -1401,14 +1681,14 @@
         "name": "MARTHA, MAAD WEST, DVNK",
         "day": "Fri",
         "date": "2026-09-18",
-        "time": "",
-        "start": null,
+        "time": "10pm",
+        "start": "22:00",
         "end": null,
         "area": "Los Angeles, CA",
         "venue": "El Cid",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "4212 W Sunset Blvd, Los Angeles, CA 90029",
+        "why": "Multi-b2b lineup packs Silver Lake's flamenco-club-turned-dance-floor for one night",
+        "summary": "A stacked lineup led by Maad West and Dvnk takes over El Cid's Sunset Blvd stage for a night of back-to-back sets.",
         "promoter": "",
         "price": "",
         "tags": [],
@@ -1424,14 +1704,44 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
-        "active": true
+        "enriched": 1,
+        "active": true,
+        "lineup": [
+          {
+            "name": "Maad West",
+            "instagram": null
+          },
+          {
+            "name": "Dvnk",
+            "instagram": null
+          },
+          {
+            "name": "Martha",
+            "instagram": null
+          },
+          {
+            "name": "HIFEELINGS",
+            "instagram": null
+          },
+          {
+            "name": "Sentimiento",
+            "instagram": null
+          },
+          {
+            "name": "83la",
+            "instagram": null
+          },
+          {
+            "name": "Keio",
+            "instagram": null
+          }
+        ]
       },
       {
         "id": "2026-09-14-music-nandu-hbb-4dff09",
         "eid": "nandu-hbb-93c4",
         "track": "music",
-        "category": "",
+        "category": "music",
         "name": "Nandu, HBB",
         "day": "Fri",
         "date": "2026-09-18",
@@ -1445,8 +1755,12 @@
         "summary": "",
         "promoter": "",
         "price": "",
-        "tags": [],
-        "sources": [],
+        "tags": [
+          "electronic"
+        ],
+        "sources": [
+          "https://edmtrain.com/los-angeles-ca/nandu-hbb-529576"
+        ],
         "tickets": [],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Matriarch%20La%2C%20Los%20Angeles%2C%20CA",
@@ -1458,14 +1772,14 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
         "id": "2026-09-14-music-the-one-hundred-2987ce",
         "eid": "the-one-hundred-611d",
         "track": "music",
-        "category": "",
+        "category": "Deep House",
         "name": "The One Hundred",
         "day": "Fri",
         "date": "2026-09-18",
@@ -1474,13 +1788,19 @@
         "end": null,
         "area": "Los Angeles, CA",
         "venue": "The Airliner",
-        "address": "",
-        "why": "",
-        "summary": "",
-        "promoter": "",
+        "address": "2419 N Broadway, Los Angeles, CA 90031",
+        "why": "Monthly soulful deep-house/garage residency from Juliet Mendoza in a Lincoln Heights dive bar",
+        "summary": "The One Hundred is Juliet Mendoza's monthly residency rooted in soulful deep house and garage, held every third Friday at The Airliner.",
+        "promoter": "Juliet Mendoza",
         "price": "",
-        "tags": [],
-        "sources": [],
+        "tags": [
+          "deep-house",
+          "garage",
+          "soulful"
+        ],
+        "sources": [
+          "https://ra.co/events/2434457"
+        ],
         "tickets": [],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=The%20Airliner%2C%20Los%20Angeles%2C%20CA",
@@ -1492,7 +1812,7 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
@@ -1533,7 +1853,7 @@
         "id": "2026-09-14-music-panic-room-feat-james-axon-86ae62",
         "eid": "panic-room-feat-james-ax-1904",
         "track": "music",
-        "category": "",
+        "category": "music",
         "name": "Panic Room Feat. James Axon",
         "day": "Fri",
         "date": "2026-09-18",
@@ -1543,12 +1863,17 @@
         "area": "Los Angeles, CA",
         "venue": "TBA Silverlake",
         "address": "",
-        "why": "",
-        "summary": "",
+        "why": "Address-on-RSVP underground night rotating a small B2B roster rather than a single headliner poster.",
+        "summary": "Panic Room brings James Axon to its recurring undisclosed-location Silverlake party alongside a rotating cast of house DJs.",
         "promoter": "",
         "price": "",
-        "tags": [],
-        "sources": [],
+        "tags": [
+          "house",
+          "underground"
+        ],
+        "sources": [
+          "https://ra.co/events/2415069"
+        ],
         "tickets": [],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Los%20Angeles%2C%20CA",
@@ -1560,30 +1885,38 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
         "id": "2026-09-14-music-partiboi69-406512",
         "eid": "partiboi69-77ae",
         "track": "music",
-        "category": "",
+        "category": "Club",
         "name": "Partiboi69",
         "day": "Fri",
         "date": "2026-09-18",
-        "time": "",
-        "start": null,
+        "time": "10pm",
+        "start": "22:00",
         "end": null,
         "area": "Los Angeles, CA",
         "venue": "Avalon Hollywood",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "1735 Vine St, Los Angeles, CA 90028",
+        "why": "Genre-blurring club/bass producer headlines Hollywood's biggest dance floor",
+        "summary": "Partiboi69 brings his frenetic club-and-bass sound to Avalon Hollywood, supported by Strawbry and Coldsweat.",
         "promoter": "",
-        "price": "",
-        "tags": [],
-        "sources": [],
-        "tickets": [],
+        "price": "$36",
+        "tags": [
+          "club",
+          "bass",
+          "hyperpop"
+        ],
+        "sources": [
+          "https://app.discotech.me/events/38246964-partiboi69-at-avalon"
+        ],
+        "tickets": [
+          "https://www.tickpick.com/buy-partiboi69-tickets-avalon-hollywood-9-18-26-10pm/8166083/"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Avalon%20Hollywood%2C%20Los%20Angeles%2C%20CA",
           "apple": "https://maps.apple.com/?q=Avalon%20Hollywood%2C%20Los%20Angeles%2C%20CA"
@@ -1594,8 +1927,22 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
-        "active": true
+        "enriched": 1,
+        "active": true,
+        "lineup": [
+          {
+            "name": "Partiboi69",
+            "instagram": null
+          },
+          {
+            "name": "Strawbry",
+            "instagram": null
+          },
+          {
+            "name": "Coldsweat",
+            "instagram": null
+          }
+        ]
       },
       {
         "id": "2026-09-14-music-saymyname-307349",
@@ -1635,22 +1982,28 @@
         "id": "2026-09-14-music-sebastiane-1efa4a",
         "eid": "sebastiane-58ea",
         "track": "music",
-        "category": "",
+        "category": "Disco",
         "name": "Sebastiane",
         "day": "Fri",
         "date": "2026-09-18",
-        "time": "",
-        "start": null,
+        "time": "10pm",
+        "start": "22:00",
         "end": null,
         "area": "Los Angeles, CA",
         "venue": "Akbar",
-        "address": "",
-        "why": "",
-        "summary": "",
-        "promoter": "",
+        "address": "4356 W Sunset Blvd, Los Angeles, CA",
+        "why": "Silver Lake's long-running homoerotic disco bacchanal, hosted by Atlas and Jason Hazzard",
+        "summary": "Sebastiane turns Akbar into a homoerotic disco bacchanal with DJs Sindri and Jumpr, hosted by Atlas and Jason Hazzard.",
+        "promoter": "Sebastiane",
         "price": "",
-        "tags": [],
-        "sources": [],
+        "tags": [
+          "disco",
+          "queer",
+          "lgbtq"
+        ],
+        "sources": [
+          "https://ra.co/clubs/12833"
+        ],
         "tickets": [],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Akbar%2C%20Los%20Angeles%2C%20CA",
@@ -1662,29 +2015,45 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
-        "active": true
+        "enriched": 1,
+        "active": true,
+        "lineup": [
+          {
+            "name": "Sindri",
+            "instagram": null
+          },
+          {
+            "name": "Jumpr",
+            "instagram": null
+          }
+        ]
       },
       {
         "id": "2026-09-14-music-soulwax-0fc8dc",
         "eid": "soulwax-9e24",
         "track": "music",
-        "category": "",
+        "category": "Electronic Rock",
         "name": "Soulwax",
         "day": "Fri",
         "date": "2026-09-18",
-        "time": "",
-        "start": null,
+        "time": "9pm",
+        "start": "21:00",
         "end": null,
         "area": "Los Angeles, CA",
         "venue": "Fonda Theatre",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "6126 Hollywood Blvd, Los Angeles, CA 90028",
+        "why": "Second of two Hollywood nights from the raucous Belgian dance-punk legends",
+        "summary": "Belgian brothers David and Stephen Dewaele's Soulwax play a raucous live set blending rock, electro and disco at the historic Fonda Theatre.",
         "promoter": "",
-        "price": "",
-        "tags": [],
-        "sources": [],
+        "price": "$209+",
+        "tags": [
+          "electronic",
+          "rock",
+          "dance-punk"
+        ],
+        "sources": [
+          "https://dolosangeles.com/events/2026/9/18/soulwax-tickets"
+        ],
         "tickets": [],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Fonda%20Theatre%2C%20Los%20Angeles%2C%20CA",
@@ -1696,30 +2065,38 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
         "id": "2026-09-14-music-vanta-viora-social-house-a2f08e",
         "eid": "vanta-viora-social-house-0206",
         "track": "music",
-        "category": "",
+        "category": "Social",
         "name": "Vanta Viora: Social House",
         "day": "Fri",
         "date": "2026-09-18",
-        "time": "",
-        "start": null,
-        "end": null,
+        "time": "9pm-4am",
+        "start": "21:00",
+        "end": "04:00",
         "area": "Los Angeles, CA",
         "venue": "TBA Woodland Hills",
         "address": "",
-        "why": "",
-        "summary": "",
+        "why": "Private Woodland Hills mansion mixer with a pool, arcade and fashion showcase",
+        "summary": "VANTA VIORA's Social House turns a private Woodland Hills mansion into an all-night mixer with dancing, pool access, arcade games and a fashion showcase.",
         "promoter": "",
         "price": "",
-        "tags": [],
-        "sources": [],
-        "tickets": [],
+        "tags": [
+          "mixer",
+          "mansion-party",
+          "social"
+        ],
+        "sources": [
+          "https://www.eventbrite.com/e/vanta-viora-social-house-mansion-mixerparty-tickets-1991816802675"
+        ],
+        "tickets": [
+          "https://www.tickettailor.com/events/vantaviora/2259203"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Los%20Angeles%2C%20CA",
           "apple": "https://maps.apple.com/?q=Los%20Angeles%2C%20CA"
@@ -1730,7 +2107,7 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
@@ -1839,22 +2216,28 @@
         "id": "2026-09-14-music-bobby-beethoven-katie-rex-486e5b",
         "eid": "bobby-beethoven-katie-re-6337",
         "track": "music",
-        "category": "",
+        "category": "House",
         "name": "Bobby Beethoven & Katie Rex",
         "day": "Sat",
         "date": "2026-09-19",
-        "time": "",
-        "start": null,
+        "time": "11pm",
+        "start": "23:00",
         "end": null,
         "area": "Los Angeles",
         "venue": "TBA",
         "address": "",
-        "why": "",
-        "summary": "",
-        "promoter": "",
+        "why": "Consent-forward underground house night at an undisclosed DTLA location",
+        "summary": "SMD's late-night underground party brings Bobby Beethoven and Katie Rex to a secret Downtown LA venue, with consent mandatory and no photos or video.",
+        "promoter": "SMD",
         "price": "$41-46",
-        "tags": [],
-        "sources": [],
+        "tags": [
+          "house",
+          "underground",
+          "secret-location"
+        ],
+        "sources": [
+          "https://playalarga.co/events/smd-with-bobby-beethoven-and-katie-rex/"
+        ],
         "tickets": [],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Los%20Angeles%2C%20CA",
@@ -1866,7 +2249,7 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
@@ -1941,22 +2324,28 @@
         "id": "2026-09-14-music-derrick-carter-jt-donaldson-2c9c99",
         "eid": "derrick-carter-jt-donald-cc8e",
         "track": "music",
-        "category": "",
+        "category": "House",
         "name": "Derrick Carter & JT Donaldson",
         "day": "Sat",
         "date": "2026-09-19",
-        "time": "",
-        "start": null,
+        "time": "9pm",
+        "start": "21:00",
         "end": null,
         "area": "Los Angeles, CA",
         "venue": "TBA",
         "address": "",
-        "why": "",
-        "summary": "",
+        "why": "Chicago house pioneers Derrick Carter and JT Donaldson play a secret LA location",
+        "summary": "Chicago house legends Derrick Carter and JT Donaldson team up for a secret-location LA date.",
         "promoter": "",
         "price": "",
-        "tags": [],
-        "sources": [],
+        "tags": [
+          "house",
+          "chicago-house",
+          "secret-location"
+        ],
+        "sources": [
+          "https://ra.co/dj/derrickcarter/tour-dates"
+        ],
         "tickets": [],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Los%20Angeles%2C%20CA",
@@ -1968,14 +2357,32 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
-        "active": true
+        "enriched": 1,
+        "active": true,
+        "lineup": [
+          {
+            "name": "Derrick Carter",
+            "instagram": null
+          },
+          {
+            "name": "JT Donaldson",
+            "instagram": null
+          },
+          {
+            "name": "NEE.KO",
+            "instagram": null
+          },
+          {
+            "name": "Julian Orozco",
+            "instagram": null
+          }
+        ]
       },
       {
         "id": "2026-09-14-music-florida-rave-598278",
         "eid": "florida-rave-e6b2",
         "track": "music",
-        "category": "",
+        "category": "music",
         "name": "Florida Rave",
         "day": "Sat",
         "date": "2026-09-19",
@@ -1989,7 +2396,10 @@
         "summary": "",
         "promoter": "",
         "price": "$45-65",
-        "tags": [],
+        "tags": [
+          "rave",
+          "edm"
+        ],
         "sources": [],
         "tickets": [],
         "maps": {
@@ -2002,30 +2412,37 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
         "id": "2026-09-14-music-jigitz-killen-d38ee6",
         "eid": "jigitz-killen-e731",
         "track": "music",
-        "category": "",
+        "category": "Indie Dance",
         "name": "Jigitz, Killen.",
         "day": "Sat",
         "date": "2026-09-19",
-        "time": "",
-        "start": null,
+        "time": "9pm",
+        "start": "21:00",
         "end": null,
         "area": "Los Angeles",
         "venue": "Fonda Theatre",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "6126 Hollywood Blvd, Los Angeles, CA 90028",
+        "why": "Brooklyn-via-Albuquerque indie-dance producer headlines a Hollywood theater date",
+        "summary": "Indie-dance producer jigitz plays the Fonda Theatre with support from Killen.",
         "promoter": "",
         "price": "$136",
-        "tags": [],
-        "sources": [],
-        "tickets": [],
+        "tags": [
+          "indie-dance",
+          "electronic"
+        ],
+        "sources": [
+          "https://www.axs.com/events/1471594/jigitz-tickets"
+        ],
+        "tickets": [
+          "https://www.axs.com/events/1471594/jigitz-tickets"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Fonda%20Theatre%2C%20Los%20Angeles%2C%20CA",
           "apple": "https://maps.apple.com/?q=Fonda%20Theatre%2C%20Los%20Angeles%2C%20CA"
@@ -2036,14 +2453,24 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
-        "active": true
+        "enriched": 1,
+        "active": true,
+        "lineup": [
+          {
+            "name": "jigitz",
+            "instagram": null
+          },
+          {
+            "name": "Killen.",
+            "instagram": null
+          }
+        ]
       },
       {
         "id": "2026-09-14-music-jon-hassell-listening-party-f2bea1",
         "eid": "jon-hassell-listening-pa-c9b8",
         "track": "music",
-        "category": "",
+        "category": "Ambient",
         "name": "Jon Hassell Listening Party",
         "day": "Sat",
         "date": "2026-09-19",
@@ -2052,12 +2479,16 @@
         "end": null,
         "area": "Los Angeles, CA",
         "venue": "The Airliner",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "2419 N Broadway, Los Angeles, CA 90031",
+        "why": "Dublab's ambient listening series honors Jon Hassell with live sets from Photay and Celia Hollander",
+        "summary": "A Dublab-hosted listening party at The Airliner exploring Jon Hassell's Fourth World sound, with live accompaniment from Photay and Celia Hollander.",
         "promoter": "",
         "price": "",
-        "tags": [],
+        "tags": [
+          "ambient",
+          "listening-party",
+          "experimental"
+        ],
         "sources": [],
         "tickets": [],
         "maps": {
@@ -2070,14 +2501,24 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
-        "active": true
+        "enriched": 1,
+        "active": true,
+        "lineup": [
+          {
+            "name": "Photay",
+            "instagram": null
+          },
+          {
+            "name": "Celia Hollander",
+            "instagram": null
+          }
+        ]
       },
       {
         "id": "2026-09-14-music-paradisco-scotty-boy-880877",
         "eid": "paradisco-scotty-boy-bfb6",
         "track": "music",
-        "category": "",
+        "category": "Disco",
         "name": "Paradisco: Scotty Boy",
         "day": "Sat",
         "date": "2026-09-19",
@@ -2087,12 +2528,17 @@
         "area": "Los Angeles",
         "venue": "Kiss Kiss Bang Bang",
         "address": "",
-        "why": "",
-        "summary": "",
+        "why": "Monthly disco-house party on Koreatown's glowing checkered dance floor",
+        "summary": "Paradisco brings modern disco and disco-house to Kiss Kiss Bang Bang's retro Studio-54-style room, with sets from Scotty Boy.",
         "promoter": "",
         "price": "free",
-        "tags": [],
-        "sources": [],
+        "tags": [
+          "disco",
+          "disco-house"
+        ],
+        "sources": [
+          "https://ra.co/clubs/189785"
+        ],
         "tickets": [],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Kiss%20Kiss%20Bang%20Bang%2C%20Los%20Angeles%2C%20CA",
@@ -2104,14 +2550,14 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
         "id": "2026-09-14-music-producing-techno-w-pilo-5cca41",
         "eid": "producing-techno-w-pilo-9f97",
         "track": "music",
-        "category": "",
+        "category": "Workshop",
         "name": "Producing Techno w/ Pilo",
         "day": "Sat",
         "date": "2026-09-19",
@@ -2120,13 +2566,19 @@
         "end": null,
         "area": "Los Angeles",
         "venue": "Io Music Academy La",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "1550 N Gower St, Los Angeles, CA 90028",
+        "why": "Hands-on techno production session taught by LA mainstay Pilo (Boysnoize, Turbo)",
+        "summary": "IO Music Academy hosts a techno production workshop led by LA producer Pilo, known for releases on Boysnoize and Turbo.",
         "promoter": "",
         "price": "free",
-        "tags": [],
-        "sources": [],
+        "tags": [
+          "workshop",
+          "techno",
+          "production"
+        ],
+        "sources": [
+          "https://www.iomusic.academy/locations/los-angeles"
+        ],
         "tickets": [],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Io%20Music%20Academy%20La%2C%20Los%20Angeles%2C%20CA",
@@ -2138,30 +2590,39 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
         "id": "2026-09-14-music-gregory-alan-isakov-with-the-h-3c6597",
         "eid": "gregory-alan-isakov-with-9ff8",
         "track": "music",
-        "category": "",
+        "category": "Folk",
         "name": "Gregory Alan Isakov with the Hollywood Bowl Orchestra, Jose Gonzalez",
         "day": "Sun",
         "date": "2026-09-20",
-        "time": "",
-        "start": null,
+        "time": "7:30pm",
+        "start": "19:30",
         "end": null,
         "area": "Los Angeles",
         "venue": "Hollywood Bowl",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "2301 N Highland Ave, Los Angeles, CA 90068",
+        "why": "First-ever Hollywood Bowl headline show, backed by the full Bowl Orchestra with Jose Gonzalez support",
+        "summary": "Singer-songwriter Gregory Alan Isakov makes his Hollywood Bowl headline debut backed by the Hollywood Bowl Orchestra, with support from Jose Gonzalez.",
         "promoter": "",
-        "price": "",
-        "tags": [],
-        "sources": [],
-        "tickets": [],
+        "price": "$27",
+        "tags": [
+          "folk",
+          "indie",
+          "orchestral"
+        ],
+        "sources": [
+          "https://dolosangeles.com/events/2026/9/20/gregory-alan-isakov-with-the-hollywood-bowl-orchestra-tickets",
+          "https://www.gregoryalanisakovhollywoodbowl.com/"
+        ],
+        "tickets": [
+          "https://www.todaytix.com/los-angeles/shows/46463-gregory-alan-isakov"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Hollywood%20Bowl%2C%20Los%20Angeles%2C%20CA",
           "apple": "https://maps.apple.com/?q=Hollywood%20Bowl%2C%20Los%20Angeles%2C%20CA"
@@ -2172,14 +2633,24 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
-        "active": true
+        "enriched": 1,
+        "active": true,
+        "lineup": [
+          {
+            "name": "Gregory Alan Isakov",
+            "instagram": null
+          },
+          {
+            "name": "Jose Gonzalez",
+            "instagram": null
+          }
+        ]
       },
       {
         "id": "2026-09-14-music-information-ekkel-8733dc",
         "eid": "information-ekkel-f297",
         "track": "music",
-        "category": "",
+        "category": "music",
         "name": "Information: Ekkel",
         "day": "Sun",
         "date": "2026-09-20",
@@ -2193,7 +2664,11 @@
         "summary": "",
         "promoter": "",
         "price": "$19.55-31.05",
-        "tags": [],
+        "tags": [
+          "house",
+          "techno",
+          "open air"
+        ],
         "sources": [],
         "tickets": [],
         "maps": {
@@ -2206,7 +2681,7 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
@@ -2357,22 +2832,29 @@
         "id": "2026-09-14-music-sunday-sessions-la-vinyl-only-e27879",
         "eid": "sunday-sessions-la-vinyl-ce7d",
         "track": "music",
-        "category": "",
+        "category": "House",
         "name": "Sunday Sessions La (Vinyl Only) Open Air",
         "day": "Sun",
         "date": "2026-09-20",
-        "time": "",
-        "start": null,
-        "end": null,
+        "time": "6pm-12am",
+        "start": "18:00",
+        "end": "00:00",
         "area": "Los Angeles",
         "venue": "TBA",
         "address": "",
-        "why": "",
-        "summary": "",
+        "why": "The biggest vinyl-only party in the US — an outdoor all-analog set, no digital",
+        "summary": "Sunday Sessions LA's vinyl-only open-air series returns for a Sunday-into-Monday outdoor session with a curated all-vinyl lineup.",
         "promoter": "",
         "price": "free/$23-34",
-        "tags": [],
-        "sources": [],
+        "tags": [
+          "house",
+          "vinyl-only",
+          "open-air",
+          "outdoor"
+        ],
+        "sources": [
+          "https://www.eventbrite.com/e/sunday-sessions-la-vinyl-only-open-air-tickets-1998126376781"
+        ],
         "tickets": [],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Los%20Angeles%2C%20CA",
@@ -2384,7 +2866,7 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
@@ -2806,7 +3288,7 @@
         "id": "2026-09-14-music-afters-963cd0",
         "eid": "afters-3c52",
         "track": "music",
-        "category": "",
+        "category": "music",
         "name": "Afters",
         "day": "Mon",
         "date": "2026-09-14",
@@ -2815,12 +3297,15 @@
         "end": null,
         "area": "Los Angeles",
         "venue": "Tooneyverse",
-        "address": "",
+        "address": "1253C S Los Angeles St, Los Angeles, CA 90015",
         "why": "",
         "summary": "",
         "promoter": "",
         "price": "$15",
-        "tags": [],
+        "tags": [
+          "afters",
+          "nightlife"
+        ],
         "sources": [],
         "tickets": [],
         "maps": {
@@ -2833,14 +3318,14 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
         "id": "2026-09-14-music-afters-59cf36",
         "eid": "afters-4362",
         "track": "music",
-        "category": "",
+        "category": "music",
         "name": "Afters",
         "day": "Tue",
         "date": "2026-09-15",
@@ -2849,12 +3334,15 @@
         "end": null,
         "area": "Los Angeles",
         "venue": "Tooneyverse",
-        "address": "",
+        "address": "1253C S Los Angeles St, Los Angeles, CA 90015",
         "why": "",
         "summary": "",
         "promoter": "",
         "price": "$15",
-        "tags": [],
+        "tags": [
+          "afters",
+          "nightlife"
+        ],
         "sources": [],
         "tickets": [],
         "maps": {
@@ -2867,14 +3355,14 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
         "id": "2026-09-14-music-loadinga-heaven-exe-1c26ed",
         "eid": "loadinga-heaven-exe-d0fd",
         "track": "music",
-        "category": "",
+        "category": "music",
         "name": "Loadinga Heaven.Exe",
         "day": "Thu",
         "date": "2026-09-17",
@@ -2883,12 +3371,15 @@
         "end": null,
         "area": "Los Angeles",
         "venue": "Zero Lounge",
-        "address": "",
+        "address": "1710 N Hudson Ave, Los Angeles, CA 90028",
         "why": "",
         "summary": "",
         "promoter": "",
         "price": "free",
-        "tags": [],
+        "tags": [
+          "y2k",
+          "nightlife"
+        ],
         "sources": [],
         "tickets": [],
         "maps": {
@@ -2901,14 +3392,14 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
         "id": "2026-09-14-music-rave-god-rich-run-that-crvsh-01e43b",
         "eid": "rave-god-rich-run-that-c-55e9",
         "track": "music",
-        "category": "",
+        "category": "music",
         "name": "Rave God, Rich Run That, Crvsh",
         "day": "Thu",
         "date": "2026-09-17",
@@ -2917,12 +3408,15 @@
         "end": null,
         "area": "Los Angeles",
         "venue": "Proof Bar",
-        "address": "",
+        "address": "215 N Broadway, Santa Ana, CA 92701",
         "why": "",
         "summary": "",
         "promoter": "",
         "price": "",
-        "tags": [],
+        "tags": [
+          "rave",
+          "bass"
+        ],
         "sources": [],
         "tickets": [],
         "maps": {
@@ -2935,7 +3429,7 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
@@ -3116,7 +3610,7 @@
         "id": "2026-09-14-music-jon-hassell-listening-party-w-9c0396",
         "eid": "jon-hassell-listening-pa-ca51",
         "track": "music",
-        "category": "",
+        "category": "Ambient",
         "name": "Jon Hassell Listening Party w/Photay, Celia Hollander",
         "day": "Sat",
         "date": "2026-09-19",
@@ -3125,13 +3619,19 @@
         "end": null,
         "area": "Los Angeles",
         "venue": "The Airliner",
-        "address": "",
-        "why": "",
-        "summary": "",
-        "promoter": "",
+        "address": "2419 N Broadway, Los Angeles, CA 90031",
+        "why": "Dublab's ambient listening series honors Jon Hassell with live sets from Photay and Celia Hollander",
+        "summary": "A Dublab-hosted listening party at The Airliner exploring Jon Hassell's Fourth World sound, with live accompaniment from Photay and Celia Hollander.",
+        "promoter": "dublab",
         "price": "free",
-        "tags": [],
-        "sources": [],
+        "tags": [
+          "ambient",
+          "listening-party",
+          "experimental"
+        ],
+        "sources": [
+          "https://ra.co/dj/photay"
+        ],
         "tickets": [],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=The%20Airliner%2C%20Los%20Angeles",
@@ -3143,29 +3643,49 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
-        "active": true
+        "enriched": 1,
+        "active": true,
+        "lineup": [
+          {
+            "name": "Jon Hassell",
+            "instagram": null
+          },
+          {
+            "name": "Photay",
+            "instagram": null
+          },
+          {
+            "name": "Celia Hollander",
+            "instagram": null
+          }
+        ]
       },
       {
         "id": "2026-09-14-music-project-x-welcome-week-8649b3",
         "eid": "project-x-welcome-week-ce59",
         "track": "music",
-        "category": "",
+        "category": "EDM",
         "name": "Project X - Welcome Week",
         "day": "Sat",
         "date": "2026-09-19",
-        "time": "",
-        "start": null,
+        "time": "7pm",
+        "start": "19:00",
         "end": null,
         "area": "Los Angeles",
         "venue": "Catch One",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "4067 W Pico Blvd, Los Angeles, CA",
+        "why": "Semester-kickoff student night with a massive sound system at a historic Arlington Heights club",
+        "summary": "Project X's Welcome Week Day 1 turns Catch One into a massive-sound-system, light-heavy season opener for the 18+ crowd.",
         "promoter": "",
         "price": "",
-        "tags": [],
-        "sources": [],
+        "tags": [
+          "edm",
+          "student-night",
+          "college"
+        ],
+        "sources": [
+          "https://www.flite.city/e/18-welcome-week-day-1-project-x"
+        ],
         "tickets": [],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Catch%20One%2C%20Los%20Angeles",
@@ -3177,7 +3697,7 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
