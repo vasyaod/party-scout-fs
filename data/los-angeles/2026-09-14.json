@@ -1868,22 +1868,30 @@
         "id": "2026-09-14-music-sebastiane-1efa4a",
         "eid": "sebastiane-58ea",
         "track": "music",
-        "category": "",
+        "category": "Disco",
         "name": "Sebastiane",
         "day": "Fri",
         "date": "2026-09-18",
-        "time": "",
-        "start": null,
+        "time": "10pm",
+        "start": "22:00",
         "end": null,
         "area": "Los Angeles, CA",
         "venue": "Akbar",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "4356 W Sunset Blvd, Los Angeles, CA 90029",
+        "why": "A late-night queer disco bacchanal in Akbar's intimate Silver Lake bar, not a big-room club night.",
+        "summary": "Sebastiane is Akbar's monthly homoerotic disco bacchanal, with DJs Sindri 1 and Dick Ensalada spinning electro and disco alongside dancers.",
         "promoter": "",
         "price": "",
-        "tags": [],
-        "sources": [],
+        "tags": [
+          "disco",
+          "electro",
+          "bacchanal",
+          "queer",
+          "nightlife"
+        ],
+        "sources": [
+          "https://akbarsilverlake.com/event/sebastiane/"
+        ],
         "tickets": [],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Akbar%2C%20Los%20Angeles%2C%20CA",
@@ -1895,8 +1903,18 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
-        "active": true
+        "enriched": 1,
+        "active": true,
+        "lineup": [
+          {
+            "name": "Sindri 1",
+            "instagram": null
+          },
+          {
+            "name": "Dick Ensalada",
+            "instagram": null
+          }
+        ]
       },
       {
         "id": "2026-09-14-music-soulwax-0fc8dc",
