@@ -204,7 +204,6 @@
       "use": ["listing", "price"],
       "track": ["music"],
       "fetch": ["GQL", "common"],
-      "parser": "ra_interest.py",
       "status": "active",
       "notes": "The SF listing URL; extraction is the shared `resident-advisor` entry. RA GraphQL area id 218 (\"San Francisco/Oakland\"): eventListings(filters:{areas:{eq:218}, listingDate:{gte,lte}}) on https://ra.co/graphql returns the WHOLE city-week in one unauthenticated, non-Cloudflare-gated call (needs a browser-like User-Agent + Referer, not just Content-Type) — measured across 3 week units now (san-francisco 08-24..08-30, 08-31..09-06, 09-07..09-13) as a cheaper anchor-listing path than a 19hz/common-session render, with zero remote-browser sessions on any of them."
     },
@@ -230,21 +229,21 @@
       "use": ["listing", "price"],
       "track": ["music", "sports"],
       "fetch": ["JSON-LD"],
-      "parser": "eb_demand.py",
-      "status": "active",
-      "notes": "SF discovery feed; price via the shared `eventbrite` entry."
+      "status": "excluded",
+      "notes": "SF discovery feed. Plain GET of the /d/ discovery listing (and /sports-and-fitness--events/) answers HTTP 405 with `x-amzn-waf-action: captcha` — an AWS WAF bot wall, measured 2026-09-18 from the agent pod; a real remote-browser session gets the same \"Human Verification\" puzzle. Excluded until a fetch path gets through (party-scout-agent#56). Its `parser` was dropped: `eb_demand.py` parses ONE event, this entry is a listing — event pages still price via the shared `eventbrite` entry."
     },
     {
       "id": "do415",
-      "name": "Do415",
-      "url": "https://do415.com",
+      "name": "DoTheBay (formerly Do415)",
+      "url": "https://dothebay.com/events",
       "city": "san-francisco",
       "kind": "anchor",
       "use": ["listing"],
       "track": ["music", "sports"],
-      "fetch": ["web_search"],
+      "fetch": ["HTTP"],
       "status": "active",
-      "notes": "SF happenings."
+      "aliases": ["do415.com", "dothebay.com"],
+      "notes": "SF happenings. do415.com now redirects to dothebay.com (the old URL's listing 404ed — party-scout-agent#56); a plain GET of https://dothebay.com/events answers 200 with server-rendered /events/YYYY/M/D/<slug> links (measured 2026-09-18), and https://dothebay.com/events/sports is the sports-only listing. The id stays `do415` so its recorded yield keeps adding up."
     },
     {
       "id": "funcheap-san-francisco",
@@ -374,7 +373,6 @@
       "use": ["listing", "price"],
       "track": ["music"],
       "fetch": ["GQL", "common"],
-      "parser": "ra_interest.py",
       "status": "active",
       "notes": "The LA listing URL (RA area 23); extraction is the shared `resident-advisor` entry."
     },
@@ -399,9 +397,8 @@
       "use": ["listing", "price"],
       "track": ["music", "sports"],
       "fetch": ["JSON-LD"],
-      "parser": "eb_demand.py",
-      "status": "active",
-      "notes": "LA discovery feed; price via the shared `eventbrite` entry."
+      "status": "excluded",
+      "notes": "LA discovery feed. Plain GET of the /d/ discovery listing (and /sports-and-fitness--events/) answers HTTP 405 with `x-amzn-waf-action: captcha` — an AWS WAF bot wall, measured 2026-09-18 from the agent pod; a real remote-browser session gets the same \"Human Verification\" puzzle. Excluded until a fetch path gets through (party-scout-agent#56). Its `parser` was dropped: `eb_demand.py` parses ONE event, this entry is a listing — event pages still price via the shared `eventbrite` entry."
     },
     {
       "id": "funcheap-los-angeles",
