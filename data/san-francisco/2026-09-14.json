@@ -3838,21 +3838,24 @@
         "name": "Sainte Vie - Day Party Rooftop",
         "day": "Sun",
         "date": "2026-09-20",
-        "time": "",
+        "time": "1 PM - 6 PM",
         "start": null,
         "end": null,
         "area": "san-francisco",
         "venue": "Hotel Via",
-        "address": "",
+        "address": "138 King Street, San Francisco, CA 94107",
         "why": "",
-        "summary": "",
-        "promoter": "",
+        "summary": "Sunday day party on the Hotel VIA rooftop with 360-degree city views, across from Oracle Park. 21+, presented by All Day All Night + Safra; GA and VIP options.",
+        "promoter": "All Day All Night Events",
         "price": "",
         "tags": [],
         "sources": [
-          "https://ra.co/events/2476445"
+          "https://ra.co/events/2476445",
+          "https://www.eventbrite.com/e/sainte-vie-day-party-at-hotel-via-rooftop-tickets-1992585382518"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://www.eventbrite.com/e/sainte-vie-day-party-at-hotel-via-rooftop-tickets-1992585382518"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Hotel%20Via%2C%20San%20Francisco",
           "apple": "https://maps.apple.com/?q=Hotel%20Via%2C%20San%20Francisco"
@@ -3863,8 +3866,9 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
-        "active": true
+        "enriched": 1,
+        "active": true,
+        "lineup": []
       },
       {
         "id": "2026-09-14-music-sainte-vie-moni-kina-mostash-d-e20877",
