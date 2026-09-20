@@ -7,12 +7,31 @@
 <meta name="robots" content="noindex, follow">
 <link rel="icon" href="/favicon-32.png" sizes="32x32">
 <link rel="apple-touch-icon" href="/apple-touch-icon.png">
+<script>
+  // GitHub Pages serves this file for every unknown path, leaving the URL intact.
+  // Prerendered pages only exist for the weeks that were rendered, but the SPA is
+  // hash-routed and reads every week in data/ — so a stale-but-well-formed
+  // /{city}/{week}[/{event}] path is not a dead end, it is a hash route we have
+  // not prerendered. Hand those to the app; keep the card for everything else.
+  (function () {
+    // Cities the SPA can render. Keep in sync with the card's links below; an
+    // unlisted city simply falls through to the dead-end card, never to a
+    // redirect the app would answer with the wrong city.
+    var CITIES = ['san-francisco', 'los-angeles'];
+    var m = /^\/([a-z0-9-]+)\/(\d{4}-\d{2}-\d{2})(\/[^/]+)?\/?$/.exec(location.pathname);
+    if (!m || CITIES.indexOf(m[1]) < 0) return;
+    // The target is always "/" plus a fragment, so it can never land back on a
+    // 404; replace() keeps the dead link out of history, so Back goes where the
+    // visitor came from. Any query string is dropped — the SPA reads none.
+    location.replace('/#/' + m[1] + '/' + m[2] + (m[3] || ''));
+  })();
+</script>
 <style>
   body{font:16px/1.6 -apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif;
        min-height:100vh;margin:0;display:flex;align-items:center;justify-content:center;
        text-align:center;color:#16181d;background:#faf9fe;padding:24px}
   .card{max-width:520px}
-  img.owl{width:120px;height:auto;margin:0 auto .6em;display:block}
+  img.owl{width:120px;height:120px;margin:0 auto .6em;display:block}
   h1{font-size:1.7rem;margin:.2em 0}
   p{color:#555;margin:.4em 0 1.2em}
   a.cta{display:inline-block;background:#6d28d9;color:#fff;padding:10px 18px;
@@ -25,7 +44,9 @@
 </head>
 <body>
   <div class="card">
-    <img class="owl" src="/logo.png" alt="Party Scout">
+    <img class="owl" src="/logo-120.png"
+         srcset="/logo-120.png 1x, /logo-240.png 2x"
+         width="120" height="120" alt="Party Scout">
     <h1>This event has flown the coop</h1>
     <p>That page doesn't exist — maybe the event wrapped up and rolled off, or the link's off.
        Here's what's on now:</p>
