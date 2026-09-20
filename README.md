@@ -22,6 +22,8 @@ REQUIREMENTS.md   rules the data and site must follow
 MODEL.md          JSON data model, field by field
 CNAME             custom domain (party-scout-fs.f-proj.com)
 .nojekyll         serve files as-is (no Jekyll processing)
+404.html          Pages' catch-all: hands a well-formed /<city>/<week>[/<event>]
+                  path to the hash-routed app, shows a dead-end card otherwise
 data/
   index.json      list of all weeks, newest first
   <YYYY-MM-DD>.json   one week (Monday-dated), machine-readable
