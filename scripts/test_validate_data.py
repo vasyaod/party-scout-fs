@@ -5,6 +5,12 @@ Each case copies data/ to a scratch tree, breaks it in exactly one way, and
 asserts the validator reports the expected check code and exits non-zero.
 Without this, a check that silently stops firing would look like clean data.
 
+The scratch tree's baseline is pinned to the scratch data's own counts first,
+so a single injected violation always takes its check above what is allowed.
+Against the committed baseline it would not whenever the real data has
+improved below it: the injection just refills the headroom and nothing is
+reported (issue #20 — `event-empty-field` went 2 -> 1 and CI went red).
+
 Run: python3 scripts/test_validate_data.py
 """
 
@@ -34,6 +40,7 @@ def write(root, doc, *parts):
 
 CITY = "san-francisco"
 WEEK = "2026-08-17.json"
+OTHER_WEEK = "2026-08-10.json"
 
 
 def first_event(week):
@@ -162,11 +169,46 @@ CASES = [
 ]
 
 
-def run(root):
+def run(root, *args):
     return subprocess.run(
-        [sys.executable, os.path.join(root, "scripts", "validate_data.py")],
+        [sys.executable, os.path.join(root, "scripts", "validate_data.py"), *args],
         capture_output=True,
         text=True,
+    )
+
+
+def pin(root):
+    """Set `root`'s baseline to exactly its own counts: zero headroom anywhere."""
+    result = run(root, "--update-baseline")
+    if result.returncode != 0:
+        raise RuntimeError("--update-baseline failed\n" + result.stdout + result.stderr)
+
+
+def set_allowed(root, code, delta):
+    """Move one check's allowance in `root`'s baseline by `delta`."""
+    path = os.path.join(root, "scripts", "validation_baseline.json")
+    with open(path, encoding="utf-8") as fh:
+        doc = json.load(fh)
+    doc["allowed"][code] = doc["allowed"].get(code, 0) + delta
+    with open(path, "w", encoding="utf-8") as fh:
+        json.dump(doc, fh)
+
+
+def empty_area(root, fill):
+    """Blank (fill=None) or fill the `area` of the last music event in another week.
+
+    A violation of a check that is in the baseline, somewhere other than the
+    event the cases mutate — the fixture for "the real count dropped by one".
+    """
+    week = read(root, CITY, OTHER_WEEK)
+    week["tracks"]["music"][-1]["area"] = "" if fill is None else fill
+    write(root, week, CITY, OTHER_WEEK)
+
+
+def git(root, *args):
+    subprocess.run(
+        ["git", "-c", "user.name=t", "-c", "user.email=t@t", *args],
+        cwd=root, check=True, capture_output=True,
     )
 
 
@@ -189,25 +231,97 @@ def main() -> int:
             shutil.copy(os.path.join(SCRIPTS, name), os.path.join(pristine, "scripts", name))
 
         failures = []
-        result = run(pristine)
-        if result.returncode != 0:
-            failures.append("control: clean data should pass\n" + result.stdout + result.stderr)
-        print("  ok   control (clean data passes)" if not failures else "  FAIL control")
 
-        for i, (code, mutate) in enumerate(CASES):
-            root = os.path.join(tmp, f"case{i}")
-            shutil.copytree(pristine, root)
+        def expect(label, ok, detail):
+            if not ok:
+                failures.append(f"{label}\n{detail}")
+            print(f"  {'ok  ' if ok else 'FAIL'} {label}")
+
+        def check_case(base, name, code, mutate):
+            root = os.path.join(tmp, name)
+            shutil.copytree(base, root)
             mutate(root)
             result = run(root)
             got = failed_codes(result.stdout)
-            if result.returncode == 0 or code not in got:
-                failures.append(
-                    f"{code}: exit={result.returncode} reported={sorted(got)}\n{result.stdout}{result.stderr}"
-                )
-                print(f"  FAIL {code}")
-            else:
-                print(f"  ok   {code}")
+            expect(
+                f"{code}" + ("" if base == pristine else f" ({name})"),
+                result.returncode != 0 and code in got,
+                f"exit={result.returncode} reported={sorted(got)}\n{result.stdout}{result.stderr}",
+            )
             shutil.rmtree(root)
+
+        # The real data against the committed baseline — what CI checks last.
+        result = run(pristine)
+        expect("control (clean data passes)", result.returncode == 0, result.stdout + result.stderr)
+
+        pin(pristine)
+        for i, (code, mutate) in enumerate(CASES):
+            check_case(pristine, f"case{i}", code, mutate)
+
+        # Regression for issue #20: the real count of a baselined check drops by
+        # one below its baseline, and that check's case must still fire.
+        improved = os.path.join(tmp, "improved")
+        shutil.copytree(pristine, improved)
+        empty_area(improved, None)
+        pin(improved)  # the extra empty `area` is now a known, baselined violation...
+        empty_area(improved, "Mission")  # ...and got fixed: one below the baseline
+        slack = run(improved)
+        expect(
+            "fixture: event-empty-field is below its baseline",
+            slack.returncode == 0 and "\n  event-empty-field: " in slack.stdout.partition("below baseline")[2],
+            slack.stdout + slack.stderr,
+        )
+        # Not pinned: the harness before #20. The injection only refills the slack.
+        case = next(m for c, m in CASES if c == "event-empty-field")
+        root = os.path.join(tmp, "unpinned")
+        shutil.copytree(improved, root)
+        case(root)
+        result = run(root)
+        expect(
+            "fixture: without pinning the injection is not reported (as in #20)",
+            result.returncode == 0,
+            result.stdout + result.stderr,
+        )
+        shutil.rmtree(root)
+        pin(improved)
+        check_case(improved, "one below baseline", "event-empty-field", case)
+
+        # --ref: that slack does not hide a regression in CI either. `improved`
+        # (baseline one above the data) is the parent commit; the child undoes
+        # the fix. Within the committed baseline, yet above what the parent had.
+        set_allowed(improved, "event-empty-field", +1)
+        git(improved, "init", "-q")
+        git(improved, "add", "-A")
+        git(improved, "commit", "-q", "-m", "parent")
+        empty_area(improved, None)
+        plain = run(improved)
+        expect(
+            "fixture: the regression is within the committed baseline",
+            plain.returncode == 0,
+            plain.stdout + plain.stderr,
+        )
+        ratchet = run(improved, "--ref", "HEAD")
+        got = failed_codes(ratchet.stdout)
+        expect(
+            "--ref: a regression into the baseline's slack fails",
+            ratchet.returncode != 0 and got == {"event-empty-field"},
+            f"exit={ratchet.returncode} reported={sorted(got)}\n{ratchet.stdout}{ratchet.stderr}",
+        )
+        # ...and an improvement against the parent never does.
+        git(improved, "commit", "-q", "-am", "regressed parent")
+        empty_area(improved, "Mission")
+        better = run(improved, "--ref", "HEAD")
+        expect(
+            "--ref: an improvement passes",
+            better.returncode == 0,
+            better.stdout + better.stderr,
+        )
+        bad = run(improved, "--ref", "no-such-ref")
+        expect(
+            "--ref: an unreadable ref fails loudly",
+            bad.returncode != 0 and "no-such-ref" in bad.stdout + bad.stderr,
+            bad.stdout + bad.stderr,
+        )
 
         # Only 8 samples are printed, in file order — nine `link`s crowd the
         # lone `shoe_size` out of them entirely. The tally is the only thing
@@ -220,14 +334,11 @@ def main() -> int:
         first_event(week)["shoe_size"] = 44
         write(root, week, CITY, WEEK)
         out = run(root).stdout
-        if "by field: link 9, shoe_size 1" not in out:
-            failures.append("event-unknown-field breakdown: no per-field tally\n" + out)
-            print("  FAIL event-unknown-field breakdown")
-        else:
-            print("  ok   event-unknown-field breakdown")
+        expect("event-unknown-field breakdown", "by field: link 9, shoe_size 1" in out,
+               "no per-field tally\n" + out)
         shutil.rmtree(root)
 
-    total = len(CASES) + 2  # the cases, plus the control and the breakdown
+    total = len(CASES) + 9  # the cases, the control, #20's 7 and the breakdown
     print()
     if failures:
         for failure in failures:
