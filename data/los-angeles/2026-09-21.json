@@ -1743,8 +1743,8 @@
         "name": "Six Sex, Take Van",
         "day": "Thu",
         "date": "2026-09-24",
-        "time": "",
-        "start": null,
+        "time": "7:45pm",
+        "start": "19:45",
         "end": null,
         "area": "San Diego",
         "venue": "Music Box",
@@ -1754,8 +1754,13 @@
         "promoter": "",
         "price": "",
         "tags": [],
-        "sources": [],
-        "tickets": [],
+        "sources": [
+          "https://musicboxsd.com/calendar/",
+          "https://www.axs.com/artists/1120809/six-sex-tickets"
+        ],
+        "tickets": [
+          "https://www.axs.com/artists/1120809/six-sex-tickets"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Music%20Box%2C%20San%20Diego",
           "apple": "https://maps.apple.com/?q=Music%20Box%2C%20San%20Diego"
@@ -1766,7 +1771,7 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
