@@ -331,7 +331,7 @@
         "name": "Six Sex, Oza, Luca",
         "day": "Tue",
         "date": "2026-09-22",
-        "time": "",
+        "time": "8:00 PM",
         "start": null,
         "end": null,
         "area": "Los Angeles",
@@ -339,11 +339,15 @@
         "address": "",
         "why": "",
         "summary": "",
-        "promoter": "",
+        "promoter": "Goldenvoice",
         "price": "",
         "tags": [],
-        "sources": [],
-        "tickets": [],
+        "sources": [
+          "https://www.axs.com/events/1511188/six-sex-tickets"
+        ],
+        "tickets": [
+          "https://www.axs.com/events/1511188/six-sex-tickets"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Fonda%20Theatre%2C%20Los%20Angeles",
           "apple": "https://maps.apple.com/?q=Fonda%20Theatre%2C%20Los%20Angeles"
@@ -354,7 +358,7 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
