@@ -1217,12 +1217,12 @@
         "id": "2026-09-21-music-dj-shadow-ee1bba",
         "eid": "dj-shadow-bc01",
         "track": "music",
-        "category": "",
+        "category": "Live",
         "name": "DJ Shadow",
         "day": "Thu",
         "date": "2026-09-24",
-        "time": "",
-        "start": null,
+        "time": "8pm",
+        "start": "20:00",
         "end": null,
         "area": "Del Mar",
         "venue": "The Sound",
@@ -1231,9 +1231,15 @@
         "summary": "",
         "promoter": "",
         "price": "",
-        "tags": [],
-        "sources": [],
-        "tickets": [],
+        "tags": [
+          "30 Years of Endtroducing"
+        ],
+        "sources": [
+          "https://www.livenation.com/event/vvG1IZ_aN3Ps2y/dj-shadow"
+        ],
+        "tickets": [
+          "https://www.livenation.com/event/vvG1IZ_aN3Ps2y/dj-shadow"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=The%20Sound%2C%20Del%20Mar",
           "apple": "https://maps.apple.com/?q=The%20Sound%2C%20Del%20Mar"
@@ -1244,7 +1250,7 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
