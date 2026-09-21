@@ -338,7 +338,7 @@ def main() -> int:
                "no per-field tally\n" + out)
         shutil.rmtree(root)
 
-    total = len(CASES) + 10  # the cases, the control, #20's 8 and the breakdown
+    total = len(CASES) + 9  # the cases, the control, #20's 7 and the breakdown
     print()
     if failures:
         for failure in failures:
