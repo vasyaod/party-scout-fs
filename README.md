@@ -76,8 +76,11 @@ python3 scripts/validate_data.py        # stdlib only, no install
 
 Violations that pre-date the check are recorded per check in
 `scripts/validation_baseline.json`; the run fails only when a check goes
-*above* its baseline, i.e. on a new or growing violation. Fix those in the
-generator, not by hand-editing `data/`.
+*above* its baseline, i.e. on a new or growing violation. In CI it also fails
+when a check goes above its count in the commit the push/PR builds on
+(`--ref`), so once the data improves below the baseline, the leftover headroom
+cannot hide a regression. Fix those in the generator, not by hand-editing
+`data/`.
 
 ## Before you commit — install the hooks
 

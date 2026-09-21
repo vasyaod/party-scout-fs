@@ -49,5 +49,18 @@ jobs:
         if: ${{ !cancelled() }}
         run: python3 tools/test_pre_commit_validate.py
 
+      # --ref: a check's count may not go above the commit this builds on,
+      # even where the committed baseline would still allow it (issue #20 —
+      # once the data improves, the baseline's leftover headroom would hide a
+      # regression back up to the old count). No parent (first push of a
+      # branch, workflow_dispatch): the baseline alone.
       - name: Validate data/ against MODEL.md
-        run: python3 scripts/validate_data.py
+        env:
+          PARENT: ${{ github.event_name == 'pull_request' && github.event.pull_request.base.sha || github.event.before }}
+        run: |
+          if [ -z "$PARENT" ] || [ "$PARENT" = "0000000000000000000000000000000000000000" ]; then
+            python3 scripts/validate_data.py
+          else
+            git fetch --no-tags --depth=1 origin "$PARENT"
+            python3 scripts/validate_data.py --ref "$PARENT"
+          fi
