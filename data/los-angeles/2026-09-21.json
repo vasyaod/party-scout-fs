@@ -1812,7 +1812,7 @@
         "id": "2026-09-21-music-slow-magic-b38781",
         "eid": "slow-magic-4cbb",
         "track": "music",
-        "category": "",
+        "category": "Electronic / Indie",
         "name": "Slow Magic",
         "day": "Thu",
         "date": "2026-09-24",
@@ -1821,14 +1821,23 @@
         "end": null,
         "area": "San Diego",
         "venue": "Casbah",
-        "address": "",
+        "address": "2501 Kettner Blvd, San Diego, CA 92101",
         "why": "",
         "summary": "",
         "promoter": "",
         "price": "",
-        "tags": [],
-        "sources": [],
-        "tickets": [],
+        "tags": [
+          "indie electronic",
+          "chillwave",
+          "live"
+        ],
+        "sources": [
+          "https://www.jambase.com/show/slow-magic-casbah-20260924",
+          "https://edmtrain.com/san-diego-ca/slow-magic-496802"
+        ],
+        "tickets": [
+          "https://wl.eventim.us/event/slow-magic/684038?afflky=Casbah"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Casbah%2C%20San%20Diego",
           "apple": "https://maps.apple.com/?q=Casbah%2C%20San%20Diego"
@@ -1839,8 +1848,18 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
-        "active": true
+        "enriched": 1,
+        "active": true,
+        "lineup": [
+          {
+            "name": "Slow Magic",
+            "instagram": null
+          },
+          {
+            "name": "Artemis Orion",
+            "instagram": null
+          }
+        ]
       },
       {
         "id": "2026-09-21-music-techno-thursday-24092f",
