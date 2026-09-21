@@ -983,9 +983,9 @@
         "name": "Affect Radio 16-Year Anniversary Party - Wheez-ie, Freeman 713, Yessi, Songco, Codiac, Infinity Edge",
         "day": "Thu",
         "date": "2026-09-24",
-        "time": "",
-        "start": null,
-        "end": null,
+        "time": "7:00 PM – 1:00 AM",
+        "start": "19:00",
+        "end": "01:00",
         "area": "Los Angeles",
         "venue": "The Airliner",
         "address": "",
@@ -994,8 +994,12 @@
         "promoter": "",
         "price": "",
         "tags": [],
-        "sources": [],
-        "tickets": [],
+        "sources": [
+          "https://ra.co/events/2522433"
+        ],
+        "tickets": [
+          "https://ra.co/events/2522433"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=The%20Airliner%2C%20Los%20Angeles",
           "apple": "https://maps.apple.com/?q=The%20Airliner%2C%20Los%20Angeles"
@@ -1006,8 +1010,34 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
-        "active": true
+        "enriched": 1,
+        "active": true,
+        "lineup": [
+          {
+            "name": "Wheez-ie",
+            "instagram": null
+          },
+          {
+            "name": "Freeman 713",
+            "instagram": null
+          },
+          {
+            "name": "Yessi",
+            "instagram": null
+          },
+          {
+            "name": "Songco",
+            "instagram": null
+          },
+          {
+            "name": "Codiac",
+            "instagram": null
+          },
+          {
+            "name": "Infinity Edge",
+            "instagram": null
+          }
+        ]
       },
       {
         "id": "2026-09-21-music-afters-tooneyverse-1bdc03",
