@@ -1115,19 +1115,23 @@
         "name": "Big Fat Gay Rave: San Diego Edition",
         "day": "Thu",
         "date": "2026-09-24",
-        "time": "",
-        "start": null,
-        "end": null,
+        "time": "9pm–2am",
+        "start": "21:00",
+        "end": "02:00",
         "area": "San Diego",
         "venue": "Rich's",
-        "address": "",
+        "address": "1051 University Ave, San Diego, CA 92103",
         "why": "",
         "summary": "",
         "promoter": "",
         "price": "",
         "tags": [],
-        "sources": [],
-        "tickets": [],
+        "sources": [
+          "https://richssandiego.com/"
+        ],
+        "tickets": [
+          "https://wl.seetickets.us/event/big-fat-gay-rave/703751?afflky=RichsSanDiego"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Rich%27s%2C%20San%20Diego",
           "apple": "https://maps.apple.com/?q=Rich%27s%2C%20San%20Diego"
@@ -1138,7 +1142,7 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
