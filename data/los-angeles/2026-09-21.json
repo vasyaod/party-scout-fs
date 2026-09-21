@@ -521,7 +521,7 @@
         "id": "2026-09-21-music-cut-chemist-f541b6",
         "eid": "cut-chemist-9e5a",
         "track": "music",
-        "category": "",
+        "category": "music",
         "name": "Cut Chemist",
         "day": "Wed",
         "date": "2026-09-23",
@@ -536,7 +536,9 @@
         "promoter": "",
         "price": "",
         "tags": [],
-        "sources": [],
+        "sources": [
+          "https://www.jambase.com/band/cut-chemist"
+        ],
         "tickets": [],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Townhouse%20Venice%2C%20Los%20Angeles",
@@ -548,7 +550,7 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
