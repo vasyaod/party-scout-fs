@@ -1865,23 +1865,31 @@
         "id": "2026-09-21-music-techno-thursday-24092f",
         "eid": "techno-thursday-ec55",
         "track": "music",
-        "category": "",
+        "category": "club night",
         "name": "Techno Thursday",
         "day": "Thu",
         "date": "2026-09-24",
-        "time": "",
+        "time": "9 PM-12 AM",
         "start": null,
         "end": null,
         "area": "Rowland Heights",
         "venue": "Banana Bay Restaurant",
-        "address": "",
+        "address": "18230 Colima Rd, Rowland Heights, CA 91748",
         "why": "",
-        "summary": "",
+        "summary": "Three hours of dark, driving, hypnotic techno at Banana Bay Restaurant. Free entry, 21+.",
         "promoter": "",
-        "price": "",
-        "tags": [],
-        "sources": [],
-        "tickets": [],
+        "price": "Free",
+        "tags": [
+          "techno",
+          "free",
+          "21+"
+        ],
+        "sources": [
+          "https://www.eventbrite.com/e/techno-thursday-september-24th-darker-deeper-harder-were-c-tickets-1999054811755"
+        ],
+        "tickets": [
+          "https://www.eventbrite.com/e/techno-thursday-september-24th-darker-deeper-harder-were-c-tickets-1999054811755"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Banana%20Bay%20Restaurant%2C%20Rowland%20Heights",
           "apple": "https://maps.apple.com/?q=Banana%20Bay%20Restaurant%2C%20Rowland%20Heights"
@@ -1892,8 +1900,9 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
-        "active": true
+        "enriched": 1,
+        "active": true,
+        "lineup": []
       },
       {
         "id": "2026-09-21-music-tricky-3b4455",
