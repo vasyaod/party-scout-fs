@@ -214,19 +214,24 @@
         "name": "Fcukers",
         "day": "Tue",
         "date": "2026-09-22",
-        "time": "",
-        "start": null,
+        "time": "Doors 7pm, show 8pm",
+        "start": "20:00",
         "end": null,
         "area": "Ventura",
         "venue": "Ventura Theater",
-        "address": "",
+        "address": "26 S. Chestnut St., Ventura, CA 93001",
         "why": "",
-        "summary": "",
+        "summary": "Fcukers headline Ventura Theater on a Tuesday night, with Total Wife opening. All ages.",
         "promoter": "",
-        "price": "",
+        "price": "$44",
         "tags": [],
-        "sources": [],
-        "tickets": [],
+        "sources": [
+          "https://www.venturatheater.net",
+          "https://www.ticketweb.com/event/fcukers-ventura-theater-tickets/14999833"
+        ],
+        "tickets": [
+          "https://www.ticketweb.com/event/fcukers-ventura-theater-tickets/14999833"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Ventura%20Theater%2C%20Ventura",
           "apple": "https://maps.apple.com/?q=Ventura%20Theater%2C%20Ventura"
@@ -237,8 +242,18 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
-        "active": true
+        "enriched": 1,
+        "active": true,
+        "lineup": [
+          {
+            "name": "Fcukers",
+            "instagram": null
+          },
+          {
+            "name": "Total Wife",
+            "instagram": null
+          }
+        ]
       },
       {
         "id": "2026-09-21-music-kelela-9f85ef",
