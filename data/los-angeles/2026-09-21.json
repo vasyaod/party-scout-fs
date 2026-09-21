@@ -603,7 +603,7 @@
         "id": "2026-09-21-music-fuck-cancer-dillon-francis-dip-1f603a",
         "eid": "fuck-cancer-dillon-franc-0465",
         "track": "music",
-        "category": "",
+        "category": "Charity / Dance",
         "name": "Fuck Cancer: Dillon Francis, Diplo, DJ Pauly D",
         "day": "Wed",
         "date": "2026-09-23",
@@ -613,13 +613,23 @@
         "area": "Los Angeles",
         "venue": "Academy Nightclub",
         "address": "",
-        "why": "",
-        "summary": "",
-        "promoter": "",
-        "price": "",
-        "tags": [],
-        "sources": [],
-        "tickets": [],
+        "why": "Three big-name DJs on a Wednesday night for a charity milestone, with surprise guests.",
+        "summary": "FCancer's landmark 100th event at Academy Nightclub, hosted by Nicole \"Snooki\" Polizzi, with sets from Dillon Francis, Diplo and DJ Pauly D plus celebrity guests. Entry is via a commemorative T-shirt purchase that doubles as a donation to cancer prevention and early detection.",
+        "promoter": "FCancer",
+        "price": "Donation (commemorative T-shirt instead of a ticket)",
+        "tags": [
+          "charity",
+          "edm",
+          "nightclub"
+        ],
+        "sources": [
+          "https://www.prnewswire.com/news-releases/fcancer-celebrates-landmark-100th-event-with-dillon-francis-diplo--dj-pauly-d-marking-years-of-impact-in-cancer-prevention-302832974.html",
+          "https://edm.com/events/dillon-francis-diplo-headlining-fcancer-100th-event/",
+          "https://lamag.com/philanthropy/diplo-dillon-francis-dj-pauly-d-to-celebrate-f-cancers-100th-event-landmark/"
+        ],
+        "tickets": [
+          "https://letsfcancer.com/100"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Academy%20Nightclub%2C%20Los%20Angeles",
           "apple": "https://maps.apple.com/?q=Academy%20Nightclub%2C%20Los%20Angeles"
@@ -630,8 +640,22 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
-        "active": true
+        "enriched": 1,
+        "active": true,
+        "lineup": [
+          {
+            "name": "Dillon Francis",
+            "instagram": null
+          },
+          {
+            "name": "Diplo",
+            "instagram": null
+          },
+          {
+            "name": "DJ Pauly D",
+            "instagram": null
+          }
+        ]
       },
       {
         "id": "2026-09-21-music-jutes-smile-youre-on-tour-829854",
