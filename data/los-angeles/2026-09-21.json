@@ -1913,18 +1913,22 @@
         "day": "Thu",
         "date": "2026-09-24",
         "time": "",
-        "start": null,
+        "start": "20:00",
         "end": null,
         "area": "Los Angeles",
         "venue": "The Bellwether",
-        "address": "",
+        "address": "333 S Boylston St, Los Angeles, CA 90017",
         "why": "",
         "summary": "",
         "promoter": "",
         "price": "",
         "tags": [],
-        "sources": [],
-        "tickets": [],
+        "sources": [
+          "https://www.axs.com/events/1446526/tricky-tickets"
+        ],
+        "tickets": [
+          "https://www.axs.com/events/1446526/tricky-tickets"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=The%20Bellwether%2C%20Los%20Angeles",
           "apple": "https://maps.apple.com/?q=The%20Bellwether%2C%20Los%20Angeles"
@@ -1935,7 +1939,7 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
