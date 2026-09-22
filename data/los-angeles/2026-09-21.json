@@ -3995,23 +3995,34 @@
         "id": "2026-09-21-music-muzique-fridays-8a8f5f",
         "eid": "muzique-fridays-7447",
         "track": "music",
-        "category": "",
+        "category": "Disco House",
         "name": "Muzique Fridays",
         "day": "Fri",
         "date": "2026-09-25",
-        "time": "",
-        "start": null,
+        "time": "10pm",
+        "start": "22:00",
         "end": null,
         "area": "Los Angeles",
         "venue": "Kiss Kiss Bang Bang",
-        "address": "",
-        "why": "",
-        "summary": "",
-        "promoter": "",
-        "price": "",
-        "tags": [],
-        "sources": [],
-        "tickets": [],
+        "address": "3531 Wilshire Blvd, Los Angeles, CA 90010",
+        "why": "Free-with-RSVP weekly disco party with live roller-skate performers, not just DJs",
+        "summary": "Momentus LA's weekly disco house and nu-disco party at Kiss Kiss Bang Bang in Koreatown, this week headlined by KATANA with special guest DJs and the venue's in-house Kiss Kiss Skaters roller performers.",
+        "promoter": "Momentus LA",
+        "price": "Free",
+        "tags": [
+          "disco",
+          "disco-house",
+          "nu-disco",
+          "house",
+          "free",
+          "roller-disco"
+        ],
+        "sources": [
+          "https://app.discotech.me/events/38266461-muzique-fridays-kiss-kiss-bang-bang-with-katana-special-guests-at-kiss-kiss-bang-bang"
+        ],
+        "tickets": [
+          "https://app.discotech.me/events/38266461-muzique-fridays-kiss-kiss-bang-bang-with-katana-special-guests-at-kiss-kiss-bang-bang"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Kiss%20Kiss%20Bang%20Bang%2C%20Los%20Angeles",
           "apple": "https://maps.apple.com/?q=Kiss%20Kiss%20Bang%20Bang%2C%20Los%20Angeles"
@@ -4022,8 +4033,14 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
-        "active": true
+        "enriched": 1,
+        "active": true,
+        "lineup": [
+          {
+            "name": "KATANA",
+            "instagram": null
+          }
+        ]
       },
       {
         "id": "2026-09-21-music-nate-sib-reborn-tour-ca5fbc",
