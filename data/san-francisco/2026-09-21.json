@@ -1349,25 +1349,34 @@
         "id": "2026-09-21-music-sf-electronic-music-festival-c8d600",
         "eid": "sf-electronic-music-fest-a12a",
         "track": "music",
-        "category": "",
+        "category": "Experimental",
         "name": "SF Electronic Music Festival",
         "day": "Thu",
         "date": "2026-09-24",
-        "time": "",
-        "start": null,
+        "time": "7:30pm doors / 8pm show",
+        "start": "20:00",
         "end": null,
         "area": "SF",
         "venue": "The Lab",
-        "address": "",
-        "why": "",
-        "summary": "",
-        "promoter": "",
-        "price": "",
-        "tags": [],
-        "sources": [
-          "https://ra.co/events/2536370"
+        "address": "2948 16th St, San Francisco, CA 94103",
+        "why": "Opening night of SFEMF's 25th-anniversary run, headlined by experimental techno artist Rrose",
+        "summary": "The 25th-anniversary San Francisco Electronic Music Festival opens its three-night run at The Lab with Night 1, featuring experimental techno producer Rrose, the electronics-and-violin duo IDHAZ & Emily Bouton, and Blevin Blectum of Blectum from Blechdom.",
+        "promoter": "San Francisco Electronic Music Festival (SFEMF)",
+        "price": "$23",
+        "tags": [
+          "experimental",
+          "electronic",
+          "noise",
+          "avant-garde"
         ],
-        "tickets": [],
+        "sources": [
+          "https://ra.co/events/2536370",
+          "https://www.thelab.org/projects/2026/9/24/san-francisco-electronic-music-festival-night-1-rrose-idhaz-and-emily-bouton-blevin-blectum",
+          "https://www.sfemf.org/"
+        ],
+        "tickets": [
+          "https://link.dice.fm/b599a420a2f8"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=The%20Lab%2C%20San%20Francisco",
           "apple": "https://maps.apple.com/?q=The%20Lab%2C%20San%20Francisco"
@@ -1378,8 +1387,22 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
-        "active": true
+        "enriched": 1,
+        "active": true,
+        "lineup": [
+          {
+            "name": "Rrose",
+            "instagram": null
+          },
+          {
+            "name": "IDHAZ & Emily Bouton",
+            "instagram": null
+          },
+          {
+            "name": "Blevin Blectum",
+            "instagram": null
+          }
+        ]
       },
       {
         "id": "2026-09-21-music-sf-s-free-concerts-food-trucks-14029c",
