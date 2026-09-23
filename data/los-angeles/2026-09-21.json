@@ -6097,22 +6097,28 @@
         "id": "2026-09-21-music-electric-ave-3fcf7f",
         "eid": "electric-ave-1194",
         "track": "music",
-        "category": "",
+        "category": "Electronic",
         "name": "Electric Ave.",
         "day": "Sat",
         "date": "2026-09-26",
-        "time": "",
-        "start": null,
+        "time": "10pm",
+        "start": "22:00",
         "end": null,
         "area": "Los Angeles",
         "venue": "Los Globos",
-        "address": "",
-        "why": "",
-        "summary": "",
-        "promoter": "",
+        "address": "3040 W Sunset Blvd, Los Angeles, CA 90026",
+        "why": "A standing weekly electronic night at Los Globos rather than a one-off booking",
+        "summary": "Electric Ave. is EMX's recurring weekly electronic-music night at Los Globos, running from 10pm with rotating DJ lineups.",
+        "promoter": "EMX",
         "price": "",
-        "tags": [],
-        "sources": [],
+        "tags": [
+          "electronic",
+          "nightclub",
+          "weekly"
+        ],
+        "sources": [
+          "https://www.clublosglobos.com/upcoming-events/"
+        ],
         "tickets": [],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Los%20Globos%2C%20Los%20Angeles",
@@ -6124,7 +6130,7 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
