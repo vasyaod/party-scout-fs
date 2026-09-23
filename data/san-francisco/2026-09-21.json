@@ -726,23 +726,34 @@
         "id": "2026-09-21-music-eurotrash-bd4ec8",
         "eid": "eurotrash-5886",
         "track": "music",
-        "category": "",
+        "category": "Eurodance",
         "name": "Eurotrash",
         "day": "Thu",
         "date": "2026-09-24",
-        "time": "",
-        "start": null,
-        "end": null,
+        "time": "9pm–1am",
+        "start": "21:00",
+        "end": "01:00",
         "area": "Napa",
         "venue": "1331 1st St.",
-        "address": "",
-        "why": "",
-        "summary": "",
-        "promoter": "",
+        "address": "1331 1st St, Napa, CA 94559",
+        "why": "A rare all-eurodance night — gabber, happy hardcore, italo—in a wine-country cocktail bar",
+        "summary": "Club Eclips3 brings a night of high-energy eurodance to 1331 Cocktails in downtown Napa, with DJ Anna Galaxis spinning gabber, happy hardcore, and italo-dance.",
+        "promoter": "Club Eclips3",
         "price": "$5 before 10pm / $10",
-        "tags": [],
-        "sources": [],
-        "tickets": [],
+        "tags": [
+          "eurodance",
+          "italo-dance",
+          "gabber",
+          "happy-hardcore",
+          "retro",
+          "21+"
+        ],
+        "sources": [
+          "https://www.eventbrite.com/e/eurotrash-tickets-1999185275977"
+        ],
+        "tickets": [
+          "https://www.eventbrite.com/e/eurotrash-tickets-1999185275977"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=1331%201st%20St.%2C%20Napa",
           "apple": "https://maps.apple.com/?q=1331%201st%20St.%2C%20Napa"
@@ -753,8 +764,14 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
-        "active": true
+        "enriched": 1,
+        "active": true,
+        "lineup": [
+          {
+            "name": "Anna Galaxis",
+            "instagram": null
+          }
+        ]
       },
       {
         "id": "2026-09-21-music-fagjazz-74517e",
