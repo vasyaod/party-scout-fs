@@ -2846,21 +2846,25 @@
         "id": "2026-09-21-music-marie-garcia-aisin-gioro-7ffb2d",
         "eid": "marie-garcia-aisin-gioro-b1af",
         "track": "music",
-        "category": "",
+        "category": "DJ set",
         "name": "Marie Garcia, Aisin Gioro",
         "day": "Fri",
         "date": "2026-09-25",
         "time": "",
         "start": null,
         "end": null,
-        "area": "San Francisco",
+        "area": "SF",
         "venue": "Shack15",
-        "address": "",
-        "why": "",
-        "summary": "",
-        "promoter": "",
+        "address": "1 Ferry Building, Suite 201, San Francisco, CA 94111",
+        "why": "Intimate, couch-side DJ set with rotating local Bay Area selectors spinning soulful, groove-driven music.",
+        "summary": "SHACK15's Lounge Sessions is a living-room-style DJ night in the club's second-floor lounge, with the booth set on a couch instead of a stage.",
+        "promoter": "SHACK15",
         "price": "$12.51",
-        "tags": [],
+        "tags": [
+          "dj set",
+          "lounge",
+          "21+"
+        ],
         "sources": [
           "https://www.eventbrite.com/e/shack15-live-lounge-sessions-tickets-1993384044337"
         ],
@@ -2875,8 +2879,16 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
-        "active": true
+        "enriched": 1,
+        "active": true,
+        "lineup": [
+          {
+            "name": "Marie Garcia"
+          },
+          {
+            "name": "Aisin Gioro"
+          }
+        ]
       },
       {
         "id": "2026-09-21-music-mostly-cloudy-hydefm-dj-dials-012f15",
