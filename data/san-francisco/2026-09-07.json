@@ -5,7 +5,7 @@
   "location": "San Francisco & Bay Area",
   "city": "san-francisco",
   "city_label": "San Francisco",
-  "generated_at": "2026-09-10",
+  "generated_at": "2026-09-22",
   "tracks": {
     "music": [
       {
@@ -276,7 +276,7 @@
         "id": "2026-09-07-music-byorn-e5d7d6",
         "eid": "byorn-f873",
         "track": "music",
-        "category": "",
+        "category": "Hard Dance",
         "name": "BYORN",
         "day": "Fri",
         "date": "2026-09-11",
@@ -290,16 +290,21 @@
         "summary": "",
         "promoter": "",
         "price": "$20",
-        "tags": [],
+        "tags": [
+          "hard dance",
+          "psytrance",
+          "hard techno"
+        ],
         "sources": [
-          "https://ra.co/events/2492939"
+          "https://ra.co/events/2492939",
+          "https://dice.fm/event/oe82ar-byorn-11th-sep-halcyon-sf-san-francisco-tickets"
         ],
         "tickets": [
           "https://ra.co/events/2492939"
         ],
         "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=314%2011th%20St%2C%20San%20Francisco%2C%20California%2C%2094103",
-          "apple": "https://maps.apple.com/?q=314%2011th%20St%2C%20San%20Francisco%2C%20California%2C%2094103"
+          "google": "https://www.google.com/maps/search/?api=1&query=Halcyon%2C%20San%20Francisco",
+          "apple": "https://maps.apple.com/?q=Halcyon%2C%20San%20Francisco"
         },
         "coords": {
           "lat": 37.771445,
@@ -317,83 +322,6 @@
         "popularity": 0,
         "enriched": 1,
         "active": true
-      },
-      {
-        "id": "2026-09-07-music-chillits-2026-bdf684",
-        "eid": "chillits-2026-f183",
-        "track": "music",
-        "category": "",
-        "name": "Chillits 2026",
-        "day": "Fri",
-        "date": "2026-09-11",
-        "time": "",
-        "start": "15:00",
-        "end": "12:00",
-        "area": "Laytonville",
-        "venue": "TBA",
-        "address": "",
-        "why": "",
-        "summary": "Chillits is an ambient and downtempo music festival in a campout setting. It is organized by a community of San Francisco Bay Area based artists and volunteers, supported by the Cloud Factory Collective for the Arts. Chillits is a not-for-profit event, financed through donations ",
-        "promoter": "",
-        "price": "$200",
-        "tags": [],
-        "sources": [
-          "https://ra.co/events/2388139"
-        ],
-        "tickets": [
-          "https://ra.co/events/2388139"
-        ],
-        "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=Laytonville",
-          "apple": "https://maps.apple.com/?q=Laytonville"
-        },
-        "coords": null,
-        "coords_precise": false,
-        "ra": {
-          "event_id": "2388139",
-          "url": "https://ra.co/events/2388139",
-          "interested": 12,
-          "attending": 12
-        },
-        "image": "https://images.ra.co/44d1ed5405b121a7297e3e3e6f89ed6424dcf53a.png",
-        "image_generated": false,
-        "popularity": 0,
-        "enriched": 1,
-        "active": true,
-        "lineup": [
-          {
-            "name": "IanGT",
-            "instagram": null
-          },
-          {
-            "name": "jmo corleone",
-            "instagram": null
-          },
-          {
-            "name": "agraybé",
-            "instagram": null
-          },
-          {
-            "name": "awryly",
-            "instagram": null
-          },
-          {
-            "name": "Bakh Inamov",
-            "instagram": null
-          },
-          {
-            "name": "Beyond the Black Hole",
-            "instagram": null
-          },
-          {
-            "name": "David Siska",
-            "instagram": null
-          },
-          {
-            "name": "DJ CZ",
-            "instagram": null
-          }
-        ]
       },
       {
         "id": "2026-09-07-music-ezequiel-arias-8843ba",
@@ -445,7 +373,7 @@
         "id": "2026-09-07-music-fatima-hajji-presented-by-publ-d62a61",
         "eid": "fatima-hajji-presented-b-21ea",
         "track": "music",
-        "category": "",
+        "category": "Techno",
         "name": "Fatima Hajji presented by Public Works",
         "day": "Fri",
         "date": "2026-09-11",
@@ -459,16 +387,19 @@
         "summary": "Friday, September 11th, 9pm - 2:30am Full Space / 21+ / Limited Capacity Want free entry? Check out the PW Union where members get event access, drinks, skip the line, and more starting at just $12/month or $10 with an annual plan: publicsf.com Curious about more ticket options, ",
         "promoter": "",
         "price": "$30",
-        "tags": [],
+        "tags": [
+          "techno"
+        ],
         "sources": [
-          "https://ra.co/events/2466748"
+          "https://ra.co/events/2466748",
+          "https://www.tixr.com/groups/publicsf/events/fatima-hajji-presented-by-public-works-193237"
         ],
         "tickets": [
           "https://ra.co/events/2466748"
         ],
         "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=161%20Erie%20Street%2C%20San%20Francisco%2C%20CA%2094103%2C%20United%20States",
-          "apple": "https://maps.apple.com/?q=161%20Erie%20Street%2C%20San%20Francisco%2C%20CA%2094103%2C%20United%20States"
+          "google": "https://www.google.com/maps/search/?api=1&query=Public%20Works%2C%20San%20Francisco",
+          "apple": "https://maps.apple.com/?q=Public%20Works%2C%20San%20Francisco"
         },
         "coords": {
           "lat": 37.7688931,
@@ -1095,58 +1026,6 @@
         "popularity": 0,
         "enriched": 1,
         "active": true
-      },
-      {
-        "id": "2026-09-07-music-dxnby-0af122",
-        "eid": "dxnby-9e13",
-        "track": "music",
-        "category": "",
-        "name": "DXNBY",
-        "day": "Sat",
-        "date": "2026-09-12",
-        "time": "",
-        "start": "22:00",
-        "end": "04:00",
-        "area": "San Francisco",
-        "venue": "Halcyon",
-        "address": "314 11th St, San Francisco, California, 94103",
-        "why": "",
-        "summary": "",
-        "promoter": "",
-        "price": "$20",
-        "tags": [],
-        "sources": [
-          "https://ra.co/events/2492940"
-        ],
-        "tickets": [
-          "https://ra.co/events/2492940"
-        ],
-        "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=314%2011th%20St%2C%20San%20Francisco%2C%20California%2C%2094103",
-          "apple": "https://maps.apple.com/?q=314%2011th%20St%2C%20San%20Francisco%2C%20California%2C%2094103"
-        },
-        "coords": {
-          "lat": 37.771445,
-          "lon": -122.4139284
-        },
-        "coords_precise": true,
-        "ra": {
-          "event_id": "2492940",
-          "url": "https://ra.co/events/2492940",
-          "interested": 2,
-          "attending": 2
-        },
-        "image": "",
-        "image_generated": false,
-        "popularity": 0,
-        "enriched": 1,
-        "active": true,
-        "lineup": [
-          {
-            "name": "DXNBY",
-            "instagram": null
-          }
-        ]
       },
       {
         "id": "2026-09-07-music-free-levi-s-plaza-outdoor-palo-48d396",
@@ -1849,46 +1728,6 @@
         "active": true
       },
       {
-        "id": "2026-09-07-music-byorn-babga-mc-taking-back-sun-381f00",
-        "eid": "byorn-babga-mc-taking-ba-9389",
-        "track": "music",
-        "category": "Hard Dance",
-        "name": "Byorn, Babga MC, Taking Back Sundance",
-        "day": "Fri",
-        "date": "2026-09-11",
-        "time": "",
-        "start": null,
-        "end": null,
-        "area": "San Francisco",
-        "venue": "Halcyon",
-        "address": "",
-        "why": "",
-        "summary": "",
-        "promoter": "",
-        "price": "$12",
-        "tags": [
-          "hard dance",
-          "psytrance",
-          "hard techno"
-        ],
-        "sources": [
-          "https://dice.fm/event/oe82ar-byorn-11th-sep-halcyon-sf-san-francisco-tickets"
-        ],
-        "tickets": [],
-        "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=Halcyon%2C%20San%20Francisco",
-          "apple": "https://maps.apple.com/?q=Halcyon%2C%20San%20Francisco"
-        },
-        "coords": null,
-        "coords_precise": false,
-        "ra": {},
-        "image": "",
-        "image_generated": false,
-        "popularity": 0,
-        "enriched": 0,
-        "active": true
-      },
-      {
         "id": "2026-09-07-music-chillits-2026-404edition-iangt-3b0123",
         "eid": "chillits-2026-404edition-5ad5",
         "track": "music",
@@ -1897,13 +1736,13 @@
         "day": "Fri",
         "date": "2026-09-11",
         "time": "",
-        "start": null,
-        "end": null,
+        "start": "15:00",
+        "end": "12:00",
         "area": "Laytonville",
         "venue": "TBA",
         "address": "",
         "why": "",
-        "summary": "",
+        "summary": "Chillits is an ambient and downtempo music festival in a campout setting. It is organized by a community of San Francisco Bay Area based artists and volunteers, supported by the Cloud Factory Collective for the Arts. Chillits is a not-for-profit event, financed through donations ",
         "promoter": "",
         "price": "$200",
         "tags": [
@@ -1913,59 +1752,63 @@
           "leftfield"
         ],
         "sources": [
-          "https://www.chillits.org"
+          "https://www.chillits.org",
+          "https://ra.co/events/2388139"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://ra.co/events/2388139"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Laytonville",
           "apple": "https://maps.apple.com/?q=Laytonville"
         },
         "coords": null,
         "coords_precise": false,
-        "ra": {},
-        "image": "",
-        "image_generated": false,
-        "popularity": 0,
-        "enriched": 0,
-        "active": true
-      },
-      {
-        "id": "2026-09-07-music-fatima-hajji-s-i-m-sandra-mane-28f103",
-        "eid": "fatima-hajji-s-i-m-sandr-03b3",
-        "track": "music",
-        "category": "Techno",
-        "name": "Fatima Hajji, S.i.m., Sandra Mane",
-        "day": "Fri",
-        "date": "2026-09-11",
-        "time": "",
-        "start": null,
-        "end": null,
-        "area": "San Francisco",
-        "venue": "Public Works",
-        "address": "",
-        "why": "",
-        "summary": "",
-        "promoter": "",
-        "price": "$15-30",
-        "tags": [
-          "techno"
-        ],
-        "sources": [
-          "https://www.tixr.com/groups/publicsf/events/fatima-hajji-presented-by-public-works-193237"
-        ],
-        "tickets": [],
-        "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=Public%20Works%2C%20San%20Francisco",
-          "apple": "https://maps.apple.com/?q=Public%20Works%2C%20San%20Francisco"
+        "ra": {
+          "event_id": "2388139",
+          "url": "https://ra.co/events/2388139",
+          "interested": 12,
+          "attending": 12
         },
-        "coords": null,
-        "coords_precise": false,
-        "ra": {},
-        "image": "",
+        "image": "https://images.ra.co/44d1ed5405b121a7297e3e3e6f89ed6424dcf53a.png",
         "image_generated": false,
         "popularity": 0,
         "enriched": 0,
-        "active": true
+        "active": true,
+        "lineup": [
+          {
+            "name": "IanGT",
+            "instagram": null
+          },
+          {
+            "name": "jmo corleone",
+            "instagram": null
+          },
+          {
+            "name": "agraybé",
+            "instagram": null
+          },
+          {
+            "name": "awryly",
+            "instagram": null
+          },
+          {
+            "name": "Bakh Inamov",
+            "instagram": null
+          },
+          {
+            "name": "Beyond the Black Hole",
+            "instagram": null
+          },
+          {
+            "name": "David Siska",
+            "instagram": null
+          },
+          {
+            "name": "DJ CZ",
+            "instagram": null
+          }
+        ]
       },
       {
         "id": "2026-09-07-music-dxnby-josh-lee-ezz-470abb",
@@ -1976,11 +1819,11 @@
         "day": "Sat",
         "date": "2026-09-12",
         "time": "",
-        "start": null,
-        "end": null,
+        "start": "22:00",
+        "end": "04:00",
         "area": "San Francisco",
         "venue": "Halcyon",
-        "address": "",
+        "address": "314 11th St, San Francisco, California, 94103",
         "why": "Duplicate listing of the RA-linked Dxnby show at Halcyon (see DXNBY) — held from publish, not a second event",
         "summary": "Dxnby headlines a tech house/minimal/UK garage night at Halcyon with Josh lEe and Ezz on the bill.",
         "promoter": "",
@@ -1993,24 +1836,38 @@
           "uk-garage"
         ],
         "sources": [
-          "https://dice.fm/event/6do3ab-dxnby-12th-sep-halcyon-sf-san-francisco-tickets"
+          "https://dice.fm/event/6do3ab-dxnby-12th-sep-halcyon-sf-san-francisco-tickets",
+          "https://ra.co/events/2492940"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://ra.co/events/2492940"
+        ],
         "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=Halcyon%2C%20San%20Francisco",
-          "apple": "https://maps.apple.com/?q=Halcyon%2C%20San%20Francisco"
+          "google": "https://www.google.com/maps/search/?api=1&query=314%2011th%20St%2C%20San%20Francisco%2C%20California%2C%2094103",
+          "apple": "https://maps.apple.com/?q=314%2011th%20St%2C%20San%20Francisco%2C%20California%2C%2094103"
         },
         "coords": {
           "lat": 37.771445,
           "lon": -122.4139284
         },
         "coords_precise": true,
-        "ra": {},
+        "ra": {
+          "event_id": "2492940",
+          "url": "https://ra.co/events/2492940",
+          "interested": 2,
+          "attending": 2
+        },
         "image": "",
         "image_generated": false,
         "popularity": 0,
         "enriched": 1,
-        "active": true
+        "active": true,
+        "lineup": [
+          {
+            "name": "DXNBY",
+            "instagram": null
+          }
+        ]
       }
     ],
     "sports": []
