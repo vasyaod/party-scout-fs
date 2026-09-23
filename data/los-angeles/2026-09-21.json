@@ -9287,22 +9287,31 @@
         "id": "2026-09-21-sports-swim-1-to-2-miles-44de15",
         "eid": "swim-1-to-2-miles-7f39",
         "track": "sports",
-        "category": "",
+        "category": "Swimming",
         "name": "Swim, 1 to 2 miles",
         "day": "Sat",
         "date": "2026-09-26",
-        "time": "",
-        "start": null,
-        "end": null,
+        "time": "8:30am",
+        "start": "08:30",
+        "end": "10:00",
         "area": "Los Angeles",
         "venue": "TBA",
         "address": "",
-        "why": "",
-        "summary": "",
-        "promoter": "",
-        "price": "",
-        "tags": [],
-        "sources": [],
+        "why": "A laid-back, free weekly ocean swim for open-water training or just good company in the water.",
+        "summary": "A recurring 1-to-2-mile ocean swim in Santa Monica Bay hosted by the Santa Monica Bay Ocean Swimming Meetup, a free community group open to swimmers of all levels.",
+        "promoter": "Santa Monica Bay Ocean Swimming Meetup",
+        "price": "Free",
+        "tags": [
+          "swimming",
+          "ocean",
+          "open-water",
+          "outdoor",
+          "fitness"
+        ],
+        "sources": [
+          "https://www.meetup.com/Santa-Monica-Ocean-Swimming-Meetup/events/szhwqsydccblb/",
+          "https://www.meetup.com/Santa-Monica-Ocean-Swimming-Meetup/"
+        ],
         "tickets": [],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Los%20Angeles",
@@ -9314,7 +9323,7 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       }
     ]
