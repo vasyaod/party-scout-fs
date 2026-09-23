@@ -1291,21 +1291,33 @@
         "name": "Rough Riders - Freaky Emo, Del, Cowboy Blvck",
         "day": "Thu",
         "date": "2026-09-24",
-        "time": "",
-        "start": null,
-        "end": null,
+        "time": "9pm-2am",
+        "start": "21:00",
+        "end": "02:00",
         "area": "San Francisco",
         "venue": "Beaux",
-        "address": "",
-        "why": "",
-        "summary": "",
-        "promoter": "",
+        "address": "2344 Market St, San Francisco, CA 94114",
+        "why": "Sapphic pre-Folsom kickoff with a cowboy-vs-leather dress code and live performances",
+        "summary": "Lesbeaux and Hanky Code team up for a Cowboy vs. Leather pre-Folsom party at Beaux, with DJs Freaky Emo, Del and Cowboy Blvck plus performances and vendors.",
+        "promoter": "Lesbeaux & Hanky Code",
         "price": "Free before 9:30pm / $11-16",
-        "tags": [],
+        "tags": [
+          "queer",
+          "sapphic",
+          "leather",
+          "kink",
+          "pre-folsom",
+          "dance-party",
+          "21+"
+        ],
         "sources": [
+          "https://shotgun.live/en/events/lesbeaux-folsom-2",
+          "https://www.letsgolesbeaux.com/",
+          "https://www.beauxsf.com/lesbeaux"
+        ],
+        "tickets": [
           "https://shotgun.live/en/events/lesbeaux-folsom-2"
         ],
-        "tickets": [],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Beaux%2C%20San%20Francisco",
           "apple": "https://maps.apple.com/?q=Beaux%2C%20San%20Francisco"
@@ -1316,8 +1328,22 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
-        "active": true
+        "enriched": 1,
+        "active": true,
+        "lineup": [
+          {
+            "name": "Freaky Emo",
+            "instagram": null
+          },
+          {
+            "name": "Del",
+            "instagram": null
+          },
+          {
+            "name": "Cowboy Blvck",
+            "instagram": null
+          }
+        ]
       },
       {
         "id": "2026-09-21-music-sf-electronic-music-festival-c8d600",
