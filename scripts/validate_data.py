@@ -28,6 +28,11 @@ What a check is allowed:
     still applies); the push after it measures against the new count.
   - --strict: 0.
 
+`event-empty-field` on an ENRICHMENT_OWNED field (`area`) counts only for an
+event with `enriched >= 1`: a draft (`enriched: 0`) is published before
+party-scout-service enriches it and is hidden from the public API until then
+(issue #22). `id`, `eid`, `track` and `name` are required on every event.
+
 An improvement never fails a run; it is listed as "below baseline", and
 `--update-baseline` locks it into the file whenever somebody wants to.
 
@@ -122,6 +127,12 @@ EVENT_OPTIONAL = {
 # data/stats.json's `by_field_fixable`, not a schema error. Only the fields
 # that identify or place an event are required to be non-empty here.
 NON_EMPTY = ("id", "eid", "track", "name", "area")
+# Fields that ENRICHMENT fills (issue #22). Since party-scout-agent#63 the scan
+# publishes events with `enriched: 0` and party-scout-service's enrich queue
+# fills these in afterwards; the public API (party-scout-service#44) hides an
+# event until `enriched >= 1`. So an empty one is only a violation once the
+# event claims to be enriched — on a draft it is the expected state.
+ENRICHMENT_OWNED = ("area",)
 
 # Checks whose `detail` is nothing but a field name. Only 8 samples are kept,
 # and they are the first 8 in file order — they can all land on one field and
@@ -213,7 +224,10 @@ def check_event(rep: Report, where: str, event, track_key: str, window) -> None:
     for field in unknown:
         rep.add("event-unknown-field", where, field)
 
+    draft = event.get("enriched") == 0
     for field in NON_EMPTY:
+        if draft and field in ENRICHMENT_OWNED:
+            continue
         value = event.get(field)
         if isinstance(value, str) and not value.strip():
             rep.add("event-empty-field", where, field)

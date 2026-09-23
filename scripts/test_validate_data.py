@@ -134,6 +134,8 @@ CASES = [
     ("event-field-type", _week(lambda w: first_event(w).__setitem__("popularity", True))),
     ("event-unknown-field", _week(lambda w: first_event(w).__setitem__("link", "https://x"))),
     ("event-empty-field", _week(lambda w: first_event(w).__setitem__("eid", "  "))),
+    # Issue #22: `area` is enrichment-owned — empty on an ENRICHED event is a violation.
+    ("event-empty-field", _week(lambda w: first_event(w).update(enriched=1, area=""))),
     ("event-bad-track", _week(lambda w: first_event(w).__setitem__("track", "comedy"))),
     ("event-track-mismatch", _week(lambda w: first_event(w).__setitem__("track", "sports"))),
     ("event-date-format", _week(lambda w: first_event(w).__setitem__("date", "08/20/2026"))),
@@ -201,7 +203,10 @@ def empty_area(root, fill):
     event the cases mutate — the fixture for "the real count dropped by one".
     """
     week = read(root, CITY, OTHER_WEEK)
-    week["tracks"]["music"][-1]["area"] = "" if fill is None else fill
+    event = week["tracks"]["music"][-1]
+    event["area"] = "" if fill is None else fill
+    # An empty `area` only counts on an enriched event (issue #22).
+    event["enriched"] = max(1, event.get("enriched") or 0)
     write(root, week, CITY, OTHER_WEEK)
 
 
@@ -257,6 +262,29 @@ def main() -> int:
         pin(pristine)
         for i, (code, mutate) in enumerate(CASES):
             check_case(pristine, f"case{i}", code, mutate)
+
+        # Issue #22: an empty `area` on a draft (`enriched: 0`) is NOT a violation;
+        # an empty `eid` on the same draft still is.
+        root = os.path.join(tmp, "draft-area")
+        shutil.copytree(pristine, root)
+        _week(lambda w: first_event(w).update(enriched=0, area=""))(root)
+        result = run(root)
+        expect(
+            "draft: empty area on an enriched=0 event is not reported",
+            result.returncode == 0 and "event-empty-field" not in failed_codes(result.stdout),
+            result.stdout + result.stderr,
+        )
+        shutil.rmtree(root)
+        root = os.path.join(tmp, "draft-eid")
+        shutil.copytree(pristine, root)
+        _week(lambda w: first_event(w).update(enriched=0, eid=" "))(root)
+        result = run(root)
+        expect(
+            "draft: empty eid on an enriched=0 event is still reported",
+            result.returncode != 0 and "event-empty-field" in failed_codes(result.stdout),
+            result.stdout + result.stderr,
+        )
+        shutil.rmtree(root)
 
         # Regression for issue #20: the real count of a baselined check drops by
         # one below its baseline, and that check's case must still fire.
