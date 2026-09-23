@@ -4814,22 +4814,28 @@
         "id": "2026-09-21-music-stax-johnson-company-1b10fd",
         "eid": "stax-johnson-company-72de",
         "track": "music",
-        "category": "",
+        "category": "Rock",
         "name": "Stax Johnson & Company",
         "day": "Fri",
         "date": "2026-09-25",
-        "time": "",
-        "start": null,
+        "time": "8pm",
+        "start": "20:00",
         "end": null,
         "area": "Los Angeles",
         "venue": "The Redwood Bar And Grill",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "316 W 2nd St, Los Angeles, CA 90012",
+        "why": "A blues-rock triple bill at the pirate-themed Redwood Bar for a $10 cover",
+        "summary": "Blues-rock outfit Stax Johnson & Company headlines a live-music night at The Redwood Bar x Grill, sharing the bill with The Maraschinos and Madima.",
         "promoter": "",
-        "price": "",
-        "tags": [],
-        "sources": [],
+        "price": "$10",
+        "tags": [
+          "blues",
+          "rock",
+          "live-music"
+        ],
+        "sources": [
+          "https://theredwoodbar.com/events.html"
+        ],
         "tickets": [],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=The%20Redwood%20Bar%20And%20Grill%2C%20Los%20Angeles",
@@ -4841,8 +4847,22 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
-        "active": true
+        "enriched": 1,
+        "active": true,
+        "lineup": [
+          {
+            "name": "Stax Johnson & Company",
+            "instagram": "staxjohnsonband"
+          },
+          {
+            "name": "The Maraschinos",
+            "instagram": null
+          },
+          {
+            "name": "Madima",
+            "instagram": "madima.mp3"
+          }
+        ]
       },
       {
         "id": "2026-09-21-music-stereo-punks-presents-never-du-7de327",
