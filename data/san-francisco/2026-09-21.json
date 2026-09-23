@@ -7644,25 +7644,38 @@
         "id": "2026-09-21-sports-moonlight-run-walk-28abb9",
         "eid": "moonlight-run-walk-107d",
         "track": "sports",
-        "category": "",
+        "category": "Running",
         "name": "Moonlight Run & Walk",
         "day": "Fri",
         "date": "2026-09-25",
-        "time": "",
-        "start": null,
+        "time": "7-8:30pm",
+        "start": "19:00",
         "end": null,
         "area": "Peninsula",
-        "venue": "Palo Alto",
-        "address": "",
-        "why": "",
-        "summary": "",
-        "promoter": "",
-        "price": "",
-        "tags": [],
-        "sources": [
-          "https://www.runguides.com/san-francisco/runs"
+        "venue": "Baylands Athletic Center",
+        "address": "1900 Geng Rd, Palo Alto, CA 94303",
+        "why": "42nd-annual full-moon 5K/10K on the Palo Alto Baylands, benefiting local journalism and kids' nonprofits",
+        "summary": "The Palo Alto Weekly's 42nd annual Moonlight Run & Walk offers a timed 10K run, timed 5K run, and untimed 5K walk starting at the Baylands Athletic Center under the September full moon, with proceeds supporting local nonprofits and independent journalism.",
+        "promoter": "Palo Alto Weekly",
+        "price": "$54-65",
+        "tags": [
+          "running",
+          "walking",
+          "5k",
+          "10k",
+          "charity",
+          "outdoor",
+          "family-friendly"
         ],
-        "tickets": [],
+        "sources": [
+          "https://www.runguides.com/san-francisco/runs",
+          "https://runsignup.com/Race/CA/PaloAlto/PaloAltoWeeklyMoonlightRun",
+          "https://www.paloaltoonline.com/moonlight-run/",
+          "https://www.paloalto.gov/Events-Directory/Community-Services/Moonlight-Run-Walk-2026"
+        ],
+        "tickets": [
+          "https://runsignup.com/Race/CA/PaloAlto/PaloAltoWeeklyMoonlightRun"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Palo%20Alto%2C%20Peninsula",
           "apple": "https://maps.apple.com/?q=Palo%20Alto%2C%20Peninsula"
@@ -7673,7 +7686,7 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
