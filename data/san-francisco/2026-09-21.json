@@ -4182,25 +4182,32 @@
         "id": "2026-09-21-music-college-mayhem-a4eaa1",
         "eid": "college-mayhem-4c3f",
         "track": "music",
-        "category": "",
+        "category": "Top 40/EDM",
         "name": "College Mayhem",
         "day": "Sat",
         "date": "2026-09-26",
-        "time": "",
-        "start": null,
-        "end": null,
+        "time": "10pm-2am",
+        "start": "22:00",
+        "end": "02:00",
         "area": "San Francisco",
         "venue": "715 Harrison",
-        "address": "",
-        "why": "",
-        "summary": "",
-        "promoter": "",
+        "address": "715 Harrison St, San Francisco, CA 94107",
+        "why": "Back-to-school student takeover with free entry before 10:30pm for any school ID.",
+        "summary": "A college-themed 18+ dance party at City Nights (715 Harrison) with two dance floors and Top 40/EDM sets from resident DJs Eden Roc and Mark G, drawing students from Bay Area schools.",
+        "promoter": "ClubX",
         "price": "$13-49+",
-        "tags": [],
+        "tags": [
+          "college",
+          "top-40",
+          "edm",
+          "18+"
+        ],
         "sources": [
           "https://www.eventbrite.com/e/college-mayhem-tickets-1999438276709"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://www.eventbrite.com/e/college-mayhem-tickets-1999438276709"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=715%20Harrison%2C%20San%20Francisco",
           "apple": "https://maps.apple.com/?q=715%20Harrison%2C%20San%20Francisco"
@@ -4211,8 +4218,18 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
-        "active": true
+        "enriched": 1,
+        "active": true,
+        "lineup": [
+          {
+            "name": "Eden Roc",
+            "instagram": null
+          },
+          {
+            "name": "Mark G",
+            "instagram": null
+          }
+        ]
       },
       {
         "id": "2026-09-21-music-d-tour-eera-surf-gang-touching-1c3e7e",
