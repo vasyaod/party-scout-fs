@@ -5,7 +5,7 @@
   "location": "Los Angeles & SoCal",
   "city": "los-angeles",
   "city_label": "Los Angeles",
-  "generated_at": "2026-09-22",
+  "generated_at": "2026-09-23",
   "tracks": {
     "music": [
       {
@@ -5586,23 +5586,32 @@
         "id": "2026-09-21-music-the-birdhouse-migration-001-7eed35",
         "eid": "the-birdhouse-migration-56f7",
         "track": "music",
-        "category": "",
+        "category": "House",
         "name": "The BirdHouse: Migration 001",
         "day": "Sat",
         "date": "2026-09-26",
-        "time": "",
-        "start": null,
-        "end": null,
-        "area": "Los Angeles",
+        "time": "6pm–2am",
+        "start": "18:00",
+        "end": "02:00",
+        "area": "East Ventura",
         "venue": "TBA - Ventura ",
         "address": "",
-        "why": "",
-        "summary": "",
-        "promoter": "",
-        "price": "",
-        "tags": [],
-        "sources": [],
-        "tickets": [],
+        "why": "Secret-venue house night curated for taste over popularity, with fees donated to charity.",
+        "summary": "The Bird House's Migration 001 brings a taste-curated house lineup — Big Sam (PCH Recordings), Sans Nom, Thee-O, Matty Be, Bret Wallace and Bird Lady — to a secret East Ventura location, with 100% of booking fees donated to Give a Beat.",
+        "promoter": "The Bird House",
+        "price": "$10",
+        "tags": [
+          "house",
+          "805",
+          "secret-location",
+          "charity"
+        ],
+        "sources": [
+          "https://events.humanitix.com/the-bird-house-001-migration"
+        ],
+        "tickets": [
+          "https://events.humanitix.com/the-bird-house-001-migration"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Los%20Angeles",
           "apple": "https://maps.apple.com/?q=Los%20Angeles"
@@ -5613,8 +5622,34 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
-        "active": true
+        "enriched": 1,
+        "active": true,
+        "lineup": [
+          {
+            "name": "Big Sam",
+            "instagram": null
+          },
+          {
+            "name": "Sans Nom",
+            "instagram": null
+          },
+          {
+            "name": "Thee-O",
+            "instagram": null
+          },
+          {
+            "name": "Matty Be",
+            "instagram": null
+          },
+          {
+            "name": "Bret Wallace",
+            "instagram": null
+          },
+          {
+            "name": "Bird Lady",
+            "instagram": null
+          }
+        ]
       },
       {
         "id": "2026-09-21-music-birds-of-paradise-w-fabri-es-j-2acb86",
