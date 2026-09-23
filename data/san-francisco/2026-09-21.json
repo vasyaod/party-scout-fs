@@ -1408,22 +1408,33 @@
         "id": "2026-09-21-music-sf-s-free-concerts-food-trucks-14029c",
         "eid": "sf-s-free-concerts-food-bff2",
         "track": "music",
-        "category": "",
+        "category": "Free Concert Series",
         "name": "SF's Free Concerts & Food Trucks: Civic Center Soundtrack",
         "day": "Thu",
         "date": "2026-09-24",
-        "time": "",
-        "start": null,
-        "end": null,
+        "time": "12–3pm",
+        "start": "12:00",
+        "end": "15:00",
         "area": "San Francisco",
         "venue": "Fulton Plaza",
-        "address": "",
-        "why": "",
-        "summary": "",
-        "promoter": "",
+        "address": "147 Fulton St, San Francisco, CA 94102",
+        "why": "Free weekday lunchtime concert with local acts and food trucks right outside the SF Public Library.",
+        "summary": "Part of Illuminate's Civic Center Soundtrack series, this Thursday lunchtime concert brings three local performers to Fulton Plaza alongside a rotating food truck lineup.",
+        "promoter": "Illuminate",
         "price": "Free",
-        "tags": [],
-        "sources": [],
+        "tags": [
+          "free",
+          "outdoor",
+          "daytime",
+          "lunchtime",
+          "food-trucks",
+          "live-music"
+        ],
+        "sources": [
+          "https://illuminate.org/venues/fulton-street-plaza/",
+          "https://sf.funcheap.com/sfs-free-concerts-food-trucks-civic-center-soundtrack-every-tue-thu-37/",
+          "https://sfrecpark.org/m/newsflash/home/detail/2798"
+        ],
         "tickets": [],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Fulton%20Plaza%2C%20San%20Francisco",
@@ -1435,8 +1446,22 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
-        "active": true
+        "enriched": 1,
+        "active": true,
+        "lineup": [
+          {
+            "name": "Caroline Wolfson",
+            "instagram": null
+          },
+          {
+            "name": "JimBo Trout",
+            "instagram": null
+          },
+          {
+            "name": "Rebecca Chapa",
+            "instagram": null
+          }
+        ]
       },
       {
         "id": "2026-09-21-music-side-quest-882ad6",
