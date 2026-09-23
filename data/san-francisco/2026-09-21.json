@@ -6756,23 +6756,34 @@
         "id": "2026-09-21-sports-fog-city-run-2e2f14",
         "eid": "fog-city-run-b98d",
         "track": "sports",
-        "category": "",
+        "category": "Running",
         "name": "Fog City Run",
         "day": "Wed",
         "date": "2026-09-23",
-        "time": "",
-        "start": null,
+        "time": "6:30 PM",
+        "start": "18:30",
         "end": null,
         "area": "San Francisco",
         "venue": "San Francisco",
-        "address": "",
-        "why": "",
-        "summary": "",
-        "promoter": "",
-        "price": "",
-        "tags": [],
-        "sources": [],
-        "tickets": [],
+        "address": "1979 Union St, San Francisco, CA 94123",
+        "why": "Casual weekly running club with a hilly Marina/Presidio loop and a post-run hang at the bar.",
+        "summary": "Weekly Wednesday-night 5K fun run starting from The Blue Light in the Marina, looping a hilly course through the Marina and Presidio.",
+        "promoter": "Fog City Run",
+        "price": "$5 cash",
+        "tags": [
+          "running",
+          "5k",
+          "outdoor",
+          "recurring",
+          "marina"
+        ],
+        "sources": [
+          "https://fogcityrun.com/",
+          "https://www.facebook.com/FogCityRun"
+        ],
+        "tickets": [
+          "https://fogcityrun.com/"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=San%20Francisco%2C%20San%20Francisco",
           "apple": "https://maps.apple.com/?q=San%20Francisco%2C%20San%20Francisco"
@@ -6783,7 +6794,7 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
