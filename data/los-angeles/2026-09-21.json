@@ -5,7 +5,7 @@
   "location": "Los Angeles & SoCal",
   "city": "los-angeles",
   "city_label": "Los Angeles",
-  "generated_at": "2026-09-21",
+  "generated_at": "2026-09-22",
   "tracks": {
     "music": [
       {
@@ -4586,7 +4586,7 @@
         "id": "2026-09-21-music-same-same-but-different-music-4e9f51",
         "eid": "same-same-but-different-de86",
         "track": "music",
-        "category": "",
+        "category": "Festival",
         "name": "Same Same But Different Music Festival",
         "day": "Fri",
         "date": "2026-09-25",
@@ -4595,14 +4595,28 @@
         "end": null,
         "area": "Lake Perris",
         "venue": "Lake Perris State Park",
-        "address": "",
-        "why": "",
-        "summary": "",
-        "promoter": "",
-        "price": "",
-        "tags": [],
-        "sources": [],
-        "tickets": [],
+        "address": "18095 Lake Perris Dr, Perris, CA 92571",
+        "why": "Intimate 7,500-cap lakeside camping festival with five stages and a boat-only dance island.",
+        "summary": "Same Same But Different returns to Lake Perris for a multi-day camping festival spanning electronic, bass, house and acoustic stages, plus art installations, workshops and a boat-accessible dance floor on Nakey Island.",
+        "promoter": "Same Same But Different Festival",
+        "price": "$465",
+        "tags": [
+          "festival",
+          "camping",
+          "electronic",
+          "bass",
+          "house",
+          "outdoor",
+          "art"
+        ],
+        "sources": [
+          "https://www.ssbdfest.com/",
+          "https://www.tixr.com/groups/ssbd/events/ssbdfest2023-same-same-but-different-music-festival-2026-157858",
+          "https://atwoodmagazine.com/ssbd26-same-same-but-different-music-festival-2026-preview/"
+        ],
+        "tickets": [
+          "https://www.tixr.com/groups/ssbd/events/ssbdfest2023-same-same-but-different-music-festival-2026-157858"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Lake%20Perris%20State%20Park%2C%20Lake%20Perris",
           "apple": "https://maps.apple.com/?q=Lake%20Perris%20State%20Park%2C%20Lake%20Perris"
@@ -4613,8 +4627,30 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
-        "active": true
+        "enriched": 1,
+        "active": true,
+        "lineup": [
+          {
+            "name": "LSDREAM",
+            "instagram": null
+          },
+          {
+            "name": "Of The Trees",
+            "instagram": null
+          },
+          {
+            "name": "Gramatik",
+            "instagram": null
+          },
+          {
+            "name": "Andy Frasco & The U.N.",
+            "instagram": null
+          },
+          {
+            "name": "Tape B",
+            "instagram": null
+          }
+        ]
       },
       {
         "id": "2026-09-21-music-sorry-for-party-rocking-2010-2-79dfe8",
