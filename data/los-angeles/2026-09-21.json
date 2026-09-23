@@ -7373,23 +7373,33 @@
         "id": "2026-09-21-music-salute-faster-horses-fc92e5",
         "eid": "salute-faster-horses-ffee",
         "track": "music",
-        "category": "",
+        "category": "House",
         "name": "Salute + Faster Horses",
         "day": "Sat",
         "date": "2026-09-26",
-        "time": "",
-        "start": null,
-        "end": null,
+        "time": "10pm–2am",
+        "start": "22:00",
+        "end": "02:00",
         "area": "San Diego",
         "venue": "Music Box",
-        "address": "",
-        "why": "",
-        "summary": "",
-        "promoter": "",
-        "price": "",
-        "tags": [],
-        "sources": [],
-        "tickets": [],
+        "address": "1337 India St, San Diego, CA 92101",
+        "why": "Official CRSSD Fest after-party bringing the festival's late-night energy to an intimate Little Italy club",
+        "summary": "salute and Faster Horses headline this CRSSD Festival Fall '26 After Dark showcase at Music Box, presented by FNGRS CRSSD x CRSSD Festival, running 10pm to 2am for the 21+ crowd.",
+        "promoter": "FNGRS CRSSD x CRSSD Festival",
+        "price": "$56",
+        "tags": [
+          "21+",
+          "after-dark",
+          "crssd",
+          "club"
+        ],
+        "sources": [
+          "https://www.crssdfest.com/after-dark/",
+          "https://events.leapevents.com/event/fngrs-crssd-x-crssd-festival-present-music-box-sat-fall-2026/tag/cf-site"
+        ],
+        "tickets": [
+          "https://events.leapevents.com/event/fngrs-crssd-x-crssd-festival-present-music-box-sat-fall-2026/tag/cf-site"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Music%20Box%2C%20San%20Diego",
           "apple": "https://maps.apple.com/?q=Music%20Box%2C%20San%20Diego"
@@ -7400,8 +7410,18 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
-        "active": true
+        "enriched": 1,
+        "active": true,
+        "lineup": [
+          {
+            "name": "salute",
+            "instagram": null
+          },
+          {
+            "name": "Faster Horses",
+            "instagram": null
+          }
+        ]
       },
       {
         "id": "2026-09-21-music-soiree-sets-presents-kasango-dd2e12",
