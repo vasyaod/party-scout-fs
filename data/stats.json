@@ -1,13 +1,13 @@
 {
   "kind": "stats",
-  "generated_at": "2026-09-23T20:32:52+00:00",
+  "generated_at": "2026-09-23T20:38:16+00:00",
   "weights_version": "v1",
   "total": {
     "n": 3065,
     "median": 0.7192,
     "p25": 0.3154,
     "pct_ge_075": 0.4829,
-    "invalid": 28,
+    "invalid": 62,
     "tba_rate": 0.0992,
     "by_field_fixable": {
       "image": 2348,
@@ -22,7 +22,7 @@
       "tags": 1324,
       "price": 1281,
       "sources": 1016,
-      "area": 381,
+      "area": 347,
       "venue": 225,
       "maps": 104
     },
@@ -40,7 +40,7 @@
         "median": 0.8154,
         "p25": 0.3654,
         "pct_ge_075": 0.5616,
-        "invalid": 5,
+        "invalid": 16,
         "tba_rate": 0.1706,
         "by_field_fixable": {
           "image": 957,
@@ -55,7 +55,7 @@
           "category": 496,
           "price": 484,
           "sources": 391,
-          "area": 82,
+          "area": 71,
           "venue": 25,
           "maps": 11
         },
@@ -167,13 +167,12 @@
             "median": 0.2885,
             "p25": 0.2885,
             "pct_ge_075": 0.0,
-            "invalid": 0,
+            "invalid": 10,
             "tba_rate": 0.1111,
             "by_field_fixable": {
               "category": 81,
               "time": 81,
               "start": 81,
-              "area": 81,
               "why": 81,
               "summary": 81,
               "price": 81,
@@ -182,6 +181,7 @@
               "image": 81,
               "address": 72,
               "coords": 72,
+              "area": 71,
               "sources": 17,
               "maps": 9
             },
@@ -240,7 +240,7 @@
               "median": 0.2885,
               "p25": 0.2885,
               "pct_ge_075": 0.0,
-              "invalid": 0,
+              "invalid": 2,
               "tba_rate": 0.1364,
               "weights_version": "v1"
             },
@@ -251,7 +251,7 @@
               "median": 0.2885,
               "p25": 0.2885,
               "pct_ge_075": 0.0,
-              "invalid": 0,
+              "invalid": 7,
               "tba_rate": 0.129,
               "weights_version": "v1"
             },
@@ -262,7 +262,7 @@
               "median": 0.2885,
               "p25": 0.2885,
               "pct_ge_075": 0.0,
-              "invalid": 0,
+              "invalid": 1,
               "tba_rate": 0.0667,
               "weights_version": "v1"
             }
@@ -704,7 +704,7 @@
             "median": 0.5077,
             "p25": 0.4231,
             "pct_ge_075": 0.4013,
-            "invalid": 0,
+            "invalid": 1,
             "tba_rate": 0.125,
             "by_field_fixable": {
               "start": 142,
@@ -720,7 +720,6 @@
               "price": 22,
               "venue": 19,
               "tickets": 13,
-              "area": 1,
               "maps": 1
             },
             "weights_version": "v1"
@@ -767,7 +766,7 @@
               "median": 0.3846,
               "p25": 0.3846,
               "pct_ge_075": 0.4,
-              "invalid": 0,
+              "invalid": 1,
               "tba_rate": 0.0,
               "weights_version": "v1"
             },
@@ -1954,7 +1953,7 @@
         "median": 0.4038,
         "p25": 0.2978,
         "pct_ge_075": 0.4243,
-        "invalid": 23,
+        "invalid": 46,
         "tba_rate": 0.0461,
         "by_field_fixable": {
           "image": 1391,
@@ -1969,7 +1968,7 @@
           "tags": 822,
           "price": 797,
           "sources": 625,
-          "area": 299,
+          "area": 276,
           "venue": 200,
           "maps": 93
         },
@@ -2201,7 +2200,7 @@
             "median": 0.2577,
             "p25": 0.2115,
             "pct_ge_075": 0.0,
-            "invalid": 0,
+            "invalid": 23,
             "tba_rate": 0.0176,
             "by_field_fixable": {
               "category": 341,
@@ -2215,8 +2214,8 @@
               "address": 335,
               "coords": 335,
               "price": 334,
-              "area": 223,
               "sources": 207,
+              "area": 200,
               "venue": 189,
               "maps": 88
             },
@@ -2264,7 +2263,7 @@
               "median": 0.2577,
               "p25": 0.1538,
               "pct_ge_075": 0.0,
-              "invalid": 0,
+              "invalid": 1,
               "tba_rate": 0.0,
               "weights_version": "v1"
             },
@@ -2275,7 +2274,7 @@
               "median": 0.2885,
               "p25": 0.2577,
               "pct_ge_075": 0.0,
-              "invalid": 0,
+              "invalid": 11,
               "tba_rate": 0.0299,
               "weights_version": "v1"
             },
@@ -2286,7 +2285,7 @@
               "median": 0.2885,
               "p25": 0.2577,
               "pct_ge_075": 0.0,
-              "invalid": 0,
+              "invalid": 11,
               "tba_rate": 0.0423,
               "weights_version": "v1"
             },
