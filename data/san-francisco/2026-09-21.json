@@ -1129,25 +1129,33 @@
         "id": "2026-09-21-music-motley-crue-at-shoreline-amphi-5611cd",
         "eid": "motley-crue-at-shoreline-dc69",
         "track": "music",
-        "category": "",
+        "category": "Rock",
         "name": "Mötley Crüe at Shoreline Amphitheatre",
         "day": "Thu",
         "date": "2026-09-24",
-        "time": "",
-        "start": null,
+        "time": "6:30pm",
+        "start": "18:30",
         "end": null,
         "area": "SF",
         "venue": "Shoreline Amphitheater",
-        "address": "",
-        "why": "",
-        "summary": "",
-        "promoter": "",
-        "price": "",
-        "tags": [],
-        "sources": [
-          "https://ra.co/events/2330021"
+        "address": "1 Amphitheatre Pkwy, Mountain View, CA 94043",
+        "why": "Mötley Crüe's 45th-anniversary Carnival of Sins revival with Tesla and Extreme opening",
+        "summary": "Mötley Crüe brings The Return of the Carnival of Sins tour to Shoreline Amphitheatre, marking the band's 45th anniversary and the 20th anniversary of their theatrical Carnival of Sins tour, with support from Tesla and Extreme.",
+        "promoter": "Live Nation",
+        "price": "$25",
+        "tags": [
+          "rock",
+          "hair-metal",
+          "arena-rock",
+          "anniversary-tour"
         ],
-        "tickets": [],
+        "sources": [
+          "https://ra.co/events/2330021",
+          "https://www.livenation.com/event/G5vYZbUD3X2kj/the-return-of-the-carnival-of-sins-motley-crue"
+        ],
+        "tickets": [
+          "https://www.ticketmaster.com/the-return-of-the-carnival-of-mountain-view-california-09-24-2026/event/1C00636ED2F8F19C"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Shoreline%20Amphitheater%2C%20San%20Francisco",
           "apple": "https://maps.apple.com/?q=Shoreline%20Amphitheater%2C%20San%20Francisco"
@@ -1158,8 +1166,22 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
-        "active": true
+        "enriched": 1,
+        "active": true,
+        "lineup": [
+          {
+            "name": "Mötley Crüe",
+            "instagram": null
+          },
+          {
+            "name": "Tesla",
+            "instagram": null
+          },
+          {
+            "name": "Extreme",
+            "instagram": null
+          }
+        ]
       },
       {
         "id": "2026-09-21-music-program-audio-black-rave-cultu-1b7989",
