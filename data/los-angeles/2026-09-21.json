@@ -5434,22 +5434,28 @@
         "id": "2026-09-21-music-arcane-grace-9b109b",
         "eid": "arcane-grace-aa90",
         "track": "music",
-        "category": "",
+        "category": "Indie Rock",
         "name": "Arcane Grace",
         "day": "Sat",
         "date": "2026-09-26",
-        "time": "",
-        "start": null,
+        "time": "8pm",
+        "start": "20:00",
         "end": null,
         "area": "Los Angeles",
         "venue": "The Redwood Bar And Grill",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "316 W 2nd St, Los Angeles, CA 90012",
+        "why": "A $10 dive-bar indie rock double bill in a historic downtown LA pirate-themed bar.",
+        "summary": "LA indie rock act Arcane Grace headlines a Saturday night show at the Redwood Bar & Grill's downtown dive-bar stage, with Gold Anchor opening.",
         "promoter": "",
-        "price": "",
-        "tags": [],
-        "sources": [],
+        "price": "$10",
+        "tags": [
+          "indie rock",
+          "dive bar",
+          "downtown"
+        ],
+        "sources": [
+          "https://theredwoodbar.com/events.html"
+        ],
         "tickets": [],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=The%20Redwood%20Bar%20And%20Grill%2C%20Los%20Angeles",
@@ -5461,8 +5467,18 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
-        "active": true
+        "enriched": 1,
+        "active": true,
+        "lineup": [
+          {
+            "name": "Arcane Grace",
+            "instagram": null
+          },
+          {
+            "name": "Gold Anchor",
+            "instagram": null
+          }
+        ]
       },
       {
         "id": "2026-09-21-music-bassjackers-79af4a",
