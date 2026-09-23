@@ -3551,25 +3551,34 @@
         "id": "2026-09-21-music-slow-magic-e9a0a1",
         "eid": "slow-magic-c29f",
         "track": "music",
-        "category": "",
+        "category": "concert",
         "name": "Slow Magic",
         "day": "Fri",
         "date": "2026-09-25",
-        "time": "",
-        "start": null,
+        "time": "8:00 PM",
+        "start": "20:00",
         "end": null,
         "area": "San Francisco",
         "venue": "Cafe Du Nord",
-        "address": "",
-        "why": "",
-        "summary": "",
-        "promoter": "",
-        "price": "",
-        "tags": [],
-        "sources": [
-          "https://www.ticketweb.com/event/slow-magic-cafe-du-nord-tickets/14773493"
+        "address": "2174 Market Street, San Francisco, CA 94114",
+        "why": "Masked electronic producer Slow Magic plays Cafe Du Nord in support of his latest project, with support from Artemis Orion. 21+.",
+        "summary": "Slow Magic brings his cinematic electronic sound to the intimate Cafe Du Nord, with support from Artemis Orion. Doors at 7:00 PM, show at 8:00 PM, 21+.",
+        "promoter": "Live Nation",
+        "price": "$33.45+",
+        "tags": [
+          "electronic",
+          "live",
+          "21+"
         ],
-        "tickets": [],
+        "sources": [
+          "https://www.ticketweb.com/event/slow-magic-cafe-du-nord-tickets/14773493",
+          "https://cafedunord.com/calendar/",
+          "https://www.livenation.com/event/rZ7HnEZ1AfqS3K/slow-magic",
+          "https://www.ticketweb.com/event/slow-magic-with-artemis-orion-cafe-du-nord-tickets/14773493"
+        ],
+        "tickets": [
+          "https://www.ticketweb.com/event/slow-magic-with-artemis-orion-cafe-du-nord-tickets/14773493?pl=cafedunord&REFID=clientsitewp"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Cafe%20Du%20Nord%2C%20San%20Francisco",
           "apple": "https://maps.apple.com/?q=Cafe%20Du%20Nord%2C%20San%20Francisco"
@@ -3580,8 +3589,9 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
-        "active": true
+        "enriched": 1,
+        "active": true,
+        "lineup": []
       },
       {
         "id": "2026-09-21-music-society-mike-saint-jules-bakar-e501dd",
