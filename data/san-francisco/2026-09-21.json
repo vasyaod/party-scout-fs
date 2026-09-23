@@ -4350,19 +4350,25 @@
         "name": "French Kiss w/DJ S2",
         "day": "Sat",
         "date": "2026-09-26",
-        "time": "",
-        "start": null,
-        "end": null,
-        "area": "San Francisco",
+        "time": "9:30 PM–2:00 AM",
+        "start": "21:30",
+        "end": "02:00",
+        "area": "North Beach",
         "venue": "Paris 75",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "515 Broadway, San Francisco, CA 94133",
+        "why": "Free, low-key North Beach lounge night with DJ-spun video visuals.",
+        "summary": "French Kiss is Paris 75's recurring Friday/Saturday night video party in its North Beach French lounge, pairing DJ sets with vintage music-video visuals.",
         "promoter": "",
         "price": "Free",
-        "tags": [],
+        "tags": [
+          "free",
+          "lounge",
+          "video-party",
+          "nightlife"
+        ],
         "sources": [
-          "https://www.instagram.com/p/DdZcVDEPzHi/"
+          "https://www.instagram.com/p/DdZcVDEPzHi/",
+          "https://lppsf.com/events"
         ],
         "tickets": [],
         "maps": {
@@ -4375,8 +4381,14 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
-        "active": true
+        "enriched": 1,
+        "active": true,
+        "lineup": [
+          {
+            "name": "DJ S2",
+            "instagram": null
+          }
+        ]
       },
       {
         "id": "2026-09-21-music-glen-xsonicwavesx-little-treas-f1c2e4",
