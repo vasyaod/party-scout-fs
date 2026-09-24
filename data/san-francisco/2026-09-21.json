@@ -4643,7 +4643,7 @@
         "id": "2026-09-21-music-juke-wrld-fdad75",
         "eid": "juke-wrld-357c",
         "track": "music",
-        "category": "",
+        "category": "Juke/Footwork",
         "name": "JUKE WRLD",
         "day": "Sat",
         "date": "2026-09-26",
@@ -4652,16 +4652,26 @@
         "end": null,
         "area": "SF",
         "venue": "El Rio",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "3158 Mission St, San Francisco, CA 94110",
+        "why": "A rare Bay Area lineup dedicated to juke, ghettotech and club music from across the US",
+        "summary": "JUKE WRLD takes over El Rio for a night of regional American club sounds, with Twoseven, Mars Kasei, Tha Nxxt Step, New Juicy and DJ Ari B spinning Jersey and Baltimore club, Detroit ghettotech and Chicago footwork.",
         "promoter": "",
         "price": "",
-        "tags": [],
+        "tags": [
+          "juke",
+          "footwork",
+          "ghettotech",
+          "club",
+          "jersey-club",
+          "baltimore-club"
+        ],
         "sources": [
+          "https://ra.co/events/2534453",
+          "https://www.kqed.org/arts/13994137/portola-week-san-francisco-oakland-electronic-music-parties-events"
+        ],
+        "tickets": [
           "https://ra.co/events/2534453"
         ],
-        "tickets": [],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=El%20Rio%2C%20San%20Francisco",
           "apple": "https://maps.apple.com/?q=El%20Rio%2C%20San%20Francisco"
@@ -4672,8 +4682,30 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
-        "active": true
+        "enriched": 1,
+        "active": true,
+        "lineup": [
+          {
+            "name": "Twoseven",
+            "instagram": null
+          },
+          {
+            "name": "Mars Kasei",
+            "instagram": null
+          },
+          {
+            "name": "Tha Nxxt Step",
+            "instagram": null
+          },
+          {
+            "name": "New Juicy",
+            "instagram": null
+          },
+          {
+            "name": "DJ Ari B",
+            "instagram": null
+          }
+        ]
       },
       {
         "id": "2026-09-21-music-jukewrld-event-8a1810",
