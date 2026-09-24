@@ -6173,22 +6173,31 @@
         "name": "Azzecca - Portola Week",
         "day": "Sun",
         "date": "2026-09-27",
-        "time": "",
-        "start": null,
-        "end": null,
+        "time": "9:30pm-2am",
+        "start": "21:30",
+        "end": "02:00",
         "area": "SF",
         "venue": "Audio SF",
-        "address": "",
-        "why": "",
-        "summary": "",
-        "promoter": "",
+        "address": "316 11th St, San Francisco, CA 94103",
+        "why": "A late-night Portola Week set from Azzecca in Audio SF's intimate SoMa room",
+        "summary": "AZZECCA headlines Audio SF for Portola Week, an all-night session at the SoMa club that took over the old Mist Ultra Club space.",
+        "promoter": "ALL DAY ALL NIGHT EVENTS",
         "price": "",
-        "tags": [],
+        "tags": [
+          "portola-week",
+          "nightclub",
+          "21+"
+        ],
         "sources": [
           "https://ra.co/events/2522323",
-          "https://www.tixr.com/groups/alldayallnight/events/azzecca-at-audio-sf-portola-week-203570"
+          "https://www.tixr.com/groups/alldayallnight/events/azzecca-at-audio-sf-portola-week-203570",
+          "https://www.eventbrite.com/e/azzecca-at-audio-sf-portola-week-tickets-1999001301705"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://www.tixr.com/groups/alldayallnight/events/azzecca-at-audio-sf-portola-week-203570",
+          "https://www.eventbrite.com/e/azzecca-at-audio-sf-portola-week-tickets-1999001301705",
+          "https://www.axs.com/events/1579143/azzecca-tickets"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Audio%20SF%2C%20San%20Francisco",
           "apple": "https://maps.apple.com/?q=Audio%20SF%2C%20San%20Francisco"
@@ -6199,8 +6208,14 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
-        "active": true
+        "enriched": 1,
+        "active": true,
+        "lineup": [
+          {
+            "name": "Azzecca",
+            "instagram": null
+          }
+        ]
       },
       {
         "id": "2026-09-21-music-boof-x-foundry-mcmlxxxv-herren-e5400b",
