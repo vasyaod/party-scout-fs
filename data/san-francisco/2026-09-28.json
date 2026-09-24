@@ -187,25 +187,34 @@
         "id": "2026-09-28-music-6-drive-in-movie-night-in-conc-734da7",
         "eid": "6-drive-in-movie-night-i-43aa",
         "track": "music",
-        "category": "",
+        "category": "film",
         "name": "$6 Drive-In Movie Night in Concord & San Jose",
         "day": "Tue",
         "date": "2026-09-29",
-        "time": "",
-        "start": null,
+        "time": "8:30 PM - 11:59 PM",
+        "start": "20:30",
         "end": null,
-        "area": "",
+        "area": "Concord/San Jose",
         "venue": "San Francisco Bay Area",
-        "address": "",
-        "why": "",
-        "summary": "",
-        "promoter": "",
-        "price": "",
-        "tags": [],
-        "sources": [
-          "https://sf.funcheap.com/6-drive-in-movie-night-in-concord-san-jose-207/"
+        "address": "1611 Solano Way, Concord, CA / 3630 Hillcap Ave, San Jose, CA",
+        "why": "Old-school drive-in movie fun at a steep discount, plus it's a low-key, socially-distant way to catch a film outdoors.",
+        "summary": "West Wind Drive-In drops its ticket price to $6 for adults every Tuesday night at its Concord and San Jose locations, with kids 5-11 at $2 and under-4 free.",
+        "promoter": "West Wind Drive-In",
+        "price": "$6 adults, $2 kids 5-11, free under 4",
+        "tags": [
+          "drive-in",
+          "movie night",
+          "family friendly",
+          "outdoor",
+          "weekly"
         ],
-        "tickets": [],
+        "sources": [
+          "https://sf.funcheap.com/6-drive-in-movie-night-in-concord-san-jose-207/",
+          "https://westwinddi.com/"
+        ],
+        "tickets": [
+          "https://westwinddi.com/"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=San%20Francisco%20Bay%20Area",
           "apple": "https://maps.apple.com/?q=San%20Francisco%20Bay%20Area"
@@ -216,7 +225,7 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
