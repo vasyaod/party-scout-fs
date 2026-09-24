@@ -5286,19 +5286,24 @@
         "name": "Replay",
         "day": "Sat",
         "date": "2026-09-26",
-        "time": "",
-        "start": null,
+        "time": "10pm",
+        "start": "22:00",
         "end": null,
         "area": "Sunnyvale",
         "venue": "Pure Nightclub",
-        "address": "",
-        "why": "",
-        "summary": "",
-        "promoter": "",
+        "address": "146 S Murphy Ave, Sunnyvale, CA 94086",
+        "why": "Weekly Saturday club night at Pure with free entry for early RSVPs.",
+        "summary": "Replay is a recurring Saturday night at Pure Nightclub in Sunnyvale, with doors at 10pm and RSVP-based free entry before 11pm.",
+        "promoter": "Pure Nightclub",
         "price": "Free with RSVP before 11pm / $14",
         "tags": [],
-        "sources": [],
-        "tickets": [],
+        "sources": [
+          "https://www.purenightclub408.com/calendar",
+          "https://tixr.com/e/199721"
+        ],
+        "tickets": [
+          "https://tixr.com/e/199721"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Pure%20Nightclub%2C%20Sunnyvale",
           "apple": "https://maps.apple.com/?q=Pure%20Nightclub%2C%20Sunnyvale"
@@ -5309,7 +5314,7 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
