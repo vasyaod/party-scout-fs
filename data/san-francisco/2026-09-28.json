@@ -5,7 +5,7 @@
   "location": "San Francisco & Bay Area",
   "city": "san-francisco",
   "city_label": "San Francisco",
-  "generated_at": "2026-09-23",
+  "generated_at": "2026-09-24",
   "tracks": {
     "music": [
       {
@@ -7749,23 +7749,32 @@
         "id": "2026-09-28-music-another-planet-entertainment-p-994315",
         "eid": "another-planet-entertain-2f2b",
         "track": "music",
-        "category": "",
+        "category": "Indie Folk",
         "name": "Another Planet Entertainment Presents Aldous Harding",
         "day": "Mon",
         "date": "2026-09-28",
-        "time": "",
-        "start": null,
+        "time": "Doors 7pm / Show 8pm",
+        "start": "20:00",
         "end": null,
-        "area": "",
-        "venue": "",
-        "address": "",
-        "why": "",
-        "summary": "",
-        "promoter": "",
+        "area": "SF",
+        "venue": "The Castro Theatre",
+        "address": "429 Castro St, San Francisco, CA 94114",
+        "why": "Aldous Harding's spellbinding art-folk in the ornate, single-screen Castro Theatre",
+        "summary": "Another Planet Entertainment presents New Zealand singer-songwriter Aldous Harding at the historic Castro Theatre, with Sam Burton in support.",
+        "promoter": "Another Planet Entertainment",
         "price": "",
-        "tags": [],
-        "sources": [],
-        "tickets": [],
+        "tags": [
+          "indie-folk",
+          "singer-songwriter",
+          "seated",
+          "all-ages"
+        ],
+        "sources": [
+          "https://apeconcerts.com/events/aldous-harding-260928/"
+        ],
+        "tickets": [
+          "https://www.ticketmaster.com/aldous-harding-san-francisco-california-09-28-2026/event/1C006392F7D6F8DB"
+        ],
         "maps": {},
         "coords": null,
         "coords_precise": false,
@@ -7773,8 +7782,18 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
-        "active": true
+        "enriched": 1,
+        "active": true,
+        "lineup": [
+          {
+            "name": "Aldous Harding",
+            "instagram": null
+          },
+          {
+            "name": "Sam Burton",
+            "instagram": null
+          }
+        ]
       },
       {
         "id": "2026-09-28-music-bobby-mcferrin-motion-930b7b",
