@@ -8195,23 +8195,34 @@
         "id": "2026-09-21-sports-sunset-dunes-parkrun-5dca4b",
         "eid": "sunset-dunes-parkrun-0a91",
         "track": "sports",
-        "category": "",
+        "category": "Running",
         "name": "Sunset Dunes parkrun",
         "day": "Sat",
         "date": "2026-09-26",
-        "time": "",
-        "start": null,
+        "time": "8:00 AM",
+        "start": "08:00",
         "end": null,
-        "area": "San Francisco",
+        "area": "Sunset District",
         "venue": "Sunset Dunes",
-        "address": "",
-        "why": "",
-        "summary": "",
-        "promoter": "",
+        "address": "Great Highway at Judah St, San Francisco, CA",
+        "why": "A free, all-levels community 5K on the newly car-free Great Highway park, with coffee after at Java Beach Cafe.",
+        "summary": "Free, weekly, timed 5K walk/jog/run along the car-free Sunset Dunes promenade next to Ocean Beach, starting near Judah St on the former Upper Great Highway.",
+        "promoter": "parkrun",
         "price": "Free",
-        "tags": [],
-        "sources": [],
-        "tickets": [],
+        "tags": [
+          "running",
+          "5k",
+          "free",
+          "outdoors",
+          "community"
+        ],
+        "sources": [
+          "https://www.parkrun.us/sunsetdunes/",
+          "https://sunsetdunes.org/events/sunset-dunes-parkrun"
+        ],
+        "tickets": [
+          "https://www.parkrun.us/sunsetdunes/"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Sunset%20Dunes%2C%20San%20Francisco",
           "apple": "https://maps.apple.com/?q=Sunset%20Dunes%2C%20San%20Francisco"
@@ -8222,7 +8233,7 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
