@@ -5094,25 +5094,32 @@
         "id": "2026-09-21-music-motel-club-presents-let-s-go-d-dd310a",
         "eid": "motel-club-presents-let-bc0b",
         "track": "music",
-        "category": "",
+        "category": "Disco",
         "name": "Motel Club presents LET'S GO DISCO with Timo Lee",
         "day": "Sat",
         "date": "2026-09-26",
-        "time": "",
-        "start": null,
+        "time": "9:30pm",
+        "start": "21:30",
         "end": null,
         "area": "SF",
         "venue": "Madrone Art Bar",
-        "address": "",
-        "why": "",
-        "summary": "",
-        "promoter": "",
-        "price": "",
-        "tags": [],
-        "sources": [
-          "https://ra.co/events/2520972"
+        "address": "500 Divisadero Street, San Francisco, CA 94117",
+        "why": "A regular disco night gets a touring NYC selector known for Lot Radio sets and Chomp Chomp Records",
+        "summary": "Motel Club's recurring LET'S GO DISCO night returns to Madrone Art Bar with NYC-based DJ Timo Lee, spinning disco, house, and 90s rave-inspired club music.",
+        "promoter": "Motel Club",
+        "price": "$20",
+        "tags": [
+          "disco",
+          "house",
+          "dance"
         ],
-        "tickets": [],
+        "sources": [
+          "https://ra.co/events/2520972",
+          "https://www.eventbrite.com/e/lets-go-disco-madrone-art-bar-tickets-1998922916252"
+        ],
+        "tickets": [
+          "https://www.eventbrite.com/e/lets-go-disco-madrone-art-bar-tickets-1998922916252"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Madrone%20Art%20Bar%2C%20San%20Francisco",
           "apple": "https://maps.apple.com/?q=Madrone%20Art%20Bar%2C%20San%20Francisco"
@@ -5123,8 +5130,14 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
-        "active": true
+        "enriched": 1,
+        "active": true,
+        "lineup": [
+          {
+            "name": "Timo Lee",
+            "instagram": null
+          }
+        ]
       },
       {
         "id": "2026-09-21-music-palmtola-domi-festival-series-352147",
