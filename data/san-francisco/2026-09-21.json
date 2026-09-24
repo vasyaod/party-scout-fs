@@ -4584,25 +4584,34 @@
         "id": "2026-09-21-music-jigitz-78236a",
         "eid": "jigitz-9a5c",
         "track": "music",
-        "category": "",
+        "category": "Electronic",
         "name": "Jigitz",
         "day": "Sat",
         "date": "2026-09-26",
-        "time": "",
-        "start": null,
-        "end": null,
-        "area": "San Francisco",
+        "time": "10pm-3am",
+        "start": "22:00",
+        "end": "03:00",
+        "area": "SoMa",
         "venue": "Monarch",
-        "address": "",
-        "why": "",
-        "summary": "",
-        "promoter": "",
+        "address": "101 6th St, San Francisco, CA 94103",
+        "why": "A Portola Week after-party bringing Jigitz's genre-defying production to Monarch's late-night floor.",
+        "summary": "Jigitz headlines a late-night Portola Week after-party at Monarch, with Rumorous and Clearcast opening.",
+        "promoter": "Monarch",
         "price": "$46-58.08",
-        "tags": [],
-        "sources": [
-          "https://www.eventbrite.com/e/jigitz-tickets-1997983726109"
+        "tags": [
+          "electronic",
+          "afterparty",
+          "portola-week",
+          "21-plus"
         ],
-        "tickets": [],
+        "sources": [
+          "https://www.eventbrite.com/e/jigitz-tickets-1997983726109",
+          "https://www.axs.com/events/1579103/jigitz-tickets"
+        ],
+        "tickets": [
+          "https://www.eventbrite.com/e/jigitz-tickets-1997983726109",
+          "https://www.axs.com/events/1579103/jigitz-tickets"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Monarch%2C%20San%20Francisco",
           "apple": "https://maps.apple.com/?q=Monarch%2C%20San%20Francisco"
@@ -4613,8 +4622,22 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
-        "active": true
+        "enriched": 1,
+        "active": true,
+        "lineup": [
+          {
+            "name": "Jigitz",
+            "instagram": null
+          },
+          {
+            "name": "Rumorous",
+            "instagram": null
+          },
+          {
+            "name": "Clearcast",
+            "instagram": null
+          }
+        ]
       },
       {
         "id": "2026-09-21-music-juke-wrld-fdad75",
