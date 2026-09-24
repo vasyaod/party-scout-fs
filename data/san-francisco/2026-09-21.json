@@ -6759,15 +6759,22 @@
         "area": "San Francisco",
         "venue": "TBA",
         "address": "",
-        "why": "",
-        "summary": "",
-        "promoter": "",
+        "why": "Underground after-hours series with a surprise secret-location reveal, not a fixed club night",
+        "summary": "NYX: Late Night's #079 installment is a secret-location after-hours clubbing session in the SF/Oakland area, with the exact venue texted to RSVP'd attendees on the day of the event.",
+        "promoter": "NYX: Late Night",
         "price": "",
-        "tags": [],
+        "tags": [
+          "after-hours",
+          "secret-location",
+          "clubbing"
+        ],
         "sources": [
+          "https://posh.vip/e/nyx-late-night-clubbing-079-saturday-w-surprise-guest",
+          "https://www.instagram.com/nyxlatenight/"
+        ],
+        "tickets": [
           "https://posh.vip/e/nyx-late-night-clubbing-079-saturday-w-surprise-guest"
         ],
-        "tickets": [],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=San%20Francisco",
           "apple": "https://maps.apple.com/?q=San%20Francisco"
@@ -6778,8 +6785,22 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
-        "active": true
+        "enriched": 1,
+        "active": true,
+        "lineup": [
+          {
+            "name": "HAWN",
+            "instagram": null
+          },
+          {
+            "name": "SAN LUU",
+            "instagram": null
+          },
+          {
+            "name": "AIDEN ROTH",
+            "instagram": null
+          }
+        ]
       },
       {
         "id": "2026-09-21-music-overmono-dj-set-ben-ufo-kaytre-13294c",
