@@ -7968,23 +7968,30 @@
         "id": "2026-09-21-music-azure-huntington-beach-w-jay-p-b5cb93",
         "eid": "azure-huntington-beach-w-53b3",
         "track": "music",
-        "category": "",
+        "category": "House",
         "name": "Azure Huntington Beach w/Jay Pryor",
         "day": "Sun",
         "date": "2026-09-27",
-        "time": "",
-        "start": null,
-        "end": null,
+        "time": "2–10pm",
+        "start": "14:00",
+        "end": "22:00",
         "area": "Huntington Beach",
         "venue": "The Bungalow",
-        "address": "",
-        "why": "",
-        "summary": "",
-        "promoter": "",
+        "address": "21058 Pacific Coast Hwy #240, Huntington Beach, CA 92648",
+        "why": "NYC's Azure day-party series brings house DJ Jay Pryor to The Bungalow's PCH-facing patio for a Sunday daytime set.",
+        "summary": "Azure's Sunday day-party residency returns to The Bungalow Huntington Beach with house DJ Jay Pryor headlining the oceanfront patio session.",
+        "promoter": "Azure Day Party",
         "price": "",
-        "tags": [],
-        "sources": [],
-        "tickets": [],
+        "tags": [
+          "day-party",
+          "house"
+        ],
+        "sources": [
+          "https://thebungalow.com/huntington-beach/azure-day-party/"
+        ],
+        "tickets": [
+          "https://www.azuredayparty.com/socal"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=The%20Bungalow%2C%20Huntington%20Beach",
           "apple": "https://maps.apple.com/?q=The%20Bungalow%2C%20Huntington%20Beach"
@@ -7995,8 +8002,14 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
-        "active": true
+        "enriched": 1,
+        "active": true,
+        "lineup": [
+          {
+            "name": "Jay Pryor",
+            "instagram": null
+          }
+        ]
       },
       {
         "id": "2026-09-21-music-black-house-radio-church-w-dj-03c07e",
