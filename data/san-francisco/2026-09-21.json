@@ -5,7 +5,7 @@
   "location": "San Francisco & Bay Area",
   "city": "san-francisco",
   "city_label": "San Francisco",
-  "generated_at": "2026-09-23",
+  "generated_at": "2026-09-24",
   "tracks": {
     "music": [
       {
@@ -3052,25 +3052,32 @@
         "id": "2026-09-21-music-pm-presents-rello-dedro-snooko-d4ea88",
         "eid": "pm-presents-rello-dedro-ac32",
         "track": "music",
-        "category": "",
+        "category": "Tech House",
         "name": "PM presents: Rello, DEDRO, Snooko",
         "day": "Fri",
         "date": "2026-09-25",
-        "time": "",
-        "start": null,
-        "end": null,
+        "time": "9pm-2am",
+        "start": "21:00",
+        "end": "02:00",
         "area": "SF",
         "venue": "TBA - San Francisco",
         "address": "",
-        "why": "",
-        "summary": "",
-        "promoter": "",
+        "why": "Late-night unofficial Portola pre-party in Chinatown with rising bass/house acts Rello, DEDRO and Snooko.",
+        "summary": "An unofficial Portola pre-party in San Francisco's Chinatown presented by Private Matter, Rhythm N Sound, and Operator SF, featuring sets from Rello, DEDRO, and Snooko.",
+        "promoter": "Private Matter",
         "price": "",
-        "tags": [],
-        "sources": [
-          "https://ra.co/events/2540796"
+        "tags": [
+          "portola-pre-party",
+          "late-night",
+          "chinatown"
         ],
-        "tickets": [],
+        "sources": [
+          "https://ra.co/events/2540796",
+          "https://partiful.com/e/kfvbq2uRR16zB3SzrrrU"
+        ],
+        "tickets": [
+          "https://crowdvolt.com/event/pos/3ab8f619-1986-4a23-8a99-414526f2a7af?t=partiful"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=San%20Francisco",
           "apple": "https://maps.apple.com/?q=San%20Francisco"
@@ -3081,8 +3088,30 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
-        "active": true
+        "enriched": 1,
+        "active": true,
+        "lineup": [
+          {
+            "name": "Rello",
+            "instagram": null
+          },
+          {
+            "name": "DEDRO",
+            "instagram": null
+          },
+          {
+            "name": "Snooko",
+            "instagram": null
+          },
+          {
+            "name": "Aaron Parker",
+            "instagram": null
+          },
+          {
+            "name": "Jacob Brown",
+            "instagram": null
+          }
+        ]
       },
       {
         "id": "2026-09-21-music-pulse-family-gathering-lunar-a-bf9be0",
