@@ -4942,25 +4942,31 @@
         "id": "2026-09-21-music-let-s-go-disco-w-timo-lee-a69fcf",
         "eid": "let-s-go-disco-w-timo-le-8443",
         "track": "music",
-        "category": "",
+        "category": "Disco",
         "name": "Let's Go Disco w/ Timo Lee",
         "day": "Sat",
         "date": "2026-09-26",
-        "time": "",
-        "start": null,
+        "time": "9:30pm",
+        "start": "21:30",
         "end": null,
-        "area": "San Francisco",
+        "area": "SF",
         "venue": "Madrone Art Bar",
-        "address": "",
-        "why": "",
-        "summary": "",
-        "promoter": "",
-        "price": "$10",
-        "tags": [],
+        "address": "500 Divisadero St, San Francisco, CA 94117",
+        "why": "A NYC disco import known for sets alongside DJ Harvey and James Murphy, in Madrone's small room",
+        "summary": "Motel Club NYC brings New York disco DJ Timo Lee to Madrone Art Bar's intimate room for a late-night set; the promoters note tickets are usually gone by 10:30pm.",
+        "promoter": "Motel Club",
+        "price": "$20",
+        "tags": [
+          "disco",
+          "house",
+          "nightclub"
+        ],
         "sources": [
           "https://ra.co/events/2520972"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://www.eventbrite.com/e/lets-go-disco-madrone-art-bar-tickets-1998922916252"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Madrone%20Art%20Bar%2C%20San%20Francisco",
           "apple": "https://maps.apple.com/?q=Madrone%20Art%20Bar%2C%20San%20Francisco"
@@ -4971,8 +4977,14 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
-        "active": true
+        "enriched": 1,
+        "active": true,
+        "lineup": [
+          {
+            "name": "Timo Lee",
+            "instagram": null
+          }
+        ]
       },
       {
         "id": "2026-09-21-music-lou-mise-en-place-rhodeo-49f9e1",
