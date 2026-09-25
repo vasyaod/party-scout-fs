@@ -499,18 +499,23 @@
         "time": "",
         "start": null,
         "end": null,
-        "area": "",
+        "area": "SF",
         "venue": "San Francisco Bay Area",
         "address": "",
-        "why": "",
-        "summary": "",
-        "promoter": "",
-        "price": "",
-        "tags": [],
+        "why": "A recurring sponsored ISP listing, not a live event — no venue, time, or ticketing to enrich.",
+        "summary": "Monkeybrains, a locally-run independent ISP founded in 1998, offers no-contract internet service across San Francisco and the Bay Area starting at $35/month.",
+        "promoter": "Monkeybrains",
+        "price": "$35",
+        "tags": [
+          "sponsored",
+          "internet-service"
+        ],
         "sources": [
           "https://sf.funcheap.com/35-for-locally-run-independent-internet-service-sf-bay-area/"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://www.monkeybrains.net/"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=San%20Francisco%20Bay%20Area",
           "apple": "https://maps.apple.com/?q=San%20Francisco%20Bay%20Area"
@@ -521,7 +526,7 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
