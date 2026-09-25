@@ -5,28 +5,34 @@
   "location": "San Francisco & Bay Area",
   "city": "san-francisco",
   "city_label": "San Francisco",
-  "generated_at": "2026-09-23",
+  "generated_at": "2026-09-24",
   "tracks": {
     "music": [
       {
         "id": "2026-10-12-music-age-of-sin-lonald-j-bandz-jasm-521230",
         "eid": "age-of-sin-lonald-j-band-6a93",
         "track": "music",
-        "category": "",
+        "category": "Techno",
         "name": "Age Of Sin: Lonald J. Bandz, Jasmine Infiniti, Del, Aralia",
         "day": "Wed",
         "date": "2026-10-14",
-        "time": "",
-        "start": null,
-        "end": null,
-        "area": "SF",
+        "time": "8pm–12am",
+        "start": "20:00",
+        "end": "00:00",
+        "area": "Mission",
         "venue": "El Rio",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "3158 Mission St, San Francisco, CA 94110",
+        "why": "A debut techno/ballroom night built around Jasmine Infiniti's genre-bending sets",
+        "summary": "Debut club night at El Rio pairing bass/ballroom-techno DJ Jasmine Infiniti with Lonald J. Bandz, Del and Aralia for a late-week underground session.",
         "promoter": "",
         "price": "$10",
-        "tags": [],
+        "tags": [
+          "techno",
+          "ballroom",
+          "bass",
+          "queer",
+          "PWYC"
+        ],
         "sources": [
           "https://ra.co/events/2524819"
         ],
@@ -41,8 +47,26 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
-        "active": true
+        "enriched": 1,
+        "active": true,
+        "lineup": [
+          {
+            "name": "Lonald J. Bandz",
+            "instagram": null
+          },
+          {
+            "name": "Jasmine Infiniti",
+            "instagram": null
+          },
+          {
+            "name": "Del",
+            "instagram": null
+          },
+          {
+            "name": "Aralia",
+            "instagram": null
+          }
+        ]
       },
       {
         "id": "2026-10-12-music-lost-kings-f4da7d",
