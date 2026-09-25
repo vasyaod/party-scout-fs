@@ -4009,23 +4009,30 @@
         "id": "2026-10-05-music-pnk-party-d871f4",
         "eid": "pnk-party-7382",
         "track": "music",
-        "category": "",
+        "category": "House",
         "name": "Pnk Party",
         "day": "Sat",
         "date": "2026-10-10",
-        "time": "",
-        "start": null,
+        "time": "9pm",
+        "start": "21:00",
         "end": null,
-        "area": "San Francisco",
+        "area": "SoMa",
         "venue": "The Foundry",
-        "address": "",
-        "why": "",
-        "summary": "",
-        "promoter": "",
+        "address": "1425 Folsom St, San Francisco, CA 94103",
+        "why": "Miami's PNK Records makes its Northern California debut with a lineup built for a full night out",
+        "summary": "Miami's PNK Records brings its signature PNK Party to San Francisco for the first time, headlined by Slamm and Gio Lucca with support from Reed Hickman and PNG.",
+        "promoter": "PNK Records",
         "price": "",
-        "tags": [],
-        "sources": [],
-        "tickets": [],
+        "tags": [
+          "house",
+          "dance"
+        ],
+        "sources": [
+          "https://www.eventbrite.com/e/pnk-party-the-foundry-sf-debut-tickets-1998994775184"
+        ],
+        "tickets": [
+          "https://www.eventbrite.com/e/pnk-party-the-foundry-sf-debut-tickets-1998994775184"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=The%20Foundry%2C%20San%20Francisco",
           "apple": "https://maps.apple.com/?q=The%20Foundry%2C%20San%20Francisco"
@@ -4036,8 +4043,26 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
-        "active": true
+        "enriched": 1,
+        "active": true,
+        "lineup": [
+          {
+            "name": "Slamm",
+            "instagram": null
+          },
+          {
+            "name": "Gio Lucca",
+            "instagram": null
+          },
+          {
+            "name": "Reed Hickman",
+            "instagram": null
+          },
+          {
+            "name": "PNG",
+            "instagram": null
+          }
+        ]
       },
       {
         "id": "2026-10-05-music-polo-pan-americas-tour-block-p-eb2df6",
