@@ -834,25 +834,32 @@
         "id": "2026-10-05-music-kyle-watson-360-e1f21d",
         "eid": "kyle-watson-360-ec09",
         "track": "music",
-        "category": "",
+        "category": "House",
         "name": "Kyle Watson 360",
         "day": "Fri",
         "date": "2026-10-09",
-        "time": "",
-        "start": null,
+        "time": "10:00 PM",
+        "start": "22:00",
         "end": null,
-        "area": "LA",
+        "area": "DTLA",
         "venue": "Exchange",
-        "address": "",
-        "why": "",
-        "summary": "",
-        "promoter": "",
-        "price": "$15",
-        "tags": [],
-        "sources": [
-          "https://www.tixr.com/groups/exchangela/events/kyle-watson-360-200843"
+        "address": "618 S. Spring Street, Los Angeles, CA 90014",
+        "why": "Exchange LA's immersive 360° room hosts touring house DJ Kyle Watson with a stacked support lineup, 21+.",
+        "summary": "Kyle Watson headlines Exchange LA's 360° stage with support from TRACE, No Static, and Miller for a night of house and tech house.",
+        "promoter": "Exchange LA",
+        "price": "$19.95",
+        "tags": [
+          "house",
+          "tech house",
+          "21+"
         ],
-        "tickets": [],
+        "sources": [
+          "https://www.tixr.com/groups/exchangela/events/kyle-watson-360-200843",
+          "https://exchangela.com/event/kyle-watson-house-dj-music-concert-show-tonight-tomorrow-2026-october-9-best-night-club-near-me-los-angeles/"
+        ],
+        "tickets": [
+          "https://www.ticketweb.com/event/kyle-watson-360-exchange-la-tickets/14991793"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Exchange%2C%20LA",
           "apple": "https://maps.apple.com/?q=Exchange%2C%20LA"
@@ -863,8 +870,9 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
-        "active": true
+        "enriched": 1,
+        "active": true,
+        "lineup": []
       },
       {
         "id": "2026-10-05-music-lights-down-low-feat-ben-ufo-b-701b3e",
