@@ -5613,23 +5613,33 @@
         "id": "2026-09-28-music-emei-fd0952",
         "eid": "emei-797a",
         "track": "music",
-        "category": "",
+        "category": "concert",
         "name": "Emei",
         "day": "Wed",
         "date": "2026-09-30",
-        "time": "",
-        "start": null,
+        "time": "8:00 PM",
+        "start": "20:00",
         "end": null,
-        "area": "SF",
+        "area": "North Beach",
         "venue": "",
-        "address": "",
-        "why": "",
-        "summary": "",
-        "promoter": "",
+        "address": "1025 Columbus Ave, San Francisco, CA 94133",
+        "why": "A rare intimate club date from the viral pop songwriter behind \"Late Bloomer\" and \"Gaslight,\" in one of SF's classic small venues.",
+        "summary": "Singer-songwriter Emei headlines Bimbo's 365 Club in North Beach, doors at 8pm.",
+        "promoter": "Bimbo's 365 Club",
         "price": "",
-        "tags": [],
-        "sources": [],
-        "tickets": [],
+        "tags": [
+          "pop",
+          "singer-songwriter",
+          "indoor"
+        ],
+        "sources": [
+          "https://www.songkick.com/concerts/43181956-emei-at-bimbos-365-club",
+          "https://www.ticketmaster.com/emei-tickets/artist/3037918"
+        ],
+        "tickets": [
+          "https://www.ticketweb.com",
+          "https://seatgeek.com/emei-tickets/san-francisco-california-bimbos-365-club-2026-09-30-8-pm/concert/18217226"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=SF",
           "apple": "https://maps.apple.com/?q=SF"
@@ -5640,7 +5650,7 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
