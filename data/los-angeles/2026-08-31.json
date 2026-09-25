@@ -5,7 +5,7 @@
   "location": "Los Angeles & SoCal",
   "city": "los-angeles",
   "city_label": "Los Angeles",
-  "generated_at": "2026-08-31",
+  "generated_at": "2026-09-25",
   "tracks": {
     "music": [
       {
@@ -1594,25 +1594,35 @@
         "id": "2026-08-31-music-afrobeats-day-party-beverly-hi-1b157d",
         "eid": "afrobeats-day-party-beve-4ad8",
         "track": "music",
-        "category": "",
+        "category": "Afrobeats",
         "name": "Afrobeats Day Party ( Beverly Hills ) LABOR DAY WEEKEND",
         "day": "Sun",
         "date": "2026-09-06",
-        "time": "15:00",
-        "start": null,
-        "end": null,
-        "area": "LA",
+        "time": "15:00-21:00",
+        "start": "15:00",
+        "end": "21:00",
+        "area": "Beverly Hills",
         "venue": "Sofitel Hotel Beverly Hills",
-        "address": "",
-        "why": "",
-        "summary": "",
-        "promoter": "",
-        "price": "",
-        "tags": [],
-        "sources": [
-          "https://ra.co/events/2496153"
+        "address": "8555 Beverly Blvd, Los Angeles, CA 90048",
+        "why": "The afrobeats day-party crowd, not another techno line.",
+        "summary": "A Labor Day Weekend Sunday day party at the Sofitel in Beverly Hills spanning afrobeats, dancehall, reggae and amapiano, 21+, tickets from $23.",
+        "promoter": "Enjoyment Worldwide",
+        "price": "$23+",
+        "tags": [
+          "afrobeats",
+          "dancehall",
+          "reggae",
+          "amapiano",
+          "daytime",
+          "21+"
         ],
-        "tickets": [],
+        "sources": [
+          "https://ra.co/events/2496153",
+          "https://www.eventbrite.com/e/afrobeats-day-party-beverly-hills-labor-day-wknd-rodeo-edition-tickets-1993620944913"
+        ],
+        "tickets": [
+          "https://www.eventbrite.com/e/afrobeats-day-party-beverly-hills-labor-day-wknd-rodeo-edition-tickets-1993620944913"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Sofitel%20Hotel%20Beverly%20Hills%2C%20LA",
           "apple": "https://maps.apple.com/?q=Sofitel%20Hotel%20Beverly%20Hills%2C%20LA"
@@ -1629,7 +1639,7 @@
         "image_generated": false,
         "popularity": 0,
         "active": true,
-        "enriched": 0
+        "enriched": 1
       },
       {
         "id": "2026-08-31-music-classmatic-goosey-41950c",
