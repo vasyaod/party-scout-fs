@@ -1420,23 +1420,31 @@
         "id": "2026-10-12-music-the-dogs-a0b27d",
         "eid": "the-dogs-cd67",
         "track": "music",
-        "category": "",
+        "category": "Punk",
         "name": "The Dogs",
         "day": "Sat",
         "date": "2026-10-17",
-        "time": "",
-        "start": null,
+        "time": "8pm",
+        "start": "20:00",
         "end": null,
-        "area": "",
+        "area": "DTLA",
         "venue": "The Redwood Bar And Grill",
-        "address": "",
-        "why": "",
-        "summary": "",
-        "promoter": "",
-        "price": "",
-        "tags": [],
-        "sources": [],
-        "tickets": [],
+        "address": "316 W 2nd St, Los Angeles, CA 90012",
+        "why": "A rare live set from proto-punk originals The Dogs, active since the late 1960s, in the Redwood Bar's dive-punk room.",
+        "summary": "Legendary LA/Detroit proto-punk band The Dogs headline the Redwood Bar with support from LA Slumlords and Nico Bones, presented by In Fuzz We Trust.",
+        "promoter": "In Fuzz We Trust",
+        "price": "$14.64",
+        "tags": [
+          "punk",
+          "proto-punk",
+          "rock"
+        ],
+        "sources": [
+          "https://theredwoodbar.com/events.html"
+        ],
+        "tickets": [
+          "https://www.eventbrite.com/e/in-fuzz-we-trust-presents-the-dogs-at-the-redwood-bar-october-17th-tickets-1997921642415"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=The%20Redwood%20Bar%20And%20Grill",
           "apple": "https://maps.apple.com/?q=The%20Redwood%20Bar%20And%20Grill"
@@ -1447,8 +1455,22 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
-        "active": true
+        "enriched": 1,
+        "active": true,
+        "lineup": [
+          {
+            "name": "The Dogs",
+            "instagram": null
+          },
+          {
+            "name": "LA Slumlords",
+            "instagram": null
+          },
+          {
+            "name": "Nico Bones",
+            "instagram": null
+          }
+        ]
       },
       {
         "id": "2026-10-12-music-flex-in-the-buff-los-angeles-8c0ec2",
