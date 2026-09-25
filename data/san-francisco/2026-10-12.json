@@ -534,21 +534,28 @@
         "name": "Juno, Vann Essa, Thalia",
         "day": "Fri",
         "date": "2026-10-16",
-        "time": "",
-        "start": null,
-        "end": null,
-        "area": "SF",
+        "time": "9:30pm–2am",
+        "start": "21:30",
+        "end": "02:00",
+        "area": "SoMa",
         "venue": "Audio",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "316 11th St, San Francisco, CA 94103",
+        "why": "Late-night house lineup at Audio SF's intimate SoMa room.",
+        "summary": "Juno headlines Audio SF with support from Vann Essa and Thalia for a late-night house set in SoMa.",
         "promoter": "",
         "price": "$17-44",
-        "tags": [],
-        "sources": [
-          "https://ra.co/events/2516209"
+        "tags": [
+          "house",
+          "nightclub",
+          "late-night"
         ],
-        "tickets": [],
+        "sources": [
+          "https://ra.co/events/2516209",
+          "https://www.eventbrite.com/e/juno-tickets-1998394584999"
+        ],
+        "tickets": [
+          "https://www.eventbrite.com/e/juno-tickets-1998394584999"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Audio%2C%20SF",
           "apple": "https://maps.apple.com/?q=Audio%2C%20SF"
@@ -559,8 +566,22 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
-        "active": true
+        "enriched": 1,
+        "active": true,
+        "lineup": [
+          {
+            "name": "Juno",
+            "instagram": null
+          },
+          {
+            "name": "Vann Essa",
+            "instagram": null
+          },
+          {
+            "name": "Thalia",
+            "instagram": null
+          }
+        ]
       },
       {
         "id": "2026-10-12-music-nomadz-x-darna-cd22dc",
