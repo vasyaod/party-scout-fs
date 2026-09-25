@@ -2044,7 +2044,7 @@
         "id": "2026-10-05-sports-long-beach-marathon-ae6722",
         "eid": "long-beach-marathon-9ec0",
         "track": "sports",
-        "category": "",
+        "category": "Marathon",
         "name": "Long Beach Marathon",
         "day": "Sat",
         "date": "2026-10-10",
@@ -2052,17 +2052,27 @@
         "start": null,
         "end": null,
         "area": "Long Beach",
-        "venue": "",
-        "address": "",
-        "why": "",
-        "summary": "",
-        "promoter": "",
-        "price": "",
-        "tags": [],
-        "sources": [
-          "https://www.runguides.com/los-angeles/runs/marathon/all"
+        "venue": "Downtown Long Beach",
+        "address": "Long Beach, CA",
+        "why": "26.2 flat coastal miles past the Queen Mary and Belmont Shore, plus a Finish Line Festival",
+        "summary": "The 2XU Long Beach Marathon weekend (Oct 10-11, 2026) runs a flat, scenic course past the Queen Mary, Shoreline Village and Belmont Shore, finishing on Ocean Boulevard; the marathon and half marathon start Sunday Oct 11 at 5:30am and 6:30am, with the Aquarium of the Pacific 5K on Saturday Oct 10.",
+        "promoter": "2XU Long Beach Marathon",
+        "price": "$99–189",
+        "tags": [
+          "running",
+          "marathon",
+          "half-marathon",
+          "5k",
+          "outdoor"
         ],
-        "tickets": [],
+        "sources": [
+          "https://www.runguides.com/los-angeles/runs/marathon/all",
+          "https://www.runlongbeach.com/marathon",
+          "https://www.visitlongbeach.com/blog/long-beach-marathon/"
+        ],
+        "tickets": [
+          "https://www.runlongbeach.com/"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Long%20Beach",
           "apple": "https://maps.apple.com/?q=Long%20Beach"
@@ -2073,7 +2083,7 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       }
     ]
