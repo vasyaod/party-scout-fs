@@ -1622,7 +1622,7 @@
         "end": "15:00",
         "area": "Danville",
         "venue": "Crush'd Wine Bar",
-        "address": "",
+        "address": "312 Railroad Ave, Ste B, Danville, CA 94526",
         "why": "Third Danville edition of a recurring R&B day party, one seating only rather than an open-ended crowd",
         "summary": "DJ Heartbreak's The R&B Brunch returns to Crush'd Wine Bar in Danville for a single three-hour seating of R&B records.",
         "promoter": "The R&B Brunch Bay Area",
@@ -1633,9 +1633,12 @@
           "danville"
         ],
         "sources": [
-          "https://www.instagram.com/p/DcRoLP8yLxp/"
+          "https://www.instagram.com/p/DcRoLP8yLxp/",
+          "https://www.eventbrite.com/e/the-rb-brunch-with-dj-heartbreak-danville-tickets-1998389247033"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://www.eventbrite.com/e/the-rb-brunch-with-dj-heartbreak-danville-tickets-1998389247033"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Crush%27d%20Wine%20Bar%2C%20Danville%2C%20CA",
           "apple": "https://maps.apple.com/?q=Crush%27d%20Wine%20Bar%2C%20Danville%2C%20CA"
@@ -1646,8 +1649,14 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
-        "active": true
+        "enriched": 1,
+        "active": true,
+        "lineup": [
+          {
+            "name": "DJ HEARTBREAK",
+            "instagram": null
+          }
+        ]
       },
       {
         "id": "2026-09-07-music-late-night-clubbing-075-246238",
