@@ -5557,25 +5557,33 @@
         "id": "2026-09-07-music-lucy-dacus-with-the-hollywood-fd5a28",
         "eid": "lucy-dacus-with-the-holl-aec2",
         "track": "music",
-        "category": "",
+        "category": "Indie/Orchestral",
         "name": "Lucy Dacus with the Hollywood Bowl Orchestra / Cat Power performing The Greatest / KCRW Festival",
         "day": "Sun",
         "date": "2026-09-13",
         "time": "7:00pm",
         "start": "19:00",
         "end": null,
-        "area": "Los Angeles",
+        "area": "Hollywood",
         "venue": "Hollywood Bowl",
-        "address": "",
-        "why": "",
-        "summary": "",
-        "promoter": "",
+        "address": "2301 N Highland Ave, Los Angeles, CA 90068",
+        "why": "A rare full-orchestra reimagining of Dacus's catalog paired with Cat Power playing The Greatest start to finish.",
+        "summary": "Lucy Dacus performs songs from Forever is a Feeling with the full Hollywood Bowl Orchestra, with Cat Power opening with a complete performance of her 2006 album The Greatest, as part of KCRW's Festival at the Bowl series.",
+        "promoter": "KCRW",
         "price": "",
-        "tags": [],
-        "sources": [
-          "https://www.hollywoodbowl.com/events/performances"
+        "tags": [
+          "indie",
+          "orchestral",
+          "kcrw"
         ],
-        "tickets": [],
+        "sources": [
+          "https://www.hollywoodbowl.com/events/performances",
+          "https://www.hollywoodbowl.com/events/performances/4341/2026-09-13/lucy-dacus-with-the-hollywood-bowl-orchestra",
+          "https://www.kcrw.com/events/kcrw-festival-at-the-bowl-lucy-dacus-with-the-hollywood-bowl-orchestra-cat-power-w-host-raul-campos"
+        ],
+        "tickets": [
+          "https://www.hollywoodbowl.com/events/performances/4341/2026-09-13/lucy-dacus-with-the-hollywood-bowl-orchestra"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Hollywood%20Bowl%2C%20Los%20Angeles",
           "apple": "https://maps.apple.com/?q=Hollywood%20Bowl%2C%20Los%20Angeles"
@@ -5586,8 +5594,18 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
-        "active": true
+        "enriched": 1,
+        "active": true,
+        "lineup": [
+          {
+            "name": "Lucy Dacus",
+            "instagram": null
+          },
+          {
+            "name": "Cat Power",
+            "instagram": null
+          }
+        ]
       },
       {
         "id": "2026-09-07-music-mezza-2-in-collab-w-le-frique-577b44",
