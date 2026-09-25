@@ -3279,25 +3279,34 @@
         "id": "2026-10-12-sports-cal-tri-5k-10k-los-angeles-b9822c",
         "eid": "cal-tri-5k-10k-los-angel-ce29",
         "track": "sports",
-        "category": "",
+        "category": "Running",
         "name": "Cal Tri 5k, 10k Los Angeles",
         "day": "Sun",
         "date": "2026-10-18",
-        "time": "",
-        "start": null,
+        "time": "8:00 AM",
+        "start": "08:00",
         "end": null,
-        "area": "",
+        "area": "Playa Del Rey",
         "venue": "Los Angeles",
-        "address": "",
-        "why": "",
-        "summary": "",
-        "promoter": "",
-        "price": "",
-        "tags": [],
-        "sources": [
-          "https://www.runguides.com/los-angeles/runs"
+        "address": "Dockweiler State Beach, Parking Lot 2, Playa Del Rey, CA 90293",
+        "why": "Beachfront run at Dockweiler State Beach as part of the 2026 Cal Tri LA multisport event.",
+        "summary": "Standalone 5K and 10K running events held alongside the Cal Tri LA triathlon at Dockweiler State Beach.",
+        "promoter": "Cal Tri",
+        "price": "$43.86",
+        "tags": [
+          "running",
+          "5k",
+          "10k",
+          "beach"
         ],
-        "tickets": [],
+        "sources": [
+          "https://www.runguides.com/los-angeles/runs",
+          "https://www.fleetfeet.com/races/ca/playa-del-rey/69215-2026-cal-tri-la-10-18-26",
+          "https://www.letsdothis.com/us/e/2026-cal-tri-la-101826-201012"
+        ],
+        "tickets": [
+          "https://runsignup.com/Race/CA/PlayaDelRey/2019TrickorTri"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Los%20Angeles",
           "apple": "https://maps.apple.com/?q=Los%20Angeles"
@@ -3308,7 +3317,7 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
