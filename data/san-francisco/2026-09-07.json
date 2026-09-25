@@ -1039,28 +1039,35 @@
         "id": "2026-09-07-music-free-levi-s-plaza-outdoor-palo-48d396",
         "eid": "free-levi-s-plaza-outdoo-add0",
         "track": "music",
-        "category": "",
+        "category": "Festival",
         "name": "Free Levi’s Plaza Outdoor “Palooza Festival” w/ Ruby Ibarra (SF)",
         "day": "Sat",
         "date": "2026-09-12",
-        "time": "",
-        "start": null,
-        "end": null,
-        "area": "San Francisco",
+        "time": "11am–4pm",
+        "start": "11:00",
+        "end": "16:00",
+        "area": "SF",
         "venue": "Levi's Plaza",
-        "address": "",
-        "why": "",
-        "summary": "",
-        "promoter": "",
+        "address": "1155 Battery St, San Francisco, CA 94111",
+        "why": "Free daytime block party with a rare Ruby Ibarra set and a Levi's sample sale on the side",
+        "summary": "A free outdoor festival at Levi's Plaza with live music from Ruby Ibarra, Red Lotus and Afterthought, plus a local vendor market, food from Xica, and face painting.",
+        "promoter": "Levi's Plaza",
         "price": "Free",
         "tags": [
           "free",
           "outdoor",
           "daytime",
-          "block-party"
+          "block-party",
+          "festival",
+          "hip-hop"
         ],
-        "sources": [],
-        "tickets": [],
+        "sources": [
+          "https://sf.funcheap.com/free-levis-plaza-outdoor-palooza-festival-ruby-ibarra-sf/",
+          "https://www.eventbrite.com/e/plaza-palooza-festival-tickets-1990530241536"
+        ],
+        "tickets": [
+          "https://www.eventbrite.com/e/plaza-palooza-festival-tickets-1990530241536"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Levi%27s%20Plaza%2C%20San%20Francisco",
           "apple": "https://maps.apple.com/?q=Levi%27s%20Plaza%2C%20San%20Francisco"
@@ -1071,8 +1078,22 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
-        "active": true
+        "enriched": 1,
+        "active": true,
+        "lineup": [
+          {
+            "name": "Ruby Ibarra",
+            "instagram": null
+          },
+          {
+            "name": "Red Lotus",
+            "instagram": null
+          },
+          {
+            "name": "Afterthought",
+            "instagram": null
+          }
+        ]
       },
       {
         "id": "2026-09-07-music-joshwa-d5efbe",
