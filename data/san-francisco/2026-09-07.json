@@ -238,14 +238,14 @@
         "name": "Beats Antique",
         "day": "Fri",
         "date": "2026-09-11",
-        "time": "",
-        "start": null,
+        "time": "7pm",
+        "start": "19:00",
         "end": null,
         "area": "Sacramento",
         "venue": "Ace Of Spades",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "1417 R St, Sacramento, CA 95811",
+        "why": "World-fusion trio's theatrical live show blends bass, brass and performance art",
+        "summary": "Beats Antique bring their genre-blending Metamorphosis Tour to Ace of Spades in Sacramento, fusing tribal rhythms, glitch-hop and live performance art, with support from Roni Kaspi.",
         "promoter": "",
         "price": "$38",
         "tags": [
@@ -253,12 +253,19 @@
           "hip-hop",
           "downtempo",
           "tribal",
-          "dubstep"
+          "dubstep",
+          "world-fusion",
+          "live-band"
         ],
         "sources": [
-          "https://www.ticketmaster.com/event/1C0064ABC1A44D22"
+          "https://www.ticketmaster.com/event/1C0064ABC1A44D22",
+          "https://www.ticketmaster.com/beats-antique-sacramento-california-09-11-2026/event/1C0064ABC1A44D22",
+          "https://www.songkick.com/concerts/43212356-beats-antique-at-ace-of-spades",
+          "https://www.livenation.com/event/G5vYZ_1Rvt7Vx/beats-antique"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://www.ticketmaster.com/beats-antique-sacramento-california-09-11-2026/event/1C0064ABC1A44D22"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Ace%20Of%20Spades%2C%20Sacramento",
           "apple": "https://maps.apple.com/?q=Ace%20Of%20Spades%2C%20Sacramento"
@@ -269,8 +276,18 @@
         "image": "https://party-scout.app/img/gen/beats-antique-00d7.jpg",
         "image_generated": true,
         "popularity": 0,
-        "enriched": 0,
-        "active": true
+        "enriched": 1,
+        "active": true,
+        "lineup": [
+          {
+            "name": "Beats Antique",
+            "instagram": null
+          },
+          {
+            "name": "Roni Kaspi",
+            "instagram": null
+          }
+        ]
       },
       {
         "id": "2026-09-07-music-byorn-e5d7d6",
