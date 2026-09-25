@@ -800,25 +800,32 @@
         "id": "2026-09-28-music-flight-club-adult-flight-night-bd5d7c",
         "eid": "flight-club-adult-flight-7ef2",
         "track": "music",
-        "category": "",
+        "category": "Adults Only",
         "name": "Flight Club: Adult Flight Night for Ages 18+ at \"House of Air\" Trampoline Park (SF)",
         "day": "Thu",
         "date": "2026-10-01",
-        "time": "",
-        "start": null,
-        "end": null,
-        "area": "",
+        "time": "7-9pm",
+        "start": "19:00",
+        "end": "21:00",
+        "area": "Presidio",
         "venue": "San Francisco Bay Area",
-        "address": "",
-        "why": "",
-        "summary": "",
-        "promoter": "",
-        "price": "",
-        "tags": [],
+        "address": "926 Old Mason Street, San Francisco, CA 94129",
+        "why": "Adults-only trampoline park night with a bar, in a historic Presidio airplane hangar",
+        "summary": "An 18+ takeover of House of Air's Presidio trampoline park with 70+ trampolines and jump zones, plus a lounge with beer, wine, and snacks for sale.",
+        "promoter": "House of Air",
+        "price": "$20",
+        "tags": [
+          "adults-only",
+          "trampoline",
+          "presidio",
+          "nightlife"
+        ],
         "sources": [
           "https://sf.funcheap.com/flight-club-adult-flight-night-for-ages-18-at-house-of-air-trampoline-park-sf-58/"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://houseofair.com/san-francisco/programs/adults/"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=San%20Francisco%20Bay%20Area",
           "apple": "https://maps.apple.com/?q=San%20Francisco%20Bay%20Area"
@@ -829,7 +836,7 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
