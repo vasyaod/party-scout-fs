@@ -4436,25 +4436,33 @@
         "id": "2026-09-28-music-coffee-party-jauny-bravo-91b69b",
         "eid": "coffee-party-jauny-bravo-60dd",
         "track": "music",
-        "category": "",
+        "category": "House",
         "name": "Coffee Party: Jauny Bravo",
         "day": "Sat",
         "date": "2026-10-03",
-        "time": "",
-        "start": null,
+        "time": "4pm",
+        "start": "16:00",
         "end": null,
-        "area": "",
-        "venue": "Myth (San Jose)",
-        "address": "",
-        "why": "",
-        "summary": "",
-        "promoter": "",
-        "price": "",
-        "tags": [],
+        "area": "San Jose",
+        "venue": "Myth Dayclub",
+        "address": "152 Post St, San Jose, CA",
+        "why": "A coffee-meets-house sundowner that eases from afternoon chill into evening dancefloor energy",
+        "summary": "Brew & House SF's daytime 'sundowner' event blends specialty coffee with Afro House and Latin-infused rhythms, headlined by Juany Bravo, transitioning from afternoon hangout into evening dancing.",
+        "promoter": "Brew & House SF",
+        "price": "$17",
+        "tags": [
+          "house",
+          "afro-house",
+          "latin",
+          "daytime",
+          "coffee"
+        ],
         "sources": [
           "https://avenueticket.com/event/brew-house-san-jose-ft-juany-bravo?t=linktree"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://avenueticket.com/event/brew-house-san-jose-ft-juany-bravo?t=linktree"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Myth%20%28San%20Jose%29",
           "apple": "https://maps.apple.com/?q=Myth%20%28San%20Jose%29"
@@ -4465,8 +4473,14 @@
         "image": "https://party-scout.app/img/gen/coffee-party-jauny-bravo-60dd.jpg",
         "image_generated": true,
         "popularity": 0,
-        "enriched": 1,
-        "active": true
+        "enriched": 2,
+        "active": true,
+        "lineup": [
+          {
+            "name": "Juany Bravo",
+            "instagram": null
+          }
+        ]
       },
       {
         "id": "2026-09-28-music-dj-dave-db52f4",
