@@ -901,25 +901,33 @@
         "id": "2026-10-12-music-raaginder-ea4255",
         "eid": "raaginder-beaf",
         "track": "music",
-        "category": "",
+        "category": "Indian-fusion",
         "name": "Raaginder",
         "day": "Sun",
         "date": "2026-10-18",
-        "time": "",
-        "start": null,
+        "time": "7:30pm doors, 8pm show",
+        "start": "20:00",
         "end": null,
         "area": "SF",
         "venue": "The Independent",
-        "address": "",
-        "why": "",
-        "summary": "",
-        "promoter": "",
+        "address": "628 Divisadero St, San Francisco, CA 94117",
+        "why": "A raga-trained violinist fusing Indian classical with R&B/hip hop, live at an intimate SF room",
+        "summary": "Bay Area violinist Raaginder blends Indian classical raga tradition with R&B, pop and hip hop, bringing that genre-crossing sound to The Independent with support from Minz.",
+        "promoter": "Another Planet Entertainment",
         "price": "$36",
-        "tags": [],
+        "tags": [
+          "indian-fusion",
+          "violin",
+          "r&b",
+          "all-ages"
+        ],
         "sources": [
+          "https://www.ticketweb.com/event/id/14264794",
+          "https://apeconcerts.com/events/raaginder-261018/"
+        ],
+        "tickets": [
           "https://www.ticketweb.com/event/id/14264794"
         ],
-        "tickets": [],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=The%20Independent%2C%20SF",
           "apple": "https://maps.apple.com/?q=The%20Independent%2C%20SF"
@@ -930,8 +938,18 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
-        "active": true
+        "enriched": 1,
+        "active": true,
+        "lineup": [
+          {
+            "name": "Raaginder",
+            "instagram": null
+          },
+          {
+            "name": "Minz",
+            "instagram": null
+          }
+        ]
       },
       {
         "id": "2026-10-12-music-summer-day-party-series-ee04ed",
