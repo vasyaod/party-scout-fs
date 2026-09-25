@@ -3235,25 +3235,33 @@
         "id": "2026-10-12-sports-beverly-hills-run-of-the-stars-b8b689",
         "eid": "beverly-hills-run-of-the-b296",
         "track": "sports",
-        "category": "",
+        "category": "5K Run/Walk",
         "name": "Beverly Hills Run of the Stars",
         "day": "Sun",
         "date": "2026-10-18",
-        "time": "",
-        "start": null,
+        "time": "8:30am",
+        "start": "08:30",
         "end": null,
-        "area": "",
+        "area": "Beverly Hills",
         "venue": "Beverly Hills",
-        "address": "",
-        "why": "",
-        "summary": "",
-        "promoter": "",
-        "price": "",
-        "tags": [],
-        "sources": [
-          "https://www.runningintheusa.com/race/list/los%20angeles-county-ca/october"
+        "address": "605 Whittier Dr, Beverly Hills, CA 90210",
+        "why": "A charity 5K supporting Not Today Cancer's pediatric cancer research, with a scenic Beverly Hills route and a virtual run-anywhere option.",
+        "summary": "A 5K run/walk and 1K kids race through the flat, scenic streets of Beverly Hills, starting and finishing at El Rodeo Elementary, benefiting pediatric cancer research.",
+        "promoter": "Not Today Cancer Foundation",
+        "price": "$27.50-$47.64",
+        "tags": [
+          "run",
+          "5k",
+          "charity",
+          "family"
         ],
-        "tickets": [],
+        "sources": [
+          "https://www.runningintheusa.com/race/list/los%20angeles-county-ca/october",
+          "https://runsignup.com/Race/CA/BeverlyHills/STARS5K"
+        ],
+        "tickets": [
+          "https://runsignup.com/Race/CA/BeverlyHills/STARS5K"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Beverly%20Hills",
           "apple": "https://maps.apple.com/?q=Beverly%20Hills"
@@ -3264,7 +3272,7 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
