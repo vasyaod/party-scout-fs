@@ -914,7 +914,7 @@
         "id": "2026-09-14-music-stargaze-ladymonix-junior-deve-512c40",
         "eid": "stargaze-ladymonix-junio-763e",
         "track": "music",
-        "category": "",
+        "category": "House",
         "name": "Stargaze: Ladymonix, Junior DeVega",
         "day": "Thu",
         "date": "2026-09-17",
@@ -923,13 +923,19 @@
         "end": null,
         "area": "Sacramento",
         "venue": "Legend Has It",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "410 L St, Sacramento, CA 95814",
+        "why": "Detroit house heavyweight Ladymonix on the decks at Sacramento's hi-fi listening bar",
+        "summary": "Stargaze brings Detroit house DJ and producer Ladymonix together with Junior DeVega for a vinyl-driven house set at Legend Has It, Sacramento's hi-fi listening bar.",
         "promoter": "",
         "price": "",
-        "tags": [],
-        "sources": [],
+        "tags": [
+          "house",
+          "vinyl",
+          "hi-fi"
+        ],
+        "sources": [
+          "https://www.legendhasithifi.com/events"
+        ],
         "tickets": [],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Legend%20Has%20It%2C%20Sacramento",
@@ -941,8 +947,18 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
-        "active": true
+        "enriched": 1,
+        "active": true,
+        "lineup": [
+          {
+            "name": "Ladymonix",
+            "instagram": null
+          },
+          {
+            "name": "Junior DeVega",
+            "instagram": null
+          }
+        ]
       },
       {
         "id": "2026-09-14-music-ame-innervisions-dj-rodriguez-6ff9e4",
