@@ -5,7 +5,7 @@
   "location": "San Francisco & Bay Area",
   "city": "san-francisco",
   "city_label": "San Francisco",
-  "generated_at": "2026-09-23",
+  "generated_at": "2026-09-25",
   "tracks": {
     "music": [
       {
@@ -369,23 +369,33 @@
         "id": "2026-09-14-music-1984-c6f04f",
         "eid": "1984-980d",
         "track": "music",
-        "category": "",
+        "category": "80s Night",
         "name": "1984",
         "day": "Thu",
         "date": "2026-09-17",
-        "time": "",
-        "start": null,
-        "end": null,
-        "area": "San Francisco",
+        "time": "9pm-2am, no cover",
+        "start": "21:00",
+        "end": "02:00",
+        "area": "SoMa",
         "venue": "Cat Club",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "1190 Folsom St, San Francisco, CA 94103",
+        "why": "A Bay Area 80s-night staple with two distinct rooms of programming and no cover, running every Thursday at the Cat Club.",
+        "summary": "Cat Club's long-running weekly 80s night, free every Thursday, with a Front Room spinning 80s pop, rock and one-hit wonders and a Back Room devoted to underground 80s, goth, industrial and synth-pop.",
         "promoter": "",
-        "price": "",
-        "tags": [],
+        "price": "Free",
+        "tags": [
+          "80s",
+          "goth",
+          "new-wave",
+          "synth-pop",
+          "dance-party",
+          "free"
+        ],
         "sources": [
-          "https://www.sfcatclub.com/"
+          "https://www.sfcatclub.com/",
+          "https://www.sfcatclub.com/calendar/ymp4cekk5sb4y8x-chwt8",
+          "https://www.eventbrite.com/e/1984-at-cat-club-every-thursday-tickets-1231768585999",
+          "https://sf.funcheap.com/event-series/1984-cat-club-sf/"
         ],
         "tickets": [],
         "maps": {
@@ -398,8 +408,22 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
-        "active": true
+        "enriched": 1,
+        "active": true,
+        "lineup": [
+          {
+            "name": "Damon (Gossip)",
+            "instagram": null
+          },
+          {
+            "name": "Mr. Washington (Yo Mamma's Basement)",
+            "instagram": null
+          },
+          {
+            "name": "Dangerous Dan",
+            "instagram": null
+          }
+        ]
       },
       {
         "id": "2026-09-14-music-after-dark-industrial-dance-pa-8c7fa6",
