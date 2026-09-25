@@ -5475,23 +5475,33 @@
         "id": "2026-09-28-music-chat-pile-e9b268",
         "eid": "chat-pile-9d95",
         "track": "music",
-        "category": "",
+        "category": "Metal",
         "name": "Chat Pile",
         "day": "Wed",
         "date": "2026-09-30",
-        "time": "",
-        "start": null,
+        "time": "7:30pm",
+        "start": "19:30",
         "end": null,
         "area": "SF",
-        "venue": "",
-        "address": "",
-        "why": "",
-        "summary": "",
-        "promoter": "",
+        "venue": "The Regency Ballroom",
+        "address": "1300 Van Ness Ave, San Francisco, CA 94109",
+        "why": "Oklahoma sludge-noise heavyweights bring their crushing live show to the Regency Ballroom",
+        "summary": "Chat Pile headline the Regency Ballroom on their Who Loves The Sun Tour, with support from Soul Glo and Virga, bringing their sludge metal and noise rock sound to San Francisco.",
+        "promoter": "Goldenvoice Presents",
         "price": "",
-        "tags": [],
-        "sources": [],
-        "tickets": [],
+        "tags": [
+          "metal",
+          "sludge",
+          "noise-rock",
+          "punk"
+        ],
+        "sources": [
+          "https://www.songkick.com/concerts/43259375-chat-pile-at-regency-ballroom",
+          "https://www.theregencyballroom.com/venue-info/"
+        ],
+        "tickets": [
+          "https://www.axs.com/events/1477938/chat-pile-tickets"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=SF",
           "apple": "https://maps.apple.com/?q=SF"
@@ -5502,8 +5512,22 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
-        "active": true
+        "enriched": 1,
+        "active": true,
+        "lineup": [
+          {
+            "name": "Chat Pile",
+            "instagram": null
+          },
+          {
+            "name": "Soul Glo",
+            "instagram": null
+          },
+          {
+            "name": "Virga",
+            "instagram": null
+          }
+        ]
       },
       {
         "id": "2026-09-28-music-cult-strange-vague-lanes-the-i-62e2a4",
