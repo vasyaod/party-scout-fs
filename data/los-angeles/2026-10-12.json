@@ -349,21 +349,27 @@
         "name": "Romance Planet",
         "day": "Thu",
         "date": "2026-10-15",
-        "time": "",
-        "start": null,
+        "time": "8:00 PM",
+        "start": "20:00",
         "end": null,
-        "area": "",
+        "area": "West Hollywood",
         "venue": "The Roxy (Los Angeles)",
-        "address": "",
-        "why": "",
-        "summary": "",
-        "promoter": "",
-        "price": "",
-        "tags": [],
-        "sources": [
-          "https://www.axs.com/events/1489915"
+        "address": "9009 West Sunset Blvd, West Hollywood, CA 90069",
+        "why": "A rare intimate Roxy set from Romance Planet on their current tour.",
+        "summary": "Romance Planet plays a headline show at The Roxy Theatre on the Sunset Strip, part of a short North American run that also stops in Denver and Toronto.",
+        "promoter": "Goldenvoice",
+        "price": "$122",
+        "tags": [
+          "all-ages"
         ],
-        "tickets": [],
+        "sources": [
+          "https://www.axs.com/events/1489915",
+          "https://www.axs.com/events/1489915/romance-planet-tickets",
+          "https://www.jambase.com/show/romanceplanet-the-roxy-theatre-20261015"
+        ],
+        "tickets": [
+          "https://www.axs.com/events/1489915/romance-planet-tickets"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=The%20Roxy%20%28Los%20Angeles%29",
           "apple": "https://maps.apple.com/?q=The%20Roxy%20%28Los%20Angeles%29"
@@ -374,7 +380,7 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
