@@ -884,18 +884,21 @@
         "name": "Matthew Thomas",
         "day": "Fri",
         "date": "2026-10-16",
-        "time": "",
-        "start": null,
-        "end": null,
-        "area": "",
+        "time": "6pm-12am",
+        "start": "18:00",
+        "end": "00:00",
+        "area": "DTLA",
         "venue": "The Redwood Bar And Grill",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "316 W 2nd St, Los Angeles, CA 90012",
+        "why": "A cheap, low-key downtown bar show with two acts for a $10 cover.",
+        "summary": "Matthew Thomas headlines a night of live music at the pirate-themed Redwood Bar and Grill in downtown LA, with support from Elle Beyer.",
         "promoter": "",
-        "price": "",
+        "price": "$10",
         "tags": [],
-        "sources": [],
+        "sources": [
+          "https://theredwoodbar.com/events.html",
+          "https://ra.co/events/2524747"
+        ],
         "tickets": [],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=The%20Redwood%20Bar%20And%20Grill",
@@ -907,8 +910,18 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
-        "active": true
+        "enriched": 1,
+        "active": true,
+        "lineup": [
+          {
+            "name": "Matthew Thomas",
+            "instagram": null
+          },
+          {
+            "name": "Elle Beyer",
+            "instagram": null
+          }
+        ]
       },
       {
         "id": "2026-10-12-music-miami-horror-f76f14",
