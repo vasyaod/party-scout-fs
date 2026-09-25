@@ -1732,7 +1732,7 @@
         "id": "2026-10-05-music-sunday-sessions-la-vinyl-only-f80dda",
         "eid": "sunday-sessions-la-vinyl-0112",
         "track": "music",
-        "category": "",
+        "category": "House",
         "name": "Sunday Sessions LA (Vinyl Only) Open Air: Luke, Krane",
         "day": "Sun",
         "date": "2026-10-11",
@@ -1742,15 +1742,23 @@
         "area": "LA",
         "venue": "TBA",
         "address": "",
-        "why": "",
-        "summary": "",
-        "promoter": "",
+        "why": "Vinyl-only open-air session from LA's biggest all-vinyl series, featuring Luke and Krane.",
+        "summary": "Sunday Sessions' vinyl-only open-air series returns October 11 with a set from Luke and Krane; the organizer's own site still lists the venue as TBA.",
+        "promoter": "Sunday Sessions",
         "price": "Free-$34",
-        "tags": [],
-        "sources": [
-          "https://ra.co/events/2537847"
+        "tags": [
+          "vinyl",
+          "house",
+          "outdoor",
+          "open-air"
         ],
-        "tickets": [],
+        "sources": [
+          "https://ra.co/events/2537847",
+          "https://www.sundaysessions.la/events"
+        ],
+        "tickets": [
+          "https://shotgun.live/events/sunday-sessions-la-08-24-94"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=LA",
           "apple": "https://maps.apple.com/?q=LA"
@@ -1761,8 +1769,18 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
-        "active": true
+        "enriched": 1,
+        "active": true,
+        "lineup": [
+          {
+            "name": "Luke",
+            "instagram": null
+          },
+          {
+            "name": "Krane",
+            "instagram": null
+          }
+        ]
       },
       {
         "id": "2026-10-05-music-aaron-paar-darone-sassounian-s-6ea83e",
