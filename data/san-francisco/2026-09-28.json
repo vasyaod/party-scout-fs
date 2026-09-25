@@ -4913,23 +4913,34 @@
         "id": "2026-09-28-music-laundry-day-82dae9",
         "eid": "laundry-day-9847",
         "track": "music",
-        "category": "",
+        "category": "Rock",
         "name": "Laundry Day",
         "day": "Tue",
         "date": "2026-09-29",
-        "time": "",
-        "start": null,
+        "time": "Doors 7pm, show 8pm",
+        "start": "19:00",
         "end": null,
-        "area": "SF",
-        "venue": "",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "area": "Berkeley",
+        "venue": "Cornerstone",
+        "address": "2367 Shattuck Ave, Berkeley, CA 94704",
+        "why": "NYC rock band Laundry Day headlines The Larger Than LIFE Tour at Cornerstone, all ages",
+        "summary": "Laundry Day, a rock 'n' roll band from New York City, brings The Larger Than LIFE Tour to Cornerstone in Berkeley with support from 10xTANTRUM. General admission, standing room only, all ages.",
         "promoter": "",
         "price": "",
-        "tags": [],
-        "sources": [],
-        "tickets": [],
+        "tags": [
+          "rock",
+          "indie-rock",
+          "all-ages",
+          "tour"
+        ],
+        "sources": [
+          "https://www.prekindle.com/event/39588-laundry-day-berkeley",
+          "https://cornerstoneberkeley.com/events",
+          "https://www.jambase.com/show/laundry-day-cornerstone-20260929"
+        ],
+        "tickets": [
+          "https://www.prekindle.com/event/39588-laundry-day-berkeley"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=SF",
           "apple": "https://maps.apple.com/?q=SF"
@@ -4940,8 +4951,18 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
-        "active": true
+        "enriched": 1,
+        "active": true,
+        "lineup": [
+          {
+            "name": "Laundry Day",
+            "instagram": null
+          },
+          {
+            "name": "10xTANTRUM",
+            "instagram": null
+          }
+        ]
       },
       {
         "id": "2026-09-28-music-the-quiet-men-greg-hoy-the-boy-fbc8a1",
