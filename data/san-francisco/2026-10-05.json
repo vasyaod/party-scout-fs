@@ -5681,22 +5681,31 @@
         "id": "2026-10-05-sports-windmill-10k-04976a",
         "eid": "windmill-10k-dbb2",
         "track": "sports",
-        "category": "",
+        "category": "Running",
         "name": "Windmill 10K",
         "day": "Sun",
         "date": "2026-10-11",
-        "time": "",
-        "start": null,
+        "time": "9am",
+        "start": "09:00",
         "end": null,
-        "area": "",
-        "venue": "San Francisco",
-        "address": "",
-        "why": "",
-        "summary": "",
-        "promoter": "",
+        "area": "SF",
+        "venue": "Golden Gate Park (Queen Wilhelmina Windmill, JFK Drive)",
+        "address": "JFK Drive & Great Highway, San Francisco, CA 94121",
+        "why": "A scenic park out-and-back past the historic Dutch windmill, with free parking and finisher ribbons.",
+        "summary": "An out-and-back 10K along JFK Drive in Golden Gate Park, starting and finishing near the Queen Wilhelmina (Dutch) Windmill, with a gradual uphill-to-flat first half and downhill-to-flat second half.",
+        "promoter": "DSE Runners",
         "price": "",
-        "tags": [],
-        "sources": [],
+        "tags": [
+          "running",
+          "10k",
+          "golden-gate-park",
+          "outdoor",
+          "daytime"
+        ],
+        "sources": [
+          "https://www.active.com/san-francisco-ca/running/distance-running-races/windmill-10k-2026-109750635",
+          "https://www.dserunners.com"
+        ],
         "tickets": [],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=San%20Francisco",
@@ -5708,7 +5717,7 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       }
     ]
