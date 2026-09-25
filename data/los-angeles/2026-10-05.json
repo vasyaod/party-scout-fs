@@ -1268,25 +1268,33 @@
         "id": "2026-10-05-music-tinlicker-e86bd6",
         "eid": "tinlicker-f5d4",
         "track": "music",
-        "category": "",
+        "category": "Electronic",
         "name": "Tinlicker",
         "day": "Fri",
         "date": "2026-10-09",
-        "time": "",
-        "start": null,
+        "time": "7pm doors, 8pm show",
+        "start": "19:00",
         "end": null,
-        "area": "LA",
+        "area": "Koreatown",
         "venue": "The Wiltern",
-        "address": "",
-        "why": "",
-        "summary": "",
-        "promoter": "",
+        "address": "3790 Wilshire Blvd, Los Angeles, CA 90010",
+        "why": "Dutch melodic-techno duo Tinlicker headlines the Art Deco Wiltern with support from Helsloot",
+        "summary": "Tinlicker brings their North America 2026 tour to The Wiltern, with fellow Dutch producer Helsloot opening.",
+        "promoter": "Live Nation",
         "price": "$48",
-        "tags": [],
+        "tags": [
+          "electronic",
+          "melodic-techno",
+          "progressive-house"
+        ],
         "sources": [
+          "https://www.ticketmaster.com/tinlicker-north-america-2026-los-angeles-california-10-09-2026/event/09006490AB107C05",
+          "https://www.livenation.com/event/vv1AaZk38Gkel76YA/tinlicker-north-america-2026",
+          "https://www.songkick.com/concerts/43167468-tinlicker-at-wiltern"
+        ],
+        "tickets": [
           "https://www.ticketmaster.com/tinlicker-north-america-2026-los-angeles-california-10-09-2026/event/09006490AB107C05"
         ],
-        "tickets": [],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=The%20Wiltern%2C%20LA",
           "apple": "https://maps.apple.com/?q=The%20Wiltern%2C%20LA"
@@ -1297,8 +1305,18 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
-        "active": true
+        "enriched": 1,
+        "active": true,
+        "lineup": [
+          {
+            "name": "Tinlicker",
+            "instagram": null
+          },
+          {
+            "name": "Helsloot",
+            "instagram": null
+          }
+        ]
       },
       {
         "id": "2026-10-05-music-marques-wyatt-b2b-doc-martin-a-ffd8d5",
