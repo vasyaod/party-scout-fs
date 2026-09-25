@@ -5369,23 +5369,32 @@
         "id": "2026-09-28-music-cardinals-9c5159",
         "eid": "cardinals-3793",
         "track": "music",
-        "category": "",
+        "category": "Rock",
         "name": "Cardinals",
         "day": "Wed",
         "date": "2026-09-30",
-        "time": "",
-        "start": null,
+        "time": "7pm doors / 8pm show",
+        "start": "20:00",
         "end": null,
-        "area": "SF",
-        "venue": "",
-        "address": "",
-        "why": "",
-        "summary": "",
-        "promoter": "",
-        "price": "",
-        "tags": [],
-        "sources": [],
-        "tickets": [],
+        "area": "Berkeley",
+        "venue": "Cornerstone",
+        "address": "2367 Shattuck Ave, Berkeley, CA 94704",
+        "why": "A stop on Cardinals' North American tour, days after San Diego and West Hollywood dates",
+        "summary": "Rock band Cardinals play an all-ages show at Berkeley's Cornerstone with support from Misfire SD, doors at 7pm.",
+        "promoter": "Cornerstone",
+        "price": "$60",
+        "tags": [
+          "rock",
+          "all-ages",
+          "general-admission"
+        ],
+        "sources": [
+          "https://www.prekindle.com/event/32762-cardinals-berkeley",
+          "https://www.songkick.com/artists/221050-cardinals/calendar"
+        ],
+        "tickets": [
+          "https://www.prekindle.com/event/32762-cardinals-berkeley"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=SF",
           "apple": "https://maps.apple.com/?q=SF"
@@ -5396,8 +5405,18 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
-        "active": true
+        "enriched": 1,
+        "active": true,
+        "lineup": [
+          {
+            "name": "Cardinals",
+            "instagram": null
+          },
+          {
+            "name": "Misfire SD",
+            "instagram": null
+          }
+        ]
       },
       {
         "id": "2026-09-28-music-chasing-abbey-b3b676",
