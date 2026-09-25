@@ -5,7 +5,7 @@
   "location": "San Francisco & Bay Area",
   "city": "san-francisco",
   "city_label": "San Francisco",
-  "generated_at": "2026-09-24",
+  "generated_at": "2026-09-25",
   "tracks": {
     "music": [
       {
@@ -1375,25 +1375,34 @@
         "id": "2026-10-12-sports-diplo-s-run-club-san-francisco-3fa791",
         "eid": "diplo-s-run-club-san-fra-769b",
         "track": "sports",
-        "category": "",
+        "category": "Run Club",
         "name": "Diplo's Run Club San Francisco",
         "day": "Sun",
         "date": "2026-10-18",
-        "time": "",
-        "start": null,
-        "end": null,
+        "time": "8:30am–1pm",
+        "start": "08:30",
+        "end": "13:00",
         "area": "SF",
-        "venue": "",
-        "address": "",
-        "why": "",
-        "summary": "",
-        "promoter": "",
-        "price": "",
-        "tags": [],
-        "sources": [
-          "https://runningintheusa.com/race/list/san%20francisco-ca/all-dates"
+        "venue": "Golden Gate Park - Robin Williams Meadow",
+        "address": "Robin Williams Meadow, JFK Promenade & Kezar Dr, San Francisco, CA",
+        "why": "5K fun run through Golden Gate Park that ends in a live Diplo concert",
+        "summary": "Diplo's Run Club returns to San Francisco for its third Bay Area edition: a 5K fun run through Golden Gate Park followed by a post-race festival with sets from Jax Jones and Diplo.",
+        "promoter": "Diplo's Run Club",
+        "price": "$118-206",
+        "tags": [
+          "run club",
+          "5k",
+          "outdoor",
+          "festival",
+          "golden gate park"
         ],
-        "tickets": [],
+        "sources": [
+          "https://runningintheusa.com/race/list/san%20francisco-ca/all-dates",
+          "https://diplosrunclub.com/san-francisco"
+        ],
+        "tickets": [
+          "https://www.letsdothis.com/us/e/diplos-run-club-san-francisco-230716"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=SF",
           "apple": "https://maps.apple.com/?q=SF"
@@ -1404,7 +1413,7 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
