@@ -1684,25 +1684,31 @@
         "id": "2026-10-05-music-woo-york-live-01e8ec",
         "eid": "woo-york-live-3062",
         "track": "music",
-        "category": "",
+        "category": "Techno",
         "name": "Woo York [Live]",
         "day": "Sat",
         "date": "2026-10-10",
-        "time": "",
-        "start": null,
-        "end": null,
-        "area": "LA",
+        "time": "10pm–3am",
+        "start": "22:00",
+        "end": "03:00",
+        "area": "North Hollywood",
         "venue": "Community Berlin",
-        "address": "",
-        "why": "",
-        "summary": "",
-        "promoter": "",
+        "address": "11819 Sherman Way, North Hollywood, CA 91605",
+        "why": "A rare live (not DJ) set from Woo York, known for releases on Afterlife, Drumcode and Innervisions.",
+        "summary": "Ukrainian duo Woo York bring their signature live set to Community Berlin, building original productions in real time on drum machines and synths rather than DJing a tracklist.",
+        "promoter": "SET Underground",
         "price": "$31-70",
-        "tags": [],
+        "tags": [
+          "techno",
+          "live",
+          "underground"
+        ],
         "sources": [
           "https://www.eventbrite.com/e/set-with-woo-york-live-los-angeles-tickets-1998306373155"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://www.eventbrite.com/e/set-with-woo-york-live-los-angeles-tickets-1998306373155"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Community%20Berlin%2C%20LA",
           "apple": "https://maps.apple.com/?q=Community%20Berlin%2C%20LA"
@@ -1713,8 +1719,14 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
-        "active": true
+        "enriched": 1,
+        "active": true,
+        "lineup": [
+          {
+            "name": "Woo York",
+            "instagram": null
+          }
+        ]
       },
       {
         "id": "2026-10-05-music-sunday-sessions-la-vinyl-only-f80dda",
