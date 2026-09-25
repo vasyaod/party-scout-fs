@@ -173,25 +173,36 @@
         "id": "2026-10-12-music-queen-out-in-the-castro-90fd2a",
         "eid": "queen-out-in-the-castro-6fb2",
         "track": "music",
-        "category": "",
+        "category": "Hyperpop/Jersey Club",
         "name": "Queen Out In The Castro",
         "day": "Thu",
         "date": "2026-10-15",
-        "time": "",
-        "start": null,
-        "end": null,
+        "time": "9:00pm-2am",
+        "start": "21:00",
+        "end": "02:00",
         "area": "SF",
         "venue": "The Cafe",
-        "address": "",
-        "why": "",
-        "summary": "",
-        "promoter": "",
+        "address": "2369 Market St, San Francisco, CA 94114",
+        "why": "UNIIQU3 headlines a high-energy queer rave from SF collective Queen Out at the iconic Castro nightclub The Cafe.",
+        "summary": "Queen Out returns to The Cafe in the Castro with a queer rave lineup headlined by UNIIQU3, plus Azure and 4dhila spinning hyperpop, Jersey club and baile funk.",
+        "promoter": "Queen Out",
         "price": "$15-35",
-        "tags": [],
+        "tags": [
+          "queer",
+          "rave",
+          "hyperpop",
+          "jersey-club",
+          "baile-funk",
+          "castro"
+        ],
         "sources": [
+          "https://shotgun.live/events/queen-out-w-uniiqu3",
+          "https://ra.co/events/2372793",
+          "https://lets.queenout.com/p/shows"
+        ],
+        "tickets": [
           "https://shotgun.live/events/queen-out-w-uniiqu3"
         ],
-        "tickets": [],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=The%20Cafe%2C%20SF",
           "apple": "https://maps.apple.com/?q=The%20Cafe%2C%20SF"
@@ -202,8 +213,22 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
-        "active": true
+        "enriched": 1,
+        "active": true,
+        "lineup": [
+          {
+            "name": "UNIIQU3",
+            "instagram": null
+          },
+          {
+            "name": "Azure",
+            "instagram": null
+          },
+          {
+            "name": "4dhila",
+            "instagram": null
+          }
+        ]
       },
       {
         "id": "2026-10-12-music-actress-414250",
