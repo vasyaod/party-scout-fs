@@ -1352,25 +1352,36 @@
         "id": "2026-10-12-sports-presidio-wall-5k-2f532c",
         "eid": "presidio-wall-5k-3bd6",
         "track": "sports",
-        "category": "",
+        "category": "Running",
         "name": "Presidio Wall 5K",
         "day": "Sun",
         "date": "2026-10-18",
-        "time": "",
-        "start": null,
+        "time": "8am check-in, 9am start",
+        "start": "09:00",
         "end": null,
         "area": "SF",
         "venue": "Presidio",
-        "address": "",
-        "why": "",
-        "summary": "",
-        "promoter": "",
+        "address": "Presidio Wall Playground, West Pacific Ave & Spruce St, San Francisco, CA 94129",
+        "why": "A scenic, low-key trail 5K through the Presidio with a killer finishing uphill, run by the local DSE Runners club.",
+        "summary": "A DSE Runners off-road 5K looping through the Presidio's sand, grass, and wood-chip trails, starting and finishing at the Presidio Wall Playground lawn.",
+        "promoter": "DSE Runners",
         "price": "",
-        "tags": [],
-        "sources": [
-          "https://runningintheusa.com/race/list/san%20francisco-ca/all-dates"
+        "tags": [
+          "running",
+          "5k",
+          "outdoor",
+          "trail",
+          "presidio"
         ],
-        "tickets": [],
+        "sources": [
+          "https://runningintheusa.com/race/list/san%20francisco-ca/all-dates",
+          "https://dserunners.com/event/presidio-wall-5k-off-road-4/",
+          "https://www.active.com/san-francisco-ca/running/distance-running-races/presidio-wall-5k-2026-109750642",
+          "https://www.runningintheusa.com/race/list/san%20francisco-ca/all-dates"
+        ],
+        "tickets": [
+          "https://www.active.com/san-francisco-ca/running/distance-running-races/presidio-wall-5k-2026-109750642"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Presidio%2C%20SF",
           "apple": "https://maps.apple.com/?q=Presidio%2C%20SF"
@@ -1381,7 +1392,7 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
