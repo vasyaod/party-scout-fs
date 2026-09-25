@@ -1015,7 +1015,7 @@
         "id": "2026-10-05-music-riddim-reign-day-1-94352b",
         "eid": "riddim-reign-day-1-98d3",
         "track": "music",
-        "category": "",
+        "category": "Bass",
         "name": "Riddim Reign (Day 1)",
         "day": "Fri",
         "date": "2026-10-09",
@@ -1025,15 +1025,23 @@
         "area": "DTLA",
         "venue": "TBA",
         "address": "",
-        "why": "",
-        "summary": "",
-        "promoter": "",
-        "price": "$10-20",
-        "tags": [],
+        "why": "An all-female bass lineup you won't find elsewhere, with proceeds going to breast cancer research.",
+        "summary": "California's first all-female riddim lineup, presented by Secret Tunnel with proceeds benefiting The Breast Cancer Research Foundation.",
+        "promoter": "Secret Tunnel (XIHILO Events)",
+        "price": "$11-16",
+        "tags": [
+          "riddim",
+          "bass",
+          "dubstep",
+          "all-female-lineup",
+          "21+"
+        ],
         "sources": [
           "https://www.secrettunnel.app/event/6a8fdfc34f31858645cfd3c3/selectTickets"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://www.secrettunnel.app/event/6a8fdfc34f31858645cfd3c3/selectTickets"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=DTLA",
           "apple": "https://maps.apple.com/?q=DTLA"
@@ -1044,8 +1052,14 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
-        "active": true
+        "enriched": 1,
+        "active": true,
+        "lineup": [
+          {
+            "name": "Deadgirl",
+            "instagram": null
+          }
+        ]
       },
       {
         "id": "2026-10-05-music-roddy-lima-102a4f",
