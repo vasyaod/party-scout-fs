@@ -826,25 +826,33 @@
         "id": "2026-10-12-music-jazzy-f51670",
         "eid": "jazzy-08a3",
         "track": "music",
-        "category": "",
+        "category": "House",
         "name": "Jazzy",
         "day": "Fri",
         "date": "2026-10-16",
-        "time": "",
-        "start": null,
+        "time": "10pm",
+        "start": "22:00",
         "end": null,
-        "area": "",
+        "area": "Hollywood",
         "venue": "Sound Nightclub (Los Angeles)",
-        "address": "",
-        "why": "",
-        "summary": "",
-        "promoter": "",
-        "price": "",
-        "tags": [],
-        "sources": [
-          "https://dice.fm/event/xeo7ga-jazzy-16th-oct-sound-nightclub-los-angeles-tickets"
+        "address": "1642 N Las Palmas Ave, Los Angeles, CA 90028",
+        "why": "A 2x BRIT and Ivor Novello-nominated DJ/vocalist headlining an intimate Hollywood club",
+        "summary": "Jazzy, the Dublin-born DJ/vocalist behind chart-topping hits \"Giving Me\" and \"Make Me Feel Good,\" plays a late-night house and progressive set at Sound Nightclub.",
+        "promoter": "Sound Nightclub",
+        "price": "$44",
+        "tags": [
+          "house",
+          "progressive",
+          "dance"
         ],
-        "tickets": [],
+        "sources": [
+          "https://dice.fm/event/xeo7ga-jazzy-16th-oct-sound-nightclub-los-angeles-tickets",
+          "https://www.bandsintown.com/e/108488449-jazzy-at-sound-nightclub"
+        ],
+        "tickets": [
+          "https://dice.fm/event/xeo7ga-jazzy-16th-oct-sound-nightclub-los-angeles-tickets",
+          "https://www.axs.com/events/1481697/jazzy-tickets"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Sound%20Nightclub%20%28Los%20Angeles%29",
           "apple": "https://maps.apple.com/?q=Sound%20Nightclub%20%28Los%20Angeles%29"
@@ -855,8 +863,14 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
-        "active": true
+        "enriched": 1,
+        "active": true,
+        "lineup": [
+          {
+            "name": "Jazzy",
+            "instagram": null
+          }
+        ]
       },
       {
         "id": "2026-10-12-music-lewis-ofman-ba5be4",
