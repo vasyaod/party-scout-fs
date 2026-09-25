@@ -1865,23 +1865,33 @@
         "id": "2026-10-05-music-park-chalet-s-oktoberfest-w-oo-c90cbc",
         "eid": "park-chalet-s-oktoberfes-e636",
         "track": "music",
-        "category": "",
+        "category": "Oktoberfest",
         "name": "Park Chalet's Oktoberfest w/ Oompa Band + Stein Contest (Golden Gate Park)",
         "day": "Fri",
         "date": "2026-10-09",
-        "time": "",
-        "start": null,
-        "end": null,
-        "area": "",
+        "time": "6:00 PM - 9:00 PM",
+        "start": "18:00",
+        "end": "21:00",
+        "area": "Outer Sunset",
         "venue": "Park Chalet",
-        "address": "",
-        "why": "",
-        "summary": "",
-        "promoter": "",
-        "price": "",
-        "tags": [],
-        "sources": [],
-        "tickets": [],
+        "address": "1000 Great Highway, San Francisco, CA 94121",
+        "why": "21+ oceanside Oktoberfest with live polka music, a stein-hold and costume contest, and Bavarian food and beer on tap.",
+        "summary": "Oktoberfest celebration at Park Chalet next to Golden Gate Park, with live Alpine polka band, a custom keepsake stein filled with fresh-brewed Oktoberfest beer, and a stein-holding and costume contest.",
+        "promoter": "Park Chalet",
+        "price": "$40",
+        "tags": [
+          "oktoberfest",
+          "beer",
+          "outdoor",
+          "live-music",
+          "costume-contest"
+        ],
+        "sources": [
+          "https://www.eventbrite.com/e/oktoberfest-at-park-chalet-tickets-1990532022864"
+        ],
+        "tickets": [
+          "https://www.eventbrite.com/e/oktoberfest-at-park-chalet-tickets-1990532022864"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Park%20Chalet",
           "apple": "https://maps.apple.com/?q=Park%20Chalet"
@@ -1892,8 +1902,14 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
-        "active": true
+        "enriched": 1,
+        "active": true,
+        "lineup": [
+          {
+            "name": "Alpine Sound Band",
+            "instagram": null
+          }
+        ]
       },
       {
         "id": "2026-10-05-music-pay-what-you-can-taco-day-at-s-2f0ab8",
