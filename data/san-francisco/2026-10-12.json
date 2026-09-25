@@ -1264,25 +1264,34 @@
         "id": "2026-10-12-sports-city-beer-runs-standard-devian-b00825",
         "eid": "city-beer-runs-standard-fcd7",
         "track": "sports",
-        "category": "",
+        "category": "Fun Run",
         "name": "City Beer Runs - Standard Deviant Brewing",
         "day": "Sun",
         "date": "2026-10-18",
-        "time": "",
-        "start": null,
-        "end": null,
+        "time": "11am–1:30pm",
+        "start": "11:00",
+        "end": "13:30",
         "area": "SF",
         "venue": "Standard Deviant Brewing",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "280 14th St, San Francisco, CA 94103",
+        "why": "A social 5K/10K with a post-race beer and raffle at a neighborhood brewery",
+        "summary": "A fully supported 5K or 10K fun run through San Francisco's Mission District, starting and ending at Standard Deviant Brewing with course marking, water stops, a race bib, and a post-race beer.",
         "promoter": "",
-        "price": "",
-        "tags": [],
-        "sources": [
-          "https://runningintheusa.com/race/list/san%20francisco-ca/all-dates"
+        "price": "$37",
+        "tags": [
+          "run",
+          "5k",
+          "10k",
+          "beer",
+          "social"
         ],
-        "tickets": [],
+        "sources": [
+          "https://runningintheusa.com/race/list/san%20francisco-ca/all-dates",
+          "https://www.citybeerruns.com/standard-deviant.html"
+        ],
+        "tickets": [
+          "https://sweattracker.com/Registration/CBR"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Standard%20Deviant%20Brewing%2C%20SF",
           "apple": "https://maps.apple.com/?q=Standard%20Deviant%20Brewing%2C%20SF"
@@ -1293,7 +1302,7 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
