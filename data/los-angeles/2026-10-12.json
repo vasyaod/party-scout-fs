@@ -5,7 +5,7 @@
   "location": "Los Angeles & SoCal",
   "city": "los-angeles",
   "city_label": "Los Angeles",
-  "generated_at": "2026-09-24",
+  "generated_at": "2026-09-25",
   "tracks": {
     "music": [
       {
@@ -1780,25 +1780,32 @@
         "id": "2026-10-12-music-kcrw-presents-thee-sinseers-lo-8e171f",
         "eid": "kcrw-presents-thee-sinse-d221",
         "track": "music",
-        "category": "",
+        "category": "Soul",
         "name": "KCRW Presents Thee Sinseers: Love Stories Tour",
         "day": "Sat",
         "date": "2026-10-17",
-        "time": "",
-        "start": null,
-        "end": null,
-        "area": "",
+        "time": "Doors 7pm, show 8pm",
+        "start": "19:00",
+        "end": "23:00",
+        "area": "Koreatown",
         "venue": "The Wiltern (Los Angeles)",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "3790 Wilshire Blvd, Los Angeles, CA 90010",
+        "why": "Homecoming stop for LA soul revivalists Thee Sinseers, backed by ska legends The Aggrolites",
+        "summary": "Thee Sinseers bring their Love Stories Tour home to The Wiltern, with retro-soul harmonies and a live band, joined by support act The Aggrolites.",
         "promoter": "",
         "price": "",
-        "tags": [],
-        "sources": [
-          "https://www.wiltern.com/shows"
+        "tags": [
+          "soul",
+          "retro-soul",
+          "live-band"
         ],
-        "tickets": [],
+        "sources": [
+          "https://www.wiltern.com/shows",
+          "https://www.kcrw.com/events-page/kcrw-presents"
+        ],
+        "tickets": [
+          "https://www.ticketmaster.com/thee-sinseers-love-stories-tour-los-angeles-california-10-17-2026/event/090064A7AA64CDC1"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=The%20Wiltern%20%28Los%20Angeles%29",
           "apple": "https://maps.apple.com/?q=The%20Wiltern%20%28Los%20Angeles%29"
@@ -1809,8 +1816,18 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
-        "active": true
+        "enriched": 1,
+        "active": true,
+        "lineup": [
+          {
+            "name": "Thee Sinseers",
+            "instagram": null
+          },
+          {
+            "name": "The Aggrolites",
+            "instagram": null
+          }
+        ]
       },
       {
         "id": "2026-10-12-music-oblivion-unofficial-atliens-af-470250",
