@@ -1474,25 +1474,32 @@
         "id": "2026-10-05-music-sam-alfred-ea0b9a",
         "eid": "sam-alfred-7879",
         "track": "music",
-        "category": "",
+        "category": "House",
         "name": "Sam Alfred",
         "day": "Sat",
         "date": "2026-10-10",
-        "time": "",
-        "start": null,
+        "time": "10pm",
+        "start": "22:00",
         "end": null,
         "area": "Hollywood",
         "venue": "Sound Nightclub",
-        "address": "",
-        "why": "",
-        "summary": "",
-        "promoter": "",
+        "address": "1642 N Las Palmas Ave, Los Angeles, CA 90028",
+        "why": "Rising Australian house/techno DJ headlining a rare late-night Hollywood club set",
+        "summary": "Sam Alfred takes over Sound Nightclub for a late-night set, bringing his house and techno selections and energetic mixes fresh off recent festival appearances.",
+        "promoter": "Sound Nightclub",
         "price": "$25",
-        "tags": [],
-        "sources": [
-          "https://www.facebook.com/events/1040514432161014/"
+        "tags": [
+          "house",
+          "techno",
+          "nightclub"
         ],
-        "tickets": [],
+        "sources": [
+          "https://www.facebook.com/events/1040514432161014/",
+          "https://dice.fm/event/2wqwrp-sam-alfred-10th-oct-sound-nightclub-los-angeles-tickets"
+        ],
+        "tickets": [
+          "https://dice.fm/event/2wqwrp-sam-alfred-10th-oct-sound-nightclub-los-angeles-tickets"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Sound%20Nightclub%2C%20Hollywood",
           "apple": "https://maps.apple.com/?q=Sound%20Nightclub%2C%20Hollywood"
@@ -1503,8 +1510,14 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
-        "active": true
+        "enriched": 1,
+        "active": true,
+        "lineup": [
+          {
+            "name": "Sam Alfred",
+            "instagram": null
+          }
+        ]
       },
       {
         "id": "2026-10-05-music-sirens-x-dx3-man-power-sonns-t-695698",
