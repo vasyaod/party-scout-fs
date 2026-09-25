@@ -146,25 +146,33 @@
         "id": "2026-10-12-music-cynthia-erivo-4bd8ec",
         "eid": "cynthia-erivo-4042",
         "track": "music",
-        "category": "",
+        "category": "concert",
         "name": "Cynthia Erivo",
         "day": "Thu",
         "date": "2026-10-15",
-        "time": "",
-        "start": null,
+        "time": "7:30 PM",
+        "start": "19:30",
         "end": null,
-        "area": "",
+        "area": "Hollywood",
         "venue": "Hollywood Bowl (Los Angeles)",
-        "address": "",
-        "why": "",
-        "summary": "",
-        "promoter": "",
+        "address": "2301 N Highland Ave, Los Angeles, CA 90068",
+        "why": "A rare solo showcase from the Tony/Grammy/Emmy-nominated star at one of LA's most iconic outdoor venues.",
+        "summary": "Cynthia Erivo returns to the Hollywood Bowl for a one-night-only solo headlining concert, \"Let Me Sing to You,\" gates open 6PM.",
+        "promoter": "Live Nation / Hewitt Silva",
         "price": "",
-        "tags": [],
-        "sources": [
-          "https://www.hollywoodbowl.com/events/performances"
+        "tags": [
+          "concert",
+          "vocal",
+          "hollywood-bowl"
         ],
-        "tickets": [],
+        "sources": [
+          "https://www.hollywoodbowl.com/events/performances",
+          "https://www.hollywoodbowl.com/events/performances/4891/2026-10-15/cynthia-erivo",
+          "https://www.broadwayworld.com/los-angeles/article/Cynthia-Erivo-to-Return-to-the-Hollywood-Bowl-in-October-20260511"
+        ],
+        "tickets": [
+          "https://www.ticketmaster.com/cynthia-erivo-let-me-sing-to-hollywood-california-10-15-2026/event/0B0064A783483613"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Hollywood%20Bowl%20%28Los%20Angeles%29",
           "apple": "https://maps.apple.com/?q=Hollywood%20Bowl%20%28Los%20Angeles%29"
@@ -175,7 +183,7 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
