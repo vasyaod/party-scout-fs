@@ -2380,18 +2380,22 @@
         "name": "The Scrub Jays",
         "day": "Sun",
         "date": "2026-10-18",
-        "time": "",
-        "start": null,
+        "time": "3pm doors",
+        "start": "15:00",
         "end": null,
-        "area": "",
+        "area": "DTLA",
         "venue": "The Redwood Bar And Grill",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "316 W 2nd St, Los Angeles, CA 90012",
+        "why": "A low-cost Sunday afternoon show at a DTLA dive-bar staple.",
+        "summary": "The Scrub Jays play a Sunday afternoon set at The Redwood Bar & Grill in Downtown LA, with doors at 3pm.",
         "promoter": "",
-        "price": "",
-        "tags": [],
-        "sources": [],
+        "price": "$10",
+        "tags": [
+          "live-music"
+        ],
+        "sources": [
+          "https://theredwoodbar.com/events.html"
+        ],
         "tickets": [],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=The%20Redwood%20Bar%20And%20Grill",
@@ -2403,8 +2407,14 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
-        "active": true
+        "enriched": 1,
+        "active": true,
+        "lineup": [
+          {
+            "name": "The Scrub Jays",
+            "instagram": "thescrubjays"
+          }
+        ]
       },
       {
         "id": "2026-10-12-music-sewerside-bombers-50c825",
