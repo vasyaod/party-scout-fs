@@ -5,7 +5,7 @@
   "location": "Los Angeles & SoCal",
   "city": "los-angeles",
   "city_label": "Los Angeles",
-  "generated_at": "2026-09-23",
+  "generated_at": "2026-09-24",
   "tracks": {
     "music": [
       {
@@ -2365,23 +2365,30 @@
         "id": "2026-10-12-sports-asp-social-run-monthly-potluck-0c9a4f",
         "eid": "asp-social-run-monthly-p-de4a",
         "track": "sports",
-        "category": "",
+        "category": "Running club",
         "name": "ASP Social Run & Monthly Potluck",
         "day": "Mon",
         "date": "2026-10-12",
-        "time": "",
-        "start": null,
+        "time": "6:00 PM",
+        "start": "18:00",
         "end": null,
-        "area": "",
+        "area": "Monrovia",
         "venue": "A Snail's Pace Running Shop (Los Angeles)",
-        "address": "",
-        "why": "",
-        "summary": "",
-        "promoter": "",
-        "price": "",
-        "tags": [],
+        "address": "750 S Myrtle Ave, Monrovia, CA 91016",
+        "why": "A free, all-levels community run club night with a potluck afterward — low-key way to meet other runners in the San Gabriel Valley.",
+        "summary": "Monthly potluck and social run out of A Snail's Pace Running Shop in Monrovia — a just-under-5-mile route open to all pace levels, followed by a bring-a-dish potluck with snacks and community hangout.",
+        "promoter": "A Snail's Pace Running Shop",
+        "price": "Free",
+        "tags": [
+          "running",
+          "free",
+          "community",
+          "potluck"
+        ],
         "sources": [
-          "https://www.meetup.com/find/us--ca--los-angeles/running/"
+          "https://www.meetup.com/find/us--ca--los-angeles/running/",
+          "https://shop.asnailspace.net/content/events",
+          "https://shop.asnailspace.net/content/weekly-runs"
         ],
         "tickets": [],
         "maps": {
@@ -2394,7 +2401,7 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
