@@ -1490,25 +1490,33 @@
         "id": "2026-08-17-music-hollywood-palladium-9adfd3",
         "eid": "hollywood-palladium-12c8",
         "track": "music",
-        "category": "",
+        "category": "Techno/Trance",
         "name": "Hollywood Palladium",
         "day": "Fri",
         "date": "2026-08-21",
-        "time": "10pm–11pm",
-        "start": "22:00",
-        "end": null,
-        "area": "Los Angeles",
+        "time": "8pm–1:30am",
+        "start": "20:00",
+        "end": "01:30",
+        "area": "Hollywood",
         "venue": "Hollywood Palladium",
-        "address": "6215 Sunset Blvd, West Hollywood, CA 90069",
-        "why": "",
-        "summary": "",
-        "promoter": "",
-        "price": "",
-        "tags": [],
-        "sources": [
-          "https://ra.co/events/2391675"
+        "address": "6215 Sunset Blvd, Los Angeles, CA 90028",
+        "why": "Maddix's Extatic Tour lands raved-up trance and techno at LA's biggest ballroom.",
+        "summary": "Dutch trance/techno act Maddix bring the Extatic Tour to the Hollywood Palladium for an Insomniac-produced night of big-room dance music.",
+        "promoter": "Insomniac",
+        "price": "$38",
+        "tags": [
+          "trance",
+          "techno",
+          "edm",
+          "tour"
         ],
-        "tickets": [],
+        "sources": [
+          "https://ra.co/events/2391675",
+          "https://www.insomniac.com/events/maddix-2026-08-21-los-angeles-ca/"
+        ],
+        "tickets": [
+          "https://www.ticketmaster.com/maddix-hollywood-california-08-21-2026/event/09006452F92BBD18"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Hollywood%20Palladium",
           "apple": "https://maps.apple.com/?q=Hollywood%20Palladium"
@@ -1527,7 +1535,13 @@
         "image_generated": true,
         "popularity": 0,
         "active": true,
-        "enriched": 0
+        "enriched": 1,
+        "lineup": [
+          {
+            "name": "Maddix",
+            "instagram": null
+          }
+        ]
       },
       {
         "id": "2026-08-17-music-incognito-and-dirty-epic-prese-0ff3ec",
