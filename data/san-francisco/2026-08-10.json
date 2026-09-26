@@ -5365,27 +5365,33 @@
         "id": "2026-08-10-music-hard-reset-5185de",
         "eid": "hard-reset-1dab",
         "track": "music",
-        "category": "",
+        "category": "House/Techno",
         "name": "Hard Reset",
         "day": "Sun",
         "date": "2026-08-16",
-        "time": "",
-        "start": null,
-        "end": null,
-        "area": "San Francisco",
+        "time": "10pm-2am",
+        "start": "22:00",
+        "end": "02:00",
+        "area": "Castro",
         "venue": "Qbar",
-        "address": "",
-        "why": "",
-        "summary": "",
-        "promoter": "",
-        "price": "21+",
+        "address": "456 Castro St #B, San Francisco, CA 94114",
+        "why": "Long-running weekly Sunday techno house/indie dance night at QBar",
+        "summary": "Hard Reset's weekly Sunday dance party at QBar in the Castro, spinning techno house and indie dance for a late-night crowd.",
+        "promoter": "Hard Reset",
+        "price": "$6 online",
         "tags": [
           "house",
           "indie dance",
-          "techno"
+          "techno",
+          "weekly",
+          "21+"
         ],
-        "sources": [],
-        "tickets": [],
+        "sources": [
+          "https://www.hardresetpresents.com"
+        ],
+        "tickets": [
+          "https://www.hardresetpresents.com"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Qbar%2C%20San%20Francisco",
           "apple": "https://maps.apple.com/?q=Qbar%2C%20San%20Francisco"
@@ -5397,7 +5403,7 @@
         "image_generated": false,
         "popularity": 0,
         "active": true,
-        "enriched": 0
+        "enriched": 1
       },
       {
         "id": "2026-08-10-music-hen-boogie-c7caa8",
