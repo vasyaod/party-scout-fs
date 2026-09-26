@@ -711,14 +711,14 @@
         "day": "Sun",
         "date": "2026-09-06",
         "time": "13:00–20:00",
-        "start": null,
-        "end": null,
-        "area": "LA",
+        "start": "13:00",
+        "end": "20:00",
+        "area": "West Hollywood",
         "venue": "White Rabbit Sky Lounge at The Valorian (Formerly Skybar at Mondrian)",
         "address": "8440 Sunset Blvd., Los Angeles, CA 90069",
         "why": "Sunday edition of the Sunset Strip pool party, different DJ lineup than Saturday's.",
-        "summary": "Summer Club LA returns to White Rabbit Sky Lounge for a Labor Day Sunday poolside afternoon with Chad Aroo, L3XI and Monika Starling.",
-        "promoter": "",
+        "summary": "Summer Club LA returns to White Rabbit Sky Lounge for a Labor Day Sunday poolside afternoon with Chad Aroo, L3XI and Monika Starling, plus live art, specialty cocktails and brand pop-ups.",
+        "promoter": "Summer Club LA",
         "price": "$15",
         "tags": [
           "house",
@@ -727,10 +727,12 @@
           "rooftop"
         ],
         "sources": [
-          "https://ra.co/events/2408879"
+          "https://ra.co/events/2408879",
+          "https://www.averagesocialite.com/la-events/2026/09/6/summer-club-labor-day-sunday-pool-party-la"
         ],
         "tickets": [
-          "https://ra.co/events/2408879"
+          "https://ra.co/events/2408879",
+          "https://www.eventbrite.com/e/labor-day-sunday-pool-party-white-rabbit-sky-lounge-tickets-1983999664404"
         ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=8440%20Sunset%20Blvd.%2C%20Los%20Angeles%2C%20CA%2090069",
@@ -751,7 +753,21 @@
         "image_generated": false,
         "popularity": 0,
         "active": true,
-        "enriched": 0
+        "enriched": 1,
+        "lineup": [
+          {
+            "name": "Chad Aroo",
+            "instagram": null
+          },
+          {
+            "name": "L3XI",
+            "instagram": null
+          },
+          {
+            "name": "Monika Starling",
+            "instagram": null
+          }
+        ]
       },
       {
         "id": "2026-08-31-music-mark-farina-boat-party-labor-d-50f562",
