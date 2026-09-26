@@ -1037,19 +1037,29 @@
         "name": "Boogie Nights",
         "day": "Fri",
         "date": "2026-08-21",
-        "time": "",
-        "start": null,
-        "end": null,
-        "area": "San Francisco",
+        "time": "10pm-2am",
+        "start": "22:00",
+        "end": "02:00",
+        "area": "North Beach",
         "venue": "Paname",
-        "address": "",
-        "why": "",
-        "summary": "",
-        "promoter": "",
+        "address": "523 Broadway, San Francisco, CA 94133",
+        "why": "A recurring Friday disco night at Paname's immersive club room in North Beach",
+        "summary": "Boogie Nights is Paname SF's weekly Friday disco and house party, running late into the night at the North Beach venue's Parisian-styled club.",
+        "promoter": "Paname SF",
         "price": "",
-        "tags": [],
-        "sources": [],
-        "tickets": [],
+        "tags": [
+          "disco",
+          "house",
+          "friday"
+        ],
+        "sources": [
+          "https://posh.vip/e/boogie-nights",
+          "https://www.eventbrite.com/e/boogie-nights-tickets-1994778419952"
+        ],
+        "tickets": [
+          "https://posh.vip/e/boogie-nights",
+          "https://www.eventbrite.com/e/boogie-nights-tickets-1994778419952"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Paname%2C%20San%20Francisco",
           "apple": "https://maps.apple.com/?q=Paname%2C%20San%20Francisco"
@@ -1061,7 +1071,7 @@
         "image_generated": true,
         "popularity": 0,
         "active": true,
-        "enriched": 0
+        "enriched": 1
       },
       {
         "id": "2026-08-17-music-clb-intrncnl-noche-de-perreo-2b7269",
