@@ -1502,22 +1502,31 @@
         "id": "2026-08-17-music-siete-catorce-sucia-travieza-b53dc2",
         "eid": "siete-catorce-sucia-trav-5250",
         "track": "music",
-        "category": "",
+        "category": "Rave",
         "name": "Siete Catorce, SUCIA!, TRAVIEZA",
         "day": "Fri",
         "date": "2026-08-21",
-        "time": "",
-        "start": null,
-        "end": null,
-        "area": "San Francisco",
+        "time": "10pm-4am",
+        "start": "22:00",
+        "end": "04:00",
+        "area": "SF",
         "venue": "TBA (secret location, released day-of)",
         "address": "",
-        "why": "",
-        "summary": "",
-        "promoter": "",
+        "why": "A LatAm-focused footwork/club lineup at a secret warehouse, revealed day-of.",
+        "summary": "Club Triste's end-of-summer warehouse rave spotlighting LatAm club and footwork artists, headlined by Mexico-based producer Siete Catorce alongside SUCIA!, TRAVIEZA, Mars Kasei, Rivussy and DJ Juanny.",
+        "promoter": "Club Triste",
         "price": "",
-        "tags": [],
-        "sources": [],
+        "tags": [
+          "rave",
+          "warehouse",
+          "secret-location",
+          "footwork",
+          "club",
+          "latam"
+        ],
+        "sources": [
+          "https://ra.co/events/2482683"
+        ],
         "tickets": [],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=San%20Francisco",
@@ -1530,7 +1539,33 @@
         "image_generated": true,
         "popularity": 0,
         "active": true,
-        "enriched": 0
+        "enriched": 1,
+        "lineup": [
+          {
+            "name": "Siete Catorce",
+            "instagram": null
+          },
+          {
+            "name": "SUCIA!",
+            "instagram": null
+          },
+          {
+            "name": "TRAVIEZA",
+            "instagram": null
+          },
+          {
+            "name": "Mars Kasei",
+            "instagram": null
+          },
+          {
+            "name": "Rivussy",
+            "instagram": null
+          },
+          {
+            "name": "DJ Juanny",
+            "instagram": null
+          }
+        ]
       },
       {
         "id": "2026-08-17-music-throttle-oguz-neux-softchaos-e84062",
