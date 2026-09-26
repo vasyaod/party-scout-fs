@@ -152,25 +152,30 @@
         "id": "2026-09-07-music-soft-as-snow-3a9d3a",
         "eid": "soft-as-snow-c3e4",
         "track": "music",
-        "category": "",
+        "category": "live music",
         "name": "Soft As Snow",
         "day": "Mon",
         "date": "2026-09-07",
-        "time": "",
-        "start": null,
+        "time": "7:00 PM",
+        "start": "19:00",
         "end": null,
-        "area": "Los Angeles",
+        "area": "Atwater Village",
         "venue": "Zebulon",
-        "address": "",
-        "why": "",
-        "summary": "",
-        "promoter": "",
+        "address": "2478 Fletcher Dr, Los Angeles, CA 90039",
+        "why": "A free synthpop bill at one of Atwater Village's key indie venues, with two support acts on the same ticket.",
+        "summary": "Soft As Snow headlines a free 21+ night at Zebulon with support from DPSD and Environmental Studies.",
+        "promoter": "Zebulon",
         "price": "Free",
         "tags": [
-          "synthpop"
+          "synthpop",
+          "21+"
         ],
-        "sources": [],
-        "tickets": [],
+        "sources": [
+          "https://dice.fm/event/53mbnl-soft-as-snow-dpsd-environmental-studies-7th-sep-zebulon-los-angeles-tickets"
+        ],
+        "tickets": [
+          "https://dice.fm/event/53mbnl-soft-as-snow-dpsd-environmental-studies-7th-sep-zebulon-los-angeles-tickets"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Zebulon%2C%20Los%20Angeles",
           "apple": "https://maps.apple.com/?q=Zebulon%2C%20Los%20Angeles"
@@ -181,8 +186,9 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
-        "active": true
+        "enriched": 1,
+        "active": true,
+        "lineup": []
       },
       {
         "id": "2026-09-07-music-an-evening-with-c6773b",
