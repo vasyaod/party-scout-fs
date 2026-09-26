@@ -4394,23 +4394,30 @@
         "id": "2026-09-28-music-oakland-museum-of-california-s-49550d",
         "eid": "oakland-museum-of-califo-dd10",
         "track": "music",
-        "category": "",
+        "category": "Museum",
         "name": "Oakland Museum of California's Free First Sundays (OMCA)",
         "day": "Sun",
         "date": "2026-10-04",
-        "time": "",
-        "start": null,
-        "end": null,
-        "area": "",
-        "venue": "San Francisco Bay Area",
-        "address": "",
-        "why": "",
-        "summary": "",
-        "promoter": "",
-        "price": "",
-        "tags": [],
+        "time": "11am–5pm",
+        "start": "11:00",
+        "end": "17:00",
+        "area": "Oakland",
+        "venue": "Oakland Museum of California",
+        "address": "1000 Oak St, Oakland, CA 94607",
+        "why": "Free general admission to OMCA's California art, history and nature galleries on the first Sunday of the month",
+        "summary": "OMCA opens its Galleries of California Art, History and Natural Sciences for free on the first Sunday of every month, with special exhibitions available at a discounted $6.",
+        "promoter": "Oakland Museum of California",
+        "price": "Free",
+        "tags": [
+          "free",
+          "museum",
+          "family",
+          "daytime",
+          "art"
+        ],
         "sources": [
-          "https://sf.funcheap.com/oakland-museum-of-californias-free-first-sundays-omca-60/"
+          "https://sf.funcheap.com/oakland-museum-of-californias-free-first-sundays-omca-60/",
+          "https://museumca.org/first-sundays/"
         ],
         "tickets": [],
         "maps": {
@@ -4423,7 +4430,7 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
