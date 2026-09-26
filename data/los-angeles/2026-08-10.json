@@ -2218,14 +2218,14 @@
         "day": "Sat",
         "date": "2026-08-15",
         "time": "18:00–22:00",
-        "start": null,
-        "end": null,
+        "start": "18:00",
+        "end": "22:00",
         "area": "Los Angeles",
         "venue": "Union Station",
         "address": "800 N Alameda St, Los Angeles, CA 90012",
-        "why": "Free, all-ages DJ night inside a historic downtown landmark.",
-        "summary": "KCRW and Metro Art present a free, all-ages Summer Nights session inside the historic Union Station building, with DJ sets from J.Rocc and Luxxury.",
-        "promoter": "",
+        "why": "Free, all-ages DJ night inside the historic Union Station Ticket Concourse.",
+        "summary": "KCRW and Metro Art present a free, all-ages Summer Nights session in Union Station's Ticket Concourse, with DJ sets from LUXXURY and J.Rocc bookending a live set from Rio Kosta.",
+        "promoter": "KCRW / Metro Art",
         "price": "Free",
         "tags": [
           "free",
@@ -2234,10 +2234,13 @@
           "all-ages"
         ],
         "sources": [
-          "https://ra.co/events/2509939"
+          "https://ra.co/events/2509939",
+          "https://www.kcrw.com/events/kcrw-summer-nights-with-metro-art-at-union-station-ft-rio-kosta",
+          "https://unionstationla.com/happenings/metro-art-presents-kcrw-summer-nights-2026/"
         ],
         "tickets": [
-          "https://ra.co/events/2509939"
+          "https://ra.co/events/2509939",
+          "https://events.humanitix.com/kcrw-summer-nights-with-metro-art-at-union-station"
         ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=800%20N%20Alameda%20St%2C%20Los%20Angeles%2C%20CA%2090012",
@@ -2258,7 +2261,21 @@
         "image_generated": false,
         "popularity": 0,
         "active": true,
-        "enriched": 0
+        "enriched": 1,
+        "lineup": [
+          {
+            "name": "KCRW DJ LUXXURY",
+            "instagram": null
+          },
+          {
+            "name": "Rio Kosta",
+            "instagram": null
+          },
+          {
+            "name": "KCRW DJ J.Rocc",
+            "instagram": null
+          }
+        ]
       },
       {
         "id": "2026-08-10-music-linger-cf673c",
