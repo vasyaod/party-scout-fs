@@ -2020,12 +2020,12 @@
         "time": "14:00–20:00",
         "start": null,
         "end": null,
-        "area": "Los Angeles",
+        "area": "DTLA",
         "venue": "Level 8 DTLA",
         "address": "1254 S Figueroa St, Los Angeles, CA 90015",
         "why": "A daytime rooftop pool session built around an Anjunadeep-signed melodic-house DJ.",
-        "summary": "FLOAT brings Anjunadeep artist Massane to the Level 8 DTLA rooftop pool for a Saturday afternoon session running 2 to 8pm.",
-        "promoter": "",
+        "summary": "FLOAT brings Anjunadeep artist Massane to the Level 8 DTLA rooftop pool for a Saturday afternoon session running 2 to 8pm, presented by Underrated Presents.",
+        "promoter": "Underrated Presents",
         "price": "$25",
         "tags": [
           "pool-party",
@@ -2034,10 +2034,14 @@
           "melodic-house"
         ],
         "sources": [
-          "https://ra.co/events/2449788"
+          "https://ra.co/events/2449788",
+          "https://www.eventbrite.com/e/float-rooftop-pool-party-ft-massane-2-8-pm-tickets-1989219502079",
+          "https://dice.fm/event/xed3ma-float-ft-massane-15th-aug-level-8-los-angeles-tickets"
         ],
         "tickets": [
-          "https://ra.co/events/2449788"
+          "https://ra.co/events/2449788",
+          "https://www.eventbrite.com/e/float-rooftop-pool-party-ft-massane-2-8-pm-tickets-1989219502079",
+          "https://dice.fm/event/xed3ma-float-ft-massane-15th-aug-level-8-los-angeles-tickets"
         ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=1254%20S%20Figueroa%20St%2C%20Los%20Angeles%2C%20CA%2090015",
@@ -2058,7 +2062,13 @@
         "image_generated": false,
         "popularity": 0,
         "active": true,
-        "enriched": 0
+        "enriched": 1,
+        "lineup": [
+          {
+            "name": "Massane",
+            "instagram": null
+          }
+        ]
       },
       {
         "id": "2026-08-10-music-frenegade-presents-lost-sound-8cce93",
