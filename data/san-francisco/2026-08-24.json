@@ -886,25 +886,35 @@
         "id": "2026-08-24-music-train-barenaked-ladies-matt-na-552647",
         "eid": "train-barenaked-ladies-m-40bb",
         "track": "music",
-        "category": "",
+        "category": "Rock",
         "name": "Train, Barenaked Ladies & Matt Nathanson at Shoreline Amphitheatre",
         "day": "Wed",
         "date": "2026-08-26",
-        "time": "",
-        "start": null,
+        "time": "6:45pm",
+        "start": "18:45",
         "end": null,
-        "area": "San Francisco/Oakland",
+        "area": "Mountain View",
         "venue": "Shoreline Amphitheater",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "1 Amphitheatre Pkwy, Mountain View, CA 94043",
+        "why": "A 25th-anniversary nostalgia triple-bill of 2000s pop-rock radio staples at an outdoor amphitheater.",
+        "summary": "Train brings its Drops of Jupiter: 25 Years in the Atmosphere tour to Shoreline Amphitheatre, with Barenaked Ladies and Matt Nathanson opening.",
         "promoter": "",
         "price": "",
-        "tags": [],
-        "sources": [
-          "https://ra.co/events/2330012"
+        "tags": [
+          "rock",
+          "pop-rock",
+          "outdoor",
+          "amphitheater",
+          "nostalgia"
         ],
-        "tickets": [],
+        "sources": [
+          "https://ra.co/events/2330012",
+          "https://www.ticketmaster.com/train-drops-of-jupiter-25-years-mountain-view-california-08-26-2026/event/1C006364BB33BD91",
+          "https://rockcellarmagazine.com/train-drops-of-jupiter-anniversary-tour-dates-2026-barenaked-ladies/"
+        ],
+        "tickets": [
+          "https://www.ticketmaster.com/train-drops-of-jupiter-25-years-mountain-view-california-08-26-2026/event/1C006364BB33BD91"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Shoreline%20Amphitheater%2C%20San%20Francisco/Oakland",
           "apple": "https://maps.apple.com/?q=Shoreline%20Amphitheater%2C%20San%20Francisco/Oakland"
@@ -916,7 +926,21 @@
         "image_generated": false,
         "popularity": 0,
         "active": true,
-        "enriched": 0
+        "enriched": 1,
+        "lineup": [
+          {
+            "name": "Train",
+            "instagram": null
+          },
+          {
+            "name": "Barenaked Ladies",
+            "instagram": null
+          },
+          {
+            "name": "Matt Nathanson",
+            "instagram": null
+          }
+        ]
       },
       {
         "id": "2026-08-24-music-fixed-gloss-88b1bf",
