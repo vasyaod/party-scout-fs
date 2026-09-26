@@ -204,14 +204,14 @@
         "name": "Slayyyter",
         "day": "Mon",
         "date": "2026-08-24",
-        "time": "",
-        "start": null,
+        "time": "7pm doors / 8pm show",
+        "start": "20:00",
         "end": null,
         "area": "Los Angeles",
         "venue": "Shrine Auditorium and Expo Hall",
         "address": "665 W Jefferson Blvd, Los Angeles, CA 90007",
-        "why": "Second of a two-night Shrine run, riding the momentum of her latest hyperpop-leaning release.",
-        "summary": "Slayyyter plays the second of two nights at the Shrine Auditorium and Expo Hall, August 23 and 24.",
+        "why": "Second of a two-night Shrine run on her Wor$t Girl in the World Tour, with $1 per ticket benefiting local LGBTQI+ orgs via PLUS1.",
+        "summary": "Slayyyter brings the Wor$t Girl in the World Tour to the Shrine Auditorium and Expo Hall for the second of two LA nights, with Pearly Drops opening.",
         "promoter": "",
         "price": "",
         "tags": [
@@ -219,9 +219,12 @@
           "hyperpop"
         ],
         "sources": [
-          "https://www.instagram.com/p/DcUnHTYmAC2/"
+          "https://www.instagram.com/p/DcUnHTYmAC2/",
+          "https://www.jambase.com/show/slayyyter-shrine-auditorium-expo-hall-20260824"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://www.seatgeek.com/slayyyter-tickets/los-angeles-california-shrine-expo-hall-2026-08-24-8-pm/concert/18230719"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Shrine%20Auditorium%20and%20Expo%20Hall%2C%20665%20W%20Jefferson%20Blvd%2C%20Los%20Angeles%2C%20CA%2090007",
           "apple": "https://maps.apple.com/?q=Shrine%20Auditorium%20and%20Expo%20Hall%2C%20665%20W%20Jefferson%20Blvd%2C%20Los%20Angeles%2C%20CA%2090007"
@@ -238,7 +241,17 @@
         "active": true,
         "id": "2026-08-24-music-slayyyter-shrine-auditorium-a1b2c3",
         "eid": "slayyyter-shrine-auditorium",
-        "enriched": 0
+        "enriched": 1,
+        "lineup": [
+          {
+            "name": "Slayyyter",
+            "instagram": null
+          },
+          {
+            "name": "Pearly Drops",
+            "instagram": null
+          }
+        ]
       },
       {
         "id": "2026-08-24-music-chai-rave-la-on-the-rooftop-at-77c852",
