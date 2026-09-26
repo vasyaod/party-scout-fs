@@ -5,7 +5,7 @@
   "location": "San Francisco & Bay Area",
   "city": "san-francisco",
   "city_label": "San Francisco",
-  "generated_at": "2026-09-25",
+  "generated_at": "2026-09-26",
   "tracks": {
     "music": [
       {
@@ -2375,22 +2375,30 @@
         "id": "2026-08-17-music-leftover-beats-cornii-fygma-on-d85cae",
         "eid": "leftover-beats-cornii-fy-f40b",
         "track": "music",
-        "category": "",
+        "category": "Techno",
         "name": "Leftover Beats: Cornii, Fygma, One DJ, Gabe",
         "day": "Sat",
         "date": "2026-08-22",
-        "time": "",
-        "start": null,
-        "end": null,
-        "area": "San Francisco",
+        "time": "10pm–2am",
+        "start": "22:00",
+        "end": "02:00",
+        "area": "Polk Gulch",
         "venue": "Decodance Bar",
-        "address": "",
-        "why": "",
-        "summary": "",
-        "promoter": "",
-        "price": "",
-        "tags": [],
-        "sources": [],
+        "address": "1160 Polk St, San Francisco, CA 94109",
+        "why": "Free entry, all-night techno/breaks mix from the SFDJCollective crew on Polk Street",
+        "summary": "SFDJCollective's Leftover Beats returns to DecoDance Bar with Cornii, Fygma, One DJ and Gabe spinning an electric mix of techno, breaks and indie.",
+        "promoter": "SFDJCollective",
+        "price": "Free",
+        "tags": [
+          "techno",
+          "breaks",
+          "free",
+          "21+"
+        ],
+        "sources": [
+          "https://ra.co/events/2487057",
+          "https://sf.funcheap.com/leftover-beats-sf/"
+        ],
         "tickets": [],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Decodance%20Bar%2C%20San%20Francisco",
@@ -2403,7 +2411,25 @@
         "image_generated": true,
         "popularity": 0,
         "active": true,
-        "enriched": 0
+        "enriched": 1,
+        "lineup": [
+          {
+            "name": "Cornii",
+            "instagram": null
+          },
+          {
+            "name": "Fygma",
+            "instagram": null
+          },
+          {
+            "name": "One DJ",
+            "instagram": null
+          },
+          {
+            "name": "Gabe",
+            "instagram": null
+          }
+        ]
       },
       {
         "id": "2026-08-17-music-lento-san-francisco-519155",
