@@ -5,7 +5,7 @@
   "location": "Los Angeles & SoCal",
   "city": "los-angeles",
   "city_label": "Los Angeles",
-  "generated_at": "2026-09-10",
+  "generated_at": "2026-09-25",
   "tracks": {
     "music": [
       {
@@ -2499,22 +2499,29 @@
         "date": "2026-08-23",
         "time": "2pm–8:30pm",
         "start": "14:00",
-        "end": null,
+        "end": "20:30",
         "area": "Los Angeles",
         "venue": "Los Angeles State Historic Park",
         "address": "1245 N. Spring St, Los Angeles, CA 90012",
-        "why": "",
-        "summary": "",
-        "promoter": "",
+        "why": "Insomniac's daytime house series takes over the historic park with a sold-out house lineup",
+        "summary": "Day Trip's outdoor daytime house series lands at Los Angeles State Historic Park with a lineup led by Discip alongside Adam Sellouk, Gabss and Welker.",
+        "promoter": "Day Trip",
         "price": "Free",
         "tags": [
           "house",
-          "free"
+          "free",
+          "outdoor",
+          "daytime"
         ],
         "sources": [
-          "https://ra.co/events/2436978"
+          "https://ra.co/events/2436978",
+          "https://daytrip.la/event/discip-adam-sellouk-gabss-welker-house-music-outdoor-concert-2026-august-23-los-angeles-state-historic-park-events/",
+          "https://www.insomniac.com/events/discip-adam-sellouk-gabss-welker-2026-08-23-los-angeles-ca/"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://www.ticketweb.com/event/day-trip-feat-discip-adam-los-angeles-state-historic-park-tickets/14877923",
+          "https://www.tixr.com/groups/daytrip/events/day-trip-feat-discip-adam-sellouk-gabss-welker-188025"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Los%20Angeles%20State%20Historic%20Park",
           "apple": "https://maps.apple.com/?q=Los%20Angeles%20State%20Historic%20Park"
@@ -2533,7 +2540,25 @@
         "image_generated": true,
         "popularity": 0,
         "active": true,
-        "enriched": 0
+        "enriched": 1,
+        "lineup": [
+          {
+            "name": "Discip",
+            "instagram": null
+          },
+          {
+            "name": "Adam Sellouk",
+            "instagram": null
+          },
+          {
+            "name": "Gabss",
+            "instagram": null
+          },
+          {
+            "name": "Welker",
+            "instagram": null
+          }
+        ]
       },
       {
         "id": "2026-08-17-music-summer-club-la-x-g-unit-studio-301ec6",
