@@ -864,20 +864,25 @@
         "name": "Shelter SF Dnb",
         "day": "Thu",
         "date": "2026-08-20",
-        "time": "",
-        "start": null,
-        "end": null,
-        "area": "San Francisco",
+        "time": "9pm–2am",
+        "start": "21:00",
+        "end": "02:00",
+        "area": "SF",
         "venue": "Underground SF",
-        "address": "",
-        "why": "",
-        "summary": "",
-        "promoter": "",
-        "price": "",
+        "address": "424 Haight St, San Francisco, CA 94117",
+        "why": "SF's longest-running monthly drum & bass night, free entry since 2007",
+        "summary": "Shelter SF DNB is San Francisco's longest-running drum & bass and jungle night, held monthly on the third Thursday at Underground SF since 2007, with a rotating cast of resident DJs.",
+        "promoter": "Shelter SF",
+        "price": "Free",
         "tags": [
-          "drum-and-bass"
+          "drum-and-bass",
+          "jungle",
+          "free",
+          "21-plus"
         ],
-        "sources": [],
+        "sources": [
+          "https://ra.co/promoters/76891"
+        ],
         "tickets": [],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Underground%20SF%2C%20San%20Francisco",
@@ -890,7 +895,7 @@
         "image_generated": true,
         "popularity": 0,
         "active": true,
-        "enriched": 0
+        "enriched": 1
       },
       {
         "id": "2026-08-17-music-wayward-axis-minty-4e50f2",
