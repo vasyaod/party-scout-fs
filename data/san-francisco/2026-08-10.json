@@ -5513,26 +5513,30 @@
         "id": "2026-08-10-music-night-bloom-femme-jatale-7f0bd1",
         "eid": "night-bloom-femme-jatale-37b3",
         "track": "music",
-        "category": "",
+        "category": "Ambient",
         "name": "Night Bloom -- Femme Jatale",
         "day": "Sun",
         "date": "2026-08-16",
-        "time": "",
-        "start": null,
-        "end": null,
-        "area": "San Francisco",
+        "time": "5–8pm",
+        "start": "17:00",
+        "end": "20:00",
+        "area": "Mission",
         "venue": "Arcana",
-        "address": "",
-        "why": "",
-        "summary": "",
-        "promoter": "",
+        "address": "2512 Mission St, San Francisco, CA 94110",
+        "why": "A mellow Sunday early-evening ambient/leftfield session from local DJ collective Program Audio at Arcana's intimate Mission District space.",
+        "summary": "Program Audio's monthly Night Bloom ambient session at Arcana, an early-evening set from Femme Jatale spanning ambient, trip-hop and leftfield sounds.",
+        "promoter": "Program Audio",
         "price": "",
         "tags": [
           "ambient",
           "trip-hop",
-          "leftfield"
+          "leftfield",
+          "sunday",
+          "early-evening"
         ],
-        "sources": [],
+        "sources": [
+          "https://www.facebook.com/arcanamission/posts/night-bloom-sunday-august-1658-pmarcana-sfthis-months-night-bloom-edition-featur/1336333885155550/"
+        ],
         "tickets": [],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Arcana%2C%20San%20Francisco",
@@ -5545,7 +5549,13 @@
         "image_generated": false,
         "popularity": 0,
         "active": true,
-        "enriched": 0
+        "enriched": 1,
+        "lineup": [
+          {
+            "name": "Femme Jatale",
+            "instagram": null
+          }
+        ]
       },
       {
         "id": "2026-08-10-music-nuclear-winter-an-immersive-ex-d82781",
