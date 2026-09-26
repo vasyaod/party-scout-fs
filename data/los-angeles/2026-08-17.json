@@ -792,23 +792,28 @@
         "time": "7pm-12am",
         "start": "19:00",
         "end": "00:00",
-        "area": "Los Angeles",
+        "area": "Downtown LA",
         "venue": "Teragram Ballroom",
         "address": "1234 W 7th St, Los Angeles, CA 90017",
-        "why": "Ambient/IDM electronic act, a slower and more textured booking than a typical club night",
-        "summary": "A live set from ambient/IDM electronic artist Rival Consoles at Teragram Ballroom.",
+        "why": "Ambient/IDM electronic act with support from Khotin, a slower and more textured booking than a typical club night",
+        "summary": "Ambient/IDM producer Rival Consoles (Ryan Lee West) plays a live set at Teragram Ballroom in DTLA with support from Khotin, doors at 7pm, all ages.",
         "promoter": "",
         "price": "$25",
         "tags": [
           "electronic",
           "ambient",
-          "live"
+          "live",
+          "all-ages"
         ],
         "sources": [
-          "https://ra.co/events/2469915"
+          "https://ra.co/events/2469915",
+          "https://www.songkick.com/concerts/43136485-rival-consoles-at-teragram-ballroom",
+          "https://www.axs.com/events/1398630/rival-consoles-tickets"
         ],
         "tickets": [
-          "https://ra.co/events/2469915"
+          "https://ra.co/events/2469915",
+          "https://www.axs.com/events/1398630/rival-consoles-tickets",
+          "https://www.livenation.com/event/vv1AaZkowGkemeFBP/rival-consoles"
         ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=1234%20W%207th%20St%2C%20Los%20Angeles%2C%20CA%2090017",
@@ -829,7 +834,17 @@
         "image_generated": true,
         "popularity": 0,
         "active": true,
-        "enriched": 0
+        "enriched": 1,
+        "lineup": [
+          {
+            "name": "Rival Consoles",
+            "instagram": null
+          },
+          {
+            "name": "Khotin",
+            "instagram": null
+          }
+        ]
       },
       {
         "id": "2026-08-17-music-steam-towel-party-la-f79242",
