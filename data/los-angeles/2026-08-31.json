@@ -1376,8 +1376,8 @@
         "venue": "Fonda Theatre",
         "address": "6126 Hollywood Blvd, Hollywood, CA 90028",
         "why": "Rising vocalist/producer plays a mid-size Hollywood theatre, not a club set.",
-        "summary": "Hayla performs at the Fonda Theatre in Hollywood on Friday, September 4.",
-        "promoter": "",
+        "summary": "Hayla brings The Dark Tour to the Fonda Theatre in Hollywood on Friday, September 4, with support from Ella Rosa.",
+        "promoter": "Goldenvoice",
         "price": "",
         "tags": [
           "live",
@@ -1385,9 +1385,13 @@
           "theatre"
         ],
         "sources": [
-          "https://ra.co/events/2440554"
+          "https://ra.co/events/2440554",
+          "https://www.axs.com/events/1421740/hayla-tickets",
+          "https://www.bandsintown.com/e/1038823901-hayla-at-the-fonda-theatre"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://www.axs.com/events/1421740/hayla-tickets"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=6126%20Hollywood%20Blvd%2C%20Hollywood%2C%20CA%2090028",
           "apple": "https://maps.apple.com/?q=6126%20Hollywood%20Blvd%2C%20Hollywood%2C%20CA%2090028"
@@ -1407,7 +1411,17 @@
         "image_generated": false,
         "popularity": 0,
         "active": true,
-        "enriched": 0
+        "enriched": 1,
+        "lineup": [
+          {
+            "name": "Hayla",
+            "instagram": null
+          },
+          {
+            "name": "Ella Rosa",
+            "instagram": null
+          }
+        ]
       },
       {
         "id": "2026-08-31-music-lights-down-low-interplanetary-4ad1a8",
