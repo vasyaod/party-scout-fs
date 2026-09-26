@@ -2310,21 +2310,25 @@
         "time": "10pm-3am",
         "start": "22:00",
         "end": "03:00",
-        "area": "Los Angeles",
+        "area": "DTLA",
         "venue": "Exchange LA",
         "address": "618 S Spring St, Los Angeles, CA 90014",
         "why": "Techno DJ set on a real dancefloor rather than a warehouse pop-up",
-        "summary": "A club night at Exchange LA featuring a set from techno DJ Oguz.",
-        "promoter": "",
-        "price": "",
+        "summary": "Mutate brings Dutch techno DJ/producer OGUZ to Exchange LA's dancefloor for a late-night set, Saturday August 22, 10pm-3am, 21+.",
+        "promoter": "Mutate",
+        "price": "$24.95+",
         "tags": [
-          "techno"
+          "techno",
+          "21+"
         ],
         "sources": [
-          "https://ra.co/events/2461046"
+          "https://ra.co/events/2461046",
+          "https://exchangela.com/event/oguz-techno-dj-music-concert-show-tonight-tomorrow-2026-aug-22-best-night-club-near-me-los-angeles/",
+          "https://www.ticketweb.com/event/oguz-exchange-la-tickets/14974243"
         ],
         "tickets": [
-          "https://ra.co/events/2461046"
+          "https://ra.co/events/2461046",
+          "https://www.ticketweb.com/event/oguz-exchange-la-tickets/14974243"
         ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=618%20S%20Spring%20St%2C%20Los%20Angeles%2C%20CA%2090014",
@@ -2345,7 +2349,13 @@
         "image_generated": true,
         "popularity": 0,
         "active": true,
-        "enriched": 0
+        "enriched": 1,
+        "lineup": [
+          {
+            "name": "OGUZ",
+            "instagram": null
+          }
+        ]
       },
       {
         "id": "2026-08-17-music-noizu-dafd44",
