@@ -2316,22 +2316,31 @@
         "id": "2026-08-24-sports-thursday-love-hour-5138da",
         "eid": "thursday-love-hour-c00a",
         "track": "sports",
-        "category": "",
+        "category": "Run Club",
         "name": "Thursday Love Hour",
         "day": "Thu",
         "date": "2026-08-27",
-        "time": "",
-        "start": null,
+        "time": "8pm",
+        "start": "20:00",
         "end": null,
         "area": "Koreatown, Los Angeles",
         "venue": "Love Hour, 532 N. Western Ave.",
-        "address": "",
-        "why": "",
-        "summary": "",
-        "promoter": "",
-        "price": "",
-        "tags": [],
-        "sources": [],
+        "address": "532 S Western Ave, Los Angeles, CA 90020",
+        "why": "A free drop-in 3-or-5-mile Koreatown run that ends back at the bar for smashburgers and cocktails",
+        "summary": "Koreatown Run Club's weekly Thursday run meets outside Love Hour for a casual 3 or 5 mile route through the neighborhood, no sign-up required, before regrouping at the bar afterward.",
+        "promoter": "Koreatown Run Club",
+        "price": "Free",
+        "tags": [
+          "run-club",
+          "free",
+          "outdoor",
+          "recurring",
+          "koreatown"
+        ],
+        "sources": [
+          "https://koreatownrunclub.com/pages/schedule",
+          "https://love-hour.com/"
+        ],
         "tickets": [],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Love%20Hour%2C%20532%20N.%20Western%20Ave.%2C%20Koreatown%2C%20Los%20Angeles",
@@ -2344,7 +2353,7 @@
         "image_generated": false,
         "popularity": 0,
         "active": true,
-        "enriched": 0
+        "enriched": 1
       },
       {
         "id": "2026-08-24-sports-saturday-totem-pole-training-9f524e",

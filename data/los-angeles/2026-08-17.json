@@ -2238,7 +2238,7 @@
         "address": "1645 Wilcox Ave, Los Angeles, CA 90028",
         "why": "Grammy winner performing live house alongside KCRW's own tastemaker DJ",
         "summary": "KCRW presents Grammy-winning producer Latroit performing classic house music live, joined on stage by KCRW host Jason Bentley and special guests at Say Yes.",
-        "promoter": "",
+        "promoter": "KCRW",
         "price": "",
         "tags": [
           "house",
@@ -2246,7 +2246,8 @@
           "kcrw"
         ],
         "sources": [
-          "https://ra.co/events/2502254"
+          "https://ra.co/events/2502254",
+          "https://www.kcrw.com/events/latroit-house-ensemble-with-jason-bentley"
         ],
         "tickets": [
           "https://ra.co/events/2502254"
@@ -2270,7 +2271,17 @@
         "image_generated": true,
         "popularity": 0,
         "active": true,
-        "enriched": 0
+        "enriched": 1,
+        "lineup": [
+          {
+            "name": "Latroit",
+            "instagram": "latroit"
+          },
+          {
+            "name": "Jason Bentley",
+            "instagram": "thejasonbentley"
+          }
+        ]
       },
       {
         "id": "2026-08-17-music-mutate-oguz-fb1eb2",
