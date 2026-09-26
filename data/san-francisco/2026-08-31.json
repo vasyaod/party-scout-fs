@@ -66,14 +66,14 @@
         "day": "Fri",
         "date": "2026-09-04",
         "time": "18:00-23:00",
-        "start": null,
-        "end": null,
-        "area": "San Francisco",
+        "start": "18:00",
+        "end": "23:00",
+        "area": "Dogpatch",
         "venue": "The Midway",
         "address": "900 Marin St, San Francisco, CA",
         "why": "Outdoor daytime block-party format (6-11pm) with a four-act bass bill, bigger scale than a normal club night",
         "summary": "Bassrush presents a Midway block party headlined by Black Tiger Sex Machine and Kai Wachi, with Ravenscoon and a back-to-back set from A Hundred Drums and Zen Selekta.",
-        "promoter": "",
+        "promoter": "Bassrush",
         "price": "$63",
         "tags": [
           "bass",
@@ -83,7 +83,8 @@
           "18+"
         ],
         "sources": [
-          "https://www.tixr.com/groups/midwaysf/events/bassrush-presents-black-tiger-sex-machine-w-support-from-kai-wachi-72476"
+          "https://www.tixr.com/groups/midwaysf/events/bassrush-presents-black-tiger-sex-machine-w-support-from-kai-wachi-72476",
+          "https://www.insomniac.com/events/black-tiger-sex-machine-kai-wachi-2026-09-04-san-francisco-ca/"
         ],
         "tickets": [
           "https://www.tixr.com/groups/midwaysf/events/bassrush-presents-black-tiger-sex-machine-w-support-from-kai-wachi-72476"
@@ -102,7 +103,29 @@
         "image_generated": false,
         "popularity": 0,
         "active": true,
-        "enriched": 0
+        "enriched": 1,
+        "lineup": [
+          {
+            "name": "Black Tiger Sex Machine",
+            "instagram": null
+          },
+          {
+            "name": "Kai Wachi",
+            "instagram": null
+          },
+          {
+            "name": "Ravenscoon",
+            "instagram": null
+          },
+          {
+            "name": "A Hundred Drums",
+            "instagram": null
+          },
+          {
+            "name": "Zen Selekta",
+            "instagram": null
+          }
+        ]
       },
       {
         "id": "2026-08-31-music-hyperdrive-with-kaya-c19127",
