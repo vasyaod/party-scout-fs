@@ -1505,25 +1505,35 @@
         "id": "2026-08-24-music-oona-dahl-david-hohme-presente-a01c74",
         "eid": "oona-dahl-david-hohme-pr-5d19",
         "track": "music",
-        "category": "",
+        "category": "House",
         "name": "Öona Dahl & David Hohme presented by Public Works",
         "day": "Fri",
         "date": "2026-08-28",
-        "time": "",
-        "start": null,
-        "end": null,
-        "area": "San Francisco/Oakland",
+        "time": "9pm–2:30am",
+        "start": "21:00",
+        "end": "02:30",
+        "area": "Mission District, SF",
         "venue": "Public Works",
-        "address": "",
-        "why": "",
-        "summary": "",
-        "promoter": "",
+        "address": "161 Erie St, San Francisco, CA",
+        "why": "Two full rooms of house and deep house under one roof, 9pm to late",
+        "summary": "Public Works hosts a multi-room night with Öona Dahl and David Hohme headlining the Main Room alongside a Gavin Hardkiss & Seth Finkin back-to-back set, while the Loft runs Casa Tulum's melodic and deep house programming.",
+        "promoter": "Public Works",
         "price": "$25",
-        "tags": [],
-        "sources": [
-          "https://ra.co/events/2501244"
+        "tags": [
+          "house",
+          "deep-house",
+          "melodic-house",
+          "21+"
         ],
-        "tickets": [],
+        "sources": [
+          "https://ra.co/events/2501244",
+          "https://www.tixr.com/groups/publicsf/events/-ona-dahl-david-hohme-presented-by-public-works-200977",
+          "https://www.eventbrite.com/e/oona-dahl-david-hohme-presented-by-public-works-tickets-1996012394804"
+        ],
+        "tickets": [
+          "https://www.tixr.com/groups/publicsf/events/-ona-dahl-david-hohme-presented-by-public-works-200977",
+          "https://www.eventbrite.com/e/oona-dahl-david-hohme-presented-by-public-works-tickets-1996012394804"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Public%20Works%2C%20San%20Francisco/Oakland",
           "apple": "https://maps.apple.com/?q=Public%20Works%2C%20San%20Francisco/Oakland"
@@ -1535,7 +1545,29 @@
         "image_generated": false,
         "popularity": 0,
         "active": true,
-        "enriched": 0
+        "enriched": 1,
+        "lineup": [
+          {
+            "name": "Öona Dahl",
+            "instagram": null
+          },
+          {
+            "name": "David Hohme",
+            "instagram": null
+          },
+          {
+            "name": "Gavin Hardkiss",
+            "instagram": null
+          },
+          {
+            "name": "Seth Finkin",
+            "instagram": null
+          },
+          {
+            "name": "Casa Tulum",
+            "instagram": null
+          }
+        ]
       },
       {
         "id": "2026-08-24-music-program-audio-tayhana-nvst-ae0ed0",
