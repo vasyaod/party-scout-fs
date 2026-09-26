@@ -2336,14 +2336,14 @@
         "day": "Sat",
         "date": "2026-08-15",
         "time": "16:00–23:00",
-        "start": null,
-        "end": null,
-        "area": "Los Angeles",
+        "start": "16:00",
+        "end": "23:00",
+        "area": "DTLA",
         "venue": "Harbor House DTLA",
         "address": "1000 Wilshire Blvd, Los Angeles, CA 90017",
         "why": "A birthday-edition day party where the founder plays open-to-close solo.",
         "summary": "LUT Project founder Shan Nash takes full control of the decks open-to-close for a birthday-edition day party at Harbor House DTLA.",
-        "promoter": "",
+        "promoter": "LUT",
         "price": "$40",
         "tags": [
           "day-party",
@@ -2351,10 +2351,13 @@
           "birthday"
         ],
         "sources": [
-          "https://ra.co/events/2512230"
+          "https://ra.co/events/2512230",
+          "https://www.eventbrite.com/e/lut-day-party-shan-nash-romo-tickets-1994885148179",
+          "https://www.thelut.com/showcases"
         ],
         "tickets": [
-          "https://ra.co/events/2512230"
+          "https://ra.co/events/2512230",
+          "https://www.eventbrite.com/e/lut-day-party-shan-nash-romo-tickets-1994885148179"
         ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=1000%20Wilshire%20Blvd%2C%20Los%20Angeles%2C%20CA%2090017",
@@ -2375,7 +2378,13 @@
         "image_generated": false,
         "popularity": 0,
         "active": true,
-        "enriched": 0
+        "enriched": 1,
+        "lineup": [
+          {
+            "name": "Shan Nash",
+            "instagram": null
+          }
+        ]
       },
       {
         "id": "2026-08-10-music-nightshift-after-hours-4597bb",
