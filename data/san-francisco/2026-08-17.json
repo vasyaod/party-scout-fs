@@ -2621,23 +2621,31 @@
         "id": "2026-08-17-music-putos-discos-1d2fed",
         "eid": "putos-discos-5f9c",
         "track": "music",
-        "category": "",
+        "category": "DJ Night",
         "name": "Putos Discos",
         "day": "Sat",
         "date": "2026-08-22",
-        "time": "",
-        "start": null,
+        "time": "10pm",
+        "start": "22:00",
         "end": null,
         "area": "San Francisco",
         "venue": "Kilowatt Bar",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "3160 16th St, San Francisco, CA 94103",
+        "why": "Free disco DJ night at a scrappy Mission dive, no cover required",
+        "summary": "Putos Discos brings DJ Nino to Kilowatt's Mission District dive bar for a free, 21+ disco DJ night.",
         "promoter": "",
-        "price": "",
-        "tags": [],
-        "sources": [],
-        "tickets": [],
+        "price": "Free",
+        "tags": [
+          "disco",
+          "free",
+          "21+"
+        ],
+        "sources": [
+          "https://dice.fm/event/xe3ng3-putos-discos-with-dj-nino-22nd-aug-kilowatt-san-francisco-tickets"
+        ],
+        "tickets": [
+          "https://dice.fm/event/xe3ng3-putos-discos-with-dj-nino-22nd-aug-kilowatt-san-francisco-tickets"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Kilowatt%20Bar%2C%20San%20Francisco",
           "apple": "https://maps.apple.com/?q=Kilowatt%20Bar%2C%20San%20Francisco"
@@ -2649,7 +2657,13 @@
         "image_generated": true,
         "popularity": 0,
         "active": true,
-        "enriched": 0
+        "enriched": 1,
+        "lineup": [
+          {
+            "name": "DJ Nino",
+            "instagram": null
+          }
+        ]
       },
       {
         "id": "2026-08-17-music-summer-slam-3475b7",
