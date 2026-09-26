@@ -1173,7 +1173,7 @@
         "id": "2026-08-24-music-chinatown-after-dark-58dd0d",
         "eid": "chinatown-after-dark-710b",
         "track": "music",
-        "category": "Club",
+        "category": "House",
         "name": "Chinatown After Dark",
         "day": "Fri",
         "date": "2026-08-28",
@@ -1184,17 +1184,23 @@
         "venue": "TBA (260 Kearny St)",
         "address": "260 Kearny St, San Francisco, CA",
         "why": "A rare dance night set inside SF's Chinatown rather than the usual SoMa clubs",
-        "summary": "Chinatown After Dark is a dance night held at a Chinatown venue on Kearny Street, an uncommon neighborhood for SF's club scene.",
-        "promoter": "",
-        "price": "",
+        "summary": "Chinatown After Dark is NU TEKNO's recurring dance night at Mr. Mahjong's on Kearny Street, mixing underground house, techno, and global club sounds with a touch of R&B.",
+        "promoter": "NU TEKNO",
+        "price": "Free",
         "tags": [
-          "chinatown"
+          "chinatown",
+          "house",
+          "techno",
+          "free"
         ],
         "sources": [
-          "https://ra.co/events/2511059"
+          "https://ra.co/events/2511059",
+          "https://www.eventbrite.com/e/chinatown-after-dark-tickets-1987481483619",
+          "https://www.timeout.com/san-francisco/music/chinatown-after-dark"
         ],
         "tickets": [
-          "https://ra.co/events/2511059"
+          "https://ra.co/events/2511059",
+          "https://www.eventbrite.com/e/chinatown-after-dark-tickets-1987481483619"
         ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=260%20Kearny%20St%2C%20San%20Francisco%2C%20CA",
@@ -1215,7 +1221,13 @@
         "image_generated": false,
         "popularity": 0,
         "active": true,
-        "enriched": 0
+        "enriched": 1,
+        "lineup": [
+          {
+            "name": "Yuka Yu",
+            "instagram": null
+          }
+        ]
       },
       {
         "id": "2026-08-24-music-hayden-james-after-party-be6981",
