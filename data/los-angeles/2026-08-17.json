@@ -1616,7 +1616,7 @@
         "time": "8pm–11:59pm",
         "start": "20:00",
         "end": null,
-        "area": "Los Angeles",
+        "area": "DTLA",
         "venue": "The Bellwether",
         "address": "333 S Boylston St, Los Angeles, CA 90017",
         "why": "All-ages show with a paid VIP-lounge upgrade instead of a hard price tier",
@@ -1628,9 +1628,12 @@
           "electronica"
         ],
         "sources": [
-          "https://ra.co/events/2476576"
+          "https://ra.co/events/2476576",
+          "https://thebellwetherla.com/events/the-knocks-260821"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://www.ticketmaster.com/event/0900649ED60C13E6"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=The%20Bellwether",
           "apple": "https://maps.apple.com/?q=The%20Bellwether"
@@ -1649,7 +1652,17 @@
         "image_generated": true,
         "popularity": 0,
         "active": true,
-        "enriched": 0
+        "enriched": 1,
+        "lineup": [
+          {
+            "name": "The Knocks",
+            "instagram": null
+          },
+          {
+            "name": "Midnight Magic (DJ Set)",
+            "instagram": null
+          }
+        ]
       },
       {
         "id": "2026-08-17-music-loading-heaven-exe-f44776",
