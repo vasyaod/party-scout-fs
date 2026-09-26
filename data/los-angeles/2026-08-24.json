@@ -298,16 +298,17 @@
         "time": "7pm-1am",
         "start": "19:00",
         "end": "01:00",
-        "area": "Los Angeles",
+        "area": "DTLA",
         "venue": "The Redwood Bar And Grill",
         "address": "316 W 2nd St, Los Angeles, CA 90012",
-        "why": "Live rock band set at a classic downtown dive venue",
-        "summary": "A live performance from rock band The Cynz at The Redwood Bar And Grill.",
-        "promoter": "",
+        "why": "A four-band rock lineup at a classic downtown dive for $10",
+        "summary": "The Cynz headline a rock bill at The Redwood Bar And Grill in downtown LA, joined by Pat Todd & The Rank Outsiders, The Slamdinistas, and Glimmer Stars.",
+        "promoter": "The Redwood Bar & Grill",
         "price": "$10",
         "tags": [
           "rock",
-          "live"
+          "live",
+          "punk"
         ],
         "sources": [
           "https://ra.co/events/2488448"
@@ -334,7 +335,25 @@
         "image_generated": false,
         "popularity": 0,
         "active": true,
-        "enriched": 0
+        "enriched": 1,
+        "lineup": [
+          {
+            "name": "The Cynz",
+            "instagram": null
+          },
+          {
+            "name": "Pat Todd & The Rank Outsiders",
+            "instagram": null
+          },
+          {
+            "name": "The Slamdinistas",
+            "instagram": null
+          },
+          {
+            "name": "Glimmer Stars",
+            "instagram": null
+          }
+        ]
       },
       {
         "id": "2026-08-24-music-haddaway-ultra-nate-robin-s-cr-cadcb6",
