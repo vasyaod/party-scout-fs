@@ -13881,25 +13881,32 @@
         "id": "2026-09-28-sports-napa-half-marathon-b29815",
         "eid": "napa-half-marathon-0648",
         "track": "sports",
-        "category": "",
+        "category": "Running",
         "name": "Napa Half Marathon",
         "day": "Sun",
         "date": "2026-10-04",
-        "time": "",
-        "start": null,
+        "time": "7:30 AM",
+        "start": "07:30",
         "end": null,
-        "area": "",
-        "venue": "Napa",
-        "address": "",
-        "why": "",
-        "summary": "",
-        "promoter": "",
-        "price": "",
-        "tags": [],
-        "sources": [
-          "https://www.runguides.com/san-francisco/runs"
+        "area": "Napa",
+        "venue": "Skyline Wilderness Park",
+        "address": "2201 Imola Ave, Napa, CA 94559",
+        "why": "Scenic wine-country course with a finisher medal and a bottle of Napa Valley wine.",
+        "summary": "A half marathon (and quarter marathon option) through the rolling hills and vineyard-lined neighborhoods of east Napa, starting and finishing at Skyline Wilderness Park.",
+        "promoter": "Athletic Feat",
+        "price": "$117.60",
+        "tags": [
+          "running",
+          "half marathon",
+          "wine country"
         ],
-        "tickets": [],
+        "sources": [
+          "https://www.runguides.com/san-francisco/runs",
+          "https://runsignup.com/Race/CA/Napa/NapaHalfMarathon"
+        ],
+        "tickets": [
+          "https://runsignup.com/Race/CA/Napa/NapaHalfMarathon"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Napa",
           "apple": "https://maps.apple.com/?q=Napa"
@@ -13910,7 +13917,7 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
