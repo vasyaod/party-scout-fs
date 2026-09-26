@@ -1419,15 +1419,15 @@
         "day": "Sat",
         "date": "2026-09-05",
         "time": "22:00–07:00",
-        "start": null,
-        "end": null,
+        "start": "22:00",
+        "end": "07:00",
         "area": "LA",
         "venue": "TBA - Downtown Los Angeles",
         "address": "",
         "why": "All-vinyl, all-night house set from a scene veteran, no clock-watching setlist.",
         "summary": "DJ Sneak plays an all-vinyl, all-night set in Downtown LA, running from 10pm past dawn on Labor Day weekend Saturday.",
-        "promoter": "",
-        "price": "",
+        "promoter": "Certified Groovers",
+        "price": "$25",
         "tags": [
           "house",
           "vinyl",
@@ -1435,9 +1435,12 @@
           "late-night"
         ],
         "sources": [
+          "https://ra.co/events/2492393",
+          "https://www.fusicology.com/events/certified-groovers-dj-sneak-all-night-vinyl-set-september-5/"
+        ],
+        "tickets": [
           "https://ra.co/events/2492393"
         ],
-        "tickets": [],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=LA",
           "apple": "https://maps.apple.com/?q=LA"
@@ -1457,7 +1460,13 @@
         "image_generated": false,
         "popularity": 0,
         "active": true,
-        "enriched": 0
+        "enriched": 1,
+        "lineup": [
+          {
+            "name": "DJ Sneak",
+            "instagram": null
+          }
+        ]
       },
       {
         "id": "2026-08-31-music-flux-pavilion-5378a7",
