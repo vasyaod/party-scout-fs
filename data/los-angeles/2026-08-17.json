@@ -2662,19 +2662,20 @@
         "time": "9pm-2am",
         "start": "21:00",
         "end": "02:00",
-        "area": "Los Angeles",
+        "area": "East Hollywood",
         "venue": "The Melrose House",
         "address": "4216 Melrose ave. Los Angeles, CA 90029",
         "why": "No-repeat-set format night built around discovery, not one predictable headliner",
         "summary": "SPICE presents Rush Hour, a discovery-focused night at The Melrose House with rotating DJ sets from the SPICE crew: AKU, Bianca Maieli, MTOORAY and DJ Sudi.",
-        "promoter": "",
+        "promoter": "SPICE",
         "price": "$10–30",
         "tags": [
           "house",
           "eclectic"
         ],
         "sources": [
-          "https://ra.co/events/2505797"
+          "https://ra.co/events/2505797",
+          "https://www.instagram.com/spiceglobal_/"
         ],
         "tickets": [
           "https://ra.co/events/2505797"
@@ -2698,7 +2699,25 @@
         "image_generated": true,
         "popularity": 0,
         "active": true,
-        "enriched": 0
+        "enriched": 1,
+        "lineup": [
+          {
+            "name": "DJ Sudi",
+            "instagram": "dj.sudi"
+          },
+          {
+            "name": "MTOORAY",
+            "instagram": null
+          },
+          {
+            "name": "AKU",
+            "instagram": null
+          },
+          {
+            "name": "Bianca Maieli",
+            "instagram": null
+          }
+        ]
       },
       {
         "id": "2026-08-17-music-the-dancing-skeletons-06d297",
