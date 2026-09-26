@@ -4270,7 +4270,7 @@
         "time": "10pm–2am",
         "start": "22:00",
         "end": "02:00",
-        "area": "Los Angeles",
+        "area": "Echo Park",
         "venue": "The Holloway",
         "address": "1320 Echo Park Ave, Los Angeles, CA 90026",
         "why": "An east-side institution's monthly rather than a one-off touring show.",
@@ -4280,7 +4280,9 @@
         "tags": [
           "hip-hop",
           "r&b",
-          "echo-park"
+          "echo-park",
+          "future-rnb",
+          "uk-garage"
         ],
         "sources": [
           "https://ra.co/events/2511935"
@@ -4307,7 +4309,17 @@
         "image_generated": false,
         "popularity": 0,
         "active": true,
-        "enriched": 0
+        "enriched": 1,
+        "lineup": [
+          {
+            "name": "Saint Frere",
+            "instagram": null
+          },
+          {
+            "name": "AJELAM",
+            "instagram": null
+          }
+        ]
       },
       {
         "id": "2026-08-10-music-trailer-park-party-tour-los-an-c4af6b",
