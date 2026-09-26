@@ -5,7 +5,7 @@
   "location": "San Francisco & Bay Area",
   "city": "san-francisco",
   "city_label": "San Francisco",
-  "generated_at": "2026-08-14",
+  "generated_at": "2026-09-25",
   "tracks": {
     "music": [
       {
@@ -54,7 +54,8 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "active": true
+        "active": true,
+        "enriched": 0
       },
       {
         "id": "2026-08-31-music-black-tiger-sex-machine-kai-wa-5984f1",
@@ -100,7 +101,8 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "active": true
+        "active": true,
+        "enriched": 0
       },
       {
         "id": "2026-08-31-music-hyperdrive-with-kaya-c19127",
@@ -149,7 +151,8 @@
         "image": "https://images.ra.co/77053c7d139536c0bdb771ac4c45c82c64fee8f0.jpg",
         "image_generated": false,
         "popularity": 0,
-        "active": true
+        "active": true,
+        "enriched": 0
       },
       {
         "id": "2026-08-31-music-jason-ross-23d602",
@@ -198,7 +201,8 @@
         "image": "https://images.ra.co/32415389c8b9afc684ca699713861d5b92b858c5.png",
         "image_generated": false,
         "popularity": 0,
-        "active": true
+        "active": true,
+        "enriched": 0
       },
       {
         "id": "2026-08-31-music-bootie-mashup-classics-23-year-63707e",
@@ -248,7 +252,8 @@
         "image": "https://images.ra.co/79644fbf7dad9872e653259d537f0fa9979cf494.jpg",
         "image_generated": false,
         "popularity": 0,
-        "active": true
+        "active": true,
+        "enriched": 0
       },
       {
         "id": "2026-08-31-music-doc-martin-miguel-migs-david-h-646de2",
@@ -297,7 +302,8 @@
         "image": "https://images.ra.co/1c44fb774c24d3d165117fb3c60fb6b9c5dc2d75.jpg",
         "image_generated": false,
         "popularity": 0,
-        "active": true
+        "active": true,
+        "enriched": 0
       },
       {
         "id": "2026-08-31-music-hoochie-house-d2522e",
@@ -346,7 +352,8 @@
         "image": "https://images.ra.co/e91e93c2b1e0803175e60e027ef2d4c1a6f4df3b.jpg",
         "image_generated": false,
         "popularity": 0,
-        "active": true
+        "active": true,
+        "enriched": 0
       },
       {
         "id": "2026-08-31-music-natalia-roth-f7b6bc",
@@ -394,7 +401,8 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "active": true
+        "active": true,
+        "enriched": 0
       },
       {
         "id": "2026-08-31-music-partiboi69-harrison-bdp-presen-883f52",
@@ -443,30 +451,33 @@
         "image": "https://images.ra.co/a0dc4e4c66f8b66e4a633cdba05845fc97de4c9e.jpg",
         "image_generated": false,
         "popularity": 0,
-        "active": true
+        "active": true,
+        "enriched": 0
       },
       {
         "id": "2026-08-31-music-bounce-sf-pres-cara-elizabeth-919417",
         "eid": "bounce-sf-pres-cara-eliz-402b",
         "track": "music",
         "category": "Bounce/Techno",
-        "name": "Bounce SF pres Cara Elizabeth + WILDER\u00cdCH",
+        "name": "Bounce SF pres Cara Elizabeth + WILDERÍCH",
         "day": "Sun",
         "date": "2026-09-06",
         "time": "21:00-02:00",
         "start": null,
         "end": null,
-        "area": "San Francisco",
+        "area": "Financial District",
         "venue": "The Media Room",
         "address": "582 Market Street, San Francisco, CA 94104",
         "why": "Two-label crossover night blending bounce, techno and trance over a long weekend rather than one genre",
-        "summary": "Bounce SF presents Cara Elizabeth and WILDER\u00cdCH for a long-weekend party blending bounce, techno and trance across two favorite labels.",
-        "promoter": "",
+        "summary": "Bounce SF brings Berlin-based Cara Elizabeth's hard trance and neo-rave sound together with WILDERÍCH's San Francisco debut of raw hard bounce and techno, plus local support Fernsure.",
+        "promoter": "Bounce SF",
         "price": "$20",
         "tags": [
           "bounce",
           "techno",
-          "trance"
+          "trance",
+          "hard trance",
+          "neo-rave"
         ],
         "sources": [
           "https://ra.co/events/2507554"
@@ -492,7 +503,22 @@
         "image": "https://images.ra.co/6b7113a916aabb6c65fcf9380ff728347312ec6d.jpg",
         "image_generated": false,
         "popularity": 0,
-        "active": true
+        "active": true,
+        "enriched": 1,
+        "lineup": [
+          {
+            "name": "Cara Elizabeth",
+            "instagram": null
+          },
+          {
+            "name": "WILDERÍCH",
+            "instagram": null
+          },
+          {
+            "name": "Fernsure",
+            "instagram": null
+          }
+        ]
       },
       {
         "id": "2026-08-31-music-hayla-2e0a51",
@@ -527,7 +553,8 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "active": true
+        "active": true,
+        "enriched": 0
       },
       {
         "id": "2026-08-31-music-oksional-first-thursdays-profe-3823a7",
@@ -562,7 +589,8 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "active": true
+        "active": true,
+        "enriched": 0
       },
       {
         "id": "2026-08-31-music-roni-size-f6a04b",
@@ -597,7 +625,8 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "active": true
+        "active": true,
+        "enriched": 0
       },
       {
         "id": "2026-08-31-music-the-midway-block-party-present-505768",
@@ -630,7 +659,8 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "active": true
+        "active": true,
+        "enriched": 0
       },
       {
         "id": "2026-08-31-music-tonic-walter-267169",
@@ -678,7 +708,8 @@
         "image": "https://images.ra.co/55c104168858ff79410a00825aa660cbdf6b269d.jpg",
         "image_generated": false,
         "popularity": 0,
-        "active": true
+        "active": true,
+        "enriched": 0
       },
       {
         "id": "2026-08-31-music-black-tiger-sex-machine-kai-wa-b365ec",
@@ -711,7 +742,8 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "active": true
+        "active": true,
+        "enriched": 0
       },
       {
         "id": "2026-08-31-music-borgeous-398fd0",
@@ -760,7 +792,8 @@
         "image": "https://images.ra.co/5e28db3d6ce63b207260013e08368de00273d287.jpg",
         "image_generated": false,
         "popularity": 0,
-        "active": true
+        "active": true,
+        "enriched": 0
       },
       {
         "id": "2026-08-31-music-give-until-gone-57e3d5",
@@ -809,7 +842,8 @@
         "image": "https://images.ra.co/691c180526c5b1e08713c6c21c102e30985d4349.png",
         "image_generated": false,
         "popularity": 0,
-        "active": true
+        "active": true,
+        "enriched": 0
       },
       {
         "id": "2026-08-31-music-mostly-cloudy-b2b2b2b2b-7813a4",
@@ -859,7 +893,8 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "active": true
+        "active": true,
+        "enriched": 0
       },
       {
         "id": "2026-08-31-music-super-perreo-latin-rave-5a2d31",
@@ -892,7 +927,8 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "active": true
+        "active": true,
+        "enriched": 0
       },
       {
         "id": "2026-08-31-music-daft-disko-san-francisco-2de689",
@@ -927,7 +963,8 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "active": true
+        "active": true,
+        "enriched": 0
       },
       {
         "id": "2026-08-31-music-mutate-north-america-tour-942217",
@@ -960,7 +997,8 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "active": true
+        "active": true,
+        "enriched": 0
       },
       {
         "id": "2026-08-31-music-the-r-b-brunch-walnut-creek-la-b2c3d4",
@@ -970,7 +1008,7 @@
         "name": "The R&B Brunch: Walnut Creek (Labor Day Weekend)",
         "day": "Sun",
         "date": "2026-09-06",
-        "time": "11am\u20135pm",
+        "time": "11am–5pm",
         "start": "11:00",
         "end": "17:00",
         "area": "Walnut Creek",
@@ -1000,7 +1038,8 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "active": true
+        "active": true,
+        "enriched": 0
       },
       {
         "id": "2026-08-31-music-unreal-073f75",
@@ -1035,7 +1074,8 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "active": true
+        "active": true,
+        "enriched": 0
       },
       {
         "id": "2026-08-31-music-together-sf-1c9f2a",
@@ -1075,7 +1115,8 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "active": true
+        "active": true,
+        "enriched": 0
       }
     ],
     "sports": []
