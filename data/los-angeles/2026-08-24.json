@@ -1555,23 +1555,34 @@
         "id": "2026-08-24-music-sunday-sessions-la-mazko-a-all-a4daf5",
         "eid": "sunday-sessions-la-mazko-ce2c",
         "track": "music",
-        "category": "",
+        "category": "Electronic",
         "name": "Sunday Sessions LA: Mazko A. All Night Long (Vinyl Only)",
         "day": "Sun",
         "date": "2026-08-30",
-        "time": "",
-        "start": null,
-        "end": null,
-        "area": "Los Angeles",
+        "time": "6pm–12am",
+        "start": "18:00",
+        "end": "00:00",
+        "area": "DTLA",
         "venue": "TBA",
-        "address": "",
-        "why": "",
-        "summary": "",
-        "promoter": "",
+        "address": "1928 E 7th Pl, Los Angeles, CA 90021",
+        "why": "An all-vinyl, all-night closing set from touring DJ Mazko A. at LA's recurring vinyl-only open-air series.",
+        "summary": "Sunday Sessions LA closes out August with an all-night, vinyl-only open-air session in the Arts District, featuring touring DJ Mazko A. from Washington, D.C.",
+        "promoter": "Sunday Sessions LA",
         "price": "",
-        "tags": [],
-        "sources": [],
-        "tickets": [],
+        "tags": [
+          "vinyl-only",
+          "open-air",
+          "house",
+          "electronic"
+        ],
+        "sources": [
+          "https://www.eventbrite.com/e/sunday-sessions-la-vinyl-only-open-air-tickets-1993056397336",
+          "https://shotgun.live/en/events/sunday-sessions-la-08-24-86",
+          "https://www.instagram.com/sunday.sessions.la/"
+        ],
+        "tickets": [
+          "https://www.eventbrite.com/e/sunday-sessions-la-vinyl-only-open-air-tickets-1993056397336"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Los%20Angeles",
           "apple": "https://maps.apple.com/?q=Los%20Angeles"
@@ -1583,7 +1594,13 @@
         "image_generated": false,
         "popularity": 0,
         "active": true,
-        "enriched": 0
+        "enriched": 1,
+        "lineup": [
+          {
+            "name": "Mazko A.",
+            "instagram": null
+          }
+        ]
       },
       {
         "id": "2026-08-24-music-reggae-love-brunch-full-circle-b7c341",
