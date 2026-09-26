@@ -826,24 +826,27 @@
         "day": "Fri",
         "date": "2026-09-04",
         "time": "21:00-01:00",
-        "start": null,
+        "start": "21:00",
         "end": null,
         "area": "San Francisco",
         "venue": "The Independent",
         "address": "628 Divisadero Street, San Francisco, CA",
         "why": "German touring duo's US tour stop at a mid-size room, a rarer international booking than the weekend's local nights",
         "summary": "Bavarian electronic duo Tonic Walter (Maximilian Nestmann and Marcel Vckov) bring their 2026 US tour to The Independent.",
-        "promoter": "",
+        "promoter": "Another Planet Entertainment",
         "price": "",
         "tags": [
           "touring-act",
           "electronic-duo"
         ],
         "sources": [
-          "https://ra.co/events/2485116"
+          "https://ra.co/events/2485116",
+          "https://apeconcerts.com/events/tonic-walter-260904/",
+          "https://www.theindependentsf.com/tm-event/tonic-walter/"
         ],
         "tickets": [
-          "https://ra.co/events/2485116"
+          "https://ra.co/events/2485116",
+          "https://www.ticketweb.com/event/tonic-water-the-independent-tickets/14238254"
         ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=628%20Divisadero%20Street%2C%20San%20Francisco%2C%20CA",
@@ -864,7 +867,17 @@
         "image_generated": false,
         "popularity": 0,
         "active": true,
-        "enriched": 0
+        "enriched": 1,
+        "lineup": [
+          {
+            "name": "Tonic Walter",
+            "instagram": null
+          },
+          {
+            "name": "TVLI",
+            "instagram": null
+          }
+        ]
       },
       {
         "id": "2026-08-31-music-black-tiger-sex-machine-kai-wa-b365ec",
