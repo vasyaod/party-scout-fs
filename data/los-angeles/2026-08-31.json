@@ -1989,14 +1989,14 @@
         "day": "Sun",
         "date": "2026-09-06",
         "time": "20:00",
-        "start": null,
+        "start": "20:00",
         "end": null,
-        "area": "LA",
+        "area": "Hollywood",
         "venue": "Fonda Theatre",
         "address": "6126 Hollywood Blvd, Hollywood, CA 90028",
         "why": "A rare US date from a Scandinavian art-pop/electronic act, not another local DJ night.",
         "summary": "Norwegian electronic duo Smerz play the Fonda Theatre in Hollywood as part of their North American tour.",
-        "promoter": "",
+        "promoter": "Goldenvoice",
         "price": "$40-50",
         "tags": [
           "electronic",
@@ -2004,9 +2004,14 @@
           "indie"
         ],
         "sources": [
-          "https://ra.co/events/2435364"
+          "https://ra.co/events/2435364",
+          "https://www.axs.com/events/1417816/smerz-tickets",
+          "https://www.ticketmaster.com/event/Z7r9jZ1A7x_AP"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://www.axs.com/events/1417816/smerz-tickets",
+          "https://www.ticketmaster.com/event/Z7r9jZ1A7x_AP"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=6126%20Hollywood%20Blvd%2C%20Hollywood%2C%20CA%2090028",
           "apple": "https://maps.apple.com/?q=6126%20Hollywood%20Blvd%2C%20Hollywood%2C%20CA%2090028"
@@ -2022,7 +2027,7 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       }
     ],
