@@ -1958,14 +1958,14 @@
         "day": "Sat",
         "date": "2026-08-15",
         "time": "22:00–02:00",
-        "start": null,
-        "end": null,
-        "area": "Los Angeles",
+        "start": "22:00",
+        "end": "02:00",
+        "area": "West Hollywood",
         "venue": "Sunset at EDITION",
         "address": "1090 NORTH DOHENY DRIVE, WEST HOLLYWOOD, CA 90069",
         "why": "A hotel rooftop house night pairing two different resident DJs.",
         "summary": "Expression returns to the dance floor in partnership with Sunset at EDITION, with DJ sets from Things You Say and Zen Freeman.",
-        "promoter": "",
+        "promoter": "Zen Freeman",
         "price": "$20",
         "tags": [
           "house",
@@ -1997,7 +1997,17 @@
         "image_generated": false,
         "popularity": 0,
         "active": true,
-        "enriched": 0
+        "enriched": 1,
+        "lineup": [
+          {
+            "name": "Things You Say",
+            "instagram": null
+          },
+          {
+            "name": "Zen Freeman",
+            "instagram": null
+          }
+        ]
       },
       {
         "id": "2026-08-10-music-float-rooftop-pool-party-feat-070c71",
