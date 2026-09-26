@@ -1799,23 +1799,29 @@
         "date": "2026-08-21",
         "time": "6pm–12am",
         "start": "18:00",
-        "end": null,
+        "end": "00:00",
         "area": "Los Angeles",
         "venue": "Six Flags Magic Mountain",
         "address": "26101 Magic Mountain Pkwy, Valencia, CA 91355",
         "why": "Rare chance to pair theme-park rides with a queer dance party",
         "summary": "Six Flags Magic Mountain's one-night LGBTQ Pride Night pairs the park's rides with multiple dance parties and entertainment.",
-        "promoter": "",
+        "promoter": "Out on the Mountain",
         "price": "$74",
         "tags": [
           "tech-house",
           "club",
-          "lgbtq"
+          "lgbtq",
+          "drag",
+          "pride"
         ],
         "sources": [
-          "https://ra.co/events/2494854"
+          "https://ra.co/events/2494854",
+          "https://www.outonthemountain.com/",
+          "https://www.sixflags.com/magicmountain/events/out-on-the-mountain"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://www.outonthemountain.com/"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Six%20Flags%20Magic%20Mountain",
           "apple": "https://maps.apple.com/?q=Six%20Flags%20Magic%20Mountain"
@@ -1834,7 +1840,29 @@
         "image_generated": true,
         "popularity": 0,
         "active": true,
-        "enriched": 0
+        "enriched": 1,
+        "lineup": [
+          {
+            "name": "April Carrión",
+            "instagram": null
+          },
+          {
+            "name": "Jessica Wild",
+            "instagram": null
+          },
+          {
+            "name": "Ray Rhodes",
+            "instagram": null
+          },
+          {
+            "name": "DJ SRO",
+            "instagram": null
+          },
+          {
+            "name": "Casey Alva",
+            "instagram": null
+          }
+        ]
       },
       {
         "id": "2026-08-17-music-sanctuary-10-year-anniversary-ff0382",
