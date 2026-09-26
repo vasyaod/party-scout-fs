@@ -5,7 +5,7 @@
   "location": "Los Angeles & SoCal",
   "city": "los-angeles",
   "city_label": "Los Angeles",
-  "generated_at": "2026-09-25",
+  "generated_at": "2026-09-26",
   "tracks": {
     "music": [
       {
@@ -91,11 +91,11 @@
         "time": "9pm-5am",
         "start": "21:00",
         "end": "05:00",
-        "area": "Los Angeles",
-        "venue": "",
-        "address": "Los Angeles, CA",
+        "area": "DTLA",
+        "venue": "1720",
+        "address": "1720 E 16th St, Los Angeles, CA 90021",
         "why": "All-night 18+ trap rave with secret guests, not a single-headliner set.",
-        "summary": "Trap Rave and Code Red present LUCKI for an 18+ night in Los Angeles running 9pm to 5am with secret special guests, Friday August 21.",
+        "summary": "Trap Rave and Code Red team up for an all-night LUCKI after-party and performance at 1720 in Downtown LA's Arts District, running 9pm to 5am Friday, August 21.",
         "price": "",
         "tags": [
           "trap",
@@ -110,9 +110,13 @@
           }
         ],
         "sources": [
-          "https://www.instagram.com/p/Db1zfCCTW3G/"
+          "https://www.instagram.com/p/Db1zfCCTW3G/",
+          "https://app.discotech.me/events/38233981-lucki-after-party-performance-in-la-at-1720-nightclub",
+          "https://www.etix.com/ticket/p/79627468/lucki-after-party-performance-in-la-los-angeles-1720"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://www.etix.com/ticket/p/79627468/lucki-after-party-performance-in-la-los-angeles-1720"
+        ],
         "maps": {},
         "coords_precise": false,
         "image": "https://party-scout.app/stub.jpg",
@@ -122,7 +126,8 @@
         "popularity": 4,
         "id": "2026-08-17-music-trap-rave-x-code-red-present-lucki-6ac7d2",
         "eid": "trap-rave-code-red-lucki-2026",
-        "enriched": 0
+        "enriched": 1,
+        "promoter": "Trap Rave x Code Red"
       },
       {
         "id": "2026-08-17-music-big-gay-day-rave-a-queer-day-p-e9abc9",
