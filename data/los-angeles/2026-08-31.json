@@ -523,14 +523,14 @@
         "day": "Sun",
         "date": "2026-09-06",
         "time": "14:00–20:00",
-        "start": null,
-        "end": null,
+        "start": "14:00",
+        "end": "20:00",
         "area": "LA",
         "venue": "Level 8 DTLA",
         "address": "1254 S Figueroa St, Los Angeles, CA 90015",
         "why": "Sunday edition of the same DTLA rooftop pool party, Scottish house producer headlines.",
         "summary": "Orlove by Day and Stereo Punks present GRUM, the Scottish producer known for emotive electronic productions, for a Labor Day Sunday pool party atop Level 8 DTLA.",
-        "promoter": "",
+        "promoter": "Stereo Punks & Orlove By Day",
         "price": "$20",
         "tags": [
           "house",
@@ -539,7 +539,8 @@
           "daytime"
         ],
         "sources": [
-          "https://ra.co/events/2401748"
+          "https://ra.co/events/2401748",
+          "https://www.eventbrite.com/e/grum-pool-party-at-level-8-labor-day-sunday-tickets-1985670164916"
         ],
         "tickets": [
           "https://ra.co/events/2401748"
@@ -563,7 +564,13 @@
         "image_generated": false,
         "popularity": 0,
         "active": true,
-        "enriched": 0
+        "enriched": 1,
+        "lineup": [
+          {
+            "name": "Grum",
+            "instagram": null
+          }
+        ]
       },
       {
         "id": "2026-08-31-music-hypnosis-001-mama-j-s-birthday-fa5b93",
