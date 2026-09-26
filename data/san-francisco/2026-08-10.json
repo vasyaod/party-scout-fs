@@ -6362,27 +6362,34 @@
         "id": "2026-08-10-sports-city-beer-runs-laughing-monk-b-1384c0",
         "eid": "city-beer-runs-laughing-57c6",
         "track": "sports",
-        "category": "",
+        "category": "Run/Social",
         "name": "City Beer Runs: Laughing Monk Brewing (5K/10K)",
         "day": "Sun",
         "date": "2026-08-16",
-        "time": "",
-        "start": null,
-        "end": null,
-        "area": "San Francisco",
+        "time": "11am-2pm",
+        "start": "11:00",
+        "end": "14:00",
+        "area": "Bayview",
         "venue": "Laughing Monk Brewing",
-        "address": "",
-        "why": "",
-        "summary": "",
-        "promoter": "",
-        "price": "",
+        "address": "1439 Egbert Ave, San Francisco, CA 94124",
+        "why": "A social 5K/10K that ends in a brewery taproom with a post-run raffle",
+        "summary": "City Beer Runs brings a 5K/10K fun run to Laughing Monk Brewing in Bayview, with check-in at 11am, post-run social with taps flowing at noon, and a raffle at 1:15pm.",
+        "promoter": "City Beer Runs",
+        "price": "$37",
         "tags": [
           "run",
           "5k",
-          "10k"
+          "10k",
+          "beer",
+          "social",
+          "brewery"
         ],
-        "sources": [],
-        "tickets": [],
+        "sources": [
+          "https://www.citybeerruns.com/laughing-monk-brewing.html"
+        ],
+        "tickets": [
+          "https://sweattracker.com/Registration/CBR"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Laughing%20Monk%20Brewing%2C%20San%20Francisco",
           "apple": "https://maps.apple.com/?q=Laughing%20Monk%20Brewing%2C%20San%20Francisco"
@@ -6394,7 +6401,7 @@
         "image_generated": false,
         "popularity": 0,
         "active": true,
-        "enriched": 0
+        "enriched": 1
       }
     ]
   }
