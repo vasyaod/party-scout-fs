@@ -5460,15 +5460,21 @@
         "area": "San Francisco",
         "venue": "TBA",
         "address": "",
-        "why": "",
-        "summary": "",
-        "promoter": "",
+        "why": "A phone-free, secret-location after-hours session that runs past normal closing time.",
+        "summary": "NYX: Late Night is a members-oriented, secret-location after-hours club series in San Francisco; #067 features DJ Tirox, with the venue revealed to ticket holders via SMS shortly before doors.",
+        "promoter": "NYX: Late Night",
         "price": "",
         "tags": [
           "house",
-          "EDM"
+          "EDM",
+          "after hours",
+          "secret location"
         ],
-        "sources": [],
+        "sources": [
+          "https://www.nyxlatenight.com/",
+          "https://edmtrain.com/san-francisco-ca/nyx-late-night-clubbing-067-saturday-w-tirox-467421",
+          "https://www.instagram.com/nyxlatenight/"
+        ],
         "tickets": [],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=San%20Francisco",
@@ -5481,7 +5487,13 @@
         "image_generated": false,
         "popularity": 0,
         "active": true,
-        "enriched": 0
+        "enriched": 1,
+        "lineup": [
+          {
+            "name": "Tirox",
+            "instagram": null
+          }
+        ]
       },
       {
         "id": "2026-08-10-music-night-bloom-femme-jatale-7f0bd1",
