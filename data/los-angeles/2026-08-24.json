@@ -2269,22 +2269,31 @@
         "id": "2026-08-24-sports-monday-runday-e36549",
         "eid": "monday-runday-10c6",
         "track": "sports",
-        "category": "",
+        "category": "Running",
         "name": "Monday Runday",
         "day": "Mon",
         "date": "2026-08-24",
-        "time": "",
-        "start": null,
-        "end": null,
+        "time": "6:45–8pm",
+        "start": "18:45",
+        "end": "20:00",
         "area": "Playa Del Rey",
         "venue": "Playa Provisions",
-        "address": "",
-        "why": "",
-        "summary": "",
-        "promoter": "",
+        "address": "119 Culver Blvd, Playa Del Rey, CA 90293",
+        "why": "Casual sunset beach run near Playa Provisions, open to all paces and faces",
+        "summary": "A weekly Monday-evening group run/walk with the Los Angeles Running Club along the Playa Del Rey coastline, covering roughly 3-5 miles at a mix of paces.",
+        "promoter": "Los Angeles Running Club",
         "price": "",
-        "tags": [],
-        "sources": [],
+        "tags": [
+          "running",
+          "run-club",
+          "outdoor",
+          "beach",
+          "sunset",
+          "weekly"
+        ],
+        "sources": [
+          "https://www.larunningclub.com/"
+        ],
         "tickets": [],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Playa%20Provisions%2C%20Playa%20Del%20Rey",
@@ -2297,7 +2306,7 @@
         "image_generated": false,
         "popularity": 0,
         "active": true,
-        "enriched": 0
+        "enriched": 1
       },
       {
         "id": "2026-08-24-sports-wednesday-night-track-5c4658",
