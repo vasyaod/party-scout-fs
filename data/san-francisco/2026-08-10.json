@@ -5,7 +5,7 @@
   "location": "San Francisco & Bay Area",
   "city": "san-francisco",
   "city_label": "San Francisco",
-  "generated_at": "2026-09-23",
+  "generated_at": "2026-09-26",
   "tracks": {
     "music": [
       {
@@ -5179,25 +5179,30 @@
         "id": "2026-08-10-music-bensley-jamal-flaco-khariszma-6b6cbe",
         "eid": "bensley-jamal-flaco-khar-909d",
         "track": "music",
-        "category": "",
+        "category": "Drum & Bass",
         "name": "Bensley, Jamal, Flaco, Khariszma",
         "day": "Sun",
         "date": "2026-08-16",
-        "time": "",
-        "start": null,
-        "end": null,
-        "area": "San Francisco",
+        "time": "10pm-2am",
+        "start": "22:00",
+        "end": "02:00",
+        "area": "SoMa",
         "venue": "F8 1192 Folsom",
-        "address": "",
-        "why": "",
-        "summary": "",
-        "promoter": "",
+        "address": "1192 Folsom St, San Francisco, CA 94103",
+        "why": "F8's long-running, always-free Sunday DnB residents night in SoMa",
+        "summary": "Stamina Sundays returns to F8 for its weekly free drum & bass night, with residents Jamal, Flaco and Khariszma joined by Bensley.",
+        "promoter": "Stamina",
         "price": "Free",
         "tags": [
           "drum and bass",
-          "jungle"
+          "jungle",
+          "free",
+          "residents",
+          "soma"
         ],
-        "sources": [],
+        "sources": [
+          "http://www.feightsf.com/new-events/stamina-sundays-august-16-2026"
+        ],
         "tickets": [],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=F8%201192%20Folsom%2C%20San%20Francisco",
@@ -5210,7 +5215,25 @@
         "image_generated": false,
         "popularity": 0,
         "active": true,
-        "enriched": 0
+        "enriched": 1,
+        "lineup": [
+          {
+            "name": "Bensley",
+            "instagram": null
+          },
+          {
+            "name": "Jamal",
+            "instagram": null
+          },
+          {
+            "name": "Flaco",
+            "instagram": null
+          },
+          {
+            "name": "Khariszma",
+            "instagram": null
+          }
+        ]
       },
       {
         "id": "2026-08-10-music-caravan-oasis-j-espinosa-raag-3af285",
