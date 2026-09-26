@@ -848,25 +848,33 @@
         "id": "2026-08-24-music-5-seconds-of-summer-675345",
         "eid": "5-seconds-of-summer-cb2a",
         "track": "music",
-        "category": "",
+        "category": "Pop-Rock",
         "name": "5 Seconds of Summer",
         "day": "Fri",
         "date": "2026-08-28",
-        "time": "",
-        "start": null,
+        "time": "7pm",
+        "start": "19:00",
         "end": null,
-        "area": "San Francisco/Oakland",
+        "area": "Mountain View",
         "venue": "Shoreline Amphitheater",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "1 Amphitheatre Pkwy, Mountain View, CA 94043",
+        "why": "Global pop-rock hitmakers headline a massive outdoor amphitheatre show on their Everyone's a Star! world tour.",
+        "summary": "5 Seconds of Summer bring their Everyone's a Star! World Tour to Shoreline Amphitheatre in Mountain View, with support from The Band CAMINO.",
         "promoter": "",
-        "price": "$30",
-        "tags": [],
-        "sources": [
-          "https://ra.co/events/2330014"
+        "price": "$31",
+        "tags": [
+          "pop-rock",
+          "arena-tour",
+          "outdoor"
         ],
-        "tickets": [],
+        "sources": [
+          "https://ra.co/events/2330014",
+          "https://www.ticketmaster.com/5-seconds-of-summer-everyones-a-mountain-view-california-08-28-2026/event/1C006356D601A793"
+        ],
+        "tickets": [
+          "https://www.ticketmaster.com/5-seconds-of-summer-everyones-a-mountain-view-california-08-28-2026/event/1C006356D601A793",
+          "https://www.axs.com/events/1198887/5-seconds-of-summer-tickets"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Shoreline%20Amphitheater%2C%20San%20Francisco/Oakland",
           "apple": "https://maps.apple.com/?q=Shoreline%20Amphitheater%2C%20San%20Francisco/Oakland"
@@ -878,7 +886,17 @@
         "image_generated": false,
         "popularity": 0,
         "active": true,
-        "enriched": 0
+        "enriched": 1,
+        "lineup": [
+          {
+            "name": "5 Seconds of Summer",
+            "instagram": null
+          },
+          {
+            "name": "The Band CAMINO",
+            "instagram": null
+          }
+        ]
       },
       {
         "id": "2026-08-24-music-alice-in-raverland-e93684",
