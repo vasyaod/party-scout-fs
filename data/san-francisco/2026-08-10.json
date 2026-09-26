@@ -5666,22 +5666,28 @@
         "name": "Passion Pit - The Pretty Penny Tour",
         "day": "Sun",
         "date": "2026-08-16",
-        "time": "",
-        "start": null,
-        "end": null,
+        "time": "6:30pm doors, 7:30pm show",
+        "start": "18:30",
+        "end": "22:30",
         "area": "Oakland",
         "venue": "Fox Theater",
-        "address": "",
-        "why": "",
-        "summary": "",
-        "promoter": "",
+        "address": "1807 Telegraph Ave, Oakland, CA 94612",
+        "why": "A rare full-band Passion Pit show at the Fox, all ages, with Arden Jones opening",
+        "summary": "Passion Pit frontman Michael Angelakos and his full band bring The Pretty Penny Tour to the Fox Theater, mixing dreamy electropop favorites like \"Take a Walk\" and \"Sleepyhead\" with new material, with support from Arden Jones.",
+        "promoter": "LIVE 105 / Another Planet Entertainment",
         "price": "$56",
         "tags": [
           "synthpop",
-          "indie dance"
+          "indie dance",
+          "all-ages"
         ],
-        "sources": [],
-        "tickets": [],
+        "sources": [
+          "https://thefoxoakland.com/events/passion-pit-260816",
+          "https://apeconcerts.com/events/passion-pit-260816/"
+        ],
+        "tickets": [
+          "https://www.ticketmaster.com/passion-pit-the-pretty-penny-tour-oakland-california-08-16-2026/event/1C0064649FF0C85A?camefrom=CFC_ANOTHERPLANET_web&brand=anotherplanet"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Fox%20Theater%2C%20Oakland",
           "apple": "https://maps.apple.com/?q=Fox%20Theater%2C%20Oakland"
@@ -5693,7 +5699,17 @@
         "image_generated": false,
         "popularity": 0,
         "active": true,
-        "enriched": 0
+        "enriched": 1,
+        "lineup": [
+          {
+            "name": "Passion Pit",
+            "instagram": null
+          },
+          {
+            "name": "Arden Jones",
+            "instagram": null
+          }
+        ]
       },
       {
         "id": "2026-08-10-music-sindustry-sundays-dj-jd-jeff-s-41e113",
