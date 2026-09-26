@@ -1951,12 +1951,12 @@
         "time": "4:00 PM - 8:00 PM (doors 3pm)",
         "start": "16:00",
         "end": "20:00",
-        "area": "San Francisco",
+        "area": "SoMa",
         "venue": "Salesforce Park",
         "address": "Salesforce Park, San Francisco, CA",
         "why": "Free, outdoor, daytime rooftop-park techno with a live hardware set from Lady Starlight — exactly the free-outdoor-daytime type Vasilii likes.",
         "summary": "Free Techno returns to Salesforce Park's rooftop amphitheater Saturday, August 22, 4-8pm, with a live hardware performance from Lady Starlight plus DJ sets from Adra, Max Gardner and Zachary Noel.",
-        "promoter": "",
+        "promoter": "Free Techno",
         "price": "Free",
         "tags": [
           "techno",
@@ -1967,7 +1967,8 @@
         ],
         "sources": [
           "https://www.tjpa.org/about-tjpa/news-information/press-releases/tjpa-announces-2026-rooftop-rhythms-weekend-salesforce",
-          "https://sf.funcheap.com/free-rooftop-techno-party-truncate-salesforce-park/"
+          "https://sf.funcheap.com/free-rooftop-techno-party-truncate-salesforce-park/",
+          "https://ra.co/events/2499520"
         ],
         "tickets": [
           "https://rooftoprhythms.tixr.com"
@@ -1983,7 +1984,25 @@
         "image_generated": true,
         "popularity": 0,
         "active": true,
-        "enriched": 0
+        "enriched": 1,
+        "lineup": [
+          {
+            "name": "Lady Starlight",
+            "instagram": null
+          },
+          {
+            "name": "Adra",
+            "instagram": null
+          },
+          {
+            "name": "Max Gardner",
+            "instagram": null
+          },
+          {
+            "name": "Zachary Noel",
+            "instagram": null
+          }
+        ]
       },
       {
         "id": "2026-08-17-music-freeform-b70f17",
