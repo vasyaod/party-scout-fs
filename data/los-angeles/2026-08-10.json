@@ -4080,22 +4080,27 @@
         "id": "2026-08-10-music-dauber-a44acc",
         "eid": "dauber-8293",
         "track": "music",
-        "category": "",
+        "category": "Punk",
         "name": "Dauber",
         "day": "Sun",
         "date": "2026-08-16",
         "time": "",
         "start": null,
         "end": null,
-        "area": "Los Angeles",
+        "area": "DTLA",
         "venue": "The Redwood Bar And Grill",
-        "address": "",
-        "why": "",
-        "summary": "",
-        "promoter": "",
+        "address": "316 W 2nd St, Los Angeles, CA 90012",
+        "why": "A DIY punk lineup promoted by Under The Radar Records at the pirate-themed Redwood Bar.",
+        "summary": "Dauber plays a punk bill at Redwood Bar & Grill in Downtown LA with The Pretty Flowers, Spires, and J Mau & The Kiss Off.",
+        "promoter": "Under The Radar Records",
         "price": "",
-        "tags": [],
-        "sources": [],
+        "tags": [
+          "punk",
+          "dtla"
+        ],
+        "sources": [
+          "https://www.facebook.com/UnderTheRadarRecordsLA/posts/1666765515457253/"
+        ],
         "tickets": [],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=The%20Redwood%20Bar%20And%20Grill%2C%20Los%20Angeles",
@@ -4108,7 +4113,21 @@
         "image_generated": false,
         "popularity": 0,
         "active": true,
-        "enriched": 0
+        "enriched": 1,
+        "lineup": [
+          {
+            "name": "The Pretty Flowers",
+            "instagram": null
+          },
+          {
+            "name": "Spires",
+            "instagram": null
+          },
+          {
+            "name": "J Mau & The Kiss Off",
+            "instagram": null
+          }
+        ]
       },
       {
         "id": "2026-08-10-music-heaven-sent-585eee",
