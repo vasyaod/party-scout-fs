@@ -2296,22 +2296,28 @@
         "id": "2026-08-24-sports-wednesday-night-track-5c4658",
         "eid": "wednesday-night-track-b7d2",
         "track": "sports",
-        "category": "",
+        "category": "Track Workout",
         "name": "Wednesday Night Track",
         "day": "Wed",
         "date": "2026-08-26",
-        "time": "",
-        "start": null,
+        "time": "7pm",
+        "start": "19:00",
         "end": null,
         "area": "Santa Monica",
         "venue": "Santa Monica High School",
-        "address": "",
-        "why": "",
-        "summary": "",
-        "promoter": "",
-        "price": "",
-        "tags": [],
-        "sources": [],
+        "address": "601 Pico Blvd, Santa Monica, CA 90405",
+        "why": "A free-parking, coached weekly track workout open to LA Running Club members, capped at 50 runners first-come first-served.",
+        "summary": "Los Angeles Running Club's weekly Threshold Track Training session at Santa Monica High School's track, capped at 50 runners.",
+        "promoter": "Los Angeles Running Club",
+        "price": "$65/yr membership",
+        "tags": [
+          "running",
+          "track",
+          "fitness"
+        ],
+        "sources": [
+          "https://www.larunningclub.com/"
+        ],
         "tickets": [],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Santa%20Monica%20High%20School%2C%20Santa%20Monica",
@@ -2324,7 +2330,7 @@
         "image_generated": false,
         "popularity": 0,
         "active": true,
-        "enriched": 0
+        "enriched": 1
       },
       {
         "id": "2026-08-24-sports-thursday-love-hour-5138da",
