@@ -631,14 +631,14 @@
         "day": "Sun",
         "date": "2026-09-06",
         "time": "15:00–23:00",
-        "start": null,
+        "start": "15:00",
         "end": null,
-        "area": "LA",
+        "area": "Los Angeles",
         "venue": "TBA - Los Angeles",
         "address": "",
-        "why": "Six-artist back-to-back techno bridge set, undisclosed venue, Sunday into evening.",
-        "summary": "Intercell returns to LA with a six-artist lineup — Annika Wolfe, DAX J, Grace Dahl, Max Gardner b2b Lorely Mur and a live set from Stef Mendesidis — at an undisclosed venue.",
-        "promoter": "",
+        "why": "A cross-continental techno bridge with a live b2b set, at a secret venue revealed only to ticket holders.",
+        "summary": "Intercell brings a six-artist techno bridge to LA at an undisclosed venue, with Annika Wolfe, DAX J, Grace Dahl, Max Gardner b2b Lorely Mur and a live set from Stef Mendesidis; the address is emailed to ticket holders 2 hours before doors.",
+        "promoter": "RE/FORM",
         "price": "$40-80",
         "tags": [
           "techno",
@@ -646,10 +646,14 @@
           "live"
         ],
         "sources": [
-          "https://ra.co/events/2437805"
+          "https://ra.co/events/2437805",
+          "https://dice.fm/event/v32bll-intercell-la-annika-wolfe-dax-j-grace-dahl-max-gardner-b2b-lorely-mur-stef-mendesidis-6th-sep-location-tba-los-angeles-los-angeles-tickets",
+          "https://dirty-epic.com/2026/07/01/intercell-la-annika-wolfe-dax-j-grace-dahl-max-gardner-b2b-lorely-mur-stef-mendesidis-sept-6-la/",
+          "https://www.intercell.events/events/intercell-los-angeles-2026"
         ],
         "tickets": [
-          "https://ra.co/events/2437805"
+          "https://ra.co/events/2437805",
+          "https://dice.fm/event/v32bll-intercell-la-annika-wolfe-dax-j-grace-dahl-max-gardner-b2b-lorely-mur-stef-mendesidis-6th-sep-location-tba-los-angeles-los-angeles-tickets"
         ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=LA",
@@ -670,7 +674,33 @@
         "image_generated": false,
         "popularity": 0,
         "active": true,
-        "enriched": 0
+        "enriched": 1,
+        "lineup": [
+          {
+            "name": "Annika Wolfe",
+            "instagram": null
+          },
+          {
+            "name": "DAX J",
+            "instagram": null
+          },
+          {
+            "name": "Grace Dahl",
+            "instagram": null
+          },
+          {
+            "name": "Max Gardner",
+            "instagram": null
+          },
+          {
+            "name": "Lorely Mur",
+            "instagram": null
+          },
+          {
+            "name": "Stef Mendesidis",
+            "instagram": null
+          }
+        ]
       },
       {
         "id": "2026-08-31-music-labor-day-sunday-pool-party-wh-24cbdb",
