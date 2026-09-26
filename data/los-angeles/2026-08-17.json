@@ -406,7 +406,7 @@
         "address": "",
         "why": "A global touring lineup (NY, Berlin) at a TBA venue with an explicit harm-reduction policy.",
         "summary": "bodyshop headlines Dangerous Rose with support from New York's Josh Steers and Berlin's Kylie Exotic at a TBA location, 21+, 11pm-5am.",
-        "promoter": "",
+        "promoter": "bodyshop",
         "price": "$45",
         "tags": [
           "21+",
@@ -438,7 +438,21 @@
         "image_generated": false,
         "popularity": 1,
         "active": true,
-        "enriched": 0
+        "enriched": 1,
+        "lineup": [
+          {
+            "name": "Dangerous Rose",
+            "instagram": null
+          },
+          {
+            "name": "Josh Steers",
+            "instagram": "joshsteers"
+          },
+          {
+            "name": "Kylie Exotic",
+            "instagram": "kylie.exotic"
+          }
+        ]
       },
       {
         "id": "2026-08-17-music-cvntrol-freak-e7e1c9",
