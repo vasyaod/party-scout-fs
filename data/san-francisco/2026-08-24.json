@@ -1116,20 +1116,22 @@
         "end": "03:00",
         "area": "SF",
         "venue": "1015 Folsom",
-        "address": "",
+        "address": "1015 Folsom St, San Francisco, CA 94103",
         "why": "Multi-room 1015 Folsom night pairing a headliner with a deep support lineup",
         "summary": "1015 Folsom hosts ChaseWest headlining alongside SMALLS, A-MILLI and Kat Jabba, with a second lineup running in the Lin Lounge room.",
-        "promoter": "",
+        "promoter": "DJ Dials & 1015 Folsom",
         "price": "20-25",
         "tags": [
           "club",
           "lineup"
         ],
         "sources": [
-          "https://ra.co/events/2471871"
+          "https://ra.co/events/2471871",
+          "https://www.eventbrite.com/e/chasewest-tickets-1992171466484"
         ],
         "tickets": [
-          "https://ra.co/events/2471871"
+          "https://ra.co/events/2471871",
+          "https://www.eventbrite.com/e/chasewest-tickets-1992171466484"
         ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=1015%20Folsom%2C%20SF",
@@ -1147,7 +1149,25 @@
         "image_generated": false,
         "popularity": 0,
         "active": true,
-        "enriched": 0
+        "enriched": 1,
+        "lineup": [
+          {
+            "name": "ChaseWest",
+            "instagram": null
+          },
+          {
+            "name": "SMALLS",
+            "instagram": null
+          },
+          {
+            "name": "A-MILLI",
+            "instagram": null
+          },
+          {
+            "name": "Kat Jabba",
+            "instagram": null
+          }
+        ]
       },
       {
         "id": "2026-08-24-music-chinatown-after-dark-58dd0d",
