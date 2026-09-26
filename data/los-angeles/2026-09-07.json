@@ -72,24 +72,29 @@
         "id": "2026-09-07-music-azure-huntington-beach-w-zueze-8597f0",
         "eid": "azure-huntington-beach-w-852a",
         "track": "music",
-        "category": "",
+        "category": "Day Party",
         "name": "Azure Huntington Beach w/ Zuezeu",
         "day": "Mon",
         "date": "2026-09-07",
-        "time": "",
-        "start": null,
-        "end": null,
+        "time": "2:00 PM - 9:00 PM",
+        "start": "14:00",
+        "end": "21:00",
         "area": "Huntington Beach",
         "venue": "The Bungalow",
-        "address": "",
-        "why": "",
-        "summary": "",
-        "promoter": "",
+        "address": "21058 Pacific Coast Hwy #240, Huntington Beach, CA",
+        "why": "Azure Day Party is a rooftop/oceanfront daytime house series that's grown a big following since its NYC start; this stop brings ZueZeu to The Bungalow's Huntington Beach location.",
+        "summary": "Azure Day Party's weekly daytime house music residency at The Bungalow Huntington Beach, with ZueZeu on the decks for the Labor Day session.",
+        "promoter": "Azure Day Party / The Bungalow Hospitality Group",
         "price": "$20",
         "tags": [
-          "tech house"
+          "tech house",
+          "day party",
+          "house"
         ],
-        "sources": [],
+        "sources": [
+          "https://thebungalow.com/huntington-beach/azure-day-party/",
+          "https://posh.vip/e/azure-day-party-huntington-beach-20"
+        ],
         "tickets": [],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=The%20Bungalow%2C%20Huntington%20Beach",
@@ -101,8 +106,9 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
-        "active": true
+        "enriched": 1,
+        "active": true,
+        "lineup": []
       },
       {
         "id": "2026-09-07-music-beats-by-da-beach-labor-day-20-a9cbbe",
