@@ -2147,21 +2147,29 @@
         "name": "Hell Heim Goth Night",
         "day": "Sat",
         "date": "2026-08-22",
-        "time": "",
-        "start": null,
-        "end": null,
+        "time": "7pm-11:59pm",
+        "start": "19:00",
+        "end": "23:59",
         "area": "Santa Rosa",
         "venue": "The California Theatre",
-        "address": "",
-        "why": "",
-        "summary": "",
-        "promoter": "",
+        "address": "528 7th St, Santa Rosa, CA 95401",
+        "why": "A recurring Hell Heim goth night edition featuring three live Sonoma County goth/industrial acts under one roof.",
+        "summary": "Goth/industrial/darkwave dance night at The California Theatre with live sets from Glitter Goth, Riveted, and Tulpa.",
+        "promoter": "Bitter End Booking",
         "price": "",
         "tags": [
-          "goth"
+          "goth",
+          "industrial",
+          "darkwave",
+          "live"
         ],
-        "sources": [],
-        "tickets": [],
+        "sources": [
+          "https://www.eventbrite.com/e/hell-heim-goth-night-feat-glitter-goth-riveted-and-tulpa-tickets-1995198930711",
+          "https://www.caltheatre.com/calendar"
+        ],
+        "tickets": [
+          "https://www.eventbrite.com/e/hell-heim-goth-night-feat-glitter-goth-riveted-and-tulpa-tickets-1995198930711"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=The%20California%20Theatre%2C%20Santa%20Rosa",
           "apple": "https://maps.apple.com/?q=The%20California%20Theatre%2C%20Santa%20Rosa"
@@ -2173,7 +2181,21 @@
         "image_generated": true,
         "popularity": 0,
         "active": true,
-        "enriched": 0
+        "enriched": 1,
+        "lineup": [
+          {
+            "name": "Glitter Goth",
+            "instagram": null
+          },
+          {
+            "name": "Riveted",
+            "instagram": null
+          },
+          {
+            "name": "Tulpa",
+            "instagram": null
+          }
+        ]
       },
       {
         "id": "2026-08-17-music-house-on-the-lake-jumanjee-g4-d4c48b",
