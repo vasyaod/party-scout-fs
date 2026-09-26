@@ -1047,23 +1047,32 @@
         "id": "2026-08-24-music-fea-1eb870",
         "eid": "fea-6937",
         "track": "music",
-        "category": "",
+        "category": "Punk",
         "name": "FEA",
         "day": "Fri",
         "date": "2026-08-28",
-        "time": "",
-        "start": null,
+        "time": "8pm",
+        "start": "20:00",
         "end": null,
-        "area": "Los Angeles",
+        "area": "DTLA",
         "venue": "The Redwood Bar And Grill",
-        "address": "",
-        "why": "",
-        "summary": "",
-        "promoter": "",
+        "address": "316 W 2nd St, Los Angeles, CA 90012",
+        "why": "San Antonio Chicana punk band, produced by Alice Bag, headlining a four-band punk bill",
+        "summary": "FEA, the San Antonio-based Chicana punk band whose sophomore album 'No Novelties' was produced by punk legend Alice Bag, headlines a bill with Ratas en Zelo, Groans, and Cava at The Redwood Bar, presented by In Fuzz We Trust.",
+        "promoter": "In Fuzz We Trust",
         "price": "",
-        "tags": [],
-        "sources": [],
-        "tickets": [],
+        "tags": [
+          "punk",
+          "chicana-punk",
+          "live-music"
+        ],
+        "sources": [
+          "https://www.bandsintown.com/e/108553784-fea-at-the-redwood-bar-and-grill",
+          "https://thescenestar.com/2026/08/28/shows-of-the-night-friday-august-28th-concerts-in-los-angeles-el-viernes-28-de-agosto-conciertos-boletos-buy-tickets/"
+        ],
+        "tickets": [
+          "https://www.eventbrite.com/e/in-fuzz-we-trust-presents-fea-and-ratas-en-zelo-828-at-the-redwood-bar-tickets/1992219630544"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=The%20Redwood%20Bar%20And%20Grill%2C%20Los%20Angeles",
           "apple": "https://maps.apple.com/?q=The%20Redwood%20Bar%20And%20Grill%2C%20Los%20Angeles"
@@ -1075,7 +1084,25 @@
         "image_generated": false,
         "popularity": 0,
         "active": true,
-        "enriched": 0
+        "enriched": 1,
+        "lineup": [
+          {
+            "name": "FEA",
+            "instagram": null
+          },
+          {
+            "name": "Ratas en Zelo",
+            "instagram": null
+          },
+          {
+            "name": "Groans",
+            "instagram": null
+          },
+          {
+            "name": "Cava",
+            "instagram": null
+          }
+        ]
       },
       {
         "id": "2026-08-24-music-feral-6d3cbc",
