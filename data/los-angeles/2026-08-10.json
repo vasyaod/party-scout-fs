@@ -3539,14 +3539,15 @@
         "area": "Los Angeles",
         "venue": "Apotheke",
         "address": "1746 N Spring St, Los Angeles, CA 90012",
-        "why": "A back-to-back set format that forces two DJs to trade ideas live.",
-        "summary": "Amore Disco returns to Apotheke for a back-to-back set from Aiden Ramos and Reedster, part of the label/party series' recurring Saturday night residency.",
-        "promoter": "",
-        "price": "",
+        "why": "A free, no-cover residency night where the two resident selectors trade a back-to-back set instead of a headliner set.",
+        "summary": "Amore Disco's recurring Saturday residency at Apotheke, with resident DJs Aiden Ramos and Reedster playing a back-to-back set of cosmic, Balearic, and deep disco grooves, no cover, 21+.",
+        "promoter": "Amore Disco",
+        "price": "Free",
         "tags": [
           "disco",
           "house",
-          "b2b"
+          "b2b",
+          "balearic"
         ],
         "sources": [
           "https://ra.co/events/2509718"
@@ -3573,7 +3574,17 @@
         "image_generated": false,
         "popularity": 0,
         "active": true,
-        "enriched": 0
+        "enriched": 1,
+        "lineup": [
+          {
+            "name": "Aiden Ramos",
+            "instagram": null
+          },
+          {
+            "name": "Reedster",
+            "instagram": null
+          }
+        ]
       },
       {
         "id": "2026-08-10-music-bun-shop-apron-party-52a33f",
