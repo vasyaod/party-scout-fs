@@ -773,34 +773,39 @@
         "id": "2026-08-10-music-borgore-e8e063",
         "eid": "borgore-b31b",
         "track": "music",
-        "category": "Bass/Dubstep",
+        "category": "Dubstep",
         "name": "Borgore",
         "day": "Sat",
         "date": "2026-08-15",
-        "time": "10pm",
-        "start": null,
-        "end": null,
-        "area": "San Francisco",
+        "time": "10pm-2am",
+        "start": "22:00",
+        "end": "02:00",
+        "area": "Bayview",
         "venue": "888 Garage (The Midway)",
         "address": "900 Marin St, San Francisco, CA 94124",
-        "why": "Headliner-scale bass show at one of SF's largest indoor rooms",
-        "summary": "Bass producer Borgore headlines The Midway's 888 Garage room for a 10pm show, with tickets sold through Tixr and resale available on the major secondary markets.",
-        "promoter": "",
-        "price": "$25–35",
+        "why": "Insomniac-powered bass showcase in one of SF's biggest indoor rooms",
+        "summary": "Dubstep heavyweight Borgore headlines an Insomniac-powered, 21+ night at The Midway's 888 Garage room, 10pm-2am, with tickets sold via Tixr.",
+        "promoter": "Insomniac Events",
+        "price": "$25-35",
         "tags": [
           "dubstep",
           "bass",
           "headliner",
           "gorestep",
           "drum and bass",
-          "bass music"
+          "bass music",
+          "21+",
+          "insomniac"
         ],
         "sources": [
           "https://themidwaysf.com/borgore",
-          "https://www.jambase.com/show/borgore-the-midway-20260815"
+          "https://www.jambase.com/show/borgore-the-midway-20260815",
+          "https://www.insomniac.com/events/borgore-2026-08-15-san-francisco-ca/",
+          "https://www.songkick.com/concerts/43239669-borgore-at-midway"
         ],
         "tickets": [
-          "https://tixr.com"
+          "https://tixr.com",
+          "https://www.tixr.com/groups/midwaysf/events/borgore-191785"
         ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=The%20Midway%2C%20San%20Francisco",
@@ -816,7 +821,13 @@
         "image_generated": false,
         "popularity": 0,
         "active": true,
-        "enriched": 0
+        "enriched": 1,
+        "lineup": [
+          {
+            "name": "Borgore",
+            "instagram": null
+          }
+        ]
       },
       {
         "id": "2026-08-10-music-get-milked-18d771",
