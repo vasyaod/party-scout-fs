@@ -189,12 +189,12 @@
         "time": "22:00-03:00",
         "start": null,
         "end": null,
-        "area": "San Francisco",
+        "area": "SoMa",
         "venue": "1015 Folsom",
         "address": "1015 Folsom Street, San Francisco, CA 94103",
         "why": "Touring melodic-bass headliner (Jason Ross, of Ophelia Records) on 1015 Folsom's main room",
         "summary": "DJ Dials and 1015 Folsom present Jason Ross with support from St. Mary, Quackson and Bay Skies, plus a Klub Room lineup of local openers.",
-        "promoter": "",
+        "promoter": "DJ Dials & 1015 Folsom",
         "price": "$28-35",
         "tags": [
           "melodic-bass",
@@ -202,10 +202,13 @@
           "touring-act"
         ],
         "sources": [
-          "https://ra.co/events/2440493"
+          "https://ra.co/events/2440493",
+          "https://www.axs.com/events/1442673/jason-ross-tickets",
+          "https://www.eventbrite.com/e/jason-ross-tickets-1989251416536"
         ],
         "tickets": [
-          "https://ra.co/events/2440493"
+          "https://ra.co/events/2440493",
+          "https://www.axs.com/events/1442673/jason-ross-tickets"
         ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=1015%20Folsom%20Street%2C%20San%20Francisco%2C%20CA%2094103",
@@ -226,7 +229,25 @@
         "image_generated": false,
         "popularity": 0,
         "active": true,
-        "enriched": 0
+        "enriched": 1,
+        "lineup": [
+          {
+            "name": "Jason Ross",
+            "instagram": "jasonrossofficial"
+          },
+          {
+            "name": "St. Mary",
+            "instagram": null
+          },
+          {
+            "name": "Quackson",
+            "instagram": null
+          },
+          {
+            "name": "Bay Skies",
+            "instagram": null
+          }
+        ]
       },
       {
         "id": "2026-08-31-music-bootie-mashup-classics-23-year-63707e",
