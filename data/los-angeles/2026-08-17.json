@@ -2623,13 +2623,13 @@
         "date": "2026-08-23",
         "time": "5pm–11pm",
         "start": "17:00",
-        "end": null,
+        "end": "23:00",
         "area": "Los Angeles",
         "venue": "450 S Bixel St, Los Angeles, CA 90017",
-        "address": "1746 N Spring St, Los Angeles, CA 90012",
+        "address": "450 S Bixel St, Los Angeles, CA 90017",
         "why": "One DJ plays start to finish on vinyl only, no lineup rotation",
         "summary": "DJ Miro plays an all-vinyl, start-to-finish marathon set on Apotheke's outdoor patio for the Sunday Sessions series.",
-        "promoter": "",
+        "promoter": "Sunday Sessions LA",
         "price": "$0–35",
         "tags": [
           "house",
@@ -2641,7 +2641,8 @@
           "https://ra.co/events/2482778"
         ],
         "tickets": [
-          "https://ra.co/events/2482778"
+          "https://ra.co/events/2482778",
+          "https://shotgun.live/en/events/sunday-sessions-la-08-24-85"
         ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=450%20S%20Bixel%20St%2C%20Los%20Angeles%2C%20CA%2090017",
@@ -2661,7 +2662,13 @@
         "image_generated": true,
         "popularity": 0,
         "active": true,
-        "enriched": 0
+        "enriched": 1,
+        "lineup": [
+          {
+            "name": "Miro",
+            "instagram": null
+          }
+        ]
       },
       {
         "id": "2026-08-17-music-road-to-black-rock-city-6ab3f1",
