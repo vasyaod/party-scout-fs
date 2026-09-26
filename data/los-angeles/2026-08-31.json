@@ -778,14 +778,14 @@
         "day": "Sun",
         "date": "2026-09-06",
         "time": "17:00–21:00",
-        "start": null,
-        "end": null,
+        "start": "17:00",
+        "end": "21:00",
         "area": "LA",
         "venue": "Catalina Classic Cruises",
         "address": "1825 W. Pier D. Street Long Beach, CA 90802",
         "why": "Sunset boat cruise out of Long Beach, house on the water instead of a club.",
         "summary": "Deep House Brunch's annual Labor Day boat party returns to Long Beach with Mark Farina and Scotty Boy for a sunset cruise on Catalina Classic Cruises.",
-        "promoter": "",
+        "promoter": "Deep House Brunch",
         "price": "$55",
         "tags": [
           "house",
@@ -794,10 +794,13 @@
           "sunset"
         ],
         "sources": [
-          "https://ra.co/events/2457853"
+          "https://ra.co/events/2457853",
+          "https://www.eventbrite.com/e/deep-house-brunch-boat-party-ft-mark-farina-labor-day-sunday-tickets-1982322572176",
+          "https://clubbermedia.com/events/deep-house-brunch-boat-party-ft-mark-farina/"
         ],
         "tickets": [
-          "https://ra.co/events/2457853"
+          "https://ra.co/events/2457853",
+          "https://www.eventbrite.com/e/deep-house-brunch-boat-party-ft-mark-farina-labor-day-sunday-tickets-1982322572176"
         ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=1825%20W.%20Pier%20D.%20Street%20Long%20Beach%2C%20CA%2090802",
@@ -818,7 +821,17 @@
         "image_generated": false,
         "popularity": 0,
         "active": true,
-        "enriched": 0
+        "enriched": 1,
+        "lineup": [
+          {
+            "name": "Mark Farina",
+            "instagram": null
+          },
+          {
+            "name": "Scotty Boy",
+            "instagram": null
+          }
+        ]
       },
       {
         "id": "2026-08-31-music-piv-day-trip-takeover-248590",
