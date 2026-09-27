@@ -3401,7 +3401,7 @@
         "address": "101 6th Street, San Francisco, CA 94103",
         "why": "One of the higher RA-interest picks this weekend (14 interested) blending latin club with guaracha and techno",
         "summary": "Cafeconpostre presents Mostly Cloudy, a latin-club/guaracha/techno night at Monarch SF with Dina and Queenie, 21+.",
-        "promoter": "",
+        "promoter": "Cafeconpostre",
         "price": "$9.60-14.70",
         "tags": [
           "latin-club",
@@ -3410,9 +3410,12 @@
           "21+"
         ],
         "sources": [
-          "https://ra.co/events/2481173"
+          "https://ra.co/events/2481173",
+          "https://www.eventbrite.com/e/mostly-cloudy-dina-queenie-tickets-1996164436565"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://www.eventbrite.com/e/mostly-cloudy-dina-queenie-tickets-1996164436565"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=101%206th%20Street%2C%20San%20Francisco%2C%20CA%2094103",
           "apple": "https://maps.apple.com/?q=101%206th%20Street%2C%20San%20Francisco%2C%20CA%2094103"
@@ -3429,7 +3432,17 @@
         "image_generated": false,
         "popularity": 0,
         "active": true,
-        "enriched": 0
+        "enriched": 1,
+        "lineup": [
+          {
+            "name": "Dina",
+            "instagram": null
+          },
+          {
+            "name": "Queenie",
+            "instagram": null
+          }
+        ]
       },
       {
         "id": "2026-08-03-music-outside-lands-after-party-kbun-2eb39c",
