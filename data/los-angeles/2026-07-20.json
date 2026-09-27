@@ -1026,28 +1026,32 @@
         "name": "Clinic",
         "day": "Wed",
         "date": "2026-07-22",
-        "time": "10pm-2:30am",
+        "time": "10pm-2am",
         "start": "22:00",
-        "end": "02:30",
-        "area": "Los Angeles",
+        "end": "02:00",
+        "area": "Hollywood",
         "venue": "Jungle Hollywood",
-        "address": "",
-        "why": "Late-night techno and deep house in a vibrant venue.",
-        "summary": "Clinic at Jungle Hollywood in Los Angeles on July 22, 2026, from 10 PM to 2:30 AM. Admission details not specified, 21+.",
-        "price": "",
+        "address": "1640 N Cahuenga Blvd, Los Angeles, CA 90028",
+        "why": "Clinic Wednesdays is Jungle Hollywood's long-running weekly house/techno night, drawing a loyal midweek crowd.",
+        "summary": "Clinic x The 900 Block brings house and techno to Jungle Hollywood's weekly Wednesday night, $5 entry before 11pm, 10pm-2am.",
+        "price": "$5",
         "tags": [
           "21+",
           "deep-house",
           "house",
           "jungle",
           "tech-house",
-          "techno"
+          "techno",
+          "weekly"
         ],
         "lineup": [],
         "sources": [
-          "https://www.facebook.com/clinicwednesdays/events"
+          "https://www.facebook.com/clinicwednesdays/events",
+          "https://www.eventbrite.com/e/clinic-x-the-900-block-tickets-1994240973435"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://www.eventbrite.com/e/clinic-x-the-900-block-tickets-1994240973435"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Jungle+Hollywood%2C+Los+Angeles",
           "apple": "https://maps.apple.com/?q=Jungle+Hollywood%2C+Los+Angeles"
@@ -1064,7 +1068,8 @@
         "popularity": 4,
         "id": "2026-07-20-music-clinic-3776d7",
         "eid": "clinic-5010",
-        "enriched": 0
+        "enriched": 1,
+        "promoter": "Underrated Presents"
       },
       {
         "track": "music",
