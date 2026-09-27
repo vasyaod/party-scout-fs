@@ -489,9 +489,9 @@
         "end": "21:00",
         "area": "San Diego",
         "venue": "Spin Rooftop",
-        "address": "",
-        "why": "A sunset tech house event on a picturesque San Diego rooftop.",
-        "summary": "Arlo will perform at Spin Rooftop in San Diego on August 1, 2026, from 4 PM to 9 PM. Tickets range from $21 to $27, and this event is 21+.",
+        "address": "2028 Hancock Street, San Diego, CA 92102",
+        "why": "A sunset tech house event on a picturesque San Diego rooftop, presented by LED Presents.",
+        "summary": "LED Presents brings ARLO to Spin Rooftop in San Diego for a sunset tech house set on August 1, 2026, from 4-9pm. 21+.",
         "price": "$21-27",
         "tags": [
           "21+",
@@ -500,7 +500,12 @@
           "rooftop",
           "tech-house"
         ],
-        "lineup": [],
+        "lineup": [
+          {
+            "name": "Arlo",
+            "instagram": null
+          }
+        ],
         "sources": [
           "https://events.leapevents.com/event/led-presents-arlo-spin-rooftop-2026/tag/fbog"
         ],
@@ -523,7 +528,8 @@
         "popularity": 4,
         "id": "2026-07-27-music-arlo-9629e1",
         "eid": "arlo-8ec8",
-        "enriched": 0
+        "enriched": 1,
+        "promoter": "LED Presents"
       },
       {
         "track": "music",
