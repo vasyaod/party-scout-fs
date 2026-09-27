@@ -2164,24 +2164,33 @@
         "name": "Body SF Soma",
         "day": "Sat",
         "date": "2026-07-25",
-        "time": "8pm–2am",
+        "time": "8pm–1:30am",
         "start": "20:00",
-        "end": "02:00",
+        "end": "01:30",
         "area": "SF",
         "venue": "JAX Vineyards",
         "address": "326 Brannan St, San Francisco, CA 94107",
         "why": "Low-cost SoMa wine-bar rave for a crowd wanting something cheap and packed",
         "summary": "Body SF Soma turns JAX Vineyards' SoMa tasting room into a dance party, Saturday July 25 from 8pm to 2am, entry just $10, 21+.",
-        "promoter": "",
+        "promoter": "Body SF",
         "price": "$10",
         "tags": [
           "house",
           "soma",
           "wine-bar",
           "cheap",
-          "late-night"
+          "late-night",
+          "deep-house",
+          "techno",
+          "diy",
+          "warehouse"
         ],
-        "lineup": [],
+        "lineup": [
+          {
+            "name": "John Palowitch (BIG TRIPPIN)",
+            "instagram": null
+          }
+        ],
         "sources": [
           "https://partiful.com/e/7CZEpi4Tb5V2PfDeb4av"
         ],
@@ -2204,7 +2213,7 @@
         "popularity": 5,
         "id": "2026-07-20-music-body-sf-soma-3df243",
         "eid": "body-sf-soma-7ed3",
-        "enriched": 0
+        "enriched": 1
       },
       {
         "track": "music",
