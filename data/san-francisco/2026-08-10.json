@@ -5256,28 +5256,35 @@
         "id": "2026-08-10-music-pajama-party-c13f4a",
         "eid": "pajama-party-f2be",
         "track": "music",
-        "category": "",
+        "category": "Nightclub",
         "name": "Pajama Party",
         "day": "Sat",
         "date": "2026-08-15",
-        "time": "",
-        "start": null,
-        "end": null,
-        "area": "San Francisco",
+        "time": "10pm-2am",
+        "start": "22:00",
+        "end": "02:00",
+        "area": "SoMa",
         "venue": "715 Harrison",
-        "address": "",
-        "why": "",
-        "summary": "",
-        "promoter": "",
+        "address": "715 Harrison St, San Francisco, CA 94107",
+        "why": "A pajama-themed spin on ClubX's regular two-room City Nights party at 715 Harrison",
+        "summary": "ClubX's City Nights swaps the going-out fit for pajamas for one Saturday at 715 Harrison, spinning club hits, house, top 40, hip-hop and EDM across two rooms with full lighting and sound.",
+        "promoter": "City Nights / ClubX",
         "price": "$38+",
         "tags": [
           "house",
           "top 40",
           "hip-hop",
-          "EDM"
+          "EDM",
+          "nightclub",
+          "pajama"
         ],
-        "sources": [],
-        "tickets": [],
+        "sources": [
+          "https://www.sfclubs.com/events/event/pj_party_1757658854939",
+          "https://www.eventbrite.com/e/pajama-party-tickets-1995184886705"
+        ],
+        "tickets": [
+          "https://www.eventbrite.com/e/pajama-party-tickets-1995184886705"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=715%20Harrison%2C%20San%20Francisco",
           "apple": "https://maps.apple.com/?q=715%20Harrison%2C%20San%20Francisco"
@@ -5289,7 +5296,7 @@
         "image_generated": false,
         "popularity": 0,
         "active": true,
-        "enriched": 0
+        "enriched": 1
       },
       {
         "id": "2026-08-10-music-program-audio-innerspeak-r-ad7fa5",
