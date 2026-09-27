@@ -1,12 +1,12 @@
 {
   "kind": "stats",
-  "generated_at": "2026-09-27T01:20:05+00:00",
+  "generated_at": "2026-09-27T01:20:25+00:00",
   "weights_version": "v1",
   "total": {
     "n": 3065,
     "median": 0.8545,
-    "p25": 0.7148,
-    "pct_ge_075": 0.7171,
+    "p25": 0.7164,
+    "pct_ge_075": 0.7175,
     "invalid": 28,
     "tba_rate": 0.0962,
     "by_field_fixable": {
@@ -16,13 +16,13 @@
       "start": 974,
       "price": 853,
       "time": 751,
-      "address": 749,
+      "address": 748,
       "why": 643,
       "category": 600,
       "summary": 587,
       "tags": 528,
       "sources": 512,
-      "venue": 122,
+      "venue": 121,
       "maps": 104
     },
     "weights_version": "v1",
@@ -1947,8 +1947,8 @@
       "summary": {
         "n": 1758,
         "median": 0.8491,
-        "p25": 0.7091,
-        "pct_ge_075": 0.7105,
+        "p25": 0.7115,
+        "pct_ge_075": 0.711,
         "invalid": 23,
         "tba_rate": 0.0432,
         "by_field_fixable": {
@@ -1958,13 +1958,13 @@
           "start": 509,
           "price": 471,
           "time": 450,
-          "address": 413,
+          "address": 412,
           "why": 388,
           "category": 357,
           "summary": 353,
           "tags": 282,
           "sources": 282,
-          "venue": 100,
+          "venue": 99,
           "maps": 93
         },
         "weights_version": "v1"
@@ -3040,19 +3040,19 @@
           "summary": {
             "n": 96,
             "median": 0.8185,
-            "p25": 0.7455,
-            "pct_ge_075": 0.7396,
+            "p25": 0.7556,
+            "pct_ge_075": 0.75,
             "invalid": 23,
             "tba_rate": 0.0312,
             "by_field_fixable": {
               "coords": 92,
               "image": 55,
               "tickets": 46,
-              "address": 31,
+              "address": 30,
               "price": 9,
               "time": 4,
               "start": 4,
-              "venue": 2
+              "venue": 1
             },
             "weights_version": "v1"
           },
@@ -3130,7 +3130,7 @@
               "n": 15,
               "median": 0.7455,
               "p25": 0.7455,
-              "pct_ge_075": 0.4,
+              "pct_ge_075": 0.4667,
               "invalid": 10,
               "tba_rate": 0.0,
               "weights_version": "v1"
