@@ -3641,7 +3641,7 @@
         "address": "1566 Carroll Avenue, San Francisco, CA 94124",
         "why": "Highest RA interest of the weekend (40) - internationally touring techno/minimal artist playing an extended set until 7am",
         "summary": "Yerbabuenasf hosts an extended-set house/techno/disco/minimal night at Yerba Buena Estudios SF headlined by touring artist Matias Aguayo, running until 7am, 21+.",
-        "promoter": "",
+        "promoter": "Yerba",
         "price": "$27.95-44.75",
         "tags": [
           "house",
@@ -3653,7 +3653,9 @@
         "sources": [
           "https://ra.co/events/2491263"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://ra.co/events/2491263"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=1566%20Carroll%20Avenue%2C%20San%20Francisco%2C%20CA%2094124",
           "apple": "https://maps.apple.com/?q=1566%20Carroll%20Avenue%2C%20San%20Francisco%2C%20CA%2094124"
@@ -3670,7 +3672,17 @@
         "image_generated": false,
         "popularity": 0,
         "active": true,
-        "enriched": 0
+        "enriched": 1,
+        "lineup": [
+          {
+            "name": "Matias Aguayo",
+            "instagram": null
+          },
+          {
+            "name": "Eichef",
+            "instagram": null
+          }
+        ]
       },
       {
         "id": "2026-08-03-music-port-of-entry-09-ionic-bond-so-18d2aa",
