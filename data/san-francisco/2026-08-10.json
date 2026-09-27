@@ -5731,25 +5731,31 @@
         "id": "2026-08-10-music-tommy-phillips-35cb1b",
         "eid": "tommy-phillips-6aa2",
         "track": "music",
-        "category": "",
+        "category": "House",
         "name": "Tommy Phillips",
         "day": "Sat",
         "date": "2026-08-15",
-        "time": "",
-        "start": null,
-        "end": null,
-        "area": "San Francisco",
+        "time": "9:30pm–2:30am",
+        "start": "21:30",
+        "end": "02:30",
+        "area": "SoMa",
         "venue": "Audio Nightclub",
-        "address": "",
-        "why": "",
-        "summary": "",
-        "promoter": "",
+        "address": "316 11th St, San Francisco, CA 94103",
+        "why": "A tech-house headliner takes over Audio's Cadillac-retro dance floor for a late-night set.",
+        "summary": "Tommy Phillips headlines Audio SF's dance floor with support from Carlos Real, part of Audio, Goldenvoice and All Day All Night's ongoing club series.",
+        "promoter": "All Day All Night",
         "price": "$25",
         "tags": [
-          "house"
+          "house",
+          "tech-house"
         ],
-        "sources": [],
-        "tickets": [],
+        "sources": [
+          "https://ra.co/events/2491879",
+          "https://m.audiosf.com/event/tommy-phillips-08-15/"
+        ],
+        "tickets": [
+          "https://www.eventbrite.com/e/tommy-phillips-at-audio-sf-tickets-1997223660733"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Audio%20Nightclub%2C%20San%20Francisco",
           "apple": "https://maps.apple.com/?q=Audio%20Nightclub%2C%20San%20Francisco"
@@ -5761,7 +5767,17 @@
         "image_generated": false,
         "popularity": 0,
         "active": true,
-        "enriched": 0
+        "enriched": 1,
+        "lineup": [
+          {
+            "name": "Tommy Phillips",
+            "instagram": null
+          },
+          {
+            "name": "Carlos Real",
+            "instagram": null
+          }
+        ]
       },
       {
         "id": "2026-08-10-music-wes-mills-24f2f0",
