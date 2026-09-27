@@ -291,7 +291,20 @@
           "all-ages",
           "amphitheater"
         ],
-        "lineup": [],
+        "lineup": [
+          {
+            "name": "Bob Moses",
+            "instagram": null
+          },
+          {
+            "name": "Cannons",
+            "instagram": null
+          },
+          {
+            "name": "Oxis",
+            "instagram": null
+          }
+        ],
         "sources": [
           "https://www.hollywoodbowl.com/events/performances/4302/2026-07-19/bob-moses-and-cannons-afterglow-tour"
         ],
@@ -314,7 +327,8 @@
         "popularity": 8,
         "id": "2026-07-13-music-bob-moses-and-cannons-afterglow-1f34d4",
         "eid": "bob-moses-and-cannons-afterg-cef5",
-        "enriched": 0
+        "enriched": 1,
+        "promoter": "KCRW"
       },
       {
         "track": "music",
