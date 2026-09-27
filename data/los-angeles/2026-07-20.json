@@ -1509,21 +1509,26 @@
         "time": "9pm-2am",
         "start": "21:00",
         "end": "02:00",
-        "area": "Los Angeles",
+        "area": "East Hollywood",
         "venue": "Vermont Hollywood",
-        "address": "",
+        "address": "1020 N Vermont Ave, Los Angeles, CA 90029",
         "why": "Free RSVP dubstep night in a popular Hollywood venue.",
-        "summary": "Project Nightfall at Vermont Hollywood in Los Angeles on July 24, 2026, from 9 PM to 2 AM. Free with RSVP before 10:30 PM or $12+, 21+.",
+        "summary": "Project Nightfall takes over The Vermont Hollywood on Friday, July 24, 2026, 9pm-2am, a full bass-driven dubstep transformation with LED wall visuals and immersive lighting, 21+.",
         "price": "$12",
         "tags": [
           "21+",
-          "dubstep"
+          "dubstep",
+          "bass",
+          "warehouse-style"
         ],
         "lineup": [],
         "sources": [
-          "https://pear.us/welovekandy/post/project-nightfall"
+          "https://pear.us/welovekandy/post/project-nightfall",
+          "https://www.eventbrite.com/e/project-nightfall-vermont-hollywood-21-tickets-1986287294768"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://www.eventbrite.com/e/project-nightfall-vermont-hollywood-21-tickets-1986287294768"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Vermont+Hollywood%2C+Los+Angeles",
           "apple": "https://maps.apple.com/?q=Vermont+Hollywood%2C+Los+Angeles"
@@ -1540,7 +1545,8 @@
         "popularity": 4,
         "id": "2026-07-20-music-project-nightfall-4e72cf",
         "eid": "project-nightfall-7e48",
-        "enriched": 0
+        "enriched": 1,
+        "promoter": "We Love Kandy Tour"
       },
       {
         "track": "music",
