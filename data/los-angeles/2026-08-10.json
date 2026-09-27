@@ -2845,12 +2845,12 @@
         "time": "2pm–8pm",
         "start": "14:00",
         "end": "20:00",
-        "area": "Los Angeles",
+        "area": "Hollywood",
         "venue": "W Hollywood",
         "address": "6250 Hollywood Blvd, Hollywood, CA 90028",
         "why": "A daytime rooftop pool party, a different vibe from the late-night club circuit.",
         "summary": "Space Yacht brings its new pool party What The Duck to the W Hollywood rooftop pool on Saturday afternoon, with Danny Kane on the decks.",
-        "promoter": "",
+        "promoter": "Space Yacht",
         "price": "$15+",
         "tags": [
           "pool-party",
@@ -2883,7 +2883,13 @@
         "image_generated": false,
         "popularity": 0,
         "active": true,
-        "enriched": 0
+        "enriched": 1,
+        "lineup": [
+          {
+            "name": "Danny Kane",
+            "instagram": null
+          }
+        ]
       },
       {
         "id": "2026-08-10-music-smd-kim-anh-physical-therapy-f6b89a",
