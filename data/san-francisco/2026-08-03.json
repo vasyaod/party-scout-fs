@@ -5,7 +5,7 @@
   "location": "San Francisco & Bay Area",
   "city": "san-francisco",
   "city_label": "San Francisco",
-  "generated_at": "2026-09-26",
+  "generated_at": "2026-09-27",
   "tracks": {
     "music": [
       {
@@ -606,7 +606,17 @@
         "image_generated": false,
         "popularity": 2,
         "active": true,
-        "enriched": 0
+        "enriched": 1,
+        "lineup": [
+          {
+            "name": "DJ Sauce",
+            "instagram": "gotsauce"
+          },
+          {
+            "name": "Just Lucas",
+            "instagram": "justlucasmusic"
+          }
+        ]
       },
       {
         "id": "2026-08-03-music-leaking-ff-evidence-trio-5k-ca-6aaf2f",
