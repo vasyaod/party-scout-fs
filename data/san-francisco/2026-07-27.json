@@ -2727,17 +2727,25 @@
         "area": "Berkeley",
         "venue": "Kip's",
         "address": "2439 Durant Ave, Berkeley, CA 94704",
-        "why": "Weekly Friday dance night at a Berkeley campus-adjacent bar",
-        "summary": "Kip's weekly Friday Party brings DJs to the Berkeley college bar, 21+.",
+        "why": "Weekly Friday dance night at a Berkeley campus-adjacent bar with no cover",
+        "summary": "Kip's weekly Friday Party brings resident DJ Mayky Bay Area to the Berkeley college bar, 10pm-2am, open-format hip hop/reggaeton/pop, no cover, 21+.",
         "promoter": "",
-        "price": "",
+        "price": "Free",
         "tags": [
           "weekly",
-          "college-bar"
+          "college-bar",
+          "hip-hop",
+          "reggaeton"
         ],
-        "lineup": [],
+        "lineup": [
+          {
+            "name": "DJ Mayky Bay Area",
+            "instagram": null
+          }
+        ],
         "sources": [
-          "https://www.instagram.com/kipsberkeley/"
+          "https://www.instagram.com/kipsberkeley/",
+          "https://www.telegraphberkeley.org/telegraph_business/kips-bar/"
         ],
         "tickets": [],
         "maps": {
@@ -2756,7 +2764,7 @@
         "popularity": 1,
         "id": "2026-07-27-music-friday-party-dc66ac",
         "eid": "friday-party-c8bb",
-        "enriched": 0
+        "enriched": 1
       },
       {
         "track": "music",
