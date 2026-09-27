@@ -1852,15 +1852,15 @@
         "day": "Fri",
         "date": "2026-08-14",
         "time": "23:00–05:00",
-        "start": null,
-        "end": null,
-        "area": "Los Angeles",
+        "start": "23:00",
+        "end": "05:00",
+        "area": "DTLA",
         "venue": "The Lexington",
-        "address": "129 E. 3rd St, Los Angeles, Ca, 90013",
+        "address": "129 E. 3rd St, Los Angeles, CA 90013",
         "why": "Free 21+ speakeasy after-hours through 5am, alley entrance only.",
         "summary": "NIGHTSHIFT is a recurring after-hours night at a hidden DTLA speakeasy entered through an alley, playing underground house music from a rotating Blind Tiger-curated DJ lineup until 5am.",
-        "promoter": "",
-        "price": "Free",
+        "promoter": "Blind Tiger",
+        "price": "Free RSVP before 1AM; $25 door after",
         "tags": [
           "house",
           "after-hours",
@@ -1892,7 +1892,7 @@
         "image_generated": false,
         "popularity": 0,
         "active": true,
-        "enriched": 0
+        "enriched": 1
       },
       {
         "id": "2026-08-10-music-bananas-pool-party-af1d68",
