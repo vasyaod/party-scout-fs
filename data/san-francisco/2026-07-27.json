@@ -1528,29 +1528,36 @@
       },
       {
         "track": "music",
-        "category": "House",
+        "category": "Furry club night",
         "name": "Frolic",
         "day": "Sat",
         "date": "2026-08-01",
         "time": "7pm–2am",
         "start": "19:00",
         "end": "02:00",
-        "area": "SF",
+        "area": "SoMa",
         "venue": "The Great Northern",
         "address": "119 Utah St, San Francisco, CA 94103",
-        "why": "Recurring house night at a mid-size SoMa club",
-        "summary": "Frolic brings a house DJ lineup to The Great Northern, 21+.",
-        "promoter": "",
-        "price": "$15–20",
+        "why": "The world's longest-running furry club night, a SoMa institution since 2010",
+        "summary": "Frolic, the longest-running furry club night in the world (running since 2010), returns to The Great Northern with resident DJ NeonBunny, guest DJs, live visuals by Skibit, dancing and a vendor row, 21+.",
+        "promoter": "NeonBunny",
+        "price": "$20 GA, $15 fursuiters",
         "tags": [
           "house",
-          "21+"
+          "21+",
+          "furry",
+          "electronic",
+          "vendor-row"
         ],
         "lineup": [],
         "sources": [
-          "https://ra.co/events/2476456"
+          "https://ra.co/events/2476456",
+          "https://frolicparty.com/",
+          "https://furryguides.com/events/frolic"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://frolicparty.com/"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=The+Great+Northern%2C+119+Utah+St%2C+San+Francisco%2C+CA+94103",
           "apple": "https://maps.apple.com/?q=The+Great+Northern%2C+119+Utah+St%2C+San+Francisco%2C+CA+94103"
@@ -1570,7 +1577,7 @@
         "popularity": 3,
         "id": "2026-07-27-music-frolic-6459e8",
         "eid": "frolic-951b",
-        "enriched": 0
+        "enriched": 1
       },
       {
         "track": "music",
