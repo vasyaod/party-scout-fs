@@ -3146,13 +3146,13 @@
         "date": "2026-08-08",
         "time": "10pm",
         "start": "22:00",
-        "end": null,
+        "end": "02:00",
         "area": "SF",
         "venue": "The Great Northern",
-        "address": "",
+        "address": "119 Utah St, San Francisco, CA 94103",
         "why": "Ticketmaster-listed Outside Lands night show at a large club venue - bigger-production feel than the smaller bar nights",
         "summary": "The Great Northern SF hosts Camoufly's Outside Lands night show, house and UK garage, 21+.",
-        "promoter": "",
+        "promoter": "Another Planet Entertainment",
         "price": "$35",
         "tags": [
           "house",
@@ -3161,10 +3161,12 @@
           "outside-lands"
         ],
         "sources": [
-          "https://www.ticketmaster.com/camoufly-outside-lands-night-show-san-francisco-california-08-08-2026/event/1C0064D2EBD581A2"
+          "https://www.ticketmaster.com/camoufly-outside-lands-night-show-san-francisco-california-08-08-2026/event/1C0064D2EBD581A2",
+          "https://www.eventbrite.com/e/camoufly-w1800-girls-vertigo-outside-lands-night-shows-tickets-1992471077629"
         ],
         "tickets": [
-          "https://www.ticketmaster.com/camoufly-outside-lands-night-show-san-francisco-california-08-08-2026/event/1C0064D2EBD581A2"
+          "https://www.ticketmaster.com/camoufly-outside-lands-night-show-san-francisco-california-08-08-2026/event/1C0064D2EBD581A2",
+          "https://www.eventbrite.com/e/camoufly-w1800-girls-vertigo-outside-lands-night-shows-tickets-1992471077629"
         ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=The%20Great%20Northern%2C%20SF",
@@ -3177,7 +3179,21 @@
         "image_generated": false,
         "popularity": 0,
         "active": true,
-        "enriched": 0
+        "enriched": 1,
+        "lineup": [
+          {
+            "name": "camoufly",
+            "instagram": null
+          },
+          {
+            "name": "1-800 Girls",
+            "instagram": null
+          },
+          {
+            "name": "Vertigo",
+            "instagram": null
+          }
+        ]
       },
       {
         "id": "2026-08-03-music-euphoria-an-edm-tribute-party-eee180",
