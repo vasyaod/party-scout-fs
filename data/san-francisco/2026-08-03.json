@@ -1223,12 +1223,12 @@
         "time": "9pm–2am",
         "start": "21:00",
         "end": "02:00",
-        "area": "SF",
+        "area": "SoMa",
         "venue": "Cat Club",
         "address": "1190 Folsom St, San Francisco, CA 94103",
         "why": "Two rooms, two eras — 80s dark new wave plus an indie-electronic room, free for early arrivals",
         "summary": "Cat Club hosts Music For The Masses spinning dark 80s new wave (Depeche Mode, The Cure, Joy Division) alongside Midnite City in a second room playing electronic indie dance staples.",
-        "promoter": "",
+        "promoter": "GBH",
         "price": "Free w/RSVP (first 50)",
         "tags": [
           "new-wave",
@@ -1238,9 +1238,14 @@
           "free"
         ],
         "sources": [
-          "https://ra.co/events/2500322"
+          "https://ra.co/events/2500322",
+          "https://www.eventbrite.com/e/music-for-the-masses-dark-80s-new-wave-nite-sf-tickets-1993283119468",
+          "https://www.eventbrite.com/e/midnite-city-indie-disco-sf-tickets-1993283206729"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://www.eventbrite.com/e/music-for-the-masses-dark-80s-new-wave-nite-sf-tickets-1993283119468",
+          "https://www.eventbrite.com/e/midnite-city-indie-disco-sf-tickets-1993283206729"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=1190%20Folsom%20St%2C%20San%20Francisco%2C%20CA%2094103",
           "apple": "https://maps.apple.com/?q=1190%20Folsom%20St%2C%20San%20Francisco%2C%20CA%2094103"
@@ -1257,7 +1262,7 @@
         "image_generated": false,
         "popularity": 0,
         "active": true,
-        "enriched": 0
+        "enriched": 1
       },
       {
         "id": "2026-08-03-music-mestizas-d8fc06",
