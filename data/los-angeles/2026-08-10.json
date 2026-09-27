@@ -3535,23 +3535,35 @@
         "id": "2026-08-10-music-kcrw-summer-nights-good-food-n-d5ac63",
         "eid": "kcrw-summer-nights-good-fc3a",
         "track": "music",
-        "category": "",
+        "category": "Community",
         "name": "KCRW Summer Nights (Good Food Night Market Edition)",
         "day": "Fri",
         "date": "2026-08-14",
-        "time": "",
-        "start": null,
-        "end": null,
-        "area": "Los Angeles",
+        "time": "6-10pm",
+        "start": "18:00",
+        "end": "22:00",
+        "area": "Culver City",
         "venue": "The Wende Museum",
-        "address": "",
-        "why": "",
-        "summary": "",
-        "promoter": "",
-        "price": "",
-        "tags": [],
-        "sources": [],
-        "tickets": [],
+        "address": "10808 Culver Blvd, Culver City, CA 90230",
+        "why": "Free all-ages night market with KCRW DJs and after-hours museum access",
+        "summary": "KCRW's Good Food team curates a night market of LA food vendors at the Wende Museum, with live food-focused talks, after-hours exhibition access, and DJ sets from Anne Litt and Nassir Nassirzadeh.",
+        "promoter": "KCRW",
+        "price": "Free",
+        "tags": [
+          "free",
+          "all-ages",
+          "food",
+          "market",
+          "outdoor"
+        ],
+        "sources": [
+          "https://wendemuseum.org/event/kcrw-summer-nights-good-food-night-market-edition/",
+          "https://www.kcrw.com/events/kcrw-summer-nights-with-the-wende-museum-good-food-night-market-edition",
+          "https://events.humanitix.com/kcrw-summer-nights-with-the-wende-museum"
+        ],
+        "tickets": [
+          "https://events.humanitix.com/kcrw-summer-nights-with-the-wende-museum"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=The%20Wende%20Museum%2C%20Los%20Angeles",
           "apple": "https://maps.apple.com/?q=The%20Wende%20Museum%2C%20Los%20Angeles"
@@ -3563,7 +3575,17 @@
         "image_generated": false,
         "popularity": 0,
         "active": true,
-        "enriched": 0
+        "enriched": 1,
+        "lineup": [
+          {
+            "name": "Anne Litt",
+            "instagram": null
+          },
+          {
+            "name": "Nassir Nassirzadeh",
+            "instagram": null
+          }
+        ]
       },
       {
         "id": "2026-08-10-music-marble-x-texture-summit-x-sara-779fa2",
