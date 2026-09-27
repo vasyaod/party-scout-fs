@@ -5565,9 +5565,13 @@
           "all-ages"
         ],
         "sources": [
-          "https://moonlightrollerway.com/hours/"
+          "https://moonlightrollerway.com/hours/",
+          "https://moonlightrollerway.com/event/rainbow-skate-night-all-ages-8pm-11pm-72/",
+          "https://www.eventbrite.com/d/ca--glendale/moonlight-rollerway/"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://www.eventbrite.com/d/ca--glendale/moonlight-rollerway/"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=5110%20San%20Fernando%20Rd%2C%20Glendale%2C%20CA%2091204",
           "apple": "https://maps.apple.com/?q=5110%20San%20Fernando%20Rd%2C%20Glendale%2C%20CA%2091204"
@@ -5582,7 +5586,7 @@
         "image_generated": false,
         "popularity": 2,
         "active": true,
-        "enriched": 0
+        "enriched": 1
       }
     ]
   }
