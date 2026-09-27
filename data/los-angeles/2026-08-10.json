@@ -929,20 +929,23 @@
         "time": "9pm",
         "start": "21:00",
         "end": null,
-        "area": "Los Angeles",
+        "area": "DTLA",
         "venue": "Regent Theater",
         "address": "448 S Main St, Los Angeles, CA 90013",
-        "why": "A Detroit house/techno legend headlines a proper theater room downtown",
-        "summary": "Detroit house and techno legend Moodymann headlines a DTLA theater show with support from DJ Rashida.",
-        "promoter": "",
+        "why": "Moodymann brings a Detroit-house take on Prince's catalog to a proper theater room",
+        "summary": "Moodymann and DJ Rashida present \"Play Prince,\" a Detroit house/techno tribute to Prince at The Regent Theater in DTLA, with special guests Chrome Queen and Andre Cymone.",
+        "promoter": "Mahogani Music",
         "price": "$39-93",
         "tags": [
           "house",
           "techno",
-          "detroit"
+          "detroit",
+          "prince-tribute",
+          "18+"
         ],
         "sources": [
-          "https://www.ticketmaster.com/event/090064BA38058214"
+          "https://www.ticketmaster.com/event/090064BA38058214",
+          "https://regentdtla.com/tm-event/moodymann-and-dj-rashida-play-prince/"
         ],
         "tickets": [
           "https://www.ticketmaster.com/event/090064BA38058214"
@@ -961,7 +964,25 @@
         "image_generated": false,
         "popularity": 6,
         "active": true,
-        "enriched": 0
+        "enriched": 1,
+        "lineup": [
+          {
+            "name": "Moodymann",
+            "instagram": null
+          },
+          {
+            "name": "DJ Rashida",
+            "instagram": null
+          },
+          {
+            "name": "Chrome Queen",
+            "instagram": null
+          },
+          {
+            "name": "Andre Cymone",
+            "instagram": null
+          }
+        ]
       },
       {
         "id": "2026-08-10-music-tropical-showcase-77e7cb",
