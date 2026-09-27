@@ -5,7 +5,7 @@
   "location": "Los Angeles & SoCal",
   "city": "los-angeles",
   "city_label": "Los Angeles",
-  "generated_at": "2026-07-31",
+  "generated_at": "2026-09-26",
   "tracks": {
     "music": [
       {
@@ -56,7 +56,8 @@
         "active": true,
         "popularity": 10,
         "id": "2026-07-27-music-hard-summer-2026-0ab099",
-        "eid": "hard-summer-2026-6504"
+        "eid": "hard-summer-2026-6504",
+        "enriched": 0
       },
       {
         "track": "music",
@@ -108,7 +109,8 @@
         "active": true,
         "popularity": 9,
         "id": "2026-07-27-music-maccabi-house-la-adam-ten-mita-g-9bc295",
-        "eid": "maccabi-house-la-adam-ten-mi-0efa"
+        "eid": "maccabi-house-la-adam-ten-mi-0efa",
+        "enriched": 0
       },
       {
         "track": "music",
@@ -158,7 +160,8 @@
         "active": true,
         "popularity": 8,
         "id": "2026-07-27-music-maccabi-house-la-feat-adam-ten-m-5dd88a",
-        "eid": "maccabi-house-la-feat-adam-t-fbff"
+        "eid": "maccabi-house-la-feat-adam-t-fbff",
+        "enriched": 0
       },
       {
         "track": "music",
@@ -204,7 +207,8 @@
         "active": true,
         "popularity": 8,
         "id": "2026-07-27-music-marshmello-920abe",
-        "eid": "marshmello-257c"
+        "eid": "marshmello-257c",
+        "enriched": 0
       },
       {
         "track": "music",
@@ -251,7 +255,8 @@
         "active": true,
         "popularity": 8,
         "id": "2026-07-27-music-toro-y-moi-e5f793",
-        "eid": "toro-y-moi-07da"
+        "eid": "toro-y-moi-07da",
+        "enriched": 0
       },
       {
         "track": "music",
@@ -305,7 +310,8 @@
         "active": true,
         "popularity": 7,
         "id": "2026-07-27-music-baile-world-ft-dj-slugo-89258e",
-        "eid": "baile-world-ft-dj-slugo-730f"
+        "eid": "baile-world-ft-dj-slugo-730f",
+        "enriched": 0
       },
       {
         "track": "music",
@@ -357,7 +363,8 @@
         "active": true,
         "popularity": 5,
         "id": "2026-07-27-music-sirens-del-sol-poolside-residenc-ec65f0",
-        "eid": "sirens-del-sol-poolside-resi-a760"
+        "eid": "sirens-del-sol-poolside-resi-a760",
+        "enriched": 0
       },
       {
         "track": "music",
@@ -399,7 +406,8 @@
         "active": true,
         "popularity": 5,
         "id": "2026-07-27-music-reggaeton-rave-2a34c1",
-        "eid": "reggaeton-rave-64db"
+        "eid": "reggaeton-rave-64db",
+        "enriched": 0
       },
       {
         "track": "music",
@@ -443,7 +451,8 @@
         "active": true,
         "popularity": 4,
         "id": "2026-07-27-music-0-809722222-fb8d66",
-        "eid": "0-809722222-c4f1"
+        "eid": "0-809722222-c4f1",
+        "enriched": 0
       },
       {
         "track": "music",
@@ -489,7 +498,8 @@
         "active": true,
         "popularity": 4,
         "id": "2026-07-27-music-arlo-9629e1",
-        "eid": "arlo-8ec8"
+        "eid": "arlo-8ec8",
+        "enriched": 0
       },
       {
         "track": "music",
@@ -502,14 +512,22 @@
         "end": "21:00",
         "area": "Huntington Beach",
         "venue": "The Bungalow",
-        "address": "",
-        "why": "A beachside gathering with an upscale vibe in a trendy venue.",
-        "summary": "Azure Huntington Beach featuring Mashbit is scheduled for August 2, 2026, at The Bungalow in Huntington Beach, from 2 PM to 9 PM. Tickets are priced at $35, and the event is for ages 21 and up.",
+        "address": "21058 Pacific Coast Hwy, Huntington Beach, CA 92648",
+        "why": "A beachside day party from AZURE SOCAL at a landmark Huntington Beach venue, ages 21+.",
+        "summary": "AZURE Huntington Beach returns with Mashbit for a Sunday day party at The Bungalow's oceanfront patio, August 2, 2026 from 2-9pm, produced by AZURE SOCAL.",
         "price": "$35",
         "tags": [
-          "outdoor"
+          "outdoor",
+          "house",
+          "day-party",
+          "beachside"
         ],
-        "lineup": [],
+        "lineup": [
+          {
+            "name": "Mashbit",
+            "instagram": null
+          }
+        ],
         "sources": [
           "https://posh.vip/e/azure-day-party-huntington-beach-2026-11-29-22-30"
         ],
@@ -531,7 +549,9 @@
         "active": true,
         "popularity": 4,
         "id": "2026-07-27-music-azure-huntington-beach-w-mashbit-df587b",
-        "eid": "azure-huntington-beach-w-mas-1550"
+        "eid": "azure-huntington-beach-w-mas-1550",
+        "enriched": 1,
+        "promoter": "AZURE SOCAL"
       },
       {
         "track": "music",
@@ -576,7 +596,8 @@
         "active": true,
         "popularity": 4,
         "id": "2026-07-27-music-clinic-f27d71",
-        "eid": "clinic-44a2"
+        "eid": "clinic-44a2",
+        "enriched": 0
       },
       {
         "track": "music",
@@ -618,7 +639,8 @@
         "active": true,
         "popularity": 4,
         "id": "2026-07-27-music-dance-klassique-4a9c29",
-        "eid": "dance-klassique-9023"
+        "eid": "dance-klassique-9023",
+        "enriched": 0
       },
       {
         "track": "music",
@@ -660,7 +682,8 @@
         "active": true,
         "popularity": 4,
         "id": "2026-07-27-music-electric-feels-dc0e0a",
-        "eid": "electric-feels-09cd"
+        "eid": "electric-feels-09cd",
+        "enriched": 0
       },
       {
         "track": "music",
@@ -707,7 +730,8 @@
         "active": true,
         "popularity": 4,
         "id": "2026-07-27-music-float-ft-chambord-11de80",
-        "eid": "float-ft-chambord-3782"
+        "eid": "float-ft-chambord-3782",
+        "enriched": 0
       },
       {
         "track": "music",
@@ -748,7 +772,8 @@
         "active": true,
         "popularity": 4,
         "id": "2026-07-27-music-haus-party-w-jay-tripwire-87825f",
-        "eid": "haus-party-w-jay-tripwire-d37a"
+        "eid": "haus-party-w-jay-tripwire-d37a",
+        "enriched": 0
       },
       {
         "track": "music",
@@ -793,7 +818,8 @@
         "active": true,
         "popularity": 4,
         "id": "2026-07-27-music-paris-at-night-la-house-tuesday-3a8e0f",
-        "eid": "paris-at-night-la-house-tues-34ee"
+        "eid": "paris-at-night-la-house-tues-34ee",
+        "enriched": 0
       },
       {
         "track": "music",
@@ -839,7 +865,8 @@
         "active": true,
         "popularity": 4,
         "id": "2026-07-27-music-party-pupils-60198a",
-        "eid": "party-pupils-bf58"
+        "eid": "party-pupils-bf58",
+        "enriched": 0
       },
       {
         "track": "music",
@@ -881,7 +908,8 @@
         "active": true,
         "popularity": 4,
         "id": "2026-07-27-music-respect-thursdays-a7add0",
-        "eid": "respect-thursdays-4d86"
+        "eid": "respect-thursdays-4d86",
+        "enriched": 0
       },
       {
         "track": "music",
@@ -927,7 +955,8 @@
         "active": true,
         "popularity": 4,
         "id": "2026-07-27-music-revolution-909-de4245",
-        "eid": "revolution-909-9186"
+        "eid": "revolution-909-9186",
+        "enriched": 0
       },
       {
         "track": "music",
@@ -974,7 +1003,8 @@
         "active": true,
         "popularity": 4,
         "id": "2026-07-27-music-revolution-909-open-air-757d24",
-        "eid": "revolution-909-open-air-8653"
+        "eid": "revolution-909-open-air-8653",
+        "enriched": 0
       },
       {
         "track": "music",
@@ -1017,7 +1047,8 @@
         "active": true,
         "popularity": 4,
         "id": "2026-07-27-music-sidequest-6dcb92",
-        "eid": "sidequest-7a58"
+        "eid": "sidequest-7a58",
+        "enriched": 0
       },
       {
         "track": "music",
@@ -1060,7 +1091,8 @@
         "active": true,
         "popularity": 4,
         "id": "2026-07-27-music-space-taco-house-tuesdays-a071e0",
-        "eid": "space-taco-house-tuesdays-f115"
+        "eid": "space-taco-house-tuesdays-f115",
+        "enriched": 0
       },
       {
         "track": "music",
@@ -1106,7 +1138,8 @@
         "active": true,
         "popularity": 4,
         "id": "2026-07-27-music-space-yacht-tech-my-house-79a801",
-        "eid": "space-yacht-tech-my-house-9cf3"
+        "eid": "space-yacht-tech-my-house-9cf3",
+        "enriched": 0
       },
       {
         "track": "music",
@@ -1153,7 +1186,8 @@
         "active": true,
         "popularity": 4,
         "id": "2026-07-27-music-summer-massive-franz-shape-cfm-c-4d7b8d",
-        "eid": "summer-massive-franz-shape-c-bb17"
+        "eid": "summer-massive-franz-shape-c-bb17",
+        "enriched": 0
       },
       {
         "track": "music",
@@ -1197,7 +1231,8 @@
         "active": true,
         "popularity": 4,
         "id": "2026-07-27-music-zack-fox-dj-set-3c7fc8",
-        "eid": "zack-fox-dj-set-bcad"
+        "eid": "zack-fox-dj-set-bcad",
+        "enriched": 0
       },
       {
         "track": "music",
@@ -1243,7 +1278,8 @@
           "lat": null,
           "lon": null
         },
-        "coords_precise": false
+        "coords_precise": false,
+        "enriched": 0
       },
       {
         "track": "music",
@@ -1288,7 +1324,8 @@
           "lat": null,
           "lon": null
         },
-        "coords_precise": false
+        "coords_precise": false,
+        "enriched": 0
       },
       {
         "track": "music",
@@ -1334,7 +1371,8 @@
         "active": true,
         "popularity": 4,
         "id": "2026-07-27-music-climax-girls-night-out-a1b2c3",
-        "eid": "climax-girls-night-out-a1b2"
+        "eid": "climax-girls-night-out-a1b2",
+        "enriched": 0
       },
       {
         "track": "music",
@@ -1380,7 +1418,8 @@
         "active": true,
         "popularity": 5,
         "id": "2026-07-27-music-climax-hot-summer-day-one-d4e5f6",
-        "eid": "climax-hot-summer-day-one-d4e5"
+        "eid": "climax-hot-summer-day-one-d4e5",
+        "enriched": 0
       },
       {
         "track": "music",
@@ -1426,7 +1465,8 @@
         "active": true,
         "popularity": 5,
         "id": "2026-07-27-music-climax-hot-summer-day-two-g7h8i9",
-        "eid": "climax-hot-summer-day-two-g7h8"
+        "eid": "climax-hot-summer-day-two-g7h8",
+        "enriched": 0
       },
       {
         "id": "2026-07-27-music-saturday-hardfest-afters-mau-p-bac173",
@@ -1467,7 +1507,8 @@
         "image": "https://static-label.frontgatetickets.com/common/events/160788_lg.jpg",
         "image_generated": false,
         "popularity": 7,
-        "active": true
+        "active": true,
+        "enriched": 0
       },
       {
         "id": "2026-07-27-music-vivie-j-celebraysean-68d5a0",
@@ -1507,7 +1548,8 @@
         "image": "https://media.speakeasygo.com/cdn-cgi/image/width=1920,dpr=auto,quality=20,format=auto,fit=cover,metadata=none,sharpen=1,onerror=redirect/dev/tW5rv-1784653923337-i3k0.jpg",
         "image_generated": false,
         "popularity": 4,
-        "active": true
+        "active": true,
+        "enriched": 0
       },
       {
         "id": "2026-07-27-music-a-club-called-rhonda-w-teed-ja-aa88e2",
@@ -1551,7 +1593,8 @@
         "image": "",
         "image_generated": false,
         "popularity": 6,
-        "active": true
+        "active": true,
+        "enriched": 0
       },
       {
         "id": "2026-07-27-music-nightshift-after-hours-8fca83",
@@ -1595,7 +1638,8 @@
         "image": "",
         "image_generated": false,
         "popularity": 3,
-        "active": true
+        "active": true,
+        "enriched": 0
       },
       {
         "id": "2026-07-27-music-beach-pod-shuffles-lolo-ayekre-a74687",
@@ -1637,7 +1681,8 @@
         "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1188463914%2F308681367326%2F1%2Foriginal.20260708-154721",
         "image_generated": false,
         "popularity": 3,
-        "active": true
+        "active": true,
+        "enriched": 0
       },
       {
         "id": "2026-07-27-music-deadhead-disco-jerry-garcia-s-7a5913",
@@ -1680,7 +1725,8 @@
         "image": "",
         "image_generated": false,
         "popularity": 4,
-        "active": true
+        "active": true,
+        "enriched": 0
       }
     ],
     "sports": [
@@ -1726,7 +1772,8 @@
         "active": true,
         "popularity": 4,
         "id": "2026-07-27-sports-la-critical-mass-july-ride-01663e",
-        "eid": "la-critical-mass-july-ride-74fd"
+        "eid": "la-critical-mass-july-ride-74fd",
+        "enriched": 0
       },
       {
         "track": "sports",
@@ -1772,7 +1819,8 @@
         "active": true,
         "popularity": 4,
         "id": "2026-07-27-sports-pride-of-the-valley-5k-10k-de315e",
-        "eid": "pride-of-the-valley-5k-10k-1d98"
+        "eid": "pride-of-the-valley-5k-10k-1d98",
+        "enriched": 0
       },
       {
         "track": "sports",
@@ -1816,7 +1864,8 @@
         "active": true,
         "popularity": 4,
         "id": "2026-07-27-sports-run-la-10-miler-0d106f",
-        "eid": "run-la-10-miler-6445"
+        "eid": "run-la-10-miler-6445",
+        "enriched": 0
       },
       {
         "id": "2026-07-27-sports-la-leggers-season-kickoff-grou-5e3582",
@@ -1855,7 +1904,8 @@
         "image": "",
         "image_generated": false,
         "popularity": 2,
-        "active": true
+        "active": true,
+        "enriched": 0
       }
     ]
   }
