@@ -1053,13 +1053,13 @@
         "time": "9pm–2am",
         "start": "21:00",
         "end": "02:00",
-        "area": "SF",
+        "area": "SoMa",
         "venue": "DNA Lounge",
         "address": "375 11th St, San Francisco, CA 94103",
-        "why": "Reggaeton/Latin-trap tribute night for fans wanting an all-Bad-Bunny dance floor",
-        "summary": "DNA Lounge hosts an all-Bad Bunny reggaeton tribute dance night, Saturday July 25 from 9pm to 2am, tickets $10–22, 21+.",
-        "promoter": "",
-        "price": "$10–22",
+        "why": "A dedicated all-Bad-Bunny reggaeton floor with the resident DJ duo who run this series",
+        "summary": "DNA Lounge's recurring Bad Bunny Night returns Saturday July 25 with twin DJ duo OtebNSolrac spinning reggaeton and Latin house from 9pm to 2am, tickets $10-22, 21+.",
+        "promoter": "OtebNSolrac",
+        "price": "$10 adv / $15 / $22 door",
         "tags": [
           "reggaeton",
           "latin-trap",
@@ -1067,9 +1067,15 @@
           "soma",
           "dance-party"
         ],
-        "lineup": [],
+        "lineup": [
+          {
+            "name": "OtebNSolrac",
+            "instagram": null
+          }
+        ],
         "sources": [
-          "https://www.dnalounge.com/calendar/2026/07-25.html"
+          "https://www.dnalounge.com/calendar/2026/07-25.html",
+          "https://www.sfstation.com/bad-bunny-night-e15772372"
         ],
         "tickets": [
           "https://www.dnalounge.com/calendar/2026/07-25.html"
@@ -1090,7 +1096,7 @@
         "popularity": 6,
         "id": "2026-07-20-music-bad-bunny-night-8b0d0b",
         "eid": "bad-bunny-night-054a",
-        "enriched": 0
+        "enriched": 1
       },
       {
         "track": "music",
