@@ -196,11 +196,11 @@
         "time": "4pm-12am",
         "start": "16:00",
         "end": "00:00",
-        "area": "Los Angeles",
+        "area": "DTLA",
         "venue": "Yaanga Park",
-        "address": "",
-        "why": "An immersive progressive house party in a scenic Los Angeles park.",
-        "summary": "Maccabi House La featuring various artists will take place at Yaanga Park in Los Angeles on August 1, 2026, from 4 PM to 12 AM. Prices start at $79 before 6 PM, and the event is for ages 21 and up.",
+        "address": "540 North Los Angeles Street, Los Angeles, CA",
+        "why": "A daytime-into-night progressive house party in a scenic downtown LA park from Maccabi House's own label bosses.",
+        "summary": "Maccabi House LA returns for its third edition at Yaanga Park in downtown Los Angeles on August 1, 2026, with label bosses Adam Ten and Mita Gami joined by Mary Jane and The Botanist, running 4 PM to midnight for ages 21 and up.",
         "price": "$79",
         "tags": [
           "21+",
@@ -208,12 +208,36 @@
           "outdoor",
           "progressive-house"
         ],
-        "lineup": [],
+        "lineup": [
+          {
+            "name": "Adam Ten",
+            "instagram": null
+          },
+          {
+            "name": "Mita Gami",
+            "instagram": null
+          },
+          {
+            "name": "Mary Jane",
+            "instagram": null
+          },
+          {
+            "name": "The Botanist",
+            "instagram": null
+          },
+          {
+            "name": "Jørd",
+            "instagram": null
+          }
+        ],
         "sources": [
-          "https://ra.co/events/2430255"
+          "https://ra.co/events/2430255",
+          "https://dice.fm/event/ryd9mq-maccabi-house-la-w-adam-ten-x-mita-gami-1st-aug-yaanga-park-los-angeles-tickets",
+          "https://timetohouse.com/en/events/august-1-maccabi-house-la-feat-adam-ten-x-mita-gami-2026-08-01"
         ],
         "tickets": [
-          "https://ra.co/events/2430255"
+          "https://ra.co/events/2430255",
+          "https://dice.fm/event/ryd9mq-maccabi-house-la-w-adam-ten-x-mita-gami-1st-aug-yaanga-park-los-angeles-tickets"
         ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Yaanga+Park%2C+Los+Angeles",
@@ -236,7 +260,8 @@
         "popularity": 8,
         "id": "2026-07-27-music-maccabi-house-la-feat-adam-ten-m-5dd88a",
         "eid": "maccabi-house-la-feat-adam-t-fbff",
-        "enriched": 0
+        "enriched": 1,
+        "promoter": "Maccabi House"
       },
       {
         "track": "music",
