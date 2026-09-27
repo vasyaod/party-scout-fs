@@ -321,9 +321,9 @@
         "end": "00:00",
         "area": "Ventura",
         "venue": "Ventura Music Hall",
-        "address": "26 W Chestnut St, Ventura, CA 93001",
+        "address": "1888 E Thompson Blvd, Ventura, CA 93001",
         "why": "Toro Y Moi live in Ventura — drive 60 miles for chillwave done perfectly before the festival weekend.",
-        "summary": "Toro Y Moi plays a live synthpop and chillwave set at Ventura Music Hall Friday 9pm–midnight, all ages, $32–72.",
+        "summary": "Toro Y Moi plays a live synthpop and chillwave set at Ventura Music Hall Friday 9pm–midnight, with support from casi_rightnow, all ages, $32–72.",
         "price": "$32–72",
         "tags": [
           "synthpop",
@@ -333,9 +333,15 @@
           "all-ages",
           "headliner"
         ],
-        "lineup": [],
+        "lineup": [
+          {
+            "name": "casi_rightnow",
+            "instagram": null
+          }
+        ],
         "sources": [
-          "https://www.tixr.com/groups/venturamusichall/events/toro-y-moi-187889"
+          "https://www.tixr.com/groups/venturamusichall/events/toro-y-moi-187889",
+          "https://www.songkick.com/concerts/43209239-toro-y-moi-at-ventura-music-hall"
         ],
         "tickets": [
           "https://www.tixr.com/groups/venturamusichall/events/toro-y-moi-187889"
@@ -356,7 +362,7 @@
         "popularity": 8,
         "id": "2026-07-27-music-toro-y-moi-e5f793",
         "eid": "toro-y-moi-07da",
-        "enriched": 0
+        "enriched": 1
       },
       {
         "track": "music",
