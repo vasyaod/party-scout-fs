@@ -1338,9 +1338,19 @@
           "club",
           "21+"
         ],
-        "lineup": [],
+        "lineup": [
+          {
+            "name": "Franz & Shape",
+            "instagram": null
+          },
+          {
+            "name": "Club Drippy (Pixel Grip)",
+            "instagram": null
+          }
+        ],
         "sources": [
-          "https://wl.eventim.us/event/summer-massive/679543?afflky=dasbunker"
+          "https://wl.eventim.us/event/summer-massive/679543?afflky=dasbunker",
+          "https://www.curationsla.com/3ca9ada7-b72c-4aa1-a89c-3c823eaf26f3-summer-massive-w-das-bunker-disco-90s-goth-klub-safeword-das-20260802"
         ],
         "tickets": [
           "https://wl.eventim.us/event/summer-massive/679543?afflky=dasbunker"
@@ -1361,7 +1371,8 @@
         "popularity": 4,
         "id": "2026-07-27-music-summer-massive-franz-shape-cfm-c-4d7b8d",
         "eid": "summer-massive-franz-shape-c-bb17",
-        "enriched": 0
+        "enriched": 1,
+        "promoter": "Das Bunker"
       },
       {
         "track": "music",
