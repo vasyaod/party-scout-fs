@@ -1830,26 +1830,31 @@
         "name": "Run LA 10 Miler",
         "day": "Sun",
         "date": "2026-08-02",
-        "time": "7am",
-        "start": "07:00",
+        "time": "7:15am",
+        "start": "07:15",
         "end": null,
         "area": "Los Angeles",
-        "venue": "Los Angeles",
-        "address": "",
-        "why": "Ten miles through the city the same weekend as HARD Summer — a Sunday morning recharge run.",
-        "summary": "Run LA 10 Miler takes place Sunday August 2 in Los Angeles, a mid-distance road race through the city with 500–1000 participants.",
-        "price": "",
+        "venue": "Griffith Park",
+        "address": "4659 Crystal Springs Drive, Los Angeles, CA 90027",
+        "why": "10 Miler, 10K, and 5K races through historic Griffith Park the same weekend as HARD Summer.",
+        "summary": "The 4th Annual Run LA 10 Miler takes place Sunday August 2, 2026 in Griffith Park, with 10 Miler, 10K, and 5K distances starting at 7:15am, 7:30am, and 8:00am respectively.",
+        "price": "$59–95",
         "tags": [
           "running",
           "10-mile",
-          "road"
+          "road",
+          "10k",
+          "5k",
+          "griffith-park"
         ],
         "lineup": [],
         "sources": [
-          "https://www.runguides.com/los-angeles/runs"
+          "https://www.runguides.com/los-angeles/runs",
+          "https://runsignup.com/Race/CA/LosAngeles/RunLA10Miler"
         ],
         "tickets": [
-          "https://www.runguides.com/los-angeles/runs"
+          "https://www.runguides.com/los-angeles/runs",
+          "https://runsignup.com/Race/CA/LosAngeles/RunLA10Miler"
         ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Los+Angeles%2C+Los+Angeles",
@@ -1867,7 +1872,8 @@
         "popularity": 4,
         "id": "2026-07-27-sports-run-la-10-miler-0d106f",
         "eid": "run-la-10-miler-6445",
-        "enriched": 0
+        "enriched": 1,
+        "promoter": "Run LA"
       },
       {
         "id": "2026-07-27-sports-la-leggers-season-kickoff-grou-5e3582",
