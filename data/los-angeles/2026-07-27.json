@@ -1284,7 +1284,7 @@
         "end": "02:00",
         "area": "Pomona",
         "venue": "The Basement",
-        "address": "",
+        "address": "300 S Thomas St, Pomona, CA 91766",
         "why": "Another round of eclectic house sounds on Taco Tuesdays.",
         "summary": "Space Taco House Tuesdays at The Basement in Pomona on July 28, 2026, from 9 PM to 2 AM. Free with RSVP before 11 PM or $10, 21+.",
         "price": "$10",
@@ -1296,9 +1296,13 @@
         ],
         "lineup": [],
         "sources": [
-          "https://www.instagram.com/spacetaco.tuesdays/"
+          "https://www.instagram.com/spacetaco.tuesdays/",
+          "https://www.eventbrite.com/o/house-techno-tuesdays-space-taco-113741015541",
+          "https://ra.co/events/1400063"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://www.eventbrite.com/o/house-techno-tuesdays-space-taco-113741015541"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=The+Basement%2C+Pomona",
           "apple": "https://maps.apple.com/?q=The+Basement%2C+Pomona"
@@ -1315,7 +1319,8 @@
         "popularity": 4,
         "id": "2026-07-27-music-space-taco-house-tuesdays-a071e0",
         "eid": "space-taco-house-tuesdays-f115",
-        "enriched": 0
+        "enriched": 1,
+        "promoter": "Space Taco"
       },
       {
         "track": "music",
