@@ -4500,8 +4500,8 @@
         "area": "Golden Gate Park",
         "venue": "Spreckels Temple of Music",
         "address": "50 Hagiwara Tea Garden Dr, San Francisco, CA 94118",
-        "why": "144-year-old community band pairs live Highland dance with Scottish marches and airs",
-        "summary": "The Golden Gate Park Band celebrates the spirit and pageantry of Scotland with marches, airs, and Highland-inspired rhythms, joined onstage by the Dunsmuir Scottish Dancers.",
+        "why": "144-year-old community band pairs live Highland dance with Scottish marches and a trombone soloist",
+        "summary": "The Golden Gate Park Band celebrates the spirit and pageantry of Scotland with stirring marches, lilting airs, and Highland rhythms, joined by the Dunsmuir Scottish Dancers and trombone soloist Daven J. Tjaarda-Hernandez.",
         "promoter": "Golden Gate Park Band",
         "price": "Free",
         "tags": [
@@ -4511,7 +4511,20 @@
           "family-friendly",
           "scottish"
         ],
-        "lineup": [],
+        "lineup": [
+          {
+            "name": "Golden Gate Park Band",
+            "instagram": null
+          },
+          {
+            "name": "Dunsmuir Scottish Dancers",
+            "instagram": null
+          },
+          {
+            "name": "Daven J. Tjaarda-Hernandez",
+            "instagram": null
+          }
+        ],
         "sources": [
           "https://goldengateparkband.org/calendar/a-bonnie-scottish-celebration"
         ],
@@ -4532,7 +4545,7 @@
         "popularity": 3,
         "id": "2026-07-20-music-golden-gate-park-band-symphony-i-2ae608",
         "eid": "golden-gate-park-band-sympho-5028",
-        "enriched": 0
+        "enriched": 1
       },
       {
         "track": "music",
