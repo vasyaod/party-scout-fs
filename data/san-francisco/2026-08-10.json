@@ -5783,26 +5783,32 @@
         "id": "2026-08-10-music-wes-mills-24f2f0",
         "eid": "wes-mills-fc87",
         "track": "music",
-        "category": "",
+        "category": "UK Garage",
         "name": "Wes Mills",
         "day": "Sat",
         "date": "2026-08-15",
-        "time": "",
-        "start": null,
-        "end": null,
-        "area": "San Francisco",
+        "time": "9:30pm-2am",
+        "start": "21:30",
+        "end": "02:00",
+        "area": "SoMa",
         "venue": "Monarch",
-        "address": "",
-        "why": "",
-        "summary": "",
-        "promoter": "",
+        "address": "101 6th St, San Francisco, CA 94103",
+        "why": "Rising Bitbird signee blending '90s/2000s dance nostalgia with crisp modern production",
+        "summary": "Bitbird producer wes mills brings his UK garage-meets-dance-pop sound to Monarch, with support from Tripleset and DJ Saratonin.",
+        "promoter": "Another Planet Entertainment",
         "price": "21+",
         "tags": [
           "uk garage",
-          "house"
+          "house",
+          "dance pop"
         ],
-        "sources": [],
-        "tickets": [],
+        "sources": [
+          "https://apeconcerts.com/events/wes-mills-260815/",
+          "https://www.eventbrite.com/e/wes-mills-tickets-1990799176929"
+        ],
+        "tickets": [
+          "https://www.eventbrite.com/e/wes-mills-tickets-1990799176929"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Monarch%2C%20San%20Francisco",
           "apple": "https://maps.apple.com/?q=Monarch%2C%20San%20Francisco"
@@ -5814,7 +5820,21 @@
         "image_generated": false,
         "popularity": 0,
         "active": true,
-        "enriched": 0
+        "enriched": 1,
+        "lineup": [
+          {
+            "name": "Wes Mills",
+            "instagram": null
+          },
+          {
+            "name": "Tripleset",
+            "instagram": null
+          },
+          {
+            "name": "DJ Saratonin",
+            "instagram": null
+          }
+        ]
       },
       {
         "id": "2026-08-10-music-the-white-party-c3442b",
