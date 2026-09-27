@@ -5054,28 +5054,34 @@
         "id": "2026-08-10-music-melodies-of-love-caa691",
         "eid": "melodies-of-love-d5d0",
         "track": "music",
-        "category": "",
+        "category": "Disco / House",
         "name": "Melodies Of Love",
         "day": "Sat",
         "date": "2026-08-15",
-        "time": "",
-        "start": null,
+        "time": "9:00 PM",
+        "start": "21:00",
         "end": null,
         "area": "Oakland",
         "venue": "Thee Stork Club",
         "address": "",
-        "why": "",
-        "summary": "",
-        "promoter": "",
+        "why": "A long-running monthly celebration of vintage dance music in an intimate Oakland dive-bar setting.",
+        "summary": "Oakland's recurring disco night returns to Thee Stork Club with DJs Jaage, FemmeElectric, and Maryzelle spinning disco, house, Italo, and boogie club classics.",
+        "promoter": "Melodies of Love",
         "price": "$10",
         "tags": [
           "disco",
           "funk",
           "house",
-          "boogie"
+          "boogie",
+          "italo"
         ],
-        "sources": [],
-        "tickets": [],
+        "sources": [
+          "https://wl.eventim.us/event/melodies-of-love/698837?afflky=TheeStorkClub",
+          "https://dothebay.com/events/2026/8/15"
+        ],
+        "tickets": [
+          "https://wl.eventim.us/event/melodies-of-love/698837?afflky=TheeStorkClub"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Thee%20Stork%20Club%2C%20Oakland",
           "apple": "https://maps.apple.com/?q=Thee%20Stork%20Club%2C%20Oakland"
@@ -5087,7 +5093,8 @@
         "image_generated": false,
         "popularity": 0,
         "active": true,
-        "enriched": 0
+        "enriched": 1,
+        "lineup": []
       },
       {
         "id": "2026-08-10-music-organic-tribute-to-dj-dan-dj-s-a30994",
