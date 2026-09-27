@@ -3073,9 +3073,12 @@
           }
         ],
         "sources": [
-          "https://www.instagram.com/gregeversoul/"
+          "https://www.instagram.com/gregeversoul/",
+          "https://www.eventbrite.com/e/velvet-rudiments-new-monthly-last-thursdays-tickets-1993875383947"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://www.eventbrite.com/e/velvet-rudiments-new-monthly-last-thursdays-tickets-1993875383947"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=46+Geary+St%2C+San+Francisco%2C+CA",
           "apple": "https://maps.apple.com/?q=46+Geary+St%2C+San+Francisco%2C+CA"
@@ -3088,11 +3091,12 @@
         "image": "https://party-scout.app/img/gen/velvet-rudiments-hawthorn-547c.jpg",
         "image_generated": false,
         "ra": {},
-        "active": false,
+        "active": true,
         "popularity": 5,
         "id": "2026-07-27-music-velvet-rudiments-hawthorn-b9986d",
         "eid": "velvet-rudiments-hawthorn-547c",
-        "enriched": 0
+        "enriched": 1,
+        "promoter": "Hawthorn"
       },
       {
         "track": "music",
