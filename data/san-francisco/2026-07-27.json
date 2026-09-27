@@ -2755,8 +2755,8 @@
         "address": "240 Front St, San Francisco, CA 94111",
         "promoter": "Downtown SF Partnership / Noise Pop",
         "why": "A free street pop-up landing one week before Charli xcx headlines SF's big August festival — a brat-pop street party with a lookalike contest and Bavarian beer-hall food, not just another club night.",
-        "summary": "Downtown SF Partnership and Noise Pop kick off their 2026 Fridays on Front Street series with Brat + Bratwurst Summer: indie dance and brat-pop DJ sets (DJ Papa Xanny, JLittle, Bapari), a Charli xcx lookalike contest, Y2K shopping pop-up, and Bavarian beer-hall food, Friday July 31, 4-9pm, free with RSVP, all ages.",
-        "price": "Free (RSVP)",
+        "summary": "Downtown SF Partnership and Noise Pop kick off their 2026 Fridays on Front Street series with Brat + Bratwurst Summer: brat-pop/indie-dance DJ sets from DJ Papa Xanny, JLittle and Bapari, a Charli xcx lookalike contest, wiener tossing, beer pong, and Bavarian beer-hall food from Schroeder's, Harrington's Bar & Grill and The Royal Exchange, Friday July 31, 4-9pm, free, all ages.",
+        "price": "Free",
         "tags": [
           "day-party",
           "pop-up",
@@ -2779,9 +2779,16 @@
           }
         ],
         "sources": [
-          "https://www.instagram.com/jlittlemusic/"
+          "https://www.instagram.com/jlittlemusic/",
+          "https://downtownsf.org/things-to-do/fridays-on-front-street",
+          "https://www.eventbrite.com/e/fridays-on-front-street-free-san-francisco-block-party-tickets-1992736070229",
+          "https://dothebay.com/events/2026/7/31/fridays-on-front-street-brat-bratwurst-summer",
+          "https://www.sfchronicle.com/entertainment/music/article/san-francisco-free-party-22325862.php",
+          "https://riffmagazine.com/news/fridays-on-front-street-2026/"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://www.eventbrite.com/e/fridays-on-front-street-free-san-francisco-block-party-tickets-1992736070229"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=240+Front+St%2C+San+Francisco%2C+CA+94111",
           "apple": "https://maps.apple.com/?q=240+Front+St%2C+San+Francisco%2C+CA+94111"
@@ -2794,11 +2801,11 @@
         "image": "https://party-scout.app/img/gen/brat-bratwurst-summer-front-st-2961.jpg",
         "image_generated": false,
         "ra": {},
-        "active": false,
+        "active": true,
         "popularity": 5,
         "id": "2026-07-27-music-brat-bratwurst-summer-front-st-bff77d",
         "eid": "brat-bratwurst-summer-front-st-2961",
-        "enriched": 0
+        "enriched": 1
       },
       {
         "track": "music",
