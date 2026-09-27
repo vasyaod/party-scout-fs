@@ -1519,27 +1519,41 @@
         "name": "Sindustry Sundays: Alexx Gold, Jeff Straw",
         "day": "Sun",
         "date": "2026-07-26",
-        "time": "10pm–2am",
-        "start": "22:00",
+        "time": "9pm–2am",
+        "start": "21:00",
         "end": "02:00",
-        "area": "San Francisco",
+        "area": "SoMa",
         "venue": "Butter",
         "address": "354 11th St, San Francisco, CA 94103",
-        "why": "Long-running free Sunday tea-dance tradition for SF's gay nightlife regulars.",
-        "summary": "Sindustry Sundays hosts Alexx Gold and Jeff Straw at Butter in San Francisco on Sunday, July 26, from 10pm-2am. This recurring gay Sunday night is free to attend, 21+.",
-        "promoter": "",
-        "price": "Free",
+        "why": "Free-cover Sunday house tradition at Butter with cheap drinks and a rotating guest DJ.",
+        "summary": "Sindustry Sundays returns to Butter in San Francisco on Sunday, July 26, with resident DJ/saxophonist Jeff Straw joined by guest DJ Alexx Gold, 9pm-2am. No cover, $5 suggested donation, cheap drinks, 21+.",
+        "promoter": "Jeff Straw",
+        "price": "Free ($5 suggested)",
         "tags": [
           "house",
           "gay-sunday",
           "free",
-          "recurring"
+          "recurring",
+          "no-cover",
+          "sunday"
         ],
-        "lineup": [],
+        "lineup": [
+          {
+            "name": "Alexx Gold",
+            "instagram": null
+          },
+          {
+            "name": "Jeff Straw",
+            "instagram": null
+          }
+        ],
         "sources": [
-          "https://ra.co/events/2489282"
+          "https://ra.co/events/2489282",
+          "https://partiful.com/e/5B6IoXnGWTFCwOGtXa0p"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://partiful.com/e/5B6IoXnGWTFCwOGtXa0p"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Butter%2C+354+11th+St%2C+San+Francisco%2C+CA+94103",
           "apple": "https://maps.apple.com/?q=Butter%2C+354+11th+St%2C+San+Francisco%2C+CA+94103"
@@ -1561,7 +1575,7 @@
         "popularity": 6,
         "id": "2026-07-20-music-sindustry-sundays-alexx-gold-jef-151603",
         "eid": "sindustry-sundays-alexx-gold-4f82",
-        "enriched": 0
+        "enriched": 1
       },
       {
         "track": "music",
