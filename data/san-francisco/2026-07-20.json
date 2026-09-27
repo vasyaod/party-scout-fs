@@ -3636,26 +3636,30 @@
         "name": "Hard Reset",
         "day": "Sun",
         "date": "2026-07-26",
-        "time": "10pm",
+        "time": "10pm-2am",
         "start": "22:00",
         "end": "02:00",
-        "area": "San Francisco",
+        "area": "Castro",
         "venue": "Qbar",
         "address": "456 Castro St, San Francisco, CA 94114",
-        "why": "Castro night reboot for techno heads craving a harder edge than typical Sunday fare.",
-        "summary": "Hard Reset takes over Qbar in San Francisco's Castro on Sunday, July 26, starting at 10pm. No cover price is listed for this 21+ techno night on Castro Street.",
-        "promoter": "",
+        "why": "Long-running weekly Sunday techno night at Qbar, a Castro gay bar, for heads craving a harder edge than typical Sunday fare.",
+        "summary": "Hard Reset's weekly Sunday techno night at Qbar in the Castro, running 10pm-2am for a 21+ crowd.",
+        "promoter": "Hard Reset",
         "price": "",
         "tags": [
           "techno",
           "castro",
-          "gay-bar"
+          "gay-bar",
+          "weekly",
+          "21+"
         ],
         "lineup": [],
         "sources": [
           "https://www.hardresetpresents.com"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://www.hardresetpresents.com"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Qbar%2C+456+Castro+St%2C+San+Francisco%2C+CA+94114",
           "apple": "https://maps.apple.com/?q=Qbar%2C+456+Castro+St%2C+San+Francisco%2C+CA+94114"
@@ -3672,7 +3676,7 @@
         "popularity": 4,
         "id": "2026-07-20-music-hard-reset-b478cc",
         "eid": "hard-reset-2d52",
-        "enriched": 0
+        "enriched": 1
       },
       {
         "track": "music",
