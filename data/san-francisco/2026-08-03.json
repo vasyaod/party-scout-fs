@@ -3650,9 +3650,12 @@
           "launch"
         ],
         "sources": [
-          "https://19hz.info/eventlisting_BayArea.php"
+          "https://19hz.info/eventlisting_BayArea.php",
+          "https://ultradia-001.secretparty.io"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://ultradia-001.secretparty.io"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=1255%207th%20St%2C%20Oakland%2C%20CA%2094607",
           "apple": "https://maps.apple.com/?q=1255%207th%20St%2C%20Oakland%2C%20CA%2094607"
@@ -3664,7 +3667,7 @@
         "image_generated": false,
         "popularity": 0,
         "active": true,
-        "enriched": 0
+        "enriched": 1
       },
       {
         "id": "2026-08-03-music-damon-r-suzy-sheer-luckystrike-564f75",
