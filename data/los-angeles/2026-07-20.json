@@ -1191,7 +1191,7 @@
       },
       {
         "track": "music",
-        "category": "Progressive House",
+        "category": "House",
         "name": "Galactic Glow: Divadanielle, Loomer, Kitch N'Sync, Otter Limits",
         "day": "Sat",
         "date": "2026-07-25",
@@ -1200,19 +1200,42 @@
         "end": "02:00",
         "area": "Hollywood",
         "venue": "Casita Hollywood",
-        "address": "1811 Cahuenga Blvd, Los Angeles, CA 90028",
-        "why": "Themed tech and bass house night at Casita — galactic aesthetics and a varied local bill.",
-        "summary": "Galactic Glow brings Divadanielle, Loomer, Kitch N'Sync, and Otter Limits to Casita Hollywood Saturday 9pm–2am, 21+, $30–50.",
+        "address": "1323 N Highland Ave, Los Angeles, CA 90028",
+        "why": "Immersive black-light body-painting party, not just another DJ lineup, from Bodies & Beats.",
+        "summary": "Bodies & Beats' Galactic Glow turns Casita Hollywood into an alien black-light experience with body painting and DJ sets from Otter Limits, Kitch N'Sync, Loomer, and headliner Divadanielle.",
         "price": "$30–50",
         "tags": [
           "tech-house",
           "bass-house",
           "club",
-          "21+"
+          "21+",
+          "house",
+          "immersive",
+          "blacklight",
+          "bodypainting"
         ],
-        "lineup": [],
+        "lineup": [
+          {
+            "name": "Divadanielle",
+            "instagram": null
+          },
+          {
+            "name": "Loomer",
+            "instagram": null
+          },
+          {
+            "name": "Kitch N'Sync",
+            "instagram": null
+          },
+          {
+            "name": "Otter Limits",
+            "instagram": null
+          }
+        ],
         "sources": [
-          "https://www.eventbrite.com/e/galactic-glow-tickets-1989797659363"
+          "https://www.eventbrite.com/e/galactic-glow-tickets-1989797659363",
+          "https://ra.co/events/2477861",
+          "https://hollywoodpartnership.com/do/galactic-glow"
         ],
         "tickets": [
           "https://www.eventbrite.com/e/galactic-glow-tickets-1989797659363"
@@ -1233,7 +1256,8 @@
         "popularity": 4,
         "id": "2026-07-20-music-galactic-glow-divadanielle-loome-6655bf",
         "eid": "galactic-glow-divadanielle-l-74cc",
-        "enriched": 0
+        "enriched": 1,
+        "promoter": "Bodies & Beats"
       },
       {
         "track": "music",
