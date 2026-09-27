@@ -944,9 +944,16 @@
           "winery",
           "21+"
         ],
-        "lineup": [],
+        "lineup": [
+          {
+            "name": "Dor Danino",
+            "instagram": "dordanino"
+          }
+        ],
         "sources": [
-          "https://dice.fm/event/3ogbvg-cielo-du-sol-dor-danino-25th-jul-cielo-farms-malibu-tickets"
+          "https://dice.fm/event/3ogbvg-cielo-du-sol-dor-danino-25th-jul-cielo-farms-malibu-tickets",
+          "https://www.eventbrite.com/e/cielo-du-sol-dor-danino-tickets-1981615337819",
+          "https://www.exploretock.com/malibubarn/event/592551/cielo-du-sol-dor-danino-saturday-july-25th-2026"
         ],
         "tickets": [
           "https://dice.fm/event/3ogbvg-cielo-du-sol-dor-danino-25th-jul-cielo-farms-malibu-tickets"
@@ -967,7 +974,8 @@
         "popularity": 4,
         "id": "2026-07-20-music-cielo-du-sol-dor-danino-195972",
         "eid": "cielo-du-sol-dor-danino-1127",
-        "enriched": 0
+        "enriched": 1,
+        "promoter": "Cielo du Sol"
       },
       {
         "track": "music",
