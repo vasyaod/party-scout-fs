@@ -1707,7 +1707,7 @@
         "time": "10pm–2am",
         "start": "22:00",
         "end": "02:00",
-        "area": "Los Angeles",
+        "area": "Hollywood",
         "venue": "Academy Nightclub",
         "address": "6021 Hollywood Blvd, Los Angeles, CA 90028",
         "why": "Big-room tech house/midtempo bass double bill in the heart of Hollywood",
@@ -1740,7 +1740,17 @@
         "image_generated": false,
         "popularity": 2,
         "active": true,
-        "enriched": 0
+        "enriched": 1,
+        "lineup": [
+          {
+            "name": "Drezo",
+            "instagram": "drezomusic"
+          },
+          {
+            "name": "One True God",
+            "instagram": null
+          }
+        ]
       },
       {
         "id": "2026-08-03-music-nurko-x-jvna-749e83",
