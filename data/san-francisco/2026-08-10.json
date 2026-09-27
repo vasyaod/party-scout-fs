@@ -4453,19 +4453,19 @@
         "id": "2026-08-10-music-fringe-the-indie-music-video-d-da3a98",
         "eid": "fringe-the-indie-music-v-227d",
         "track": "music",
-        "category": "",
+        "category": "Indie",
         "name": "Fringe, The Indie Music Video Dance Party! DJ Suboctave's Birthday Party",
         "day": "Sat",
         "date": "2026-08-15",
-        "time": "",
-        "start": null,
-        "end": null,
+        "time": "9pm-2am",
+        "start": "21:00",
+        "end": "02:00",
         "area": "San Francisco",
         "venue": "Madrone Art Bar",
-        "address": "",
-        "why": "",
-        "summary": "",
-        "promoter": "",
+        "address": "500 Divisadero St, San Francisco, CA 94117",
+        "why": "A long-running SF Weekly \"Best Dance Party\" winner built around giant indie music video projections, not just DJ sets.",
+        "summary": "Monthly indie music video dance party at Madrone Art Bar pairing giant video-projected indie rock, indie pop and indie sleaze hits with remixes; this edition doubles as DJ subOctave's birthday celebration.",
+        "promoter": "Fringe",
         "price": "free b4 9:30pm / $10",
         "tags": [
           "indie rock",
@@ -4474,8 +4474,13 @@
           "electro house",
           "synthpop"
         ],
-        "sources": [],
-        "tickets": [],
+        "sources": [
+          "https://sf.funcheap.com/event-series/fringe-indie-music-video-dance-party/",
+          "https://www.eventbrite.com/e/fringe-the-indie-music-video-dance-party-tickets-1994873062029"
+        ],
+        "tickets": [
+          "https://www.eventbrite.com/e/fringe-the-indie-music-video-dance-party-tickets-1994873062029"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Madrone%20Art%20Bar%2C%20San%20Francisco",
           "apple": "https://maps.apple.com/?q=Madrone%20Art%20Bar%2C%20San%20Francisco"
@@ -4487,7 +4492,21 @@
         "image_generated": false,
         "popularity": 0,
         "active": true,
-        "enriched": 0
+        "enriched": 1,
+        "lineup": [
+          {
+            "name": "Blondie K",
+            "instagram": null
+          },
+          {
+            "name": "STARR NOIR",
+            "instagram": null
+          },
+          {
+            "name": "subOctave",
+            "instagram": null
+          }
+        ]
       },
       {
         "id": "2026-08-10-music-funk-stop-day-party-pop-up-266b08",
