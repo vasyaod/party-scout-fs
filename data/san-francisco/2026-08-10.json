@@ -5,7 +5,7 @@
   "location": "San Francisco & Bay Area",
   "city": "san-francisco",
   "city_label": "San Francisco",
-  "generated_at": "2026-09-26",
+  "generated_at": "2026-09-27",
   "tracks": {
     "music": [
       {
@@ -170,9 +170,9 @@
         "venue": "F8",
         "address": "1192 Folsom St, San Francisco, CA 94103",
         "why": "Free RSVP before 11pm gets an EDC/Coachella-tour LA headliner into F8's back room on a Wednesday",
-        "summary": "Run It Back brings LA producer Casmalia (Insomniac Records, mau5trap, Night Bass) to headline F8's back room, backed by a full local support lineup and free RSVP before 11pm.",
+        "summary": "Run It Back brings LA producer Casmalia (Insomniac Records, mau5trap, Night Bass) to headline F8's main room on a Wednesday, backed by TABS, Zoëyy, Anrae and SolTrip, with a second room of Parrotrix, DJ Parrot, Xander and Mode Leeloo.",
         "promoter": "Run It Back",
-        "price": "Free RSVP before 11pm",
+        "price": "Free RSVP before 11pm / $10 GA",
         "tags": [
           "bass house",
           "techno",
@@ -182,9 +182,12 @@
         "sources": [
           "https://www.instagram.com/p/DbrNtMiyC8h/",
           "https://www.instagram.com/p/DbypOrAAfuj/",
-          "https://www.instagram.com/f8sf/"
+          "https://www.instagram.com/f8sf/",
+          "https://ra.co/events/2499364"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://ra.co/events/2499364"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=1192%20Folsom%20St%2C%20San%20Francisco%2C%20CA%2094103",
           "apple": "https://maps.apple.com/?q=1192%20Folsom%20St%2C%20San%20Francisco%2C%20CA%2094103"
@@ -199,7 +202,45 @@
         "image_generated": false,
         "popularity": 3,
         "active": true,
-        "enriched": 0
+        "enriched": 1,
+        "lineup": [
+          {
+            "name": "Casmalia",
+            "instagram": "casmaliamusic"
+          },
+          {
+            "name": "TABS",
+            "instagram": null
+          },
+          {
+            "name": "Zoëyy",
+            "instagram": null
+          },
+          {
+            "name": "Anrae",
+            "instagram": null
+          },
+          {
+            "name": "SolTrip",
+            "instagram": null
+          },
+          {
+            "name": "Parrotrix",
+            "instagram": null
+          },
+          {
+            "name": "DJ Parrot",
+            "instagram": null
+          },
+          {
+            "name": "Xander",
+            "instagram": null
+          },
+          {
+            "name": "Mode Leeloo",
+            "instagram": null
+          }
+        ]
       },
       {
         "id": "2026-08-10-music-salty-residency-seth-finkin-napa-music-hall-a1c3e2",
