@@ -1,12 +1,12 @@
 {
   "kind": "stats",
-  "generated_at": "2026-09-27T09:49:06+00:00",
+  "generated_at": "2026-09-27T09:52:22+00:00",
   "weights_version": "v1",
   "total": {
     "n": 3065,
     "median": 0.8621,
     "p25": 0.7308,
-    "pct_ge_075": 0.7354,
+    "pct_ge_075": 0.7357,
     "invalid": 28,
     "tba_rate": 0.0956,
     "by_field_fixable": {
@@ -16,7 +16,7 @@
       "start": 926,
       "price": 841,
       "time": 707,
-      "address": 640,
+      "address": 639,
       "why": 602,
       "category": 561,
       "summary": 545,
@@ -38,7 +38,7 @@
         "n": 1307,
         "median": 0.8679,
         "p25": 0.7273,
-        "pct_ge_075": 0.7307,
+        "pct_ge_075": 0.7314,
         "invalid": 5,
         "tba_rate": 0.1668,
         "by_field_fixable": {
@@ -47,7 +47,7 @@
           "start": 456,
           "tickets": 412,
           "price": 375,
-          "address": 301,
+          "address": 300,
           "time": 296,
           "why": 252,
           "category": 240,
@@ -1438,15 +1438,15 @@
             "n": 39,
             "median": 0.9667,
             "p25": 0.8943,
-            "pct_ge_075": 0.9231,
+            "pct_ge_075": 0.9487,
             "invalid": 1,
             "tba_rate": 0.1282,
             "by_field_fixable": {
               "image": 25,
               "coords": 14,
               "tickets": 9,
-              "address": 5,
-              "price": 5
+              "price": 5,
+              "address": 4
             },
             "weights_version": "v1"
           },
@@ -1490,8 +1490,8 @@
               "day": "Thu",
               "n": 3,
               "median": 0.9346,
-              "p25": 0.7148,
-              "pct_ge_075": 0.6667,
+              "p25": 0.7927,
+              "pct_ge_075": 1.0,
               "invalid": 0,
               "tba_rate": 0.0,
               "weights_version": "v1"
@@ -3172,7 +3172,7 @@
               "date": "2026-07-28",
               "day": "Tue",
               "n": 6,
-              "median": 0.8545,
+              "median": 0.8571,
               "p25": 0.8462,
               "pct_ge_075": 1.0,
               "invalid": 0,
