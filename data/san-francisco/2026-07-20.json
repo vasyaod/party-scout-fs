@@ -3690,17 +3690,24 @@
         "area": "San Francisco",
         "venue": "TBA",
         "address": "San Francisco, CA",
-        "why": "Surprise-guest reveal keeps you guessing all night at an undisclosed warehouse-style location.",
-        "summary": "Late Night Clubbing #061 brings a surprise headliner to a TBA San Francisco location on Sunday, July 26, running 1am-6am. Presented by NYX, this after-hours session requires 21+ entry.",
-        "promoter": "",
+        "why": "A phone-free, secret-location after-hours session from NYX: Late Night with Bear Weigle on the decks.",
+        "summary": "Late Night Clubbing #061 brings Bear Weigle to a secret San Francisco/Oakland after-hours location on Sunday, July 26, running 1am-6am. Presented by NYX: Late Night, a phone-free after-hours club night.",
+        "promoter": "NYX: Late Night",
         "price": "",
         "tags": [
           "techno",
           "late-night",
           "location-tba",
-          "surprise-guest"
+          "surprise-guest",
+          "after-hours",
+          "phone-free"
         ],
-        "lineup": [],
+        "lineup": [
+          {
+            "name": "Bear Weigle",
+            "instagram": null
+          }
+        ],
         "sources": [
           "https://posh.vip/e/nyx-late-night-clubbing-061-saturday-w-surprise-guest"
         ],
@@ -3723,7 +3730,7 @@
         "popularity": 4,
         "id": "2026-07-20-music-late-night-clubbing-061-16661f",
         "eid": "late-night-clubbing-061-f8eb",
-        "enriched": 0
+        "enriched": 1
       },
       {
         "track": "music",

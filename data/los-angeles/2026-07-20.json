@@ -733,9 +733,9 @@
         "time": "10pm-2am",
         "start": "22:00",
         "end": "02:00",
-        "area": "Los Angeles",
+        "area": "Hollywood",
         "venue": "The Spotlight",
-        "address": "",
+        "address": "1601 N Cahuenga Blvd, Los Angeles, CA 90028",
         "why": "Exciting b2b house session in an intimate setting.",
         "summary": "Broken Hill b2b DvirNuns at The Spotlight in Los Angeles on July 25, 2026, from 10 PM to 2 AM. Tickets are $25 pre-sale, 21+.",
         "price": "$25",
@@ -743,7 +743,16 @@
           "21+",
           "house"
         ],
-        "lineup": [],
+        "lineup": [
+          {
+            "name": "Broken Hill",
+            "instagram": null
+          },
+          {
+            "name": "DvirNuns",
+            "instagram": null
+          }
+        ],
         "sources": [
           "https://dice.fm/event/pybgvy-broken-hill-b2b-dvirnuns-25th-jul-the-spotlight-los-angeles-tickets"
         ],
@@ -766,7 +775,7 @@
         "popularity": 4,
         "id": "2026-07-20-music-broken-hill-b2b-dvirnuns-520a3f",
         "eid": "broken-hill-b2b-dvirnuns-f0d1",
-        "enriched": 0
+        "enriched": 1
       },
       {
         "track": "music",
