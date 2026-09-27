@@ -2372,7 +2372,7 @@
         "end": null,
         "area": "Oakland",
         "venue": "Continental Club",
-        "address": "Continental Club, Oakland, CA",
+        "address": "1658 12th Street, Oakland, CA 94607",
         "why": "Fashion show + rave hybrid - 8+ designers and 50+ models on top of the DJ lineup, a bigger production than a standard club night",
         "summary": "VANITY brings 8+ designers, 50+ models and Bay Area DJ talent (Beastboi, Lizdek, Norae, Slic3r) to Continental Club Oakland, 18+.",
         "promoter": "",
@@ -2388,7 +2388,9 @@
         "sources": [
           "https://oaklandcontinentalclub.com/cc_events/fashion-show-rave-oakland/"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://events.oaklandcontinentalclub.com/checkout/new-session/id/8616214/chk/8998edaa737186883ea54a9005718101"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Continental%20Club%2C%20Oakland%2C%20CA",
           "apple": "https://maps.apple.com/?q=Continental%20Club%2C%20Oakland%2C%20CA"
@@ -2400,7 +2402,25 @@
         "image_generated": false,
         "popularity": 0,
         "active": true,
-        "enriched": 0
+        "enriched": 1,
+        "lineup": [
+          {
+            "name": "Beastboi",
+            "instagram": null
+          },
+          {
+            "name": "Lizdek",
+            "instagram": null
+          },
+          {
+            "name": "Norae",
+            "instagram": null
+          },
+          {
+            "name": "Slic3r",
+            "instagram": null
+          }
+        ]
       },
       {
         "id": "2026-08-03-music-max-luv-ecto-uni-yasmin-1ac833",
