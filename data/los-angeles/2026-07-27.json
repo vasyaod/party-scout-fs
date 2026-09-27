@@ -1838,16 +1838,16 @@
         "name": "Nightshift After Hours",
         "day": "Sat",
         "date": "2026-08-01",
-        "time": "",
-        "start": null,
-        "end": null,
-        "area": "Los Angeles",
+        "time": "11:00 PM - 5:00 AM",
+        "start": "23:00",
+        "end": "05:00",
+        "area": "DTLA",
         "venue": "The Lexington",
-        "address": "",
-        "why": "Free RSVP after-hours speakeasy — the after-the-afters option.",
-        "summary": "A secret-DJ-lineup underground house night at a DTLA speakeasy entered through the alley, open late for those still dancing after hours.",
-        "promoter": "",
-        "price": "Free",
+        "address": "129 E 3rd St, Los Angeles, CA 90013",
+        "why": "Free RSVP after-hours speakeasy — the after-the-afters option, curated by the Blind Tiger artist collective.",
+        "summary": "A secret-DJ-lineup underground house night at a DTLA speakeasy entered through the alley, open 11PM-5AM for those still dancing after hours.",
+        "promoter": "Blind Tiger artist collective",
+        "price": "Free RSVP before 1AM / $25",
         "tags": [
           "free",
           "after-hours",
@@ -1855,7 +1855,8 @@
           "21+"
         ],
         "sources": [
-          "https://ra.co/events/2498250"
+          "https://ra.co/events/2498250",
+          "https://events.extrachill.com/events/nightshift-afterhours-116"
         ],
         "tickets": [
           "https://ra.co/events/2498250"
@@ -1873,7 +1874,7 @@
         "image_generated": false,
         "popularity": 3,
         "active": true,
-        "enriched": 0
+        "enriched": 1
       },
       {
         "id": "2026-07-27-music-beach-pod-shuffles-lolo-ayekre-a74687",
