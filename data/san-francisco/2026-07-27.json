@@ -1490,29 +1490,61 @@
       },
       {
         "track": "music",
-        "category": "House",
+        "category": "Juke/Footwork",
         "name": "DJ Slugo, Profesito",
         "day": "Fri",
         "date": "2026-07-31",
         "time": "9pm–3am",
         "start": "21:00",
         "end": "03:00",
-        "area": "SF",
+        "area": "SoMa",
         "venue": "F8",
         "address": "1192 Folsom St, San Francisco, CA 94103",
-        "why": "Late-night F8 SoMa club night running until 3am",
-        "summary": "DJ Slugo and Profesito headline a late night of house at F8, running 9pm to 3am, 21+.",
-        "promoter": "F8 Presents",
+        "why": "A rare Bay Area set from Chicago juke pioneer DJ Slugo, paired with local club-music talent.",
+        "summary": "CLB_INTRNCNL brings Chicago juke/ghetto-house legend DJ Slugo to F8 alongside Profesito and Bay Area artists BRIIZV, Sánlo, pxlwlkr, and Joogmac for a night spanning juke, footwork, Jersey/Baltimore club, and NOLA bounce.",
+        "promoter": "CLB_INTRNCNL",
         "price": "$11.50–34.50",
         "tags": [
           "house",
-          "21+"
+          "21+",
+          "juke",
+          "footwork",
+          "ghetto-house",
+          "club"
         ],
-        "lineup": [],
+        "lineup": [
+          {
+            "name": "DJ Slugo",
+            "instagram": null
+          },
+          {
+            "name": "Profesito",
+            "instagram": null
+          },
+          {
+            "name": "BRIIZV",
+            "instagram": null
+          },
+          {
+            "name": "Sánlo",
+            "instagram": null
+          },
+          {
+            "name": "pxlwlkr",
+            "instagram": null
+          },
+          {
+            "name": "Joogmac",
+            "instagram": null
+          }
+        ],
         "sources": [
-          "https://ra.co/promoters/100975"
+          "https://ra.co/promoters/100975",
+          "https://ra.co/events/2484043"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://ra.co/events/2484043"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=F8%2C+1192+Folsom+St%2C+San+Francisco%2C+CA+94103",
           "apple": "https://maps.apple.com/?q=F8%2C+1192+Folsom+St%2C+San+Francisco%2C+CA+94103"
@@ -1529,7 +1561,7 @@
         "popularity": 3,
         "id": "2026-07-27-music-dj-slugo-profesito-4bd887",
         "eid": "dj-slugo-profesito-8ac5",
-        "enriched": 0
+        "enriched": 1
       },
       {
         "track": "music",
