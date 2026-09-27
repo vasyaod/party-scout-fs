@@ -1430,23 +1430,26 @@
         "time": "10pm–3am",
         "start": "22:00",
         "end": "03:00",
-        "area": "SF",
+        "area": "SoMa",
         "venue": "1015 Folsom",
         "address": "1015 Folsom Street, San Francisco, CA 94103",
-        "why": "Big-room tech house at SF's largest dedicated dance club",
-        "summary": "Another Planet Entertainment and DJ Dials bring OMNOM to 1015 Folsom for a big-room tech house night, 21+.",
-        "promoter": "",
+        "why": "Outside Lands after-party energy at SF's largest dedicated dance club, no festival wristband required",
+        "summary": "Another Planet Entertainment, DJ Dials, and 1015 Folsom present an Outside Lands Night Show with OMNOM headlining a big-room tech house set, 21+.",
+        "promoter": "Another Planet Entertainment / DJ Dials / 1015 Folsom",
         "price": "$25–$30",
         "tags": [
           "tech-house",
           "big-room",
-          "21+"
+          "21+",
+          "outside-lands"
         ],
         "sources": [
-          "https://ra.co/events/2478767"
+          "https://ra.co/events/2478767",
+          "https://www.eventbrite.com/e/omnom-outside-lands-night-show-tickets-1992788043683"
         ],
         "tickets": [
-          "https://ra.co/events/2478767"
+          "https://ra.co/events/2478767",
+          "https://www.eventbrite.com/e/omnom-outside-lands-night-show-tickets-1992788043683"
         ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=1015%20Folsom%20Street%2C%20San%20Francisco%2C%20CA%2094103",
@@ -1464,7 +1467,13 @@
         "image_generated": false,
         "popularity": 0,
         "active": true,
-        "enriched": 0
+        "enriched": 1,
+        "lineup": [
+          {
+            "name": "OMNOM",
+            "instagram": null
+          }
+        ]
       },
       {
         "id": "2026-08-03-music-squish-x-program-audio-invt-ju-993c08",
