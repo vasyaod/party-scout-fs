@@ -2031,20 +2031,29 @@
         "area": "SF",
         "venue": "Audio",
         "address": "316 11th St, San Francisco, CA 94107",
-        "why": "Continues the 620 Jones day party into the night at Audio",
-        "summary": "The 620 Jones day party's official after party continues at Audio SF, 21+.",
-        "promoter": "",
+        "why": "The DJ from the 620 Jones day party carries the night into Audio SF's late-night after party.",
+        "summary": "Chris Luno headlines the official after party continuing 620 Jones's day party into the night at Audio SF, 21+.",
+        "promoter": "Audio SF",
         "price": "$17",
         "tags": [
           "house",
           "after-party",
           "21+"
         ],
-        "lineup": [],
-        "sources": [
-          "https://m.audiosf.com/events/"
+        "lineup": [
+          {
+            "name": "Chris Luno",
+            "instagram": null
+          }
         ],
-        "tickets": [],
+        "sources": [
+          "https://m.audiosf.com/events/",
+          "https://m.audiosf.com/event/special-guest-08-01/",
+          "https://www.eventbrite.com/e/620-jones-after-party-w-chris-luno-tickets-1993496488661"
+        ],
+        "tickets": [
+          "https://www.eventbrite.com/e/620-jones-after-party-w-chris-luno-tickets-1993496488661"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Audio%2C+316+11th+St%2C+San+Francisco%2C+CA+94107",
           "apple": "https://maps.apple.com/?q=Audio%2C+316+11th+St%2C+San+Francisco%2C+CA+94107"
@@ -2061,7 +2070,7 @@
         "popularity": 2,
         "id": "2026-07-27-music-620-jones-after-party-bd0527",
         "eid": "620-jones-after-party-548f",
-        "enriched": 0
+        "enriched": 1
       },
       {
         "track": "music",
