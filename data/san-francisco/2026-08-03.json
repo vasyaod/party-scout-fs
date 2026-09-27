@@ -1798,22 +1798,26 @@
         "end": null,
         "area": "SF",
         "venue": "Social SF",
-        "address": "",
+        "address": "401 6th St, San Francisco, CA 94103",
         "why": "A cheap, nostalgic big-room EDM night for fans who never saw Avicii live",
-        "summary": "Social SF hosts a big-room house/EDM tribute night to Avicii with DJ Ron Reeser, 21+.",
-        "promoter": "",
+        "summary": "SocialSF hosts an Avicii tribute night at The EndUp with Ron Reeser and Adam Cova spinning Avicii's catalog (Levels, Wake Me Up, Hey Brother) plus peak-era EDM anthems, building to a midnight Avicii festival tribute set.",
+        "promoter": "SocialSF",
         "price": "$9",
         "tags": [
           "edm",
           "big-room-house",
           "tribute",
-          "21+"
+          "21+",
+          "the-endup"
         ],
         "sources": [
-          "https://socialsf.net/events/event/avicii_night_-_san_francisco-2026-08"
+          "https://socialsf.net/events/event/avicii_night_-_san_francisco-2026-08",
+          "https://www.eventbrite.com/e/avicii-night-san-francisco-tickets-1995775600546",
+          "https://ma.to/event/avicii-tribute-night-08-aug-2026"
         ],
         "tickets": [
-          "https://socialsf.net/events/event/avicii_night_-_san_francisco-2026-08"
+          "https://socialsf.net/events/event/avicii_night_-_san_francisco-2026-08",
+          "https://www.eventbrite.com/e/avicii-night-san-francisco-tickets-1995775600546"
         ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Social%20SF%2C%20SF",
@@ -1826,7 +1830,17 @@
         "image_generated": false,
         "popularity": 0,
         "active": true,
-        "enriched": 0
+        "enriched": 1,
+        "lineup": [
+          {
+            "name": "Ron Reeser",
+            "instagram": null
+          },
+          {
+            "name": "Adam Cova",
+            "instagram": null
+          }
+        ]
       },
       {
         "id": "2026-08-03-music-queen-out-side-lands-umru-gasz-9a9f5d",
