@@ -4778,7 +4778,7 @@
         "id": "2026-08-10-music-late-night-clubbing-066-70f436",
         "eid": "late-night-clubbing-066-e95e",
         "track": "music",
-        "category": "",
+        "category": "Nightclub / After Hours",
         "name": "Late Night Clubbing #066",
         "day": "Sat",
         "date": "2026-08-15",
@@ -4788,15 +4788,22 @@
         "area": "San Francisco",
         "venue": "TBA",
         "address": "",
-        "why": "",
-        "summary": "",
-        "promoter": "",
+        "why": "Phone-free secret-venue after-hours run by NYX, headlined by Tirox.",
+        "summary": "NYX's recurring secret-location after-hours series, a phone-free minimal/tech/indie night, with Tirox headlining this edition.",
+        "promoter": "NYX: Late Night",
         "price": "",
         "tags": [
           "house",
-          "EDM"
+          "EDM",
+          "after-hours",
+          "secret-venue",
+          "minimal",
+          "techno",
+          "phone-free"
         ],
-        "sources": [],
+        "sources": [
+          "https://edmtrain.com/san-francisco-ca/nyx-late-night-clubbing-067-saturday-w-tirox-467421"
+        ],
         "tickets": [],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=San%20Francisco",
@@ -4809,7 +4816,13 @@
         "image_generated": false,
         "popularity": 0,
         "active": true,
-        "enriched": 0
+        "enriched": 1,
+        "lineup": [
+          {
+            "name": "Tirox",
+            "instagram": null
+          }
+        ]
       },
       {
         "id": "2026-08-10-music-levels-golden-era-of-edm-party-7c591b",
