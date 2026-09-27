@@ -2352,7 +2352,7 @@
         "end": "21:00",
         "area": "San Diego",
         "venue": "Quartyard",
-        "address": "",
+        "address": "1301 Market St, San Diego, CA 92101",
         "why": "Unique day party vibe in San Diego’s Quartyard.",
         "summary": "Tinzo and Jojo perform with Soul Clap at Quartyard in San Diego on July 19, 2026, from 4 PM to 9 PM. Tickets range from $33 to $50, 21+.",
         "price": "$33-50",
@@ -2362,12 +2362,32 @@
           "house",
           "tech-house"
         ],
-        "lineup": [],
+        "lineup": [
+          {
+            "name": "Tinzo",
+            "instagram": null
+          },
+          {
+            "name": "Jojo",
+            "instagram": null
+          },
+          {
+            "name": "Soul Clap",
+            "instagram": null
+          }
+        ],
         "sources": [
           "https://www.showclix.com/event/fngrs-crssd-presents-tinzo-jojo-soul-clap-quartyard-2026/tag/fb-event-page",
-          "https://www.facebook.com/events/4312795938938798/"
+          "https://www.facebook.com/events/4312795938938798/",
+          "https://ra.co/events/2414160",
+          "https://quartyardsd.com/event/fngrs-crssd-presents-tinzo-jojo-soul-clap/",
+          "https://www.crssd.com/event/tinzo-jojo-2/"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://events.leapevents.com/event/fngrs-crssd-presents-tinzo-jojo-soul-clap-quartyard-2026",
+          "https://www.axs.com/events/1417582/tinzo-jojo-tickets",
+          "https://seatgeek.com/tinzo-jojo-tickets/san-diego-california-quartyard-2026-07-19-4-pm/concert/18196727"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Quartyard%2C+San+Diego",
           "apple": "https://maps.apple.com/?q=Quartyard%2C+San+Diego"
@@ -2384,7 +2404,8 @@
         "popularity": 4,
         "id": "2026-07-13-music-tinzo-jojo-w-soul-clap-b452f6",
         "eid": "tinzo-jojo-w-soul-clap-7ed5",
-        "enriched": 0
+        "enriched": 1,
+        "promoter": "FNGRS CRSSD"
       },
       {
         "track": "music",
