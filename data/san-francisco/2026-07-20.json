@@ -2915,7 +2915,7 @@
         "address": "3138 Fillmore St, San Francisco, CA 94123",
         "why": "Cozy Fillmore lounge session for winding down Sunday with deep house and no cover.",
         "summary": "Feelmore Sunday hosts Mr. V for a free set at White Rabbit in San Francisco on Sunday, July 26, from 7pm-11pm. The Fillmore Street lounge welcomes a 21+ crowd for this weekly evening session.",
-        "promoter": "",
+        "promoter": "Sole Channel Events",
         "price": "Free",
         "tags": [
           "house",
@@ -2923,11 +2923,19 @@
           "free",
           "lounge"
         ],
-        "lineup": [],
-        "sources": [
-          "https://ra.co/events/2483488"
+        "lineup": [
+          {
+            "name": "Mr. V",
+            "instagram": null
+          }
         ],
-        "tickets": [],
+        "sources": [
+          "https://ra.co/events/2483488",
+          "https://www.eventbrite.com/e/feelmore-sunday-tickets-1993304680959"
+        ],
+        "tickets": [
+          "https://www.eventbrite.com/e/feelmore-sunday-tickets-1993304680959"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=White+Rabbit%2C+3138+Fillmore+St%2C+San+Francisco%2C+CA+94123",
           "apple": "https://maps.apple.com/?q=White+Rabbit%2C+3138+Fillmore+St%2C+San+Francisco%2C+CA+94123"
@@ -2949,7 +2957,7 @@
         "popularity": 4,
         "id": "2026-07-20-music-feelmore-sunday-mr-v-d4a176",
         "eid": "feelmore-sunday-mr-v-6d06",
-        "enriched": 0
+        "enriched": 1
       },
       {
         "track": "music",
