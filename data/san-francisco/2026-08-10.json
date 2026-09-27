@@ -2700,14 +2700,14 @@
         "name": "French Kiss w/DJ S2",
         "day": "Fri",
         "date": "2026-08-14",
-        "time": "",
-        "start": null,
-        "end": null,
-        "area": "San Francisco",
+        "time": "4:30pm–2am",
+        "start": "16:30",
+        "end": "02:00",
+        "area": "North Beach",
         "venue": "Paris 75",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "515 Broadway, San Francisco, CA 94133",
+        "why": "French-themed North Beach lounge with genre-hopping DJ sets and Parisian cocktails",
+        "summary": "Paris 75, a French lounge bar in North Beach, hosts its weekly Friday DJ night with DJ S2 spinning a top 40, house, disco, hip-hop and Latin mix.",
         "promoter": "",
         "price": "Free",
         "tags": [
@@ -2717,7 +2717,9 @@
           "hip-hop",
           "latin"
         ],
-        "sources": [],
+        "sources": [
+          "https://lppsf.com/"
+        ],
         "tickets": [],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Paris%2075%2C%20San%20Francisco",
@@ -2730,7 +2732,13 @@
         "image_generated": false,
         "popularity": 0,
         "active": true,
-        "enriched": 0
+        "enriched": 1,
+        "lineup": [
+          {
+            "name": "DJ S2",
+            "instagram": null
+          }
+        ]
       },
       {
         "id": "2026-08-10-music-great-vibes-dance-party-47c92b",
