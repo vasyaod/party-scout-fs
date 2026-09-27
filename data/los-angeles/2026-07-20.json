@@ -234,21 +234,41 @@
         "end": "21:00",
         "area": "San Diego",
         "venue": "Fit Social",
-        "address": "",
+        "address": "3125 Ocean Front Walk, San Diego, CA 92109",
         "why": "High-energy b2b set from two renowned artists.",
-        "summary": "Dillon Francis b2b Flosstradamus at Fit Social in San Diego on July 25, 2026, from 4 PM to 9 PM. Tickets are priced between $50 and $62, 21+.",
+        "summary": "Dillstradamus (Dillon Francis b2b Flosstradamus) headlines LED Presents' day club show at Fit Social in Mission Beach, San Diego on July 25, 2026, from 4-9 PM, with support from Henry Fong and Hotfire.",
         "price": "$50-62",
         "tags": [
           "21+",
           "hip-hop",
           "trap"
         ],
-        "lineup": [],
+        "lineup": [
+          {
+            "name": "Dillon Francis",
+            "instagram": null
+          },
+          {
+            "name": "Flosstradamus",
+            "instagram": null
+          },
+          {
+            "name": "Henry Fong",
+            "instagram": null
+          },
+          {
+            "name": "Hotfire",
+            "instagram": null
+          }
+        ],
         "sources": [
           "https://www.showclix.com/event/led-presents-dillstradamus-led-day-club-2026/tag/fb-event-page",
-          "https://www.facebook.com/events/1286556953504121/"
+          "https://www.facebook.com/events/1286556953504121/",
+          "https://events.leapevents.com/event/led-presents-dillstradamus-led-day-club-2026"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://www.showclix.com/event/led-presents-dillstradamus-led-day-club-2026/tag/fb-event-page"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Fit+Social%2C+San+Diego",
           "apple": "https://maps.apple.com/?q=Fit+Social%2C+San+Diego"
@@ -265,7 +285,8 @@
         "popularity": 8,
         "id": "2026-07-20-music-dillon-francis-b2b-flosstradamus-6e6f93",
         "eid": "dillon-francis-b2b-flosstrad-4532",
-        "enriched": 0
+        "enriched": 1,
+        "promoter": "LED Presents"
       },
       {
         "track": "music",
