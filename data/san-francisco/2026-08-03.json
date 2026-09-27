@@ -3015,21 +3015,25 @@
         "time": "9:30pm-2am",
         "start": "21:30",
         "end": "02:00",
-        "area": "SF",
+        "area": "SoMa",
         "venue": "Audio",
         "address": "316 11th St, San Francisco, CA 94103",
-        "why": "Lowest-cost RA-linked club night of the weekend ($10 pre) at a dedicated house room",
-        "summary": "Audio SF hosts Broken Hill, a house night, 21+, $10 presale.",
-        "promoter": "",
+        "why": "Lowest-cost RA-linked club night of the weekend ($10 pre) at a dedicated house room, headlined by rising producer Broken Hill",
+        "summary": "Audio SF hosts Broken Hill (Kurtis McNevin), a Southern California house/melodic-dance producer, for a $10 presale 21+ night.",
+        "promoter": "Audio San Francisco",
         "price": "$10",
         "tags": [
           "house",
           "21+"
         ],
         "sources": [
-          "https://ra.co/events/2497251"
+          "https://ra.co/events/2497251",
+          "https://www.eventbrite.com/e/broken-hill-tickets-1996895385854",
+          "https://grayarea.co/artists/broken-hill"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://www.eventbrite.com/e/broken-hill-tickets-1996895385854"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=316%2011th%20St%2C%20San%20Francisco%2C%20CA%2094103",
           "apple": "https://maps.apple.com/?q=316%2011th%20St%2C%20San%20Francisco%2C%20CA%2094103"
@@ -3046,7 +3050,8 @@
         "image_generated": false,
         "popularity": 0,
         "active": true,
-        "enriched": 0
+        "enriched": 1,
+        "lineup": []
       },
       {
         "id": "2026-08-03-music-goth-meets-techno-miss-crafty-1d8512",
