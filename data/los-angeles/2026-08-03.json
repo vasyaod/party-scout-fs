@@ -465,10 +465,10 @@
         "name": "Beatport Live x HARD Selects Takeover: DJ Seinfeld, salute, Chloëdees",
         "day": "Thu",
         "date": "2026-08-06",
-        "time": "",
-        "start": null,
+        "time": "7pm doors",
+        "start": "19:00",
         "end": null,
-        "area": "Los Angeles",
+        "area": "DTLA",
         "venue": "Beatport LA HQ",
         "address": "909 S Santa Fe Ave, Los Angeles, CA 90021",
         "why": "A free HARD Summer cooldown set at Beatport's own LA headquarters, RSVP only",
@@ -484,7 +484,9 @@
         "sources": [
           "https://www.beatportal.com/articles/1531717-rsvp-now-dj-seinfeld-salute-chloedees-beatport-live-x-hard-selects-takeover"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://drop.cobrand.com/d/Beatport/salute_djseinfeld_chloedees"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=909%20S%20Santa%20Fe%20Ave%2C%20Los%20Angeles%2C%20CA%2090021",
           "apple": "https://maps.apple.com/?q=909%20S%20Santa%20Fe%20Ave%2C%20Los%20Angeles%2C%20CA%2090021"
@@ -499,7 +501,21 @@
         "image_generated": false,
         "popularity": 5,
         "active": true,
-        "enriched": 0
+        "enriched": 1,
+        "lineup": [
+          {
+            "name": "DJ Seinfeld",
+            "instagram": null
+          },
+          {
+            "name": "salute",
+            "instagram": null
+          },
+          {
+            "name": "Chloëdees",
+            "instagram": null
+          }
+        ]
       },
       {
         "id": "2026-08-03-music-bu-tea-call-fridays-d44845",
