@@ -918,7 +918,7 @@
         "address": "3531 Wilshire Blvd, Los Angeles, CA 90010",
         "why": "Free-with-RSVP weekly disco/house night for a low-cost Friday option",
         "summary": "Momentus LA's weekly Muzique Fridays night at Kiss Kiss Bang Bang spins disco, house and nu-disco with special guest DJs, free with RSVP.",
-        "promoter": "",
+        "promoter": "Momentus LA",
         "price": "Free w/RSVP",
         "tags": [
           "disco",
@@ -928,7 +928,8 @@
           "weekly"
         ],
         "sources": [
-          "https://www.eventbrite.com/e/muzique-fridays-kiss-kiss-bang-bang-w-special-guest-djs-tickets-1993470875050"
+          "https://www.eventbrite.com/e/muzique-fridays-kiss-kiss-bang-bang-w-special-guest-djs-tickets-1993470875050",
+          "https://www.eventbrite.com/e/muzique-fridays-kiss-kiss-bang-bang-w-barrett-special-guest-djs-tickets-1993470875050"
         ],
         "tickets": [
           "https://www.eventbrite.com/e/muzique-fridays-kiss-kiss-bang-bang-w-special-guest-djs-tickets-1993470875050"
@@ -947,7 +948,13 @@
         "image_generated": false,
         "popularity": 2,
         "active": true,
-        "enriched": 0
+        "enriched": 1,
+        "lineup": [
+          {
+            "name": "BARRETT",
+            "instagram": null
+          }
+        ]
       },
       {
         "id": "2026-08-03-music-paul-van-dyk-cf3643",
