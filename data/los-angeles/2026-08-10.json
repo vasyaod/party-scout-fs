@@ -1196,22 +1196,24 @@
         "name": "Habstrakt",
         "day": "Fri",
         "date": "2026-08-14",
-        "time": "doors TBA",
-        "start": null,
+        "time": "doors 10pm",
+        "start": "22:00",
         "end": null,
-        "area": "Los Angeles",
+        "area": "DTLA",
         "venue": "Exchange LA",
         "address": "618 S Spring St, Los Angeles, CA 90014",
         "why": "Bass/dubstep headliner in the historic Stock Exchange building's big room",
         "summary": "French bass producer Habstrakt headlines a Friday show at Exchange LA, housed in the former LA Stock Exchange building.",
-        "promoter": "",
+        "promoter": "Exchange LA",
         "price": "$20-80",
         "tags": [
           "bass",
-          "dubstep"
+          "dubstep",
+          "21+"
         ],
         "sources": [
-          "https://www.tixr.com/groups/exchangela/events/habstrakt-189374"
+          "https://www.tixr.com/groups/exchangela/events/habstrakt-189374",
+          "https://exchangela.com/event/habstrakt-edm-dj-music-concert-show-tonight-tomorrow-2026-august-14-best-night-club-near-me-los-angeles/"
         ],
         "tickets": [
           "https://www.tixr.com/groups/exchangela/events/habstrakt-189374"
@@ -1230,7 +1232,25 @@
         "image_generated": false,
         "popularity": 5,
         "active": true,
-        "enriched": 0
+        "enriched": 1,
+        "lineup": [
+          {
+            "name": "Habstrakt",
+            "instagram": null
+          },
+          {
+            "name": "Control Freak",
+            "instagram": null
+          },
+          {
+            "name": "Coka Cobra",
+            "instagram": null
+          },
+          {
+            "name": "Zeph",
+            "instagram": null
+          }
+        ]
       },
       {
         "id": "2026-08-10-music-gloria-molina-grand-park-s-sun-7c19bb",
