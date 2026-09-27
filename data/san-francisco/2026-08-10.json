@@ -2517,24 +2517,32 @@
         "id": "2026-08-10-music-days-like-this-dj-black-brown-e75414",
         "eid": "days-like-this-dj-black-38ff",
         "track": "music",
-        "category": "",
+        "category": "House",
         "name": "Days Like This: DJ Black, Brown Angel",
         "day": "Fri",
         "date": "2026-08-14",
-        "time": "",
-        "start": null,
-        "end": null,
+        "time": "5:30–9:30pm",
+        "start": "17:30",
+        "end": "21:30",
         "area": "Oakland",
         "venue": "Lake Merritt Pergola",
-        "address": "",
-        "why": "",
-        "summary": "",
-        "promoter": "",
+        "address": "599 El Embarcadero, Oakland, CA 94610",
+        "why": "Free lakeside dance party with a beginner dance class before sunset DJ sets",
+        "summary": "Days Like This is a free weekly community dance party at Lake Merritt's Pergola founded by Morgan Simon and Sulaiman Hyatt, centering Black music genres like house and hip-hop with a rotating lineup of DJs and an all-ages, all-abilities welcome.",
+        "promoter": "Days Like This",
         "price": "Free",
         "tags": [
-          "house"
+          "house",
+          "free",
+          "outdoor",
+          "all-ages",
+          "community",
+          "dance-class"
         ],
-        "sources": [],
+        "sources": [
+          "https://www.kqed.org/arts/13934148/days-like-this-oakland-lake-merritt-house-music-dance-party",
+          "https://www.fusicology.com/events/days-like-this-a-community-dance-party/"
+        ],
         "tickets": [],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Lake%20Merritt%20Pergola%2C%20Oakland",
@@ -2547,7 +2555,17 @@
         "image_generated": false,
         "popularity": 0,
         "active": true,
-        "enriched": 0
+        "enriched": 1,
+        "lineup": [
+          {
+            "name": "DJ Black",
+            "instagram": null
+          },
+          {
+            "name": "Brown Angel",
+            "instagram": null
+          }
+        ]
       },
       {
         "id": "2026-08-10-music-denham-audio-bianca-oblivion-d-dff4e6",
