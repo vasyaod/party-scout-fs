@@ -14,9 +14,9 @@
         "name": "HARD Summer 2026",
         "day": "Sat",
         "date": "2026-08-01",
-        "time": "Sat–Sun all day",
-        "start": "12:00",
-        "end": "23:00",
+        "time": "Sat & Sun, 2–10pm",
+        "start": "14:00",
+        "end": "22:00",
         "area": "Los Angeles",
         "venue": "Hollywood Park (Adjacent to SoFi Stadium)",
         "address": "Hollywood Park, 3900 W Manchester Blvd, Inglewood, CA 90305",
@@ -33,13 +33,64 @@
           "insomniac",
           "edm"
         ],
-        "lineup": [],
+        "lineup": [
+          {
+            "name": "Zedd",
+            "instagram": null
+          },
+          {
+            "name": "Knock2",
+            "instagram": null
+          },
+          {
+            "name": "DJ Snake",
+            "instagram": null
+          },
+          {
+            "name": "Kali Uchis",
+            "instagram": null
+          },
+          {
+            "name": "Mau P",
+            "instagram": null
+          },
+          {
+            "name": "Sammy Virji",
+            "instagram": null
+          },
+          {
+            "name": "Charlotte de Witte",
+            "instagram": null
+          },
+          {
+            "name": "Amelie Lens",
+            "instagram": null
+          },
+          {
+            "name": "RL Grime",
+            "instagram": null
+          },
+          {
+            "name": "Vintage Culture",
+            "instagram": null
+          },
+          {
+            "name": "Maceo Plex",
+            "instagram": null
+          },
+          {
+            "name": "Shygirl",
+            "instagram": null
+          }
+        ],
         "sources": [
-          "https://hardsummer.frontgatetickets.com/"
+          "https://hardsummer.frontgatetickets.com/",
+          "https://www.hardsummer.com/"
         ],
         "tickets": [
           "https://hardsummer.frontgatetickets.com/event/atxrnd79tolpxu4m",
-          "https://hardsummer.frontgatetickets.com/"
+          "https://hardsummer.frontgatetickets.com/",
+          "https://www.hardsummer.com/tickets/"
         ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Hollywood+Park%2C+Hollywood+Park%2C+3900+W+Manchester+Blvd%2C+Inglewood%2C+CA+90305",
@@ -57,7 +108,8 @@
         "popularity": 10,
         "id": "2026-07-27-music-hard-summer-2026-0ab099",
         "eid": "hard-summer-2026-6504",
-        "enriched": 0
+        "enriched": 1,
+        "promoter": "HARD Events"
       },
       {
         "track": "music",
