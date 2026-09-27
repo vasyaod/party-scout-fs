@@ -1098,16 +1098,24 @@
         "time": "9pm",
         "start": "21:00",
         "end": null,
-        "area": "Los Angeles",
+        "area": "Echo Park",
         "venue": "Echoplex",
-        "address": "",
+        "address": "1154 Glendale Blvd, Los Angeles, CA 90026",
         "why": "A unique blend of indie rock and electronic dance music.",
         "summary": "ElectricaFeels: Indie Rock + Electronic Dance Party at Echoplex in Los Angeles on July 25, 2026, at 9 PM. Tickets range from $21 to $24, 21+.",
         "price": "$21-24",
-        "tags": [],
+        "tags": [
+          "indie-rock",
+          "electronic",
+          "dance-party",
+          "21+"
+        ],
         "lineup": [],
         "sources": [
-          "https://www.ticketmaster.com/event/090064D91059DAD6"
+          "https://www.ticketmaster.com/event/090064D91059DAD6",
+          "https://www.theecho.com/",
+          "https://www.curationsla.com/3ecc23fc-154d-498b-9f42-d8a1f5e6ebb2-electric-feels-indie-rock-electronic-dance-party-21-20260726",
+          "https://www.ticketmaster.com/electric-feels-indie-rock-electronic-dance-los-angeles-california-07-25-2026/event/090064D91059DAD6"
         ],
         "tickets": [
           "https://www.ticketmaster.com/event/090064D91059DAD6"
@@ -1128,7 +1136,8 @@
         "popularity": 4,
         "id": "2026-07-20-music-electricafeels-indie-rock-electr-0fe0a3",
         "eid": "electricafeels-indie-rock-el-bd41",
-        "enriched": 0
+        "enriched": 1,
+        "promoter": "The Echo"
       },
       {
         "track": "music",
