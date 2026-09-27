@@ -267,7 +267,7 @@
         "time": "8pm–1:30am",
         "start": "20:00",
         "end": "01:30",
-        "area": "Los Angeles",
+        "area": "DTLA",
         "venue": "1720",
         "address": "1720 E 16th St, Los Angeles, CA 90021",
         "why": "Marquee touring producer in Mixmag's own LA lab series — bigger production than a normal club night",
@@ -307,7 +307,17 @@
         "image_generated": false,
         "popularity": 6,
         "active": true,
-        "enriched": 0
+        "enriched": 1,
+        "lineup": [
+          {
+            "name": "What So Not",
+            "instagram": "whatsonot"
+          },
+          {
+            "name": "clubaction",
+            "instagram": null
+          }
+        ]
       },
       {
         "id": "2026-08-03-music-just-like-that-with-dj-adam-lu-38ca8b",
