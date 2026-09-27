@@ -1996,7 +1996,7 @@
         "address": "Valencia St between 17th St and 20th St, San Francisco, CA 94110",
         "why": "Free open-air Mission street party with live music and dancing, no ticket needed",
         "summary": "Valencia Street closes to cars for this free monthly night market with live music, dancing, art-making and local vendors along the Mission's Valencia corridor.",
-        "promoter": "",
+        "promoter": "Valencia Corridors Merchants Association",
         "price": "Free",
         "tags": [
           "free",
@@ -2006,9 +2006,13 @@
           "mission"
         ],
         "sources": [
-          "https://sf.funcheap.com/sfs-free-valencia-live-2026-monthly-street-party-every-2nd-thursday-3/"
+          "https://sf.funcheap.com/sfs-free-valencia-live-2026-monthly-street-party-every-2nd-thursday-3/",
+          "https://sf.funcheap.com/valencia-live-night-market-every-2nd-thu-7/",
+          "https://sf.funcheap.com/event-series/valencia-live-night-market-2nd-thu/"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://www.eventbrite.com/e/valencia-live-2026-tickets-1987554005534"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Valencia%20St%20between%2017th%20St%20and%2020th%20St%2C%20San%20Francisco%2C%20CA%2094110",
           "apple": "https://maps.apple.com/?q=Valencia%20St%20between%2017th%20St%20and%2020th%20St%2C%20San%20Francisco%2C%20CA%2094110"
@@ -2023,7 +2027,25 @@
         "image_generated": false,
         "popularity": 3,
         "active": true,
-        "enriched": 0
+        "enriched": 1,
+        "lineup": [
+          {
+            "name": "Batuki",
+            "instagram": null
+          },
+          {
+            "name": "Samba Conmigo",
+            "instagram": null
+          },
+          {
+            "name": "La Gente SF",
+            "instagram": null
+          },
+          {
+            "name": "Guajirón",
+            "instagram": null
+          }
+        ]
       },
       {
         "id": "2026-08-10-music-teego-presents-afro-thursdays-ab5723",
