@@ -115,10 +115,10 @@
         "start": "15:00",
         "end": "23:00",
         "area": "San Jose",
-        "venue": "Provident Credit Union Event Center",
-        "address": "290 S 7th St, San Jose, CA 95112",
-        "why": "Rare full arena comeback show for bass fans who never caught a proper tour stop",
-        "summary": "Bassnectar headlines a full arena Homecoming Show with support from Dead Prez at Provident Credit Union Event Center in San Jose, Saturday July 25, doors 3pm, tickets from $39.50.",
+        "venue": "PETE BE Center",
+        "address": "439 S 1st St, San Jose, CA 95113",
+        "why": "Bassnectar's rare hometown arena return with dead prez, relocated after its original San Jose venue fell through",
+        "summary": "Bassnectar headlines his hometown Homecoming Show with support from dead prez at PETE BE Center in San Jose, Saturday July 25, doors 3pm.",
         "promoter": "",
         "price": "$39.50+",
         "tags": [
@@ -126,14 +126,28 @@
           "dubstep",
           "arena",
           "headliner",
-          "hip-hop"
+          "hip-hop",
+          "homecoming"
         ],
-        "lineup": [],
+        "lineup": [
+          {
+            "name": "Bassnectar",
+            "instagram": null
+          },
+          {
+            "name": "dead prez",
+            "instagram": null
+          }
+        ],
         "sources": [
-          "https://caltix.com/e/bassnectar"
+          "https://caltix.com/e/bassnectar",
+          "https://bassnectar.net/shows/2026/pete-be-center-san-jose/",
+          "https://www.jambase.com/show/bassnectar-pete-be-center-20260725",
+          "https://www.mitpsj.com/bassnectar-san-jose-2026/"
         ],
         "tickets": [
-          "https://caltix.com/e/bassnectar"
+          "https://caltix.com/e/bassnectar",
+          "https://www.tixr.com/groups/bassnectarlive/events/bassnectar-the-homecoming-show-feat-dead-prez-198365"
         ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Provident+Credit+Union+Event+Center%2C+290+S+7th+St%2C+San+Jose%2C+CA+95112",
@@ -151,7 +165,7 @@
         "popularity": 9,
         "id": "2026-07-20-music-bassnectar-the-homecoming-show-d-ab33a6",
         "eid": "bassnectar-the-homecoming-sh-187c",
-        "enriched": 0
+        "enriched": 1
       },
       {
         "track": "music",
