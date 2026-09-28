@@ -1525,7 +1525,7 @@
         "day": "Fri",
         "date": "2026-07-10",
         "time": "9pm",
-        "area": "SF",
+        "area": "SoMa",
         "venue": "DNA Lounge",
         "address": "375 11th St, San Francisco, CA 94103",
         "why": "Live tribute band battle plus DJ sets — the nostalgic format for anyone who survived the 2000s",
@@ -1537,7 +1537,9 @@
           "tribute"
         ],
         "sources": [
-          "https://www.dnalounge.com/calendar/2026/07-10d.html"
+          "https://www.dnalounge.com/calendar/2026/07-10d.html",
+          "https://ra.co/events/2213284",
+          "https://thelastdecade.rocks/event/6303780/739764525/san-francisco-emo-vs-nu-metal-w-the-last-decade-nu-metal-jacket-and-nu-metal-world-dna-lounge"
         ],
         "tickets": [],
         "maps": {
@@ -1558,8 +1560,22 @@
         "eid": "nu-metal-vs-emo-emo-night-li-ec4d",
         "start": "21:00",
         "end": null,
-        "lineup": [],
-        "enriched": 0
+        "lineup": [
+          {
+            "name": "The Last Decade",
+            "instagram": null
+          },
+          {
+            "name": "Nü-Metal Jacket",
+            "instagram": null
+          },
+          {
+            "name": "Nu Metal World",
+            "instagram": null
+          }
+        ],
+        "enriched": 1,
+        "promoter": "The Last Decade Collective"
       },
       {
         "track": "music",
