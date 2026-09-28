@@ -5077,7 +5077,7 @@
         "end": "02:00",
         "area": "San Diego",
         "venue": "3Oz Club",
-        "address": "",
+        "address": "1060 Garnet Ave, San Diego, CA 92109",
         "why": "A dynamic dubstep and trap event at a lively club.",
         "summary": "Star Monster with Odd Language and Datura will take place on July 11, 2026, from 9 PM to 2 AM at the 3Oz Club in San Diego. Tickets are priced at $10 for ages 21 and over.",
         "price": "$10",
@@ -5086,11 +5086,27 @@
           "dubstep",
           "trap"
         ],
-        "lineup": [],
-        "sources": [
-          "https://ticketly.events/e/584/star-monster-w-odd-language?utm_source=fb"
+        "lineup": [
+          {
+            "name": "Star Monster",
+            "instagram": null
+          },
+          {
+            "name": "Odd Language",
+            "instagram": null
+          },
+          {
+            "name": "Datura",
+            "instagram": null
+          }
         ],
-        "tickets": [],
+        "sources": [
+          "https://ticketly.events/e/584/star-monster-w-odd-language?utm_source=fb",
+          "https://edmtrain.com/san-diego-ca/star-monster-odd-language-504657"
+        ],
+        "tickets": [
+          "https://ticketly.events/e/584/star-monster-w-odd-language#tickets"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=3Oz+Club%2C+San+Diego",
           "apple": "https://maps.apple.com/?q=3Oz+Club%2C+San+Diego"
@@ -5107,7 +5123,8 @@
         "popularity": 4,
         "id": "2026-07-06-music-star-monster-w-odd-language-datu-c5db24",
         "eid": "star-monster-w-odd-language-d976",
-        "enriched": 0
+        "enriched": 1,
+        "promoter": "Project Seismic"
       },
       {
         "track": "music",
