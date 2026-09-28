@@ -1681,9 +1681,31 @@
           "industrial",
           "weekly"
         ],
-        "lineup": [],
+        "lineup": [
+          {
+            "name": "Melting Girl",
+            "instagram": null
+          },
+          {
+            "name": "Joe Radio",
+            "instagram": null
+          },
+          {
+            "name": "Decay",
+            "instagram": null
+          },
+          {
+            "name": "Sage",
+            "instagram": null
+          },
+          {
+            "name": "Bit",
+            "instagram": null
+          }
+        ],
         "sources": [
-          "https://www.dnalounge.com/calendar/2026/07-20.html"
+          "https://www.dnalounge.com/calendar/2026/07-20.html",
+          "http://www.deathguild.com/"
         ],
         "tickets": [],
         "maps": {
@@ -1702,8 +1724,8 @@
         "popularity": 6,
         "id": "2026-07-20-music-death-guild-8dd1a2",
         "eid": "death-guild-f474",
-        "promoter": "",
-        "enriched": 0
+        "promoter": "Death Guild",
+        "enriched": 1
       },
       {
         "track": "music",

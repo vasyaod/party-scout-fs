@@ -429,12 +429,12 @@
         "date": "2026-07-11",
         "time": "5pm",
         "start": "17:00",
-        "end": null,
+        "end": "23:00",
         "area": "DTLA",
         "venue": "1756 Naud Street",
         "address": "1756 Naud St, Los Angeles, CA 90012",
-        "why": "Factory 93's warehouse series – premium tech house with a Mixmag-caliber headliner.",
-        "summary": "Factory 93 presents Beltran for a Saturday afternoon warehouse tech house set at Insomniac's DTLA space starting at 5pm, 21+, with premium tickets $113–273.",
+        "why": "Factory 93's warehouse series – premium tech house with a Mixmag-caliber headliner, backed by a strong Red Axes/Cole Terrazas support bill.",
+        "summary": "Factory 93 presents Beltran for a Saturday tech house warehouse set at Insomniac's DTLA space, 5pm-11pm, 21+, with support from Red Axes and Cole Terrazas.",
         "price": "$113–273",
         "tags": [
           "tech-house",
@@ -443,9 +443,24 @@
           "headliner",
           "21+"
         ],
-        "lineup": [],
+        "lineup": [
+          {
+            "name": "Beltran",
+            "instagram": null
+          },
+          {
+            "name": "Red Axes",
+            "instagram": null
+          },
+          {
+            "name": "Cole Terrazas",
+            "instagram": null
+          }
+        ],
         "sources": [
-          "https://factory93.frontgatetickets.com/event/v0yo23xuhbz26430"
+          "https://factory93.frontgatetickets.com/event/v0yo23xuhbz26430",
+          "https://www.insomniac.com/events/beltran-2026-07-11-los-angeles-ca/",
+          "https://ra.co/events/2396469"
         ],
         "tickets": [
           "https://factory93.frontgatetickets.com/event/v0yo23xuhbz26430"
@@ -466,7 +481,8 @@
         "popularity": 9,
         "id": "2026-07-06-music-factory-93-beltran-cdebd8",
         "eid": "factory-93-beltran-a084",
-        "enriched": 0
+        "enriched": 1,
+        "promoter": "Factory 93 (Insomniac)"
       },
       {
         "track": "music",
