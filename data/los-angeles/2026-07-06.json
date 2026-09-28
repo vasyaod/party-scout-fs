@@ -4634,23 +4634,27 @@
         "date": "2026-07-08",
         "time": "10pm",
         "start": "22:00",
-        "end": null,
+        "end": "02:00",
         "area": "San Diego",
         "venue": "Rich's",
-        "address": "",
-        "why": "A lively midweek party combining EDM, hip-hop, and drag performances.",
-        "summary": "Join Mischief Wednesdays at Rich's in San Diego on July 8, 2026, at 10 PM. Entry is free and the event is 21+.",
+        "address": "1051 University Ave, San Diego, CA 92103",
+        "why": "A weekly Hillcrest staple mixing EDM, hip-hop and a midnight drag set with no cover.",
+        "summary": "Mischief Wednesdays returns to Rich's in San Diego's Hillcrest on July 8, 2026, running 10pm-2am with EDM in the main room, hip-hop up front, and a drag performance at midnight. No cover, 21+.",
         "price": "Free",
         "tags": [
           "21+",
           "free",
           "hip-hop",
-          "pop-edm"
+          "pop-edm",
+          "drag",
+          "hillcrest"
         ],
         "lineup": [],
         "sources": [
           "https://prod-nts-api.seeticketsusa.us/v1.0.0/promote/d965fddf-9ddd-4f9f-a07c-c199ed4d5765/clickthru",
-          "https://www.facebook.com/events/1046250108076365/"
+          "https://www.facebook.com/events/1046250108076365/",
+          "https://richssandiego.com/",
+          "https://wl.eventim.us/RichsSanDiego"
         ],
         "tickets": [
           "https://prod-nts-api.seeticketsusa.us/v1.0.0/promote/d965fddf-9ddd-4f9f-a07c-c199ed4d5765/clickthru"
@@ -4671,7 +4675,8 @@
         "popularity": 4,
         "id": "2026-07-06-music-mischief-wednesdays-2ef82b",
         "eid": "mischief-wednesdays-98f7",
-        "enriched": 0
+        "enriched": 1,
+        "promoter": "Rich's San Diego"
       },
       {
         "track": "music",

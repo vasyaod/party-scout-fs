@@ -1454,7 +1454,7 @@
         "venue": "The Midway",
         "address": "900 Marin St, San Francisco, CA 94124",
         "why": "Spatial audio listening session in the round — a concert hall experience, not a dance floor",
-        "summary": "Envelop SF presents an immersive spatial-audio listening session of the Grateful Dead's American Beauty at The Midway, with two showings at 7:30pm and 9:30pm on Monday July 6.",
+        "summary": "Envelop SF presents an immersive spatial-audio listening session of the Grateful Dead's American Beauty at The Midway, with two 75-minute showings at 7:30pm and 9:30pm on Monday July 6.",
         "price": "",
         "tags": [
           "immersive",
@@ -1462,10 +1462,12 @@
           "listening"
         ],
         "sources": [
-          "https://www.eventbrite.com/e/grateful-dead-american-beauty-listen-envelop-sf-730pm-tickets-1990735510501"
+          "https://www.eventbrite.com/e/grateful-dead-american-beauty-listen-envelop-sf-730pm-tickets-1990735510501",
+          "https://www.eventbrite.com/e/grateful-dead-american-beauty-listen-envelop-sf-930pm-tickets-1990735512507"
         ],
         "tickets": [
-          "https://www.eventbrite.com/e/grateful-dead-american-beauty-listen-envelop-sf-730pm-tickets-1990735510501"
+          "https://www.eventbrite.com/e/grateful-dead-american-beauty-listen-envelop-sf-730pm-tickets-1990735510501",
+          "https://www.eventbrite.com/e/grateful-dead-american-beauty-listen-envelop-sf-930pm-tickets-1990735512507"
         ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=The+Midway%2C+900+Marin+St%2C+San+Francisco%2C+CA+94124",
@@ -1483,10 +1485,11 @@
         "popularity": 5,
         "id": "2026-07-06-music-grateful-dead-american-beauty-en-a6715a",
         "eid": "grateful-dead-american-beaut-44a9",
-        "start": "21:30",
-        "end": null,
+        "start": "19:30",
+        "end": "20:45",
         "lineup": [],
-        "enriched": 0
+        "enriched": 1,
+        "promoter": "Envelop"
       },
       {
         "track": "music",
