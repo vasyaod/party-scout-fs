@@ -2265,26 +2265,44 @@
         "name": "Beltran",
         "day": "Sat",
         "date": "2026-07-11",
-        "time": "5pm",
+        "time": "5–11pm",
         "start": "17:00",
-        "end": null,
-        "area": "Los Angeles",
+        "end": "23:00",
+        "area": "Downtown LA",
         "venue": "1756 Naud Street",
-        "address": "",
-        "why": "An exclusive tech house experience with tiered pricing in a private LA location.",
-        "summary": "Beltran will perform at 1756 Naud Street in Los Angeles on July 11, 2026, starting at 5 PM. Tickets range from $113.33-273.33.",
-        "price": "$113-$273",
+        "address": "1756 Naud St, Los Angeles, CA 90012",
+        "why": "Factory 93's warehouse tech house night pairs Beltran with Red Axes and Cole Terrazas.",
+        "summary": "Factory 93 presents Beltran at 1756 Naud St in Los Angeles on July 11, 2026, from 5 to 11 PM, supported by Red Axes and Cole Terrazas.",
+        "price": "$93.86",
         "tags": [
           "house",
-          "tech-house"
+          "tech-house",
+          "warehouse"
         ],
-        "lineup": [],
+        "lineup": [
+          {
+            "name": "Beltran",
+            "instagram": null
+          },
+          {
+            "name": "Red Axes",
+            "instagram": null
+          },
+          {
+            "name": "Cole Terrazas",
+            "instagram": null
+          }
+        ],
         "sources": [
           "https://edmtrain.com/los-angeles-ca/factory-93-presents-beltran-487217?get=tickets",
-          "https://factory93.frontgatetickets.com/event/v0yo23xuhbz26430"
+          "https://factory93.frontgatetickets.com/event/v0yo23xuhbz26430",
+          "https://www.thefactory93.com/event/beltran-2026-07-11-los-angeles-ca/",
+          "https://ra.co/events/2396469",
+          "https://dice.fm/event/2w3n9p-factory-93-presents-beltran-july-11th-11th-jul-1756-naud-st-los-angeles-ca-90012-los-angeles-tickets?lng=en-US"
         ],
         "tickets": [
-          "https://factory93.frontgatetickets.com/event/v0yo23xuhbz26430"
+          "https://factory93.frontgatetickets.com/event/v0yo23xuhbz26430",
+          "https://dice.fm/event/2w3n9p-factory-93-presents-beltran-july-11th-11th-jul-1756-naud-st-los-angeles-ca-90012-los-angeles-tickets?lng=en-US"
         ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=1756+Naud+Street%2C+Los+Angeles",
@@ -2302,7 +2320,8 @@
         "popularity": 5,
         "id": "2026-07-06-music-beltran-aad5fb",
         "eid": "beltran-defe",
-        "enriched": 0
+        "enriched": 1,
+        "promoter": "Factory 93"
       },
       {
         "track": "music",
