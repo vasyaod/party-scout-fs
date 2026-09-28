@@ -3192,8 +3192,8 @@
         "venue": "The Ritz",
         "address": "400 S 1st St, San Jose, CA 95113",
         "why": "South Bay's dedicated darkwave and post-punk night — rare for San Jose, and this one's the 21-year anniversary blowout",
-        "summary": "Atomic — South Bay's long-running new-wave/darkwave/synth-pop/post-punk dance night — throws its 21-year anniversary party at The Ritz in downtown San Jose, Thursday July 9, doors 9pm, $5 before 10pm / $15 after, 21+. DJs Basura and Plastic Disease.",
-        "price": "$5–15",
+        "summary": "Atomic — South Bay's long-running new-wave/darkwave/synth-pop/post-punk dance night founded by DJ Basura in 2005 — throws its 21-year anniversary party at The Ritz in downtown San Jose, Thursday July 9, doors 9pm, $5 before 10pm / $15 after, 21+. DJs Basura and Plastic Disease.",
+        "price": "$5-15",
         "tags": [
           "darkwave",
           "synth-pop",
@@ -3201,7 +3201,8 @@
           "goth"
         ],
         "sources": [
-          "https://www.ticketweb.com/event/atomic-newdarkwave-synth-pop-post-the-ritz-tickets/14918923"
+          "https://www.ticketweb.com/event/atomic-newdarkwave-synth-pop-post-the-ritz-tickets/14918923",
+          "https://dothebay.com/events/2026/7/9/atomic-new-darkwave-synth-pop-post-punk-dance-night-tickets"
         ],
         "tickets": [
           "https://www.ticketweb.com/event/atomic-newdarkwave-synth-pop-post-the-ritz-tickets/14918923"
@@ -3224,8 +3225,18 @@
         "eid": "atomic-new-darkwave-synth-po-b6f0",
         "start": "21:00",
         "end": null,
-        "lineup": [],
-        "enriched": 0
+        "lineup": [
+          {
+            "name": "Basura",
+            "instagram": null
+          },
+          {
+            "name": "Plastic Disease",
+            "instagram": null
+          }
+        ],
+        "enriched": 1,
+        "promoter": "Atomic"
       },
       {
         "track": "music",

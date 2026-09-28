@@ -2561,13 +2561,13 @@
         "name": "United We Rave: Freedom Fest",
         "day": "Sat",
         "date": "2026-07-04",
-        "time": "afternoon",
+        "time": "1pm-10pm",
         "area": "San Diego",
         "venue": "TBA",
-        "address": "San Diego, CA",
-        "why": "A free multi-genre fest if you'll trek to San Diego.",
-        "summary": "A free, all-ages Saturday afternoon outdoor festival at a TBA San Diego location, spanning big-room house, dubstep, hardstyle and techno.",
-        "price": "Free",
+        "address": "1590 E Mission Bay Dr, San Diego, CA 92109",
+        "why": "A free multi-stage PLUR Factory fest at Fiesta Island if you'll trek to San Diego.",
+        "summary": "A free, all-ages Saturday festival at Fiesta Island from 1pm to 10pm, spanning house, techno, bass and reggaeton across multiple stages, run by San Diego's PLUR Factory collective.",
+        "price": "Free (donation-based)",
         "tags": [
           "free",
           "outdoor",
@@ -2576,13 +2576,19 @@
           "dubstep",
           "hardstyle",
           "techno",
-          "all-ages"
+          "all-ages",
+          "house",
+          "bass",
+          "reggaeton"
         ],
         "sources": [
-          "https://peerpop.io/view/events/unitedweravethofjulyfreedomfest"
+          "https://peerpop.io/view/events/unitedweravethofjulyfreedomfest",
+          "https://plots.events/event/officialunitedweravefest",
+          "https://speakeasygo.com/plur-factory/united-we-rave-4th-of-july-freedom-festival?eid=EVE-J9U2RB"
         ],
         "tickets": [
-          "https://peerpop.io/view/events/unitedweravethofjulyfreedomfest"
+          "https://peerpop.io/view/events/unitedweravethofjulyfreedomfest",
+          "https://speakeasygo.com/plur-factory/united-we-rave-4th-of-july-freedom-festival?eid=EVE-J9U2RB"
         ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=TBA%2C+San+Diego%2C+CA",
@@ -2600,9 +2606,10 @@
         },
         "coords_precise": true,
         "image_generated": false,
-        "start": null,
-        "end": null,
-        "enriched": 0
+        "start": "13:00",
+        "end": "22:00",
+        "enriched": 1,
+        "promoter": "PLUR Factory"
       },
       {
         "track": "music",
