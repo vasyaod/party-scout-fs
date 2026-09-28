@@ -1748,25 +1748,44 @@
         "name": "Horse Meat Disco",
         "day": "Sat",
         "date": "2026-07-18",
-        "time": "9pm",
+        "time": "9pm-4am",
         "start": "21:00",
-        "end": null,
+        "end": "04:00",
         "area": "San Diego",
         "venue": "House Of Blues",
-        "address": "",
-        "why": "An eclectic disco experience featuring a renowned party brand.",
-        "summary": "Horse Meat Disco will perform at House Of Blues in San Diego on July 18, 2026, at 9 PM. Tickets range from $69.69 to $112.90, for ages 21+.",
+        "address": "1055 5th Ave, San Diego, CA 92101",
+        "why": "Legendary UK disco selectors headline San Diego Pride's marquee club night.",
+        "summary": "Horse Meat Disco headlines House of Blues San Diego's Voodoo Room for San Diego Pride, with support from Glovibes and Alexander Rendo plus the GPS Dancers, running 9pm to 4am on July 18, 2026.",
         "price": "$69-$112",
         "tags": [
           "21+",
           "disco",
-          "house"
+          "house",
+          "pride"
         ],
-        "lineup": [],
+        "lineup": [
+          {
+            "name": "Horse Meat Disco",
+            "instagram": null
+          },
+          {
+            "name": "Glovibes",
+            "instagram": null
+          },
+          {
+            "name": "Alexander Rendo",
+            "instagram": null
+          }
+        ],
         "sources": [
-          "https://wl.eventim.us/event/HORSE-MEAT-DISCO-San-Diego-Pride/689307?afflky=PaulNichollsENT"
+          "https://wl.eventim.us/event/HORSE-MEAT-DISCO-San-Diego-Pride/689307?afflky=PaulNichollsENT",
+          "https://www.eventim.us/event/HORSE-MEAT-DISCO-San-Diego-Pride/689307",
+          "https://www.jambase.com/show/horse-meat-disco-house-of-blues-20260718",
+          "https://circuitpartyinfo.com/event/horse-meat-disco-10/"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://www.eventim.us/event/HORSE-MEAT-DISCO-San-Diego-Pride/689307"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=House+Of+Blues%2C+San+Diego",
           "apple": "https://maps.apple.com/?q=House+Of+Blues%2C+San+Diego"
@@ -1783,7 +1802,8 @@
         "popularity": 4,
         "id": "2026-07-13-music-horse-meat-disco-f5feb7",
         "eid": "horse-meat-disco-cb60",
-        "enriched": 0
+        "enriched": 1,
+        "promoter": "GPS & Megawoof"
       },
       {
         "track": "music",
