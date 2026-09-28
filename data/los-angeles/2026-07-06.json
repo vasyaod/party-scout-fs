@@ -339,9 +339,23 @@
           "warehouse",
           "21+"
         ],
-        "lineup": [],
+        "lineup": [
+          {
+            "name": "Klaudia Gawlas",
+            "instagram": null
+          },
+          {
+            "name": "GiGi",
+            "instagram": null
+          },
+          {
+            "name": "Gerard Not Gerald",
+            "instagram": null
+          }
+        ],
         "sources": [
-          "https://ra.co/events/2423081"
+          "https://ra.co/events/2423081",
+          "https://iluvincognito.com/events/usa/ca/los-angeles/2026-july-11-klaudia-gawlas/"
         ],
         "tickets": [
           "https://ra.co/events/2423081"
@@ -367,7 +381,8 @@
         "popularity": 9,
         "id": "2026-07-06-music-klaudia-gawlas-gigi-b2b-gerard-n-12e0b1",
         "eid": "klaudia-gawlas-gigi-b2b-gera-0fa7",
-        "enriched": 0
+        "enriched": 1,
+        "promoter": "INCOGNITO"
       },
       {
         "track": "music",
