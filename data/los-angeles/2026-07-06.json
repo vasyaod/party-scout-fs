@@ -5626,8 +5626,8 @@
         "area": "Santa Monica",
         "venue": "Tongva Park",
         "address": "1615 Ocean Ave, Santa Monica, CA 90401",
-        "why": "House by the ocean in a park — the daytime outdoor option without the festival markup.",
-        "summary": "Cafe Grooves and Product Pluto host an afternoon open-air house party at Tongva Park in Santa Monica on Saturday, 1–9pm, $20.",
+        "why": "Open-air house day party on the bluff by the beach, led by German house DJ Cinthie.",
+        "summary": "Café Grooves and Product Pluto's Open Air House Music Fest at Tongva Park runs 1-9pm with specialty coffee, multiple bars, local vendors, and a house lineup headlined by Cinthie.",
         "price": "$20",
         "tags": [
           "house",
@@ -5637,9 +5637,15 @@
           "open-air",
           "park"
         ],
-        "lineup": [],
+        "lineup": [
+          {
+            "name": "Cinthie",
+            "instagram": null
+          }
+        ],
         "sources": [
-          "https://posh.vip/e/caf-grooves-product-pluto-present"
+          "https://posh.vip/e/caf-grooves-product-pluto-present",
+          "https://ra.co/events/2470007"
         ],
         "tickets": [
           "https://posh.vip/e/caf-grooves-product-pluto-present"
@@ -5660,7 +5666,8 @@
         "popularity": 4,
         "id": "2026-07-06-music-tongva-park-open-air-cafe-groove-b33deb",
         "eid": "tongva-park-open-air-cafe-gr-3a69",
-        "enriched": 0
+        "enriched": 1,
+        "promoter": "Product Pluto"
       },
       {
         "track": "music",
