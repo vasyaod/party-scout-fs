@@ -2416,7 +2416,7 @@
         "name": "Space Yacht Pool Party",
         "day": "Sat",
         "date": "2026-07-04",
-        "time": "daytime",
+        "time": "2–8pm",
         "area": "Hollywood",
         "venue": "W Hollywood",
         "address": "6250 Hollywood Blvd, Los Angeles, CA 90028",
@@ -2429,7 +2429,8 @@
           "edm",
           "outdoor",
           "daytime",
-          "21+"
+          "21+",
+          "rubber-duck"
         ],
         "sources": [
           "https://posh.vip/f/73aa3"
@@ -2453,9 +2454,10 @@
         },
         "coords_precise": true,
         "image_generated": false,
-        "start": null,
-        "end": null,
-        "enriched": 0
+        "start": "14:00",
+        "end": "20:00",
+        "enriched": 1,
+        "promoter": "Space Yacht"
       },
       {
         "track": "music",
