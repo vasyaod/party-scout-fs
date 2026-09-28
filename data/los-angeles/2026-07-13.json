@@ -1607,16 +1607,25 @@
         "end": null,
         "area": "Los Angeles",
         "venue": "Catch One",
-        "address": "",
-        "why": "A nostalgic disco-themed dance party in a popular venue.",
-        "summary": "Gimme Gimme Disco will be held at Catch One in Los Angeles on July 18, 2026, at 8 PM. Tickets are $22.",
+        "address": "4067 W Pico Blvd, Los Angeles, CA 90019",
+        "why": "A traveling ABBA-and-disco dance party hitting Catch One's underground room.",
+        "summary": "Gimme Gimme Disco brings its ABBA and 70s/80s disco dance party to Catch One (Underground) in Los Angeles on July 18, 2026, with doors at 8 PM.",
         "price": "$22",
-        "tags": [],
+        "tags": [
+          "disco",
+          "dance-party",
+          "abba",
+          "throwback"
+        ],
         "lineup": [],
         "sources": [
+          "https://tix.soundrink.com/tours/ICShbaNBnzbfQ1DKYlth60z6dEePdi56",
+          "https://ma.to/event/gimme-gimme-disco-catch-one-18-jul-2026-1",
+          "https://www.boxofficeticketsales.com/gimme-gimme-disco/the-catch-one"
+        ],
+        "tickets": [
           "https://tix.soundrink.com/tours/ICShbaNBnzbfQ1DKYlth60z6dEePdi56"
         ],
-        "tickets": [],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Catch+One%2C+Los+Angeles",
           "apple": "https://maps.apple.com/?q=Catch+One%2C+Los+Angeles"
@@ -1633,7 +1642,8 @@
         "popularity": 4,
         "id": "2026-07-13-music-gimme-gimme-disco-759334",
         "eid": "gimme-gimme-disco-b27f",
-        "enriched": 0
+        "enriched": 1,
+        "promoter": "Gimme Gimme Disco"
       },
       {
         "track": "music",
