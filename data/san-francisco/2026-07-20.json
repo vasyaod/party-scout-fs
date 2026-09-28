@@ -2773,7 +2773,7 @@
         "time": "9:30pm–2am",
         "start": "21:30",
         "end": "02:00",
-        "area": "SF",
+        "area": "SoMa",
         "venue": "DNA Lounge",
         "address": "375 11th St, San Francisco, CA 94103",
         "why": "Summerween horror-rave installment with red lighting and horror visuals all night, 18+",
@@ -2788,9 +2788,23 @@
           "horror",
           "18+"
         ],
-        "lineup": [],
+        "lineup": [
+          {
+            "name": "Sage",
+            "instagram": null
+          },
+          {
+            "name": "Melting Girl",
+            "instagram": null
+          },
+          {
+            "name": "Boblivion",
+            "instagram": null
+          }
+        ],
         "sources": [
-          "https://www.dnalounge.com/calendar/2026/07-24.html"
+          "https://www.dnalounge.com/calendar/2026/07-24.html",
+          "https://www.facebook.com/events/375-11th-st-san-francisco-ca-united-states-california-94103/nightbreed-horror-rave/1490991759164006/"
         ],
         "tickets": [
           "https://www.dnalounge.com/tickets/"
@@ -2811,7 +2825,7 @@
         "popularity": 5,
         "id": "2026-07-20-music-nightbreed-horror-rave-7bcb6c",
         "eid": "nightbreed-horror-rave-dd2d",
-        "enriched": 0
+        "enriched": 1
       },
       {
         "track": "music",
