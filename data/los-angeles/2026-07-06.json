@@ -2137,18 +2137,31 @@
         "time": "4pm-9pm",
         "start": "16:00",
         "end": "21:00",
-        "area": "San Diego",
+        "area": "East Village",
         "venue": "Quartyard",
-        "address": "",
-        "why": "A lively blend of future beats and hip-hop at a unique venue.",
-        "summary": "The Polish Ambassador returns to Quartyard in San Diego on July 11, 2026, from 4 PM to 9 PM. Tickets range from $34-48, 21+.",
+        "address": "1301 Market St, San Diego, CA 92101",
+        "why": "A lively blend of future beats and hip-hop at a unique shipping-container venue.",
+        "summary": "The Polish Ambassador headlines Quartyard in San Diego's East Village on July 11, 2026, from 4-9 PM, with support from Cam Steen and FroDaddy.",
         "price": "$34-48",
         "tags": [
           "21+",
           "future-beats",
           "hip-hop"
         ],
-        "lineup": [],
+        "lineup": [
+          {
+            "name": "The Polish Ambassador",
+            "instagram": null
+          },
+          {
+            "name": "Cam Steen",
+            "instagram": null
+          },
+          {
+            "name": "FroDaddy",
+            "instagram": null
+          }
+        ],
         "sources": [
           "https://www.eventbrite.com/e/the-polish-ambassador-at-quartyard-tickets-1985322443873",
           "https://ra.co/events/2406268"
@@ -2178,7 +2191,7 @@
         "popularity": 5,
         "id": "2026-07-06-music-the-polish-ambassador-f90960",
         "eid": "the-polish-ambassador-5325",
-        "enriched": 0
+        "enriched": 1
       },
       {
         "track": "music",
