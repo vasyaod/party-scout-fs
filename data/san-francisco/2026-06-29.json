@@ -62,7 +62,7 @@
         "day": "Sat",
         "date": "2026-07-04",
         "time": "3–10pm",
-        "area": "SF",
+        "area": "Dogpatch",
         "venue": "The Midway",
         "address": "900 Marin St, San Francisco, CA 94124",
         "why": "Mainstage names without the late-night grind, wrapped by 10pm; the marquee daytime splurge of the weekend",
@@ -100,7 +100,29 @@
         "coords_precise": true,
         "start": "15:00",
         "end": "22:00",
-        "enriched": 0
+        "enriched": 1,
+        "lineup": [
+          {
+            "name": "deadmau5",
+            "instagram": "deadmau5"
+          },
+          {
+            "name": "Nero",
+            "instagram": null
+          },
+          {
+            "name": "Cristoph",
+            "instagram": null
+          },
+          {
+            "name": "Rebūke",
+            "instagram": "rebukemusic"
+          },
+          {
+            "name": "Maneki",
+            "instagram": null
+          }
+        ]
       },
       {
         "track": "music",
