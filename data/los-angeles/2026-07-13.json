@@ -488,9 +488,23 @@
           "18+",
           "big-venue"
         ],
-        "lineup": [],
+        "lineup": [
+          {
+            "name": "Jessica Audiffred",
+            "instagram": null
+          },
+          {
+            "name": "DRINKURWATER",
+            "instagram": null
+          },
+          {
+            "name": "Z3LLA",
+            "instagram": null
+          }
+        ],
         "sources": [
-          "https://www.ticketmaster.com/event/09006484A2E07E76"
+          "https://www.ticketmaster.com/event/09006484A2E07E76",
+          "https://www.insomniac.com/events/jessica-audiffred-3-hour-set-2026-07-18-los-angeles-ca/"
         ],
         "tickets": [
           "https://www.ticketmaster.com/event/09006484A2E07E76"
@@ -511,7 +525,8 @@
         "popularity": 8,
         "id": "2026-07-13-music-jessica-audiffred-9d7fb9",
         "eid": "jessica-audiffred-699b",
-        "enriched": 0
+        "enriched": 1,
+        "promoter": "Bassrush"
       },
       {
         "track": "music",
