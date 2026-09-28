@@ -2982,24 +2982,41 @@
         "time": "4pm-10pm",
         "start": "16:00",
         "end": "22:00",
-        "area": "Los Angeles",
+        "area": "Hollywood",
         "venue": "Members Restaurant & Club",
-        "address": "",
-        "why": "A summer day party blending tech house and vibrant atmospheres.",
-        "summary": "The Day Party | The 3rd Wave with Amal Nemer will occur on July 12, 2026, from 4 PM to 10 PM at Members Restaurant & Club in Los Angeles. Tickets range from $20.20 to $40.40.",
+        "address": "7627 Sunset Blvd, Los Angeles, CA 90046",
+        "why": "Third edition of a global/tech/afro house day party series blending house, Latin rhythms and global sounds with LED fans and rain flowers, timed to a World Cup off day.",
+        "summary": "Global, Tech & Afro House Music Day Party with Amal Nemer, Mtooray, Nina Nevra and Tay X, Sunday July 12, 2026, 4-10 PM at Members Restaurant & Club on Sunset Blvd in Hollywood, billed as a World Cup off-day party by A Fan Space x Members.",
         "price": "$20-$40",
         "tags": [
           "afro-house",
           "daytime",
           "house",
-          "tech-house"
+          "tech-house",
+          "day-party"
         ],
-        "lineup": [],
+        "lineup": [
+          {
+            "name": "Amal Nemer"
+          },
+          {
+            "name": "Mtooray"
+          },
+          {
+            "name": "Nina Nevra"
+          },
+          {
+            "name": "Tay X"
+          }
+        ],
         "sources": [
-          "https://shotgun.live/en/events/day-party-a-fan-space-x-members-present-the-3rd-wave"
+          "https://shotgun.live/en/events/day-party-a-fan-space-x-members-present-the-3rd-wave",
+          "https://www.eventbrite.com/e/global-tech-afro-house-music-day-party-w-amal-nemer-world-cup-off-day-tickets-1991760904482",
+          "https://members.love/events-club/lr7d9gec9gkhss2-5ngn7-s3aw4-9y42l-fxhfn"
         ],
         "tickets": [
-          "https://shotgun.live/en/events/day-party-a-fan-space-x-members-present-the-3rd-wave"
+          "https://shotgun.live/en/events/day-party-a-fan-space-x-members-present-the-3rd-wave",
+          "https://www.eventbrite.com/e/global-tech-afro-house-music-day-party-w-amal-nemer-world-cup-off-day-tickets-1991760904482"
         ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Members+Restaurant+%26+Club%2C+Los+Angeles",
@@ -3017,7 +3034,8 @@
         "popularity": 4,
         "id": "2026-07-06-music-day-party-the-3rd-wave-ft-amal-n-16649e",
         "eid": "day-party-the-3rd-wave-ft-am-2906",
-        "enriched": 0
+        "enriched": 1,
+        "promoter": "A Fan Space x Members"
       },
       {
         "track": "music",
