@@ -4094,19 +4094,27 @@
         "venue": "Cardiff & Cocktails",
         "address": "260 E Campbell Ave, Campbell, CA 95008",
         "why": "Free weekly deep-house residency from a South Bay scene veteran, no cover",
-        "summary": "Julius Papp & Friends host their weekly Spectrum Saturdays deep-house residency at Cardiff & Cocktails in the San Jose area, Saturday July 25 starting 9pm, free entry.",
-        "promoter": "",
+        "summary": "Julius Papp & Friends host their weekly Spectrum Saturdays house/nu-disco residency at Cardiff & Cocktails in downtown Campbell, Saturday July 25 starting 9pm, no cover.",
+        "promoter": "Julius Papp",
         "price": "Free",
         "tags": [
           "house",
           "deep-house",
           "free",
           "residency",
-          "south-bay"
+          "south-bay",
+          "nu-disco"
         ],
-        "lineup": [],
+        "lineup": [
+          {
+            "name": "Julius Papp",
+            "instagram": "juliuspapp"
+          }
+        ],
         "sources": [
-          "https://www.instagram.com/juliuspapp/"
+          "https://www.instagram.com/juliuspapp/",
+          "https://cardifflounge.com/",
+          "http://www.juliuspapp.com/"
         ],
         "tickets": [],
         "maps": {
@@ -4125,7 +4133,7 @@
         "popularity": 4,
         "id": "2026-07-20-music-spectrum-saturdays-with-julius-p-2c7f45",
         "eid": "spectrum-saturdays-with-juli-7e8b",
-        "enriched": 0
+        "enriched": 1
       },
       {
         "track": "music",
