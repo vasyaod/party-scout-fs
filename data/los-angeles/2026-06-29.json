@@ -2699,25 +2699,30 @@
         "name": "Red White & Blue 5K/10K/15K/Half Marathon",
         "day": "Sun",
         "date": "2026-07-05",
-        "time": "morning",
-        "area": "Los Angeles",
+        "time": "7:30am",
+        "area": "Van Nuys",
         "venue": "Los Angeles",
-        "address": "Los Angeles, CA",
-        "why": "Sleep in Friday, race the Sunday after the holiday.",
-        "summary": "A Sunday morning race in Los Angeles with 5K, 10K, 15K and half-marathon distances, entry $45-80.",
-        "price": "$45–80",
+        "address": "6340 Woodley Ave, Lake Balboa, CA 91406",
+        "why": "Four distances on one looped Woodley Park course, with medals and photos included.",
+        "summary": "A Sunday morning 5K, 10K, 15K and Half Marathon at Woodley Park in Lake Balboa (Van Nuys), run by A Better World Running on an out-and-back loop course with one small hill.",
+        "price": "$35–50",
         "tags": [
           "running",
           "5k",
           "10k",
           "half-marathon",
-          "road"
+          "road",
+          "15k",
+          "outdoor"
         ],
         "sources": [
-          "https://www.runguides.com/los-angeles/runs"
+          "https://www.runguides.com/los-angeles/runs",
+          "https://www.abetterworldrunning.com/red-white-blue-7-5-26-vn",
+          "https://www.active.com/van-nuys-ca/running/distance-running-races/red-white-and-blue-5k-10k-15k-half-marathon-2026"
         ],
         "tickets": [
-          "https://www.runguides.com/los-angeles/runs"
+          "https://www.runguides.com/los-angeles/runs",
+          "https://www.abetterworldrunning.com/red-white-blue-7-5-26-vn"
         ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Los+Angeles%2C+Los+Angeles%2C+CA",
@@ -2735,9 +2740,10 @@
         },
         "coords_precise": true,
         "image_generated": false,
-        "start": null,
+        "start": "07:30",
         "end": null,
-        "enriched": 0
+        "enriched": 1,
+        "promoter": "A Better World Running"
       },
       {
         "track": "sports",
