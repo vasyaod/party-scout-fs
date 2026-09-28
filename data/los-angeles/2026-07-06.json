@@ -5063,18 +5063,33 @@
         "end": null,
         "area": "San Diego",
         "venue": "Music Box",
-        "address": "",
-        "why": "A high-energy performance blending hip-hop and electro beats.",
-        "summary": "Shwayze, Jahtiva, and Cappo Kelley will perform at Music Box in San Diego on July 10, 2026, at 9 PM. Tickets are $31.66 and the event is 21+.",
+        "address": "1337 India Street, San Diego, CA 92101",
+        "why": "A rare intimate-venue set from Billboard-charting Shwayze, backed by reggae newcomer Jahtiva.",
+        "summary": "Shwayze headlines Music Box in San Diego on July 10, 2026, with support from reggae artist Jahtiva and Cappo Kelley; doors at 8pm, 21+.",
         "price": "$31",
         "tags": [
           "21+",
           "hip-hop",
           "pop-edm"
         ],
-        "lineup": [],
+        "lineup": [
+          {
+            "name": "Shwayze",
+            "instagram": null
+          },
+          {
+            "name": "Jahtiva",
+            "instagram": null
+          },
+          {
+            "name": "Cappo Kelley",
+            "instagram": null
+          }
+        ],
         "sources": [
-          "https://www.ticketweb.com/event/shwayze-jahtiva-cappo-kelley-music-box-tickets/14935653"
+          "https://www.ticketweb.com/event/shwayze-jahtiva-cappo-kelley-music-box-tickets/14935653",
+          "https://musicboxsd.com/event/14935653/shwayze-cappo-kelley-jahtiva/",
+          "https://www.jambase.com/show/shwayze-music-box-20260710"
         ],
         "tickets": [
           "https://www.ticketweb.com/event/shwayze-jahtiva-cappo-kelley-music-box-tickets/14935653"
@@ -5095,7 +5110,8 @@
         "popularity": 4,
         "id": "2026-07-06-music-shwayze-jahtiva-cappo-kelley-cd4317",
         "eid": "shwayze-jahtiva-cappo-kelley-a81e",
-        "enriched": 0
+        "enriched": 1,
+        "promoter": "Music Box San Diego"
       },
       {
         "track": "music",
