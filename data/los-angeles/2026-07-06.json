@@ -5867,14 +5867,29 @@
         "area": "Inland Empire",
         "venue": "TBA",
         "address": "",
-        "why": "A night dedicated to techno enthusiasts in a hidden venue.",
-        "summary": "Vector Techno Club featuring Developer, Aztekan, and Tensic is set for July 11, 2026, from 10 PM to 4 AM at a TBA location in the Inland Empire. Tickets range from $15 to $40.",
+        "why": "The debut of a new secret warehouse techno concept from Kenopsic, headlined by Modularz founder Developer.",
+        "summary": "Kenopsic debuts Vector Techno Club on July 11, 2026, with Modularz founder Developer joined by Inland Empire heavyweights Aztekan and Tensic for a night of warehouse techno at a secret TBA location. No cameras on the dancefloor; shuttle buses available for a $5 fee.",
         "price": "$15-40",
         "tags": [
           "21+",
-          "techno"
+          "techno",
+          "warehouse",
+          "underground"
         ],
-        "lineup": [],
+        "lineup": [
+          {
+            "name": "Developer",
+            "instagram": null
+          },
+          {
+            "name": "Aztekan",
+            "instagram": null
+          },
+          {
+            "name": "Tensic",
+            "instagram": null
+          }
+        ],
         "sources": [
           "https://shotgun.live/en/events/vector-techno-club-developer-aztekan-tensic",
           "https://www.instagram.com/kenopsicevents"
@@ -5898,7 +5913,8 @@
         "popularity": 4,
         "id": "2026-07-06-music-vector-techno-club-developer-azt-ec6029",
         "eid": "vector-techno-club-developer-aee5",
-        "enriched": 0
+        "enriched": 1,
+        "promoter": "Kenopsic"
       },
       {
         "track": "music",
