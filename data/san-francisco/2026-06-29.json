@@ -3708,24 +3708,31 @@
         "name": "Stars & Stripes 5K",
         "day": "Sat",
         "date": "2026-07-04",
-        "time": "8am",
+        "time": "8:15am",
         "area": "Concord",
-        "venue": "Concord",
-        "address": "Concord, CA 94520",
-        "why": "A low-key East Bay 5K close to home; the easy local July 4th jog, nothing fancy",
-        "summary": "A July 4th 5K road race starting at 8am in Concord, a small (100-500 runner) East Bay Independence Day run/walk on a flat road course welcoming participants of every level and pace.",
-        "price": "$40–50",
+        "venue": "Todos Santos Plaza",
+        "address": "Todos Santos Plaza, Concord, CA 94520",
+        "why": "A community 5K through Concord that ends right into the town's Independence Day parade and pancake breakfast",
+        "summary": "A July 4th 5K run/walk starting at Todos Santos Plaza in downtown Concord, with a kids fun run and pancake breakfast beforehand and Concord's Independence Day parade following at 10am.",
+        "price": "$54–65",
         "tags": [
           "running",
           "5k",
           "july4",
-          "race"
+          "race",
+          "family",
+          "parade"
         ],
         "sources": [
-          "https://www.runguides.com/san-francisco/runs"
+          "https://www.runguides.com/san-francisco/runs",
+          "https://www.concordjuly4th.com/5k-run-walk/",
+          "https://raceroster.com/events/2026/112455/stars-and-stripes-2026",
+          "https://brazenracing.com/starsandstripesrun/"
         ],
         "tickets": [
-          "https://www.runguides.com/san-francisco/runs"
+          "https://www.runguides.com/san-francisco/runs",
+          "https://raceroster.com/events/2026/112455/stars-and-stripes-2026",
+          "https://brazenracing.com/starsandstripesrun/"
         ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Concord%2C+Concord%2C+CA+94520",
@@ -3743,9 +3750,10 @@
         },
         "coords_precise": true,
         "image_generated": false,
-        "start": "08:00",
+        "start": "08:15",
         "end": null,
-        "enriched": 0
+        "enriched": 1,
+        "promoter": "Brazen Racing"
       },
       {
         "track": "sports",
