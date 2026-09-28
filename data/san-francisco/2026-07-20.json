@@ -1547,9 +1547,19 @@
           "warehouse",
           "outdoor"
         ],
-        "lineup": [],
+        "lineup": [
+          {
+            "name": "Party Pupils",
+            "instagram": "partypupils"
+          },
+          {
+            "name": "Goshfather",
+            "instagram": "goshfather"
+          }
+        ],
         "sources": [
-          "https://www.tixr.com/groups/midwaysf/events/party-pupils-x-goshfather-disco-house-vs-yacht-house-190125"
+          "https://www.tixr.com/groups/midwaysf/events/party-pupils-x-goshfather-disco-house-vs-yacht-house-190125",
+          "https://www.facebook.com/Themidwaysf/videos/disco-house-vs-yacht-house-with-partypupils-vs-goshfather-taking-over-the-them/1636139374156757/"
         ],
         "tickets": [
           "https://www.tixr.com/groups/midwaysf/events/party-pupils-x-goshfather-disco-house-vs-yacht-house-190125"
@@ -1570,7 +1580,7 @@
         "popularity": 6,
         "id": "2026-07-20-music-party-pupils-x-goshfather-disco-59c645",
         "eid": "party-pupils-x-goshfather-di-e76c",
-        "enriched": 0
+        "enriched": 1
       },
       {
         "track": "music",
