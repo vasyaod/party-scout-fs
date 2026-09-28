@@ -2388,7 +2388,7 @@
         "end": "19:00",
         "area": "West Hollywood/Los Angeles",
         "venue": "Hotel Ziggy",
-        "address": "",
+        "address": "8462 W Sunset Blvd, West Hollywood, CA 90069",
         "why": "A vibrant pool party with emerging house music talents.",
         "summary": "The Nextgen Pool Party featuring Jayne Gray and more will take place on July 12, 2026, from 1 PM to 7 PM at Hotel Ziggy in West Hollywood/Los Angeles. Tickets range from $11.50 to $25 for ages 21 and over.",
         "price": "$11-25",
@@ -2396,7 +2396,20 @@
           "21+",
           "house"
         ],
-        "lineup": [],
+        "lineup": [
+          {
+            "name": "Jayne Gray",
+            "instagram": null
+          },
+          {
+            "name": "Frenchi",
+            "instagram": null
+          },
+          {
+            "name": "Amika Akiya",
+            "instagram": null
+          }
+        ],
         "sources": [
           "https://ra.co/events/2454110"
         ],
@@ -2424,7 +2437,8 @@
         "popularity": 4,
         "id": "2026-07-06-music-nextgen-pool-party-jayne-gray-fr-59ad69",
         "eid": "nextgen-pool-party-jayne-gra-1e0b",
-        "enriched": 0
+        "enriched": 1,
+        "promoter": "Affinity Nightlife"
       },
       {
         "track": "music",
