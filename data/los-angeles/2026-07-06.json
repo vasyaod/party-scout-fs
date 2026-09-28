@@ -1926,16 +1926,30 @@
         "end": "20:00",
         "area": "San Diego",
         "venue": "Quartyard",
-        "address": "",
-        "why": "A deep house showcase featuring renowned artists in a trendy setting.",
-        "summary": "Miguel Migs, Cris Herrera, and Waterpark Jones will perform on July 12, 2026, from 3 PM to 8 PM at Quartyard in San Diego. Tickets range from $24 to $36.80 for ages 21 and over.",
+        "address": "1301 Market St, San Diego, CA 92101",
+        "why": "A daytime deep-house session from Miguel Migs at San Diego's outdoor Quartyard courtyard.",
+        "summary": "SOULEIL brings deep-house DJs Miguel Migs, Cris Herrera, and Waterpark Jones to Quartyard's outdoor East Village courtyard for a Sunday afternoon session, July 12, 2026, 3-8 PM.",
         "price": "$24-$36",
         "tags": [
           "21+",
           "deep-house",
-          "house"
+          "house",
+          "outdoor"
         ],
-        "lineup": [],
+        "lineup": [
+          {
+            "name": "Miguel Migs",
+            "instagram": null
+          },
+          {
+            "name": "Cris Herrera",
+            "instagram": null
+          },
+          {
+            "name": "Waterpark Jones",
+            "instagram": null
+          }
+        ],
         "sources": [
           "https://www.eventbrite.com/e/souleil-miguel-migs-cris-herrera-waterpark-jones-tickets-1989108673588",
           "https://ra.co/events/2448338"
@@ -1965,7 +1979,8 @@
         "popularity": 5,
         "id": "2026-07-06-music-miguel-migs-cris-herrera-waterpa-d1f6f6",
         "eid": "miguel-migs-cris-herrera-wat-91c3",
-        "enriched": 0
+        "enriched": 1,
+        "promoter": "SOULEIL"
       },
       {
         "track": "music",
