@@ -4020,7 +4020,7 @@
         "address": "995 Market St, San Francisco, CA 94103",
         "why": "Cyberpunk-coded techno night inside a downtown tech tower, a different kind of room",
         "summary": "Random Access hosts an underground techno night with Psybertone, Meikee Magnetic, DJ Byter and Hopeless inside Frontier Tower's downtown SF space, Saturday July 25 from 9pm to 2am.",
-        "promoter": "",
+        "promoter": "PsyberCorp Industries",
         "price": "",
         "tags": [
           "techno",
@@ -4029,7 +4029,24 @@
           "underground",
           "late-night"
         ],
-        "lineup": [],
+        "lineup": [
+          {
+            "name": "Psybertone",
+            "instagram": null
+          },
+          {
+            "name": "Meikee Magnetic",
+            "instagram": null
+          },
+          {
+            "name": "DJ Byter",
+            "instagram": null
+          },
+          {
+            "name": "Hopeless",
+            "instagram": null
+          }
+        ],
         "sources": [
           "https://www.psybercorp.industries/random-access"
         ],
@@ -4050,7 +4067,7 @@
         "popularity": 4,
         "id": "2026-07-20-music-random-access-rndm-axs-0725-f2eb4c",
         "eid": "random-access-rndm-axs-0725-ddb2",
-        "enriched": 0
+        "enriched": 1
       },
       {
         "track": "music",
