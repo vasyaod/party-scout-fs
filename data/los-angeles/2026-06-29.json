@@ -3240,25 +3240,30 @@
         "name": "Surf City Run 5K",
         "day": "Sat",
         "date": "2026-07-04",
-        "time": "morning",
+        "time": "7–9am",
         "area": "Huntington Beach",
-        "venue": "Huntington Beach",
-        "address": "Huntington Beach, CA",
-        "why": "Surf City holiday miles before the beach crowds.",
-        "summary": "A Saturday morning July 4th 5K in Huntington Beach by the water, entry $40-50.",
+        "venue": "Worthy Park",
+        "address": "1801 Main St, Huntington Beach, CA 92648",
+        "why": "Run the parade route past the Huntington Beach pier on July 4th morning, then watch fireworks over the ocean that night.",
+        "summary": "A Fourth of July 5K through Huntington Beach, running Main Street and Pacific Coast Highway past the pier before finishing at Worthy Park; part of the city's Independence Day celebration alongside the parade and fireworks.",
         "price": "$40–50",
         "tags": [
           "running",
           "5k",
           "july-4th",
           "beach",
-          "road"
+          "road",
+          "family"
         ],
         "sources": [
-          "https://www.runguides.com/los-angeles/runs"
+          "https://www.runguides.com/los-angeles/runs",
+          "https://runsignup.com/Race/CA/HuntingtonBeach/HBSURFCITYRUN",
+          "https://www.hb4thofjuly.org/surf-city-run",
+          "https://www.runguides.com/event/32244/surf-city-run"
         ],
         "tickets": [
-          "https://www.runguides.com/los-angeles/runs"
+          "https://www.runguides.com/los-angeles/runs",
+          "https://runsignup.com/Race/CA/HuntingtonBeach/HBSURFCITYRUN"
         ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Huntington+Beach%2C+Huntington+Beach%2C+CA",
@@ -3276,9 +3281,10 @@
         },
         "coords_precise": true,
         "image_generated": false,
-        "start": null,
-        "end": null,
-        "enriched": 0
+        "start": "07:00",
+        "end": "09:00",
+        "enriched": 1,
+        "promoter": "City of Huntington Beach"
       },
       {
         "track": "sports",
