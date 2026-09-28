@@ -2537,16 +2537,20 @@
         "end": "21:00",
         "area": "Huntington Beach",
         "venue": "The Bungalow",
-        "address": "",
-        "why": "A lively afternoon with music by DJ Five at a beachside venue.",
-        "summary": "Azure Huntington Beach with DJ Five is happening on July 12, 2026, from 2 PM to 9 PM at The Bungalow in Huntington Beach. Tickets are priced at $20.",
+        "address": "21058 Pacific Coast Hwy #240, Huntington Beach, CA",
+        "why": "NYC's daytime house-party import brings a beachside 21+ Sunday session with DJ Five.",
+        "summary": "Azure Day Party's weekly Sunday daytime house residency returns to The Bungalow in Huntington Beach on July 12, 2026, featuring DJ Five from 2 to 9 PM. Tickets are $20, and the event is 21+.",
         "price": "$20",
         "tags": [
-          "outdoor"
+          "outdoor",
+          "house",
+          "daytime",
+          "21+"
         ],
         "lineup": [],
         "sources": [
-          "https://posh.vip/e/azure-day-party-huntington-beach-2026-11-8-22-30"
+          "https://posh.vip/e/azure-day-party-huntington-beach-2026-11-8-22-30",
+          "https://thebungalow.com/huntington-beach/azure-day-party/"
         ],
         "tickets": [
           "https://posh.vip/e/azure-day-party-huntington-beach-2026-11-8-22-30"
@@ -2567,7 +2571,8 @@
         "popularity": 4,
         "id": "2026-07-06-music-azure-huntington-beach-w-dj-five-5f7ecc",
         "eid": "azure-huntington-beach-w-dj-2e42",
-        "enriched": 0
+        "enriched": 1,
+        "promoter": "Azure Day Party"
       },
       {
         "track": "music",
