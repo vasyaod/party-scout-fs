@@ -1063,9 +1063,9 @@
         "end": "02:00",
         "area": "Hollywood",
         "venue": "The Spotlight",
-        "address": "734 N La Brea Ave, Los Angeles, CA 90038",
-        "why": "Chicago house icon for a tight Spotlight crowd — history in a small room.",
-        "summary": "Felix Da Housecat headlines the Simon Says night at The Spotlight in Hollywood, Saturday 10pm–2am, 21+, from $19.",
+        "address": "1601 N Cahuenga Blvd, Los Angeles, CA 90028",
+        "why": "Chicago house icon in a 300-cap Hollywood room run by the DJs who host it.",
+        "summary": "Felix Da Housecat headlines Simon Says at The Spotlight in Hollywood, Saturday 10pm–2am with support from Daisy O'Dell and Sean Patrick, 21+, from $19.",
         "price": "$19+",
         "tags": [
           "tech-house",
@@ -1074,7 +1074,20 @@
           "headliner",
           "21+"
         ],
-        "lineup": [],
+        "lineup": [
+          {
+            "name": "Felix Da Housecat",
+            "instagram": null
+          },
+          {
+            "name": "Daisy O'Dell",
+            "instagram": null
+          },
+          {
+            "name": "Sean Patrick",
+            "instagram": null
+          }
+        ],
         "sources": [
           "https://dice.fm/event/oe73bg-simon-says-felix-da-housecat-11th-jul-the-spotlight-los-angeles-tickets"
         ],
@@ -1097,7 +1110,8 @@
         "popularity": 8,
         "id": "2026-07-06-music-simon-says-felix-da-housecat-8bab01",
         "eid": "simon-says-felix-da-housecat-a041",
-        "enriched": 0
+        "enriched": 1,
+        "promoter": "Simon Says"
       },
       {
         "track": "music",
