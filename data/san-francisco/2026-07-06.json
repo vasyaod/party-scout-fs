@@ -3632,9 +3632,12 @@
           "track"
         ],
         "sources": [
-          "https://www.instagram.com/sanfranciscofnr/"
+          "https://www.instagram.com/sanfranciscofnr/",
+          "https://weathertechraceway.com/pages/motoamerica-superbike-speedfest-at-monterey"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://motoamerica.tixonlinenow.com/superbikeslaguna/"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Meet%3A+Treasure+Island+%28ride+to+WeatherTech+Raceway+Laguna+Seca%29%2C+Treasure+Island%2C+San+Francisco%2C+CA+94130",
           "apple": "https://maps.apple.com/?q=Meet%3A+Treasure+Island+%28ride+to+WeatherTech+Raceway+Laguna+Seca%29%2C+Treasure+Island%2C+San+Francisco%2C+CA+94130"
@@ -3654,7 +3657,7 @@
         "start": null,
         "end": null,
         "lineup": [],
-        "enriched": 0
+        "enriched": 1
       },
       {
         "track": "sports",
