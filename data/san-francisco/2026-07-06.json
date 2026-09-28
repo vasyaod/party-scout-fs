@@ -3181,20 +3181,23 @@
         "name": "Interzone Darkwave Tuesdays",
         "day": "Tue",
         "date": "2026-07-07",
-        "time": "9pm",
+        "time": "9pm–2am",
         "area": "SF",
         "venue": "F8",
         "address": "1192 Folsom St, San Francisco, CA 94103",
-        "why": "Midweek darkwave refuge in the shadows — EBM and goth for $5 on a Tuesday",
-        "summary": "Interzone Darkwave Tuesdays with Erinyes & Byter at F8 on Folsom, 9pm, $5. An intimate weekly club night mixing darkwave, EBM, and goth electronics.",
+        "why": "Free before 10:30pm, $5 after — a weekly goth/EBM refuge on an otherwise quiet Tuesday",
+        "summary": "Interzone Darkwave Tuesdays returns to F8 on Folsom with DJs Hex and Impirium Crypt spinning darkwave, goth, EBM, industrial, witchhouse and dark techno, plus featured guest sets, 9pm–2am.",
         "price": "$5",
         "tags": [
           "darkwave",
           "goth",
-          "weekly"
+          "weekly",
+          "ebm",
+          "industrial"
         ],
         "sources": [
-          "https://ra.co/events/2456309"
+          "https://ra.co/events/2456309",
+          "http://www.feightsf.com/new-events/interzone-sf-free-darkwave-dance-party-july-7-2026"
         ],
         "tickets": [],
         "maps": {
@@ -3219,9 +3222,18 @@
         "id": "2026-07-06-music-interzone-darkwave-tuesdays-6ad60c",
         "eid": "interzone-darkwave-tuesdays-4f42",
         "start": "21:00",
-        "end": null,
-        "lineup": [],
-        "enriched": 0
+        "end": "02:00",
+        "lineup": [
+          {
+            "name": "Hex",
+            "instagram": null
+          },
+          {
+            "name": "Impirium Crypt",
+            "instagram": null
+          }
+        ],
+        "enriched": 1
       },
       {
         "track": "music",
