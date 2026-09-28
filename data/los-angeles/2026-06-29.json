@@ -2660,26 +2660,30 @@
         "name": "Independence Day 5K/10K/15K/Half Marathon",
         "day": "Sat",
         "date": "2026-07-04",
-        "time": "morning",
+        "time": "6:30am–3:15pm",
         "area": "Long Beach",
-        "venue": "Long Beach",
-        "address": "Long Beach, CA",
-        "why": "Most distance choices of any July 4th run here.",
-        "summary": "A Saturday morning July 4th race in Long Beach with 5K, 10K, 15K and half-marathon options, entry $45-80.",
-        "price": "$45–80",
+        "venue": "Long Beach path, Belmont Shore",
+        "address": "5400 E. Ocean Blvd, Long Beach, CA 90803",
+        "why": "Most distance choices of any July 4th run here, with a beachfront course and finisher medals.",
+        "summary": "A Better World Running's beach-path race in Belmont Shore, Long Beach, with 5K, 10K, 15K and half-marathon out-and-back loops, 7:30am start with bib pickup from 6:30am.",
+        "price": "$35–50",
         "tags": [
           "running",
           "5k",
           "10k",
           "half-marathon",
           "july-4th",
-          "road"
+          "road",
+          "15k",
+          "beach"
         ],
         "sources": [
-          "https://www.runguides.com/los-angeles/runs"
+          "https://www.runguides.com/los-angeles/runs",
+          "https://www.abetterworldrunning.com/independence-day-7-4-26-lb"
         ],
         "tickets": [
-          "https://www.runguides.com/los-angeles/runs"
+          "https://www.runguides.com/los-angeles/runs",
+          "https://www.abetterworldrunning.com/independence-day-7-4-26-lb"
         ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Long+Beach%2C+Long+Beach%2C+CA",
@@ -2697,9 +2701,10 @@
         },
         "coords_precise": true,
         "image_generated": false,
-        "start": null,
+        "start": "07:30",
         "end": null,
-        "enriched": 0
+        "enriched": 1,
+        "promoter": "A Better World Running"
       },
       {
         "track": "sports",
