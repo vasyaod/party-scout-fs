@@ -1451,20 +1451,22 @@
         "name": "Abstract: Los Angeles ft Neek, Dea Magna, Merimell",
         "day": "Fri",
         "date": "2026-07-03",
-        "time": "10pm",
-        "area": "Los Angeles",
+        "time": "10pm-4am",
+        "area": "DTLA",
         "venue": "1720",
         "address": "1720 E 16th St, Los Angeles, CA 90021",
-        "why": "Cheap warehouse hard techno on a Friday.",
-        "summary": "A Friday 10pm hard-techno warehouse party at 1720 in LA, 21+, tickets $19-26.",
-        "price": "$19–26",
+        "why": "Cheap warehouse hard techno on a Friday from the international Abstract brand.",
+        "summary": "A Friday 10pm-4am hard-techno warehouse party at 1720 in DTLA, presented by Orlove, 18+, tickets $19-26.",
+        "price": "$19-26",
         "tags": [
           "hard-techno",
           "warehouse",
-          "21+"
+          "21+",
+          "18+"
         ],
         "sources": [
-          "https://www.eventbrite.com/e/abstract-los-angeles-ft-neek-dea-magna-merimell-tickets-1989276473482"
+          "https://www.eventbrite.com/e/abstract-los-angeles-ft-neek-dea-magna-merimell-tickets-1989276473482",
+          "https://1720.la/event/abstract-la-ft-neek-dea-magna-merimell/1720/los-angeles-california/"
         ],
         "tickets": [
           "https://www.eventbrite.com/e/abstract-los-angeles-ft-neek-dea-magna-merimell-tickets-1989276473482"
@@ -1486,8 +1488,23 @@
         "coords_precise": true,
         "image_generated": false,
         "start": "22:00",
-        "end": null,
-        "enriched": 0
+        "end": "04:00",
+        "enriched": 1,
+        "promoter": "Orlove",
+        "lineup": [
+          {
+            "name": "Neek",
+            "instagram": null
+          },
+          {
+            "name": "Dea Magna",
+            "instagram": null
+          },
+          {
+            "name": "Merimell",
+            "instagram": null
+          }
+        ]
       },
       {
         "track": "music",
