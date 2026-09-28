@@ -2213,18 +2213,24 @@
         "area": "SF",
         "venue": "Club Six",
         "address": "60 6th St, San Francisco, CA 94103",
-        "why": "Late-night techno at Club Six, running to 4am — for the crowd that shows up after midnight",
-        "summary": "Knick at Club Six SF, Saturday July 11, 10pm–4am, $30–60. Underground techno night in a small SoMa venue.",
+        "why": "Two-room underground techno with a strict dress-code/no-photo policy, in Club Six's basement space",
+        "summary": "KNICK returns to the basement at Club Six with a Berlin-meets-San-Francisco techno lineup across two rooms — Adra in the loft, Alec Fursman and Juana in the vault — Saturday July 11, 10pm–4am.",
         "price": "$30–60",
         "tags": [
           "techno",
-          "underground"
+          "underground",
+          "no-photo",
+          "dress-code"
         ],
         "sources": [
-          "https://knick.eventbrite.com/"
+          "https://knick.eventbrite.com/",
+          "https://knickparty.com/",
+          "https://www.eventbrite.com/e/knick-tickets-1988258632091",
+          "https://partiful.com/e/wT2TwnaA03ScNnbKNqUa"
         ],
         "tickets": [
-          "https://knick.eventbrite.com/"
+          "https://knick.eventbrite.com/",
+          "https://www.eventbrite.com/e/knick-tickets-1988258632091"
         ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Club+Six%2C+60+6th+St%2C+San+Francisco%2C+CA+94103",
@@ -2244,8 +2250,22 @@
         "eid": "knick-6df7",
         "start": "22:00",
         "end": "04:00",
-        "lineup": [],
-        "enriched": 0
+        "lineup": [
+          {
+            "name": "Adra",
+            "instagram": null
+          },
+          {
+            "name": "Alec Fursman",
+            "instagram": null
+          },
+          {
+            "name": "Juana",
+            "instagram": null
+          }
+        ],
+        "enriched": 1,
+        "promoter": "Knick"
       },
       {
         "track": "music",
