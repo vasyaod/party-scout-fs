@@ -1641,18 +1641,22 @@
         "end": "02:00",
         "area": "San Diego",
         "venue": "Office Bar North Park",
-        "address": "",
-        "why": "Free RSVP dance party with eclectic house music selections.",
-        "summary": "Dance Klassique takes place at Office Bar North Park in San Diego on July 15, 2026, from 9 PM to 2 AM. It's free with RSVP before 10 PM or $5 at the door, for ages 21+.",
-        "price": "$5",
+        "address": "3936 30th St, San Diego, CA 92104",
+        "why": "San Diego's longest-running weekly house night, going 25+ years strong.",
+        "summary": "Dance Klassique is San Diego's longest-running local weekly house music night, held every Wednesday at Office Bar in North Park, 9pm-2am, free entry before 10pm and $5 cover after, 21+.",
+        "price": "Free before 10pm, $5 after",
         "tags": [
           "21+",
           "house",
-          "outdoor"
+          "outdoor",
+          "weekly",
+          "free-before-10"
         ],
         "lineup": [],
         "sources": [
-          "https://www.facebook.com/danceklassique/events/"
+          "https://www.facebook.com/danceklassique/events/",
+          "https://www.housefiremag.com/event/dance-klassique-weekly/2026-07-15/",
+          "https://danceklassique.com/"
         ],
         "tickets": [],
         "maps": {
@@ -1671,7 +1675,8 @@
         "popularity": 4,
         "id": "2026-07-13-music-dance-klassique-2044a3",
         "eid": "dance-klassique-bc76",
-        "enriched": 0
+        "enriched": 1,
+        "promoter": "Dance Klassique"
       },
       {
         "track": "music",
