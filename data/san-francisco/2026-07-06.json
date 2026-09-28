@@ -3559,16 +3559,19 @@
         "area": "Palo Alto",
         "venue": "Byers Eye Institute at Stanford",
         "address": "2452 Watson Ct, Palo Alto, CA 94303",
-        "why": "Charity eye-health 5K at Stanford's Byers Eye Institute campus — flat, organized, well-supported",
-        "summary": "Lookin' for a Cure 5K at Byers Eye Institute at Stanford, Palo Alto, Saturday July 11, 7am, $30. Charity trail run benefiting eye disease research.",
+        "why": "Fifth annual charity 5K at Stanford's Byers Eye Institute, funding the Ocular Oncology Program",
+        "summary": "Fifth annual Lookin' for a Cure 5K walk/run at Byers Eye Institute at Stanford, Palo Alto, Saturday July 11, 7am-12pm. Organized by A Cure in Sight to raise awareness and funds for ocular melanoma research and games for all ages.",
         "price": "$30",
         "tags": [
           "5k",
           "charity",
-          "trail-run"
+          "trail-run",
+          "family-friendly"
         ],
         "sources": [
-          "https://runsignup.com/Race/CA/PaloAlto/LookinforaCure"
+          "https://runsignup.com/Race/CA/PaloAlto/LookinforaCure",
+          "https://med.stanford.edu/ophthalmology/about/events-calendar/2026Lookinforacure.html",
+          "https://acureinsight.org/event/lookin-for-a-cure-5k-races-palo-alto-ca/"
         ],
         "tickets": [
           "https://runsignup.com/Race/CA/PaloAlto/LookinforaCure"
@@ -3590,9 +3593,10 @@
         "id": "2026-07-06-sports-lookin-for-a-cure-5k-8291b7",
         "eid": "lookin-for-a-cure-5k-9303",
         "start": "07:00",
-        "end": null,
+        "end": "12:00",
         "lineup": [],
-        "enriched": 0
+        "enriched": 1,
+        "promoter": "A Cure in Sight"
       },
       {
         "track": "sports",
