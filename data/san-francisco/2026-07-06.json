@@ -2173,12 +2173,13 @@
         "venue": "Madrone Art Bar",
         "address": "500 Divisadero St, San Francisco, CA 94117",
         "why": "Free Wednesday residents set of italo-disco and acid house — good room, good records, no cover",
-        "summary": "Second-Wednesday residency with residents Mo'Ski and Nino MSK spinning italo-disco and acid house at Madrone Art Bar, 9:30pm, free admission.",
+        "summary": "Second-Wednesday residency with hosts Nino MSK and Mo'Ski spinning vinyl italo-disco, funk and house at Madrone Art Bar, 9:30pm, no cover.",
         "price": "Free",
         "tags": [
           "italo-disco",
           "acid-house",
-          "free"
+          "free",
+          "vinyl"
         ],
         "sources": [
           "https://ra.co/events/2476779"
@@ -2207,8 +2208,18 @@
         "eid": "italo-frisco-d3fa",
         "start": "21:30",
         "end": null,
-        "lineup": [],
-        "enriched": 0
+        "lineup": [
+          {
+            "name": "Nino MSK",
+            "instagram": "ninomsk"
+          },
+          {
+            "name": "Mo'Ski",
+            "instagram": null
+          }
+        ],
+        "enriched": 1,
+        "promoter": "Italo Frisco"
       },
       {
         "track": "music",
