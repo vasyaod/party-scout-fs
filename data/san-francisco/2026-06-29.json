@@ -1311,9 +1311,13 @@
           "grime"
         ],
         "sources": [
+          "https://ra.co/events/2434373",
+          "https://www.eventbrite.com/e/champion-uk-bay-area-debut-tickets-1988458556069"
+        ],
+        "tickets": [
+          "https://www.eventbrite.com/e/champion-uk-bay-area-debut-tickets-1988458556069",
           "https://ra.co/events/2434373"
         ],
-        "tickets": [],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Space+550%2C+550+Barneveld+Ave%2C+San+Francisco%2C+CA+94124",
           "apple": "https://maps.apple.com/?q=Space+550%2C+550+Barneveld+Ave%2C+San+Francisco%2C+CA+94124"
@@ -1337,7 +1341,22 @@
         "eid": "champion-uk-bay-area-debut-62e8",
         "start": "22:00",
         "end": null,
-        "enriched": 0
+        "enriched": 1,
+        "promoter": "15Utah",
+        "lineup": [
+          {
+            "name": "Champion",
+            "instagram": null
+          },
+          {
+            "name": "Nightware",
+            "instagram": null
+          },
+          {
+            "name": "Kaytree",
+            "instagram": null
+          }
+        ]
       },
       {
         "track": "music",
