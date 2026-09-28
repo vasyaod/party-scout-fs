@@ -3392,18 +3392,21 @@
         "day": "Thu",
         "date": "2026-07-09",
         "time": "9pm",
-        "area": "SF",
+        "area": "Marina",
         "venue": "White Rabbit",
-        "address": "",
+        "address": "3138 Fillmore St, San Francisco, CA 94123",
         "why": "Free Thursday deep-house night at an intimate SF venue — no cover, local selectors only",
         "summary": "Inner Circle presents Matt Jereza and Marky Method playing deep house at White Rabbit in SF, Thursday July 9, 9pm, free admission.",
         "price": "Free",
         "tags": [
           "house",
-          "deep-house"
+          "deep-house",
+          "free",
+          "residency"
         ],
         "sources": [
-          "https://www.eventbrite.com/e/inner-circle-ft-matt-jereza-marky-method-tickets-1992182164482"
+          "https://www.eventbrite.com/e/inner-circle-ft-matt-jereza-marky-method-tickets-1992182164482",
+          "https://ra.co/events/2478785"
         ],
         "tickets": [
           "https://www.eventbrite.com/e/inner-circle-ft-matt-jereza-marky-method-tickets-1992182164482"
@@ -3426,8 +3429,18 @@
         "eid": "inner-circle-ft-matt-jereza-e974",
         "start": "21:00",
         "end": null,
-        "lineup": [],
-        "enriched": 0
+        "lineup": [
+          {
+            "name": "Matt Jereza",
+            "instagram": "mattjereza"
+          },
+          {
+            "name": "Marky Method",
+            "instagram": null
+          }
+        ],
+        "enriched": 1,
+        "promoter": "Inner Circle"
       },
       {
         "track": "music",
