@@ -1352,15 +1352,33 @@
         "end": "02:00",
         "area": "San Diego",
         "venue": "Eq",
-        "address": "",
-        "why": "A vibrant party atmosphere with an eclectic lineup in a trendy venue.",
-        "summary": "Baile F**K featuring B.Joyce, MARCHANTE, and Luis Alejandro will be held on July 12, 2026, from 9 PM to 2 AM at Eq in San Diego. Tickets are $10.",
+        "address": "1271 University Ave, San Diego, CA",
+        "why": "A Brazilian dance music showcase built around music discovery, not just another house night.",
+        "summary": "The second installment of Baile F**k lands at EQ in San Diego on July 12, 2026, a celebration of Brazilian dance music featuring Luis Alejandro, B.Joyce, and Krissy Marchante.",
         "price": "$10",
-        "tags": [],
-        "lineup": [],
+        "tags": [
+          "house",
+          "brazilian funk",
+          "dance"
+        ],
+        "lineup": [
+          {
+            "name": "Luis Alejandro",
+            "instagram": null
+          },
+          {
+            "name": "B.Joyce",
+            "instagram": null
+          },
+          {
+            "name": "Krissy Marchante",
+            "instagram": null
+          }
+        ],
         "sources": [
           "https://ra.co/events/2467822",
-          "https://linktr.ee/overdrive.hq"
+          "https://linktr.ee/overdrive.hq",
+          "https://ma.to/event/baile-fk-12-jul-2026"
         ],
         "tickets": [
           "https://ra.co/events/2467822"
@@ -1386,7 +1404,8 @@
         "popularity": 6,
         "id": "2026-07-06-music-baile-f-k-b-joyce-marchante-luis-a6e756",
         "eid": "baile-f-k-b-joyce-marchante-2346",
-        "enriched": 0
+        "enriched": 1,
+        "promoter": "EQ"
       },
       {
         "track": "music",
