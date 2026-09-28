@@ -917,24 +917,27 @@
       },
       {
         "track": "music",
-        "category": "House",
+        "category": "UK Garage",
         "name": "Bushbaby",
         "day": "Thu",
         "date": "2026-07-09",
-        "time": "9pm",
+        "time": "9pm-2am",
         "area": "SF",
         "venue": "1015 Folsom",
         "address": "1015 Folsom St, San Francisco, CA 94103",
         "why": "Garage-house imports to 1015's main floor on a Thursday — overseas selector in a club-size room",
-        "summary": "Bushbaby plays garage and house at 1015 Folsom on Thursday July 9, 9pm, $26. A club-focused night on the main floor of one of SF's largest clubs.",
+        "summary": "Bushbaby plays UK garage and bassline alongside BIIANCO at 1015 Folsom on Thursday July 9, 9pm-2am, $26, with support from Bounce SF's ELA MENTAL, R4W, and messiuhhh.",
         "price": "$26",
         "tags": [
           "garage",
-          "house"
+          "house",
+          "bassline",
+          "uk-garage"
         ],
         "sources": [
           "https://wl.eventim.us/event/bushbaby/689775?afflky=1015Folsom",
-          "https://1015.com/"
+          "https://1015.com/",
+          "https://ma.to/event/biianco-bushbaby-09-jul-2026"
         ],
         "tickets": [
           "https://wl.eventim.us/event/bushbaby/689775?afflky=1015Folsom"
@@ -956,9 +959,31 @@
         "id": "2026-07-06-music-bushbaby-efea82",
         "eid": "bushbaby-4698",
         "start": "21:00",
-        "end": null,
-        "lineup": [],
-        "enriched": 0
+        "end": "02:00",
+        "lineup": [
+          {
+            "name": "Bushbaby",
+            "instagram": null
+          },
+          {
+            "name": "BIIANCO",
+            "instagram": null
+          },
+          {
+            "name": "ELA MENTAL",
+            "instagram": null
+          },
+          {
+            "name": "R4W",
+            "instagram": null
+          },
+          {
+            "name": "messiuhhh",
+            "instagram": null
+          }
+        ],
+        "enriched": 1,
+        "promoter": "1015 Folsom"
       },
       {
         "track": "music",
