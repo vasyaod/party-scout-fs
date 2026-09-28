@@ -3714,9 +3714,9 @@
         "time": "8am",
         "area": "SF",
         "venue": "Golden Gate Park (Blue Heron Lake)",
-        "address": "Golden Gate Park, San Francisco, CA",
-        "why": "USATF-certified Golden Gate Park 5K on the Fourth — flat, scenic, and properly timed with a race bib",
-        "summary": "The Blue Heron 5K on Saturday July 4 at 8am at Blue Heron Lake in Golden Gate Park (SF); a USATF-certified road race through the park on Independence Day; $50.",
+        "address": "JFK Dr @ Peacock Meadow, Golden Gate Park, San Francisco, CA",
+        "why": "USATF-certified Golden Gate Park 5K on the Fourth, part of the Pacific Association Grand Prix with an elite field — flat, scenic, and properly timed with a race bib",
+        "summary": "The Blue Heron 5K on Saturday July 4 at 8am, starting at JFK Dr @ Peacock Meadow in Golden Gate Park (SF); a USATF-certified road race around Blue Heron Lake hosted by Excelsior Running Club, part of the Pacific Association Road Grand Prix, with an elite field and prize money; $50.",
         "price": "$50",
         "tags": [
           "5k",
@@ -3728,7 +3728,8 @@
           "https://www.movemint.cc/events/blue_heron_5k_2026"
         ],
         "tickets": [
-          "https://www.movemint.cc/events/blue_heron_5k_2026"
+          "https://www.movemint.cc/events/blue_heron_5k_2026",
+          "https://www.movemint.cc/events/blue_heron_5k_2026/register"
         ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Golden+Gate+Park+%28Blue+Heron+Lake%29%2C+Golden+Gate+Park%2C+San+Francisco%2C+CA",
@@ -3748,7 +3749,8 @@
         "eid": "blue-heron-5k-c770",
         "start": "08:00",
         "end": null,
-        "enriched": 0
+        "enriched": 1,
+        "promoter": "Excelsior Running Club"
       },
       {
         "track": "sports",
