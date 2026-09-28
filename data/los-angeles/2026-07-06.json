@@ -2599,24 +2599,28 @@
         "name": "Beltran",
         "day": "Sun",
         "date": "2026-07-12",
-        "time": "5pm",
+        "time": "5pm-11pm",
         "start": "17:00",
-        "end": null,
-        "area": "Los Angeles",
+        "end": "23:00",
+        "area": "DTLA",
         "venue": "1756 Naud Street",
-        "address": "",
-        "why": "An exclusive tech house event at a private venue.",
-        "summary": "Beltran will perform on July 12, 2026, at 5 PM at 1756 Naud Street in Los Angeles. Tickets are priced at $66 for ages 21 and over.",
+        "address": "1756 Naud St, Los Angeles, CA 90012",
+        "why": "Factory 93's warehouse series added this Sunday date after the original July 11 show sold out.",
+        "summary": "Factory 93 presents Beltran open-to-close on Sunday, July 12, 2026 at their 1756 Naud St warehouse in DTLA, 5-11pm, 21+ — a second date added after the July 11 show sold out.",
         "price": "$66",
         "tags": [
           "21+",
           "house",
-          "tech-house"
+          "tech-house",
+          "factory-93",
+          "warehouse"
         ],
         "lineup": [],
         "sources": [
           "https://edmtrain.com/los-angeles-ca/factory-93-presents-beltran-488497?get=tickets",
-          "https://factory93.frontgatetickets.com/event/bfhobjn83i31misf"
+          "https://factory93.frontgatetickets.com/event/bfhobjn83i31misf",
+          "https://www.thefactory93.com/event/beltran-open-to-close-2026-07-12-los-angeles-ca/",
+          "https://www.insomniac.com/events/beltran-open-to-close-2026-07-12-los-angeles-ca/"
         ],
         "tickets": [
           "https://factory93.frontgatetickets.com/event/bfhobjn83i31misf"
@@ -2637,7 +2641,8 @@
         "popularity": 4,
         "id": "2026-07-06-music-beltran-85df78",
         "eid": "beltran-3bc0",
-        "enriched": 0
+        "enriched": 1,
+        "promoter": "Factory 93"
       },
       {
         "track": "music",
