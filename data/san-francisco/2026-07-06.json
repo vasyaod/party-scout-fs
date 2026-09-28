@@ -388,7 +388,7 @@
         "venue": "The Midway",
         "address": "900 Marin St, San Francisco, CA 94124",
         "why": "Dancing session not just listening — Envelop's interactive spatial-audio format for an IDM classic",
-        "summary": "Envelop SF presents an immersive spatial-audio dancing session with Four Tet's There Is Love In You at The Midway, two showings at 2:30pm and 4:30pm on Sunday July 12.",
+        "summary": "Envelop SF presents an immersive 32-speaker spatial-audio dancing session with Four Tet's There Is Love In You at The Midway, two showings at 2:30pm and 4:30pm on Sunday July 12.",
         "price": "",
         "tags": [
           "immersive",
@@ -396,10 +396,12 @@
           "dancing"
         ],
         "sources": [
-          "https://www.eventbrite.com/e/four-tet-there-is-love-in-you-dance-envelop-sf-230pm-tickets-1992462010509"
+          "https://www.eventbrite.com/e/four-tet-there-is-love-in-you-dance-envelop-sf-230pm-tickets-1992462010509",
+          "https://www.eventbrite.com/e/four-tet-there-is-love-in-you-dance-envelop-sf-430pm-tickets-1992462044611"
         ],
         "tickets": [
-          "https://www.eventbrite.com/e/four-tet-there-is-love-in-you-dance-envelop-sf-230pm-tickets-1992462010509"
+          "https://www.eventbrite.com/e/four-tet-there-is-love-in-you-dance-envelop-sf-230pm-tickets-1992462010509",
+          "https://www.eventbrite.com/e/four-tet-there-is-love-in-you-dance-envelop-sf-430pm-tickets-1992462044611"
         ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=The+Midway%2C+900+Marin+St%2C+San+Francisco%2C+CA+94124",
@@ -417,10 +419,11 @@
         "popularity": 6,
         "id": "2026-07-06-music-four-tet-there-is-love-in-you-en-da9cea",
         "eid": "four-tet-there-is-love-in-yo-08af",
-        "start": "16:30",
-        "end": null,
+        "start": "14:30",
+        "end": "17:45",
         "lineup": [],
-        "enriched": 0
+        "enriched": 1,
+        "promoter": "Envelop"
       },
       {
         "track": "music",
