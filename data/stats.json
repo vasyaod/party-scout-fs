@@ -1,12 +1,12 @@
 {
   "kind": "stats",
-  "generated_at": "2026-09-28T08:27:36+00:00",
+  "generated_at": "2026-09-28T08:28:06+00:00",
   "weights_version": "v1",
   "total": {
     "n": 3065,
     "median": 0.8654,
     "p25": 0.7321,
-    "pct_ge_075": 0.7374,
+    "pct_ge_075": 0.7377,
     "invalid": 28,
     "tba_rate": 0.0946,
     "by_field_fixable": {
@@ -18,7 +18,7 @@
       "time": 705,
       "why": 602,
       "category": 561,
-      "address": 549,
+      "address": 548,
       "summary": 545,
       "tags": 514,
       "sources": 467,
@@ -38,7 +38,7 @@
         "n": 1307,
         "median": 0.8727,
         "p25": 0.7273,
-        "pct_ge_075": 0.7345,
+        "pct_ge_075": 0.7353,
         "invalid": 5,
         "tba_rate": 0.166,
         "by_field_fixable": {
@@ -53,7 +53,7 @@
           "tags": 232,
           "summary": 231,
           "sources": 227,
-          "address": 223,
+          "address": 222,
           "venue": 22,
           "maps": 11
         },
@@ -1639,13 +1639,13 @@
             "n": 115,
             "median": 0.966,
             "p25": 0.8963,
-            "pct_ge_075": 0.9739,
+            "pct_ge_075": 0.9826,
             "invalid": 0,
             "tba_rate": 0.1391,
             "by_field_fixable": {
               "image": 102,
               "coords": 30,
-              "address": 26,
+              "address": 25,
               "tickets": 16,
               "price": 7,
               "tags": 2,
@@ -1694,7 +1694,7 @@
               "n": 17,
               "median": 0.8963,
               "p25": 0.8655,
-              "pct_ge_075": 0.8824,
+              "pct_ge_075": 0.9412,
               "invalid": 0,
               "tba_rate": 0.0,
               "weights_version": "v1"
