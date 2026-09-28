@@ -493,11 +493,11 @@
         "time": "3pm-9pm",
         "start": "15:00",
         "end": "21:00",
-        "area": "Los Angeles",
+        "area": "DTLA",
         "venue": "Somewhere Special",
-        "address": "",
-        "why": "A serene rooftop day party showcasing deep progressive house tunes.",
-        "summary": "Hypersleep takes place at Somewhere Special in Los Angeles on July 11, 2026, from 3 PM to 9 PM. Admission is free, 21+.",
+        "address": "929 S Broadway, Los Angeles, CA 90015",
+        "why": "A rooftop day party built around deep, hypnotic progressive house rather than peak-time bangers.",
+        "summary": "Hypersleep, tenSpeed's progressive house day party series, takes over the Somewhere Special rooftop atop the former Ace Hotel (now STILE DTLA) with Dastan and Rongeth Guzman for an afternoon of deep, melodic progressive house.",
         "price": "Free",
         "tags": [
           "21+",
@@ -507,7 +507,20 @@
           "progressive-house",
           "rooftop"
         ],
-        "lineup": [],
+        "lineup": [
+          {
+            "name": "tenSpeed",
+            "instagram": null
+          },
+          {
+            "name": "Dastan",
+            "instagram": null
+          },
+          {
+            "name": "Rongeth Guzman",
+            "instagram": null
+          }
+        ],
         "sources": [
           "https://ra.co/events/2468903"
         ],
@@ -535,7 +548,8 @@
         "popularity": 8,
         "id": "2026-07-06-music-hypersleep-a-deep-progressive-ro-bd3756",
         "eid": "hypersleep-a-deep-progressiv-33eb",
-        "enriched": 0
+        "enriched": 1,
+        "promoter": "Hypersleep"
       },
       {
         "track": "music",
