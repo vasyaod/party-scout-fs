@@ -2628,13 +2628,23 @@
         "start": "20:00",
         "end": "04:00",
         "area": "Santa Ana",
-        "venue": "2222 West 2Nd Street",
+        "venue": "True HQ",
         "address": "",
         "why": "A nostalgic party inspired by the classic film 'The Roxbury'.",
         "summary": "A Night at The Roxbury featuring Pineo & Loeb will take place on July 11, 2026, from 8 PM to 4 AM at 2222 West 2nd Street in Santa Ana. Tickets are priced at $11.",
         "price": "$11",
-        "tags": [],
-        "lineup": [],
+        "tags": [
+          "house",
+          "electro",
+          "bass",
+          "after-hours"
+        ],
+        "lineup": [
+          {
+            "name": "Pineo & Loeb",
+            "instagram": null
+          }
+        ],
         "sources": [
           "https://shotgun.live/en/events/a-night-at-the-roxbury-ft-pineo-loeb"
         ],
@@ -2657,7 +2667,7 @@
         "popularity": 4,
         "id": "2026-07-06-music-a-night-at-the-roxbury-ft-pineo-84c8df",
         "eid": "a-night-at-the-roxbury-ft-pi-f1f7",
-        "enriched": 0
+        "enriched": 1
       },
       {
         "track": "music",
