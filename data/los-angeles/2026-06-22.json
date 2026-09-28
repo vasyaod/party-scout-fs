@@ -2730,25 +2730,29 @@
         "name": "Alien Run (5K/10K/10M/Half)",
         "day": "Sun",
         "date": "2026-06-28",
-        "time": "morning",
+        "time": "7am (Half/10M) & 7:30am (5K/10K)",
         "area": "Long Beach",
         "venue": "Long Beach",
-        "address": "Long Beach, CA",
-        "why": "Pick your distance up to a half, the flexible long-run option.",
-        "summary": "A Sunday-morning road race in Long Beach offering 5K, 10K, 10-mile and half-marathon distances across a single themed event.",
+        "address": "780 E Shoreline Dr, Long Beach, CA 90802",
+        "why": "Cosmic-themed beach race with four distances up to a half, so pace is yours to pick.",
+        "summary": "A cosmic/alien-themed Sunday-morning road race along Alamitos Beach in Long Beach, with 5K, 10K, 10-mile and half-marathon distances starting between 7 and 7:30am.",
         "price": "$45–90",
         "tags": [
           "running",
           "5k",
           "10k",
           "half-marathon",
-          "road"
+          "road",
+          "beach",
+          "themed"
         ],
         "sources": [
-          "https://www.runguides.com/los-angeles/runs"
+          "https://www.runguides.com/los-angeles/runs",
+          "https://runsignup.com/Race/CA/LongBeach/AlienRun5K10K15KandHalfMarathon"
         ],
         "tickets": [
-          "https://www.runguides.com/los-angeles/runs"
+          "https://www.runguides.com/los-angeles/runs",
+          "https://runsignup.com/Race/CA/LongBeach/AlienRun5K10K15KandHalfMarathon"
         ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Long+Beach%2C+Long+Beach%2C+CA",
@@ -2764,11 +2768,12 @@
           "lat": 33.781771,
           "lon": -118.1152
         },
-        "start": null,
-        "end": null,
+        "start": "07:00",
+        "end": "10:20",
         "coords_precise": false,
         "image_generated": false,
-        "enriched": 0
+        "enriched": 1,
+        "promoter": "High Tide Runs"
       },
       {
         "track": "sports",
