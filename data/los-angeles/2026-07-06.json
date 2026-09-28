@@ -201,9 +201,9 @@
         "time": "2pm-11:59pm",
         "start": "14:00",
         "end": "23:59",
-        "area": "DTLA/Los Angeles",
+        "area": "DTLA",
         "venue": "TBA",
-        "address": "",
+        "address": "2346 Porter Street, Los Angeles, CA 90021",
         "why": "A collaborative house music event featuring renowned DJ Louie Vega.",
         "summary": "Certified Groovers X Sneak's Beats presents Louie Vega at a TBA location in DTLA/Los Angeles on July 11, 2026, from 2 PM to midnight. Tickets are $40, 21+.",
         "price": "$40",
@@ -212,9 +212,31 @@
           "future-beats",
           "house"
         ],
-        "lineup": [],
+        "lineup": [
+          {
+            "name": "Louie Vega",
+            "instagram": null
+          },
+          {
+            "name": "Karizma",
+            "instagram": null
+          },
+          {
+            "name": "DJ Sneak",
+            "instagram": null
+          },
+          {
+            "name": "Heidi Lawden",
+            "instagram": null
+          },
+          {
+            "name": "Juliet Mendoza",
+            "instagram": null
+          }
+        ],
         "sources": [
-          "https://ra.co/events/2402790"
+          "https://ra.co/events/2402790",
+          "https://somo.social/en/e/certified-groovers-x-sneaks-711"
         ],
         "tickets": [
           "https://ra.co/events/2402790"
@@ -240,7 +262,8 @@
         "popularity": 9,
         "id": "2026-07-06-music-certified-groovers-x-sneak-s-bea-7809d0",
         "eid": "certified-groovers-x-sneak-s-1cab",
-        "enriched": 0
+        "enriched": 1,
+        "promoter": "Certified Groovers x Sneak's Beats"
       },
       {
         "track": "music",

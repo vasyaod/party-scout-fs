@@ -3610,10 +3610,13 @@
           "swim-bike-run"
         ],
         "sources": [
-          "https://totalbodyfitness.com/site/race/tri-for-fun-1-2026/"
+          "https://totalbodyfitness.com/site/race/tri-for-fun-1-2026/",
+          "https://totalbodyfitness.com/site/race/tri-for-fun-2-2026/",
+          "https://www.active.com/herald-ca/triathlon/tri-for-fun-triathlon-2-2026"
         ],
         "tickets": [
-          "https://totalbodyfitness.com/site/race/tri-for-fun-1-2026/"
+          "https://totalbodyfitness.com/site/race/tri-for-fun-1-2026/",
+          "https://www.active.com/herald-ca/triathlon/tri-for-fun-triathlon-2-2026"
         ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Rancho+Seco+Park%2C+14440+Twin+Cities+Blvd%2C+Herald%2C+CA+95638",
@@ -3634,7 +3637,8 @@
         "start": "08:00",
         "end": null,
         "lineup": [],
-        "enriched": 0
+        "enriched": 1,
+        "promoter": "TBF Racing"
       },
       {
         "track": "sports",
