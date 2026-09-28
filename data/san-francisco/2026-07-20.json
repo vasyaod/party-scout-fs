@@ -5501,12 +5501,12 @@
         "time": "9pm–2am",
         "start": "21:00",
         "end": "02:00",
-        "area": "SF",
+        "area": "SoMa",
         "venue": "Monarch - Upstairs Lounge",
         "address": "101 6th St, San Francisco, CA 94103",
         "why": "Free RSVP entry into Monarch's smaller upstairs lounge room, no cover for a normally paid venue",
         "summary": "Mr. Matias and Mike Bee play the Upstairs Lounge at Monarch in San Francisco's SoMa, Friday July 24 from 9pm-2am. Free with RSVP.",
-        "promoter": "",
+        "promoter": "Monarch",
         "price": "Free (RSVP)",
         "tags": [
           "house",
@@ -5514,7 +5514,16 @@
           "lounge",
           "soma"
         ],
-        "lineup": [],
+        "lineup": [
+          {
+            "name": "Mr. Matias",
+            "instagram": null
+          },
+          {
+            "name": "Mike Bee",
+            "instagram": null
+          }
+        ],
         "sources": [
           "https://www.eventbrite.com/e/mr-matias-and-mike-bee-in-the-lounge-tickets-1994489074512"
         ],
@@ -5537,7 +5546,7 @@
         "popularity": 3,
         "id": "2026-07-20-music-mr-matias-and-mike-bee-be110f",
         "eid": "mr-matias-and-mike-bee-ea34",
-        "enriched": 0
+        "enriched": 1
       },
       {
         "track": "music",
