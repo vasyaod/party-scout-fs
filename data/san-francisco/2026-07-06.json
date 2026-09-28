@@ -261,7 +261,8 @@
           "free"
         ],
         "sources": [
-          "https://www.sterngrove.org/lineup2026"
+          "https://www.sterngrove.org/lineup2026",
+          "https://www.sterngrove.org/sfsymphony-belafleck"
         ],
         "tickets": [],
         "maps": {
@@ -282,8 +283,22 @@
         "eid": "stern-grove-festival-sf-symp-a9be",
         "start": "14:00",
         "end": null,
-        "lineup": [],
-        "enriched": 0
+        "lineup": [
+          {
+            "name": "San Francisco Symphony",
+            "instagram": null
+          },
+          {
+            "name": "Edwin Outwater",
+            "instagram": null
+          },
+          {
+            "name": "Béla Fleck",
+            "instagram": null
+          }
+        ],
+        "enriched": 1,
+        "promoter": "Stern Grove Festival"
       },
       {
         "track": "music",
