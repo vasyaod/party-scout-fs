@@ -2834,7 +2834,7 @@
         "day": "Fri",
         "date": "2026-07-10",
         "time": "7:30pm–2am",
-        "area": "SF",
+        "area": "SoMa",
         "venue": "Audio",
         "address": "316 11th St, San Francisco, CA 94103",
         "why": "Hip-hop debut at Audio SF — a new face in the rap scene making their mark at a known club",
@@ -2846,9 +2846,12 @@
           "rap"
         ],
         "sources": [
-          "https://ra.co/events/2431378"
+          "https://ra.co/events/2431378",
+          "https://www.audiosf.com/event/lostboyjay-07-10/"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://www.audiosf.com/event/lostboyjay-07-10/"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Audio%2C+316+11th+St%2C+San+Francisco%2C+CA+94103",
           "apple": "https://maps.apple.com/?q=Audio%2C+316+11th+St%2C+San+Francisco%2C+CA+94103"
@@ -2872,8 +2875,18 @@
         "eid": "lostboyjay-b8b3",
         "start": "19:30",
         "end": "02:00",
-        "lineup": [],
-        "enriched": 0
+        "lineup": [
+          {
+            "name": "Lostboyjay",
+            "instagram": null
+          },
+          {
+            "name": "Emilio",
+            "instagram": null
+          }
+        ],
+        "enriched": 1,
+        "promoter": "Audio SF"
       },
       {
         "track": "music",
