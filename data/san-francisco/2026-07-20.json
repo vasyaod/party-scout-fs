@@ -1859,7 +1859,7 @@
         "address": "101 6th St, San Francisco, CA 94103",
         "why": "Four-year anniversary party in Monarch's main room, built as a bigger celebration than a standard weekly",
         "summary": "Planet Synth celebrates its 4th anniversary featuring Facets at Monarch's main room in San Francisco, Friday July 24 from 9pm-2am. Tickets $14.40-25.45.",
-        "promoter": "",
+        "promoter": "Planet Synth",
         "price": "$14.40–25.45",
         "tags": [
           "house",
@@ -1867,12 +1867,19 @@
           "main-room",
           "soma"
         ],
-        "lineup": [],
+        "lineup": [
+          {
+            "name": "Facets",
+            "instagram": null
+          }
+        ],
         "sources": [
-          "https://ra.co/events/2484677"
+          "https://ra.co/events/2484677",
+          "https://www.eventbrite.com/e/planet-synth-4th-anniversary-ft-facets-tickets-1993462304415"
         ],
         "tickets": [
-          "https://ra.co/events/2484677"
+          "https://ra.co/events/2484677",
+          "https://www.eventbrite.com/e/planet-synth-4th-anniversary-ft-facets-tickets-1993462304415"
         ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Monarch%2C+101+6th+St%2C+San+Francisco%2C+CA+94103",
@@ -1895,7 +1902,7 @@
         "popularity": 5,
         "id": "2026-07-20-music-planet-synth-4th-anniversary-fea-29e938",
         "eid": "planet-synth-4th-anniversary-a766",
-        "enriched": 0
+        "enriched": 1
       },
       {
         "track": "music",
