@@ -2798,12 +2798,12 @@
         "name": "July 4th Run 5K/10K/13.1 - Santa Monica",
         "day": "Sat",
         "date": "2026-07-04",
-        "time": "morning",
+        "time": "7:30am–10:30am",
         "area": "Santa Monica",
         "venue": "Santa Monica",
         "address": "Santa Monica, CA 90401",
-        "why": "Pick your distance for a beachside holiday run.",
-        "summary": "A Saturday morning July 4th race in Santa Monica offering 5K, 10K and half-marathon distances near the beach, entry $45-80.",
+        "why": "Pick your distance (5K to half-marathon) for a beachside July 4th race with a family fun run option.",
+        "summary": "A Saturday morning Independence Day race series at Palisades Park in Santa Monica, with staggered waves from 7:30-8:30am covering 5K, 10K and 13.1-mile distances plus a 1-mile family fun run, timed and untimed options, and a swag package with shirt, medal and finisher's towel.",
         "price": "$45–80",
         "tags": [
           "running",
@@ -2812,13 +2812,17 @@
           "half-marathon",
           "july-4th",
           "beach",
-          "road"
+          "road",
+          "family-fun-run"
         ],
         "sources": [
-          "https://www.runguides.com/los-angeles/runs"
+          "https://www.runguides.com/los-angeles/runs",
+          "https://runsignup.com/Race/CA/LosAngeles/JulyThRun5K10KLOSANGELES",
+          "https://www.runguides.com/event/34178/july-4th-run-5k-10k-131-los-angeles"
         ],
         "tickets": [
-          "https://www.runguides.com/los-angeles/runs"
+          "https://www.runguides.com/los-angeles/runs",
+          "https://runsignup.com/Race/CA/LosAngeles/JulyThRun5K10KLOSANGELES"
         ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Santa+Monica%2C+Santa+Monica%2C+CA+90401",
@@ -2836,9 +2840,10 @@
         },
         "coords_precise": true,
         "image_generated": false,
-        "start": null,
-        "end": null,
-        "enriched": 0
+        "start": "07:30",
+        "end": "10:30",
+        "enriched": 1,
+        "promoter": "The Best Races"
       },
       {
         "track": "sports",
