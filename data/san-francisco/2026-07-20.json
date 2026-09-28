@@ -6309,8 +6309,8 @@
         "area": "Marin",
         "venue": "Marin County Fairgrounds (Lagoon Island)",
         "address": "10 Avenue of the Flags, San Rafael, CA 94903",
-        "why": "Free outdoor neon roller rink from SF's Church of 8 Wheels, runs Fri–Sun",
-        "summary": "Marin Center and Church of 8 Wheels turn Lagoon Island at the Marin County Fairgrounds into a free outdoor roller disco, open through mid-August; this Friday runs noon–10pm with $5 skate rentals, lawn games, and a giant inflatable skate.",
+        "why": "Free outdoor neon roller rink from SF's Church of 8 Wheels; this Friday is the Blacklight Bash",
+        "summary": "Marin Center and Church of 8 Wheels turn Lagoon Island at the Marin County Fairgrounds into a free outdoor roller disco through mid-August; Friday July 24 is a \"Blacklight Bash\" night, 12pm–10pm, hosted by D. Miles Jr with $5 skate rentals and no ticket needed.",
         "promoter": "Church of 8 Wheels / Marin Center",
         "price": "Free (skate rental $5)",
         "tags": [
@@ -6319,12 +6319,19 @@
           "free",
           "family",
           "summer",
-          "disco"
+          "disco",
+          "blacklight"
         ],
-        "lineup": [],
+        "lineup": [
+          {
+            "name": "D. Miles Jr",
+            "instagram": null
+          }
+        ],
         "sources": [
           "https://sf.funcheap.com/marin-roller-disco-daze-free-neon-outdoor-summer-roller-disco-july-24-26/",
-          "http://www.churchof8wheels.com/"
+          "http://www.churchof8wheels.com/",
+          "https://marincenter.marincounty.gov/node/306"
         ],
         "tickets": [],
         "maps": {
@@ -6343,7 +6350,7 @@
         "popularity": 4,
         "id": "2026-07-20-sports-marin-roller-disco-daze-8f2f1e",
         "eid": "marin-roller-disco-daze-0f87",
-        "enriched": 0
+        "enriched": 1
       },
       {
         "track": "sports",
