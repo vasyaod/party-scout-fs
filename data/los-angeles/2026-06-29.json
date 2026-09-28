@@ -1715,16 +1715,20 @@
         "time": "evening",
         "area": "Long Beach",
         "venue": "Falcon North",
-        "address": "Long Beach, CA",
-        "why": "Cheap neighborhood house south of the city.",
-        "summary": "A Friday evening house night at Falcon North in Long Beach, 21+, $17.",
+        "address": "2020 E Artesia Blvd, Long Beach, CA 90805",
+        "why": "Strip-down underwear party energy from an LA/San Diego/Miami queer nightlife brand, not just another house night.",
+        "summary": "A Friday-night underwear party at Falcon North in Long Beach from Hump Events, with low-light, bass-heavy sets and DJ Lord Izac on the decks.",
         "price": "$17",
         "tags": [
           "house",
-          "21+"
+          "21+",
+          "underwear",
+          "circuit",
+          "gay"
         ],
         "sources": [
-          "https://www.eventbrite.com/e/buff-party-long-beach-falcon-north-tickets-1986950298831"
+          "https://www.eventbrite.com/e/buff-party-long-beach-falcon-north-tickets-1986950298831",
+          "https://qlist.app/events/Long-Beach/BFF-Underwear-Party-Long-Beach-Debut-Falcon-North/14042"
         ],
         "tickets": [
           "https://www.eventbrite.com/e/buff-party-long-beach-falcon-north-tickets-1986950298831"
@@ -1745,9 +1749,16 @@
         },
         "coords_precise": true,
         "image_generated": false,
-        "start": null,
-        "end": null,
-        "enriched": 0
+        "start": "21:00",
+        "end": "02:00",
+        "enriched": 1,
+        "promoter": "Hump Events",
+        "lineup": [
+          {
+            "name": "Lord Izac",
+            "instagram": "lordizacdj"
+          }
+        ]
       },
       {
         "track": "music",
