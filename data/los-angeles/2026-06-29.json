@@ -170,7 +170,7 @@
         "address": "1245 N Spring St, Los Angeles, CA 90012",
         "why": "Daytime park rave for people who'd rather not lose the night.",
         "summary": "An afternoon outdoor festival Sunday at LA State Historic Park in DTLA, serving progressive and melodic house in a park setting from $37, with a headliner-led lineup.",
-        "price": "$37+",
+        "price": "$39.95+",
         "tags": [
           "festival",
           "progressive-house",
@@ -180,7 +180,9 @@
           "park"
         ],
         "sources": [
-          "https://www.tixr.com/groups/daytrip/events/day-trip-feat-hayden-james-gudfella-local-singles-188031"
+          "https://www.tixr.com/groups/daytrip/events/day-trip-feat-hayden-james-gudfella-local-singles-188031",
+          "https://daytrip.la/event/hayden-james-gudfella-local-singles-house-music-outdoor-concert-2026-july-5-los-angeles-state-historic-park-events/",
+          "https://www.ticketweb.com/event/day-trip-feat-hayden-james-los-angeles-state-historic-park-tickets/14877223"
         ],
         "tickets": [
           "https://www.tixr.com/groups/daytrip/events/day-trip-feat-hayden-james-gudfella-local-singles-188031"
@@ -201,9 +203,24 @@
           "lon": -118.234965
         },
         "coords_precise": true,
-        "start": null,
+        "start": "14:00",
         "end": null,
-        "enriched": 0
+        "enriched": 1,
+        "promoter": "Day Trip (Insomniac)",
+        "lineup": [
+          {
+            "name": "Hayden James",
+            "instagram": null
+          },
+          {
+            "name": "Gudfella",
+            "instagram": null
+          },
+          {
+            "name": "Local Singles",
+            "instagram": null
+          }
+        ]
       },
       {
         "track": "music",

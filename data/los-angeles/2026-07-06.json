@@ -3652,7 +3652,7 @@
       },
       {
         "track": "music",
-        "category": "House",
+        "category": "Dance",
         "name": "Free Form Dance",
         "day": "Sat",
         "date": "2026-07-11",
@@ -3661,14 +3661,22 @@
         "end": "12:30",
         "area": "Culver City",
         "venue": "Foshay Lodge No 467",
-        "address": "",
-        "why": "Morning dance session to energize your weekend in Culver City.",
-        "summary": "Free Form Dance will be held at Foshay Lodge No 467 in Culver City on July 11, 2026, from 10:30 AM to 12:30 PM. Tickets are $20.",
-        "price": "$20",
-        "tags": [],
+        "address": "9635 Venice Blvd, Culver City, CA 90232",
+        "why": "Donation-based free-form movement session for all levels, in-person or live via Zoom.",
+        "summary": "LA Dance Collective's weekly Saturday morning Free Form Dance welcomes beginners and longtime dancers alike to an eclectic DJ-led movement session at the Foshay Lodge in Culver City, offered both in-person and over Zoom on a sliding-scale donation.",
+        "price": "$25–$35 donation",
+        "tags": [
+          "dance",
+          "movement",
+          "community",
+          "beginner-friendly",
+          "daytime",
+          "zoom"
+        ],
         "lineup": [],
         "sources": [
-          "https://www.eventbrite.com/e/ladc-saturday-dance-free-form-dance-live-zoom-2026-tickets-1977353891719"
+          "https://www.eventbrite.com/e/ladc-saturday-dance-free-form-dance-live-zoom-2026-tickets-1977353891719",
+          "https://www.ladancecollective.com/"
         ],
         "tickets": [
           "https://www.eventbrite.com/e/ladc-saturday-dance-free-form-dance-live-zoom-2026-tickets-1977353891719"
@@ -3689,7 +3697,8 @@
         "popularity": 4,
         "id": "2026-07-06-music-free-form-dance-16aacb",
         "eid": "free-form-dance-4258",
-        "enriched": 0
+        "enriched": 1,
+        "promoter": "LA Dance Collective"
       },
       {
         "track": "music",
