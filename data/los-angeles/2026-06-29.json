@@ -2143,12 +2143,12 @@
         "name": "Ginger Root (DJ Set)",
         "day": "Fri",
         "date": "2026-07-03",
-        "time": "evening",
+        "time": "9:30pm",
         "area": "Los Angeles",
         "venue": "Camille's at The Bellwether",
-        "address": "",
+        "address": "333 S Boylston St, Los Angeles, CA 90017",
         "why": "Free, quirky, and not another four-on-the-floor night.",
-        "summary": "A free Friday evening DJ set spanning J-pop and disco at Camille's at The Bellwether in LA, 21+.",
+        "summary": "Cameron Lew's Ginger Root plays a free 21+ DJ set of synth-pop, alt-disco and Japanese city pop at Camille's, the new room inside Another Planet Entertainment's Bellwether venue just west of downtown LA.",
         "price": "Free",
         "tags": [
           "j-pop",
@@ -2157,7 +2157,9 @@
           "21+"
         ],
         "sources": [
-          "https://www.ticketweb.com/event/ginger-root-dj-set-camilles-at-the-bellwether-tickets/14198414"
+          "https://www.ticketweb.com/event/ginger-root-dj-set-camilles-at-the-bellwether-tickets/14198414",
+          "https://thebellwetherla.com/events/dj-ginger-root-260703",
+          "https://apeconcerts.com/events/dj-ginger-root-260703/"
         ],
         "tickets": [
           "https://www.ticketweb.com/event/ginger-root-dj-set-camilles-at-the-bellwether-tickets/14198414"
@@ -2178,9 +2180,16 @@
         },
         "coords_precise": false,
         "image_generated": false,
-        "start": null,
+        "start": "21:30",
         "end": null,
-        "enriched": 0
+        "enriched": 1,
+        "promoter": "Another Planet Entertainment",
+        "lineup": [
+          {
+            "name": "Ginger Root",
+            "instagram": "gingerrootmusic"
+          }
+        ]
       },
       {
         "track": "music",
