@@ -2558,22 +2558,25 @@
         "name": "High Fade: Twice as Nice Tour",
         "day": "Wed",
         "date": "2026-07-08",
-        "time": "8pm",
+        "time": "Doors 7:30pm / Show 8pm",
         "area": "SF",
         "venue": "The Independent",
         "address": "628 Divisadero St, San Francisco, CA 94117",
-        "why": "Indie rock / funk-rock touring act on a mid-week club stage — The Independent's intimate format",
-        "summary": "High Fade brings their Twice as Nice Tour to The Independent in SF on Wednesday July 8, doors at 8pm. Funk-rock, indie band in a 500-capacity room.",
+        "why": "Scottish funk-rock trio fresh off Glastonbury, on their first US headline tour behind Twice As Nice",
+        "summary": "High Fade — a Scottish funk/rock trio known for viral hits and sold-out UK/Europe/US tours — bring their Twice As Nice tour to The Independent on Wednesday July 8, with Turning Jane opening. Doors 7:30pm, 21+.",
         "price": "",
         "tags": [
           "funk-rock",
           "indie",
-          "live"
+          "live",
+          "21+"
         ],
         "sources": [
           "https://www.theindependentsf.com/tm-event/high-fade/"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://www.ticketweb.com/event/high-fade-the-independent-tickets/14119724"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=The+Independent%2C+628+Divisadero+St%2C+San+Francisco%2C+CA+94117",
           "apple": "https://maps.apple.com/?q=The+Independent%2C+628+Divisadero+St%2C+San+Francisco%2C+CA+94117"
@@ -2590,10 +2593,20 @@
         "popularity": 4,
         "id": "2026-07-06-music-high-fade-twice-as-nice-tour-f5eab6",
         "eid": "high-fade-twice-as-nice-tour-a433",
-        "start": "20:00",
+        "start": "19:30",
         "end": null,
-        "lineup": [],
-        "enriched": 0
+        "lineup": [
+          {
+            "name": "High Fade",
+            "instagram": null
+          },
+          {
+            "name": "Turning Jane",
+            "instagram": null
+          }
+        ],
+        "enriched": 1,
+        "promoter": "Another Planet Entertainment"
       },
       {
         "track": "music",
