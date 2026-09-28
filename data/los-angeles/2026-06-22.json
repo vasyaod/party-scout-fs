@@ -2309,13 +2309,13 @@
         "name": "Sunday Sessions LA (Vinyl Only) Open Air",
         "day": "Sun",
         "date": "2026-06-28",
-        "time": "before 7pm",
+        "time": "6pm-12am",
         "area": "Los Angeles",
         "venue": "630 South Anderson Street",
         "address": "630 S Anderson St, Los Angeles, CA 90023",
         "why": "Vinyl-only and free early, the purist's daytime Sunday cooldown.",
         "summary": "A Sunday open-air daytime party at 630 South Anderson Street spinning vinyl-only tech-house, deep house and minimal, free before 7pm for a 21+ crowd.",
-        "price": "Free before 7pm",
+        "price": "Free",
         "tags": [
           "free",
           "outdoor",
@@ -2327,10 +2327,13 @@
           "21+"
         ],
         "sources": [
-          "https://shotgun.live/en/events/sunday-sessions-la-08-24-76"
+          "https://shotgun.live/en/events/sunday-sessions-la-08-24-76",
+          "https://www.eventbrite.com/e/sunday-sessions-la-vinyl-only-open-air-tickets-1990736177496",
+          "https://www.sundaysessions.la/"
         ],
         "tickets": [
-          "https://shotgun.live/en/events/sunday-sessions-la-08-24-76"
+          "https://shotgun.live/en/events/sunday-sessions-la-08-24-76",
+          "https://www.eventbrite.com/e/sunday-sessions-la-vinyl-only-open-air-tickets-1990736177496"
         ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=630+South+Anderson+Street%2C+630+S+Anderson+St%2C+Los+Angeles%2C+CA+90023",
@@ -2347,10 +2350,11 @@
           "lat": 34.03812,
           "lon": -118.223554
         },
-        "start": "19:00",
-        "end": null,
+        "start": "18:00",
+        "end": "00:00",
         "coords_precise": false,
-        "enriched": 0
+        "enriched": 1,
+        "promoter": "Sunday Sessions LA"
       },
       {
         "track": "music",
