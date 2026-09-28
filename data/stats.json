@@ -1,6 +1,6 @@
 {
   "kind": "stats",
-  "generated_at": "2026-09-28T01:48:05+00:00",
+  "generated_at": "2026-09-28T01:49:52+00:00",
   "weights_version": "v1",
   "total": {
     "n": 3065,
@@ -12,11 +12,11 @@
     "by_field_fixable": {
       "image": 2348,
       "coords": 1817,
-      "tickets": 1225,
+      "tickets": 1224,
       "start": 924,
       "price": 836,
       "time": 707,
-      "address": 622,
+      "address": 621,
       "why": 602,
       "category": 561,
       "summary": 545,
@@ -1949,12 +1949,12 @@
         "by_field_fixable": {
           "image": 1391,
           "coords": 1130,
-          "tickets": 819,
+          "tickets": 818,
           "start": 469,
           "price": 464,
           "time": 411,
           "why": 350,
-          "address": 337,
+          "address": 336,
           "category": 321,
           "summary": 314,
           "tags": 282,
@@ -3341,18 +3341,18 @@
           "summary": {
             "n": 67,
             "median": 0.9298,
-            "p25": 0.8982,
+            "p25": 0.9231,
             "pct_ge_075": 0.9701,
             "invalid": 0,
             "tba_rate": 0.0448,
             "by_field_fixable": {
-              "tickets": 26,
+              "tickets": 25,
               "coords": 12,
               "price": 11,
               "image": 9,
-              "address": 3,
               "start": 3,
-              "time": 2
+              "time": 2,
+              "address": 2
             },
             "weights_version": "v1"
           },
@@ -3418,7 +3418,7 @@
               "day": "Sat",
               "n": 23,
               "median": 1.0,
-              "p25": 0.9259,
+              "p25": 0.9273,
               "pct_ge_075": 0.913,
               "invalid": 0,
               "tba_rate": 0.087,
