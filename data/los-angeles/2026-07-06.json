@@ -3055,7 +3055,7 @@
       },
       {
         "track": "music",
-        "category": "Techno",
+        "category": "Goth/Industrial",
         "name": "Club Sabbat: Midsummer Shadows - Liquid Grey, Vaughn Avakian",
         "day": "Sat",
         "date": "2026-07-11",
@@ -3064,19 +3064,30 @@
         "end": "02:00",
         "area": "San Diego",
         "venue": "Eq",
-        "address": "",
-        "why": "A darkwave and goth-themed night at a popular San Diego venue.",
-        "summary": "Club Sabbat: Midsummer Shadows featuring Liquid Grey and Vaughn Avakian will be held on July 11, 2026, from 9 PM to 2 AM at Eq in San Diego. Entry is $12 for ages 21 and over.",
-        "price": "$12",
+        "address": "1271 University Ave, San Diego, CA 92103",
+        "why": "A darkwave, EBM and industrial night at EQ San Diego's long-running goth club, with DJs Liquid Grey and Vaughn Avakian.",
+        "summary": "Club Sabbat: Midsummer Shadows featuring DJs Liquid Grey and Vaughn Avakian spinning darkwave, EBM and industrial, on Saturday, July 11, 2026, from 9 PM to 2 AM at EQ San Diego (1271 University Ave). $10 cash or $12 card at the door.",
+        "price": "$10 cash / $12 card (door)",
         "tags": [
           "21+",
           "darkwave",
-          "industrial"
+          "industrial",
+          "EBM",
+          "goth"
         ],
-        "lineup": [],
+        "lineup": [
+          {
+            "name": "Liquid Grey"
+          },
+          {
+            "name": "Vaughn Avakian"
+          }
+        ],
         "sources": [
           "https://www.eventbrite.com/e/club-sabbat-midsummer-shadows-at-eq-san-diego-tickets-1991930438563",
-          "https://www.facebook.com/events/982043164811182/"
+          "https://www.facebook.com/events/982043164811182/",
+          "https://www.eqsandiego.com/event/club-sabbat-30/2026-07-11/",
+          "https://www.facebook.com/events/eq-san-diego/sabbat-w-djs-liquid-grey-and-vaughn-avakian/1165446999122904/"
         ],
         "tickets": [
           "https://www.eventbrite.com/e/club-sabbat-midsummer-shadows-at-eq-san-diego-tickets-1991930438563"
@@ -3097,7 +3108,7 @@
         "popularity": 4,
         "id": "2026-07-06-music-club-sabbat-midsummer-shadows-li-2c2bdd",
         "eid": "club-sabbat-midsummer-shadow-87ec",
-        "enriched": 0
+        "enriched": 1
       },
       {
         "track": "music",
