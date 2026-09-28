@@ -849,9 +849,12 @@
           "waterfront"
         ],
         "sources": [
-          "https://www.eriaevents.co/tickets/baum-live-at-eria-wednesday-night"
+          "https://www.eriaevents.co/tickets/baum-live-at-eria-wednesday-night",
+          "https://www.eria.co/tickets/baum-live-at-eria-wednesday-night"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://www.eria.co/tickets/baum-live-at-eria-wednesday-night"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Eria%2C+562+Bridgeway%2C+Sausalito%2C+CA+94965",
           "apple": "https://maps.apple.com/?q=Eria%2C+562+Bridgeway%2C+Sausalito%2C+CA+94965"
@@ -871,7 +874,8 @@
         "start": "19:00",
         "end": "23:00",
         "lineup": [],
-        "enriched": 0
+        "enriched": 1,
+        "promoter": "ERIA Events"
       },
       {
         "track": "music",
