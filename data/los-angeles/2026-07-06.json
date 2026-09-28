@@ -1683,26 +1683,48 @@
       },
       {
         "track": "music",
-        "category": "House",
+        "category": "Banda / EDM",
         "name": "Punchis Banda Rave",
         "day": "Sat",
         "date": "2026-07-11",
         "time": "9pm-1:30am",
         "start": "21:00",
         "end": "01:30",
-        "area": "Los Angeles",
+        "area": "Hollywood",
         "venue": "The Hollywood Palladium",
-        "address": "",
-        "why": "A vibrant rave experience at the historic Hollywood Palladium.",
-        "summary": "Join us for the Punchis Banda Rave on July 11, 2026, from 9 PM to 1:30 AM at The Hollywood Palladium in Los Angeles. Tickets are priced between $40 and $75.",
-        "price": "$40-75",
+        "address": "6215 Sunset Blvd, Hollywood, CA 90028",
+        "why": "A rare crossover night pairing live banda brass with heavy EDM drops at the historic Palladium.",
+        "summary": "Punchis! Punchis! Banda Rave brings a fusion of traditional banda music and electronic dance music to the Hollywood Palladium on July 11, 2026, with doors at 9 PM and the show through 1:30 AM. The 18+ event pairs live banda energy with nonstop EDM drops for a full-on rave experience.",
+        "price": "$20-75",
         "tags": [
-          "rave"
+          "rave",
+          "banda",
+          "edm",
+          "18+"
         ],
-        "lineup": [],
+        "lineup": [
+          {
+            "name": "HAG",
+            "instagram": null
+          },
+          {
+            "name": "OROZCO",
+            "instagram": null
+          },
+          {
+            "name": "ROYCE",
+            "instagram": null
+          },
+          {
+            "name": "Banda La Posesiva",
+            "instagram": null
+          }
+        ],
         "sources": [
           "https://www.ticketmaster.com/event/090064B620EF4BD0",
-          "https://www.facebook.com/events/1402904618525120/"
+          "https://www.facebook.com/events/1402904618525120/",
+          "https://punchisrave.com/event/hollywoodca/",
+          "https://www.livenation.com/event/vvG10Z_5bODVR8/punchis-punchis-banda-rave"
         ],
         "tickets": [
           "https://www.ticketmaster.com/event/090064B620EF4BD0"
@@ -1723,7 +1745,8 @@
         "popularity": 6,
         "id": "2026-07-06-music-punchis-banda-rave-6a359a",
         "eid": "punchis-banda-rave-0f14",
-        "enriched": 0
+        "enriched": 1,
+        "promoter": "Punchis Banda Rave"
       },
       {
         "track": "music",

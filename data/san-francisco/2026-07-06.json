@@ -1694,21 +1694,26 @@
         "name": "Perreo Pesao + Tute",
         "day": "Sat",
         "date": "2026-07-11",
-        "time": "9:30pm",
+        "time": "9:30pm–1:30am",
         "area": "SF",
         "venue": "Arcana",
-        "address": "",
-        "why": "SF's reggaeton and dancehall night — rare genre in the club circuit, intimate Arcana venue",
-        "summary": "Perreo Pesao + Tute at Arcana SF, Saturday July 11, 9:30pm, $10. Reggaeton and dancehall DJ night with Sánlo and mymy.",
+        "address": "2512 Mission St, San Francisco, CA 94110",
+        "why": "SF's reggaeton and dancehall night with genre-crossing guest TUTE (Leonardo Valencia) — rare in the club circuit, intimate Arcana venue",
+        "summary": "Perreo Pesao returns to Arcana with TUTE, MYMY, and SANLO for a night of reggaeton, dancehall, Afro-Caribbean rhythms, rap, perreo, and underground club sounds. Saturday July 11, 9:30pm-1:30am, 21+, $10.",
         "price": "$10",
         "tags": [
           "dancehall",
-          "reggaeton"
+          "reggaeton",
+          "afrobeats",
+          "amapiano"
         ],
         "sources": [
+          "https://ra.co/events/2462752",
+          "https://www.sfstation.com/perreo-pesao-tute-e15772123"
+        ],
+        "tickets": [
           "https://ra.co/events/2462752"
         ],
-        "tickets": [],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Arcana%2C+SF",
           "apple": "https://maps.apple.com/?q=Arcana%2C+SF"
@@ -1731,9 +1736,23 @@
         "id": "2026-07-06-music-perreo-pesao-tute-111cec",
         "eid": "perreo-pesao-tute-7d1d",
         "start": "21:30",
-        "end": null,
-        "lineup": [],
-        "enriched": 0
+        "end": "01:30",
+        "lineup": [
+          {
+            "name": "TUTE",
+            "instagram": null
+          },
+          {
+            "name": "MYMY",
+            "instagram": null
+          },
+          {
+            "name": "SANLO",
+            "instagram": null
+          }
+        ],
+        "enriched": 1,
+        "promoter": "Perreo Pesao"
       },
       {
         "track": "music",
