@@ -2332,9 +2332,19 @@
           "outdoor",
           "free"
         ],
-        "lineup": [],
+        "lineup": [
+          {
+            "name": "Charley Crockett",
+            "instagram": null
+          },
+          {
+            "name": "Nicki Bluhm",
+            "instagram": null
+          }
+        ],
         "sources": [
-          "https://www.sterngrove.org/lineup2026"
+          "https://www.sterngrove.org/lineup2026",
+          "https://www.sterngrove.org/charleycrockett"
         ],
         "tickets": [],
         "maps": {
@@ -2353,8 +2363,8 @@
         "popularity": 4,
         "id": "2026-07-13-music-stern-grove-festival-charley-cro-076385",
         "eid": "stern-grove-festival-charley-b0ab",
-        "promoter": "",
-        "enriched": 0
+        "promoter": "Stern Grove Festival",
+        "enriched": 1
       },
       {
         "track": "music",
