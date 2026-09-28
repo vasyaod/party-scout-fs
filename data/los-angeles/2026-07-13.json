@@ -137,14 +137,50 @@
           "drum-and-bass",
           "waterfront",
           "outdoor",
-          "multi-day"
+          "multi-day",
+          "techno",
+          "bass"
         ],
-        "lineup": [],
+        "lineup": [
+          {
+            "name": "Lee Burridge",
+            "instagram": null
+          },
+          {
+            "name": "Doc Martin",
+            "instagram": null
+          },
+          {
+            "name": "Colette",
+            "instagram": null
+          },
+          {
+            "name": "Justin Martin",
+            "instagram": null
+          },
+          {
+            "name": "Mikey Lion",
+            "instagram": null
+          },
+          {
+            "name": "Radio Slave",
+            "instagram": null
+          },
+          {
+            "name": "DJ Minx",
+            "instagram": null
+          }
+        ],
         "sources": [
-          "https://ra.co/events/2386257"
+          "https://ra.co/events/2386257",
+          "https://lovelongbeachfestival.com/",
+          "https://dice.fm/event/bb8q8m-love-long-beach-festival-2026-18th-jul-shoreline-aquatic-park-los-angeles-tickets",
+          "https://www.eventbrite.com/e/love-long-beach-festival-2026-tickets-1984501811339"
         ],
         "tickets": [
-          "https://ra.co/events/2386257"
+          "https://ra.co/events/2386257",
+          "https://dice.fm/event/bb8q8m-love-long-beach-festival-2026-18th-jul-shoreline-aquatic-park-los-angeles-tickets",
+          "https://www.eventbrite.com/e/love-long-beach-festival-2026-tickets-1984501811339"
         ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Shoreline+Aquatic+Park%2C+Shoreline+Aquatic+Park%2C+Long+Beach%2C+CA+90802",
@@ -167,7 +203,7 @@
         "popularity": 9,
         "id": "2026-07-13-music-love-long-beach-festival-2026-c681f6",
         "eid": "love-long-beach-festival-202-f046",
-        "enriched": 0
+        "enriched": 1
       },
       {
         "track": "music",
