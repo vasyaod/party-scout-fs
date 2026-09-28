@@ -5324,19 +5324,22 @@
         "start": "22:00",
         "end": "02:00",
         "area": "San Diego",
-        "venue": "The Rail",
-        "address": "",
-        "why": "A pre-Pride celebration with house music in San Diego.",
-        "summary": "Steam Towel Party San Diego: Pre-Pride Edition will be at The Rail on July 10, 2026, from 10 PM to 2 AM. Tickets are $18 pre-sale, 21+.",
+        "venue": "The Brass Rail",
+        "address": "3796 Fifth Ave, San Diego, CA 92103",
+        "why": "Hump Events kicks off San Diego Pride weekend with its signature towel-optional dance party at The Brass Rail.",
+        "summary": "Steam Towel Party San Diego: Pre-Pride Edition, presented by Hump Events, takes over The Brass Rail on July 10, 2026 from 10 PM to 2 AM with house music, towels optional, 21+.",
         "price": "$18",
         "tags": [
           "21+",
-          "house"
+          "house",
+          "pride",
+          "towel-party"
         ],
         "lineup": [],
         "sources": [
           "https://www.eventbrite.com/e/steam-towel-party-san-diego-pre-pride-edition-tickets-1987763285496",
-          "https://humpevents.com/steam-towel-party-sd"
+          "https://humpevents.com/steam-towel-party-sd",
+          "https://thebrassrailsd.com/mc-events/steam-towel-party/?mc_id=1240"
         ],
         "tickets": [
           "https://www.eventbrite.com/e/steam-towel-party-san-diego-pre-pride-edition-tickets-1987763285496"
@@ -5357,7 +5360,8 @@
         "popularity": 4,
         "id": "2026-07-06-music-steam-towel-party-san-diego-pre-1c6fab",
         "eid": "steam-towel-party-san-diego-5bd1",
-        "enriched": 0
+        "enriched": 1,
+        "promoter": "Hump Events"
       },
       {
         "track": "music",
