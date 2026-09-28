@@ -1913,17 +1913,26 @@
         "time": "9pm-2am",
         "start": "21:00",
         "end": "02:00",
-        "area": "Hollywood/Los Angeles",
-        "venue": "The Vermont",
-        "address": "",
+        "area": "Hollywood",
+        "venue": "The Vermont Hollywood",
+        "address": "1020 N Vermont Ave, Los Angeles, CA 90029",
         "why": "A techno night featuring rising talents in a unique venue.",
-        "summary": "Lee Ann Roberts and Cyberia Lain will perform at The Vermont in Hollywood/Los Angeles on July 17, 2026, from 9 PM to 2 AM. Tickets are $20 before 10:30 PM and $25-45 afterward, for ages 18+.",
+        "summary": "Lee Ann Roberts and Cyberia Lain will perform at The Vermont Hollywood in Hollywood on July 17, 2026, from 9 PM to 2 AM. Tickets are $20 before 10:30 PM and $25-45 afterward, for ages 18+.",
         "price": "$20",
         "tags": [
           "18+",
           "techno"
         ],
-        "lineup": [],
+        "lineup": [
+          {
+            "name": "Lee Ann Roberts",
+            "instagram": null
+          },
+          {
+            "name": "Cyberia Lain",
+            "instagram": null
+          }
+        ],
         "sources": [
           "https://www.eventbrite.com/e/wated-x-trinity-lee-ann-roberts-the-vermont-hollywood-18-tickets-1992407011004",
           "https://posh.vip/e/trinity-presents-lee-ann-roberts"
@@ -1948,7 +1957,8 @@
         "popularity": 4,
         "id": "2026-07-13-music-lee-ann-roberts-cyberia-lain-bd24ba",
         "eid": "lee-ann-roberts-cyberia-lain-9e3b",
-        "enriched": 0
+        "enriched": 1,
+        "promoter": "WA$TED x Trinity"
       },
       {
         "track": "music",
