@@ -2045,16 +2045,42 @@
         "time": "10pm-2am",
         "start": "22:00",
         "end": "02:00",
-        "area": "Los Angeles",
+        "area": "Hollywood",
         "venue": "Avalon Hollywood",
-        "address": "",
-        "why": "Late-night party vibe at a legendary Hollywood venue.",
-        "summary": "Lil Texas will perform at Avalon Hollywood in Los Angeles on July 16, 2026, from 10 PM to 2 AM. Tickets are $40.",
+        "address": "1735 Vine St, Los Angeles, CA 90028",
+        "why": "Late-night bass/house set at Hollywood's landmark nightclub with a stacked support lineup.",
+        "summary": "Lil Texas headlines Avalon Hollywood on July 16, 2026, with support from Yosuf, Dionysus, Beebo, and Ojjisin. Doors at 10 PM, 21+.",
         "price": "$40",
-        "tags": [],
-        "lineup": [],
+        "tags": [
+          "house",
+          "nightclub",
+          "late-night"
+        ],
+        "lineup": [
+          {
+            "name": "Lil Texas",
+            "instagram": null
+          },
+          {
+            "name": "Yosuf",
+            "instagram": null
+          },
+          {
+            "name": "Dionysus",
+            "instagram": null
+          },
+          {
+            "name": "Beebo",
+            "instagram": null
+          },
+          {
+            "name": "Ojjisin",
+            "instagram": null
+          }
+        ],
         "sources": [
-          "https://www.tixr.com/groups/avalonhollywood/events/lil-texas-188506"
+          "https://www.tixr.com/groups/avalonhollywood/events/lil-texas-188506",
+          "https://avalonhollywood.com/event/lil-texas-nightclub-near-me-discover-avalon-hollywood-2026-july-16-best-night-club-near-me-hollywood-los-angeles/"
         ],
         "tickets": [
           "https://www.tixr.com/groups/avalonhollywood/events/lil-texas-188506"
@@ -2075,7 +2101,8 @@
         "popularity": 4,
         "id": "2026-07-13-music-lil-texas-c4207a",
         "eid": "lil-texas-89af",
-        "enriched": 0
+        "enriched": 1,
+        "promoter": "Avalon Hollywood"
       },
       {
         "track": "music",
