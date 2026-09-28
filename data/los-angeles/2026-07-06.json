@@ -380,7 +380,7 @@
         "end": "04:00",
         "area": "Los Angeles",
         "venue": "TBA",
-        "address": "",
+        "address": "831 E 61st St, Los Angeles, CA 90001",
         "why": "Two UK drum & bass legends on one LA bill — rare, raw, and authentic jungle.",
         "summary": "I Love DnB brings Jumpin Jack Frost and Ray Keith together for a Saturday night 6-hour D&B and jungle set at a TBA Los Angeles venue, $23.",
         "price": "$23",
@@ -390,7 +390,16 @@
           "headliner",
           "late-night"
         ],
-        "lineup": [],
+        "lineup": [
+          {
+            "name": "Jumpin Jack Frost",
+            "instagram": null
+          },
+          {
+            "name": "Ray Keith",
+            "instagram": null
+          }
+        ],
         "sources": [
           "https://posh.vip/e/i-love-dnb-jumpin-jack-frost-ray-keith",
           "https://ra.co/events/2441821"
@@ -419,7 +428,8 @@
         "popularity": 9,
         "id": "2026-07-06-music-i-love-dnb-jumpin-jack-frost-ray-cefe78",
         "eid": "i-love-dnb-jumpin-jack-frost-fa88",
-        "enriched": 0
+        "enriched": 1,
+        "promoter": "I LOVE DNB"
       },
       {
         "track": "music",
