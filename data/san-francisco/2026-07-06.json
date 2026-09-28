@@ -757,21 +757,27 @@
         "name": "BIIANCO",
         "day": "Thu",
         "date": "2026-07-09",
-        "time": "9pm–3am",
-        "area": "SF",
+        "time": "9pm–2am",
+        "area": "SoMa",
         "venue": "1015 Folsom",
         "address": "1015 Folsom St, San Francisco, CA 94103",
-        "why": "Techno headliner on a Thursday night at 1015 — 21+ late-night with table reservations available",
-        "summary": "BIIANCO headlines a techno night at 1015 Folsom presented by DJ Dials, Thursday July 9, 9pm–3am, 21+, $22–31.",
+        "why": "Trance/techno double-headliner (BIIANCO + Bushbaby) on a Thursday, backed by the Bounce SF crew",
+        "summary": "BIIANCO and UK garage artist Bushbaby co-headline a night of acid, trance, techno, garage, and bassline at 1015 Folsom, presented by DJ Dials, Thursday July 9, 9pm–2am, 21+, with support from Bounce SF's ELA MENTAL, R4W, and messiuhhh.",
         "price": "$22–31",
         "tags": [
-          "techno"
+          "techno",
+          "trance",
+          "garage"
         ],
         "sources": [
           "https://ra.co/events/2471911",
-          "https://1015.com/"
+          "https://1015.com/",
+          "https://ma.to/event/biianco-bushbaby-09-jul-2026",
+          "https://www.eventbrite.com/e/biianco-tickets-1992176338055"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://www.eventbrite.com/e/biianco-tickets-1992176338055"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=1015+Folsom%2C+1015+Folsom+St%2C+San+Francisco%2C+CA+94103",
           "apple": "https://maps.apple.com/?q=1015+Folsom%2C+1015+Folsom+St%2C+San+Francisco%2C+CA+94103"
@@ -794,9 +800,31 @@
         "id": "2026-07-06-music-biianco-286a3d",
         "eid": "biianco-d1ee",
         "start": "21:00",
-        "end": "03:00",
-        "lineup": [],
-        "enriched": 0
+        "end": "02:00",
+        "lineup": [
+          {
+            "name": "BIIANCO",
+            "instagram": null
+          },
+          {
+            "name": "Bushbaby",
+            "instagram": null
+          },
+          {
+            "name": "ELA MENTAL",
+            "instagram": null
+          },
+          {
+            "name": "R4W",
+            "instagram": null
+          },
+          {
+            "name": "messiuhhh",
+            "instagram": null
+          }
+        ],
+        "enriched": 1,
+        "promoter": "DJ Dials"
       },
       {
         "track": "music",
