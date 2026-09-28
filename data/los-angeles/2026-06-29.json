@@ -2943,12 +2943,12 @@
         "name": "Palisades Will Rogers 5K/10K Run",
         "day": "Sat",
         "date": "2026-07-04",
-        "time": "8am",
+        "time": "8:15am",
         "area": "Pacific Palisades",
-        "venue": "Pacific Palisades",
-        "address": "Pacific Palisades, Los Angeles, CA 90272",
-        "why": "The classic Palisades morning ritual before the BBQs.",
-        "summary": "A Saturday 8am July 4th 5K/10K road race in Pacific Palisades, a longstanding holiday-morning tradition, entry $45-60.",
+        "venue": "Palisades Recreation Center",
+        "address": "851 Alma Real Dr, Pacific Palisades, CA 90272",
+        "why": "The classic Palisades Fourth of July morning ritual, with proceeds supporting rebuilding of the fire-damaged Palisades Recreation Park.",
+        "summary": "A Saturday July 4th morning 5K/10K road race starting and finishing at Palisades Recreation Center, with the 10K route extending into Will Rogers State Park; race day registration 6:30–8am, races start 8:15am, followed by a Kids Fun Run.",
         "price": "$45–60",
         "tags": [
           "running",
@@ -2959,10 +2959,13 @@
           "tradition"
         ],
         "sources": [
-          "https://www.runguides.com/los-angeles/runs"
+          "https://www.runguides.com/los-angeles/runs",
+          "https://www.palisades10k.com/",
+          "https://runsignup.com/Race/CA/PacificPalisades/PalisadesWillRogers5K10KRun"
         ],
         "tickets": [
-          "https://www.runguides.com/los-angeles/runs"
+          "https://www.runguides.com/los-angeles/runs",
+          "https://runsignup.com/Race/CA/PacificPalisades/PalisadesWillRogers5K10KRun"
         ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Pacific+Palisades%2C+Pacific+Palisades%2C+Los+Angeles%2C+CA+90272",
@@ -2980,9 +2983,10 @@
         },
         "coords_precise": true,
         "image_generated": false,
-        "start": "08:00",
+        "start": "08:15",
         "end": null,
-        "enriched": 0
+        "enriched": 1,
+        "promoter": "Palisades Will Rogers 5 & 10K Run Foundation"
       },
       {
         "track": "sports",
