@@ -5729,20 +5729,34 @@
         "venue": "Make-Out Room",
         "address": "3225 22nd St, San Francisco, CA 94110",
         "why": "Cheap disco night in a dive-bar Mission institution, low-key and low-cost",
-        "summary": "DISCO-PLASTIQUE with DJ 2shy-shy and DJ melt w/U plays the Make-Out Room, a Mission District dive bar in San Francisco, Friday July 24 from 10pm-2am. $10 cover.",
-        "promoter": "",
+        "summary": "DISCO-PLASTIQUE with DJ 2shy-shy and DJ melt w/U spins classic disco, new wave, italo-disco, electro-cumbia, hip-hop, reggaeton and international synth on vinyl at the Make-Out Room, a Mission District dive bar, Friday July 24 from 10pm-2am.",
+        "promoter": "Make-Out Room",
         "price": "$10",
         "tags": [
           "disco",
           "mission",
           "dive-bar",
-          "cheap"
+          "cheap",
+          "italo-disco",
+          "new-wave"
         ],
-        "lineup": [],
+        "lineup": [
+          {
+            "name": "DJ 2shy-shy",
+            "instagram": null
+          },
+          {
+            "name": "DJ melt w/U",
+            "instagram": null
+          }
+        ],
         "sources": [
-          "http://www.makeoutroom.com/calendar.html"
+          "http://www.makeoutroom.com/calendar.html",
+          "https://www.eventbrite.com/e/disco-plastique-friday-night-dance-party-tickets-1994909686574"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://www.eventbrite.com/e/disco-plastique-friday-night-dance-party-tickets-1994909686574"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Make-Out+Room%2C+3225+22nd+St%2C+San+Francisco%2C+CA+94110",
           "apple": "https://maps.apple.com/?q=Make-Out+Room%2C+3225+22nd+St%2C+San+Francisco%2C+CA+94110"
@@ -5759,7 +5773,7 @@
         "popularity": 2,
         "id": "2026-07-20-music-disco-plastique-dj-2shy-shy-dj-m-d3931b",
         "eid": "disco-plastique-dj-2shy-shy-2cd8",
-        "enriched": 0
+        "enriched": 1
       },
       {
         "track": "music",
