@@ -2381,12 +2381,12 @@
         "name": "Anaheim Firecracker 5K/10K",
         "day": "Sat",
         "date": "2026-07-04",
-        "time": "morning",
-        "area": "Anaheim",
-        "venue": "Anaheim",
-        "address": "Anaheim, CA",
-        "why": "The OC's go-to July 4th firecracker run.",
-        "summary": "A Saturday morning July 4th 5K/10K firecracker race in Anaheim, entry $40-55.",
+        "time": "7am",
+        "area": "Anaheim Hills",
+        "venue": "Canyon High School",
+        "address": "220 S Imperial Hwy, Anaheim, CA 92807",
+        "why": "The OC's go-to July 4th firecracker run, starting and finishing at Canyon High School.",
+        "summary": "A Saturday morning July 4th 5K/10K run/walk starting at Canyon High School in Anaheim Hills, with 5K timed, 5K untimed, and 10K timed options; the 2026 race is sold out.",
         "price": "$40–55",
         "tags": [
           "running",
@@ -2397,7 +2397,9 @@
           "road"
         ],
         "sources": [
-          "https://www.runguides.com/los-angeles/runs"
+          "https://www.runguides.com/los-angeles/runs",
+          "https://www.anaheim.net/1501/Fourth-of-July-Celebration",
+          "https://runsignup.com/Race/CA/Anaheim/AnaheimFirecracker"
         ],
         "tickets": [
           "https://www.runguides.com/los-angeles/runs"
@@ -2418,9 +2420,10 @@
         },
         "coords_precise": true,
         "image_generated": false,
-        "start": null,
+        "start": "07:00",
         "end": null,
-        "enriched": 0
+        "enriched": 1,
+        "promoter": "City of Anaheim"
       },
       {
         "track": "sports",
