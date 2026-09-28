@@ -1634,14 +1634,27 @@
         "time": "6:30pm",
         "start": "18:30",
         "end": null,
-        "area": "Los Angeles",
+        "area": "Arts District",
         "venue": "The Moroccan Lounge",
-        "address": "",
-        "why": "An evening with emerging artists in a cozy lounge setting.",
-        "summary": "Dolly Ave and Silent Child will perform at The Moroccan Lounge in Los Angeles on July 16, 2026, at 6:30 PM. Tickets are priced at $28.",
+        "address": "901 E 1st St, Los Angeles, CA 90012",
+        "why": "An emerging-artist night at the intimate 250-cap Moroccan Lounge, headlined by Dolly Ave with support from jiho and Silent Child.",
+        "summary": "Dolly Ave headlines The Moroccan Lounge in the Arts District on July 16, 2026 at 6:30pm, with support from jiho and Silent Child.",
         "price": "$28",
         "tags": [],
-        "lineup": [],
+        "lineup": [
+          {
+            "name": "Dolly Ave",
+            "instagram": null
+          },
+          {
+            "name": "jiho",
+            "instagram": null
+          },
+          {
+            "name": "Silent Child",
+            "instagram": null
+          }
+        ],
         "sources": [
           "https://www.ticketmaster.com/event/090064ABBDFFD95E"
         ],
@@ -1664,7 +1677,7 @@
         "popularity": 4,
         "id": "2026-07-13-music-dolly-ave-silent-child-d0e62a",
         "eid": "dolly-ave-silent-child-7d3e",
-        "enriched": 0
+        "enriched": 1
       },
       {
         "track": "music",
