@@ -3301,14 +3301,14 @@
         "name": "Chocolate: Jimmy Kennedy, Nika Sunchild, Oscar P",
         "day": "Thu",
         "date": "2026-07-09",
-        "time": "8am-12pm",
-        "start": "08:00",
-        "end": "12:00",
+        "time": "8pm–midnight",
+        "start": "20:00",
+        "end": "00:00",
         "area": "San Diego",
         "venue": "The Cordova Bar",
-        "address": "",
-        "why": "A morning party featuring a vibrant mix of afro house tunes.",
-        "summary": "Chocolate featuring Jimmy Kennedy, Nika Sunchild, and Oscar P at The Cordova Bar in San Diego on July 9, 2026, from 8 AM to noon. Entry is free and the event is 21+.",
+        "address": "1319 Morena Blvd, San Diego, CA 92110",
+        "why": "A free weekly afro house night with no cover for the entire evening.",
+        "summary": "Chocolate is Second Thursdays' free afro house night at The Cordova Bar in San Diego, with Jimmy Kennedy joined by guest DJs Oscar P and Nika Sunchild, 8pm to midnight, 21+.",
         "price": "Free",
         "tags": [
           "21+",
@@ -3316,9 +3316,24 @@
           "free",
           "house"
         ],
-        "lineup": [],
+        "lineup": [
+          {
+            "name": "Jimmy Kennedy",
+            "instagram": null
+          },
+          {
+            "name": "Oscar P",
+            "instagram": null
+          },
+          {
+            "name": "Nika Sunchild",
+            "instagram": null
+          }
+        ],
         "sources": [
-          "https://ra.co/events/2477272"
+          "https://ra.co/events/2477272",
+          "https://ma.to/event/chocolate-afro-house-cordova-09-july",
+          "https://sandiegomagazine.com/community-event/second-thursday-presents-chocolate/"
         ],
         "tickets": [
           "https://ra.co/events/2477272"
@@ -3344,7 +3359,8 @@
         "popularity": 4,
         "id": "2026-07-06-music-chocolate-jimmy-kennedy-nika-sun-36dddf",
         "eid": "chocolate-jimmy-kennedy-nika-d9fa",
-        "enriched": 0
+        "enriched": 1,
+        "promoter": "Second Thursdays"
       },
       {
         "track": "music",
