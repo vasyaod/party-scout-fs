@@ -2353,7 +2353,7 @@
       },
       {
         "track": "music",
-        "category": "Free Outdoor",
+        "category": "Tech House",
         "name": "Sama + Cour T. (Cielo Du Sol)",
         "day": "Sat",
         "date": "2026-07-04",
@@ -2362,17 +2362,19 @@
         "venue": "Cielo Farms",
         "address": "32200 Mulholland Hwy, Malibu, CA 90265",
         "why": "Vineyard tech-house, the scenic daytime escape from the city.",
-        "summary": "A Saturday daytime outdoor tech-house event at Cielo Farms vineyard in Malibu, 21+, $39.66.",
+        "summary": "A Fourth of July day-to-night open-air vineyard party at Cielo Farms in Malibu with DJs Sama and Cour T., running noon to 10pm with boutique wines, champagne, and Malibu sunset views.",
         "price": "$39.66",
         "tags": [
           "tech-house",
           "outdoor",
           "daytime",
           "vineyard",
-          "21+"
+          "21+",
+          "4th of july"
         ],
         "sources": [
-          "https://dice.fm/event/mxlykr-sama-cour-t-cielo-du-sol-in-malibu-4th-jul-cielo-farms-malibu-tickets"
+          "https://dice.fm/event/mxlykr-sama-cour-t-cielo-du-sol-in-malibu-4th-jul-cielo-farms-malibu-tickets",
+          "https://www.eventbrite.com/e/cielo-du-sol-samaus-tickets-1981615165303"
         ],
         "tickets": [
           "https://dice.fm/event/mxlykr-sama-cour-t-cielo-du-sol-in-malibu-4th-jul-cielo-farms-malibu-tickets"
@@ -2393,9 +2395,20 @@
         },
         "coords_precise": false,
         "image_generated": false,
-        "start": null,
-        "end": null,
-        "enriched": 0
+        "start": "12:00",
+        "end": "22:00",
+        "enriched": 1,
+        "promoter": "Cielo du Sol",
+        "lineup": [
+          {
+            "name": "Sama",
+            "instagram": null
+          },
+          {
+            "name": "Cour T.",
+            "instagram": null
+          }
+        ]
       },
       {
         "track": "music",
