@@ -1481,9 +1481,27 @@
           "outdoor",
           "21+"
         ],
-        "lineup": [],
+        "lineup": [
+          {
+            "name": "Nina Sol",
+            "instagram": "djninasol"
+          },
+          {
+            "name": "Charles Hawthorne",
+            "instagram": null
+          },
+          {
+            "name": "Patrick Wilson",
+            "instagram": null
+          },
+          {
+            "name": "DJ 80085",
+            "instagram": null
+          }
+        ],
         "sources": [
-          "https://shotgun.live/en/events/ffdsummer1"
+          "https://shotgun.live/en/events/ffdsummer1",
+          "https://www.sfstation.com/five-finger-disco-x-elements-ffd-summer-series-part-1-e15772279"
         ],
         "tickets": [
           "https://shotgun.live/en/events/ffdsummer1"
@@ -1504,8 +1522,8 @@
         "popularity": 4,
         "id": "2026-07-13-music-five-finger-disco-x-elements-c1641a",
         "eid": "five-finger-disco-x-elements-e549",
-        "promoter": "",
-        "enriched": 0
+        "promoter": "Five Finger Disco x Elements",
+        "enriched": 1
       },
       {
         "track": "music",
