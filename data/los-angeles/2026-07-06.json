@@ -5505,26 +5505,29 @@
         "name": "Happy Miles 5K",
         "day": "Sun",
         "date": "2026-07-12",
-        "time": "morning",
-        "start": null,
-        "end": null,
-        "area": "Los Angeles",
-        "venue": "Los Angeles",
-        "address": "",
-        "why": "Fun weekend 5K in LA — small field, casual pace, no pressure finish line.",
-        "summary": "Happy Miles 5K runs Sunday July 12 in Los Angeles — a casual community road race with 100–500 participants.",
+        "time": "7:30am–12pm",
+        "start": "07:30",
+        "end": "12:00",
+        "area": "Griffith Park",
+        "venue": "Griffith Park Merry-Go-Round",
+        "address": "4400 Crystal Springs Dr, Los Angeles, CA 90027",
+        "why": "Community fun run at the Griffith Park Merry-Go-Round, benefiting Foothills Mission.",
+        "summary": "Happy Miles 5K is a Sunday morning fun run at the Griffith Park Merry-Go-Round, presented by Foothills Mission to spread smiles and good vibes.",
         "price": "",
         "tags": [
           "running",
           "5k",
-          "road"
+          "road",
+          "charity"
         ],
         "lineup": [],
         "sources": [
-          "https://www.runguides.com/los-angeles/runs"
+          "https://www.runguides.com/los-angeles/runs",
+          "https://www.eventbrite.com/e/happy-miles-5k-tickets-1993101504252"
         ],
         "tickets": [
-          "https://www.runguides.com/los-angeles/runs"
+          "https://www.runguides.com/los-angeles/runs",
+          "https://www.eventbrite.com/e/happy-miles-5k-tickets-1993101504252"
         ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Los+Angeles%2C+Los+Angeles",
@@ -5542,7 +5545,8 @@
         "popularity": 4,
         "id": "2026-07-06-sports-happy-miles-5k-5eeeb4",
         "eid": "happy-miles-5k-a1a8",
-        "enriched": 0
+        "enriched": 1,
+        "promoter": "Foothills Mission"
       },
       {
         "track": "sports",
