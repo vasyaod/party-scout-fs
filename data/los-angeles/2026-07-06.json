@@ -3888,27 +3888,44 @@
         "name": "KCRW Summer Nights w/ Manuela: Olive Kimoto and Jason Bentley",
         "day": "Sat",
         "date": "2026-07-11",
-        "time": "6pm–6am",
+        "time": "6pm–11pm",
         "start": "18:00",
-        "end": "06:00",
-        "area": "Mid-City",
+        "end": "23:00",
+        "area": "DTLA",
         "venue": "Hauser & Wirth",
-        "address": "901 E 3rd St, Los Angeles, CA 90013",
-        "why": "KCRW's annual arts-gallery summer bash — culture meets nightclub in a non-commercial setting.",
-        "summary": "KCRW Summer Nights returns to Hauser & Wirth gallery with Manuela, Olive Kimoto, and Jason Bentley for an all-night house event Saturday 6pm–6am.",
-        "price": "",
+        "address": "901-909 E 3rd St, Los Angeles, CA 90013",
+        "why": "Free after-hours gallery party pairing two major art exhibitions with KCRW's own DJs.",
+        "summary": "KCRW Summer Nights returns to Hauser & Wirth's Arts District galleries for a free after-hours art-and-music night, with DJ sets from Ale Cohen, Olive Kimoto, and Jason Bentley plus food and drink from on-site restaurant Manuela.",
+        "price": "Free",
         "tags": [
           "house",
           "arts",
           "kcrw",
           "gallery",
-          "outdoor"
+          "outdoor",
+          "free"
         ],
-        "lineup": [],
+        "lineup": [
+          {
+            "name": "Ale Cohen",
+            "instagram": null
+          },
+          {
+            "name": "Olive Kimoto",
+            "instagram": null
+          },
+          {
+            "name": "Jason Bentley",
+            "instagram": null
+          }
+        ],
         "sources": [
-          "https://www.kcrw.com/events/kcrw-summer-nights-with-maneula-at-hauser-and-wirth"
+          "https://www.kcrw.com/events/kcrw-summer-nights-with-maneula-at-hauser-and-wirth",
+          "https://events.humanitix.com/kcrw-summer-nights-with-manuela-at-hauser-and-wirth"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://events.humanitix.com/kcrw-summer-nights-with-manuela-at-hauser-and-wirth"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Hauser+%26+Wirth%2C+901+E+3rd+St%2C+Los+Angeles%2C+CA+90013",
           "apple": "https://maps.apple.com/?q=Hauser+%26+Wirth%2C+901+E+3rd+St%2C+Los+Angeles%2C+CA+90013"
@@ -3925,7 +3942,8 @@
         "popularity": 4,
         "id": "2026-07-06-music-kcrw-summer-nights-w-manuela-oli-04d11d",
         "eid": "kcrw-summer-nights-w-manuela-ec86",
-        "enriched": 0
+        "enriched": 1,
+        "promoter": "KCRW"
       },
       {
         "track": "music",
