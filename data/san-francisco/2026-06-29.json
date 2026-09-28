@@ -108,22 +108,25 @@
         "name": "Stern Grove Festival: Major Lazer with Fijiana",
         "day": "Sun",
         "date": "2026-07-05",
-        "time": "2pm",
+        "time": "Doors 12pm, show 2pm",
         "area": "SF",
         "venue": "Stern Grove",
         "address": "19th Ave & Sloat Blvd, San Francisco, CA 94132",
         "why": "Free Major Lazer at a redwood amphitheater — bring a blanket and arrive early; the prestige free show of the weekend",
-        "summary": "The Stern Grove Festival presents Major Lazer with Fijiana on Sunday July 5 at 2pm in Stern Grove (19th Ave & Sloat Blvd, SF), an outdoor natural amphitheater ringed by redwoods; free, all ages. Arrive early — seating fills fast.",
+        "summary": "Stern Grove Festival's 89th season closed with Major Lazer (Diplo, Ape Drums, Walshy Fire) headlining a free outdoor show on Sunday July 5, opening with KALW DJ Patrick King Most at noon and Richmond, CA rapper Fijiana at 2pm, in the redwood-ringed amphitheater at 19th Ave & Sloat Blvd. Admission was free via an online lottery.",
         "price": "Free",
         "tags": [
           "dancehall",
           "reggae",
           "outdoor",
           "free",
-          "day-party"
+          "day-party",
+          "lottery"
         ],
         "sources": [
-          "https://www.sterngrove.org/lineup2026"
+          "https://www.sterngrove.org/lineup2026",
+          "https://www.sterngrove.org/majorlazer",
+          "https://www.sfchronicle.com/entertainment/festivals/article/major-lazer-stern-grove-22316013.php"
         ],
         "tickets": [],
         "maps": {
@@ -144,7 +147,26 @@
         "eid": "stern-grove-festival-major-l-c088",
         "start": "14:00",
         "end": null,
-        "enriched": 0
+        "enriched": 1,
+        "promoter": "Stern Grove Festival",
+        "lineup": [
+          {
+            "name": "Major Lazer",
+            "instagram": null
+          },
+          {
+            "name": "Fijiana",
+            "instagram": null
+          },
+          {
+            "name": "DJ Bad Juuju",
+            "instagram": null
+          },
+          {
+            "name": "DJ Patrick King Most",
+            "instagram": null
+          }
+        ]
       },
       {
         "track": "music",
