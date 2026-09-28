@@ -1110,7 +1110,7 @@
         "end": "01:00",
         "area": "San Diego",
         "venue": "Bar 1924",
-        "address": "",
+        "address": "2820 Lytton St, San Diego, CA 92110",
         "why": "A free RSVP techno event featuring diverse acts in San Diego.",
         "summary": "Birds Of Prey with Force Placement and others will be at Bar 1924 in San Diego on July 11, 2026, from 6 PM to 1 AM. Free with RSVP, $10 pre, $20 at the door, 21+.",
         "price": "$10",
@@ -1118,7 +1118,28 @@
           "21+",
           "techno"
         ],
-        "lineup": [],
+        "lineup": [
+          {
+            "name": "Birds Of Prey",
+            "instagram": null
+          },
+          {
+            "name": "Force Placement",
+            "instagram": null
+          },
+          {
+            "name": "She/Clay",
+            "instagram": null
+          },
+          {
+            "name": "Nobody",
+            "instagram": null
+          },
+          {
+            "name": "Justo",
+            "instagram": null
+          }
+        ],
         "sources": [
           "https://ra.co/events/2470818",
           "https://www.instagram.com/p/DZteuI8xmtY/"
@@ -1147,7 +1168,7 @@
         "popularity": 7,
         "id": "2026-07-06-music-birds-of-prey-w-force-placement-6ae085",
         "eid": "birds-of-prey-w-force-placem-0dc9",
-        "enriched": 0
+        "enriched": 1
       },
       {
         "track": "music",
