@@ -1884,16 +1884,22 @@
         "time": "9pm–1:30am",
         "area": "Sacramento",
         "venue": "The Press Club",
-        "address": "2030 P St, Sacramento, CA 95811",
+        "address": "1119 21st St, Sacramento, CA 95811",
         "why": "Dark-floor refuge for anyone allergic to July 4th flag-waving",
         "summary": "A goth, industrial and synthpop night at The Press Club in Sacramento on Saturday, 9pm–1:30am.",
         "price": "$13–15",
         "tags": [
           "goth",
           "industrial",
-          "synthpop"
+          "synthpop",
+          "darkwave",
+          "21+"
         ],
-        "sources": [],
+        "sources": [
+          "https://ra.co/events/2458107",
+          "https://sacramento365.com/event/club-necromancy/",
+          "https://www.downtownsac.org/events/club-necromancy/"
+        ],
         "tickets": [],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=The+Press+Club%2C+2030+P+St%2C+Sacramento%2C+CA+95811",
@@ -1913,7 +1919,8 @@
         "eid": "club-necromancy-f037",
         "start": "21:00",
         "end": "01:30",
-        "enriched": 0
+        "enriched": 1,
+        "promoter": "Club Necromancy"
       },
       {
         "track": "music",
