@@ -1150,7 +1150,7 @@
         "end": "01:30",
         "area": "Anaheim",
         "venue": "House of Blues",
-        "address": "",
+        "address": "400 W Disney Way, Suite 337, Anaheim, CA 92802",
         "why": "A vibrant fusion of Latin club culture and EDM.",
         "summary": "Punchis Banda Rave will take place at House of Blues in Anaheim on July 18, 2026, at 9 PM. Tickets range from $24 to $43, for ages 18+.",
         "price": "$24-43",
@@ -1160,7 +1160,20 @@
           "pop-edm",
           "rave"
         ],
-        "lineup": [],
+        "lineup": [
+          {
+            "name": "OROZCO",
+            "instagram": null
+          },
+          {
+            "name": "OCHO",
+            "instagram": null
+          },
+          {
+            "name": "ROYCE",
+            "instagram": null
+          }
+        ],
         "sources": [
           "https://www.ticketmaster.com/event/09006489D4AAF44D",
           "https://punchisrave.com/event/anaheimihob/"
@@ -1184,7 +1197,8 @@
         "popularity": 5,
         "id": "2026-07-13-music-punchis-banda-rave-fc1dd4",
         "eid": "punchis-banda-rave-c089",
-        "enriched": 0
+        "enriched": 1,
+        "promoter": "Punchis Banda Rave"
       },
       {
         "track": "music",
