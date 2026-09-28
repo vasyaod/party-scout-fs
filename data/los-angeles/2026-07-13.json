@@ -1996,30 +1996,38 @@
       },
       {
         "track": "music",
-        "category": "House",
+        "category": "Pop EDM",
         "name": "Loud Luxury - World Cup Fan Zone",
         "day": "Sat",
         "date": "2026-07-18",
-        "time": "12pm",
+        "time": "12pm–8pm",
         "start": "12:00",
-        "end": null,
+        "end": "20:00",
         "area": "Burbank",
         "venue": "150 N 3Rd St",
-        "address": "",
-        "why": "A unique outdoor experience during the World Cup festivities.",
-        "summary": "Loud Luxury will perform at 150 N 3Rd St in Burbank on July 18, 2026, at 12 PM. Tickets start at $39 and the event is all ages.",
-        "price": "$39",
+        "address": "150 N 3rd St, Burbank, CA 91502",
+        "why": "World Cup fever meets EDM daytime party — Loud Luxury's pop house works best in an afternoon crowd.",
+        "summary": "Loud Luxury headlines a post-match concert at the official Los Angeles World Cup 26 Fan Zone in Downtown Burbank, running noon to 8pm Saturday with live match viewing, a free street fair, and family activities.",
+        "price": "$39+",
         "tags": [
           "all-ages",
           "house",
           "pop-edm",
-          "synthpop"
+          "synthpop",
+          "tropical-house",
+          "world-cup",
+          "outdoor"
         ],
         "lineup": [],
         "sources": [
-          "https://tickets.cbfproductions.com/e/los-angeles-world-cup-26-fan-zone-downtown-burbank/tickets?utm_source=meta&utm_medium=cpc&utm_campaign=loudluxury&utm_id=120243543952990680&utm_content=120243544413280680&utm_term=120243543953000680"
+          "https://tickets.cbfproductions.com/e/los-angeles-world-cup-26-fan-zone-downtown-burbank/tickets?utm_source=meta&utm_medium=cpc&utm_campaign=loudluxury&utm_id=120243543952990680&utm_content=120243544413280680&utm_term=120243543953000680",
+          "https://tickets.cbfproductions.com/e/los-angeles-world-cup-26-fan-zone-downtown-burbank/tickets",
+          "https://fanzone.dtnbur.com/",
+          "https://www.burbankca.gov/newsroom/-/newsdetail/20124/downtown-burbank-announces-vip-experiences-at-official-los-angeles-world-cup-26-fan-zone-including-culinary-experience-with-iron-chef-geoffrey-zakarian-and-live-concert-with-loud-luxury"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://tickets.cbfproductions.com/e/los-angeles-world-cup-26-fan-zone-downtown-burbank/tickets"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=150+N+3Rd+St%2C+Burbank",
           "apple": "https://maps.apple.com/?q=150+N+3Rd+St%2C+Burbank"
@@ -2036,7 +2044,8 @@
         "popularity": 4,
         "id": "2026-07-13-music-loud-luxury-world-cup-fan-zone-1d9a98",
         "eid": "loud-luxury-world-cup-fan-zo-19cb",
-        "enriched": 0
+        "enriched": 1,
+        "promoter": "Downtown Burbank Partnership"
       },
       {
         "track": "music",
