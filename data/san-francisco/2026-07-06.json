@@ -1083,7 +1083,7 @@
         "time": "9pm–2am",
         "area": "Oakland",
         "venue": "White Horse Inn",
-        "address": "",
+        "address": "6551 Telegraph Ave, Oakland, CA 94609",
         "why": "Queer disco night in Oakland at White Horse Inn — the oldest LGBTQ+ bar in the Bay still throwing dance parties",
         "summary": "Five Finger Disco at White Horse Inn in Oakland, Saturday July 11, 9pm–2am, $10–17. Queer disco dance night at a historic Bay Area LGBTQ+ venue.",
         "price": "$10–17",
@@ -1116,8 +1116,14 @@
         "eid": "five-finger-disco-49b2",
         "start": "21:00",
         "end": "02:00",
-        "lineup": [],
-        "enriched": 0
+        "lineup": [
+          {
+            "name": "Charles Hawthorne",
+            "instagram": null
+          }
+        ],
+        "enriched": 1,
+        "promoter": "Five Finger Disco"
       },
       {
         "track": "music",
