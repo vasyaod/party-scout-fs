@@ -5767,7 +5767,7 @@
         "address": "1501 Harrison St, Oakland, CA 94612",
         "why": "Cheapest ticket of the night at a collectively-run community bar with a raw, local techno bill",
         "summary": "Those Who Know features Bored Lord, Mina Mills, Drumset and Server at Tamarack, a community-run bar in Oakland, Friday July 24 from 8:30pm-2am. Tickets $7-12.",
-        "promoter": "",
+        "promoter": "Those Who Know",
         "price": "$7–12",
         "tags": [
           "techno",
@@ -5775,9 +5775,27 @@
           "affordable",
           "oakland"
         ],
-        "lineup": [],
+        "lineup": [
+          {
+            "name": "Bored Lord",
+            "instagram": null
+          },
+          {
+            "name": "Mina Mills",
+            "instagram": null
+          },
+          {
+            "name": "Drumset",
+            "instagram": null
+          },
+          {
+            "name": "Server",
+            "instagram": null
+          }
+        ],
         "sources": [
-          "https://ra.co/events/2481907"
+          "https://ra.co/events/2481907",
+          "https://www.sfstation.com/those-who-know-e15772460"
         ],
         "tickets": [
           "https://ra.co/events/2481907"
@@ -5803,7 +5821,7 @@
         "popularity": 2,
         "id": "2026-07-20-music-those-who-know-bored-lord-mina-m-a8620e",
         "eid": "those-who-know-bored-lord-mi-ccf8",
-        "enriched": 0
+        "enriched": 1
       },
       {
         "track": "music",
