@@ -2607,11 +2607,11 @@
         "start": "22:00",
         "end": "01:30",
         "area": "San Diego",
-        "venue": "Nova Sd",
-        "address": "",
-        "why": "Nostalgic tribute to the EDM sounds of the 2010s in San Diego.",
-        "summary": "Flashback: A 2010S EDM Tribute Party takes place at Nova Sd on July 10, 2026, from 10 PM to 1:30 AM. Free with RSVP before 11 PM or $12, 21+.",
-        "price": "$12",
+        "venue": "Nova SD",
+        "address": "454 Sixth Ave, San Diego, CA 92101",
+        "why": "Nostalgic tribute to the EDM sounds of the 2010s in San Diego's Gaslamp Quarter.",
+        "summary": "Flashback: A 2010S EDM Tribute Party takes place at Nova SD on July 10, 2026, from 10 PM to 1:30 AM. Free with RSVP, 21+.",
+        "price": "Free w/ RSVP",
         "tags": [
           "21+",
           "big-room",
@@ -2619,9 +2619,23 @@
           "house",
           "pop-edm"
         ],
-        "lineup": [],
+        "lineup": [
+          {
+            "name": "DJ Legend",
+            "instagram": null
+          },
+          {
+            "name": "Gustavo Cristobal",
+            "instagram": null
+          },
+          {
+            "name": "SEVN",
+            "instagram": null
+          }
+        ],
         "sources": [
-          "https://www.tixr.com/groups/novasd/events/flashback-a-2010s-edm-tribute-party-194266"
+          "https://www.tixr.com/groups/novasd/events/flashback-a-2010s-edm-tribute-party-194266",
+          "https://novasd.com/event/flashback-san-diego-concert-calendar-edm-club-shows-events-today-2026-july-10-near-me-san-diego/"
         ],
         "tickets": [
           "https://www.tixr.com/groups/novasd/events/flashback-a-2010s-edm-tribute-party-194266"
@@ -2642,7 +2656,8 @@
         "popularity": 5,
         "id": "2026-07-06-music-flashback-a-2010s-edm-tribute-pa-668e9c",
         "eid": "flashback-a-2010s-edm-tribut-805c",
-        "enriched": 0
+        "enriched": 1,
+        "promoter": "Levinson Group"
       },
       {
         "track": "music",

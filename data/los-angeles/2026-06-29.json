@@ -2907,7 +2907,9 @@
           "beach"
         ],
         "sources": [
-          "https://recreation.parks.lacity.gov/skatepark/stoner-skate"
+          "https://recreation.parks.lacity.gov/skatepark/stoner-skate",
+          "https://recreation.parks.lacity.gov/skatepark/venice-skate",
+          "https://westsidelosangeles.com/visitor-guide-venice-beach-skatepark.php"
         ],
         "tickets": [
           "https://dolosangeles.com/venues/stoner-skate-plaza"
@@ -2928,9 +2930,9 @@
         },
         "coords_precise": true,
         "image_generated": false,
-        "start": null,
+        "start": "09:00",
         "end": null,
-        "enriched": 0
+        "enriched": 1
       },
       {
         "track": "sports",
