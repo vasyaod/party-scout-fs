@@ -5,7 +5,7 @@
   "location": "San Francisco & Bay Area",
   "city": "san-francisco",
   "city_label": "San Francisco",
-  "generated_at": "2026-09-25",
+  "generated_at": "2026-09-28",
   "tracks": {
     "music": [
       {
@@ -2145,44 +2145,6 @@
         "active": true
       },
       {
-        "id": "2026-09-14-music-big-gay-bay-rave-dc99eb",
-        "eid": "big-gay-bay-rave-f265",
-        "track": "music",
-        "category": "House",
-        "name": "Big Gay Bay Rave",
-        "day": "Sat",
-        "date": "2026-09-19",
-        "time": "",
-        "start": null,
-        "end": null,
-        "area": "San Francisco",
-        "venue": "Jolene's Bar And Restaurant",
-        "address": "",
-        "why": "A queer/sapphic-focused rave night at a low price point (free before 11pm).",
-        "summary": "The Sapphic Raver presents Big Gay Bay Rave, an LGBTQ+ dance party at Jolene's Bar and Restaurant.",
-        "promoter": "",
-        "price": "free before 11pm / $5",
-        "tags": [
-          "lgbtq",
-          "sapphic",
-          "bar"
-        ],
-        "sources": [],
-        "tickets": [],
-        "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=Jolene%27s%20Bar%20And%20Restaurant%2C%20San%20Francisco",
-          "apple": "https://maps.apple.com/?q=Jolene%27s%20Bar%20And%20Restaurant%2C%20San%20Francisco"
-        },
-        "coords": null,
-        "coords_precise": false,
-        "ra": {},
-        "image": "",
-        "image_generated": false,
-        "popularity": 0,
-        "enriched": 1,
-        "active": true
-      },
-      {
         "id": "2026-09-14-music-blevin-blectum-shin-chida-mike-1a1e17",
         "eid": "blevin-blectum-shin-chid-85aa",
         "track": "music",
@@ -2322,28 +2284,39 @@
         "id": "2026-09-14-music-estiva-solyra-ep-tour-w-pixxie-fa2c3d",
         "eid": "estiva-solyra-ep-tour-w-af6c",
         "track": "music",
-        "category": "",
+        "category": "music",
         "name": "Estiva 'Solyra' Ep Tour w/Pixxie, Mostash, Sav",
         "day": "Sat",
         "date": "2026-09-19",
-        "time": "",
+        "time": "21:00-02:00",
         "start": null,
         "end": null,
         "area": "San Francisco",
         "venue": "The Midway Gods and Monsters",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "900 Marin Street, San Francisco, CA 94124",
+        "why": "A 360-degree staged show built around one EP release, not a standard DJ booth set.",
+        "summary": "Polaris presents Estiva's 'Solyra' EP tour in an intimate 360-degree show at The Midway's Gods & Monsters room, with Pixxie, Mostash and SΛV, 9pm-2am, 21+.",
         "promoter": "",
         "price": "$20-37",
-        "tags": [],
-        "sources": [],
-        "tickets": [],
+        "tags": [
+          "melodic techno",
+          "progressive house",
+          "immersive"
+        ],
+        "sources": [
+          "https://ra.co/events/2504537"
+        ],
+        "tickets": [
+          "https://ra.co/events/2504537"
+        ],
         "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=The%20Midway%20Gods%20and%20Monsters%2C%20San%20Francisco",
-          "apple": "https://maps.apple.com/?q=The%20Midway%20Gods%20and%20Monsters%2C%20San%20Francisco"
+          "google": "https://www.google.com/maps/search/?api=1&query=The%20Midway%2C%20San%20Francisco",
+          "apple": "https://maps.apple.com/?q=The%20Midway%2C%20San%20Francisco"
         },
-        "coords": null,
+        "coords": {
+          "lat": 37.7495304,
+          "lon": -122.3860944
+        },
         "coords_precise": false,
         "ra": {},
         "image": "",
@@ -2835,51 +2808,6 @@
         "active": true
       },
       {
-        "id": "2026-09-14-music-polaris-presents-estiva-solyra-4b8e7f",
-        "eid": "polaris-presents-estiva-862e",
-        "track": "music",
-        "category": "music",
-        "name": "Polaris presents: Estiva 'Solyra' EP Tour",
-        "day": "Sat",
-        "date": "2026-09-19",
-        "time": "21:00-02:00",
-        "start": null,
-        "end": null,
-        "area": "san-francisco",
-        "venue": "The Midway",
-        "address": "900 Marin Street, San Francisco, CA 94124",
-        "why": "A 360-degree staged show built around one EP release, not a standard DJ booth set.",
-        "summary": "Polaris presents Estiva's 'Solyra' EP tour in an intimate 360-degree show at The Midway's Gods & Monsters room, with Pixxie, Mostash and SΛV, 9pm-2am, 21+.",
-        "promoter": "",
-        "price": "$15",
-        "tags": [
-          "melodic techno",
-          "progressive house",
-          "immersive"
-        ],
-        "sources": [
-          "https://ra.co/events/2504537"
-        ],
-        "tickets": [
-          "https://ra.co/events/2504537"
-        ],
-        "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=The%20Midway%2C%20San%20Francisco",
-          "apple": "https://maps.apple.com/?q=The%20Midway%2C%20San%20Francisco"
-        },
-        "coords": {
-          "lat": 37.7495304,
-          "lon": -122.3860944
-        },
-        "coords_precise": true,
-        "ra": {},
-        "image": "",
-        "image_generated": false,
-        "popularity": 0,
-        "enriched": 1,
-        "active": true
-      },
-      {
         "id": "2026-09-14-music-primal-disco-xuxa-eliza-michae-c6917f",
         "eid": "primal-disco-xuxa-eliza-848a",
         "track": "music",
@@ -2990,7 +2918,9 @@
         "tags": [
           "queer",
           "sapphic",
-          "rave"
+          "rave",
+          "lgbtq",
+          "bar"
         ],
         "sources": [
           "https://ra.co/events/2522966"
@@ -2999,8 +2929,8 @@
           "https://ra.co/events/2522966"
         ],
         "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=Jolene%27s%20Sf%2C%20San%20Francisco",
-          "apple": "https://maps.apple.com/?q=Jolene%27s%20Sf%2C%20San%20Francisco"
+          "google": "https://www.google.com/maps/search/?api=1&query=Jolene%27s%20Bar%20And%20Restaurant%2C%20San%20Francisco",
+          "apple": "https://maps.apple.com/?q=Jolene%27s%20Bar%20And%20Restaurant%2C%20San%20Francisco"
         },
         "coords": {
           "lat": 37.765597,
