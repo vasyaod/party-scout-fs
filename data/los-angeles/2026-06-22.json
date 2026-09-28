@@ -1806,7 +1806,7 @@
         "name": "Golden Hour Groove",
         "day": "Sun",
         "date": "2026-06-28",
-        "time": "golden hour",
+        "time": "7pm-12am",
         "area": "Los Angeles",
         "venue": "Harvard and Stone",
         "address": "5221 Hollywood Blvd, Los Angeles, CA 90027",
@@ -1841,11 +1841,12 @@
           "lat": 34.101893,
           "lon": -118.304312
         },
-        "start": null,
-        "end": null,
+        "start": "19:00",
+        "end": "00:00",
         "coords_precise": false,
         "image_generated": false,
-        "enriched": 0
+        "enriched": 1,
+        "promoter": "The Illusion Night"
       },
       {
         "track": "music",
