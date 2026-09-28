@@ -3325,12 +3325,12 @@
         "name": "Alameda July 4th Parade R.A.C.E. (5K)",
         "day": "Sat",
         "date": "2026-07-04",
-        "time": "8am",
+        "time": "8:30am",
         "area": "Alameda",
         "venue": "Alameda (Parade route)",
-        "address": "Alameda, CA 94501",
-        "why": "Run the parade route before the parade rolls; the family July 4th tradition, not a PR chase",
-        "summary": "A family-friendly July 4th 5K run/walk starting 8:30am along the Alameda parade route, ending around 11am, timed to set up the town's Independence Day parade.",
+        "address": "1420 Park St, Alameda, CA 94501",
+        "why": "Run the parade route before the parade rolls; a family July 4th tradition, not a PR chase, with proceeds supporting the Midway Shelter of Alameda",
+        "summary": "A flat, fast point-to-point 5K run/walk through closed Alameda streets, starting at 1420 Park St and finishing at 1526 Webster St, timed just ahead of the town's Independence Day parade.",
         "price": "$49.23",
         "tags": [
           "running",
@@ -3340,10 +3340,13 @@
           "family"
         ],
         "sources": [
-          "https://runsignup.com/Race/Events/CA/Alameda/AlamedaMayorsJuly4thParadeRACE"
+          "https://runsignup.com/Race/Events/CA/Alameda/AlamedaMayorsJuly4thParadeRACE",
+          "https://runsignup.com/Race/CA/Alameda/AlamedaMayorsJuly4thParadeRACE",
+          "https://outfrontendurance.com/"
         ],
         "tickets": [
-          "https://runsignup.com/Race/Events/CA/Alameda/AlamedaMayorsJuly4thParadeRACE"
+          "https://runsignup.com/Race/Events/CA/Alameda/AlamedaMayorsJuly4thParadeRACE",
+          "https://runsignup.com/Race/CA/Alameda/AlamedaMayorsJuly4thParadeRACE"
         ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Alameda+%28Parade+route%29%2C+Alameda%2C+CA+94501",
@@ -3361,9 +3364,10 @@
           "lon": -122.241635
         },
         "coords_precise": true,
-        "start": "08:00",
+        "start": "08:30",
         "end": null,
-        "enriched": 0
+        "enriched": 1,
+        "promoter": "Outfront Endurance"
       },
       {
         "track": "sports",
