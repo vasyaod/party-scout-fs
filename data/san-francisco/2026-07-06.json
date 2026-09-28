@@ -413,7 +413,7 @@
         "day": "Mon",
         "date": "2026-07-06",
         "time": "9pm–2am",
-        "area": "SF",
+        "area": "SoMa",
         "venue": "DNA Lounge",
         "address": "375 11th St, San Francisco, CA 94103",
         "why": "World's longest-running weekly goth night, cheap door, 18+, two rooms all night",
@@ -425,9 +425,12 @@
           "weekly"
         ],
         "sources": [
-          "https://www.dnalounge.com/calendar/2026/07-06.html"
+          "https://www.dnalounge.com/calendar/2026/07-06.html",
+          "http://www.deathguild.com/"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://www.dnalounge.com/tickets/deathguild/"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=DNA+Lounge%2C+375+11th+St%2C+San+Francisco%2C+CA+94103",
           "apple": "https://maps.apple.com/?q=DNA+Lounge%2C+375+11th+St%2C+San+Francisco%2C+CA+94103"
@@ -446,8 +449,30 @@
         "eid": "death-guild-0507",
         "start": "21:00",
         "end": "02:00",
-        "lineup": [],
-        "enriched": 0
+        "lineup": [
+          {
+            "name": "Melting Girl",
+            "instagram": null
+          },
+          {
+            "name": "Joe Radio",
+            "instagram": null
+          },
+          {
+            "name": "Decay",
+            "instagram": null
+          },
+          {
+            "name": "Sage",
+            "instagram": null
+          },
+          {
+            "name": "Bit",
+            "instagram": null
+          }
+        ],
+        "enriched": 1,
+        "promoter": "Death Guild"
       },
       {
         "track": "music",
