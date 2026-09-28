@@ -1,6 +1,6 @@
 {
   "kind": "stats",
-  "generated_at": "2026-09-28T00:16:27+00:00",
+  "generated_at": "2026-09-28T00:17:31+00:00",
   "weights_version": "v1",
   "total": {
     "n": 3065,
@@ -8,7 +8,7 @@
     "p25": 0.7319,
     "pct_ge_075": 0.7361,
     "invalid": 28,
-    "tba_rate": 0.0956,
+    "tba_rate": 0.0953,
     "by_field_fixable": {
       "image": 2348,
       "coords": 1817,
@@ -1946,7 +1946,7 @@
         "p25": 0.7358,
         "pct_ge_075": 0.7389,
         "invalid": 23,
-        "tba_rate": 0.0427,
+        "tba_rate": 0.0421,
         "by_field_fixable": {
           "image": 1391,
           "coords": 1130,
@@ -3244,7 +3244,7 @@
             "p25": 0.8545,
             "pct_ge_075": 1.0,
             "invalid": 0,
-            "tba_rate": 0.0385,
+            "tba_rate": 0.0308,
             "by_field_fixable": {
               "image": 95,
               "tickets": 50,
@@ -3320,7 +3320,7 @@
               "p25": 0.8621,
               "pct_ge_075": 1.0,
               "invalid": 0,
-              "tba_rate": 0.0244,
+              "tba_rate": 0.0,
               "weights_version": "v1"
             },
             {
