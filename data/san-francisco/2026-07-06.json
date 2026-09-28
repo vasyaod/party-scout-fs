@@ -151,7 +151,9 @@
           "https://1015.com/",
           "https://www.instagram.com/p/DaV_nXHy4bc/"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://www.eventim.com/event/throttle-techno-marie-vaunt-1015-folsom-21560629/"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=1015+Folsom%2C+1015+Folsom+St%2C+San+Francisco%2C+CA+94103",
           "apple": "https://maps.apple.com/?q=1015+Folsom%2C+1015+Folsom+St%2C+San+Francisco%2C+CA+94103"
@@ -175,8 +177,30 @@
         "eid": "throttle-marie-vaunt-73c2",
         "start": "22:00",
         "end": "03:00",
-        "lineup": [],
-        "enriched": 0
+        "lineup": [
+          {
+            "name": "Marie Vaunt",
+            "instagram": null
+          },
+          {
+            "name": "Max Gardner",
+            "instagram": null
+          },
+          {
+            "name": "Adra",
+            "instagram": null
+          },
+          {
+            "name": "Youngmin Joo",
+            "instagram": null
+          },
+          {
+            "name": "Derek Vo",
+            "instagram": null
+          }
+        ],
+        "enriched": 1,
+        "promoter": "Throttle"
       },
       {
         "track": "music",

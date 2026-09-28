@@ -4817,14 +4817,32 @@
         "end": "01:30",
         "area": "Costa Mesa",
         "venue": "Time Nightclub",
-        "address": "",
+        "address": "1875 Newport Blvd B245, Costa Mesa, CA 92627",
         "why": "A captivating night featuring eclectic sounds in Costa Mesa.",
         "summary": "Rayburger will perform at Time Nightclub in Costa Mesa on July 10, 2026, starting at 10 PM. Tickets are $17.",
         "price": "$17",
-        "tags": [],
-        "lineup": [],
+        "tags": [
+          "EDM",
+          "live music",
+          "nightclub"
+        ],
+        "lineup": [
+          {
+            "name": "RayBurger",
+            "instagram": null
+          },
+          {
+            "name": "Cherry B",
+            "instagram": null
+          },
+          {
+            "name": "ErickaVee",
+            "instagram": null
+          }
+        ],
         "sources": [
-          "https://www.tixr.com/groups/timenightclub/events/rayburger-187963"
+          "https://www.tixr.com/groups/timenightclub/events/rayburger-187963",
+          "https://timenightclub.com/event/rayburger-concerts-near-me-orange-county-edm-concerts-live-music-tonight-2026-july-10-near-me/"
         ],
         "tickets": [
           "https://www.tixr.com/groups/timenightclub/events/rayburger-187963"
@@ -4845,7 +4863,8 @@
         "popularity": 4,
         "id": "2026-07-06-music-rayburger-d9d5a0",
         "eid": "rayburger-3ef1",
-        "enriched": 0
+        "enriched": 1,
+        "promoter": "TIME Nightclub"
       },
       {
         "track": "music",
