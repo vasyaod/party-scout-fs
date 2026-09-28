@@ -1355,7 +1355,7 @@
         "name": "Orlove's 12th Annual 4th of July Pool Party",
         "day": "Sat",
         "date": "2026-07-04",
-        "time": "daytime",
+        "time": "1–7pm",
         "area": "West Hollywood",
         "venue": "White Rabbit Sky Lounge (The Valorian)",
         "address": "8440 Sunset Blvd, West Hollywood, CA 90069",
@@ -1372,10 +1372,12 @@
           "21+"
         ],
         "sources": [
-          "https://ra.co/events/2443805"
+          "https://ra.co/events/2443805",
+          "https://www.eventbrite.com/e/orloves-12th-annual-4th-of-july-pool-party-tickets-1984478780453"
         ],
         "tickets": [
-          "https://ra.co/events/2443805"
+          "https://ra.co/events/2443805",
+          "https://www.eventbrite.com/e/orloves-12th-annual-4th-of-july-pool-party-tickets-1984478780453"
         ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=White+Rabbit+Sky+Lounge+%28The+Valorian%29%2C+8440+Sunset+Blvd%2C+West+Hollywood%2C+CA+90069",
@@ -1398,9 +1400,10 @@
           "lon": -118.374242
         },
         "coords_precise": true,
-        "start": null,
-        "end": null,
-        "enriched": 0
+        "start": "13:00",
+        "end": "19:00",
+        "enriched": 1,
+        "promoter": "ORLOVE"
       },
       {
         "track": "music",
