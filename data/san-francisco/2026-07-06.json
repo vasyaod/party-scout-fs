@@ -1021,8 +1021,8 @@
         "area": "SF",
         "venue": "The Midway",
         "address": "900 Marin St, San Francisco, CA 94124",
-        "why": "K-pop meets club EDM — the only K-pop dance night in SF this weekend",
-        "summary": "Electrik Seoul: K-Pop x EDM at The Midway SF, Saturday July 11, 9pm–2am, $28. K-pop and EDM hybrid club night.",
+        "why": "HYO of Girls' Generation headlines a K-pop x EDM club night — a rare K-pop live set in SF",
+        "summary": "Electrik Seoul's SF debut at The Midway, Saturday July 11, 9pm–2am, 21+. K-pop x EDM night featuring a live set from HYO (Girls' Generation) alongside Johnny Chay and IZNYRS.",
         "price": "$28",
         "tags": [
           "k-pop",
@@ -1031,10 +1031,13 @@
         ],
         "sources": [
           "https://www.tixr.com/groups/midwaysf/events/electrik-seoul-k-pop-x-edm-185965",
-          "https://themidwaysf.com/Events/"
+          "https://themidwaysf.com/Events/",
+          "https://www.axs.com/events/1446282/electrik-seoul-k-pop-x-edm-21-event-tickets",
+          "https://ma.to/event/electrik-seoul-hyo-11-july-2026"
         ],
         "tickets": [
-          "https://www.tixr.com/groups/midwaysf/events/electrik-seoul-k-pop-x-edm-185965"
+          "https://www.tixr.com/groups/midwaysf/events/electrik-seoul-k-pop-x-edm-185965",
+          "https://www.axs.com/events/1446282/electrik-seoul-k-pop-x-edm-21-event-tickets"
         ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=The+Midway%2C+900+Marin+St%2C+San+Francisco%2C+CA+94124",
@@ -1054,8 +1057,22 @@
         "eid": "electrik-seoul-k-pop-x-edm-32fe",
         "start": "21:00",
         "end": "02:00",
-        "lineup": [],
-        "enriched": 0
+        "lineup": [
+          {
+            "name": "HYO",
+            "instagram": null
+          },
+          {
+            "name": "Johnny Chay",
+            "instagram": null
+          },
+          {
+            "name": "IZNYRS",
+            "instagram": null
+          }
+        ],
+        "enriched": 1,
+        "promoter": "Electrik Seoul"
       },
       {
         "track": "music",
