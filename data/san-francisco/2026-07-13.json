@@ -470,7 +470,7 @@
         "date": "2026-07-19",
         "time": "3pm",
         "start": "15:00",
-        "end": null,
+        "end": "20:00",
         "area": "SF",
         "venue": "The Aracely Garden (Treasure Island)",
         "address": "401 13th Street, San Francisco, CA 94130",
@@ -486,7 +486,12 @@
           "daytime",
           "anjunadeep"
         ],
-        "lineup": [],
+        "lineup": [
+          {
+            "name": "Jerro",
+            "instagram": null
+          }
+        ],
         "sources": [
           "https://www.eventbrite.com/e/jerro-at-aracely-garden-tickets-1988109636441",
           "https://ra.co/events/2426054",
@@ -515,8 +520,8 @@
         "popularity": 6,
         "id": "2026-07-13-music-jerro-at-aracely-garden-2e6166",
         "eid": "jerro-at-aracely-garden-3247",
-        "promoter": "",
-        "enriched": 0
+        "promoter": "All Day All Night Events",
+        "enriched": 1
       },
       {
         "track": "music",
