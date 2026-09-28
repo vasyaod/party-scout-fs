@@ -1259,11 +1259,25 @@
           "live",
           "21+"
         ],
-        "lineup": [],
-        "sources": [
-          "https://publicsf.com/calendar/"
+        "lineup": [
+          {
+            "name": "K Wata",
+            "instagram": null
+          },
+          {
+            "name": "zi!",
+            "instagram": null
+          }
         ],
-        "tickets": [],
+        "sources": [
+          "https://publicsf.com/calendar/",
+          "https://ra.co/events/2470897",
+          "https://www.tixr.com/groups/publicsf/events/club-moniker-k-wata-live-zi--195333",
+          "https://www.sfstation.com/club-moniker-k-wata-live-zi-e15771964"
+        ],
+        "tickets": [
+          "https://www.tixr.com/groups/publicsf/events/club-moniker-k-wata-live-zi--195333"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Public+Works+Loft%2C+161+Erie+St%2C+San+Francisco%2C+CA+94103",
           "apple": "https://maps.apple.com/?q=Public+Works+Loft%2C+161+Erie+St%2C+San+Francisco%2C+CA+94103"
@@ -1280,8 +1294,8 @@
         "popularity": 4,
         "id": "2026-07-13-music-club-moniker-k-wata-live-zi-c74920",
         "eid": "club-moniker-k-wata-live-zi-9c5a",
-        "promoter": "",
-        "enriched": 0
+        "promoter": "Club Moniker",
+        "enriched": 1
       },
       {
         "track": "music",
