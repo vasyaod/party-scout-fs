@@ -1,13 +1,13 @@
 {
   "kind": "stats",
-  "generated_at": "2026-09-29T00:24:20+00:00",
+  "generated_at": "2026-09-29T00:25:47+00:00",
   "weights_version": "v1",
   "total": {
     "n": 3083,
     "median": 0.8654,
-    "p25": 0.7273,
-    "pct_ge_075": 0.7343,
-    "invalid": 29,
+    "p25": 0.7308,
+    "pct_ge_075": 0.7347,
+    "invalid": 28,
     "tba_rate": 0.0941,
     "by_field_fixable": {
       "image": 2353,
@@ -1942,8 +1942,8 @@
         "n": 1776,
         "median": 0.8596,
         "p25": 0.7308,
-        "pct_ge_075": 0.7325,
-        "invalid": 24,
+        "pct_ge_075": 0.7331,
+        "invalid": 23,
         "tba_rate": 0.0411,
         "by_field_fixable": {
           "image": 1396,
@@ -2185,10 +2185,10 @@
           "n": 366,
           "summary": {
             "n": 366,
-            "median": 0.7895,
+            "median": 0.7925,
             "p25": 0.3731,
-            "pct_ge_075": 0.5792,
-            "invalid": 1,
+            "pct_ge_075": 0.582,
+            "invalid": 0,
             "tba_rate": 0.0191,
             "by_field_fixable": {
               "coords": 359,
@@ -2239,8 +2239,8 @@
               "n": 43,
               "median": 0.7963,
               "p25": 0.7308,
-              "pct_ge_075": 0.6977,
-              "invalid": 1,
+              "pct_ge_075": 0.7209,
+              "invalid": 0,
               "tba_rate": 0.0,
               "weights_version": "v1"
             },
