@@ -2853,9 +2853,9 @@
         "time": "7pm-11pm",
         "start": "19:00",
         "end": "23:00",
-        "area": "Pasadena/Los Angeles",
+        "area": "Pasadena",
         "venue": "Old Towne Pub",
-        "address": "",
+        "address": "66 N Fair Oaks Ave, Pasadena, CA 91103",
         "why": "A night dedicated to liquid drum and bass in a cozy pub setting.",
         "summary": "Vibration Centre Drum&Bass Atmospherics featuring various artists will take place on July 12, 2026, from 7 PM to 11 PM at Old Towne Pub in Pasadena/Los Angeles. Tickets are $5 for ages 21 and over.",
         "price": "$5",
@@ -2864,10 +2864,32 @@
           "drum-and-bass",
           "jungle"
         ],
-        "lineup": [],
+        "lineup": [
+          {
+            "name": "Flowah",
+            "instagram": null
+          },
+          {
+            "name": "Jaes",
+            "instagram": null
+          },
+          {
+            "name": "J Rolla",
+            "instagram": null
+          },
+          {
+            "name": "Ransak",
+            "instagram": null
+          },
+          {
+            "name": "Kaustin",
+            "instagram": null
+          }
+        ],
         "sources": [
           "https://ra.co/events/2455942",
-          "http://vibrationcentre.com/"
+          "http://vibrationcentre.com/",
+          "https://linktr.ee/vibrationcentre"
         ],
         "tickets": [
           "https://ra.co/events/2455942"
@@ -2893,7 +2915,8 @@
         "popularity": 4,
         "id": "2026-07-06-music-vibration-centre-drum-bass-atmos-139d6c",
         "eid": "vibration-centre-drum-bass-a-7c80",
-        "enriched": 0
+        "enriched": 1,
+        "promoter": "Vibration Centre"
       },
       {
         "track": "music",
