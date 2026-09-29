@@ -484,21 +484,29 @@
       },
       {
         "track": "music",
-        "category": "Electronic",
+        "category": "French Electro Pop",
         "name": "SFMOMA Rooftop Radio KEXP: Greg Cerrone, Joachim Garraud, crystallmess",
         "day": "Thu",
         "date": "2026-06-18",
-        "time": "evening",
-        "area": "SF",
+        "time": "5-9pm",
+        "area": "SoMa",
         "venue": "SFMOMA Rooftop",
-        "address": "",
-        "why": "",
-        "summary": "",
-        "price": "",
+        "address": "151 Third St, San Francisco, CA 94103",
+        "why": "A summer-kickoff rooftop set from French Touch veteran Joachim Garraud, paired with museum gallery access",
+        "summary": "SFMOMA and Villa Albertine team up for a French electro-pop rooftop party tied to the Matisse exhibition, with sets from crystallmess, Greg Cerrone and French Touch pioneer Joachim Garraud plus after-hours gallery access.",
+        "price": "$35",
         "tags": [
-          "rooftop"
+          "rooftop",
+          "french-touch",
+          "electro-pop",
+          "museum",
+          "21+"
         ],
-        "sources": [],
+        "sources": [
+          "https://www.sfmoma.org/event/rooftop-radio-french-electro-pop/",
+          "https://sf.funcheap.com/sfmomas-rooftop-party-w-bay-area-djs-kexp-sf/",
+          "https://dothebay.com/events/2025/7/17/kexp-tickets"
+        ],
         "tickets": [],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=SFMOMA+Rooftop%2C+SF",
@@ -516,9 +524,23 @@
           "lon": -122.40752
         },
         "coords_precise": false,
-        "start": null,
-        "end": null,
-        "enriched": 0
+        "start": "17:00",
+        "end": "21:00",
+        "enriched": 1,
+        "lineup": [
+          {
+            "name": "crystallmess",
+            "instagram": null
+          },
+          {
+            "name": "Greg Cerrone",
+            "instagram": null
+          },
+          {
+            "name": "Joachim Garraud",
+            "instagram": null
+          }
+        ]
       },
       {
         "track": "music",

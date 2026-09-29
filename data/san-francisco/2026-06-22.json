@@ -1173,13 +1173,19 @@
         "time": "9pm-4am",
         "area": "SF",
         "venue": "The Midway",
-        "address": "",
+        "address": "900 Marin St, San Francisco, CA 94124",
         "why": "Festival-scale production at festival-scale prices — the all-out splurge if budget's no object",
-        "summary": "High-production electronic Pride party at The Midway SF — the venue's premium Friday night show with festival-scale staging and production values. $141–232.",
+        "summary": "Electroluxx's 12th annual Pride party takes over the entire Midway SF — every room turned into a stage, plus outdoor patios, silent disco, and a separate 1,000-person warehouse stage with food trucks.",
         "price": "$141-232",
-        "tags": [],
+        "tags": [
+          "pride",
+          "festival",
+          "multi-room",
+          "dance"
+        ],
         "sources": [
-          "https://www.tixr.com/groups/midwaysf/events/electroluxx-pride-2026-165905"
+          "https://www.tixr.com/groups/midwaysf/events/electroluxx-pride-2026-165905",
+          "https://www.eventbrite.com/e/electroluxx-pride-2026-the-midway-tickets-1984860349737"
         ],
         "tickets": [
           "https://www.tixr.com/groups/midwaysf/events/electroluxx-pride-2026-165905"
@@ -1202,7 +1208,8 @@
         "coords_precise": true,
         "start": "21:00",
         "end": "04:00",
-        "enriched": 0
+        "enriched": 1,
+        "promoter": "Electroluxx"
       },
       {
         "track": "music",
