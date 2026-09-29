@@ -381,7 +381,7 @@
         "day": "Fri",
         "date": "2026-07-03",
         "time": "2–9pm",
-        "area": "SF",
+        "area": "Treasure Island",
         "venue": "Gold Bar, Treasure Island",
         "address": "1 Avenue of the Palms, San Francisco, CA 94130",
         "why": "Live performance, not just a DJ, with the best SF skyline view of the weekend; take the ferry",
@@ -395,7 +395,8 @@
           "daytime"
         ],
         "sources": [
-          "https://www.tixr.com/groups/alldayallnight/events/elderbrook-day-party-at-gold-bar-distillery-sf-177667"
+          "https://www.tixr.com/groups/alldayallnight/events/elderbrook-day-party-at-gold-bar-distillery-sf-177667",
+          "https://www.eventbrite.com/e/elderbrook-day-party-at-gold-bar-distillery-sf-tickets-1983936877607"
         ],
         "tickets": [
           "https://www.tixr.com/groups/alldayallnight/events/elderbrook-day-party-at-gold-bar-distillery-sf-177667"
@@ -418,7 +419,14 @@
         "coords_precise": true,
         "start": "14:00",
         "end": "21:00",
-        "enriched": 0
+        "enriched": 1,
+        "promoter": "All Day All Night Events",
+        "lineup": [
+          {
+            "name": "Elderbrook",
+            "instagram": "elderbrook"
+          }
+        ]
       },
       {
         "track": "music",
