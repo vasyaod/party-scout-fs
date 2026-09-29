@@ -1520,21 +1520,23 @@
         "name": "Substation: Hector Moralez, J-Dub, Super Jenn +",
         "day": "Fri",
         "date": "2026-06-26",
-        "time": "9pm",
-        "area": "Los Angeles",
+        "time": "9pm–3am",
+        "area": "DTLA",
         "venue": "Monty Bar",
         "address": "1222 W 7th St, Los Angeles, CA 90017",
-        "why": "Cheap, intimate UK-garage-leaning night for the dance-purist few.",
-        "summary": "A Friday-night jackin' house, deep house and UK garage party at Monty Bar in Los Angeles starting 9pm, a 21+ intimate bar event.",
+        "why": "Cheap, intimate UK-garage-leaning night for the dance-purist few, spread across two rooms with a deep local lineup.",
+        "summary": "A Friday-night jackin' house, deep house and UK garage session at Monty Bar's historic train depot in Downtown LA, running 9pm to 3am with two rooms of DJs.",
         "price": "$15",
         "tags": [
           "jackin-house",
           "deep-house",
           "uk-garage",
-          "21+"
+          "21+",
+          "two-rooms"
         ],
         "sources": [
-          "https://ra.co/events/2401010"
+          "https://ra.co/events/2401010",
+          "https://montybar.com/"
         ],
         "tickets": [
           "https://ra.co/events/2401010"
@@ -1560,9 +1562,44 @@
           "lon": -118.266796
         },
         "start": "21:00",
-        "end": null,
+        "end": "03:00",
         "coords_precise": false,
-        "enriched": 0
+        "enriched": 1,
+        "promoter": "Substation",
+        "lineup": [
+          {
+            "name": "Hector Moralez",
+            "instagram": null
+          },
+          {
+            "name": "J-Dub",
+            "instagram": null
+          },
+          {
+            "name": "Super Jenn",
+            "instagram": null
+          },
+          {
+            "name": "Chainsnatcher",
+            "instagram": null
+          },
+          {
+            "name": "Ruben Who?",
+            "instagram": null
+          },
+          {
+            "name": "Nick Alvarado",
+            "instagram": null
+          },
+          {
+            "name": "Ricky Doubles",
+            "instagram": null
+          },
+          {
+            "name": "Mathis Rousseau",
+            "instagram": null
+          }
+        ]
       },
       {
         "track": "music",
