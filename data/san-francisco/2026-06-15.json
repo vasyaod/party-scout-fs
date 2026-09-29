@@ -314,22 +314,32 @@
       },
       {
         "track": "music",
-        "category": "Dubstep",
+        "category": "Bass",
         "name": "Habstrakt, N808, Duserock",
         "day": "Thu",
         "date": "2026-06-18",
-        "time": "9pm",
+        "time": "5–10pm",
         "area": "SF",
         "venue": "63 Ellis St",
-        "address": "",
-        "why": "",
-        "summary": "",
-        "price": "",
+        "address": "63 Ellis St, San Francisco, CA 94102",
+        "why": "A free outdoor block party in the heart of Union Square headlined by a touring bass-music heavyweight",
+        "summary": "On Ellis Downtown Block Party turns Ellis Street between Powell and Stockton into a free open-air dance floor for the June installment of the Bloom Music Series, headlined by French bass DJ Habstrakt with support from N808, Duserock and Clayton William.",
+        "price": "Free",
         "tags": [
-          "bass"
+          "bass",
+          "free",
+          "outdoor",
+          "block-party",
+          "downtown"
         ],
-        "sources": [],
-        "tickets": [],
+        "sources": [
+          "https://www.eventbrite.com/e/on-ellis-downtown-block-party-ft-habstrakt-registration-1988856158308",
+          "https://sf.funcheap.com/downtown-sfs-free-outdoor-edm-party-w-french-dj-habstrakt-june-18/",
+          "https://dothebay.com/events/2026/6/18/on-ellis-downtown-block-party-ft-habstrakt-tickets"
+        ],
+        "tickets": [
+          "https://www.eventbrite.com/e/on-ellis-downtown-block-party-ft-habstrakt-registration-1988856158308"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=63+Ellis+St%2C+SF",
           "apple": "https://maps.apple.com/?q=63+Ellis+St%2C+SF"
@@ -346,9 +356,28 @@
           "lon": -122.407152
         },
         "coords_precise": true,
-        "start": "21:00",
-        "end": null,
-        "enriched": 0
+        "start": "17:00",
+        "end": "22:00",
+        "enriched": 1,
+        "promoter": "On Ellis",
+        "lineup": [
+          {
+            "name": "Habstrakt",
+            "instagram": null
+          },
+          {
+            "name": "N808",
+            "instagram": null
+          },
+          {
+            "name": "Duserock",
+            "instagram": null
+          },
+          {
+            "name": "Clayton William",
+            "instagram": null
+          }
+        ]
       },
       {
         "track": "music",
