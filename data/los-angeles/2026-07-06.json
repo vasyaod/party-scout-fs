@@ -2345,11 +2345,11 @@
         "time": "9pm-1am",
         "start": "21:00",
         "end": "01:00",
-        "area": "Long Beach/Los Angeles",
+        "area": "Long Beach",
         "venue": "Que Sera",
-        "address": "",
-        "why": "A techno event featuring a fresh lineup in a vibrant setting.",
-        "summary": "Museo 001 featuring Shay De Castro, Tollefson, and MIG-35 at Que Sera in Long Beach/Los Angeles on July 9, 2026, from 9 PM to 1 AM. Entry is free and the event is 21+.",
+        "address": "1923 E 7th St, Long Beach, CA",
+        "why": "Debut installment of MUSEO, a new techno series curated by Shay De Castro, with free entry for the first 200 guests.",
+        "summary": "MUSEO 001 is the first installment of a curated techno series by Shay De Castro, held at Que Sera in Long Beach on July 9, 2026, with Tollefson and MIG-35 also on the lineup. Entry is free for the first 200 guests, 21+.",
         "price": "Free",
         "tags": [
           "21+",
@@ -2358,7 +2358,20 @@
           "outdoor",
           "techno"
         ],
-        "lineup": [],
+        "lineup": [
+          {
+            "name": "Shay De Castro",
+            "instagram": null
+          },
+          {
+            "name": "Tollefson",
+            "instagram": null
+          },
+          {
+            "name": "MIG-35",
+            "instagram": null
+          }
+        ],
         "sources": [
           "https://ra.co/events/2475662",
           "https://laylo.com/museo/4JeB3K"
@@ -2388,7 +2401,8 @@
         "popularity": 5,
         "id": "2026-07-06-music-museo-001-shay-de-castro-tollefs-1cb642",
         "eid": "museo-001-shay-de-castro-tol-43f5",
-        "enriched": 0
+        "enriched": 1,
+        "promoter": "MUSEO"
       },
       {
         "track": "music",
