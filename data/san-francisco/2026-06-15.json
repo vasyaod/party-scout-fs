@@ -557,14 +557,21 @@
         "time": "5:30pm",
         "area": "SF",
         "venue": "Embarcadero Plaza",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "Market Street and The Embarcadero, San Francisco, CA 94105",
+        "why": "A leaderless mass bike ride/party-protest that started in SF 30+ years ago and now happens worldwide.",
+        "summary": "Cyclists gather at Embarcadero Plaza (foot of Market St) for the monthly Critical Mass ride with no planned route — whoever's in front and gets followed is the leader.",
         "price": "Free",
         "tags": [
-          "cycling"
+          "cycling",
+          "free",
+          "outdoor",
+          "monthly",
+          "community"
         ],
-        "sources": [],
+        "sources": [
+          "https://www.sfcriticalmass.org/",
+          "https://sf.funcheap.com/san-francisco-critical-mass-last-friday-of-the-month-8/"
+        ],
         "tickets": [],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Embarcadero+Plaza%2C+Embarcadero+Plaza%2C+San+Francisco%2C+CA",
@@ -583,8 +590,8 @@
         },
         "coords_precise": true,
         "start": "17:30",
-        "end": null,
-        "enriched": 0
+        "end": "18:30",
+        "enriched": 1
       },
       {
         "track": "sports",
