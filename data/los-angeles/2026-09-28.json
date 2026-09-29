@@ -1203,23 +1203,34 @@
         "id": "2026-09-28-music-nightshift-after-hours-18daee",
         "eid": "nightshift-after-hours-d4d4",
         "track": "music",
-        "category": "",
+        "category": "House",
         "name": "Nightshift After Hours",
         "day": "Wed",
         "date": "2026-09-30",
-        "time": "",
-        "start": null,
-        "end": null,
-        "area": "LA",
+        "time": "11pm–5am",
+        "start": "23:00",
+        "end": "05:00",
+        "area": "DTLA",
         "venue": "The Lexington",
-        "address": "",
-        "why": "",
-        "summary": "",
-        "promoter": "",
+        "address": "129 E 3rd St, Los Angeles, CA 90013",
+        "why": "A real DTLA speakeasy running after-hours all week, entered through an alley with a secret DJ lineup",
+        "summary": "Nightshift is a recurring after-hours speakeasy party at The Lexington in Downtown LA, running nightly with a secret underground-house DJ lineup curated by the Blind Tiger collective.",
+        "promoter": "Blind Tiger",
         "price": "Free w/RSVP before 1am/$23",
-        "tags": [],
-        "sources": [],
-        "tickets": [],
+        "tags": [
+          "house",
+          "after-hours",
+          "speakeasy",
+          "underground",
+          "21+"
+        ],
+        "sources": [
+          "https://ra.co/events/2530580",
+          "https://dice.fm/event/6dg6eb-nightshift-afterhours-12th-sep-the-lexington-bar-los-angeles-tickets"
+        ],
+        "tickets": [
+          "https://dice.fm/event/6dg6eb-nightshift-afterhours-12th-sep-the-lexington-bar-los-angeles-tickets"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=The%20Lexington%2C%20LA",
           "apple": "https://maps.apple.com/?q=The%20Lexington%2C%20LA"
@@ -1230,7 +1241,7 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
