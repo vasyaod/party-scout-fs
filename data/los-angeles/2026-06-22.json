@@ -2630,12 +2630,12 @@
         "name": "Demo Days Festival (Motorcycle Demo District)",
         "day": "Sat",
         "date": "2026-06-27",
-        "time": "all-day",
-        "area": "Los Angeles",
+        "time": "10am–5pm",
+        "area": "Pasadena",
         "venue": "Demo Days Festival grounds",
-        "address": "",
-        "why": "Actually ride the bikes, not just gawk at a showroom floor.",
-        "summary": "An all-day Saturday outdoor moto festival where attendees test-ride motorcycles and e-bikes across the Demo Days Festival grounds in Los Angeles.",
+        "address": "1001 Rose Bowl Dr, Pasadena, CA 91103",
+        "why": "Get up to 8 minutes of open street riding on demo bikes with no cones, no lot, and no instructor on your bumper.",
+        "summary": "An all-day outdoor moto festival at the Rose Bowl in Pasadena where licensed riders test-ride motorcycles and e-bikes in the Motorcycle Demo District, with an e-motorcycle trials course for those without a license.",
         "price": "$24.99+",
         "tags": [
           "moto",
@@ -2665,10 +2665,11 @@
           "lon": -118.242766
         },
         "coords_precise": false,
-        "start": null,
-        "end": null,
+        "start": "10:00",
+        "end": "17:00",
         "image_generated": false,
-        "enriched": 0
+        "enriched": 1,
+        "promoter": "Demo Days Festival"
       },
       {
         "track": "sports",
