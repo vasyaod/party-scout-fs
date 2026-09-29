@@ -5,7 +5,7 @@
   "location": "San Francisco & Bay Area",
   "city": "san-francisco",
   "city_label": "San Francisco",
-  "generated_at": "2026-09-25",
+  "generated_at": "2026-09-28",
   "tracks": {
     "music": [
       {
@@ -2035,14 +2035,15 @@
         "address": "316 11th St, San Francisco CA 94103",
         "why": "Intimate headline set with table service at one of SoMa's newer club rooms",
         "summary": "Deeper Purpose headlines a night at Audio SF with support from lov3l3ss; a 21+ club show with table reservations available.",
-        "promoter": "",
-        "price": "",
+        "promoter": "Audio SF",
+        "price": "$10",
         "tags": [
           "house",
           "club"
         ],
         "sources": [
-          "https://ra.co/events/2471025"
+          "https://ra.co/events/2471025",
+          "https://www.eventbrite.com/e/deeper-purpose-tickets-1996773564483"
         ],
         "tickets": [
           "https://ra.co/events/2471025"
@@ -2066,7 +2067,17 @@
         "image_generated": false,
         "popularity": 0,
         "active": true,
-        "enriched": 0
+        "enriched": 1,
+        "lineup": [
+          {
+            "name": "Deeper Purpose",
+            "instagram": null
+          },
+          {
+            "name": "lov3l3ss",
+            "instagram": null
+          }
+        ]
       },
       {
         "id": "2026-08-24-music-intro-to-vocal-production-with-d78f7a",
