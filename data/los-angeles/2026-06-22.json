@@ -165,12 +165,12 @@
         "name": "Day Trip Festival",
         "day": "Sat",
         "date": "2026-06-27",
-        "time": "12pm",
+        "time": "1pm-12am",
         "area": "Long Beach",
         "venue": "Queen Mary Waterfront",
         "address": "1126 Queens Hwy, Long Beach, CA 90802",
-        "why": "The weekend's anchor daytime rager if you want sun, water and big names.",
-        "summary": "An outdoor daytime house and techno festival on the Queen Mary waterfront in Long Beach on Saturday from noon, spanning disco-tinged grooves and headline sets across the open-air grounds.",
+        "why": "The weekend's anchor daytime rager if you want sun, water and big house/techno names, running into a midnight afterparty.",
+        "summary": "An outdoor daytime-to-night house, disco and techno festival on the Queen Mary waterfront in Long Beach, running 1pm to midnight on Saturday with headline sets from Cloonee, Odd Mob and GORDO plus a debut Green Velvet b2b Josh Baker set.",
         "price": "$104+",
         "tags": [
           "festival",
@@ -183,10 +183,13 @@
           "waterfront"
         ],
         "sources": [
-          "https://daytrip.frontgatetickets.com/"
+          "https://daytrip.frontgatetickets.com/",
+          "https://www.daytripfest.com/",
+          "https://orangecountyedm.com/2026/04/23/day-trip-festival-2026-june-27-28-queen-mary-waterfront-long-beach/"
         ],
         "tickets": [
-          "https://daytrip.frontgatetickets.com/"
+          "https://daytrip.frontgatetickets.com/",
+          "https://www.daytripfest.com/tickets/"
         ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Queen+Mary+Waterfront%2C+1126+Queens+Hwy%2C+Long+Beach%2C+CA+90802",
@@ -202,11 +205,46 @@
           "lat": 33.752257,
           "lon": -118.19108
         },
-        "start": "12:00",
-        "end": null,
+        "start": "13:00",
+        "end": "00:00",
         "coords_precise": false,
         "image_generated": false,
-        "enriched": 0
+        "enriched": 1,
+        "promoter": "Insomniac",
+        "lineup": [
+          {
+            "name": "CID",
+            "instagram": null
+          },
+          {
+            "name": "D.O.D",
+            "instagram": null
+          },
+          {
+            "name": "Green Velvet b2b Josh Baker",
+            "instagram": null
+          },
+          {
+            "name": "Odd Mob",
+            "instagram": null
+          },
+          {
+            "name": "Purple Disco Machine",
+            "instagram": null
+          },
+          {
+            "name": "GORDO",
+            "instagram": null
+          },
+          {
+            "name": "BUNT.",
+            "instagram": null
+          },
+          {
+            "name": "Notion",
+            "instagram": null
+          }
+        ]
       },
       {
         "track": "music",
