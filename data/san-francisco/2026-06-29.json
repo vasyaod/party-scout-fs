@@ -322,19 +322,23 @@
         "time": "3pm",
         "area": "Sacramento",
         "venue": "Youssefi Square",
-        "address": "Youssefi Square, Sacramento, CA 95814",
-        "why": "An 18+ daytime block party for the Sacramento crowd; melodic crossover EDM, easy entry age",
-        "summary": "An 18+ outdoor EDM and house block party on Friday July 3 at 3pm in Ali Youssefi Square, Sacramento, presented by All Day All Night with a single headliner for an afternoon-into-evening crowd.",
-        "price": "$49+",
+        "address": "Ali Youssefi Square, 7th St and K St, Sacramento, CA 95814",
+        "why": "An 18+ daytime-into-night block party for the Sacramento crowd; melodic crossover EDM, easy entry age",
+        "summary": "An 18+ outdoor block party at Ali Youssefi Square in Sacramento on Friday, July 3, running 3pm to 10pm, presented by earth1 and All Day All Night Events, with BUNT. headlining alongside DJ Dials.",
+        "price": "$60+",
         "tags": [
           "headliner",
           "edm",
           "house",
           "outdoor",
-          "daytime"
+          "daytime",
+          "block-party"
         ],
         "sources": [
-          "https://www.tixr.com/groups/alldayallnight/events/bunt-in-the-sacramento-round-youssefi-square-187565"
+          "https://www.tixr.com/groups/alldayallnight/events/bunt-in-the-sacramento-round-youssefi-square-187565",
+          "https://ra.co/events/2440713",
+          "https://www.eventbrite.com/e/bunt-in-the-sacramento-round-youssefi-square-tickets-1989110235259",
+          "https://sacramento365.com/event/bunt/"
         ],
         "tickets": [
           "https://www.tixr.com/groups/alldayallnight/events/bunt-in-the-sacramento-round-youssefi-square-187565"
@@ -356,8 +360,19 @@
         },
         "coords_precise": false,
         "start": "15:00",
-        "end": null,
-        "enriched": 0
+        "end": "22:00",
+        "enriched": 1,
+        "promoter": "All Day All Night Events",
+        "lineup": [
+          {
+            "name": "BUNT.",
+            "instagram": null
+          },
+          {
+            "name": "DJ Dials",
+            "instagram": null
+          }
+        ]
       },
       {
         "track": "music",
