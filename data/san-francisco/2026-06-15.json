@@ -137,19 +137,26 @@
         "name": "Zeds Dead",
         "day": "Sat",
         "date": "2026-06-20",
-        "time": "evening",
+        "time": "2–9pm",
         "area": "San Jose",
         "venue": "Discovery Meadow",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "180 Woz Way, San Jose, CA 95110",
+        "why": "A rare Bay Area outdoor headline stop from the bass-scene mainstays on their 2026 tour.",
+        "summary": "Toronto bass duo Zeds Dead headline an outdoor 18+ show at Discovery Meadow in downtown San Jose, running from afternoon into night.",
         "price": "",
         "tags": [
           "outdoor",
-          "headliner"
+          "headliner",
+          "bass",
+          "dubstep"
         ],
-        "sources": [],
-        "tickets": [],
+        "sources": [
+          "https://www.eventbrite.com/e/zeds-dead-discovery-meadow-san-jose-tickets-1989059158487",
+          "https://www.songkick.com/concerts/43205071-zeds-dead-at-discovery-meadow"
+        ],
+        "tickets": [
+          "https://www.eventbrite.com/e/zeds-dead-discovery-meadow-san-jose-tickets-1989059158487"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Discovery+Meadow%2C+San+Jose",
           "apple": "https://maps.apple.com/?q=Discovery+Meadow%2C+San+Jose"
@@ -166,9 +173,10 @@
           "lon": -121.892349
         },
         "coords_precise": true,
-        "start": null,
-        "end": null,
-        "enriched": 0
+        "start": "14:00",
+        "end": "21:00",
+        "enriched": 1,
+        "promoter": "15Utah"
       },
       {
         "track": "music",
