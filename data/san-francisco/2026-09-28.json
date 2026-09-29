@@ -17027,21 +17027,31 @@
         "name": "Flight Club: Adult Flight Night",
         "day": "Thu",
         "date": "2026-10-01",
-        "time": "",
-        "start": null,
-        "end": null,
+        "time": "7:00 PM - 9:00 PM",
+        "start": "19:00",
+        "end": "21:00",
         "area": "SF",
         "venue": "House of Air",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "926 Mason Street, San Francisco, CA 94129",
+        "why": "A kid-free night of trampoline dodgeball and open jumping with drinks, right in the Presidio.",
+        "summary": "House of Air's adults-only (18+) trampoline park takeover with 70+ trampolines, Jump Zone access, music, and a full bar/cafe.",
         "promoter": "",
-        "price": "",
-        "tags": [],
-        "sources": [
-          "https://sf.funcheap.com"
+        "price": "$20/hour (plus $3 required grip socks)",
+        "tags": [
+          "trampoline",
+          "adults-only",
+          "18+",
+          "nightlife-alt",
+          "presidio"
         ],
-        "tickets": [],
+        "sources": [
+          "https://sf.funcheap.com",
+          "https://sf.funcheap.com/flight-club-adult-flight-night-for-ages-18-at-house-of-air-trampoline-park-sf-52/",
+          "https://houseofair.com/calendar/flight-club-adults-only-trampoline-access-18-years-4/2026-10-01/"
+        ],
+        "tickets": [
+          "https://houseofair.my.salesforce-sites.com/Booking?pid=01tRQ000003kfMcYAI"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=House%20of%20Air%2C%20SF",
           "apple": "https://maps.apple.com/?q=House%20of%20Air%2C%20SF"
@@ -17052,7 +17062,7 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       }
     ]
