@@ -5,7 +5,7 @@
   "location": "Los Angeles & SoCal",
   "city": "los-angeles",
   "city_label": "Los Angeles",
-  "generated_at": "2026-09-28",
+  "generated_at": "2026-09-29",
   "tracks": {
     "music": [
       {
@@ -3652,24 +3652,28 @@
         "name": "Run for the Rancho - Race 2 (5K trail)",
         "day": "Thu",
         "date": "2026-06-25",
-        "time": "evening",
+        "time": "6:30pm",
         "area": "Calabasas",
-        "venue": "Calabasas",
-        "address": "Calabasas, CA",
-        "why": "Weeknight trail miles in the hills, a break from road races.",
-        "summary": "A Thursday-evening 5K trail race in Calabasas, the second installment of a summer series run on dirt rather than road.",
+        "venue": "Rancho Las Virgenes",
+        "address": "3700 Las Virgenes Rd, Calabasas, CA 91302",
+        "why": "Weeknight trail 5K through oak groves and Santa Monica Mountains views, second of a three-race summer series.",
+        "summary": "The second race in the Run for the Rancho summer series, a family-friendly 5K trail run on dirt paths through Rancho Las Virgenes, with a 1K kids run beforehand; proceeds benefit the LA County Fire Department Community Brigade.",
         "price": "$30–40",
         "tags": [
           "running",
           "5k",
           "trail",
-          "series"
+          "series",
+          "family-friendly"
         ],
         "sources": [
-          "https://www.runguides.com/los-angeles/runs"
+          "https://www.runguides.com/los-angeles/runs",
+          "https://runsignup.com/Race/CA/Calabasas/RunfortheRanch2024",
+          "https://www.lvmwd.gov/2026-07-02-run-for-the-rancho-5k-series"
         ],
         "tickets": [
-          "https://www.runguides.com/los-angeles/runs"
+          "https://www.runguides.com/los-angeles/runs",
+          "https://runsignup.com/Race/CA/Calabasas/RunfortheRanch2024"
         ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Calabasas%2C+Calabasas%2C+CA",
@@ -3685,11 +3689,12 @@
           "lat": 34.154226,
           "lon": -118.644558
         },
-        "start": null,
+        "start": "18:30",
         "end": null,
         "coords_precise": false,
         "image_generated": false,
-        "enriched": 0
+        "enriched": 1,
+        "promoter": "Fleet Feet Agoura Hills"
       },
       {
         "track": "sports",
