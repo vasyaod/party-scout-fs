@@ -1,6 +1,6 @@
 {
   "kind": "stats",
-  "generated_at": "2026-09-29T02:09:13+00:00",
+  "generated_at": "2026-09-29T02:12:13+00:00",
   "weights_version": "v1",
   "total": {
     "n": 3083,
@@ -12,15 +12,15 @@
     "by_field_fixable": {
       "image": 2353,
       "coords": 1838,
-      "tickets": 1208,
-      "start": 883,
+      "tickets": 1207,
+      "start": 882,
       "price": 819,
       "time": 704,
       "why": 600,
       "category": 559,
       "summary": 543,
       "tags": 512,
-      "address": 508,
+      "address": 507,
       "sources": 452,
       "venue": 104,
       "maps": 88
@@ -44,7 +44,7 @@
         "by_field_fixable": {
           "image": 957,
           "coords": 688,
-          "start": 419,
+          "start": 418,
           "tickets": 402,
           "price": 369,
           "time": 296,
@@ -53,7 +53,7 @@
           "summary": 231,
           "tags": 231,
           "sources": 227,
-          "address": 198,
+          "address": 197,
           "venue": 22,
           "maps": 11
         },
@@ -1837,7 +1837,7 @@
           "n": 65,
           "summary": {
             "n": 65,
-            "median": 0.9358,
+            "median": 0.937,
             "p25": 0.9077,
             "pct_ge_075": 1.0,
             "invalid": 0,
@@ -1845,8 +1845,8 @@
             "by_field_fixable": {
               "coords": 57,
               "image": 22,
-              "start": 20,
-              "address": 10
+              "start": 19,
+              "address": 9
             },
             "weights_version": "v1"
           },
@@ -1911,7 +1911,7 @@
               "date": "2026-06-27",
               "day": "Sat",
               "n": 31,
-              "median": 0.9348,
+              "median": 0.937,
               "p25": 0.9077,
               "pct_ge_075": 1.0,
               "invalid": 0,
@@ -1947,7 +1947,7 @@
         "by_field_fixable": {
           "image": 1396,
           "coords": 1150,
-          "tickets": 806,
+          "tickets": 805,
           "start": 464,
           "price": 450,
           "time": 408,
@@ -3548,7 +3548,7 @@
             "tba_rate": 0.046,
             "by_field_fixable": {
               "image": 52,
-              "tickets": 34,
+              "tickets": 33,
               "coords": 18,
               "address": 4,
               "price": 3,
@@ -3562,7 +3562,7 @@
               "date": "2026-06-29",
               "day": "Mon",
               "n": 3,
-              "median": 0.8963,
+              "median": 0.9231,
               "p25": 0.8923,
               "pct_ge_075": 1.0,
               "invalid": 0,

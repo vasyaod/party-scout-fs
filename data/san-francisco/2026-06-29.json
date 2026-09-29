@@ -1574,11 +1574,11 @@
         "day": "Mon",
         "date": "2026-06-29",
         "time": "9pm–2am",
-        "area": "SF",
+        "area": "SoMa",
         "venue": "DNA Lounge",
         "address": "375 11th St, San Francisco, CA 94103",
-        "why": "The world's oldest weekly goth-industrial night; Monday regulars only, no tourists, six DJs two rooms",
-        "summary": "Death Guild is San Francisco's legendary Monday goth/industrial/synthpop night at DNA Lounge, running 9:30pm–2:30am on June 29. Six DJs across two rooms play gothic, industrial, synthpop and darkwave; 18+, $5 advance/$8 after 10:30pm.",
+        "why": "World's longest-running weekly goth night, cheap door, 18+, two rooms all night",
+        "summary": "Death Guild is the world's oldest weekly goth/industrial dance night. Six DJs in two rooms play gothic, industrial, synthpop, noise, and ambient every Monday at DNA Lounge, 9pm–2am, 18+.",
         "price": "$5–8",
         "tags": [
           "goth",
@@ -1586,9 +1586,12 @@
           "weekly"
         ],
         "sources": [
-          "https://www.dnalounge.com/calendar/2026/06-29.html"
+          "https://www.dnalounge.com/calendar/2026/06-29.html",
+          "http://www.deathguild.com/"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://www.dnalounge.com/tickets/deathguild/"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=DNA+Lounge%2C+375+11th+St%2C+San+Francisco%2C+CA+94103",
           "apple": "https://maps.apple.com/?q=DNA+Lounge%2C+375+11th+St%2C+San+Francisco%2C+CA+94103"
@@ -1607,7 +1610,30 @@
         "eid": "death-guild-fc87",
         "start": "21:00",
         "end": "02:00",
-        "enriched": 0
+        "enriched": 1,
+        "promoter": "Death Guild",
+        "lineup": [
+          {
+            "name": "Melting Girl",
+            "instagram": null
+          },
+          {
+            "name": "Joe Radio",
+            "instagram": null
+          },
+          {
+            "name": "Decay",
+            "instagram": null
+          },
+          {
+            "name": "Sage",
+            "instagram": null
+          },
+          {
+            "name": "Bit",
+            "instagram": null
+          }
+        ]
       },
       {
         "track": "music",
