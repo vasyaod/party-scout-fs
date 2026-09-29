@@ -3445,24 +3445,29 @@
         "name": "Run for the Rancho - Race 3 (5K trail)",
         "day": "Thu",
         "date": "2026-07-02",
-        "time": "evening",
+        "time": "6pm Kiddie 1K, 6:30pm 5K",
         "area": "Calabasas",
         "venue": "Calabasas",
-        "address": "Calabasas, CA",
-        "why": "Trail dirt instead of road, and an evening start.",
-        "summary": "A Thursday evening 5K trail race in Calabasas, the third race in an ongoing series, entry $30-40.",
+        "address": "3700 Las Virgenes Rd, Calabasas, CA 91302",
+        "why": "Final race of the series on a scenic open-space trail with sweeping Santa Monica Mountains views.",
+        "summary": "The third and final race in a summer Thursday-evening 5K trail series at Rancho Las Virgenes Open Space Preserve, with a Kiddie 1K at 6pm followed by the 5K at 6:30pm on dirt paths through oak-studded, rolling terrain.",
         "price": "$30–40",
         "tags": [
           "running",
           "5k",
           "trail",
-          "series"
+          "series",
+          "family-friendly"
         ],
         "sources": [
-          "https://www.runguides.com/los-angeles/runs"
+          "https://www.runguides.com/los-angeles/runs",
+          "https://www.lvmwd.gov/2026-07-02-run-for-the-rancho-5k-series",
+          "https://runsignup.com/Race/CA/Calabasas/RunfortheRanch2024",
+          "https://www.conejovalleyguide.com/local-events/run-for-the-rancho-5k-race-series"
         ],
         "tickets": [
-          "https://www.runguides.com/los-angeles/runs"
+          "https://www.runguides.com/los-angeles/runs",
+          "https://runsignup.com/Race/CA/Calabasas/RunfortheRanch2024"
         ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Calabasas%2C+Calabasas%2C+CA",
@@ -3480,9 +3485,10 @@
         },
         "coords_precise": true,
         "image_generated": false,
-        "start": null,
+        "start": "18:30",
         "end": null,
-        "enriched": 0
+        "enriched": 1,
+        "promoter": "Las Virgenes Municipal Water District"
       },
       {
         "track": "sports",
