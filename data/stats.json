@@ -1,6 +1,6 @@
 {
   "kind": "stats",
-  "generated_at": "2026-09-29T02:56:30+00:00",
+  "generated_at": "2026-09-29T02:59:26+00:00",
   "weights_version": "v1",
   "total": {
     "n": 3083,
@@ -13,14 +13,14 @@
       "image": 2353,
       "coords": 1838,
       "tickets": 1203,
-      "start": 871,
+      "start": 870,
       "price": 817,
       "time": 703,
       "why": 590,
       "category": 559,
       "summary": 533,
       "tags": 511,
-      "address": 493,
+      "address": 492,
       "sources": 443,
       "venue": 103,
       "maps": 88
@@ -44,7 +44,7 @@
         "by_field_fixable": {
           "image": 957,
           "coords": 688,
-          "start": 414,
+          "start": 413,
           "tickets": 402,
           "price": 369,
           "time": 296,
@@ -1838,14 +1838,14 @@
           "summary": {
             "n": 65,
             "median": 0.9404,
-            "p25": 0.9094,
+            "p25": 0.9127,
             "pct_ge_075": 1.0,
             "invalid": 0,
             "tba_rate": 0.1231,
             "by_field_fixable": {
               "coords": 57,
               "image": 22,
-              "start": 15,
+              "start": 14,
               "address": 5
             },
             "weights_version": "v1"
@@ -1911,7 +1911,7 @@
               "date": "2026-06-27",
               "day": "Sat",
               "n": 31,
-              "median": 0.9404,
+              "median": 0.9654,
               "p25": 0.9346,
               "pct_ge_075": 1.0,
               "invalid": 0,
@@ -1954,7 +1954,7 @@
           "why": 338,
           "category": 319,
           "summary": 302,
-          "address": 300,
+          "address": 299,
           "tags": 280,
           "sources": 216,
           "venue": 81,
@@ -3643,13 +3643,13 @@
           "summary": {
             "n": 61,
             "median": 0.9684,
-            "p25": 0.8909,
+            "p25": 0.8923,
             "pct_ge_075": 0.9836,
             "invalid": 0,
             "tba_rate": 0.0656,
             "by_field_fixable": {
               "image": 19,
-              "address": 18,
+              "address": 17,
               "tags": 9,
               "coords": 8,
               "tickets": 8,
@@ -3710,7 +3710,7 @@
               "date": "2026-06-26",
               "day": "Fri",
               "n": 24,
-              "median": 0.9231,
+              "median": 0.9259,
               "p25": 0.8889,
               "pct_ge_075": 0.9583,
               "invalid": 0,

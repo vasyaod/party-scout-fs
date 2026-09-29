@@ -2783,13 +2783,13 @@
         "name": "Tmple (Hybrid Live Set) + Davi",
         "day": "Sat",
         "date": "2026-06-27",
-        "time": "evening",
+        "time": "12pm-10pm",
         "area": "Malibu",
         "venue": "Cielo Farms",
         "address": "32200 Mulholland Hwy, Malibu, CA 90265",
         "why": "Vineyard-in-the-hills setting that beats any club this weekend.",
-        "summary": "A Saturday-evening outdoor event at Cielo Farms vineyard in Malibu featuring a hybrid live progressive and tech-house set, a 21+ gathering in the hills.",
-        "price": "$85",
+        "summary": "A daytime-into-evening outdoor gathering at Cielo Farms vineyard in Malibu, CIELO DU SOL pairs a golden-hour set from UK deep/melodic/progressive house act TMPLE with an LA groove-driven set from Davi, alongside boutique wine, charcuterie and brick-oven pizza.",
+        "price": "$56-85",
         "tags": [
           "progressive-house",
           "tech-house",
@@ -2799,10 +2799,14 @@
           "21+"
         ],
         "sources": [
-          "https://dice.fm/event/nvkxm3-tmplehybrid-live-set-davi-27th-jun-cielo-farms-malibu-tickets"
+          "https://dice.fm/event/nvkxm3-tmplehybrid-live-set-davi-27th-jun-cielo-farms-malibu-tickets",
+          "https://dice.fm/event/nvkxm3-tmple-hybrid-live-set-davi-cielo-du-sol-in-malibu-27th-jun-cielo-farms-malibu-tickets",
+          "https://www.eventbrite.com/e/cielo-du-sol-tmple-davi-tickets-1981614255582"
         ],
         "tickets": [
-          "https://dice.fm/event/nvkxm3-tmplehybrid-live-set-davi-27th-jun-cielo-farms-malibu-tickets"
+          "https://dice.fm/event/nvkxm3-tmplehybrid-live-set-davi-27th-jun-cielo-farms-malibu-tickets",
+          "https://dice.fm/event/nvkxm3-tmple-hybrid-live-set-davi-cielo-du-sol-in-malibu-27th-jun-cielo-farms-malibu-tickets",
+          "https://www.eventbrite.com/e/cielo-du-sol-tmple-davi-tickets-1981614255582"
         ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Cielo+Farms%2C+32200+Mulholland+Hwy%2C+Malibu%2C+CA+90265",
@@ -2819,10 +2823,21 @@
           "lon": -118.689423
         },
         "coords_precise": false,
-        "start": null,
-        "end": null,
+        "start": "12:00",
+        "end": "22:00",
         "image_generated": false,
-        "enriched": 0
+        "enriched": 1,
+        "promoter": "Cielo du Sol",
+        "lineup": [
+          {
+            "name": "TMPLE",
+            "instagram": null
+          },
+          {
+            "name": "Davi",
+            "instagram": null
+          }
+        ]
       },
       {
         "track": "music",
