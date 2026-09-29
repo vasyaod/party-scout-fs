@@ -14776,25 +14776,36 @@
         "id": "2026-09-28-music-sf-s-free-dft-monthly-block-pa-9b63f0",
         "eid": "sf-s-free-dft-monthly-bl-bea5",
         "track": "music",
-        "category": "",
+        "category": "Street Party",
         "name": "SF's Free DFT Monthly Block Party",
         "day": "Thu",
         "date": "2026-10-01",
-        "time": "",
-        "start": null,
-        "end": null,
+        "time": "5-10pm",
+        "start": "17:00",
+        "end": "22:00",
         "area": "SF",
         "venue": "2nd Street (Downtown)",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "2nd St between Market St & Howard St, San Francisco, CA",
+        "why": "Free all-ages street festival with three blocks of DJs, dancing and drag headlined by Mr. Carmack",
+        "summary": "Downtown First Thursdays closes three blocks of 2nd Street for a free monthly street party with multiple stages of DJs, drag performances and dance halls, headlined by Mr. Carmack on the Howard Stage.",
         "promoter": "",
-        "price": "",
-        "tags": [],
-        "sources": [
-          "https://sf.funcheap.com"
+        "price": "Free",
+        "tags": [
+          "free",
+          "outdoor",
+          "street-party",
+          "all-ages",
+          "drag",
+          "dj"
         ],
-        "tickets": [],
+        "sources": [
+          "https://sf.funcheap.com",
+          "https://sf.funcheap.com/sfs-free-dft-monthly-block-party-downtown-first-thursdays-2026-4/",
+          "https://www.dftsf.com/"
+        ],
+        "tickets": [
+          "https://www.eventbrite.com/e/downtown-first-thursdays-w-mr-carmack-oct-1-2026-tickets-1980043196502"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=2nd%20Street%20%28Downtown%29%2C%20SF",
           "apple": "https://maps.apple.com/?q=2nd%20Street%20%28Downtown%29%2C%20SF"
@@ -14802,11 +14813,21 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://party-scout.app/img/gen/sf-s-free-dft-monthly-bl-bea5.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
-        "active": true
+        "enriched": 1,
+        "active": true,
+        "lineup": [
+          {
+            "name": "Mr. Carmack",
+            "instagram": null
+          },
+          {
+            "name": "DJ Umami",
+            "instagram": null
+          }
+        ]
       },
       {
         "id": "2026-09-28-music-slashed-return-to-hellville-c81994",
