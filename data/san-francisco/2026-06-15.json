@@ -90,18 +90,26 @@
         "name": "Yotto",
         "day": "Sat",
         "date": "2026-06-20",
-        "time": "evening",
+        "time": "3–9pm",
         "area": "SF",
         "venue": "The San Francisco Mint",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "88 5th St, San Francisco, CA 94103",
+        "why": "A sold-out-before headliner returning to the same historic venue that packed out last time",
+        "summary": "Melodic house/techno producer Yotto returns to The San Francisco Mint's historic vault-turned-venue for a 21+ afternoon-into-evening set.",
         "price": "",
         "tags": [
-          "headliner"
+          "headliner",
+          "melodic-house",
+          "melodic-techno",
+          "21+"
         ],
-        "sources": [],
-        "tickets": [],
+        "sources": [
+          "https://ra.co/events/2426931",
+          "https://www.eventbrite.com/e/yotto-at-the-sf-mint-tickets-1988213086864"
+        ],
+        "tickets": [
+          "https://www.eventbrite.com/e/yotto-at-the-sf-mint-tickets-1988213086864"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=The+San+Francisco+Mint%2C+SF",
           "apple": "https://maps.apple.com/?q=The+San+Francisco+Mint%2C+SF"
@@ -118,9 +126,10 @@
           "lon": -122.40752
         },
         "coords_precise": false,
-        "start": null,
-        "end": null,
-        "enriched": 0
+        "start": "15:00",
+        "end": "21:00",
+        "enriched": 1,
+        "promoter": "All Day All Night Events"
       },
       {
         "track": "music",

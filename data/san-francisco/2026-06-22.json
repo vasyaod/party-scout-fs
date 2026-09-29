@@ -3006,21 +3006,24 @@
         "name": "That Dam Race @ Calero Reservoir",
         "day": "Sat",
         "date": "2026-06-27",
-        "time": "",
+        "time": "8am–2pm",
         "area": "San Jose",
         "venue": "Calero County Park",
         "address": "23205 McKean Rd, San Jose, CA 95120",
         "why": "Remote South Bay backcountry trail — for runners who want wilderness, not a city course",
-        "summary": "Trail half-marathon and marathon through wild Calero Reservoir backcountry in the Santa Cruz foothills, starting from Calero County Park in South San Jose.",
+        "summary": "Trail marathon, half-marathon, and 13K through the hilly oak-studded terrain of Calero County Park, starting near the Rancho San Vicente parking area with reservoir views. All finishers get a medal and shirt; 6-hour course cutoff.",
         "price": "$85–95",
         "tags": [
           "running",
           "trail",
           "half-marathon",
-          "marathon"
+          "marathon",
+          "13K"
         ],
         "sources": [
-          "https://www.thatdamrace.com/"
+          "https://www.thatdamrace.com/",
+          "https://shellbackracing.com/that-dam-race/",
+          "https://my.raceresult.com/391633/info"
         ],
         "tickets": [
           "https://my.raceresult.com/391633/registration"
@@ -3041,9 +3044,10 @@
         },
         "coords_precise": true,
         "image_generated": false,
-        "start": null,
-        "end": null,
-        "enriched": 0
+        "start": "08:00",
+        "end": "14:00",
+        "enriched": 1,
+        "promoter": "Shellback Racing"
       },
       {
         "track": "sports",
