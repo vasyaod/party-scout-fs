@@ -2463,7 +2463,7 @@
         "time": "9pm-2am",
         "area": "SF",
         "venue": "Q Bar",
-        "address": "",
+        "address": "456 Castro St, San Francisco, CA 94114",
         "why": "Costume-forward Castro bounce party; come dressed cosmic-glam or feel underdressed",
         "summary": "Slurrp celebrates its first anniversary at Q Bar in the Castro with high-energy house, techno, and pop from Sequoixa, Galvanize, and headliner Giuliano (Trade, Bounce House, BAAAHS). Cosmic-glam attire encouraged, 9pm–2am.",
         "price": "$15",
@@ -2497,7 +2497,22 @@
         "image_generated": false,
         "start": "21:00",
         "end": "02:00",
-        "enriched": 0
+        "enriched": 1,
+        "promoter": "Slurrp",
+        "lineup": [
+          {
+            "name": "Sequoixa",
+            "instagram": null
+          },
+          {
+            "name": "Galvanize",
+            "instagram": null
+          },
+          {
+            "name": "Giuliano",
+            "instagram": null
+          }
+        ]
       },
       {
         "track": "music",

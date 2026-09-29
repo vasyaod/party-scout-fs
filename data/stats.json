@@ -1,6 +1,6 @@
 {
   "kind": "stats",
-  "generated_at": "2026-09-29T04:31:44+00:00",
+  "generated_at": "2026-09-29T04:35:36+00:00",
   "weights_version": "v1",
   "total": {
     "n": 3083,
@@ -20,7 +20,7 @@
       "category": 554,
       "summary": 517,
       "tags": 497,
-      "address": 459,
+      "address": 457,
       "sources": 428,
       "venue": 103,
       "maps": 88
@@ -53,7 +53,7 @@
           "tags": 228,
           "summary": 227,
           "sources": 221,
-          "address": 185,
+          "address": 184,
           "venue": 22,
           "maps": 11
         },
@@ -1838,7 +1838,7 @@
           "summary": {
             "n": 65,
             "median": 0.9654,
-            "p25": 0.9348,
+            "p25": 0.9358,
             "pct_ge_075": 1.0,
             "invalid": 0,
             "tba_rate": 0.1231,
@@ -1846,7 +1846,7 @@
               "coords": 57,
               "image": 22,
               "start": 11,
-              "address": 2,
+              "address": 1,
               "price": 1
             },
             "weights_version": "v1"
@@ -1890,7 +1890,7 @@
               "date": "2026-06-25",
               "day": "Thu",
               "n": 7,
-              "median": 0.9077,
+              "median": 0.9346,
               "p25": 0.9077,
               "pct_ge_075": 1.0,
               "invalid": 0,
@@ -1955,7 +1955,7 @@
           "why": 326,
           "category": 317,
           "summary": 290,
-          "address": 274,
+          "address": 273,
           "tags": 269,
           "sources": 207,
           "venue": 81,
@@ -3639,8 +3639,8 @@
           "n": 61,
           "summary": {
             "n": 61,
-            "median": 0.9724,
-            "p25": 0.9667,
+            "median": 1.0,
+            "p25": 0.9673,
             "pct_ge_075": 1.0,
             "invalid": 0,
             "tba_rate": 0.0656,
@@ -3649,7 +3649,7 @@
               "coords": 8,
               "tickets": 8,
               "price": 4,
-              "address": 4,
+              "address": 3,
               "tags": 3,
               "sources": 1
             },
