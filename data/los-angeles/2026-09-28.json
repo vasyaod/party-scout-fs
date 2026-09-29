@@ -1419,23 +1419,31 @@
         "id": "2026-09-28-music-jam-city-30a515",
         "eid": "jam-city-60b2",
         "track": "music",
-        "category": "",
+        "category": "concert",
         "name": "Jam City",
         "day": "Thu",
         "date": "2026-10-01",
-        "time": "",
+        "time": "10:00 PM",
         "start": null,
         "end": null,
-        "area": "LA",
+        "area": "Silver Lake",
         "venue": "El Cid",
-        "address": "",
-        "why": "",
-        "summary": "",
-        "promoter": "",
+        "address": "4212 Sunset Blvd, Los Angeles, CA 90029",
+        "why": "A rare intimate LA show from Jam City (Night Slugs) touring his latest record, in support slots from fun2bjane and Capes.",
+        "summary": "Jam City brings his new album My World to El Cid, with support from fun2bjane and Capes.",
+        "promoter": "Minty Boi",
         "price": "$26.96",
-        "tags": [],
-        "sources": [],
-        "tickets": [],
+        "tags": [
+          "electronic",
+          "dj-set",
+          "18+"
+        ],
+        "sources": [
+          "https://dice.fm/event/pywkbp-minty-boi-presents-jam-city-in-los-angeles-1st-oct-el-cid-los-angeles-tickets"
+        ],
+        "tickets": [
+          "https://dice.fm/event/pywkbp-minty-boi-presents-jam-city-in-los-angeles-1st-oct-el-cid-los-angeles-tickets"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=El%20Cid%2C%20LA",
           "apple": "https://maps.apple.com/?q=El%20Cid%2C%20LA"
@@ -1443,11 +1451,22 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://party-scout.app/img/gen/jam-city-60b2.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
-        "active": true
+        "enriched": 1,
+        "active": true,
+        "lineup": [
+          {
+            "name": "Jam City"
+          },
+          {
+            "name": "fun2bjane"
+          },
+          {
+            "name": "Capes"
+          }
+        ]
       },
       {
         "id": "2026-09-28-music-kettama-785420",
