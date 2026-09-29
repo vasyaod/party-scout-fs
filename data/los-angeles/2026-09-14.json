@@ -5,7 +5,7 @@
   "location": "Los Angeles & SoCal",
   "city": "los-angeles",
   "city_label": "Los Angeles",
-  "generated_at": "2026-09-25",
+  "generated_at": "2026-09-28",
   "tracks": {
     "music": [
       {
@@ -431,23 +431,32 @@
         "id": "2026-09-14-music-daniel-avery-touching-ice-draa-a4fa4f",
         "eid": "daniel-avery-touching-ic-69a2",
         "track": "music",
-        "category": "",
+        "category": "Electronic",
         "name": "Daniel Avery, Touching Ice, Draag",
         "day": "Thu",
         "date": "2026-09-17",
-        "time": "",
-        "start": null,
+        "time": "9pm",
+        "start": "21:00",
         "end": null,
-        "area": "Los Angeles, CA",
+        "area": "Mid-Wilshire",
         "venue": "El Rey Theatre LA",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "5515 Wilshire Blvd, Los Angeles, CA 90036",
+        "why": "A rare LA live set from acclaimed techno/electronic producer Daniel Avery.",
+        "summary": "UK electronic producer Daniel Avery brings his live show to the El Rey Theatre, with support from Touching Ice and Draag.",
         "promoter": "",
-        "price": "",
-        "tags": [],
-        "sources": [],
-        "tickets": [],
+        "price": "$46",
+        "tags": [
+          "electronic",
+          "techno",
+          "live"
+        ],
+        "sources": [
+          "https://www.songkick.com/concerts/43287583-daniel-avery-at-el-rey-theatre",
+          "https://www.eventticketscenter.com/daniel-avery-los-angeles-09-17-2026/8098707/t"
+        ],
+        "tickets": [
+          "https://www.axs.com/events/1485526/daniel-avery-tickets"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=El%20Rey%20Theatre%20LA%2C%20Los%20Angeles%2C%20CA",
           "apple": "https://maps.apple.com/?q=El%20Rey%20Theatre%20LA%2C%20Los%20Angeles%2C%20CA"
@@ -458,7 +467,7 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
