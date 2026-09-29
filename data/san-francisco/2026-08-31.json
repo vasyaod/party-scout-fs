@@ -5,7 +5,7 @@
   "location": "San Francisco & Bay Area",
   "city": "san-francisco",
   "city_label": "San Francisco",
-  "generated_at": "2026-09-25",
+  "generated_at": "2026-09-28",
   "tracks": {
     "music": [
       {
@@ -1004,18 +1004,21 @@
         "address": "316 11th St, San Francisco, CA 94103",
         "why": "Festival-circuit EDM headliner in an intimate club room instead of a festival stage",
         "summary": "Borgeous, a Spinnin'/Revealed-label big-room and future-house producer, plays a club set at Audio SF with support from Azimi.",
-        "promoter": "",
-        "price": "",
+        "promoter": "Audio SF",
+        "price": "$10 RSVP before 11pm",
         "tags": [
           "edm",
           "big-room",
           "festival-act"
         ],
         "sources": [
-          "https://ra.co/events/2505182"
+          "https://ra.co/events/2505182",
+          "https://m.audiosf.com/event/borgeous-09-06/",
+          "https://www.eventbrite.com/e/borgeous-tickets-1996654839373"
         ],
         "tickets": [
-          "https://ra.co/events/2505182"
+          "https://ra.co/events/2505182",
+          "https://www.eventbrite.com/e/borgeous-tickets-1996654839373"
         ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=316%2011th%20St%2C%20San%20Francisco%2C%20CA%2094103",
@@ -1036,7 +1039,17 @@
         "image_generated": false,
         "popularity": 0,
         "active": true,
-        "enriched": 0
+        "enriched": 1,
+        "lineup": [
+          {
+            "name": "Borgeous",
+            "instagram": null
+          },
+          {
+            "name": "Azimi",
+            "instagram": null
+          }
+        ]
       },
       {
         "id": "2026-08-31-music-give-until-gone-57e3d5",
