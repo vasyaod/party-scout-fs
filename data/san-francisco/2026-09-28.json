@@ -13115,22 +13115,32 @@
         "id": "2026-09-28-music-civic-center-soundtrack-9e1ad9",
         "eid": "civic-center-soundtrack-0501",
         "track": "music",
-        "category": "",
+        "category": "Free lunchtime concert",
         "name": "Civic Center Soundtrack",
         "day": "Thu",
         "date": "2026-10-01",
-        "time": "",
-        "start": null,
-        "end": null,
-        "area": "",
+        "time": "12–3pm",
+        "start": "12:00",
+        "end": "15:00",
+        "area": "SF",
         "venue": "Fulton Plaza",
-        "address": "",
-        "why": "",
-        "summary": "",
-        "promoter": "",
-        "price": "",
-        "tags": [],
-        "sources": [],
+        "address": "147 Fulton St, San Francisco, CA 94102",
+        "why": "Free live music on your lunch break, steps from the library, with food trucks on site",
+        "summary": "A free lunchtime concert at Fulton Plaza between the Main Library and Asian Art Museum, part of Illuminate's ongoing Civic Center Soundtrack series with live local music and food trucks.",
+        "promoter": "Illuminate",
+        "price": "Free",
+        "tags": [
+          "free",
+          "outdoor",
+          "daytime",
+          "lunchtime",
+          "live-music"
+        ],
+        "sources": [
+          "https://illuminate.org/venues/fulton-street-plaza/",
+          "https://sfciviccenter.org/event/civic-center-soundtrack-concert-series/",
+          "https://sfrecpark.org/Calendar.aspx?EID=8722"
+        ],
         "tickets": [],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Fulton%20Plaza",
@@ -13142,8 +13152,14 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
-        "active": true
+        "enriched": 1,
+        "active": true,
+        "lineup": [
+          {
+            "name": "T-ranch",
+            "instagram": null
+          }
+        ]
       },
       {
         "id": "2026-09-28-music-climax-feat-dj-freshie-all-nig-bdfb4d",
