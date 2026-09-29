@@ -1730,12 +1730,12 @@
         "name": "Orolink: Ms. Ed + Andy Oro",
         "day": "Thu",
         "date": "2026-06-25",
-        "time": "9pm",
-        "area": "Los Angeles",
+        "time": "8:30pm",
+        "area": "Chinatown",
         "venue": "Apotheke",
-        "address": "",
-        "why": "Free midweek house-techno, the cheapest Thursday in town.",
-        "summary": "A free Thursday-night house, techno and electro party at Apotheke in Los Angeles starting 9pm, a 21+ no-cover event.",
+        "address": "1746 N Spring St, Los Angeles, CA 90012",
+        "why": "Free midweek house-techno in a stylish speakeasy-style bar, the cheapest Thursday in town.",
+        "summary": "A free Thursday-night house, techno and electro party at Apotheke, a pharmacy-themed cocktail lounge in Chinatown, starting 8:30pm with no cover.",
         "price": "Free",
         "tags": [
           "free",
@@ -1771,9 +1771,20 @@
           "lon": -118.242766
         },
         "coords_precise": false,
-        "start": "21:00",
-        "end": null,
-        "enriched": 0
+        "start": "20:30",
+        "end": "00:00",
+        "enriched": 1,
+        "promoter": "OROLINK",
+        "lineup": [
+          {
+            "name": "Ms. Ed",
+            "instagram": null
+          },
+          {
+            "name": "Andy Oro",
+            "instagram": null
+          }
+        ]
       },
       {
         "track": "music",
