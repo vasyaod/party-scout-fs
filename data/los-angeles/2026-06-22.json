@@ -2313,7 +2313,7 @@
         "name": "Rancho Rave (ETC!ETC!, MichaelBM, Bautista +)",
         "day": "Sat",
         "date": "2026-06-27",
-        "time": "evening",
+        "time": "5pm",
         "area": "Pico Rivera",
         "venue": "Pico Rivera Sports Arena",
         "address": "11003 Sports Arena Dr, Pico Rivera, CA 90660",
@@ -2329,7 +2329,8 @@
           "21+"
         ],
         "sources": [
-          "https://www.eventbrite.com/e/rancho-rave-pico-rivera-sports-arena-tickets-1985617484347"
+          "https://www.eventbrite.com/e/rancho-rave-pico-rivera-sports-arena-tickets-1985617484347",
+          "https://picoriverasportsarena.com/en/evento/rancho-rave-pico-rivera-sports-arena/"
         ],
         "tickets": [
           "https://www.eventbrite.com/e/rancho-rave-pico-rivera-sports-arena-tickets-1985617484347"
@@ -2349,10 +2350,11 @@
           "lon": -118.096735
         },
         "coords_precise": false,
-        "start": null,
-        "end": null,
+        "start": "17:00",
+        "end": "01:00",
         "image_generated": false,
-        "enriched": 0
+        "enriched": 1,
+        "promoter": "Ave 26"
       },
       {
         "track": "music",
