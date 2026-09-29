@@ -5,7 +5,7 @@
   "location": "San Francisco & Bay Area",
   "city": "san-francisco",
   "city_label": "San Francisco",
-  "generated_at": "2026-06-17",
+  "generated_at": "2026-09-28",
   "tracks": {
     "music": [
       {
@@ -43,7 +43,8 @@
         },
         "coords_precise": true,
         "start": "21:00",
-        "end": null
+        "end": null,
+        "enriched": 0
       },
       {
         "track": "music",
@@ -80,7 +81,8 @@
         },
         "coords_precise": true,
         "start": "21:00",
-        "end": null
+        "end": null,
+        "enriched": 0
       },
       {
         "track": "music",
@@ -117,7 +119,8 @@
         },
         "coords_precise": false,
         "start": null,
-        "end": null
+        "end": null,
+        "enriched": 0
       },
       {
         "track": "music",
@@ -155,7 +158,8 @@
         },
         "coords_precise": true,
         "start": null,
-        "end": null
+        "end": null,
+        "enriched": 0
       },
       {
         "track": "music",
@@ -194,7 +198,8 @@
         },
         "coords_precise": false,
         "start": null,
-        "end": null
+        "end": null,
+        "enriched": 0
       },
       {
         "track": "music",
@@ -229,7 +234,8 @@
         },
         "coords_precise": true,
         "start": "21:00",
-        "end": null
+        "end": null,
+        "enriched": 0
       },
       {
         "track": "music",
@@ -266,7 +272,8 @@
         },
         "coords_precise": true,
         "start": "21:00",
-        "end": null
+        "end": null,
+        "enriched": 0
       },
       {
         "track": "music",
@@ -304,7 +311,8 @@
         },
         "coords_precise": false,
         "start": null,
-        "end": null
+        "end": null,
+        "enriched": 0
       },
       {
         "track": "music",
@@ -341,7 +349,8 @@
         },
         "coords_precise": false,
         "start": null,
-        "end": null
+        "end": null,
+        "enriched": 0
       },
       {
         "track": "music",
@@ -376,7 +385,8 @@
         },
         "coords_precise": true,
         "start": "22:00",
-        "end": null
+        "end": null,
+        "enriched": 0
       }
     ],
     "sports": [
@@ -386,16 +396,17 @@
         "name": "Go Skateboarding Day — free lessons + giveaways",
         "day": "Sun",
         "date": "2026-06-21",
-        "time": "Jun 21",
+        "time": "4pm",
         "area": "Pacifica",
         "venue": "Pacifica Skatepark",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "540 Crespi Dr, Pacifica, CA",
+        "why": "A free, no-pressure lesson session for beginners right at the beach-adjacent Pacifica park, not a competition or vendor expo.",
+        "summary": "Free skateboard lessons and giveaways at Pacifica Skatepark for Go Skateboarding Day, an annual grassroots celebration held every June 21.",
         "price": "Free",
         "tags": [
           "skate",
-          "free"
+          "free",
+          "family"
         ],
         "sources": [
           "https://goskate.com/top/go-skateboarding-day/"
@@ -417,8 +428,9 @@
           "lon": -122.500201
         },
         "coords_precise": true,
-        "start": null,
-        "end": null
+        "start": "16:00",
+        "end": null,
+        "enriched": 1
       },
       {
         "track": "sports",
@@ -455,7 +467,8 @@
         },
         "coords_precise": false,
         "start": null,
-        "end": null
+        "end": null,
+        "enriched": 0
       },
       {
         "track": "sports",
@@ -492,7 +505,8 @@
         },
         "coords_precise": true,
         "start": "17:30",
-        "end": null
+        "end": null,
+        "enriched": 0
       },
       {
         "track": "sports",
@@ -529,7 +543,8 @@
         },
         "coords_precise": false,
         "start": null,
-        "end": null
+        "end": null,
+        "enriched": 0
       },
       {
         "track": "sports",
@@ -567,7 +582,8 @@
         },
         "coords_precise": false,
         "start": "09:00",
-        "end": null
+        "end": null,
+        "enriched": 0
       }
     ]
   }
