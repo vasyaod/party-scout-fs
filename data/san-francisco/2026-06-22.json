@@ -2331,7 +2331,8 @@
           "rsvp"
         ],
         "sources": [
-          "https://www.instagram.com/nyxlatenight/"
+          "https://www.instagram.com/nyxlatenight/",
+          "https://www.nyxlatenight.com/"
         ],
         "tickets": [],
         "maps": {
@@ -2352,7 +2353,14 @@
         "coords_precise": false,
         "start": "02:00",
         "end": null,
-        "enriched": 0
+        "enriched": 1,
+        "promoter": "NYX: Late Night",
+        "lineup": [
+          {
+            "name": "ESEJOHNP",
+            "instagram": "esejohnp"
+          }
+        ]
       },
       {
         "track": "music",
