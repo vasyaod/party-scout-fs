@@ -3236,7 +3236,7 @@
         "name": "Kelly McFarling",
         "day": "Thu",
         "date": "2026-07-02",
-        "time": "8pm",
+        "time": "doors 7:30pm, show 8pm",
         "area": "SF",
         "venue": "The Independent",
         "address": "628 Divisadero St, San Francisco, CA 94117",
@@ -3250,7 +3250,9 @@
         "sources": [
           "https://www.theindependentsf.com/tm-event/kelly-mcfarling/"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://www.ticketweb.com/event/kelly-mcfarling-the-independent-tickets/14909493?pl=independentsf&REFID=clientsitewp"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=The+Independent%2C+628+Divisadero+St%2C+San+Francisco%2C+CA+94117",
           "apple": "https://maps.apple.com/?q=The+Independent%2C+628+Divisadero+St%2C+San+Francisco%2C+CA+94117"
@@ -3269,7 +3271,22 @@
         "eid": "kelly-mcfarling-4421",
         "start": "20:00",
         "end": null,
-        "enriched": 0
+        "enriched": 1,
+        "promoter": "Another Planet Entertainment",
+        "lineup": [
+          {
+            "name": "Kelly McFarling",
+            "instagram": null
+          },
+          {
+            "name": "Rose Paradise",
+            "instagram": null
+          },
+          {
+            "name": "Uwade",
+            "instagram": null
+          }
+        ]
       },
       {
         "track": "music",
