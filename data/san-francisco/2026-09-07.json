@@ -1618,25 +1618,31 @@
         "name": "Thievery Corporation",
         "day": "Sat",
         "date": "2026-09-12",
-        "time": "",
-        "start": null,
+        "time": "Doors 7pm, show 8pm",
+        "start": "20:00",
         "end": null,
         "area": "Oakland",
         "venue": "Fox Theater",
-        "address": "",
-        "why": "",
-        "summary": "",
-        "promoter": "",
+        "address": "1807 Telegraph Ave, Oakland, CA 94612",
+        "why": "A rare all-ages 30th-anniversary retrospective from downtempo pioneers Thievery Corporation",
+        "summary": "Thievery Corporation brings a 30-year retrospective show to the Fox Theater, spanning their genre-blending catalog of downtempo, trip-hop, dub and global influences.",
+        "promoter": "Another Planet Entertainment",
         "price": "$73+",
         "tags": [
           "downtempo",
           "trip-hop",
-          "dub"
+          "dub",
+          "all-ages"
         ],
         "sources": [
-          "https://www.ticketmaster.com/event/1C0064A8AAD7412A"
+          "https://www.ticketmaster.com/event/1C0064A8AAD7412A",
+          "https://thefoxoakland.com/events/thievery-corporation-260912",
+          "https://apeconcerts.com/events/thievery-corporation-260912/",
+          "https://www.ticketmaster.com/thievery-corporation-oakland-california-09-12-2026/event/1C0064A8AAD7412A"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://www.ticketmaster.com/thievery-corporation-oakland-california-09-12-2026/event/1C0064A8AAD7412A"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Fox%20Theater%2C%20Oakland",
           "apple": "https://maps.apple.com/?q=Fox%20Theater%2C%20Oakland"
@@ -1647,7 +1653,7 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
