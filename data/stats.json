@@ -1,6 +1,6 @@
 {
   "kind": "stats",
-  "generated_at": "2026-09-29T00:22:05+00:00",
+  "generated_at": "2026-09-29T00:24:12+00:00",
   "weights_version": "v1",
   "total": {
     "n": 3083,
@@ -13,13 +13,13 @@
       "image": 2353,
       "coords": 1838,
       "tickets": 1222,
-      "start": 909,
+      "start": 908,
       "price": 833,
       "time": 723,
       "why": 620,
       "category": 578,
       "summary": 564,
-      "address": 542,
+      "address": 540,
       "tags": 532,
       "sources": 468,
       "venue": 106,
@@ -45,7 +45,7 @@
         "by_field_fixable": {
           "image": 957,
           "coords": 688,
-          "start": 425,
+          "start": 424,
           "tickets": 402,
           "price": 369,
           "time": 296,
@@ -54,7 +54,7 @@
           "summary": 231,
           "tags": 231,
           "sources": 227,
-          "address": 203,
+          "address": 202,
           "venue": 22,
           "maps": 11
         },
@@ -1747,9 +1747,8 @@
             "tba_rate": 0.0952,
             "by_field_fixable": {
               "image": 15,
-              "start": 8,
               "coords": 7,
-              "address": 1
+              "start": 7
             },
             "weights_version": "v1"
           },
@@ -1954,8 +1953,8 @@
           "price": 464,
           "time": 427,
           "why": 368,
-          "address": 339,
           "category": 338,
+          "address": 338,
           "summary": 333,
           "tags": 301,
           "sources": 241,
@@ -3545,7 +3544,7 @@
           "n": 87,
           "summary": {
             "n": 87,
-            "median": 0.9298,
+            "median": 0.9382,
             "p25": 0.8923,
             "pct_ge_075": 0.977,
             "invalid": 0,
@@ -3554,7 +3553,7 @@
               "image": 52,
               "tickets": 39,
               "coords": 18,
-              "address": 10,
+              "address": 9,
               "price": 3,
               "sources": 3
             },
@@ -3610,7 +3609,7 @@
               "date": "2026-07-03",
               "day": "Fri",
               "n": 25,
-              "median": 0.9231,
+              "median": 0.9382,
               "p25": 0.8923,
               "pct_ge_075": 0.96,
               "invalid": 0,
