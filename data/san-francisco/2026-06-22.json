@@ -1883,11 +1883,15 @@
         "time": "9pm",
         "area": "SF",
         "venue": "Underground",
-        "address": "",
+        "address": "424 Haight St, San Francisco, CA 94117",
         "why": "Cheap, cheeky electroclash for the post-punk weirdos — not your standard house night",
-        "summary": "Launch night of Fixed Gloss at Underground SF on Haight — cheeky electro, post-punk synth, and electroclash from Datamosh3r and Moonpie (She's in Parties residents), hosted by Alice Stribling. $10 at the door, 9pm–late.",
+        "summary": "Launch night of Fixed Gloss at Underground SF on Haight Street — cheeky electro, post-punk synth, and electroclash from Datamosh3r and Moonpie (She's in Parties residents), hosted by Alice Stribling. $10 at the door, 9pm–late.",
         "price": "$10",
-        "tags": [],
+        "tags": [
+          "electroclash",
+          "post-punk",
+          "synth"
+        ],
         "sources": [
           "https://www.instagram.com/fixedgloss/p/DYFtbs3vjDR/"
         ],
@@ -1912,7 +1916,22 @@
         "image_generated": false,
         "start": "21:00",
         "end": null,
-        "enriched": 0
+        "enriched": 1,
+        "promoter": "Fixed Gloss",
+        "lineup": [
+          {
+            "name": "Datamosh3r",
+            "instagram": null
+          },
+          {
+            "name": "Moonpie",
+            "instagram": null
+          },
+          {
+            "name": "Alice Stribling",
+            "instagram": null
+          }
+        ]
       },
       {
         "track": "music",
