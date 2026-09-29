@@ -5,7 +5,7 @@
   "location": "Los Angeles & SoCal",
   "city": "los-angeles",
   "city_label": "Los Angeles",
-  "generated_at": "2026-09-26",
+  "generated_at": "2026-09-28",
   "tracks": {
     "music": [
       {
@@ -1390,7 +1390,7 @@
         "time": "2–10pm",
         "start": "14:00",
         "end": "22:00",
-        "area": "Los Angeles",
+        "area": "Long Beach",
         "venue": "Belmont Veterans Memorial Pier",
         "address": "15 39th Place, Long Beach, CA 90803",
         "why": "Legendary marathon-set DJ closes an 11-year, 95-show oceanfront residency for good",
@@ -1406,10 +1406,12 @@
           "long-beach"
         ],
         "sources": [
-          "https://ra.co/events/2479911"
+          "https://ra.co/events/2479911",
+          "https://www.eventbrite.com/e/subtract-on-the-pier-finale-danny-tenaglia-tickets-1992855486406"
         ],
         "tickets": [
-          "https://dice.fm/event/53p898-subtract-on-the-pier-finale-danny-tenaglia-16th-aug-belmont-veterans-memorial-pier-los-angeles-tickets"
+          "https://dice.fm/event/53p898-subtract-on-the-pier-finale-danny-tenaglia-16th-aug-belmont-veterans-memorial-pier-los-angeles-tickets",
+          "https://www.eventbrite.com/e/subtract-on-the-pier-finale-danny-tenaglia-tickets-1992855486406"
         ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=15%2039th%20Place%2C%20Long%20Beach%2C%20CA%2090803",
@@ -1430,7 +1432,17 @@
         "image_generated": false,
         "popularity": 0,
         "active": true,
-        "enriched": 0
+        "enriched": 1,
+        "lineup": [
+          {
+            "name": "Danny Tenaglia",
+            "instagram": null
+          },
+          {
+            "name": "Anton Tumas",
+            "instagram": null
+          }
+        ]
       },
       {
         "id": "2026-08-10-music-day-trip-in-the-park-la-cid-to-c26373",

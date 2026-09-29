@@ -2521,13 +2521,20 @@
         "day": "Thu",
         "date": "2026-06-25",
         "time": "5pm-9pm",
-        "area": "SF",
+        "area": "SoMa",
         "venue": "1145 Folsom St",
-        "address": "",
+        "address": "1145 Folsom St, San Francisco, CA",
         "why": "Free early-evening queer warm-up in the leather district — start here before the night ramps",
         "summary": "Sweat.mp3's queer-led SOMA Nights Pride edition at 1145 Folsom — four hours of global club music from Jacki, MyMy, and Cali Rose in the heart of SoMa's leather district. Free, 5–9pm.",
         "price": "Free",
-        "tags": [],
+        "tags": [
+          "pride",
+          "queer",
+          "free",
+          "daytime",
+          "house",
+          "leather-district"
+        ],
         "sources": [
           "https://www.eventbrite.com/e/soma-nights-pride-edition-feat-jacki-my-my-cali-rose-mr-s-leather-tickets-1991000840109"
         ],
@@ -2552,7 +2559,26 @@
         "image_generated": false,
         "start": "17:00",
         "end": "21:00",
-        "enriched": 0
+        "enriched": 1,
+        "promoter": "SOMA West CBD",
+        "lineup": [
+          {
+            "name": "Jacki",
+            "instagram": null
+          },
+          {
+            "name": "My My",
+            "instagram": null
+          },
+          {
+            "name": "Cali Rose",
+            "instagram": null
+          },
+          {
+            "name": "Mr. S Leather",
+            "instagram": null
+          }
+        ]
       },
       {
         "track": "music",
