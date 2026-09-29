@@ -937,12 +937,12 @@
         "name": "Float feat. Eric Luttrell",
         "day": "Sat",
         "date": "2026-06-27",
-        "time": "evening",
+        "time": "afternoon",
         "area": "DTLA",
         "venue": "Level 8 DTLA",
         "address": "207 S Broadway, Los Angeles, CA 90012",
         "why": "Sunset melodic house with skyline views for the rooftop romantics.",
-        "summary": "A Saturday-evening rooftop session at Level 8 DTLA serving progressive and melodic Anjunadeep-leaning house, a 21+ headliner set above downtown.",
+        "summary": "A Saturday-afternoon poolside rooftop session at Level 8 DTLA running 2-8pm, with Anjunadeep artist Eric Luttrell headlining a melodic house set above the downtown skyline, presented by Underrated Presents.",
         "price": "$40+",
         "tags": [
           "progressive-house",
@@ -950,13 +950,19 @@
           "anjunadeep",
           "rooftop",
           "headliner",
-          "21+"
+          "21+",
+          "pool-party",
+          "daytime"
         ],
         "sources": [
-          "https://ra.co/events/2444740"
+          "https://ra.co/events/2444740",
+          "https://www.eventbrite.com/e/float-ft-eric-luttrell-tickets-1989205064897",
+          "https://dice.fm/event/nvda58-float-ft-eric-luttrell-anjunadeep-27th-jun-level-8-los-angeles-tickets"
         ],
         "tickets": [
-          "https://ra.co/events/2444740"
+          "https://ra.co/events/2444740",
+          "https://www.eventbrite.com/e/float-ft-eric-luttrell-tickets-1989205064897",
+          "https://dice.fm/event/nvda58-float-ft-eric-luttrell-anjunadeep-27th-jun-level-8-los-angeles-tickets"
         ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Level+8+DTLA%2C+207+S+Broadway%2C+Los+Angeles%2C+CA+90012",
@@ -977,11 +983,18 @@
           "lat": 34.052272,
           "lon": -118.246917
         },
-        "start": null,
-        "end": null,
+        "start": "14:00",
+        "end": "20:00",
         "coords_precise": false,
         "image_generated": false,
-        "enriched": 0
+        "enriched": 1,
+        "promoter": "Underrated Presents",
+        "lineup": [
+          {
+            "name": "Eric Luttrell",
+            "instagram": null
+          }
+        ]
       },
       {
         "track": "music",
