@@ -861,21 +861,29 @@
         "name": "Strut SF and F8 present DJ Mes",
         "day": "Wed",
         "date": "2026-08-26",
-        "time": "",
-        "start": null,
-        "end": null,
+        "time": "9pm–3am",
+        "start": "21:00",
+        "end": "03:00",
         "area": "San Francisco/Oakland",
         "venue": "F8 1192 Folsom",
-        "address": "",
-        "why": "",
-        "summary": "",
-        "promoter": "",
+        "address": "1192 Folsom St, San Francisco, CA 94103",
+        "why": "Free-before-11pm midweek house night with two rooms and champagne hour at F8",
+        "summary": "STRUT SF's weekly midweek night at F8 brings DJ Mes to the decks with support from Matthew Brian, Sharon Buck and Elz across two rooms of dancing.",
+        "promoter": "Strut SF",
         "price": "$10",
-        "tags": [],
-        "sources": [
-          "https://ra.co/events/2502615"
+        "tags": [
+          "house",
+          "midweek",
+          "nightclub",
+          "two-rooms"
         ],
-        "tickets": [],
+        "sources": [
+          "https://ra.co/events/2502615",
+          "https://www.eventbrite.com/e/strut-sf-f8-present-dj-mes-tickets-1994965359092"
+        ],
+        "tickets": [
+          "https://www.eventbrite.com/e/strut-sf-f8-present-dj-mes-tickets-1994965359092"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=F8%201192%20Folsom%2C%20San%20Francisco/Oakland",
           "apple": "https://maps.apple.com/?q=F8%201192%20Folsom%2C%20San%20Francisco/Oakland"
@@ -887,7 +895,25 @@
         "image_generated": false,
         "popularity": 0,
         "active": true,
-        "enriched": 0
+        "enriched": 1,
+        "lineup": [
+          {
+            "name": "DJ Mes",
+            "instagram": null
+          },
+          {
+            "name": "Matthew Brian",
+            "instagram": null
+          },
+          {
+            "name": "Sharon Buck",
+            "instagram": null
+          },
+          {
+            "name": "Elz",
+            "instagram": null
+          }
+        ]
       },
       {
         "id": "2026-08-24-music-train-barenaked-ladies-matt-na-552647",
