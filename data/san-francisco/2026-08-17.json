@@ -1220,15 +1220,22 @@
         "time": "",
         "start": null,
         "end": null,
-        "area": "San Francisco",
+        "area": "Mission",
         "venue": "El Rio",
-        "address": "",
-        "why": "",
-        "summary": "",
-        "promoter": "",
+        "address": "3158 Mission St, San Francisco, CA",
+        "why": "El Rio's patio party series mixing reggaeton, dembow, and neoperreo for a queer-friendly Latin dance night.",
+        "summary": "Recurring perreo/reggaeton patio party from the CLB INTRNCNL DJ collective at El Rio, the Mission District's longtime queer neighborhood bar.",
+        "promoter": "CLB INTRNCNL",
         "price": "",
-        "tags": [],
-        "sources": [],
+        "tags": [
+          "reggaeton",
+          "perreo",
+          "latin",
+          "queer"
+        ],
+        "sources": [
+          "https://ra.co/events/2301000"
+        ],
         "tickets": [],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=El%20Rio%2C%20San%20Francisco",
@@ -1241,7 +1248,7 @@
         "image_generated": true,
         "popularity": 0,
         "active": true,
-        "enriched": 0
+        "enriched": 1
       },
       {
         "id": "2026-08-17-music-datsko-jush-tosh-normis-557ce4",
