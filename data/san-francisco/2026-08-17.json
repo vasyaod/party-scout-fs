@@ -3125,21 +3125,32 @@
         "name": "That 90's Rave",
         "day": "Sat",
         "date": "2026-08-22",
-        "time": "",
-        "start": null,
-        "end": null,
-        "area": "San Francisco",
+        "time": "9:00 PM - 4:00 AM",
+        "start": "21:00",
+        "end": "04:00",
+        "area": "Potrero Hill",
         "venue": "The Gingerbread House",
-        "address": "",
-        "why": "",
-        "summary": "",
-        "promoter": "",
-        "price": "",
+        "address": "1275 Connecticut St, San Francisco, CA 94107",
+        "why": "Three-room, 20+ DJ 90s rave running till 4am with hard techno, jungle, and disco house rooms.",
+        "summary": "Warehouse Connection's 90s-themed rave at The Gingerbread House spans three sound areas with over 20 DJs playing hard techno, hardcore, drum & bass, jungle, and funky/disco house.",
+        "promoter": "Warehouse Connection",
+        "price": "$5-$25",
         "tags": [
-          "90s"
+          "90s",
+          "rave",
+          "hard-techno",
+          "drum-and-bass",
+          "jungle",
+          "disco-house",
+          "warehouse"
         ],
-        "sources": [],
-        "tickets": [],
+        "sources": [
+          "https://www.eventbrite.com/e/that-90s-rave-tickets-1994407701122",
+          "https://allevents.in/san-francisco/that-90s-rave/100001990543480133"
+        ],
+        "tickets": [
+          "https://www.eventbrite.com/e/that-90s-rave-tickets-1994407701122"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=The%20Gingerbread%20House%2C%20San%20Francisco",
           "apple": "https://maps.apple.com/?q=The%20Gingerbread%20House%2C%20San%20Francisco"
@@ -3151,7 +3162,53 @@
         "image_generated": true,
         "popularity": 0,
         "active": true,
-        "enriched": 0
+        "enriched": 1,
+        "lineup": [
+          {
+            "name": "Donald Glaude",
+            "instagram": null
+          },
+          {
+            "name": "Switchblade",
+            "instagram": null
+          },
+          {
+            "name": "Midnight Empire",
+            "instagram": null
+          },
+          {
+            "name": "Rio Sky",
+            "instagram": null
+          },
+          {
+            "name": "Gossamer",
+            "instagram": null
+          },
+          {
+            "name": "Jason Reign",
+            "instagram": null
+          },
+          {
+            "name": "Audio 1",
+            "instagram": null
+          },
+          {
+            "name": "Kwashi",
+            "instagram": null
+          },
+          {
+            "name": "Mario Dubbz",
+            "instagram": null
+          },
+          {
+            "name": "Ernesto Cruz",
+            "instagram": null
+          },
+          {
+            "name": "Disco Katz",
+            "instagram": null
+          }
+        ]
       },
       {
         "id": "2026-08-17-music-track-id-x-alore-19f867",
