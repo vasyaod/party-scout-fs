@@ -2241,8 +2241,8 @@
         "name": "KCRW Summer Nights w/ Olive Kimoto, John Tejada",
         "day": "Fri",
         "date": "2026-06-26",
-        "time": "evening",
-        "area": "Los Angeles",
+        "time": "6-10pm",
+        "area": "DTLA",
         "venue": "ASU FIDM Museum",
         "address": "919 S Grand Ave, Los Angeles, CA 90015",
         "why": "Free, KCRW-curated and grown-up, the tasteful outdoor Friday.",
@@ -2256,10 +2256,13 @@
           "daytime"
         ],
         "sources": [
-          "https://www.kcrw.com/events/kcrw-summer-nights-with-asu-fidm-museum"
+          "https://www.kcrw.com/events/kcrw-summer-nights-with-asu-fidm-museum",
+          "https://events.humanitix.com/kcrw-summer-nights-with-asu-fidm-museum",
+          "https://www.nbclosangeles.com/the-scene/party-like-90s-kcrw-fidm-throwing-such-a-bash/3907517/"
         ],
         "tickets": [
-          "https://www.kcrw.com/events/kcrw-summer-nights-with-asu-fidm-museum"
+          "https://www.kcrw.com/events/kcrw-summer-nights-with-asu-fidm-museum",
+          "https://events.humanitix.com/kcrw-summer-nights-with-asu-fidm-museum"
         ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=ASU+FIDM+Museum%2C+919+S+Grand+Ave%2C+Los+Angeles%2C+CA+90015",
@@ -2276,10 +2279,21 @@
           "lat": 34.04422,
           "lon": -118.259929
         },
-        "start": null,
-        "end": null,
+        "start": "18:00",
+        "end": "22:00",
         "coords_precise": false,
-        "enriched": 0
+        "enriched": 1,
+        "promoter": "KCRW",
+        "lineup": [
+          {
+            "name": "Olive Kimoto",
+            "instagram": null
+          },
+          {
+            "name": "John Tejada",
+            "instagram": null
+          }
+        ]
       },
       {
         "track": "music",
