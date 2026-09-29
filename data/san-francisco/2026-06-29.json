@@ -3895,7 +3895,7 @@
         "time": "8pm",
         "area": "SF",
         "venue": "Mothership Bar",
-        "address": "",
+        "address": "3152 Mission St, San Francisco, CA 94110",
         "why": "Free monthly residency that gives talented local DJs extended headline slots they rarely get otherwise",
         "summary": "Oksional First Thursdays at Mothership in SF on Thursday July 2 at 8pm, featuring Amatric in an extended headline set with Justyn Myers in support, playing house and EBM; free.",
         "price": "Free",
@@ -3905,7 +3905,8 @@
           "residency"
         ],
         "sources": [
-          "https://ra.co/events/2404004"
+          "https://ra.co/events/2404004",
+          "https://event.marriott.com/sfokd-the-jay-autograph-collection/events/san-francisco/oksional-first-thursdays-amatric-11778144"
         ],
         "tickets": [],
         "maps": {
@@ -3930,8 +3931,19 @@
         "id": "2026-06-29-music-oksional-first-thursdays-e15191",
         "eid": "oksional-first-thursdays-acb2",
         "start": "20:00",
-        "end": null,
-        "enriched": 0
+        "end": "00:00",
+        "enriched": 1,
+        "promoter": "oksional",
+        "lineup": [
+          {
+            "name": "Amatric",
+            "instagram": null
+          },
+          {
+            "name": "Justyn Myers",
+            "instagram": null
+          }
+        ]
       },
       {
         "track": "music",

@@ -1,6 +1,6 @@
 {
   "kind": "stats",
-  "generated_at": "2026-09-29T05:26:21+00:00",
+  "generated_at": "2026-09-29T05:27:09+00:00",
   "weights_version": "v1",
   "total": {
     "n": 3083,
@@ -20,7 +20,7 @@
       "category": 552,
       "summary": 515,
       "tags": 494,
-      "address": 443,
+      "address": 441,
       "sources": 426,
       "venue": 103,
       "maps": 88
@@ -53,7 +53,7 @@
           "tags": 228,
           "summary": 227,
           "sources": 221,
-          "address": 178,
+          "address": 177,
           "venue": 22,
           "maps": 11
         },
@@ -1637,7 +1637,7 @@
           "n": 115,
           "summary": {
             "n": 115,
-            "median": 0.9686,
+            "median": 0.9692,
             "p25": 0.9382,
             "pct_ge_075": 1.0,
             "invalid": 0,
@@ -1647,7 +1647,7 @@
               "coords": 30,
               "tickets": 16,
               "price": 7,
-              "address": 5,
+              "address": 4,
               "why": 2,
               "tags": 1
             },
@@ -1682,7 +1682,7 @@
               "day": "Wed",
               "n": 7,
               "median": 0.8963,
-              "p25": 0.8923,
+              "p25": 0.8963,
               "pct_ge_075": 1.0,
               "invalid": 0,
               "tba_rate": 0.0,
@@ -1955,7 +1955,7 @@
           "category": 315,
           "summary": 288,
           "tags": 266,
-          "address": 265,
+          "address": 264,
           "sources": 205,
           "venue": 81,
           "maps": 77
@@ -3546,9 +3546,9 @@
               "image": 52,
               "tickets": 32,
               "coords": 18,
-              "address": 3,
               "price": 3,
-              "sources": 3
+              "sources": 3,
+              "address": 2
             },
             "weights_version": "v1"
           },
@@ -3592,7 +3592,7 @@
               "day": "Thu",
               "n": 8,
               "median": 0.9673,
-              "p25": 0.8982,
+              "p25": 0.9034,
               "pct_ge_075": 1.0,
               "invalid": 0,
               "tba_rate": 0.0,
