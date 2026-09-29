@@ -5,7 +5,7 @@
   "location": "Los Angeles & SoCal",
   "city": "los-angeles",
   "city_label": "Los Angeles",
-  "generated_at": "2026-09-25",
+  "generated_at": "2026-09-28",
   "tracks": {
     "music": [
       {
@@ -978,15 +978,15 @@
         "day": "Sun",
         "date": "2026-09-06",
         "time": "14:00–20:30",
-        "start": null,
-        "end": null,
-        "area": "LA",
+        "start": "14:00",
+        "end": "20:30",
+        "area": "Chinatown",
         "venue": "Los Angeles State Historic Park",
         "address": "1245 N. Spring St, Los Angeles, CA 90012",
         "why": "Full-day outdoor park rave returning to LA after time away, four-artist bill.",
-        "summary": "PIV brings its full-day outdoor takeover back to Los Angeles State Historic Park on September 6 with Gaskin, Prunk, Robbie Doherty and Kellie Allen.",
-        "promoter": "",
-        "price": "$29",
+        "summary": "Day Trip's In The Park series brings a PIV Records takeover to LA State Historic Park on September 6, with Gaskin, Prunk, Robbie Doherty and Kellie Allen playing a daytime outdoor house set on the promenade.",
+        "promoter": "Day Trip",
+        "price": "$29.95",
         "tags": [
           "house",
           "outdoor",
@@ -995,10 +995,12 @@
         ],
         "sources": [
           "https://ra.co/events/2448976",
-          "https://ra.co/events/2436980"
+          "https://ra.co/events/2436980",
+          "https://daytrip.la/event/piv-gaskin-prunk-robbie-doherty-kellie-allen-house-music-outdoor-concert-2026-september-6-los-angeles-state-historic-park-events/"
         ],
         "tickets": [
-          "https://ra.co/events/2448976"
+          "https://ra.co/events/2448976",
+          "https://www.ticketweb.com/event/day-trip-feat-piv-takeover-los-angeles-state-historic-park-tickets/14877953"
         ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=1245%20N.%20Spring%20St%2C%20Los%20Angeles%2C%20CA%2090012",
@@ -1019,7 +1021,7 @@
         "image_generated": false,
         "popularity": 0,
         "active": true,
-        "enriched": 0
+        "enriched": 1
       },
       {
         "id": "2026-08-31-music-bontan-ramy-mishriky-c97ff8",
