@@ -1,6 +1,6 @@
 {
   "kind": "stats",
-  "generated_at": "2026-09-29T04:44:07+00:00",
+  "generated_at": "2026-09-29T04:44:51+00:00",
   "weights_version": "v1",
   "total": {
     "n": 3083,
@@ -13,14 +13,14 @@
       "image": 2353,
       "coords": 1838,
       "tickets": 1191,
-      "start": 855,
+      "start": 854,
       "price": 810,
       "time": 693,
       "why": 572,
       "category": 552,
       "summary": 515,
       "tags": 495,
-      "address": 453,
+      "address": 452,
       "sources": 426,
       "venue": 103,
       "maps": 88
@@ -44,7 +44,7 @@
         "by_field_fixable": {
           "image": 957,
           "coords": 688,
-          "start": 406,
+          "start": 405,
           "tickets": 400,
           "price": 369,
           "time": 293,
@@ -1837,7 +1837,7 @@
           "n": 65,
           "summary": {
             "n": 65,
-            "median": 0.9654,
+            "median": 0.966,
             "p25": 0.937,
             "pct_ge_075": 1.0,
             "invalid": 0,
@@ -1845,7 +1845,7 @@
             "by_field_fixable": {
               "coords": 57,
               "image": 22,
-              "start": 11,
+              "start": 10,
               "price": 1
             },
             "weights_version": "v1"
@@ -1889,8 +1889,8 @@
               "date": "2026-06-25",
               "day": "Thu",
               "n": 7,
-              "median": 0.9414,
-              "p25": 0.9346,
+              "median": 0.966,
+              "p25": 0.9414,
               "pct_ge_075": 1.0,
               "invalid": 0,
               "tba_rate": 0.1429,
@@ -1954,7 +1954,7 @@
           "why": 324,
           "category": 315,
           "summary": 288,
-          "address": 270,
+          "address": 269,
           "tags": 267,
           "sources": 205,
           "venue": 81,
@@ -3648,8 +3648,8 @@
               "coords": 8,
               "tickets": 8,
               "price": 4,
-              "address": 2,
               "tags": 2,
+              "address": 1,
               "sources": 1
             },
             "weights_version": "v1"
@@ -3694,7 +3694,7 @@
               "day": "Thu",
               "n": 9,
               "median": 0.9673,
-              "p25": 0.8963,
+              "p25": 0.9149,
               "pct_ge_075": 1.0,
               "invalid": 0,
               "tba_rate": 0.1111,
