@@ -5,7 +5,7 @@
   "location": "Los Angeles & SoCal",
   "city": "los-angeles",
   "city_label": "Los Angeles",
-  "generated_at": "2026-09-27",
+  "generated_at": "2026-09-28",
   "tracks": {
     "music": [
       {
@@ -380,7 +380,7 @@
         "venue": "TBA",
         "address": "",
         "why": "Late-night global bass melting pot — a post-HARD Summer destination for the eclectic crowd.",
-        "summary": "Baile World with DJ Slugo covers reggaeton, dembow, gqom, and baile funk at a TBA DTLA venue, Saturday 11pm–5am, 21+, $11–33.",
+        "summary": "Baile World, the LA collective founded by CQUESTT, hosts Chicago ghetto-house legend DJ Slugo on his Longevity Tour at a secret DTLA location, with support from SpunbySun and Zamythi spanning reggaeton, dembow, gqom, and baile funk.",
         "price": "$11–33",
         "tags": [
           "reggaeton",
@@ -392,7 +392,24 @@
           "21+",
           "late-night"
         ],
-        "lineup": [],
+        "lineup": [
+          {
+            "name": "DJ Slugo",
+            "instagram": null
+          },
+          {
+            "name": "CQUESTT",
+            "instagram": null
+          },
+          {
+            "name": "SpunbySun",
+            "instagram": null
+          },
+          {
+            "name": "Zamythi",
+            "instagram": null
+          }
+        ],
         "sources": [
           "https://ra.co/events/2417872"
         ],
@@ -420,7 +437,8 @@
         "popularity": 7,
         "id": "2026-07-27-music-baile-world-ft-dj-slugo-89258e",
         "eid": "baile-world-ft-dj-slugo-730f",
-        "enriched": 0
+        "enriched": 1,
+        "promoter": "Baile World"
       },
       {
         "track": "music",
