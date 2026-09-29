@@ -2012,22 +2012,27 @@
       },
       {
         "track": "music",
-        "category": "EDM",
+        "category": "Regional Mexican",
         "name": "Foam Fest 2026",
         "day": "Fri",
         "date": "2026-06-26",
-        "time": "evening",
+        "time": "7pm",
         "area": "Pico Rivera",
         "venue": "11003 Sports Arena Dr",
-        "address": "11003 Sports Arena Dr, Pico Rivera, CA 90660",
-        "why": "A literal foam party, the goofy all-ages outlier of the weekend.",
-        "summary": "A Friday-evening all-ages EDM event at 11003 Sports Arena Dr in Pico Rivera, a multigenre foam party out in the open-air arena grounds.",
+        "address": "11003 Sports Arena Dr, Pico Rivera, CA 90601",
+        "why": "A literal foam party built around live norteño/banda acts rather than DJs, with free entry for kids under 11.",
+        "summary": "An all-ages foam party at Pico Rivera Sports Arena featuring a live norteño, banda and tamborazo lineup, doors at 6pm with the show starting at 7pm.",
         "price": "$53+",
         "tags": [
           "edm",
           "multigenre",
           "foam-party",
-          "all-ages"
+          "all-ages",
+          "regional-mexican",
+          "banda",
+          "norteno",
+          "tamborazo",
+          "family-friendly"
         ],
         "sources": [
           "https://ticketon.com/en/events/foam-fest-2026-pico-rivera-ca-2026-06-26-xpmah4gzyczb"
@@ -2050,10 +2055,37 @@
           "lon": -118.096735
         },
         "coords_precise": false,
-        "start": null,
+        "start": "19:00",
         "end": null,
         "image_generated": false,
-        "enriched": 0
+        "enriched": 1,
+        "promoter": "Rios Entertainment",
+        "lineup": [
+          {
+            "name": "Los Berracos",
+            "instagram": null
+          },
+          {
+            "name": "Los Duarteros",
+            "instagram": null
+          },
+          {
+            "name": "Emilio Ortega",
+            "instagram": null
+          },
+          {
+            "name": "Grupo KC",
+            "instagram": null
+          },
+          {
+            "name": "Los Ex de La Banda",
+            "instagram": null
+          },
+          {
+            "name": "DJ Hem Show",
+            "instagram": null
+          }
+        ]
       },
       {
         "track": "music",
