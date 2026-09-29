@@ -2380,7 +2380,7 @@
         "name": "Full Moon Kayak Tour with Sea Trek",
         "day": "Sun",
         "date": "2026-06-28",
-        "time": "evening",
+        "time": "7:15 PM",
         "area": "Sausalito",
         "venue": "Sea Trek (Schoonmaker Beach)",
         "address": "Schoonmaker Point Marina, Sausalito, CA 94965",
@@ -2393,10 +2393,13 @@
           "full-moon"
         ],
         "sources": [
-          "https://www.seatrek.com/"
+          "https://www.seatrek.com/",
+          "https://www.seatrek.com/trips/full-moon-kayak-tour/",
+          "https://www.visitmarin.org/event-calendar/2026/june-2026/full-moon-kayak-tour-with-sea-trek/"
         ],
         "tickets": [
-          "https://www.seatrek.com/"
+          "https://www.seatrek.com/",
+          "https://www.seatrek.com/trips/full-moon-kayak-tour/"
         ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Sea+Trek+%28Schoonmaker+Beach%29%2C+Schoonmaker+Point+Marina%2C+Sausalito%2C+CA+94965",
@@ -2414,9 +2417,10 @@
           "lon": -122.489602
         },
         "coords_precise": true,
-        "start": null,
-        "end": null,
-        "enriched": 0
+        "start": "19:15",
+        "end": "22:15",
+        "enriched": 1,
+        "promoter": "Sea Trek Kayak & SUP"
       },
       {
         "track": "sports",

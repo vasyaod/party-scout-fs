@@ -13371,25 +13371,33 @@
         "id": "2026-09-28-music-ohgeesy-7ae3e0",
         "eid": "ohgeesy-fc0e",
         "track": "music",
-        "category": "",
+        "category": "Hip-Hop",
         "name": "Ohgeesy",
         "day": "Thu",
         "date": "2026-10-01",
-        "time": "",
-        "start": null,
-        "end": null,
-        "area": "San Francisco",
+        "time": "9:00 PM - 2:00 AM",
+        "start": "21:00",
+        "end": "02:00",
+        "area": "SoMa",
         "venue": "715 Harrison",
-        "address": "",
-        "why": "",
-        "summary": "",
-        "promoter": "",
-        "price": "$17 pre",
-        "tags": [],
-        "sources": [
-          "https://ohgeesybay.eventbrite.com/"
+        "address": "715 Harrison Street, San Francisco, CA 94107",
+        "why": "Shoreline Mafia's OHGEESY headlines an 18+ hip-hop after party in SoMa.",
+        "summary": "OHGEESY performs live at City Nights as the official Shoreline Mafia after party.",
+        "promoter": "Wasted Presents",
+        "price": "$75",
+        "tags": [
+          "hip-hop",
+          "rap",
+          "18+",
+          "after-party"
         ],
-        "tickets": [],
+        "sources": [
+          "https://ohgeesybay.eventbrite.com/",
+          "https://www.eventbrite.com/e/san-francisco-ohgeesy-performing-live-715-harrison-18-tickets-1999513089476"
+        ],
+        "tickets": [
+          "https://www.eventbrite.com/e/san-francisco-ohgeesy-performing-live-715-harrison-18-tickets-1999513089476"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=715%20Harrison%2C%20San%20Francisco",
           "apple": "https://maps.apple.com/?q=715%20Harrison%2C%20San%20Francisco"
@@ -13400,8 +13408,14 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
-        "active": true
+        "enriched": 1,
+        "active": true,
+        "lineup": [
+          {
+            "name": "OHGEESY",
+            "instagram": null
+          }
+        ]
       },
       {
         "id": "2026-09-28-music-oksional-with-hidra-and-justyn-aa021e",
