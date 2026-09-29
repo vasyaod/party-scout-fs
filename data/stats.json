@@ -1,6 +1,6 @@
 {
   "kind": "stats",
-  "generated_at": "2026-09-29T04:04:46+00:00",
+  "generated_at": "2026-09-29T04:05:22+00:00",
   "weights_version": "v1",
   "total": {
     "n": 3083,
@@ -20,7 +20,7 @@
       "category": 556,
       "summary": 522,
       "tags": 503,
-      "address": 469,
+      "address": 467,
       "sources": 433,
       "venue": 103,
       "maps": 88
@@ -53,7 +53,7 @@
           "tags": 228,
           "summary": 227,
           "sources": 221,
-          "address": 186,
+          "address": 185,
           "venue": 22,
           "maps": 11
         },
@@ -1837,7 +1837,7 @@
           "n": 65,
           "summary": {
             "n": 65,
-            "median": 0.9652,
+            "median": 0.9654,
             "p25": 0.9346,
             "pct_ge_075": 1.0,
             "invalid": 0,
@@ -1846,7 +1846,7 @@
               "coords": 57,
               "image": 22,
               "start": 12,
-              "address": 3,
+              "address": 2,
               "price": 1
             },
             "weights_version": "v1"
@@ -1902,7 +1902,7 @@
               "day": "Fri",
               "n": 21,
               "median": 0.9654,
-              "p25": 0.9358,
+              "p25": 0.9382,
               "pct_ge_075": 1.0,
               "invalid": 0,
               "tba_rate": 0.2381,
@@ -1955,7 +1955,7 @@
           "why": 331,
           "category": 319,
           "summary": 295,
-          "address": 283,
+          "address": 282,
           "tags": 275,
           "sources": 212,
           "venue": 81,
@@ -3644,15 +3644,15 @@
           "summary": {
             "n": 61,
             "median": 0.9709,
-            "p25": 0.9231,
+            "p25": 0.9259,
             "pct_ge_075": 0.9836,
             "invalid": 0,
             "tba_rate": 0.0656,
             "by_field_fixable": {
               "image": 19,
               "coords": 8,
-              "address": 8,
               "tickets": 8,
+              "address": 7,
               "tags": 5,
               "price": 4,
               "sources": 2,
@@ -3712,7 +3712,7 @@
               "day": "Fri",
               "n": 24,
               "median": 0.9709,
-              "p25": 0.9654,
+              "p25": 0.9667,
               "pct_ge_075": 0.9583,
               "invalid": 0,
               "tba_rate": 0.0833,
