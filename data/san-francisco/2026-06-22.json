@@ -1410,18 +1410,25 @@
       },
       {
         "track": "music",
-        "category": "Electronic",
+        "category": "Jazz",
         "name": "55B + Jiji's Jazz Tour",
         "day": "Thu",
         "date": "2026-06-25",
-        "time": "9pm",
-        "area": "SF",
+        "time": "9pm-12am",
+        "area": "Mission District",
         "venue": "Arcana",
-        "address": "",
+        "address": "2512 Mission St, San Francisco, CA 94110",
         "why": "Free genre-hopping jazz-meets-club set; the cultured Thursday for the curious",
-        "summary": "JIJI's Jazz Club and Madrid Jazz Collective 55b bring their West Coast tour to Arcana SF — a genre-crossing set of jazz, house, D&B, funk, and disco from Jin Lee Baobei and TÍDA. Free, 21+, RSVP required, 9pm–midnight.",
+        "summary": "JIJI's Jazz Club and Madrid Jazz Collective 55b bring their West Coast tour to Arcana SF, blending jazz, house, drum & bass, funk, and disco from Jin Lee Baobei and TIDA. Free, 21+, RSVP required, 9pm-midnight.",
         "price": "Free",
-        "tags": [],
+        "tags": [
+          "jazz",
+          "house",
+          "drum-and-bass",
+          "funk",
+          "disco",
+          "free"
+        ],
         "sources": [
           "https://speakeasygo.com/event/EVE-9DD5EI"
         ],
@@ -1445,8 +1452,19 @@
         "coords_precise": true,
         "image_generated": false,
         "start": "21:00",
-        "end": null,
-        "enriched": 0
+        "end": "00:00",
+        "enriched": 1,
+        "promoter": "JIJI's Jazz Club x 55b",
+        "lineup": [
+          {
+            "name": "Jin Lee Baobei",
+            "instagram": null
+          },
+          {
+            "name": "TÍDA",
+            "instagram": null
+          }
+        ]
       },
       {
         "track": "music",
