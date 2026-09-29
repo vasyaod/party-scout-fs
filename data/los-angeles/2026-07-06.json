@@ -6118,9 +6118,9 @@
         "time": "9pm",
         "start": "21:00",
         "end": null,
-        "area": "Los Angeles",
+        "area": "Boyle Heights",
         "venue": "3921 E Olympic Blvd",
-        "address": "",
+        "address": "3921 E Olympic Blvd, Los Angeles, CA 90023",
         "why": "Underground gabber gathering in an intimate Los Angeles warehouse.",
         "summary": "Join Undr for a night of gabber, hard house, and happy hardcore at 3921 E Olympic Blvd, Los Angeles. The event starts at 9 PM on July 10, 2026. Tickets are $5, 18+.",
         "price": "$5",
@@ -6129,7 +6129,32 @@
           "house",
           "techno"
         ],
-        "lineup": [],
+        "lineup": [
+          {
+            "name": "deathshin",
+            "instagram": null
+          },
+          {
+            "name": "hope",
+            "instagram": null
+          },
+          {
+            "name": "yhn",
+            "instagram": null
+          },
+          {
+            "name": "kitsch",
+            "instagram": null
+          },
+          {
+            "name": "Ragdollcop",
+            "instagram": null
+          },
+          {
+            "name": "wokeuple",
+            "instagram": null
+          }
+        ],
         "sources": [
           "https://www.tickettailor.com/events/undr/2287417",
           "https://www.instagram.com/p/DaMB40CPLGg/"
@@ -6153,7 +6178,8 @@
         "popularity": 4,
         "id": "2026-07-06-music-undr-deathshin-hope-b2b-yhn-kits-3676aa",
         "eid": "undr-deathshin-hope-b2b-yhn-9d6a",
-        "enriched": 0
+        "enriched": 1,
+        "promoter": "UNDR"
       },
       {
         "track": "music",
