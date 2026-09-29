@@ -167,20 +167,30 @@
         "name": "CHAI RAVE SF: All-White Daytimer",
         "day": "Sat",
         "date": "2026-06-20",
-        "time": "daytime",
+        "time": "12–5pm",
         "area": "SF",
         "venue": "620 Jones Rooftop",
-        "address": "",
-        "why": "",
-        "summary": "",
-        "price": "",
+        "address": "620 Jones St, San Francisco, CA 94102",
+        "why": "All-white rooftop desi daytimer blending Afrohouse, Indo-house and Bolly-tech",
+        "summary": "Chai Rave SF returns to the 620 Jones rooftop for an all-white daytime edition, with DJ DHARAK spinning Afrohouse, Indo-house/Bolly-tech and global sounds alongside chai stations, food and a full bar.",
+        "price": "$10",
         "tags": [
           "rooftop",
           "daytime",
-          "outdoor"
+          "outdoor",
+          "all-white",
+          "desi",
+          "afrohouse",
+          "indohouse"
         ],
-        "sources": [],
-        "tickets": [],
+        "sources": [
+          "https://www.eventbrite.com/e/chai-rave-sf-all-white-daytimer-on-june-20-620-jones-rooftop-w-dharak-tickets-1988862230470",
+          "https://dothebay.com/events/2026/6/20/chai-rave-sf-all-white-daytimer-on-june-20-620-jones-rooftop-tickets",
+          "https://sf.funcheap.com/chai-rave-sf-allwhite-daytimer/"
+        ],
+        "tickets": [
+          "https://www.eventbrite.com/e/chai-rave-sf-all-white-daytimer-on-june-20-620-jones-rooftop-w-dharak-tickets-1988862230470"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=620+Jones+Rooftop%2C+SF",
           "apple": "https://maps.apple.com/?q=620+Jones+Rooftop%2C+SF"
@@ -197,9 +207,16 @@
           "lon": -122.40752
         },
         "coords_precise": false,
-        "start": null,
-        "end": null,
-        "enriched": 0
+        "start": "12:00",
+        "end": "17:00",
+        "enriched": 1,
+        "promoter": "Chai Rave SF",
+        "lineup": [
+          {
+            "name": "DHARAK",
+            "instagram": null
+          }
+        ]
       },
       {
         "track": "music",
