@@ -2622,20 +2622,26 @@
       },
       {
         "track": "music",
-        "category": "Electronic",
+        "category": "Soulful House",
         "name": "Stormy Deep Nights - Night01",
         "day": "Thu",
         "date": "2026-06-25",
         "time": "8pm",
         "area": "SF",
         "venue": "Mr. Mahjong's",
-        "address": "",
-        "why": "Lo-fi, jazzy, talk-friendly vibe — for a chill night out, not a dancefloor sweat",
-        "summary": "Launch night of Stormy Deep Nights at Mr. Mahjong's SF — a lo-fi, NuJazz, TrapSoul, and alternative R&B room focused on vibe and atmosphere. Free, 8pm.",
+        "address": "260 Kearny St, San Francisco, CA 94108",
+        "why": "A quiet, listening-room vibe with free entry — for a soulful night out rather than a dancefloor sweat",
+        "summary": "Launch night of the Stormy Deep Nights series at Mr. Mahjong's SF, an intimate quiet-storm-era soulful house and R&B listening night in a modern Downtown SF bar. Free, 8pm.",
         "price": "Free",
-        "tags": [],
+        "tags": [
+          "soulful-house",
+          "quiet-storm",
+          "free",
+          "lounge"
+        ],
         "sources": [
-          "https://www.instagram.com/stormydeepnights/p/DXXUvcnFSM3/"
+          "https://www.instagram.com/stormydeepnights/p/DXXUvcnFSM3/",
+          "https://sf.funcheap.com/free-stormy-deep-nights-launch-soulful-sounds-mahjongs/"
         ],
         "tickets": [
           "https://www.instagram.com/stormydeepnights/p/DXXUvcnFSM3/"
@@ -2658,7 +2664,8 @@
         "image_generated": false,
         "start": "20:00",
         "end": null,
-        "enriched": 0
+        "enriched": 1,
+        "promoter": "Stormy Deep Nights"
       },
       {
         "track": "music",
