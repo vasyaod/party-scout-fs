@@ -1790,7 +1790,7 @@
         "time": "9pm–2am",
         "area": "Napa",
         "venue": "Napa Music Hall",
-        "address": "",
+        "address": "1030 Main St, Napa, CA 94559",
         "why": "Napa Music Hall's Friday residency — serious house-and-techno DJ talent in a non-SF setting, worth the Napa drive",
         "summary": "Little Dinosaur headlines the Salty Residency at Napa Music Hall on Friday July 3, 9pm–2am, presented by Blaire and Tamer of Salty Sundays Productions; $28.",
         "price": "$28",
@@ -1802,7 +1802,9 @@
         "sources": [
           "https://ra.co/events/2470046"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://ra.co/events/2470046"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Napa+Music+Hall%2C+Napa",
           "apple": "https://maps.apple.com/?q=Napa+Music+Hall%2C+Napa"
@@ -1826,7 +1828,8 @@
         "eid": "little-dinosaur-salty-reside-673f",
         "start": "21:00",
         "end": "02:00",
-        "enriched": 0
+        "enriched": 1,
+        "promoter": "Salty Sundays Productions"
       },
       {
         "track": "music",
