@@ -5,7 +5,7 @@
   "location": "Los Angeles & SoCal",
   "city": "los-angeles",
   "city_label": "Los Angeles",
-  "generated_at": "2026-09-26",
+  "generated_at": "2026-09-28",
   "tracks": {
     "music": [
       {
@@ -314,12 +314,12 @@
         "time": "2pm–8pm",
         "start": "14:00",
         "end": "20:00",
-        "area": "Los Angeles",
+        "area": "DTLA",
         "venue": "Level 8 DTLA",
         "address": "1254 S Figueroa St, Los Angeles, CA 90015",
         "why": "An Anjunadeep-affiliated headliner (Durante) at a daytime DTLA rooftop pool, not a late-night club set.",
         "summary": "FLOAT's rooftop pool party at Level 8 DTLA features Anjunadeep artist Durante with Araminta and GESHAY, 2-8pm.",
-        "promoter": "",
+        "promoter": "Underrated Presents",
         "price": "$25",
         "tags": [
           "pool-party",
@@ -328,7 +328,8 @@
           "anjunadeep"
         ],
         "sources": [
-          "https://ra.co/events/2480989"
+          "https://ra.co/events/2480989",
+          "https://www.eventbrite.com/e/float-rooftop-pool-party-ft-durante-2-8-pm-tickets-1989219333575"
         ],
         "tickets": [
           "https://ra.co/events/2480989"
@@ -352,7 +353,21 @@
         "image_generated": false,
         "popularity": 0,
         "active": true,
-        "enriched": 0
+        "enriched": 1,
+        "lineup": [
+          {
+            "name": "Durante",
+            "instagram": null
+          },
+          {
+            "name": "Araminta",
+            "instagram": null
+          },
+          {
+            "name": "GESHAY",
+            "instagram": null
+          }
+        ]
       },
       {
         "id": "2026-08-17-music-anemone-x-twentieth-street-gar-e5009e",
