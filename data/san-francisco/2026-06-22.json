@@ -1311,20 +1311,29 @@
       },
       {
         "track": "music",
-        "category": "Electronic",
+        "category": "Electro",
         "name": "On The Catwalk: DJ Roby",
         "day": "Fri",
         "date": "2026-06-26",
         "time": "9:30pm-1:30am",
         "area": "SF",
         "venue": "The Riptide",
-        "address": "",
+        "address": "3639 Taraval St, San Francisco, CA 94116",
         "why": "Free dive-bar dancing on the far west side — neighborhood Pride away from the crush",
         "summary": "Free Pride Friday dance party at The Riptide dive bar on the far west end of SF, hosted by DJ Roby from 9:30pm–1:30am.",
         "price": "Free",
-        "tags": [],
+        "tags": [
+          "free",
+          "electro",
+          "80s",
+          "90s",
+          "indie",
+          "pride"
+        ],
         "sources": [
-          "https://ra.co/events/2455045"
+          "https://ra.co/events/2455045",
+          "https://www.eventbrite.com/e/dj-roby-on-the-catwalk-tickets-1993407044130",
+          "https://www.riptidesf.com/"
         ],
         "tickets": [
           "https://ra.co/events/2455045"
@@ -1352,7 +1361,7 @@
         "image_generated": false,
         "start": "21:30",
         "end": "01:30",
-        "enriched": 0
+        "enriched": 1
       },
       {
         "track": "music",
