@@ -91,7 +91,7 @@
         "name": "Perc (+ heavy bill)",
         "day": "Fri",
         "date": "2026-06-26",
-        "time": "all-day–3am",
+        "time": "8pm–3am",
         "area": "SF",
         "venue": "F8",
         "address": "1192 Folsom St, San Francisco, CA 94103",
@@ -105,10 +105,13 @@
           "pride"
         ],
         "sources": [
-          "https://ra.co/events/2412755"
+          "https://ra.co/events/2412755",
+          "http://www.feightsf.com/new-events/connect-x-bodyheat-present-perc",
+          "https://www.eventbrite.com/e/connect-x-bodyheat-present-perc-tickets-1991380114529"
         ],
         "tickets": [
-          "https://ra.co/events/2412755"
+          "https://ra.co/events/2412755",
+          "https://www.eventbrite.com/e/connect-x-bodyheat-present-perc-tickets-1991380114529"
         ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=F8%2C+1192+Folsom+St%2C+San+Francisco%2C+CA+94103",
@@ -131,9 +134,48 @@
           "lon": -122.409955
         },
         "coords_precise": true,
-        "start": "03:00",
-        "end": null,
-        "enriched": 0
+        "start": "20:00",
+        "end": "03:00",
+        "enriched": 1,
+        "promoter": "CONNECT x Bodyheat",
+        "lineup": [
+          {
+            "name": "Perc",
+            "instagram": null
+          },
+          {
+            "name": "Miss Crafty",
+            "instagram": null
+          },
+          {
+            "name": "JustJovani",
+            "instagram": null
+          },
+          {
+            "name": "SNAQ",
+            "instagram": null
+          },
+          {
+            "name": "RMNA",
+            "instagram": null
+          },
+          {
+            "name": "Red",
+            "instagram": null
+          },
+          {
+            "name": "Papa Xanny",
+            "instagram": null
+          },
+          {
+            "name": "Moonpie",
+            "instagram": null
+          },
+          {
+            "name": "Foor",
+            "instagram": null
+          }
+        ]
       },
       {
         "track": "music",
