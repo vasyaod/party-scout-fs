@@ -5,7 +5,7 @@
   "location": "Los Angeles & SoCal",
   "city": "los-angeles",
   "city_label": "Los Angeles",
-  "generated_at": "2026-09-28",
+  "generated_at": "2026-09-29",
   "tracks": {
     "music": [
       {
@@ -533,27 +533,32 @@
         "day": "Fri",
         "date": "2026-09-11",
         "time": "02:00-06:00",
-        "start": null,
-        "end": null,
+        "start": "22:00",
+        "end": "02:22",
         "area": "Los Angeles",
         "venue": "Members",
         "address": "7627 Sunset Blvd, Los Angeles, CA 90046",
         "why": "One of the few true after-hours sets this week that doesn't start until 2am.",
         "summary": "A late-night after-hours house set from Lohrasp Kansara at the Members Sunset Blvd space, running from 2 to 6am.",
-        "promoter": "",
-        "price": "",
+        "promoter": "Members",
+        "price": "21+",
         "tags": [
-          "house"
+          "house",
+          "dj",
+          "nightclub",
+          "21+"
         ],
         "sources": [
-          "https://ra.co/events/2509931"
+          "https://ra.co/events/2509931",
+          "https://shotgun.live/en/events/members-presents-lohrasp-kansara"
         ],
         "tickets": [
-          "https://ra.co/events/2509931"
+          "https://ra.co/events/2509931",
+          "https://shotgun.live/en/events/members-presents-lohrasp-kansara"
         ],
         "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=7627%20Sunset%20Blvd%2C%20Los%20Angeles%2C%20CA%2090046",
-          "apple": "https://maps.apple.com/?q=7627%20Sunset%20Blvd%2C%20Los%20Angeles%2C%20CA%2090046"
+          "google": "https://www.google.com/maps/search/?api=1&query=Members%2C%20Los%20Angeles",
+          "apple": "https://maps.apple.com/?q=Members%2C%20Los%20Angeles"
         },
         "coords": {
           "lat": 34.098123,
@@ -709,28 +714,37 @@
         "id": "2026-09-07-music-work-presents-d-dan-all-night-580058",
         "eid": "work-presents-d-dan-all-8485",
         "track": "music",
-        "category": "",
+        "category": "Techno",
         "name": "WORK presents: D.Dan [All Night Long]",
         "day": "Fri",
         "date": "2026-09-11",
-        "time": "",
-        "start": null,
-        "end": null,
+        "time": "11pm–5am",
+        "start": "23:00",
+        "end": "05:00",
         "area": "Los Angeles",
         "venue": "TBA - Los Angeles",
         "address": "",
-        "why": "",
-        "summary": "",
-        "promoter": "",
+        "why": "All-night techno set from a Mala Junta resident at a TBA underground venue.",
+        "summary": "WORK presents an all-night set from Berlin-based techno DJ D.Dan, a Mala Junta resident and Summerpup label head, at a secret Los Angeles venue revealed to ticket holders the day of the event.",
+        "promoter": "WORK",
         "price": "$25-45",
-        "tags": [],
+        "tags": [
+          "techno",
+          "all-night",
+          "underground",
+          "21+"
+        ],
         "sources": [
-          "https://ra.co/events/2494139"
+          "https://ra.co/events/2494139",
+          "https://findmuse.app/concerts/los-angeles/work-presents-ddan-all-night-long-tba-los-angeles-2026-09-12"
         ],
         "tickets": [
           "https://ra.co/events/2494139"
         ],
-        "maps": {},
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=Los%20Angeles",
+          "apple": "https://maps.apple.com/?q=Los%20Angeles"
+        },
         "coords": null,
         "coords_precise": false,
         "ra": {
@@ -742,7 +756,13 @@
         "image_generated": true,
         "popularity": 0,
         "enriched": 1,
-        "active": true
+        "active": true,
+        "lineup": [
+          {
+            "name": "D.Dan",
+            "instagram": null
+          }
+        ]
       },
       {
         "id": "2026-09-07-music-arlo-71cc03",
@@ -1017,7 +1037,8 @@
         "tags": [
           "disco",
           "balearic",
-          "vinyl-only"
+          "vinyl-only",
+          "sound-system"
         ],
         "sources": [
           "https://ra.co/events/2504607"
@@ -1033,7 +1054,7 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://images.ra.co/bb5b2f33d25b32325b7b0d7ac14e830637000961.jpg",
         "image_generated": false,
         "popularity": 0,
         "enriched": 1,
@@ -1111,8 +1132,8 @@
           "https://ra.co/events/2497743"
         ],
         "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=Los%20Angeles",
-          "apple": "https://maps.apple.com/?q=Los%20Angeles"
+          "google": "https://www.google.com/maps/search/?api=1&query=DTLA/Los%20Angeles",
+          "apple": "https://maps.apple.com/?q=DTLA/Los%20Angeles"
         },
         "coords": {
           "lat": 34.053691,
@@ -1124,7 +1145,7 @@
           "url": "https://ra.co/events/2497743",
           "interested": 363
         },
-        "image": "",
+        "image": "https://images.ra.co/8ac5dd92e52c1196bf7e5864f5ecab9ab9030e86.png",
         "image_generated": false,
         "popularity": 0,
         "enriched": 1,
@@ -1508,7 +1529,11 @@
           "breaks",
           "IDM",
           "drum and bass",
-          "live"
+          "live",
+          "breakbeat",
+          "dnb",
+          "idm",
+          "free"
         ],
         "sources": [
           "https://ra.co/events/2513682"
@@ -1517,8 +1542,8 @@
           "https://ra.co/events/2513682"
         ],
         "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=700%20Jackson%20St%2C%20Los%20Angeles%2C%20CA%2090012",
-          "apple": "https://maps.apple.com/?q=700%20Jackson%20St%2C%20Los%20Angeles%2C%20CA%2090012"
+          "google": "https://www.google.com/maps/search/?api=1&query=Boomtown%20Brewery%2C%20Los%20Angeles",
+          "apple": "https://maps.apple.com/?q=Boomtown%20Brewery%2C%20Los%20Angeles"
         },
         "coords": {
           "lat": 34.0507711,
@@ -1557,7 +1582,10 @@
         "tags": [
           "house",
           "queer",
-          "underground"
+          "underground",
+          "progressive house",
+          "uk garage",
+          "deep house"
         ],
         "sources": [
           "https://ra.co/events/2505779"
@@ -1919,8 +1947,8 @@
         "day": "Sat",
         "date": "2026-09-12",
         "time": "23:00-06:00",
-        "start": null,
-        "end": null,
+        "start": "23:00",
+        "end": "06:00",
         "area": "Los Angeles",
         "venue": "TBA - Los Angeles",
         "address": "",
@@ -2048,10 +2076,10 @@
         "end": "00:00",
         "area": "Los Angeles",
         "venue": "Apotheke",
-        "address": "",
+        "address": "1746 N Spring St, Los Angeles, CA 90012",
         "why": "An all-vinyl open-air Sunday close-out, free before 7pm for the daytime crowd.",
         "summary": "Sunday Sessions LA is a vinyl-only open-air house night with Xica Soul, Gil Tamazyan and Julian, billed as the biggest vinyl-only event in the US.",
-        "promoter": "",
+        "promoter": "Sunday Sessions",
         "price": "$0-35",
         "tags": [
           "tech house",
@@ -2059,13 +2087,17 @@
           "minimal",
           "house",
           "vinyl-only",
-          "open-air"
+          "open-air",
+          "day-party",
+          "21+"
         ],
         "sources": [
-          "https://ra.co/events/2514110"
+          "https://ra.co/events/2514110",
+          "https://www.eventbrite.com/e/sunday-sessions-la-vinyl-only-open-air-tickets-1998125827137"
         ],
         "tickets": [
-          "https://ra.co/events/2514110"
+          "https://ra.co/events/2514110",
+          "https://shotgun.live/en/events/sunday-sessions-la-08-24-90"
         ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Los%20Angeles",
@@ -2082,7 +2114,21 @@
         "image_generated": false,
         "popularity": 0,
         "enriched": 1,
-        "active": true
+        "active": true,
+        "lineup": [
+          {
+            "name": "Xica Soul",
+            "instagram": null
+          },
+          {
+            "name": "Gil Tamazyan",
+            "instagram": null
+          },
+          {
+            "name": "Julian",
+            "instagram": null
+          }
+        ]
       },
       {
         "id": "2026-09-07-music-tech-me-2-da-beach-decompressi-7408cf",
@@ -2395,56 +2441,6 @@
         "popularity": 0,
         "enriched": 1,
         "active": true
-      },
-      {
-        "id": "2026-09-07-music-d-dan-6f2fce",
-        "eid": "d-dan-7f16",
-        "track": "music",
-        "category": "Techno",
-        "name": "D.Dan",
-        "day": "Fri",
-        "date": "2026-09-11",
-        "time": "11pm–5am",
-        "start": "23:00",
-        "end": "05:00",
-        "area": "Los Angeles",
-        "venue": "",
-        "address": "",
-        "why": "All-night techno set from a Mala Junta resident at a TBA underground venue.",
-        "summary": "WORK presents an all-night set from Berlin-based techno DJ D.Dan, a Mala Junta resident and Summerpup label head, at a secret Los Angeles venue revealed to ticket holders the day of the event.",
-        "promoter": "WORK",
-        "price": "$30 b4 12 / $35-42, 21+",
-        "tags": [
-          "techno",
-          "all-night",
-          "underground",
-          "21+"
-        ],
-        "sources": [
-          "https://ra.co/events/2494139",
-          "https://findmuse.app/concerts/los-angeles/work-presents-ddan-all-night-long-tba-los-angeles-2026-09-12"
-        ],
-        "tickets": [
-          "https://ra.co/events/2494139"
-        ],
-        "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=Los%20Angeles",
-          "apple": "https://maps.apple.com/?q=Los%20Angeles"
-        },
-        "coords": null,
-        "coords_precise": false,
-        "ra": {},
-        "image": "",
-        "image_generated": false,
-        "popularity": 0,
-        "enriched": 1,
-        "active": true,
-        "lineup": [
-          {
-            "name": "D.Dan",
-            "instagram": null
-          }
-        ]
       },
       {
         "id": "2026-09-07-music-da-tweekaz-ffe3e1",
@@ -2992,8 +2988,12 @@
         },
         "coords": null,
         "coords_precise": false,
-        "ra": {},
-        "image": "",
+        "ra": {
+          "event_id": "2523846",
+          "url": "https://ra.co/events/2523846",
+          "interested": 16
+        },
+        "image": "https://party-scout.app/img/gen/midnite-radio-presents-k-0a31.jpg",
         "image_generated": false,
         "popularity": 0,
         "enriched": 1,
@@ -3105,49 +3105,6 @@
         "image_generated": false,
         "popularity": 0,
         "enriched": 2,
-        "active": true
-      },
-      {
-        "id": "2026-09-07-music-lohrasp-kansara-ccbeb8",
-        "eid": "lohrasp-kansara-4e98",
-        "track": "music",
-        "category": "House",
-        "name": "Lohrasp Kansara",
-        "day": "Fri",
-        "date": "2026-09-11",
-        "time": "10:00 PM - 2:22 AM",
-        "start": "22:00",
-        "end": "02:22",
-        "area": "Hollywood",
-        "venue": "Members",
-        "address": "7627 Sunset Blvd, Los Angeles, CA",
-        "why": "A rare club date from a globally touring house DJ with 6000+ shows in 60+ countries, in an intimate Sunset Blvd setting.",
-        "summary": "International house DJ Lohrasp Kansara plays Members in Hollywood.",
-        "promoter": "Members",
-        "price": "21+",
-        "tags": [
-          "house",
-          "dj",
-          "nightclub",
-          "21+"
-        ],
-        "sources": [
-          "https://shotgun.live/en/events/members-presents-lohrasp-kansara"
-        ],
-        "tickets": [
-          "https://shotgun.live/en/events/members-presents-lohrasp-kansara"
-        ],
-        "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=Members%2C%20Los%20Angeles",
-          "apple": "https://maps.apple.com/?q=Members%2C%20Los%20Angeles"
-        },
-        "coords": null,
-        "coords_precise": false,
-        "ra": {},
-        "image": "",
-        "image_generated": false,
-        "popularity": 0,
-        "enriched": 1,
         "active": true
       },
       {
@@ -4242,86 +4199,6 @@
         "active": true
       },
       {
-        "id": "2026-09-07-music-beste-hira-stephen-disario-tak-b78727",
-        "eid": "beste-hira-stephen-disar-a22a",
-        "track": "music",
-        "category": "Techno",
-        "name": "Beste Hira, Stephen Disario, Takaaki Itoh",
-        "day": "Sat",
-        "date": "2026-09-12",
-        "time": "23:00–06:00",
-        "start": "23:00",
-        "end": "06:00",
-        "area": "Los Angeles",
-        "venue": "TBA - Los Angeles",
-        "address": "",
-        "why": "Three internationally respected techno DJs on one WORK Warehouse-style bill, in the deep-techno lane rather than tech house.",
-        "summary": "WORK presents Beste Hira, Stephen Disario and Takaaki Itoh for a night of deep, driving techno; location emailed to ticket holders day-of.",
-        "promoter": "",
-        "price": "$25 b4 12 / $29-35, 21+",
-        "tags": [
-          "techno"
-        ],
-        "sources": [],
-        "tickets": [
-          "https://ra.co/events/2499615"
-        ],
-        "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=Los%20Angeles",
-          "apple": "https://maps.apple.com/?q=Los%20Angeles"
-        },
-        "coords": null,
-        "coords_precise": false,
-        "ra": {},
-        "image": "",
-        "image_generated": false,
-        "popularity": 0,
-        "enriched": 1,
-        "active": true
-      },
-      {
-        "id": "2026-09-07-music-burnin-chancla-006-hi-fi-all-v-22c355",
-        "eid": "burnin-chancla-006-hi-fi-cc5e",
-        "track": "music",
-        "category": "Balearic",
-        "name": "Burnin' Chancla 006 (Hi-Fi All-Vinyl Dance Night): Chris Pavlov, VHS King",
-        "day": "Sat",
-        "date": "2026-09-12",
-        "time": "22:00–03:00",
-        "start": null,
-        "end": null,
-        "area": "Los Angeles",
-        "venue": "",
-        "address": "",
-        "why": "A dedicated vintage hi-fi vinyl-only sound system, a different listening experience than a standard club PA.",
-        "summary": "Burnin' Chancla, a traveling balearic sound system party built around a 4-point vintage JBL/Altec rig and one big mirror ball, returns for its 6th installment with Chris Pavlov and VHS King.",
-        "promoter": "",
-        "price": "$20",
-        "tags": [
-          "balearic",
-          "vinyl-only",
-          "sound-system"
-        ],
-        "sources": [
-          "https://ra.co/events/2504607"
-        ],
-        "tickets": [
-          "https://ra.co/events/2504607"
-        ],
-        "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=Los%20Angeles",
-          "apple": "https://maps.apple.com/?q=Los%20Angeles"
-        },
-        "coords": null,
-        "coords_precise": false,
-        "ra": {},
-        "image": "https://images.ra.co/bb5b2f33d25b32325b7b0d7ac14e830637000961.jpg",
-        "image_generated": false,
-        "popularity": 0,
-        "enriched": 2,
-        "active": true
-      },
-      {
         "id": "2026-09-07-music-city-pop-waves-casiopea-specia-8133fa",
         "eid": "city-pop-waves-casiopea-9dd3",
         "track": "music",
@@ -5369,45 +5246,6 @@
         "active": true
       },
       {
-        "id": "2026-09-07-music-planet-love-0e2b6c",
-        "eid": "planet-love-ab26",
-        "track": "music",
-        "category": "",
-        "name": "Planet Love",
-        "day": "Sat",
-        "date": "2026-09-12",
-        "time": "",
-        "start": null,
-        "end": null,
-        "area": "Los Angeles",
-        "venue": "",
-        "address": "",
-        "why": "",
-        "summary": "",
-        "promoter": "",
-        "price": "$21-60",
-        "tags": [
-          "house",
-          "progressive house",
-          "uk garage",
-          "deep house"
-        ],
-        "sources": [],
-        "tickets": [],
-        "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=Los%20Angeles",
-          "apple": "https://maps.apple.com/?q=Los%20Angeles"
-        },
-        "coords": null,
-        "coords_precise": false,
-        "ra": {},
-        "image": "https://party-scout.app/img/gen/planet-love-ab26.jpg",
-        "image_generated": true,
-        "popularity": 0,
-        "enriched": 1,
-        "active": true
-      },
-      {
         "id": "2026-09-07-music-planet-x-ben-sterling-dean-tur-97c014",
         "eid": "planet-x-ben-sterling-de-4a85",
         "track": "music",
@@ -5466,50 +5304,6 @@
             "instagram": null
           }
         ]
-      },
-      {
-        "id": "2026-09-07-music-plastics-dept-feat-kj-sawka-li-87baa0",
-        "eid": "plastics-dept-feat-kj-sa-be58",
-        "track": "music",
-        "category": "Breakbeat/DnB",
-        "name": "Plastics Dept. Feat Kj Sawka Live, 2kinetik X Werd, Varial, Mx-81",
-        "day": "Sat",
-        "date": "2026-09-12",
-        "time": "20:00–23:59",
-        "start": null,
-        "end": null,
-        "area": "Los Angeles",
-        "venue": "Boomtown Brewery",
-        "address": "700 Jackson St, Los Angeles, CA 90012",
-        "why": "Free admission and an all-live (not DJ-set) breakbeat/DnB/IDM lineup, a different format than a standard club night.",
-        "summary": "Perfect Circuit's Plastics Dept. returns to Boomtown Brewery for its 4th installment: live breakbeat/DnB/IDM sets from KJ Sawka, 2KINETIK x Werd, Varial and MX-81.",
-        "promoter": "",
-        "price": "Free",
-        "tags": [
-          "breakbeat",
-          "dnb",
-          "idm",
-          "free",
-          "live"
-        ],
-        "sources": [
-          "https://ra.co/events/2513682"
-        ],
-        "tickets": [
-          "https://ra.co/events/2513682"
-        ],
-        "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=Boomtown%20Brewery%2C%20Los%20Angeles",
-          "apple": "https://maps.apple.com/?q=Boomtown%20Brewery%2C%20Los%20Angeles"
-        },
-        "coords": null,
-        "coords_precise": false,
-        "ra": {},
-        "image": "https://images.ra.co/e2ae9eaa683b29dcf8bc250d94931e378df8d2b8.png",
-        "image_generated": false,
-        "popularity": 0,
-        "enriched": 2,
-        "active": true
       },
       {
         "id": "2026-09-07-music-plastics-dept-620aa7",
@@ -5939,46 +5733,6 @@
         ]
       },
       {
-        "id": "2026-09-07-music-thermal-w-vladimir-dubyshkin-47890d",
-        "eid": "thermal-w-vladimir-dubys-413e",
-        "track": "music",
-        "category": "Techno",
-        "name": "Thermal w/ Vladimir Dubyshkin",
-        "day": "Sat",
-        "date": "2026-09-12",
-        "time": "23:00–05:00",
-        "start": null,
-        "end": null,
-        "area": "DTLA/Los Angeles",
-        "venue": "",
-        "address": "",
-        "why": "A globally respected techno act (трип Recordings) with a high RA interest count (363) for this pass.",
-        "summary": "Closer presents Thermal with Vladimir Dubyshkin (трип Recordings/Nina Kraviz), a hybrid live/DJ techno performance blending hypnotic grooves with trance, electro and breakbeat, plus support from Lake Hills and Jaq.xs.",
-        "promoter": "",
-        "price": "$33 b4 12 / $44-50, 21+",
-        "tags": [
-          "techno"
-        ],
-        "sources": [
-          "https://ra.co/events/2497743"
-        ],
-        "tickets": [
-          "https://ra.co/events/2497743"
-        ],
-        "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=DTLA/Los%20Angeles",
-          "apple": "https://maps.apple.com/?q=DTLA/Los%20Angeles"
-        },
-        "coords": null,
-        "coords_precise": false,
-        "ra": {},
-        "image": "https://images.ra.co/8ac5dd92e52c1196bf7e5864f5ecab9ab9030e86.png",
-        "image_generated": false,
-        "popularity": 0,
-        "enriched": 1,
-        "active": true
-      },
-      {
         "id": "2026-09-07-music-undr-hardcore-rave-08d211",
         "eid": "undr-hardcore-rave-ca6e",
         "track": "music",
@@ -6024,47 +5778,6 @@
         "active": true
       },
       {
-        "id": "2026-09-07-music-voltique-one-year-anniversary-55470b",
-        "eid": "voltique-one-year-annive-415f",
-        "track": "music",
-        "category": "Tech House",
-        "name": "Voltique: One Year Anniversary - BUCK/OFF, Laser Fox, masato, Nic Jericho",
-        "day": "Sat",
-        "date": "2026-09-12",
-        "time": "23:00–05:00",
-        "start": null,
-        "end": null,
-        "area": "DTLA/Los Angeles",
-        "venue": "",
-        "address": "",
-        "why": "Highest local-interest count of this pass (157) - a proven, in-demand night hitting its 1-year mark.",
-        "summary": "Voltique's one-year anniversary tech-house party in DTLA with BUCK/OFF, Laser Fox, masato and Nic Jericho, full laser production and a dark room.",
-        "promoter": "",
-        "price": "$29",
-        "tags": [
-          "tech-house",
-          "anniversary"
-        ],
-        "sources": [
-          "https://ra.co/events/2523137"
-        ],
-        "tickets": [
-          "https://ra.co/events/2523137"
-        ],
-        "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=DTLA/Los%20Angeles",
-          "apple": "https://maps.apple.com/?q=DTLA/Los%20Angeles"
-        },
-        "coords": null,
-        "coords_precise": false,
-        "ra": {},
-        "image": "https://images.ra.co/48fe88f4ef67099bb0aa4f7804c21c7d10443d8e.jpg",
-        "image_generated": false,
-        "popularity": 0,
-        "enriched": 2,
-        "active": true
-      },
-      {
         "id": "2026-09-07-music-voltique-one-year-anniversary-48e675",
         "eid": "voltique-one-year-annive-f2bc",
         "track": "music",
@@ -6093,8 +5806,8 @@
           "https://ra.co/events/2523137"
         ],
         "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=Los%20Angeles",
-          "apple": "https://maps.apple.com/?q=Los%20Angeles"
+          "google": "https://www.google.com/maps/search/?api=1&query=DTLA/Los%20Angeles",
+          "apple": "https://maps.apple.com/?q=DTLA/Los%20Angeles"
         },
         "coords": null,
         "coords_precise": false,
@@ -6511,64 +6224,6 @@
         "active": true
       },
       {
-        "id": "2026-09-07-music-sunday-sessions-la-vinyl-only-fa7234",
-        "eid": "sunday-sessions-la-vinyl-2c95",
-        "track": "music",
-        "category": "House",
-        "name": "Sunday Sessions La (Vinyl Only) Open Air: Xica Soul, Gil Tamazyan, Julian",
-        "day": "Sun",
-        "date": "2026-09-13",
-        "time": "5–11pm",
-        "start": "17:00",
-        "end": "23:00",
-        "area": "Chinatown",
-        "venue": "Apotheke LA",
-        "address": "1746 N Spring St, Los Angeles, CA 90012",
-        "why": "Vinyl-only house DJs on Apotheke's open-air patio, no digital sets allowed",
-        "summary": "Sunday Sessions LA brings its vinyl-only house music series to Apotheke's open-air patio, with Xica Soul, Gil Tamazyan and Julian spinning soulful, hypnotic selections for a crate-digging crowd.",
-        "promoter": "Sunday Sessions",
-        "price": "Free b4 7pm / $23-34, 21+",
-        "tags": [
-          "vinyl-only",
-          "house",
-          "open-air",
-          "day-party",
-          "21+"
-        ],
-        "sources": [
-          "https://www.eventbrite.com/e/sunday-sessions-la-vinyl-only-open-air-tickets-1998125827137"
-        ],
-        "tickets": [
-          "https://shotgun.live/en/events/sunday-sessions-la-08-24-90"
-        ],
-        "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=Los%20Angeles",
-          "apple": "https://maps.apple.com/?q=Los%20Angeles"
-        },
-        "coords": null,
-        "coords_precise": false,
-        "ra": {},
-        "image": "",
-        "image_generated": false,
-        "popularity": 0,
-        "enriched": 1,
-        "active": true,
-        "lineup": [
-          {
-            "name": "Xica Soul",
-            "instagram": null
-          },
-          {
-            "name": "Gil Tamazyan",
-            "instagram": null
-          },
-          {
-            "name": "Julian",
-            "instagram": null
-          }
-        ]
-      },
-      {
         "id": "2026-09-07-music-sungay-brunch-victor-rodriguez-fe2908",
         "eid": "sungay-brunch-victor-rod-dba2",
         "track": "music",
@@ -6629,46 +6284,6 @@
             "instagram": null
           }
         ]
-      },
-      {
-        "id": "2026-09-07-music-midnite-radio-presents-kana-hi-47537e",
-        "eid": "midnite-radio-presents-k-0a31",
-        "track": "music",
-        "category": "",
-        "name": "Midnite Radio presents: Kana Hishiya and Midnite Mary",
-        "day": "Fri",
-        "date": "2026-09-11",
-        "time": "",
-        "start": null,
-        "end": null,
-        "area": "Los Angeles",
-        "venue": "Apotheke",
-        "address": "",
-        "why": "",
-        "summary": "",
-        "promoter": "",
-        "price": "",
-        "tags": [],
-        "sources": [],
-        "tickets": [
-          "https://ra.co/events/2523846"
-        ],
-        "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=Apotheke%2C%20Los%20Angeles",
-          "apple": "https://maps.apple.com/?q=Apotheke%2C%20Los%20Angeles"
-        },
-        "coords": null,
-        "coords_precise": false,
-        "ra": {
-          "event_id": "2523846",
-          "url": "https://ra.co/events/2523846",
-          "interested": 16
-        },
-        "image": "https://party-scout.app/img/gen/midnite-radio-presents-k-0a31.jpg",
-        "image_generated": true,
-        "popularity": 0,
-        "enriched": 1,
-        "active": true
       },
       {
         "id": "2026-09-07-music-nightshift-after-houirs-4b99bc",

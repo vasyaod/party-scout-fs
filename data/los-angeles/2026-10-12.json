@@ -5,7 +5,7 @@
   "location": "Los Angeles & SoCal",
   "city": "los-angeles",
   "city_label": "Los Angeles",
-  "generated_at": "2026-09-25",
+  "generated_at": "2026-09-29",
   "tracks": {
     "music": [
       {
@@ -657,7 +657,9 @@
         "promoter": "",
         "price": "",
         "tags": [],
-        "sources": [],
+        "sources": [
+          "https://ra.co/events/2538217"
+        ],
         "tickets": [],
         "maps": {},
         "coords": null,
@@ -1180,39 +1182,6 @@
         "active": true
       },
       {
-        "id": "2026-10-12-music-subb-an-halo-varga-babylon-bea-173dd9",
-        "eid": "subb-an-halo-varga-babyl-ebf1",
-        "track": "music",
-        "category": "",
-        "name": "Subb-An + Halo Varga + Babylon Beach",
-        "day": "Fri",
-        "date": "2026-10-16",
-        "time": "",
-        "start": null,
-        "end": null,
-        "area": "Los Angeles",
-        "venue": "TBA (Los Angeles)",
-        "address": "",
-        "why": "",
-        "summary": "",
-        "promoter": "",
-        "price": "",
-        "tags": [],
-        "sources": [
-          "https://ra.co/events/2538217"
-        ],
-        "tickets": [],
-        "maps": {},
-        "coords": null,
-        "coords_precise": false,
-        "ra": {},
-        "image": "",
-        "image_generated": false,
-        "popularity": 0,
-        "enriched": 1,
-        "active": true
-      },
-      {
         "id": "2026-10-12-music-whipped-cream-7c065c",
         "eid": "whipped-cream-1d73",
         "track": "music",
@@ -1314,11 +1283,14 @@
         "promoter": "",
         "price": "",
         "tags": [],
-        "sources": [],
+        "sources": [
+          "https://ra.co/events/2528098",
+          "https://www.bettertomorrow.llc/contact"
+        ],
         "tickets": [],
         "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=Better%20Tomorrow",
-          "apple": "https://maps.apple.com/?q=Better%20Tomorrow"
+          "google": "https://www.google.com/maps/search/?api=1&query=Better%20Tomorrow%20%28Los%20Angeles%29",
+          "apple": "https://maps.apple.com/?q=Better%20Tomorrow%20%28Los%20Angeles%29"
         },
         "coords": null,
         "coords_precise": false,
@@ -1902,43 +1874,6 @@
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=EOS%20Lounge%20%28Santa%20Barbara%29",
           "apple": "https://maps.apple.com/?q=EOS%20Lounge%20%28Santa%20Barbara%29"
-        },
-        "coords": null,
-        "coords_precise": false,
-        "ra": {},
-        "image": "",
-        "image_generated": false,
-        "popularity": 0,
-        "enriched": 1,
-        "active": true
-      },
-      {
-        "id": "2026-10-12-music-rodney-all-night-long-191ce2",
-        "eid": "rodney-all-night-long-ed72",
-        "track": "music",
-        "category": "",
-        "name": "Rodney (All Night Long)",
-        "day": "Sat",
-        "date": "2026-10-17",
-        "time": "",
-        "start": null,
-        "end": null,
-        "area": "Downtown LA",
-        "venue": "Better Tomorrow (Los Angeles)",
-        "address": "1121 Venice Blvd, Los Angeles, CA 90015",
-        "why": "",
-        "summary": "",
-        "promoter": "",
-        "price": "",
-        "tags": [],
-        "sources": [
-          "https://ra.co/events/2528098",
-          "https://www.bettertomorrow.llc/contact"
-        ],
-        "tickets": [],
-        "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=Better%20Tomorrow%20%28Los%20Angeles%29",
-          "apple": "https://maps.apple.com/?q=Better%20Tomorrow%20%28Los%20Angeles%29"
         },
         "coords": null,
         "coords_precise": false,

@@ -5,7 +5,7 @@
   "location": "Los Angeles & SoCal",
   "city": "los-angeles",
   "city_label": "Los Angeles",
-  "generated_at": "2026-09-24",
+  "generated_at": "2026-09-29",
   "tracks": {
     "music": [
       {
@@ -2662,7 +2662,7 @@
         "id": "2026-09-21-music-club-speed-star-presents-riria-fe4ee5",
         "eid": "club-speed-star-presents-0f85",
         "track": "music",
-        "category": "",
+        "category": "Bass",
         "name": "club speed.star presents: RIRIA, Linda Lo, Avi Loud",
         "day": "Fri",
         "date": "2026-09-25",
@@ -2672,12 +2672,20 @@
         "area": "Los Angeles",
         "venue": "Club Catwalk",
         "address": "698 Harlem Pl, Los Angeles, CA 90014",
-        "why": "",
-        "summary": "",
+        "why": "A viral Boiler Room Tokyo alum mixing UK garage, amapiano and Jersey club in DTLA's newest underground room.",
+        "summary": "Tokyo-born, London-based DJ RIRIA — a Rinse FM resident whose 2024 Boiler Room Tokyo set went viral — brings her blend of UK garage, amapiano, Jersey club and dub to Club Catwalk in the Historic Core.",
         "promoter": "club speed.star",
         "price": "",
-        "tags": [],
-        "sources": [],
+        "tags": [
+          "uk garage",
+          "amapiano",
+          "jersey club",
+          "bass",
+          "underground"
+        ],
+        "sources": [
+          "https://ra.co/clubs/190104"
+        ],
         "tickets": [],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Club%20Catwalk%2C%20Los%20Angeles",
@@ -2850,52 +2858,6 @@
             "instagram": null
           }
         ]
-      },
-      {
-        "id": "2026-09-21-music-daphni-all-night-07fc76",
-        "eid": "daphni-all-night-0f94",
-        "track": "music",
-        "category": "House",
-        "name": "Daphni (All Night)",
-        "day": "Fri",
-        "date": "2026-09-25",
-        "time": "10pm",
-        "start": "22:00",
-        "end": null,
-        "area": "DTLA/Los Angeles",
-        "venue": "TBA",
-        "address": "",
-        "why": "A rare full-night, open-to-close Daphni set in a secret DTLA warehouse.",
-        "summary": "Dan Snaith's Daphni project plays a seven-hour open-to-close set in an undisclosed DTLA warehouse space, presented by promoter Wellness Check; the exact address is emailed to ticket holders a few hours before doors.",
-        "promoter": "Wellness Check",
-        "price": "",
-        "tags": [
-          "house",
-          "disco",
-          "warehouse",
-          "secret-location",
-          "all-night",
-          "dtla",
-          "21+"
-        ],
-        "sources": [
-          "https://ra.co/events/2493582"
-        ],
-        "tickets": [
-          "https://ra.co/events/2493582"
-        ],
-        "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=DTLA/Los%20Angeles",
-          "apple": "https://maps.apple.com/?q=DTLA/Los%20Angeles"
-        },
-        "coords": null,
-        "coords_precise": false,
-        "ra": {},
-        "image": "",
-        "image_generated": false,
-        "popularity": 0,
-        "enriched": 1,
-        "active": true
       },
       {
         "id": "2026-09-21-music-day-zero-7d84d0",
@@ -3326,61 +3288,6 @@
         "active": true
       },
       {
-        "id": "2026-09-21-music-helena-hauff-and-dopplereffekt-66a310",
-        "eid": "helena-hauff-and-doppler-fb24",
-        "track": "music",
-        "category": "Techno",
-        "name": "Helena Hauff and Dopplereffekt (Live)",
-        "day": "Fri",
-        "date": "2026-09-25",
-        "time": "",
-        "start": null,
-        "end": null,
-        "area": "Los Angeles",
-        "venue": "TBA",
-        "address": "",
-        "why": "A rare Dopplereffekt live set paired with Helena Hauff at a secret ITW warehouse location",
-        "summary": "Into The Woods brings Helena Hauff and Dopplereffekt (Live) to a secret Los Angeles location, a 21+ warehouse-style techno and electro night with the venue revealed only to ticket holders.",
-        "promoter": "Into The Woods",
-        "price": "$28",
-        "tags": [
-          "techno",
-          "electro",
-          "live",
-          "secret-venue",
-          "21+",
-          "warehouse"
-        ],
-        "sources": [
-          "https://dice.fm/event/3orral-into-the-woods-pres-helena-hauff-dopplereffekt-25th-sep-la-tba-los-angeles-tickets"
-        ],
-        "tickets": [
-          "https://dice.fm/event/3orral-into-the-woods-pres-helena-hauff-dopplereffekt-25th-sep-la-tba-los-angeles-tickets"
-        ],
-        "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=Los%20Angeles",
-          "apple": "https://maps.apple.com/?q=Los%20Angeles"
-        },
-        "coords": null,
-        "coords_precise": false,
-        "ra": {},
-        "image": "",
-        "image_generated": false,
-        "popularity": 0,
-        "enriched": 1,
-        "active": true,
-        "lineup": [
-          {
-            "name": "Helena Hauff",
-            "instagram": null
-          },
-          {
-            "name": "Dopplereffekt",
-            "instagram": null
-          }
-        ]
-      },
-      {
         "id": "2026-09-21-music-hostile-onara-b2b-roi-mythm-ot-6d2f99",
         "eid": "hostile-onara-b2b-roi-my-fa13",
         "track": "music",
@@ -3476,7 +3383,9 @@
           "techno",
           "electro",
           "live",
-          "21+"
+          "21+",
+          "secret-venue",
+          "warehouse"
         ],
         "sources": [
           "https://dice.fm/event/3orral-into-the-woods-pres-helena-hauff-dopplereffekt-25th-sep-la-tba-los-angeles-tickets"
@@ -3734,7 +3643,36 @@
         "popularity": 0,
         "enriched": 1,
         "active": true,
-        "lineup": []
+        "lineup": [
+          {
+            "name": "Juliet Mendoza",
+            "instagram": null
+          },
+          {
+            "name": "Andy Oro",
+            "instagram": null
+          },
+          {
+            "name": "Guaparda",
+            "instagram": null
+          },
+          {
+            "name": "Abbyliciouss",
+            "instagram": null
+          },
+          {
+            "name": "R.O.B.I.N.",
+            "instagram": null
+          },
+          {
+            "name": "Seeps",
+            "instagram": null
+          },
+          {
+            "name": "Spiñorita",
+            "instagram": null
+          }
+        ]
       },
       {
         "id": "2026-09-21-music-level-up-72cf2a",
@@ -3789,78 +3727,6 @@
           },
           {
             "name": "Wolfie",
-            "instagram": null
-          }
-        ]
-      },
-      {
-        "id": "2026-09-21-music-made-to-move-presents-latinas-da659d",
-        "eid": "made-to-move-presents-la-bec8",
-        "track": "music",
-        "category": "House",
-        "name": "Made to Move presents Latinas in the House",
-        "day": "Fri",
-        "date": "2026-09-25",
-        "time": "8pm",
-        "start": "20:00",
-        "end": null,
-        "area": "Los Angeles",
-        "venue": "The Airliner",
-        "address": "2419 N Broadway, Los Angeles, CA 90031",
-        "why": "A panel of Latina DJs and promoters precedes an all-Latina house lineup, with proceeds benefiting the TransLatina Coalition",
-        "summary": "A Hispanic Heritage Month celebration of Latin American women in house music, opening with a 45-minute panel of Latina DJs and promoters before sets from Seeps, Spiñorita, Juliet Mendoza, Andy Oro, Guaparda, and a back-to-back from Abbyliciouss and R.O.B.I.N.",
-        "promoter": "Made to Move",
-        "price": "",
-        "tags": [
-          "house",
-          "hispanic-heritage-month",
-          "latina",
-          "panel",
-          "benefit"
-        ],
-        "sources": [
-          "https://www.eventsincalifornia.com/events/hispanic-heritage-month/latinas-in-the-house-the-airliner-los-angeles-ca-sep-25-2026/"
-        ],
-        "tickets": [],
-        "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=The%20Airliner%2C%20Los%20Angeles",
-          "apple": "https://maps.apple.com/?q=The%20Airliner%2C%20Los%20Angeles"
-        },
-        "coords": null,
-        "coords_precise": false,
-        "ra": {},
-        "image": "",
-        "image_generated": false,
-        "popularity": 0,
-        "enriched": 1,
-        "active": true,
-        "lineup": [
-          {
-            "name": "Juliet Mendoza",
-            "instagram": null
-          },
-          {
-            "name": "Andy Oro",
-            "instagram": null
-          },
-          {
-            "name": "Guaparda",
-            "instagram": null
-          },
-          {
-            "name": "Abbyliciouss",
-            "instagram": null
-          },
-          {
-            "name": "R.O.B.I.N.",
-            "instagram": null
-          },
-          {
-            "name": "Seeps",
-            "instagram": null
-          },
-          {
-            "name": "Spiñorita",
             "instagram": null
           }
         ]
@@ -4083,68 +3949,6 @@
         "popularity": 0,
         "enriched": 1,
         "active": true
-      },
-      {
-        "id": "2026-09-21-music-never-dull-alastair-lane-seamu-eef6cd",
-        "eid": "never-dull-alastair-lane-eeae",
-        "track": "music",
-        "category": "House",
-        "name": "Never Dull, Alastair Lane, Seamus Haji",
-        "day": "Fri",
-        "date": "2026-09-25",
-        "time": "8pm–3am",
-        "start": "20:00",
-        "end": "03:00",
-        "area": "Los Angeles",
-        "venue": "6th St Bridge",
-        "address": "635 S Clarence St, Los Angeles, CA 90023",
-        "why": "Alastair Lane's US debut paired with Seamus Haji, the producer behind \"Last Night a DJ Saved My Life\"",
-        "summary": "Stereo Punks brings San Diego disco-house artist Never Dull to headline alongside Alastair Lane's US debut and UK house veteran Seamus Haji at Under the Bridge Studios near the 6th St Viaduct.",
-        "promoter": "Stereo Punks",
-        "price": "",
-        "tags": [
-          "house",
-          "disco",
-          "nu-disco",
-          "21+"
-        ],
-        "sources": [
-          "https://findmuse.app/concerts/los-angeles/stereo-punks-presents-never-dull-alastair-lane-us-debut-seamus-haji-tba-6th-st-bridge-2026-09-26",
-          "https://ra.co/events/2504266"
-        ],
-        "tickets": [
-          "https://ra.co/events/2504266"
-        ],
-        "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=6th%20St%20Bridge%2C%20Los%20Angeles",
-          "apple": "https://maps.apple.com/?q=6th%20St%20Bridge%2C%20Los%20Angeles"
-        },
-        "coords": null,
-        "coords_precise": false,
-        "ra": {},
-        "image": "",
-        "image_generated": false,
-        "popularity": 0,
-        "enriched": 1,
-        "active": true,
-        "lineup": [
-          {
-            "name": "Never Dull",
-            "instagram": null
-          },
-          {
-            "name": "Alastair Lane",
-            "instagram": null
-          },
-          {
-            "name": "Seamus Haji",
-            "instagram": null
-          },
-          {
-            "name": "Clavette",
-            "instagram": null
-          }
-        ]
       },
       {
         "id": "2026-09-21-music-nightshift-after-hours-d9517a",
@@ -4394,54 +4198,6 @@
         "popularity": 0,
         "enriched": 1,
         "active": true
-      },
-      {
-        "id": "2026-09-21-music-riria-4c45ac",
-        "eid": "riria-167c",
-        "track": "music",
-        "category": "Bass",
-        "name": "Riria",
-        "day": "Fri",
-        "date": "2026-09-25",
-        "time": "",
-        "start": null,
-        "end": null,
-        "area": "Los Angeles",
-        "venue": "Club Catwalk",
-        "address": "698 Harlem Place, Los Angeles, CA 90014",
-        "why": "A viral Boiler Room Tokyo alum mixing UK garage, amapiano and Jersey club in DTLA's newest underground room.",
-        "summary": "Tokyo-born, London-based DJ RIRIA — a Rinse FM resident whose 2024 Boiler Room Tokyo set went viral — brings her blend of UK garage, amapiano, Jersey club and dub to Club Catwalk in the Historic Core.",
-        "promoter": "",
-        "price": "",
-        "tags": [
-          "uk garage",
-          "amapiano",
-          "jersey club",
-          "bass",
-          "underground"
-        ],
-        "sources": [
-          "https://ra.co/clubs/190104"
-        ],
-        "tickets": [],
-        "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=Club%20Catwalk%2C%20Los%20Angeles",
-          "apple": "https://maps.apple.com/?q=Club%20Catwalk%2C%20Los%20Angeles"
-        },
-        "coords": null,
-        "coords_precise": false,
-        "ra": {},
-        "image": "",
-        "image_generated": false,
-        "popularity": 0,
-        "enriched": 1,
-        "active": true,
-        "lineup": [
-          {
-            "name": "RIRIA",
-            "instagram": null
-          }
-        ]
       },
       {
         "id": "2026-09-21-music-rizik-xibalba-pioneer-11-dmaxw-62b1c4",
@@ -4887,7 +4643,7 @@
         "end": "03:00",
         "area": "Los Angeles",
         "venue": "TBA - 6th St Bridge",
-        "address": "",
+        "address": "635 S Clarence St, Los Angeles, CA 90023",
         "why": "The US debut of viral French-American artist Alastair Lane alongside UK house institution Seamus Haji",
         "summary": "Stereo Punks brings San Diego disco-house artist Never Dull, French-American breakout Alastair Lane, and UK house veteran Seamus Haji to an Under the Bridge warehouse night, with Stereo Punks founder Clavette opening.",
         "promoter": "Stereo Punks",
@@ -4896,7 +4652,8 @@
           "house",
           "disco",
           "late-night",
-          "21+"
+          "21+",
+          "nu-disco"
         ],
         "sources": [
           "https://ra.co/events/2504266",
@@ -4904,11 +4661,12 @@
           "https://www.stereopunks.com/"
         ],
         "tickets": [
-          "https://posh.vip/e/stereo-punks-presents-never-dull-1"
+          "https://posh.vip/e/stereo-punks-presents-never-dull-1",
+          "https://ra.co/events/2504266"
         ],
         "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=Los%20Angeles",
-          "apple": "https://maps.apple.com/?q=Los%20Angeles"
+          "google": "https://www.google.com/maps/search/?api=1&query=6th%20St%20Bridge%2C%20Los%20Angeles",
+          "apple": "https://maps.apple.com/?q=6th%20St%20Bridge%2C%20Los%20Angeles"
         },
         "coords": null,
         "coords_precise": false,
@@ -5142,7 +4900,10 @@
           "house",
           "disco",
           "all-night",
-          "secret-location"
+          "secret-location",
+          "warehouse",
+          "dtla",
+          "21+"
         ],
         "sources": [
           "https://ra.co/events/2493582"
@@ -5151,8 +4912,8 @@
           "https://ra.co/events/2493582"
         ],
         "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=Los%20Angeles",
-          "apple": "https://maps.apple.com/?q=Los%20Angeles"
+          "google": "https://www.google.com/maps/search/?api=1&query=DTLA/Los%20Angeles",
+          "apple": "https://maps.apple.com/?q=DTLA/Los%20Angeles"
         },
         "coords": null,
         "coords_precise": false,
@@ -5410,26 +5171,37 @@
         "id": "2026-09-21-music-amelie-lens-e77af9",
         "eid": "amelie-lens-b693",
         "track": "music",
-        "category": "",
+        "category": "Techno",
         "name": "Amelie Lens",
         "day": "Sat",
         "date": "2026-09-26",
-        "time": "",
-        "start": null,
-        "end": null,
+        "time": "5–11pm",
+        "start": "17:00",
+        "end": "23:00",
         "area": "Los Angeles",
         "venue": "Grand Park Block 2",
-        "address": "",
-        "why": "",
-        "summary": "",
-        "promoter": "",
-        "price": "",
-        "tags": [],
-        "sources": [],
-        "tickets": [],
+        "address": "200 N Grand Ave, Los Angeles, CA 90012",
+        "why": "A rare outdoor daytime-into-night techno set from one of the genre's biggest headliners, in the heart of Downtown LA.",
+        "summary": "Belgian techno DJ Amelie Lens headlines an open-air Factory 93 show at Grand Park Block 2 in Downtown LA, running from day into night.",
+        "promoter": "Factory 93",
+        "price": "$69",
+        "tags": [
+          "techno",
+          "outdoor",
+          "daytime",
+          "21+"
+        ],
+        "sources": [
+          "https://www.thefactory93.com/event/amelie-lens-2026-09-26-los-angeles-ca/",
+          "https://ra.co/events/2400834",
+          "https://dice.fm/event/ww6dnx-factory-93-presents-amelie-lens-26th-sep-grand-park-los-angeles-tickets"
+        ],
+        "tickets": [
+          "https://factory93.frontgatetickets.com/event/vc2h0b5mp3e2hpkl"
+        ],
         "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=Grand%20Park%20Block%202%2C%20Los%20Angeles",
-          "apple": "https://maps.apple.com/?q=Grand%20Park%20Block%202%2C%20Los%20Angeles"
+          "google": "https://www.google.com/maps/search/?api=1&query=Grand%20Park%2C%20Los%20Angeles",
+          "apple": "https://maps.apple.com/?q=Grand%20Park%2C%20Los%20Angeles"
         },
         "coords": null,
         "coords_precise": false,
@@ -5438,7 +5210,25 @@
         "image_generated": true,
         "popularity": 0,
         "enriched": 1,
-        "active": true
+        "active": true,
+        "lineup": [
+          {
+            "name": "Amelie Lens",
+            "instagram": null
+          },
+          {
+            "name": "Truncate",
+            "instagram": null
+          },
+          {
+            "name": "Regal",
+            "instagram": null
+          },
+          {
+            "name": "Anastasia Giovani",
+            "instagram": null
+          }
+        ]
       },
       {
         "id": "2026-09-21-music-arcane-grace-9b109b",
@@ -6179,69 +5969,6 @@
         "active": true
       },
       {
-        "id": "2026-09-21-music-factory-93-presents-amelie-len-164cc3",
-        "eid": "factory-93-presents-amel-e7ba",
-        "track": "music",
-        "category": "Techno",
-        "name": "Factory 93 presents: Amelie Lens at Grand Park Block 2",
-        "day": "Sat",
-        "date": "2026-09-26",
-        "time": "5–11pm",
-        "start": "17:00",
-        "end": "23:00",
-        "area": "Los Angeles",
-        "venue": "Grand Park",
-        "address": "200 N Grand Ave, Los Angeles, CA 90012",
-        "why": "A rare outdoor daytime-into-night techno set from one of the genre's biggest headliners, in the heart of Downtown LA.",
-        "summary": "Belgian techno DJ Amelie Lens headlines an open-air Factory 93 show at Grand Park Block 2 in Downtown LA, running from day into night.",
-        "promoter": "Factory 93",
-        "price": "$69",
-        "tags": [
-          "techno",
-          "outdoor",
-          "daytime",
-          "21+"
-        ],
-        "sources": [
-          "https://www.thefactory93.com/event/amelie-lens-2026-09-26-los-angeles-ca/",
-          "https://ra.co/events/2400834",
-          "https://dice.fm/event/ww6dnx-factory-93-presents-amelie-lens-26th-sep-grand-park-los-angeles-tickets"
-        ],
-        "tickets": [
-          "https://factory93.frontgatetickets.com/event/vc2h0b5mp3e2hpkl"
-        ],
-        "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=Grand%20Park%2C%20Los%20Angeles",
-          "apple": "https://maps.apple.com/?q=Grand%20Park%2C%20Los%20Angeles"
-        },
-        "coords": null,
-        "coords_precise": false,
-        "ra": {},
-        "image": "",
-        "image_generated": false,
-        "popularity": 0,
-        "enriched": 1,
-        "active": true,
-        "lineup": [
-          {
-            "name": "Amelie Lens",
-            "instagram": null
-          },
-          {
-            "name": "Truncate",
-            "instagram": null
-          },
-          {
-            "name": "Regal",
-            "instagram": null
-          },
-          {
-            "name": "Anastasia Giovani",
-            "instagram": null
-          }
-        ]
-      },
-      {
         "id": "2026-09-21-music-fahlberg-5d4cda",
         "eid": "fahlberg-4a8f",
         "track": "music",
@@ -6342,7 +6069,7 @@
         "address": "4212 W Sunset Blvd, Los Angeles, CA 90029",
         "why": "Touring NYC techno/house DJ flirty800 shares the bill with rising LA selector Pauliewog at Silver Lake's El Cid.",
         "summary": "A club night at El Cid pairing NYC's flirty800, a Tunnel Worldwide resident known for techno/house/pop DJ sets, with LA DJs Howin Wong and Pauliewog, plus Ly Tran and Jae-an.",
-        "promoter": "",
+        "promoter": "QNA",
         "price": "",
         "tags": [
           "techno",
@@ -6706,40 +6433,6 @@
         ]
       },
       {
-        "id": "2026-09-21-music-jen-cardini-konduku-buttechno-e32439",
-        "eid": "jen-cardini-konduku-butt-b834",
-        "track": "music",
-        "category": "",
-        "name": "Jen Cardini, Konduku, Buttechno (Live), Rachana",
-        "day": "Sat",
-        "date": "2026-09-26",
-        "time": "",
-        "start": null,
-        "end": null,
-        "area": "DTLA/Los Angeles",
-        "venue": "TBA",
-        "address": "",
-        "why": "",
-        "summary": "",
-        "promoter": "",
-        "price": "",
-        "tags": [],
-        "sources": [],
-        "tickets": [],
-        "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=DTLA/Los%20Angeles",
-          "apple": "https://maps.apple.com/?q=DTLA/Los%20Angeles"
-        },
-        "coords": null,
-        "coords_precise": false,
-        "ra": {},
-        "image": "",
-        "image_generated": false,
-        "popularity": 0,
-        "enriched": 1,
-        "active": true
-      },
-      {
         "id": "2026-09-21-music-kokka-e6318c",
         "eid": "kokka-b711",
         "track": "music",
@@ -6811,7 +6504,7 @@
         "id": "2026-09-21-music-members-presents-sak-noel-sain-414277",
         "eid": "members-presents-sak-noe-4029",
         "track": "music",
-        "category": "",
+        "category": "House",
         "name": "Members presents: SAK NOEL - SAINT GILO",
         "day": "Sat",
         "date": "2026-09-26",
@@ -6825,7 +6518,10 @@
         "summary": "",
         "promoter": "",
         "price": "",
-        "tags": [],
+        "tags": [
+          "house",
+          "afro-house"
+        ],
         "sources": [],
         "tickets": [],
         "maps": {
@@ -7079,40 +6775,6 @@
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Catch%20One%2C%20Los%20Angeles",
           "apple": "https://maps.apple.com/?q=Catch%20One%2C%20Los%20Angeles"
-        },
-        "coords": null,
-        "coords_precise": false,
-        "ra": {},
-        "image": "",
-        "image_generated": false,
-        "popularity": 0,
-        "enriched": 1,
-        "active": true
-      },
-      {
-        "id": "2026-09-21-music-qna-presents-flirty800-e145c2",
-        "eid": "qna-presents-flirty800-0738",
-        "track": "music",
-        "category": "",
-        "name": "QNA presents flirty800",
-        "day": "Sat",
-        "date": "2026-09-26",
-        "time": "",
-        "start": null,
-        "end": null,
-        "area": "Los Angeles",
-        "venue": "El Cid",
-        "address": "4212 W Sunset Blvd, Los Angeles, CA 90029",
-        "why": "",
-        "summary": "",
-        "promoter": "QNA",
-        "price": "",
-        "tags": [],
-        "sources": [],
-        "tickets": [],
-        "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=El%20Cid%2C%20Los%20Angeles",
-          "apple": "https://maps.apple.com/?q=El%20Cid%2C%20Los%20Angeles"
         },
         "coords": null,
         "coords_precise": false,
@@ -7378,43 +7040,6 @@
         ]
       },
       {
-        "id": "2026-09-21-music-sak-noel-saint-gilo-d2cba5",
-        "eid": "sak-noel-saint-gilo-2e14",
-        "track": "music",
-        "category": "House",
-        "name": "Sak Noel - Saint Gilo",
-        "day": "Sat",
-        "date": "2026-09-26",
-        "time": "",
-        "start": null,
-        "end": null,
-        "area": "Los Angeles",
-        "venue": "Members",
-        "address": "7627 Sunset Blvd, Los Angeles, CA 90046",
-        "why": "",
-        "summary": "",
-        "promoter": "",
-        "price": "",
-        "tags": [
-          "house",
-          "afro-house"
-        ],
-        "sources": [],
-        "tickets": [],
-        "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=Members%2C%20Los%20Angeles",
-          "apple": "https://maps.apple.com/?q=Members%2C%20Los%20Angeles"
-        },
-        "coords": null,
-        "coords_precise": false,
-        "ra": {},
-        "image": "",
-        "image_generated": false,
-        "popularity": 0,
-        "enriched": 1,
-        "active": true
-      },
-      {
         "id": "2026-09-21-music-salute-faster-horses-fc92e5",
         "eid": "salute-faster-horses-ffee",
         "track": "music",
@@ -7674,8 +7299,8 @@
         "sources": [],
         "tickets": [],
         "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=Los%20Angeles",
-          "apple": "https://maps.apple.com/?q=Los%20Angeles"
+          "google": "https://www.google.com/maps/search/?api=1&query=DTLA/Los%20Angeles",
+          "apple": "https://maps.apple.com/?q=DTLA/Los%20Angeles"
         },
         "coords": null,
         "coords_precise": false,
@@ -8498,24 +8123,33 @@
         "date": "2026-09-27",
         "time": "3:00 PM",
         "start": "15:00",
-        "end": null,
+        "end": "22:00",
         "area": "DTLA",
         "venue": "TBA",
         "address": "630 S Anderson St, Los Angeles, CA 90023",
         "why": "An open-to-close marathon set from Detroit house legend Theo Parrish, not a support-slot booking.",
         "summary": "Marathon Theo Parrish set from Into The Woods LA, the promoter's recurring Detroit-house day party in a to-be-announced DTLA warehouse space with location texted out the night of.",
         "promoter": "Into The Woods LA",
-        "price": "",
+        "price": "$30",
         "tags": [
           "house",
           "detroit house",
-          "marathon set"
+          "marathon set",
+          "outdoor",
+          "21+",
+          "daytime",
+          "open-to-close"
         ],
         "sources": [
           "https://ra.co/events/2343246",
-          "https://www.shazam.com/event/db3a8830-0840-4527-b1e1-98f2d402d719"
+          "https://www.shazam.com/event/db3a8830-0840-4527-b1e1-98f2d402d719",
+          "https://www.fusicology.com/events/into-the-woods-presents-theo-parrish-open-to-close/",
+          "https://events.extrachill.com/events/into-the-woods-pres-theo-parrish-all-day-long"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://link.dice.fm/f08fd2f1364d?pid=e021de49",
+          "https://ra.co/events/2343246"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Los%20Angeles",
           "apple": "https://maps.apple.com/?q=Los%20Angeles"
@@ -8528,58 +8162,9 @@
         "popularity": 0,
         "enriched": 1,
         "active": true,
-        "lineup": []
-      },
-      {
-        "id": "2026-09-21-music-julia-edith-rigby-and-kafele-w-5dbb47",
-        "eid": "julia-edith-rigby-and-ka-f5ba",
-        "track": "music",
-        "category": "Live Performance",
-        "name": "Julia Edith Rigby and Kafele Williams",
-        "day": "Sun",
-        "date": "2026-09-27",
-        "time": "7:00 PM",
-        "start": "19:00",
-        "end": null,
-        "area": "Koreatown",
-        "venue": "First Congregational Church Of Los Angeles",
-        "address": "540 S Commonwealth Ave, Los Angeles, CA 90020",
-        "why": "A rare chance to hear one of the world's largest pipe organs paired with live trumpet improvisation in an immersive, experimental multimedia performance.",
-        "summary": "Lithic Breathing: composer Julia Edith Rigby premieres a new work on FCCLA's Great Organs, blending pipe organ, viola, field recordings, and live electronics with Kafele Williams improvising on trumpet, exploring sea caves, seismological listening, and infrasonic worlds.",
-        "promoter": "The Resonance Collective (Golden Thread Concert Series)",
-        "price": "",
-        "tags": [
-          "experimental",
-          "organ",
-          "improvisation",
-          "sound art"
-        ],
-        "sources": [
-          "https://www.resonancecollective.org/lithic-breathing",
-          "https://juliaedithrigby.substack.com/p/live-performance-sep-27-in-los-angeles"
-        ],
-        "tickets": [
-          "https://www.resonancecollective.org/lithic-breathing"
-        ],
-        "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=First%20Congregational%20Church%20Of%20Los%20Angeles%2C%20Los%20Angeles",
-          "apple": "https://maps.apple.com/?q=First%20Congregational%20Church%20Of%20Los%20Angeles%2C%20Los%20Angeles"
-        },
-        "coords": null,
-        "coords_precise": false,
-        "ra": {},
-        "image": "",
-        "image_generated": false,
-        "popularity": 0,
-        "enriched": 1,
-        "active": true,
         "lineup": [
           {
-            "name": "Julia Edith Rigby",
-            "instagram": null
-          },
-          {
-            "name": "Kafele Williams",
+            "name": "Theo Parrish",
             "instagram": null
           }
         ]
@@ -8901,64 +8486,6 @@
         "active": true
       },
       {
-        "id": "2026-09-21-music-pavel-milyakov-live-anenon-liv-baa498",
-        "eid": "pavel-milyakov-live-anen-763b",
-        "track": "music",
-        "category": "Techno",
-        "name": "Pavel Milyakov (Live), Anenon (Live), Agraybe",
-        "day": "Sun",
-        "date": "2026-09-27",
-        "time": "",
-        "start": null,
-        "end": null,
-        "area": "Elysian Park",
-        "venue": "Montecillo De Leo Politi Park",
-        "address": "1755 N. Boylston St, Los Angeles, CA 90012",
-        "why": "Rare outdoor live set from Berlin experimental artist Pavel Milyakov on LA's own hillside dance floor",
-        "summary": "An outdoor daytime set on the grassy knoll at Montecillo De Leo Politi Park in Elysian Park, pairing Pavel Milyakov's live experimental sound with local artists Anenon and Agraybe.",
-        "promoter": "",
-        "price": "",
-        "tags": [
-          "outdoor",
-          "techno",
-          "experimental",
-          "live",
-          "park",
-          "daytime"
-        ],
-        "sources": [
-          "https://www.songkick.com/concerts/43402136-pavel-milyakov-at-montecillo-de-leo-politi-park",
-          "https://ra.co/clubs/153583"
-        ],
-        "tickets": [],
-        "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=DTLA/Los%20Angeles",
-          "apple": "https://maps.apple.com/?q=DTLA/Los%20Angeles"
-        },
-        "coords": null,
-        "coords_precise": false,
-        "ra": {},
-        "image": "",
-        "image_generated": false,
-        "popularity": 0,
-        "enriched": 1,
-        "active": true,
-        "lineup": [
-          {
-            "name": "Pavel Milyakov",
-            "instagram": "buttechn"
-          },
-          {
-            "name": "Anenon",
-            "instagram": null
-          },
-          {
-            "name": "Agraybe",
-            "instagram": null
-          }
-        ]
-      },
-      {
         "id": "2026-09-21-music-resonance-collective-presents-b0a0db",
         "eid": "resonance-collective-pre-8a9b",
         "track": "music",
@@ -8980,7 +8507,10 @@
           "experimental",
           "classical",
           "pipe-organ",
-          "live"
+          "live",
+          "organ",
+          "improvisation",
+          "sound art"
         ],
         "sources": [
           "https://www.resonancecollective.org/lithic-breathing",
@@ -8990,8 +8520,8 @@
           "https://www.resonancecollective.org/lithic-breathing"
         ],
         "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=First%20Congregational%20Church%20of%20Los%20Angeles%2C%20Los%20Angeles",
-          "apple": "https://maps.apple.com/?q=First%20Congregational%20Church%20of%20Los%20Angeles%2C%20Los%20Angeles"
+          "google": "https://www.google.com/maps/search/?api=1&query=First%20Congregational%20Church%20Of%20Los%20Angeles%2C%20Los%20Angeles",
+          "apple": "https://maps.apple.com/?q=First%20Congregational%20Church%20Of%20Los%20Angeles%2C%20Los%20Angeles"
         },
         "coords": null,
         "coords_precise": false,
@@ -9123,42 +8653,39 @@
         ]
       },
       {
-        "id": "2026-09-21-music-theo-parrish-open-to-close-e75584",
-        "eid": "theo-parrish-open-to-clo-0a32",
+        "id": "2026-09-21-music-wellness-check-presents-pavel-0385ab",
+        "eid": "wellness-check-presents-6049",
         "track": "music",
-        "category": "House",
-        "name": "Theo Parrish (Open To Close)",
+        "category": "Techno",
+        "name": "Wellness Check presents: Pavel Milyakov (live), Anenon (live), agraybé",
         "day": "Sun",
         "date": "2026-09-27",
-        "time": "3–10pm",
-        "start": "15:00",
-        "end": "22:00",
+        "time": "",
+        "start": null,
+        "end": null,
         "area": "Los Angeles",
-        "venue": "TBA",
-        "address": "",
-        "why": "A rare full open-to-close marathon set from Sound Signature founder Theo Parrish, not a support slot.",
-        "summary": "Into The Woods presents an open-to-close marathon set from Detroit house legend and Sound Signature founder Theo Parrish, spanning house, hip-hop, soul, electro and techno at a to-be-announced outdoor LA location.",
-        "promoter": "Into The Woods",
-        "price": "$30",
+        "venue": "TBA - DTLA",
+        "address": "1755 N. Boylston St, Los Angeles, CA 90012",
+        "why": "Rare outdoor live set from Berlin experimental artist Pavel Milyakov on LA's own hillside dance floor",
+        "summary": "An outdoor daytime set on the grassy knoll at Montecillo De Leo Politi Park in Elysian Park, pairing Pavel Milyakov's live experimental sound with local artists Anenon and Agraybe.",
+        "promoter": "",
+        "price": "",
         "tags": [
-          "house",
           "outdoor",
-          "21+",
-          "daytime",
-          "open-to-close"
+          "techno",
+          "experimental",
+          "live",
+          "park",
+          "daytime"
         ],
         "sources": [
-          "https://ra.co/events/2343246",
-          "https://www.fusicology.com/events/into-the-woods-presents-theo-parrish-open-to-close/",
-          "https://events.extrachill.com/events/into-the-woods-pres-theo-parrish-all-day-long"
+          "https://www.songkick.com/concerts/43402136-pavel-milyakov-at-montecillo-de-leo-politi-park",
+          "https://ra.co/clubs/153583"
         ],
-        "tickets": [
-          "https://link.dice.fm/f08fd2f1364d?pid=e021de49",
-          "https://ra.co/events/2343246"
-        ],
+        "tickets": [],
         "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=Los%20Angeles",
-          "apple": "https://maps.apple.com/?q=Los%20Angeles"
+          "google": "https://www.google.com/maps/search/?api=1&query=DTLA/Los%20Angeles",
+          "apple": "https://maps.apple.com/?q=DTLA/Los%20Angeles"
         },
         "coords": null,
         "coords_precise": false,
@@ -9170,44 +8697,18 @@
         "active": true,
         "lineup": [
           {
-            "name": "Theo Parrish",
+            "name": "Pavel Milyakov",
+            "instagram": "buttechn"
+          },
+          {
+            "name": "Anenon",
+            "instagram": null
+          },
+          {
+            "name": "Agraybe",
             "instagram": null
           }
         ]
-      },
-      {
-        "id": "2026-09-21-music-wellness-check-presents-pavel-0385ab",
-        "eid": "wellness-check-presents-6049",
-        "track": "music",
-        "category": "",
-        "name": "Wellness Check presents: Pavel Milyakov (live), Anenon (live), agraybé",
-        "day": "Sun",
-        "date": "2026-09-27",
-        "time": "",
-        "start": null,
-        "end": null,
-        "area": "Los Angeles",
-        "venue": "TBA - DTLA",
-        "address": "",
-        "why": "",
-        "summary": "",
-        "promoter": "",
-        "price": "",
-        "tags": [],
-        "sources": [],
-        "tickets": [],
-        "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=Los%20Angeles",
-          "apple": "https://maps.apple.com/?q=Los%20Angeles"
-        },
-        "coords": null,
-        "coords_precise": false,
-        "ra": {},
-        "image": "",
-        "image_generated": false,
-        "popularity": 0,
-        "enriched": 1,
-        "active": true
       },
       {
         "id": "2026-09-21-music-whatever-day-to-night-rave-0943f5",
