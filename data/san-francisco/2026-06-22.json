@@ -1390,7 +1390,7 @@
         "time": "9pm-3am",
         "area": "SF",
         "venue": "Public Works",
-        "address": "",
+        "address": "161 Erie St, San Francisco, CA 94103",
         "why": "Bear-and-burly crowd, house all night — know the scene you're walking into",
         "summary": "Bearracuda's 'Beefcake Pride' night at Public Works SF with DJs Tony Maron and Mateo Segade spinning house for a bear and queer crowd on Pride Friday night. 9pm–3am.",
         "price": "$46",
@@ -1398,10 +1398,12 @@
           "house"
         ],
         "sources": [
-          "https://sickening.events/e/bearracuda-sf-pride-2026-beefcakes"
+          "https://sickening.events/e/bearracuda-sf-pride-2026-beefcakes",
+          "https://www.tixr.com/groups/publicsf/events/bearracuda-sf-beefcake-pride-2026--195026"
         ],
         "tickets": [
-          "https://sickening.events/e/bearracuda-sf-pride-2026-beefcakes"
+          "https://sickening.events/e/bearracuda-sf-pride-2026-beefcakes",
+          "https://www.tixr.com/groups/publicsf/events/bearracuda-sf-beefcake-pride-2026--195026"
         ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Public+Works%2C+161+Erie+St%2C+San+Francisco%2C+CA",
@@ -1421,7 +1423,18 @@
         "coords_precise": true,
         "start": "21:00",
         "end": "03:00",
-        "enriched": 0
+        "enriched": 1,
+        "promoter": "Bearracuda SF",
+        "lineup": [
+          {
+            "name": "Tony Moran",
+            "instagram": null
+          },
+          {
+            "name": "Mateo Segade",
+            "instagram": null
+          }
+        ]
       },
       {
         "track": "music",
