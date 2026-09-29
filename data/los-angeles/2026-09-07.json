@@ -5643,15 +5643,22 @@
         "time": "",
         "start": null,
         "end": null,
-        "area": "Los Angeles",
+        "area": "Hollywood",
         "venue": "The Spotlight",
-        "address": "",
-        "why": "",
-        "summary": "",
-        "promoter": "",
+        "address": "1601 N Cahuenga Blvd, Los Angeles, CA 90028",
+        "why": "A beloved Hollywood dance-party institution known for blog-house and disco throwbacks.",
+        "summary": "Simon Says, the LGBTQ+-inclusive dance party at The Spotlight in Hollywood, brings Josh Peace and Georgi to the decks for a night of new-wave, disco and electro.",
+        "promoter": "Simon Says",
         "price": "$25+, 21+",
-        "tags": [],
-        "sources": [],
+        "tags": [
+          "dance",
+          "disco",
+          "electro",
+          "lgbtq+"
+        ],
+        "sources": [
+          "https://dice.fm/event/53m6q8-simon-says-josh-peace-georgi-12th-sep-the-spotlight-los-angeles-tickets"
+        ],
         "tickets": [
           "https://dice.fm/event/53m6q8-simon-says-josh-peace-georgi-12th-sep-the-spotlight-los-angeles-tickets"
         ],
@@ -5665,8 +5672,18 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
-        "active": true
+        "enriched": 1,
+        "active": true,
+        "lineup": [
+          {
+            "name": "Josh Peace",
+            "instagram": null
+          },
+          {
+            "name": "Georgi",
+            "instagram": null
+          }
+        ]
       },
       {
         "id": "2026-09-07-music-soundwave-kidz-deez-daze-ff4b88",
