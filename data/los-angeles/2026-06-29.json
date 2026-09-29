@@ -3476,13 +3476,13 @@
         "name": "Stars & Stripes 5K/10K/15K/Half Marathon",
         "day": "Fri",
         "date": "2026-07-03",
-        "time": "morning",
+        "time": "6:45am check-in, 7:30am start",
         "area": "Long Beach",
         "venue": "Long Beach",
-        "address": "Long Beach, CA",
-        "why": "Bank your holiday miles a day early.",
-        "summary": "A Friday morning July 4th-themed race in Long Beach offering 5K through half-marathon distances, entry $45-80.",
-        "price": "$45–80",
+        "address": "5400 E Ocean Blvd, Long Beach, CA 90802",
+        "why": "Bank your holiday miles a day early with a flat, out-and-back beach path course.",
+        "summary": "A Friday morning July 4th weekend race along the Long Beach shoreline path with 5K, 10K, 15K and half-marathon distances, plus finisher medals and post-race snacks.",
+        "price": "$35–50",
         "tags": [
           "running",
           "5k",
@@ -3492,10 +3492,12 @@
           "road"
         ],
         "sources": [
-          "https://www.runguides.com/los-angeles/runs"
+          "https://www.runguides.com/los-angeles/runs",
+          "https://www.active.com/long-beach-ca/running/distance-running-races/stars-and-stripes-5k-10k-15k-half-marathon-2026"
         ],
         "tickets": [
-          "https://www.runguides.com/los-angeles/runs"
+          "https://www.runguides.com/los-angeles/runs",
+          "https://www.active.com/long-beach-ca/running/distance-running-races/stars-and-stripes-5k-10k-15k-half-marathon-2026"
         ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Long+Beach%2C+Long+Beach%2C+CA",
@@ -3513,9 +3515,10 @@
         },
         "coords_precise": true,
         "image_generated": false,
-        "start": null,
+        "start": "07:30",
         "end": null,
-        "enriched": 0
+        "enriched": 1,
+        "promoter": "A Better World Running"
       },
       {
         "track": "sports",
