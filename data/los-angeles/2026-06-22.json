@@ -491,11 +491,11 @@
         "day": "Fri",
         "date": "2026-06-26",
         "time": "9pm",
-        "area": "Los Angeles",
+        "area": "DTLA",
         "venue": "Bar Franca",
-        "address": "",
-        "why": "Free disco-house at a wine bar, the low-effort Friday start.",
-        "summary": "A free Friday-night house, deep-house and disco party at Bar Franca in Los Angeles starting 9pm, a 21+ no-cover bar event.",
+        "address": "438 S Main St, Los Angeles, CA 90013",
+        "why": "Free weekly disco-house night from the Midnight Lovers collective's own Bar Franca sound bar.",
+        "summary": "Midnight Lovers hosts a free Friday-night disco and house party at their own Bar Franca sound bar in Downtown LA, with JKriv of Razor-N-Tape headlining from 9pm.",
         "price": "Free",
         "tags": [
           "free",
@@ -505,7 +505,8 @@
           "21+"
         ],
         "sources": [
-          "https://ra.co/events/2396500"
+          "https://ra.co/events/2396500",
+          "https://dice.fm/event/q2vl5a-midnight-lovers-with-jkriv-razor-n-tape-26th-jun-bar-franca-los-angeles-tickets"
         ],
         "tickets": [
           "https://ra.co/events/2396500"
@@ -533,7 +534,14 @@
         "start": "21:00",
         "end": null,
         "image_generated": false,
-        "enriched": 0
+        "enriched": 1,
+        "promoter": "Midnight Lovers",
+        "lineup": [
+          {
+            "name": "JKriv",
+            "instagram": null
+          }
+        ]
       },
       {
         "track": "music",

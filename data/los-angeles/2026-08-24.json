@@ -5,7 +5,7 @@
   "location": "Los Angeles & SoCal",
   "city": "los-angeles",
   "city_label": "Los Angeles",
-  "generated_at": "2026-09-25",
+  "generated_at": "2026-09-28",
   "tracks": {
     "music": [
       {
@@ -2207,14 +2207,16 @@
         "address": "3210 Glendale Blvd, Los Angeles, CA 90039",
         "why": "End-of-summer edition of the long-running weekly reggae residency, with a live-performance dubplate set from Yungg Trip + Friends.",
         "summary": "Reggae Love Sundays end-of-summer session at Club Tee Gee with residents Big Mix Mike and Prosper, Hot Steppa Sound, and a live PA from Yungg Trip.",
-        "promoter": "",
+        "promoter": "Hot Steppa",
         "price": "Free",
         "tags": [
           "reggae",
-          "dj"
+          "dj",
+          "dancehall"
         ],
         "sources": [
-          "https://www.instagram.com/p/DccVm7rMxTi/"
+          "https://www.instagram.com/p/DccVm7rMxTi/",
+          "https://www.eventbrite.com/e/reggae-love-sundays-end-of-summer-party-tickets-1998936642307"
         ],
         "tickets": [],
         "maps": {
@@ -2233,7 +2235,25 @@
         "active": true,
         "id": "2026-08-24-music-reggae-love-sundays-club-tee-gee-ed91b2",
         "eid": "reggae-love-sundays-club-tee-gee",
-        "enriched": 0
+        "enriched": 1,
+        "lineup": [
+          {
+            "name": "Hot Steppa Sound",
+            "instagram": null
+          },
+          {
+            "name": "Big Mix Mike",
+            "instagram": null
+          },
+          {
+            "name": "Prosper",
+            "instagram": null
+          },
+          {
+            "name": "Yungg Trip + Friends",
+            "instagram": null
+          }
+        ]
       }
     ],
     "sports": [
