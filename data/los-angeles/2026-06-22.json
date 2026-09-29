@@ -2434,7 +2434,7 @@
         "name": "Sports Raves For All Ages: Multiform (Peanut Butter Wolf, Jason Bentley, Anne Litt)",
         "day": "Sat",
         "date": "2026-06-27",
-        "time": "afternoon",
+        "time": "1–5pm",
         "area": "DTLA",
         "venue": "The Broad",
         "address": "221 S Grand Ave, Los Angeles, CA 90012",
@@ -2451,7 +2451,8 @@
           "all-ages"
         ],
         "sources": [
-          "https://www.kcrw.com/events/sports-raves-for-all-ages-multiform3"
+          "https://www.kcrw.com/events/sports-raves-for-all-ages-multiform3",
+          "https://www.thebroad.org/sports-raves-all-ages-multiform"
         ],
         "tickets": [
           "https://www.kcrw.com/events/sports-raves-for-all-ages-multiform3"
@@ -2471,10 +2472,25 @@
           "lat": 34.054458,
           "lon": -118.250594
         },
-        "start": null,
-        "end": null,
+        "start": "13:00",
+        "end": "17:00",
         "coords_precise": false,
-        "enriched": 0
+        "enriched": 1,
+        "promoter": "The Broad / KCRW",
+        "lineup": [
+          {
+            "name": "Peanut Butter Wolf",
+            "instagram": null
+          },
+          {
+            "name": "Jason Bentley",
+            "instagram": null
+          },
+          {
+            "name": "Anne Litt",
+            "instagram": null
+          }
+        ]
       },
       {
         "track": "music",
