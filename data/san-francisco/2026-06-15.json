@@ -614,18 +614,24 @@
         "name": "Sunset Dunes parkrun 5K (free)",
         "day": "Sat",
         "date": "2026-06-20",
-        "time": "9am",
+        "time": "8am",
         "area": "SF",
         "venue": "",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "Great Highway at Judah St, San Francisco, CA",
+        "why": "A flat, scenic out-and-back 5K on the coastal promenade — free, timed, and open to every pace.",
+        "summary": "A free, weekly timed 5K run/jog/walk along Ocean Beach in Sunset Dunes park, organized by Friends of Sunset Dunes; coffee follows at Java Beach Cafe.",
         "price": "Free",
         "tags": [
           "running",
-          "free"
+          "free",
+          "5k",
+          "timed",
+          "outdoor"
         ],
-        "sources": [],
+        "sources": [
+          "https://www.parkrun.us/sunsetdunes/",
+          "https://sunsetdunes.org/events/sunset-dunes-parkrun"
+        ],
         "tickets": [],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Sunset+Dunes+parkrun+5K+%28free%29%2C+SF",
@@ -643,9 +649,10 @@
           "lon": -122.40752
         },
         "coords_precise": false,
-        "start": "09:00",
+        "start": "08:00",
         "end": null,
-        "enriched": 0
+        "enriched": 1,
+        "promoter": "Friends of Sunset Dunes"
       }
     ]
   }
