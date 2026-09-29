@@ -1336,23 +1336,32 @@
         "id": "2026-09-28-music-dj-dave-993325",
         "eid": "dj-dave-cbbb",
         "track": "music",
-        "category": "",
+        "category": "Techno",
         "name": "DJ_Dave",
         "day": "Thu",
         "date": "2026-10-01",
-        "time": "",
-        "start": null,
+        "time": "8pm",
+        "start": "20:00",
         "end": null,
         "area": "LA",
         "venue": "El Rey Theatre",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "5515 Wilshire Blvd, Los Angeles, CA 90036",
+        "why": "A DJ who writes and runs code live on stage as the visuals render in real time",
+        "summary": "DJ_Dave, the techno DJ/producer known for live-coding her sets on stage (a practice called algorave), plays LA's intimate El Rey Theatre with doors at 7pm.",
         "promoter": "",
-        "price": "",
-        "tags": [],
-        "sources": [],
-        "tickets": [],
+        "price": "$70–86",
+        "tags": [
+          "techno",
+          "algorave",
+          "live-coding",
+          "electronic"
+        ],
+        "sources": [
+          "https://www.songkick.com/concerts/43339204-djdave-at-el-rey-theatre"
+        ],
+        "tickets": [
+          "https://www.eventticketscenter.com/dj-dave-los-angeles-10-01-2026/8172249/t"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=El%20Rey%20Theatre%2C%20LA",
           "apple": "https://maps.apple.com/?q=El%20Rey%20Theatre%2C%20LA"
@@ -1363,8 +1372,14 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
-        "active": true
+        "enriched": 1,
+        "active": true,
+        "lineup": [
+          {
+            "name": "DJ_Dave",
+            "instagram": null
+          }
+        ]
       },
       {
         "id": "2026-09-28-music-elderbrook-eli-fur-alice-km-bdef2f",
