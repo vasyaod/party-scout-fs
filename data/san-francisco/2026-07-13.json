@@ -5,7 +5,7 @@
   "location": "San Francisco & Bay Area",
   "city": "san-francisco",
   "city_label": "San Francisco",
-  "generated_at": "2026-09-27",
+  "generated_at": "2026-09-28",
   "tracks": {
     "music": [
       {
@@ -1812,7 +1812,7 @@
         "address": "375 11th St, San Francisco, CA 94103",
         "why": "DNA's monthly burlesque spectacle with a goth-vs-emo costume theme; theatrical and campy, not a standard club night",
         "summary": "Hubba Hubba Revue returns to DNA Lounge for a Goth vs Emo edition on Sunday July 19, with burlesque, comedy and themed performances; doors 7:30pm, 18+.",
-        "price": "",
+        "price": "$15-35",
         "tags": [
           "burlesque",
           "goth",
@@ -1820,11 +1820,50 @@
           "themed",
           "18+"
         ],
-        "lineup": [],
-        "sources": [
-          "https://www.dnalounge.com/calendar/2026/07-19.html"
+        "lineup": [
+          {
+            "name": "JoJo VaVoom",
+            "instagram": null
+          },
+          {
+            "name": "Jillian Fuchs",
+            "instagram": null
+          },
+          {
+            "name": "The Infamous Luma Jaguar",
+            "instagram": null
+          },
+          {
+            "name": "Evangeline Laveau",
+            "instagram": null
+          },
+          {
+            "name": "Alexa Serenade",
+            "instagram": null
+          },
+          {
+            "name": "Joanna Animal",
+            "instagram": null
+          },
+          {
+            "name": "Sgt. Die Wies",
+            "instagram": null
+          },
+          {
+            "name": "Velvet Thorn Dame",
+            "instagram": null
+          }
         ],
-        "tickets": [],
+        "sources": [
+          "https://www.dnalounge.com/calendar/2026/07-19.html",
+          "https://www.dnalounge.com/calendar/2026/07-19a.html",
+          "https://ra.co/events/1648813",
+          "https://dothebay.com/events/2026/7/19/hubba-hubba-revue-tickets"
+        ],
+        "tickets": [
+          "https://ra.co/events/1648813",
+          "https://dothebay.com/events/2026/7/19/hubba-hubba-revue-tickets"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=DNA+Lounge%2C+375+11th+St%2C+San+Francisco%2C+CA+94103",
           "apple": "https://maps.apple.com/?q=DNA+Lounge%2C+375+11th+St%2C+San+Francisco%2C+CA+94103"
@@ -1841,8 +1880,8 @@
         "popularity": 4,
         "id": "2026-07-13-music-hubba-hubba-revue-goth-vs-emo-8fdae3",
         "eid": "hubba-hubba-revue-goth-vs-em-5508",
-        "promoter": "",
-        "enriched": 0
+        "promoter": "Hubba Hubba Revue",
+        "enriched": 1
       },
       {
         "track": "music",
