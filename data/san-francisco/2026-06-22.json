@@ -3011,24 +3011,28 @@
       },
       {
         "track": "sports",
-        "category": "Fitness",
+        "category": "Yoga",
         "name": "Pride House SF x Queer & Well: Yoga with Cyrus",
         "day": "Fri",
         "date": "2026-06-26",
-        "time": "",
+        "time": "5:30–7pm",
         "area": "SF",
         "venue": "Pride House SF (Mid-Market)",
-        "address": "San Francisco, CA",
+        "address": "1800 Market St, San Francisco, CA 94102",
         "why": "Free grounding reset before the chaos — the antidote to a weekend of late nights",
-        "summary": "Free outdoor yoga class with instructor Cyrus hosted at Pride House SF in Mid-Market — a grounding way to start Pride weekend before the parties begin.",
+        "summary": "Free community yoga class led by instructor Cyrus Ebadat, part of Pride House SF and Queer & Well's bi-weekly \"To Be Free: A Movement Series,\" hosted at the SF LGBT Center on Market Street as the series' closing session before Pride weekend.",
         "price": "Free",
         "tags": [
           "yoga",
           "fitness",
           "pride",
-          "free"
+          "free",
+          "wellness"
         ],
-        "sources": [],
+        "sources": [
+          "https://www.sfcenter.org/event/pride-house-sf-x-queer-well-yoga-with-cyrus/",
+          "https://www.eventbrite.com/e/pride-house-sf-yoga-with-cyrus-to-be-free-a-movement-series-v2-tickets-1993345924319"
+        ],
         "tickets": [],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Pride+House+SF+%28Mid-Market%29%2C+San+Francisco%2C+CA",
@@ -3046,9 +3050,10 @@
           "lon": -122.40752
         },
         "coords_precise": true,
-        "start": null,
-        "end": null,
-        "enriched": 0
+        "start": "17:30",
+        "end": "19:00",
+        "enriched": 1,
+        "promoter": "Pride House SF"
       },
       {
         "track": "sports",
