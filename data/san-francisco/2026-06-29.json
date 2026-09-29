@@ -1139,17 +1139,20 @@
         "area": "SF",
         "venue": "The Fillmore",
         "address": "1805 Geary Blvd, San Francisco, CA 94115",
-        "why": "Ukrainian progressive metal powerhouse on a major tour stop at The Fillmore — proper concert, not a club night",
-        "summary": "JINJER plays The Fillmore in San Francisco (1805 Geary Blvd) on Friday July 3 at 7pm on the Duel North America 2026 tour; $60.",
+        "why": "Ukrainian progressive metal powerhouse headlining a full tour stop at The Fillmore, with Entheos and Crystal Lake support",
+        "summary": "JINJER plays The Fillmore in San Francisco (1805 Geary Blvd) on Friday July 3 at 7pm on the Duel North America 2026 tour, with support from Entheos and Crystal Lake; $60.",
         "price": "$60",
         "tags": [
           "metal",
           "progressive-metal"
         ],
         "sources": [
-          "https://www.thefillmore.com/events"
+          "https://www.thefillmore.com/events",
+          "https://www.jambase.com/show/jinjer-the-fillmore-20260703"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://www.livenation.com/event/G5vYZ_kwlFjE6/jinjer-duel-north-america-2026"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=The+Fillmore%2C+1805+Geary+Blvd%2C+San+Francisco%2C+CA+94115",
           "apple": "https://maps.apple.com/?q=The+Fillmore%2C+1805+Geary+Blvd%2C+San+Francisco%2C+CA+94115"
@@ -1168,7 +1171,22 @@
         "eid": "jinjer-duel-north-america-20-a60b",
         "start": "19:00",
         "end": null,
-        "enriched": 0
+        "enriched": 1,
+        "promoter": "Live Nation",
+        "lineup": [
+          {
+            "name": "JINJER",
+            "instagram": null
+          },
+          {
+            "name": "Entheos",
+            "instagram": null
+          },
+          {
+            "name": "Crystal Lake",
+            "instagram": null
+          }
+        ]
       },
       {
         "track": "music",
