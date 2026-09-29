@@ -5024,7 +5024,7 @@
         "time": "11pm-5am",
         "start": "23:00",
         "end": "05:00",
-        "area": "Los Angeles",
+        "area": "DTLA",
         "venue": "TBA",
         "address": "",
         "why": "Late-night tech house and deep house experience in an undisclosed LA venue.",
@@ -5038,7 +5038,28 @@
           "tech-house",
           "underground"
         ],
-        "lineup": [],
+        "lineup": [
+          {
+            "name": "LA Riots",
+            "instagram": null
+          },
+          {
+            "name": "Beast",
+            "instagram": null
+          },
+          {
+            "name": "Jacz",
+            "instagram": null
+          },
+          {
+            "name": "Lavenge",
+            "instagram": null
+          },
+          {
+            "name": "Max Rush",
+            "instagram": null
+          }
+        ],
         "sources": [
           "https://posh.vip/e/recollect-underground-2",
           "https://www.instagram.com/p/DZl9KXzKRBX/"
@@ -5062,7 +5083,8 @@
         "popularity": 4,
         "id": "2026-07-06-music-recollect-underground-la-riots-b-5291d8",
         "eid": "recollect-underground-la-rio-e80a",
-        "enriched": 0
+        "enriched": 1,
+        "promoter": "Recollect Underground"
       },
       {
         "track": "music",
