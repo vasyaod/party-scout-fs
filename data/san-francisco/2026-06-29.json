@@ -3263,16 +3263,20 @@
         "venue": "The Fillmore",
         "address": "1805 Geary Blvd, San Francisco, CA 94115",
         "why": "All-ages folk-pop show at The Fillmore — a sit-down touring act between the holiday dance parties",
-        "summary": "Joshua Slone plays The Fillmore in San Francisco on Tuesday July 1, doors 7:30pm, show 8pm, on his 'Thinking Too Much' tour. All ages; $24.",
+        "summary": "Joshua Slone plays The Fillmore in San Francisco on Tuesday, June 30, doors 7:30pm, show 8pm, on his 'Thinking Too Much' tour, with support from Jake Minch. All ages; $24.",
         "price": "$24",
         "tags": [
           "folk-pop",
           "singer-songwriter"
         ],
         "sources": [
-          "https://www.thefillmore.com/events"
+          "https://www.thefillmore.com/events",
+          "https://www.livenation.com/event/G5vYZ_6LSTTKf/joshua-slone-thinking-too-much-tour",
+          "https://www.ticketmaster.com/joshua-slone-thinking-too-much-tour-san-francisco-california-06-30-2026/event/1C006477F3FFF4D4"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://www.ticketmaster.com/joshua-slone-thinking-too-much-tour-san-francisco-california-06-30-2026/event/1C006477F3FFF4D4"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=The+Fillmore%2C+1805+Geary+Blvd%2C+San+Francisco%2C+CA+94115",
           "apple": "https://maps.apple.com/?q=The+Fillmore%2C+1805+Geary+Blvd%2C+San+Francisco%2C+CA+94115"
@@ -3291,7 +3295,17 @@
         "eid": "joshua-slone-thinking-too-mu-41ac",
         "start": "20:00",
         "end": null,
-        "enriched": 0
+        "enriched": 1,
+        "lineup": [
+          {
+            "name": "Joshua Slone",
+            "instagram": null
+          },
+          {
+            "name": "Jake Minch",
+            "instagram": null
+          }
+        ]
       },
       {
         "track": "music",
