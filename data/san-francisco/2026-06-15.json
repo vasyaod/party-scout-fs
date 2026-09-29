@@ -545,17 +545,22 @@
         "name": "SF Sunday Motorcycle Riding Group",
         "day": "Sun",
         "date": "2026-06-21",
-        "time": "AM ride",
+        "time": "9:00 AM",
         "area": "SF / San Leandro",
         "venue": "",
         "address": "",
-        "why": "",
-        "summary": "",
-        "price": "",
+        "why": "Free, no-drop group ride with a ride captain and sweepers for a leisurely Bay Area Sunday cruise",
+        "summary": "A recurring Sunday-morning group ride around the SF Bay Area, run by the SF Sunday Motorcycle Riding Group meetup, with routes starting mostly in San Francisco and occasionally in San Leandro.",
+        "price": "Free",
         "tags": [
-          "moto"
+          "moto",
+          "group-ride",
+          "meetup",
+          "free"
         ],
-        "sources": [],
+        "sources": [
+          "https://www.meetup.com/san-franciscos-sunday-motorcycle-riding-group/"
+        ],
         "tickets": [],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=SF+Sunday+Motorcycle+Riding+Group%2C+SF+%2F+San+Leandro",
@@ -573,9 +578,10 @@
           "lon": -122.468781
         },
         "coords_precise": false,
-        "start": null,
+        "start": "09:00",
         "end": null,
-        "enriched": 0
+        "enriched": 1,
+        "promoter": "SF Sunday Motorcycle Riding Group"
       },
       {
         "track": "sports",
