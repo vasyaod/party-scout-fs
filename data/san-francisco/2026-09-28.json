@@ -13281,18 +13281,20 @@
         "name": "Fahm Takeover: Mood Ring, Malaro, Broad Strokes",
         "day": "Thu",
         "date": "2026-10-01",
-        "time": "",
-        "start": null,
+        "time": "9pm–late",
+        "start": "21:00",
         "end": null,
-        "area": "San Francisco",
+        "area": "Cow Hollow",
         "venue": "White Rabbit Bar",
-        "address": "",
-        "why": "",
-        "summary": "",
-        "promoter": "",
+        "address": "3138 Fillmore St, San Francisco, CA 94123",
+        "why": "A guest takeover of White Rabbit's regular Thursday Inner Circle residency night.",
+        "summary": "FAHM takes over White Rabbit's weekly Inner Circle night with a DJ set from Mood Ring, Malaro and Broad Strokes.",
+        "promoter": "Inner Circle x FAHM",
         "price": "",
         "tags": [],
-        "sources": [],
+        "sources": [
+          "https://www.whiterabbitsf.com/calendar"
+        ],
         "tickets": [],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=White%20Rabbit%20Bar%2C%20San%20Francisco",
@@ -13304,8 +13306,22 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
-        "active": true
+        "enriched": 1,
+        "active": true,
+        "lineup": [
+          {
+            "name": "Mood Ring",
+            "instagram": null
+          },
+          {
+            "name": "Malaro",
+            "instagram": null
+          },
+          {
+            "name": "Broad Strokes",
+            "instagram": null
+          }
+        ]
       },
       {
         "id": "2026-09-28-music-mr-carmack-e56c24",
