@@ -4750,25 +4750,34 @@
         "id": "2026-09-28-sports-seb-mud-run-e146dd",
         "eid": "seb-mud-run-439a",
         "track": "sports",
-        "category": "",
+        "category": "Obstacle Race",
         "name": "SEB Mud Run",
         "day": "Sat",
         "date": "2026-10-03",
-        "time": "",
-        "start": null,
-        "end": null,
-        "area": "LA",
-        "venue": "Castaic",
-        "address": "",
-        "why": "",
-        "summary": "",
-        "promoter": "",
-        "price": "",
-        "tags": [],
-        "sources": [
-          "https://runningintheusa.com"
+        "time": "6am–1pm",
+        "start": "06:00",
+        "end": "13:00",
+        "area": "Castaic",
+        "venue": "Jack Bones Equestrian Center",
+        "address": "26983 Tapia Canyon Rd, Castaic, CA 91384",
+        "why": "A sheriff-run mud obstacle race with age-division awards, a mud-slathered SWAT-team demo, and a kids' course, capped off with on-site showers.",
+        "summary": "A 4-mile mud obstacle course race hosted by the LA Sheriff Athletic Association, plus a 1-mile Kids' Fun Mud Run, with waves released every 5-10 minutes starting at 9am.",
+        "promoter": "LASAA",
+        "price": "$65",
+        "tags": [
+          "mud-run",
+          "obstacle-course",
+          "fitness",
+          "outdoor",
+          "family-friendly"
         ],
-        "tickets": [],
+        "sources": [
+          "https://runningintheusa.com",
+          "https://runsignup.com/Race/CA/Castaic/SEBMudRun"
+        ],
+        "tickets": [
+          "https://runsignup.com/Race/CA/Castaic/SEBMudRun"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Castaic%2C%20LA",
           "apple": "https://maps.apple.com/?q=Castaic%2C%20LA"
@@ -4776,10 +4785,10 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://party-scout.app/img/gen/seb-mud-run-439a.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
