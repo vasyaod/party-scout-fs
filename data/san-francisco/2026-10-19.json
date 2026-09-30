@@ -2462,23 +2462,33 @@
         "id": "2026-10-19-music-rise-against-e83e72",
         "eid": "rise-against-be19",
         "track": "music",
-        "category": "",
+        "category": "Concert",
         "name": "Rise Against",
         "day": "Thu",
         "date": "2026-10-22",
         "time": "7:00PM",
         "start": "19:00",
         "end": null,
-        "area": "San Francisco",
+        "area": "Nob Hill",
         "venue": "The Masonic",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "1111 California St, San Francisco, CA 94108",
+        "why": "A big-room punk show with Rise Against's anthemic catalog and Alkaline Trio opening.",
+        "summary": "Chicago punk rockers Rise Against play The Masonic on Nob Hill with Alkaline Trio and Teen Mortgage in support.",
         "promoter": "",
-        "price": "",
-        "tags": [],
-        "sources": [],
-        "tickets": [],
+        "price": "$65–$112",
+        "tags": [
+          "punk",
+          "rock",
+          "live-music",
+          "concert"
+        ],
+        "sources": [
+          "https://dothebay.com/events/2026/10/22/rise-against-ricochet-2026-tickets",
+          "https://www.axs.com/events/1379598/rise-against-tickets"
+        ],
+        "tickets": [
+          "https://www.axs.com/events/1379598/rise-against-tickets"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=The%20Masonic%2C%20San%20Francisco",
           "apple": "https://maps.apple.com/?q=The%20Masonic%2C%20San%20Francisco"
@@ -2486,11 +2496,22 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://party-scout.app/img/gen/rise-against-be19.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
-        "active": true
+        "enriched": 1,
+        "active": true,
+        "lineup": [
+          {
+            "name": "Rise Against"
+          },
+          {
+            "name": "Alkaline Trio"
+          },
+          {
+            "name": "Teen Mortgage"
+          }
+        ]
       },
       {
         "id": "2026-10-19-music-sf-s-free-concerts-food-trucks-6572bc",
