@@ -6278,22 +6278,28 @@
         "id": "2026-10-12-music-vulfpeck-e05701",
         "eid": "vulfpeck-9bf8",
         "track": "music",
-        "category": "",
+        "category": "concert",
         "name": "Vulfpeck",
         "day": "Fri",
         "date": "2026-10-16",
-        "time": "",
+        "time": "8:00 PM (doors 6:30 PM)",
         "start": null,
         "end": null,
-        "area": "",
+        "area": "Berkeley",
         "venue": "Greek Theatre",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "2001 Gayley Rd, Berkeley, CA 94720",
+        "why": "Tight, playful live funk from a band that rarely tours, in an outdoor amphitheater.",
+        "summary": "Funk band Vulfpeck headlines the Greek Theatre in Berkeley with Jackie Evans supporting, ahead of their new album Decay of the Aura.",
         "promoter": "",
-        "price": "",
-        "tags": [],
-        "sources": [],
+        "price": "From $78",
+        "tags": [
+          "live music",
+          "funk",
+          "concert"
+        ],
+        "sources": [
+          "https://www.jambase.com/show/vulfpeck-greek-theatre-20261016"
+        ],
         "tickets": [],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Greek%20Theatre",
@@ -6302,11 +6308,19 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://party-scout.app/img/gen/vulfpeck-9bf8.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
-        "active": true
+        "enriched": 1,
+        "active": true,
+        "lineup": [
+          {
+            "name": "Vulfpeck"
+          },
+          {
+            "name": "Jackie Evans"
+          }
+        ]
       },
       {
         "id": "2026-10-12-music-the-wallflowers-4eece2",
