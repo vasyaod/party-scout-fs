@@ -1599,23 +1599,33 @@
         "id": "2026-10-19-music-malcolm-todd-e92db1",
         "eid": "malcolm-todd-0677",
         "track": "music",
-        "category": "",
+        "category": "concert",
         "name": "Malcolm Todd",
         "day": "Wed",
         "date": "2026-10-21",
-        "time": "7:00PM",
-        "start": "19:00",
+        "time": "8:00PM",
+        "start": "20:00",
         "end": null,
-        "area": "San Francisco",
+        "area": "Oakland",
         "venue": "Fox Theater",
-        "address": "",
-        "why": "",
-        "summary": "",
-        "promoter": "",
-        "price": "",
-        "tags": [],
-        "sources": [],
-        "tickets": [],
+        "address": "1807 Telegraph Ave, Oakland, CA 94612",
+        "why": "Bedroom-pop-turned-indie breakout in a sold-out room at one of the Bay's best historic theaters.",
+        "summary": "Malcolm Todd brings his Do That Again Tour to the Fox Theater in Oakland with opener 54 Ultra. All ages; doors 7pm, show 8pm. Sold out at the box office.",
+        "promoter": "Fox Theater Oakland",
+        "price": "Sold out (resale ~$180+)",
+        "tags": [
+          "live-music",
+          "indie",
+          "pop",
+          "all-ages",
+          "sold-out"
+        ],
+        "sources": [
+          "https://thefoxoakland.com/events/malcolm-todd-261021"
+        ],
+        "tickets": [
+          "https://www.ticketmaster.com/malcolm-todd-do-that-again-tour-oakland-california-10-21-2026/event/1C0064C23CF30D05"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Fox%20Theater%2C%20San%20Francisco",
           "apple": "https://maps.apple.com/?q=Fox%20Theater%2C%20San%20Francisco"
@@ -1623,11 +1633,19 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://party-scout.app/img/gen/malcolm-todd-0677.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
-        "active": true
+        "enriched": 1,
+        "active": true,
+        "lineup": [
+          {
+            "name": "Malcolm Todd"
+          },
+          {
+            "name": "54 Ultra"
+          }
+        ]
       },
       {
         "id": "2026-10-19-music-maurice-tani-peacetown-603eb0",
