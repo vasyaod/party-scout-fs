@@ -7334,23 +7334,33 @@
         "id": "2026-10-12-music-jessie-ware-4f3c15",
         "eid": "jessie-ware-03b0",
         "track": "music",
-        "category": "",
+        "category": "Concert",
         "name": "Jessie Ware",
         "day": "Sat",
         "date": "2026-10-17",
-        "time": "",
+        "time": "Doors 7:30 PM, show 8:30 PM",
         "start": null,
         "end": null,
-        "area": "",
+        "area": "Tenderloin",
         "venue": "The Warfield",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "982 Market St, San Francisco, CA 94102",
+        "why": "Silky disco-tinged electronic pop from one of the genre's best live voices, in a historic 2,250-cap theater.",
+        "summary": "London pop and dance-soul singer Jessie Ware plays The Warfield, with Dhruv supporting. All ages.",
         "promoter": "",
-        "price": "",
-        "tags": [],
-        "sources": [],
-        "tickets": [],
+        "price": "Ticketed via AXS",
+        "tags": [
+          "live",
+          "pop",
+          "disco",
+          "electronic",
+          "all-ages"
+        ],
+        "sources": [
+          "https://www.songkick.com/concerts/43177076-jessie-ware-at-warfield"
+        ],
+        "tickets": [
+          "https://www.axs.com/events/1413598/jessie-ware-2nd-show-added-tickets"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=The%20Warfield",
           "apple": "https://maps.apple.com/?q=The%20Warfield"
@@ -7361,8 +7371,16 @@
         "image": "https://party-scout.app/img/gen/jessie-ware-03b0.jpg",
         "image_generated": true,
         "popularity": 0,
-        "enriched": 0,
-        "active": true
+        "enriched": 1,
+        "active": true,
+        "lineup": [
+          {
+            "name": "Jessie Ware"
+          },
+          {
+            "name": "Dhruv"
+          }
+        ]
       },
       {
         "id": "2026-10-12-music-joe-bataan-65d283",

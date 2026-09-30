@@ -7246,23 +7246,33 @@
         "id": "2026-10-05-music-my-morning-jacket-769945",
         "eid": "my-morning-jacket-4fb1",
         "track": "music",
-        "category": "",
+        "category": "Rock",
         "name": "My Morning Jacket",
         "day": "Wed",
         "date": "2026-10-07",
-        "time": "",
-        "start": null,
+        "time": "8pm",
+        "start": "20:00",
         "end": null,
-        "area": "",
+        "area": "Western Addition",
         "venue": "The Fillmore",
-        "address": "",
-        "why": "",
-        "summary": "",
-        "promoter": "",
-        "price": "",
-        "tags": [],
-        "sources": [],
-        "tickets": [],
+        "address": "1805 Geary Blvd, San Francisco, CA 94115",
+        "why": "A rare intimate-room run from one of indie rock's best live bands, with each night inspired by a color of the rainbow and fans encouraged to dress to match.",
+        "summary": "My Morning Jacket play night five of a seven-night, rainbow-themed residency at The Fillmore, their only headlining shows of 2026.",
+        "promoter": "Live Nation",
+        "price": "Resale from ~$284 (face value via Live Nation)",
+        "tags": [
+          "rock",
+          "indie-rock",
+          "residency",
+          "live-band"
+        ],
+        "sources": [
+          "https://www.livenation.com/event/G5vYZ_6bQ3zZV/my-morning-jacket",
+          "https://www.jambase.com/show/my-morning-jacket-the-fillmore-20261007"
+        ],
+        "tickets": [
+          "https://www.livenation.com/event/G5vYZ_6bQ3zZV/my-morning-jacket"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=The%20Fillmore",
           "apple": "https://maps.apple.com/?q=The%20Fillmore"
@@ -7270,11 +7280,16 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://party-scout.app/img/gen/my-morning-jacket-4fb1.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
-        "active": true
+        "enriched": 1,
+        "active": true,
+        "lineup": [
+          {
+            "name": "My Morning Jacket"
+          }
+        ]
       },
       {
         "id": "2026-10-05-music-the-neighbourhood-bfee64",
