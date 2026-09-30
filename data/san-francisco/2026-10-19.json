@@ -6321,16 +6321,25 @@
         "date": "2026-10-22",
         "time": "6:00PM",
         "start": "18:00",
-        "end": null,
-        "area": "San Francisco",
+        "end": "22:00",
+        "area": "Golden Gate Park",
         "venue": "California Academy of Sciences",
-        "address": "",
-        "why": "",
-        "summary": "",
-        "promoter": "",
+        "address": "55 Music Concourse Drive, San Francisco, CA 94118",
+        "why": "A one-night museum takeover with live dance, DJs, planetarium shows and calavera face painting, all 21+.",
+        "summary": "The Academy's fourth annual Día de los Muertos NightLife, 'una noche en Michoacán', with CarnavalSF and the CONCIENCIA affinity group: folklórico and Aztec dance, live DJs, an ofrenda, a 20+ vendor mercado, and an alebrije honoring Claude the alligator. 21+.",
+        "promoter": "California Academy of Sciences",
         "price": "",
-        "tags": [],
-        "sources": [],
+        "tags": [
+          "21+",
+          "museum",
+          "día de los muertos",
+          "dj",
+          "folklórico"
+        ],
+        "sources": [
+          "https://www.calacademy.org/nightlife/nightlife-d%C3%ADa-de-los-muertos",
+          "https://dothebay.com/events/2026/10/22/nightlife-dia-de-los-muertos-tickets"
+        ],
         "tickets": [],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=California%20Academy%20of%20Sciences%2C%20San%20Francisco",
@@ -6339,11 +6348,31 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://party-scout.app/img/gen/nightlife-dia-de-los-mue-da29.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
-        "active": true
+        "enriched": 1,
+        "active": true,
+        "lineup": [
+          {
+            "name": "Xiuhcoatl Danza Azteca"
+          },
+          {
+            "name": "Trio San Pacho"
+          },
+          {
+            "name": "Ballet Folkorico Mexicano"
+          },
+          {
+            "name": "Gabriela Sepulveda"
+          },
+          {
+            "name": "Jae Coca"
+          },
+          {
+            "name": "Chulita Vinyl Club"
+          }
+        ]
       },
       {
         "id": "2026-10-19-sports-golden-state-warriors-vs-memph-d3eb36",
