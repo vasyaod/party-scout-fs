@@ -3093,16 +3093,25 @@
         "time": "7:00PM",
         "start": "19:00",
         "end": null,
-        "area": "San Francisco",
+        "area": "Sacramento",
         "venue": "Ace of Spades",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "1417 R St, Sacramento, CA",
+        "why": "90s alt-rock hits like Santa Monica and Father of Mine, with the setlist voted by the crowd and American Hi-Fi supporting.",
+        "summary": "Everclear play the Lucky 7 Tour at Ace of Spades in Sacramento with American Hi-Fi. Fans vote on the setlist, and the seven most-requested songs in each city get played.",
         "promoter": "",
-        "price": "",
-        "tags": [],
-        "sources": [],
-        "tickets": [],
+        "price": "From $69",
+        "tags": [
+          "live-music",
+          "rock",
+          "90s",
+          "alt-rock"
+        ],
+        "sources": [
+          "https://www.livenation.com/event/G5vYZ_1SN_lUE/everclear-lucky-7-tour"
+        ],
+        "tickets": [
+          "https://www.livenation.com/event/G5vYZ_1SN_lUE/everclear-lucky-7-tour"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Ace%20of%20Spades%2C%20San%20Francisco",
           "apple": "https://maps.apple.com/?q=Ace%20of%20Spades%2C%20San%20Francisco"
@@ -3110,11 +3119,19 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://party-scout.app/img/gen/everclear-bbd3.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
-        "active": true
+        "enriched": 1,
+        "active": true,
+        "lineup": [
+          {
+            "name": "Everclear"
+          },
+          {
+            "name": "American Hi-Fi"
+          }
+        ]
       },
       {
         "id": "2026-10-19-music-first-contact-1cab0f",
