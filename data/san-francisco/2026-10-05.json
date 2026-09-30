@@ -5802,23 +5802,33 @@
         "id": "2026-10-05-music-the-rat-utopia-experiment-156bbc",
         "eid": "the-rat-utopia-experimen-5b5c",
         "track": "music",
-        "category": "",
+        "category": "concert",
         "name": "The Rat Utopia Experiment",
         "day": "Mon",
         "date": "2026-10-05",
-        "time": "",
+        "time": "7:00 PM doors, 7:30 PM music",
         "start": null,
         "end": null,
-        "area": "",
+        "area": "Potrero Hill",
         "venue": "Bottom Of The Hill",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "1233 17th St, San Francisco, CA 94107",
+        "why": "Girl-fronted circus punk with a fast-growing underground following, on a small-club bill with local punk support.",
+        "summary": "Washington-state circus punk and grunge-garage band The Rat Utopia Experiment play their Fall 2026 tour at Bottom of the Hill, with False Flag and Fatale. All ages.",
         "promoter": "",
-        "price": "",
-        "tags": [],
-        "sources": [],
-        "tickets": [],
+        "price": "$15 advance / $18 door",
+        "tags": [
+          "punk",
+          "grunge",
+          "garage-rock",
+          "all-ages",
+          "live-music"
+        ],
+        "sources": [
+          "https://bottomofthehill.com/20261005.html"
+        ],
+        "tickets": [
+          "https://bottomofthehill.com/20261005.html"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Bottom%20Of%20The%20Hill",
           "apple": "https://maps.apple.com/?q=Bottom%20Of%20The%20Hill"
@@ -5826,11 +5836,22 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://party-scout.app/img/gen/the-rat-utopia-experimen-5b5c.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
-        "active": true
+        "enriched": 1,
+        "active": true,
+        "lineup": [
+          {
+            "name": "The Rat Utopia Experiment"
+          },
+          {
+            "name": "False Flag"
+          },
+          {
+            "name": "Fatale"
+          }
+        ]
       },
       {
         "id": "2026-10-05-music-robert-plant-w-saving-grace-su-9a8b85",
