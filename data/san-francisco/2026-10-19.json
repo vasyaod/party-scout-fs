@@ -210,23 +210,38 @@
         "id": "2026-10-19-music-doja-cat-04d7ea",
         "eid": "doja-cat-686d",
         "track": "music",
-        "category": "",
+        "category": "concert",
         "name": "Doja Cat",
         "day": "Mon",
         "date": "2026-10-19",
         "time": "7:30PM",
         "start": "19:30",
         "end": null,
-        "area": "San Francisco",
+        "area": "Mission Bay",
         "venue": "Chase Center",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "1 Warriors Way, San Francisco, CA 94158",
+        "why": "Arena-scale pop and rap show from one of the biggest live acts touring, with Latto opening.",
+        "summary": "Doja Cat brings her Tour Ma Vie World Tour, supporting her album Vie, to Chase Center with Latto as special guest.",
         "promoter": "",
-        "price": "",
-        "tags": [],
-        "sources": [],
-        "tickets": [],
+        "price": "$92-$456",
+        "tags": [
+          "concert",
+          "pop",
+          "hip-hop",
+          "arena"
+        ],
+        "sources": [
+          {
+            "label": "AXS",
+            "url": "https://www.axs.com/events/1171719/doja-cat-tickets"
+          }
+        ],
+        "tickets": [
+          {
+            "label": "Ticketmaster",
+            "url": "https://www.ticketmaster.com/doja-cat-tour-ma-vie-world-san-francisco-california-10-19-2026/event/1C0063390D157FFD"
+          }
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Chase%20Center%2C%20San%20Francisco",
           "apple": "https://maps.apple.com/?q=Chase%20Center%2C%20San%20Francisco"
@@ -237,8 +252,16 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
-        "active": true
+        "enriched": 1,
+        "active": true,
+        "lineup": [
+          {
+            "name": "Doja Cat"
+          },
+          {
+            "name": "Latto"
+          }
+        ]
       },
       {
         "id": "2026-10-19-music-geese-da9f94",
