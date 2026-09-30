@@ -3777,23 +3777,32 @@
         "id": "2026-10-19-music-modest-mouse-d7b173",
         "eid": "modest-mouse-7fee",
         "track": "music",
-        "category": "",
+        "category": "concert",
         "name": "Modest Mouse",
         "day": "Fri",
         "date": "2026-10-23",
         "time": "7:00PM",
         "start": "19:00",
         "end": null,
-        "area": "San Francisco",
+        "area": "Sacramento",
         "venue": "Channel 24",
         "address": "",
-        "why": "",
-        "summary": "",
-        "promoter": "",
-        "price": "",
-        "tags": [],
-        "sources": [],
-        "tickets": [],
+        "why": "Catch a rare Northern California date from the Isaac Brock-led indie-rock favorites — note it is in Sacramento, not San Francisco, and is sold out.",
+        "summary": "Indie-rock mainstays Modest Mouse play Channel 24 in Sacramento with Caroline Rose supporting. All ages; doors 7pm, show 8pm.",
+        "promoter": "Another Planet Entertainment",
+        "price": "Sold out",
+        "tags": [
+          "indie rock",
+          "live music",
+          "all ages",
+          "sold out"
+        ],
+        "sources": [
+          "https://apeconcerts.com/events/modest-mouse-261023/"
+        ],
+        "tickets": [
+          "https://www.ticketmaster.com/modest-mouse-sacramento-california-10-23-2026/event/1C00648DE6876C43"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Channel%2024%2C%20San%20Francisco",
           "apple": "https://maps.apple.com/?q=Channel%2024%2C%20San%20Francisco"
@@ -3801,11 +3810,19 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://party-scout.app/img/gen/modest-mouse-7fee.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
-        "active": true
+        "enriched": 1,
+        "active": true,
+        "lineup": [
+          {
+            "name": "Modest Mouse"
+          },
+          {
+            "name": "Caroline Rose"
+          }
+        ]
       },
       {
         "id": "2026-10-19-music-no-bias-ren-faire-ft-estoc-bor-eb23fd",
