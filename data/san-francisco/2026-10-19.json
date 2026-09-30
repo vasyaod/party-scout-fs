@@ -1700,16 +1700,24 @@
         "time": "7:00PM",
         "start": "19:00",
         "end": null,
-        "area": "San Francisco",
+        "area": "Napa",
         "venue": "Uptown Theatre - Napa",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "1350 3rd St, Napa, CA 94559",
+        "why": "A classic-film night out in a historic Napa theater, worth the drive for Hitchcock fans.",
+        "summary": "Screening of Hitchcock's The Birds as part of the Uptown Theatre's Movie Night series in downtown Napa.",
         "promoter": "",
         "price": "",
-        "tags": [],
-        "sources": [],
-        "tickets": [],
+        "tags": [
+          "movie night",
+          "film",
+          "Napa"
+        ],
+        "sources": [
+          "https://www.livenation.com/venue/KovZpZAFktdA/uptown-theatre-napa-events"
+        ],
+        "tickets": [
+          "https://www.ticketmaster.com/movie-night-at-the-uptown-the-napa-california-10-21-2026/event/1C00652BEC6D8B31"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Uptown%20Theatre%20-%20Napa%2C%20San%20Francisco",
           "apple": "https://maps.apple.com/?q=Uptown%20Theatre%20-%20Napa%2C%20San%20Francisco"
@@ -1720,7 +1728,7 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
