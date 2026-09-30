@@ -2883,18 +2883,24 @@
         "name": "Gotham City Follies",
         "day": "Mon",
         "date": "2026-10-12",
-        "time": "",
+        "time": "8pm doors, 9pm show",
         "start": null,
         "end": null,
-        "area": "",
+        "area": "SoMa",
         "venue": "DNA Lounge",
-        "address": "",
-        "why": "",
-        "summary": "",
-        "promoter": "",
-        "price": "",
-        "tags": [],
-        "sources": [],
+        "address": "375 11th St, San Francisco, CA 94103",
+        "why": "A costume-friendly burlesque night with a stacked cast, hosted by MC Scarefish and Red The Girl Wonder, in the run-up to Halloween.",
+        "summary": "Monday Night Hubba's Batman-themed burlesque revue, an all-star evening of Bat-lesque live from Wayne Tower in DNA Lounge Above. 18+, doors 8pm, show 9-10:30pm.",
+        "promoter": "Hubba Hubba Revue",
+        "price": "$10 adv / $15 door GA; $15 adv / $20 door reserved",
+        "tags": [
+          "burlesque",
+          "theme-night",
+          "18+"
+        ],
+        "sources": [
+          "https://www.dnalounge.com/calendar/2026/10-12d.html"
+        ],
         "tickets": [],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=DNA%20Lounge",
@@ -2906,8 +2912,37 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
-        "active": true
+        "enriched": 1,
+        "active": true,
+        "lineup": [
+          {
+            "name": "Sailor St. Claire"
+          },
+          {
+            "name": "Florence Frightengale"
+          },
+          {
+            "name": "Evangeline Laveau"
+          },
+          {
+            "name": "Sophie Rose"
+          },
+          {
+            "name": "Bisou"
+          },
+          {
+            "name": "Szandora LaVey"
+          },
+          {
+            "name": "Ace Reddick"
+          },
+          {
+            "name": "Mimic Velour"
+          },
+          {
+            "name": "Taz Maniak"
+          }
+        ]
       },
       {
         "id": "2026-10-12-music-king-mala-b749e7",
