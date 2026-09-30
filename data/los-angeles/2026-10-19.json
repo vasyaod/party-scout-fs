@@ -2215,18 +2215,25 @@
         "name": "Lux for Life",
         "day": "Sat",
         "date": "2026-10-24",
-        "time": "",
+        "time": "8pm doors",
         "start": null,
         "end": null,
-        "area": "",
-        "venue": "The Redwood Bar And Grill (Los Angeles)",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "area": "DTLA",
+        "venue": "The Redwood Bar and Grill",
+        "address": "316 W 2nd St, Los Angeles, CA 90012",
+        "why": "A cheap $10 punk-and-burlesque night at one of downtown's classic dive bars.",
+        "summary": "Saturday night at the Redwood with live sets from The Joneses, Jungo Swank and Gospel Howell, a DJ set from Rik Howell, and a burlesque performance.",
         "promoter": "",
-        "price": "",
-        "tags": [],
-        "sources": [],
+        "price": "$10",
+        "tags": [
+          "live-music",
+          "punk",
+          "burlesque",
+          "dive-bar"
+        ],
+        "sources": [
+          "https://theredwoodbar.com/events.html"
+        ],
         "tickets": [],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=The%20Redwood%20Bar%20And%20Grill%20%28Los%20Angeles%29",
@@ -2238,8 +2245,22 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
-        "active": true
+        "enriched": 1,
+        "active": true,
+        "lineup": [
+          {
+            "name": "The Joneses"
+          },
+          {
+            "name": "Jungo Swank"
+          },
+          {
+            "name": "Gospel Howell"
+          },
+          {
+            "name": "Rik Howell"
+          }
+        ]
       },
       {
         "id": "2026-10-19-music-madeon-presents-victory-live-914cc7",
