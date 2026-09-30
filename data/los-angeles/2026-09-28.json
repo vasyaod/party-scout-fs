@@ -2960,23 +2960,33 @@
         "id": "2026-09-28-music-distrikt-fundraiser-bb4a8d",
         "eid": "distrikt-fundraiser-aff0",
         "track": "music",
-        "category": "",
+        "category": "House",
         "name": "Distrikt Fundraiser",
         "day": "Sat",
         "date": "2026-10-03",
-        "time": "",
-        "start": null,
-        "end": null,
+        "time": "10pm–5am",
+        "start": "22:00",
+        "end": "05:00",
         "area": "LA",
         "venue": "Highland Park",
         "address": "",
-        "why": "",
-        "summary": "",
-        "promoter": "",
+        "why": "A Burning Man sound-camp fundraiser night with house/live sets, all proceeds toward DISTRIKT's 2027 Burning Man return",
+        "summary": "DISTRIKT, the Burning Man-born music and art collective, throws its Los Angeles fundraiser with Brian Cid, Dance Spirit (live), Maria Nocheydia and M.O.N.R.O.E., with proceeds going toward bringing DISTRIKT back to Burning Man 2027.",
+        "promoter": "DISTRIKT",
         "price": "$31+",
-        "tags": [],
-        "sources": [],
-        "tickets": [],
+        "tags": [
+          "house",
+          "live",
+          "fundraiser",
+          "burning-man",
+          "benefit"
+        ],
+        "sources": [
+          "https://www.distrikt.org/events/2026/10/3/distrikt-los-angeles-fundraiser"
+        ],
+        "tickets": [
+          "https://site.fourvenues.com/en/konceptla/events/distrikt-fundraiser---los-angeles-03-10-2026-IRXG"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Highland%20Park%2C%20LA",
           "apple": "https://maps.apple.com/?q=Highland%20Park%2C%20LA"
@@ -2984,11 +2994,29 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://party-scout.app/img/gen/distrikt-fundraiser-aff0.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
-        "active": true
+        "enriched": 1,
+        "active": true,
+        "lineup": [
+          {
+            "name": "Brian Cid",
+            "instagram": null
+          },
+          {
+            "name": "Dance Spirit",
+            "instagram": null
+          },
+          {
+            "name": "Maria Nocheydia",
+            "instagram": null
+          },
+          {
+            "name": "M.O.N.R.O.E.",
+            "instagram": null
+          }
+        ]
       },
       {
         "id": "2026-09-28-music-electric-park-w-morgan-page-cl-e88de9",
