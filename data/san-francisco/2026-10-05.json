@@ -6449,23 +6449,33 @@
         "id": "2026-10-05-music-jungle-969fa0",
         "eid": "jungle-9ea1",
         "track": "music",
-        "category": "",
+        "category": "concert",
         "name": "Jungle",
         "day": "Tue",
         "date": "2026-10-06",
-        "time": "",
+        "time": "Doors 5:30pm, show 7pm",
         "start": null,
         "end": null,
-        "area": "",
+        "area": "Berkeley",
         "venue": "Greek Theatre",
-        "address": "",
-        "why": "",
-        "summary": "",
-        "promoter": "",
-        "price": "",
-        "tags": [],
-        "sources": [],
-        "tickets": [],
+        "address": "Berkeley, CA",
+        "why": "Groovy, danceable live set from the British duo in an open-air amphitheater — resale only.",
+        "summary": "British electronic soul duo Jungle bring their World Tour 2026 to the Greek Theatre in Berkeley with opener Rio Kosta. All ages; the show is listed as sold out.",
+        "promoter": "Another Planet Entertainment",
+        "price": "Sold out",
+        "tags": [
+          "live-music",
+          "indie-dance",
+          "electronic",
+          "all-ages",
+          "sold-out"
+        ],
+        "sources": [
+          "https://apeconcerts.com/events/jungle-261006/"
+        ],
+        "tickets": [
+          "https://www.ticketmaster.com/jungle-berkeley-california-10-06-2026/event/1C006474CCD8F68D"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Greek%20Theatre",
           "apple": "https://maps.apple.com/?q=Greek%20Theatre"
@@ -6473,11 +6483,19 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://party-scout.app/img/gen/jungle-9ea1.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
-        "active": true
+        "enriched": 1,
+        "active": true,
+        "lineup": [
+          {
+            "name": "Jungle"
+          },
+          {
+            "name": "Rio Kosta"
+          }
+        ]
       },
       {
         "id": "2026-10-05-music-the-menzingers-69d39f",
