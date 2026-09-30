@@ -452,18 +452,24 @@
         "name": "LINKUBUS",
         "day": "Thu",
         "date": "2026-10-22",
-        "time": "",
-        "start": null,
-        "end": null,
-        "area": "",
-        "venue": "The Redwood Bar And Grill (Los Angeles)",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "time": "8pm–2am",
+        "start": "20:00",
+        "end": "02:00",
+        "area": "DTLA",
+        "venue": "The Redwood Bar And Grill",
+        "address": "316 W. 2nd Street, Los Angeles, CA 90012",
+        "why": "Thursday-night live bill at a DTLA dive bar, with three support acts.",
+        "summary": "LINKUBUS plays The Redwood Bar And Grill in downtown Los Angeles on a Thursday night, with City Of Sevenfold, Pony 1 and MUSED on the bill.",
         "promoter": "",
-        "price": "",
-        "tags": [],
-        "sources": [],
+        "price": "$17.85 cover",
+        "tags": [
+          "live",
+          "dtla",
+          "bar"
+        ],
+        "sources": [
+          "https://ra.co/events/2524748"
+        ],
         "tickets": [],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=The%20Redwood%20Bar%20And%20Grill%20%28Los%20Angeles%29",
@@ -475,8 +481,22 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
-        "active": true
+        "enriched": 1,
+        "active": true,
+        "lineup": [
+          {
+            "name": "City Of Sevenfold",
+            "instagram": null
+          },
+          {
+            "name": "Pony 1",
+            "instagram": null
+          },
+          {
+            "name": "MUSED",
+            "instagram": null
+          }
+        ]
       },
       {
         "id": "2026-10-19-music-obscene-992fd7",
