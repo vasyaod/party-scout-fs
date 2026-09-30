@@ -5120,17 +5120,23 @@
         "name": "Never Say Die Run",
         "day": "Sun",
         "date": "2026-10-04",
-        "time": "",
-        "start": null,
-        "end": null,
+        "time": "Half Marathon 7am, 5K/10K 8am",
+        "start": "07:00",
+        "end": "10:30",
         "area": "LA",
         "venue": "Long Beach",
         "address": "",
-        "why": "",
-        "summary": "",
+        "why": "Goonies-style 80s theme sets it apart from the usual Long Beach road race lineup.",
+        "summary": "An 80s-adventure-movie-themed road race in Long Beach offering a half marathon, 10K, 5K, and kids run.",
         "promoter": "",
         "price": "",
-        "tags": [],
+        "tags": [
+          "running",
+          "5k",
+          "10k",
+          "half-marathon",
+          "themed"
+        ],
         "sources": [
           "https://runningintheusa.com"
         ],
@@ -5145,7 +5151,7 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
