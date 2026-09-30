@@ -5985,23 +5985,33 @@
         "id": "2026-10-12-music-sara-bareilles-cbf63e",
         "eid": "sara-bareilles-de8e",
         "track": "music",
-        "category": "",
+        "category": "concert",
         "name": "Sara Bareilles",
         "day": "Fri",
         "date": "2026-10-16",
-        "time": "",
+        "time": "8:00 PM",
         "start": null,
         "end": null,
-        "area": "",
+        "area": "Civic Center",
         "venue": "Bill Graham Civic Auditorium",
-        "address": "",
-        "why": "",
-        "summary": "",
-        "promoter": "",
+        "address": "99 Grove St, San Francisco, CA",
+        "why": "A sold-out night with the Brave and Love Song singer-pianist in an intimate theater setting.",
+        "summary": "Sara Bareilles brings The Good Grief Tour to the Theater at Bill Graham Civic Auditorium, with Celisse opening. Doors 7 PM, show 8 PM, all ages.",
+        "promoter": "Another Planet Entertainment",
         "price": "",
-        "tags": [],
-        "sources": [],
-        "tickets": [],
+        "tags": [
+          "concert",
+          "pop",
+          "singer-songwriter",
+          "all-ages"
+        ],
+        "sources": [
+          "https://billgrahamcivic.com/events/sara-bareilles-261016",
+          "https://apeconcerts.com/events/sara-bareilles-261016/"
+        ],
+        "tickets": [
+          "https://www.ticketmaster.com/sara-bareilles-the-good-grief-tour-san-francisco-california-10-16-2026/event/1C0064C1F394888C"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Bill%20Graham%20Civic%20Auditorium",
           "apple": "https://maps.apple.com/?q=Bill%20Graham%20Civic%20Auditorium"
@@ -6012,8 +6022,16 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
-        "active": true
+        "enriched": 1,
+        "active": true,
+        "lineup": [
+          {
+            "name": "Sara Bareilles"
+          },
+          {
+            "name": "Celisse"
+          }
+        ]
       },
       {
         "id": "2026-10-12-music-schoolboy-q-14adbd",
