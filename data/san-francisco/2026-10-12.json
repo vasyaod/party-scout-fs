@@ -4342,23 +4342,32 @@
         "id": "2026-10-12-music-ee-punxsutawney-spa-9d4ea8",
         "eid": "ee-punxsutawney-spa-f001",
         "track": "music",
-        "category": "",
+        "category": "Live Music",
         "name": "Ee, Punxsutawney, Spa",
         "day": "Wed",
         "date": "2026-10-14",
-        "time": "",
+        "time": "8:00 PM doors, music 8:30 PM",
         "start": null,
         "end": null,
-        "area": "",
-        "venue": "Bottom Of The Hill",
-        "address": "",
-        "why": "",
-        "summary": "",
-        "promoter": "",
-        "price": "",
-        "tags": [],
-        "sources": [],
-        "tickets": [],
+        "area": "Potrero Hill",
+        "venue": "Bottom of the Hill",
+        "address": "1233 17th St, San Francisco, CA 94107",
+        "why": "Three-band indie/post-rock/emo bill at a classic SF club, all ages.",
+        "summary": "All-ages show at Bottom of the Hill with Ee (SF post-rock), Punxsutawney (Los Angeles) and Spa (Oakland emo punk trio).",
+        "promoter": "Outhouse",
+        "price": "$17 advance / $20 door",
+        "tags": [
+          "live-music",
+          "post-rock",
+          "emo",
+          "all-ages"
+        ],
+        "sources": [
+          "https://www.bottomofthehill.com/20261014.html"
+        ],
+        "tickets": [
+          "https://www.bottomofthehill.com/20261014.html"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Bottom%20Of%20The%20Hill",
           "apple": "https://maps.apple.com/?q=Bottom%20Of%20The%20Hill"
@@ -4366,11 +4375,22 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://party-scout.app/img/gen/ee-punxsutawney-spa-f001.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
-        "active": true
+        "enriched": 1,
+        "active": true,
+        "lineup": [
+          {
+            "name": "Ee"
+          },
+          {
+            "name": "Punxsutawney"
+          },
+          {
+            "name": "Spa"
+          }
+        ]
       },
       {
         "id": "2026-10-12-music-fightmaster-321c43",
