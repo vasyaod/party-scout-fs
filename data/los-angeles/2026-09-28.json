@@ -1828,19 +1828,29 @@
         "name": "Electric Ave",
         "day": "Fri",
         "date": "2026-10-02",
-        "time": "",
-        "start": null,
+        "time": "10pm",
+        "start": "22:00",
         "end": null,
-        "area": "LA",
+        "area": "Silver Lake",
         "venue": "Los Globos",
-        "address": "",
-        "why": "",
-        "summary": "",
-        "promoter": "",
-        "price": "",
-        "tags": [],
-        "sources": [],
-        "tickets": [],
+        "address": "3040 Sunset Blvd, Los Angeles, CA 90026",
+        "why": "A long-running weekly residency at one of Silver Lake's classic nightclubs, known for open-format DJ sets across two rooms.",
+        "summary": "Weekly Friday night dance party at Los Globos in Silver Lake, presented by EMX.",
+        "promoter": "EMX",
+        "price": "$22+",
+        "tags": [
+          "21+",
+          "friday",
+          "weekly",
+          "dance",
+          "open-format"
+        ],
+        "sources": [
+          "https://www.eventbrite.com/e/electric-ave-los-globos-los-angeles-registration-1643593936709"
+        ],
+        "tickets": [
+          "https://www.eventbrite.com/e/electric-ave-los-globos-los-angeles-registration-1643593936709"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Los%20Globos%2C%20LA",
           "apple": "https://maps.apple.com/?q=Los%20Globos%2C%20LA"
@@ -1851,7 +1861,7 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
