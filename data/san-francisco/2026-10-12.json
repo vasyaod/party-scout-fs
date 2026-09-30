@@ -6186,23 +6186,32 @@
         "id": "2026-10-12-music-this-is-lorelei-556f7e",
         "eid": "this-is-lorelei-2731",
         "track": "music",
-        "category": "",
+        "category": "Live Music",
         "name": "This is Lorelei",
         "day": "Fri",
         "date": "2026-10-16",
-        "time": "",
+        "time": "9:00 PM",
         "start": null,
         "end": null,
-        "area": "",
+        "area": "NoPa",
         "venue": "The Independent",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "628 Divisadero St, San Francisco, CA 94117",
+        "why": "An intimate 18+ indie-rock night at one of SF's best mid-size rooms on the Divisadero corridor.",
+        "summary": "This Is Lorelei, plays The Independent with Colin Miller. 18+.",
         "promoter": "",
-        "price": "",
-        "tags": [],
-        "sources": [],
-        "tickets": [],
+        "price": "From $31.55",
+        "tags": [
+          "indie",
+          "live-music",
+          "18+"
+        ],
+        "sources": [
+          "https://www.jambase.com/show/this-is-lorelei-the-independent-20261016",
+          "https://www.livenation.com/event/rZ7HnEZ1Af0FGd/this-is-lorelei"
+        ],
+        "tickets": [
+          "https://www.livenation.com/event/rZ7HnEZ1Af0FGd/this-is-lorelei"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=The%20Independent",
           "apple": "https://maps.apple.com/?q=The%20Independent"
@@ -6210,11 +6219,19 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://party-scout.app/img/gen/this-is-lorelei-2731.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
-        "active": true
+        "enriched": 1,
+        "active": true,
+        "lineup": [
+          {
+            "name": "This Is Lorelei"
+          },
+          {
+            "name": "Colin Miller"
+          }
+        ]
       },
       {
         "id": "2026-10-12-music-union-square-dances-free-outdo-a85a5a",
