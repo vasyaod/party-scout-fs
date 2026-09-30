@@ -3963,22 +3963,28 @@
         "id": "2026-10-12-music-provoker-3ce142",
         "eid": "provoker-7fb7",
         "track": "music",
-        "category": "",
+        "category": "Live Music",
         "name": "Provoker",
         "day": "Tue",
         "date": "2026-10-13",
-        "time": "",
+        "time": "7:00 PM (doors 6:00 PM)",
         "start": null,
         "end": null,
-        "area": "",
+        "area": "Tenderloin",
         "venue": "Great American Music Hall",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "859 O'Farrell St, San Francisco, CA 94109",
+        "why": "A night of local post-punk in one of SF's classic historic ballrooms.",
+        "summary": "Bay Area post-punk band Provoker headline Great American Music Hall with Topographies and Dalmatia, part of GAMH and Psyched! Fest 2026.",
         "promoter": "",
-        "price": "",
-        "tags": [],
-        "sources": [],
+        "price": "$27.50 advance / $30 door",
+        "tags": [
+          "live-music",
+          "post-punk",
+          "concert"
+        ],
+        "sources": [
+          "https://www.jambase.com/show/provoker-great-american-music-hall-20261013"
+        ],
         "tickets": [],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Great%20American%20Music%20Hall",
@@ -3987,11 +3993,22 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://party-scout.app/img/gen/provoker-7fb7.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
-        "active": true
+        "enriched": 1,
+        "active": true,
+        "lineup": [
+          {
+            "name": "Provoker"
+          },
+          {
+            "name": "Topographies"
+          },
+          {
+            "name": "Dalmatia"
+          }
+        ]
       },
       {
         "id": "2026-10-12-music-sf-s-free-concerts-food-trucks-a1b1d7",
