@@ -8368,23 +8368,33 @@
         "id": "2026-10-05-music-toad-the-wet-sprocket-cookout-f2d4c8",
         "eid": "toad-the-wet-sprocket-co-4696",
         "track": "music",
-        "category": "",
+        "category": "Live Music",
         "name": "Toad the Wet Sprocket | Cookout Concert Series",
         "day": "Thu",
         "date": "2026-10-08",
-        "time": "",
+        "time": "6:00 PM",
         "start": null,
         "end": null,
-        "area": "",
+        "area": "Novato",
         "venue": "Hopmonk Tavern - Novato",
         "address": "",
-        "why": "",
-        "summary": "",
+        "why": "Classic 90s alt-rock hits like 'Walk on the Moon' and 'All I Want' in an intimate outdoor acoustic setting.",
+        "summary": "Toad the Wet Sprocket play the acoustic 'Rings' tour with Willy Porter at the outdoor Cookout Concert Series at Hopmonk Tavern in Novato. All ages; the show is listed as sold out.",
         "promoter": "",
-        "price": "",
-        "tags": [],
-        "sources": [],
-        "tickets": [],
+        "price": "$70 GA; $194 VIP (sold out)",
+        "tags": [
+          "live-music",
+          "acoustic",
+          "outdoor",
+          "all-ages",
+          "sold-out"
+        ],
+        "sources": [
+          "https://wl.eventim.us/event/toad-the-wet-sprocket-or-cookout-concert-series/687320?afflky=HopMonkNovato"
+        ],
+        "tickets": [
+          "https://wl.eventim.us/event/toad-the-wet-sprocket-or-cookout-concert-series/687320?afflky=HopMonkNovato"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Hopmonk%20Tavern%20-%20Novato",
           "apple": "https://maps.apple.com/?q=Hopmonk%20Tavern%20-%20Novato"
@@ -8395,8 +8405,16 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
-        "active": true
+        "enriched": 1,
+        "active": true,
+        "lineup": [
+          {
+            "name": "Toad the Wet Sprocket"
+          },
+          {
+            "name": "Willy Porter"
+          }
+        ]
       },
       {
         "id": "2026-10-05-music-y-la-bamba-10-years-of-ojos-de-65a6e5",
