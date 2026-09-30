@@ -2463,15 +2463,23 @@
         "time": "7:30pm",
         "start": "19:30",
         "end": null,
-        "area": "",
-        "venue": "Intuit Dome (Inglewood)",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "area": "Inglewood",
+        "venue": "Intuit Dome",
+        "address": "3930 W Century Blvd, Inglewood, CA 90303",
+        "why": "A one-night-only Pokémon x EDM spectacle (with a London twin show) — rare crossover for Marshmello and Alison Wonderland fans.",
+        "summary": "Pokémon's 30th-anniversary EDM concert at Intuit Dome, headlined by Marshmello and Alison Wonderland with animation and tech-driven visuals. Ages 16+; reported sold out.",
         "promoter": "",
         "price": "",
-        "tags": [],
-        "sources": [],
+        "tags": [
+          "edm",
+          "pokemon",
+          "arena",
+          "16+"
+        ],
+        "sources": [
+          "https://www.timeout.com/los-angeles/news/a-live-pokemon-edm-experience-is-coming-to-the-intuit-dome-in-october-041526",
+          "https://www.digitalmusicnews.com/2026/04/14/marshmello-alison-wonderland-pokemon-night-out/"
+        ],
         "tickets": [],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Intuit%20Dome%20%28Inglewood%29",
@@ -2483,8 +2491,16 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
-        "active": true
+        "enriched": 1,
+        "active": true,
+        "lineup": [
+          {
+            "name": "Marshmello"
+          },
+          {
+            "name": "Alison Wonderland"
+          }
+        ]
       },
       {
         "id": "2026-10-19-music-promiscuous-halloween-a-spooky-e67bd8",
