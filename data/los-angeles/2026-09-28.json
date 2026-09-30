@@ -2325,18 +2325,29 @@
         "name": "Obsession Rave",
         "day": "Fri",
         "date": "2026-10-02",
-        "time": "",
-        "start": null,
-        "end": null,
-        "area": "LA",
-        "venue": "1720",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "time": "10pm-2am",
+        "start": "22:00",
+        "end": "02:00",
+        "area": "DTLA",
+        "venue": "1720 Warehouse",
+        "address": "1720 E 16th St, Los Angeles, CA 90021",
+        "why": "Canceled: this Obsession-film-inspired warehouse rave is no longer listed as on-sale.",
+        "summary": "A horror-movie-themed rave at 1720 Warehouse in DTLA mixing dark pop, indie sleaze, hard dance, electro and techno, built around the tagline \"be careful what you wish for.\" Dice now lists the Oct 2 date as canceled and it no longer appears among the venue's upcoming events.",
         "promoter": "",
         "price": "$21.63",
-        "tags": [],
-        "sources": [],
+        "tags": [
+          "canceled",
+          "dark pop",
+          "indie sleaze",
+          "hard dance",
+          "electro",
+          "techno",
+          "18+"
+        ],
+        "sources": [
+          "https://dice.fm/event/oe7w35-obsession-rave-2nd-oct-1720-los-angeles-tickets",
+          "https://ra.co/events/2481932"
+        ],
         "tickets": [],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=1720%2C%20LA",
@@ -2348,7 +2359,7 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
