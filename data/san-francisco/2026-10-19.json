@@ -438,15 +438,23 @@
         "time": "7:00 pm",
         "start": "19:00",
         "end": null,
-        "area": "San Francisco",
-        "venue": "",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "area": "Lower Haight",
+        "venue": "Madrone Art Bar",
+        "address": "500 Divisadero St, San Francisco, CA 94117",
+        "why": "A reliable, cheap weeknight dance floor for soul and Motown lovers, free before 9pm.",
+        "summary": "Weekly Monday Motown dance night at Madrone Art Bar with hosts DJ Gordo Cabeza and Timoteo Gigante, spinning classic Motown, remixes and songs with the same soulful DNA.",
         "promoter": "",
-        "price": "",
-        "tags": [],
-        "sources": [],
+        "price": "Free before 9pm, $3 after",
+        "tags": [
+          "motown",
+          "soul",
+          "dj",
+          "free",
+          "weeknight"
+        ],
+        "sources": [
+          "https://sf.funcheap.com/event-series/motown-mondays-madrone/"
+        ],
         "tickets": [],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=San%20Francisco",
@@ -455,11 +463,19 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://party-scout.app/img/gen/motown-on-mondays-dj-nig-9956.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
-        "active": true
+        "enriched": 1,
+        "active": true,
+        "lineup": [
+          {
+            "name": "DJ Gordo Cabeza"
+          },
+          {
+            "name": "Timoteo Gigante"
+          }
+        ]
       },
       {
         "id": "2026-10-19-music-new-constellations-3e87ed",
