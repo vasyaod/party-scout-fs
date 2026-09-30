@@ -1501,23 +1501,33 @@
         "id": "2026-10-19-music-kepi-ghoulie-electric-the-bloo-7d1126",
         "eid": "kepi-ghoulie-electric-th-f4f5",
         "track": "music",
-        "category": "",
+        "category": "concert",
         "name": "Kepi Ghoulie Electric, The Bloodtypes, Pussy Velour",
         "day": "Wed",
         "date": "2026-10-21",
         "time": "8:00PM",
         "start": "20:00",
         "end": null,
-        "area": "San Francisco",
-        "venue": "Bottom Of The Hill",
-        "address": "",
-        "why": "",
-        "summary": "",
-        "promoter": "",
-        "price": "",
-        "tags": [],
-        "sources": [],
-        "tickets": [],
+        "area": "Potrero Hill",
+        "venue": "Bottom of the Hill",
+        "address": "1233 17th St, San Francisco, CA 94107",
+        "why": "Classic Bay Area pop-punk at one of SF's best small rock clubs, with two local garage openers.",
+        "summary": "Kepi Ghoulie brings his fully electric pop-punk set to Bottom of the Hill, with garage punk new wave from The Bloodtypes and garage rock from Pussy Velour. 21+, doors 8:00PM, music 8:30PM.",
+        "promoter": "Bottom of the Hill",
+        "price": "$20 advance ($25.31 with fees)",
+        "tags": [
+          "punk",
+          "pop-punk",
+          "garage",
+          "live-music",
+          "21+"
+        ],
+        "sources": [
+          "http://www.bottomofthehill.com/calendar.html"
+        ],
+        "tickets": [
+          "http://www.bottomofthehill.com/dice/event20261021.html"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Bottom%20Of%20The%20Hill%2C%20San%20Francisco",
           "apple": "https://maps.apple.com/?q=Bottom%20Of%20The%20Hill%2C%20San%20Francisco"
@@ -1525,11 +1535,22 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://party-scout.app/img/gen/kepi-ghoulie-electric-th-f4f5.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
-        "active": true
+        "enriched": 1,
+        "active": true,
+        "lineup": [
+          {
+            "name": "Kepi Ghoulie Electric"
+          },
+          {
+            "name": "The Bloodtypes"
+          },
+          {
+            "name": "Pussy Velour"
+          }
+        ]
       },
       {
         "id": "2026-10-19-music-kylie-cantrall-871e92",
