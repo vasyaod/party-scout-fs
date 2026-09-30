@@ -6786,23 +6786,31 @@
         "id": "2026-10-19-sports-sacramento-kings-vs-portland-t-32bcaa",
         "eid": "sacramento-kings-vs-port-e408",
         "track": "sports",
-        "category": "",
+        "category": "sports",
         "name": "Sacramento Kings vs. Portland Trail Blazers",
         "day": "Fri",
         "date": "2026-10-23",
         "time": "7:00PM",
         "start": "19:00",
         "end": null,
-        "area": "San Francisco",
+        "area": "Downtown Sacramento",
         "venue": "Golden 1 Center",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "500 David J Stern Walk, Sacramento, CA 95814",
+        "why": "Home opener night for the Kings at Golden 1 Center, a Friday-night NBA game in downtown Sacramento (about 90 miles from SF).",
+        "summary": "Sacramento Kings host the Portland Trail Blazers at Golden 1 Center in the Kings' 2026-27 home opener.",
         "promoter": "",
         "price": "",
-        "tags": [],
-        "sources": [],
-        "tickets": [],
+        "tags": [
+          "sports",
+          "nba",
+          "basketball"
+        ],
+        "sources": [
+          "https://www.nba.com/game/0022600103"
+        ],
+        "tickets": [
+          "https://www.ticketmaster.com/sacramento-kings-tickets/artist/806010"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Golden%201%20Center%2C%20San%20Francisco",
           "apple": "https://maps.apple.com/?q=Golden%201%20Center%2C%20San%20Francisco"
@@ -6813,7 +6821,7 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
