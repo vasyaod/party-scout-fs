@@ -4150,22 +4150,30 @@
         "id": "2026-10-12-music-bonnie-raitt-21e1b9",
         "eid": "bonnie-raitt-1330",
         "track": "music",
-        "category": "",
+        "category": "concert",
         "name": "Bonnie Raitt",
         "day": "Wed",
         "date": "2026-10-14",
-        "time": "",
+        "time": "7:30pm",
         "start": null,
         "end": null,
-        "area": "",
+        "area": "Santa Cruz",
         "venue": "Santa Cruz Civic Auditorium",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "307 Church St, Santa Cruz, CA 95060",
+        "why": "Slide-guitar blues and Americana legend in an intimate historic Santa Cruz hall.",
+        "summary": "An Evening With Bonnie Raitt at the Santa Cruz Civic Auditorium, with special guest Jon Cleary & The Absolute Monster Gentlemen. Doors 6:30pm.",
         "promoter": "",
         "price": "",
-        "tags": [],
-        "sources": [],
+        "tags": [
+          "live-music",
+          "blues",
+          "americana",
+          "concert"
+        ],
+        "sources": [
+          "https://www.santacruztickets.com/Online/default.asp?doWork%3A%3AWScontent%3A%3AloadArticle=Load&BOparam%3A%3AWScontent%3A%3AloadArticle%3A%3Aarticle_id=7568CF06-D473-4A0A-81C3-98FA9D215EEE",
+          "https://www.jambase.com/article/bonnie-raitt-tour-dates-fall-2026"
+        ],
         "tickets": [],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Santa%20Cruz%20Civic%20Auditorium",
@@ -4177,8 +4185,16 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
-        "active": true
+        "enriched": 1,
+        "active": true,
+        "lineup": [
+          {
+            "name": "Bonnie Raitt"
+          },
+          {
+            "name": "Jon Cleary & The Absolute Monster Gentlemen"
+          }
+        ]
       },
       {
         "id": "2026-10-12-music-brit-floyd-a87a15",
