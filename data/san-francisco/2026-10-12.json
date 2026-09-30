@@ -3578,23 +3578,32 @@
         "id": "2026-10-12-music-bumpin-uglies-orange-crush-tou-521454",
         "eid": "bumpin-uglies-orange-cru-2f1c",
         "track": "music",
-        "category": "",
+        "category": "concert",
         "name": "Bumpin Uglies - Orange Crush Tour",
         "day": "Tue",
         "date": "2026-10-13",
-        "time": "",
+        "time": "8:00 PM",
         "start": null,
         "end": null,
-        "area": "",
+        "area": "Berkeley",
         "venue": "Cornerstone",
-        "address": "",
-        "why": "",
-        "summary": "",
-        "promoter": "",
-        "price": "",
-        "tags": [],
-        "sources": [],
-        "tickets": [],
+        "address": "2367 Shattuck Ave, Berkeley, CA 94704",
+        "why": "A high-energy reggae-rock night with a touring headliner at a Berkeley club staple.",
+        "summary": "Reggae/ska-punk band Bumpin Uglies bring the Orange Crush Tour to Cornerstone in Berkeley with Artikal Sound System. General admission standing room, all ages.",
+        "promoter": "Cornerstone",
+        "price": "See tickets (all ages)",
+        "tags": [
+          "live-music",
+          "reggae",
+          "ska",
+          "all-ages"
+        ],
+        "sources": [
+          "https://www.prekindle.com/event/13862-bumpin-uglies-berkeley"
+        ],
+        "tickets": [
+          "https://www.prekindle.com/event/13862-bumpin-uglies-berkeley"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Cornerstone",
           "apple": "https://maps.apple.com/?q=Cornerstone"
@@ -3602,11 +3611,19 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://party-scout.app/img/gen/bumpin-uglies-orange-cru-2f1c.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
-        "active": true
+        "enriched": 1,
+        "active": true,
+        "lineup": [
+          {
+            "name": "Bumpin Uglies"
+          },
+          {
+            "name": "Artikal Sound System"
+          }
+        ]
       },
       {
         "id": "2026-10-12-music-dani-offline-bb2209",
