@@ -16117,18 +16117,25 @@
         "name": "Boom! 2shy-shy, melt with U",
         "day": "Fri",
         "date": "2026-10-02",
-        "time": "",
+        "time": "10:00pm - 2:00am",
         "start": null,
         "end": null,
-        "area": "SF",
+        "area": "Mission",
         "venue": "Make-Out Room",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "3225 22nd St, San Francisco, CA 94110",
+        "why": "A no-frills Mission dance floor with two resident DJs and a $10 cover, good for a Friday of disco and funk.",
+        "summary": "Friday night dance party at the Make-Out Room with DJs 2shy-shy and melt w/U spinning disco, funk, soul, hip-hop, synth-pop and international sounds.",
         "promoter": "",
         "price": "$10",
-        "tags": [],
-        "sources": [],
+        "tags": [
+          "disco",
+          "funk",
+          "dance-party",
+          "mission"
+        ],
+        "sources": [
+          "https://www.makeoutroom.com/"
+        ],
         "tickets": [],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Make-Out%20Room%2C%20SF",
@@ -16140,8 +16147,16 @@
         "image": "https://party-scout.app/img/gen/boom-2shy-shy-melt-with-6c7a.jpg",
         "image_generated": true,
         "popularity": 0,
-        "enriched": 0,
-        "active": true
+        "enriched": 1,
+        "active": true,
+        "lineup": [
+          {
+            "name": "2shy-shy"
+          },
+          {
+            "name": "melt w/U"
+          }
+        ]
       },
       {
         "id": "2026-09-28-music-no-bias-x-trekkie-trax-w-bored-ae1336",
