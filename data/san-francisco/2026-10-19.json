@@ -5841,16 +5841,25 @@
         "time": "5:15PM",
         "start": "17:15",
         "end": null,
-        "area": "San Francisco",
+        "area": "Santa Clara",
         "venue": "Levi's Stadium",
-        "address": "",
-        "why": "",
-        "summary": "",
-        "promoter": "",
-        "price": "",
-        "tags": [],
-        "sources": [],
-        "tickets": [],
+        "address": "4900 Marie P DeBartolo Way, Santa Clara, CA 95054",
+        "why": "Prime-time NFL at Levi's with Alumni Weekend and a Hall of Fame halftime induction.",
+        "summary": "Monday Night Football Week 6 at Levi's Stadium: the 49ers host the Washington Commanders (ESPN/ABC). Annual Alumni Weekend honors franchise legends, and at halftime Keena Turner is inducted into the 49ers Hall of Fame.",
+        "promoter": "San Francisco 49ers",
+        "price": "Ticketed (see Ticketmaster)",
+        "tags": [
+          "sports",
+          "nfl",
+          "football",
+          "49ers"
+        ],
+        "sources": [
+          "https://levisstadium.com/event/commanders-vs-49ers-week-6-2026/"
+        ],
+        "tickets": [
+          "https://www.ticketmaster.com/san-francisco-49ers-tickets/artist/806015"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Levi%27s%20Stadium%2C%20San%20Francisco",
           "apple": "https://maps.apple.com/?q=Levi%27s%20Stadium%2C%20San%20Francisco"
@@ -5858,10 +5867,10 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://party-scout.app/img/gen/san-francisco-49ers-vs-w-e0f3.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
