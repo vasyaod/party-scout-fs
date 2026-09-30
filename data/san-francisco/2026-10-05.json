@@ -8515,23 +8515,35 @@
         "id": "2026-10-05-music-bonnie-raitt-ced1f1",
         "eid": "bonnie-raitt-6a64",
         "track": "music",
-        "category": "",
+        "category": "Concert",
         "name": "Bonnie Raitt",
         "day": "Fri",
         "date": "2026-10-09",
-        "time": "",
-        "start": null,
+        "time": "7:30pm",
+        "start": "19:30",
         "end": null,
-        "area": "",
+        "area": "Reno",
         "venue": "Grand Theatre at Grand Sierra Resort",
-        "address": "",
-        "why": "",
-        "summary": "",
-        "promoter": "",
-        "price": "",
-        "tags": [],
-        "sources": [],
-        "tickets": [],
+        "address": "2500 E 2nd St, Reno, NV 89595",
+        "why": "A slide-guitar and soul-blues legend on a rare Reno stop, worth the Tahoe-side road trip from the Bay.",
+        "summary": "Bonnie Raitt plays the Grand Theatre at Grand Sierra Resort in Reno on her Live 2026 tour, with special guest Jon Cleary & The Absolute Monster Gentlemen. Doors 6:30pm, all ages.",
+        "promoter": "Grand Sierra Resort",
+        "price": "From $106",
+        "tags": [
+          "live-music",
+          "blues",
+          "roots",
+          "all-ages",
+          "reno"
+        ],
+        "sources": [
+          "https://www.grandsierraresort.com/entertainment/concerts-and-shows/bonnie-raitt",
+          "https://www.bonnieraitt.com/tour/"
+        ],
+        "tickets": [
+          "https://www.ticketmaster.com/bonnie-raitt-live-2026-with-special-guest-jon-cleary-reno-09-10-2026/event/1700645C2E0B6F2D",
+          "https://www.axs.com/events/1378152/bonnie-raitt-tickets"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Grand%20Theatre%20at%20Grand%20Sierra%20Resort",
           "apple": "https://maps.apple.com/?q=Grand%20Theatre%20at%20Grand%20Sierra%20Resort"
@@ -8539,11 +8551,21 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://party-scout.app/img/gen/bonnie-raitt-6a64.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
-        "active": true
+        "enriched": 1,
+        "active": true,
+        "lineup": [
+          {
+            "name": "Bonnie Raitt",
+            "instagram": null
+          },
+          {
+            "name": "Jon Cleary & The Absolute Monster Gentlemen",
+            "instagram": null
+          }
+        ]
       },
       {
         "id": "2026-10-05-music-bussdown-baddies-6e8daf",
