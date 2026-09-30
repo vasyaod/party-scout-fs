@@ -488,14 +488,19 @@
         "time": "8:00PM",
         "start": "20:00",
         "end": null,
-        "area": "San Francisco",
+        "area": "NoPa",
         "venue": "The Independent",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "628 Divisadero St, San Francisco, CA 94117",
+        "why": "Catch the dreamy synth-pop duo behind the 220M-stream \"Hot Blooded\" in an intimate Divisadero room.",
+        "summary": "Portland dream-pop/synthwave duo New Constellations (Harlee Case and Josh Smith, of \"Hot Blooded\") play The Independent on the It Comes In Waves Tour, with Vox Rea. Doors 7:30 PM.",
         "promoter": "",
-        "price": "",
-        "tags": [],
+        "price": "From $51",
+        "tags": [
+          "live-music",
+          "dream-pop",
+          "synthwave",
+          "indie"
+        ],
         "sources": [],
         "tickets": [],
         "maps": {
@@ -505,11 +510,19 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://party-scout.app/img/gen/new-constellations-3e5e.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
-        "active": true
+        "enriched": 1,
+        "active": true,
+        "lineup": [
+          {
+            "name": "New Constellations"
+          },
+          {
+            "name": "Vox Rea"
+          }
+        ]
       },
       {
         "id": "2026-10-19-music-post-sex-nachos-4f7686",
