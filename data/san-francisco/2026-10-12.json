@@ -5757,23 +5757,33 @@
         "id": "2026-10-12-music-iron-wine-ce4cff",
         "eid": "iron-wine-b5b8",
         "track": "music",
-        "category": "",
+        "category": "concert",
         "name": "Iron & Wine",
         "day": "Fri",
         "date": "2026-10-16",
-        "time": "",
+        "time": "8:00 PM",
         "start": null,
         "end": null,
-        "area": "",
-        "venue": "The Castro",
-        "address": "",
-        "why": "",
-        "summary": "",
-        "promoter": "",
-        "price": "",
-        "tags": [],
-        "sources": [],
-        "tickets": [],
+        "area": "Castro",
+        "venue": "The Castro Theatre",
+        "address": "429 Castro St, San Francisco, CA",
+        "why": "Hushed, literate folk in one of San Francisco's most beautiful old movie palaces.",
+        "summary": "Sam Beam's Iron & Wine plays the historic Castro Theatre, with Ken Pomeroy supporting. The show is sold out at face value.",
+        "promoter": "Live Nation",
+        "price": "Sold out",
+        "tags": [
+          "live-music",
+          "folk",
+          "indie",
+          "castro-theatre"
+        ],
+        "sources": [
+          "https://www.livenation.com/event/G5vYZ_dDYZQwA/iron-wine",
+          "https://www.songkick.com/concerts/43028595-iron-and-wine-at-castro-theatre"
+        ],
+        "tickets": [
+          "https://www.livenation.com/event/G5vYZ_dDYZQwA/iron-wine"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=The%20Castro",
           "apple": "https://maps.apple.com/?q=The%20Castro"
@@ -5781,10 +5791,10 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://party-scout.app/img/gen/iron-wine-b5b8.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
