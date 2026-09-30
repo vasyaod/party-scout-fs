@@ -4137,25 +4137,33 @@
         "id": "2026-09-28-sports-angeles-crest-100-mile-enduran-0f143d",
         "eid": "angeles-crest-100-mile-e-b8b3",
         "track": "sports",
-        "category": "",
+        "category": "Ultramarathon",
         "name": "Angeles Crest 100 Mile Endurance Run",
         "day": "Sat",
         "date": "2026-10-03",
-        "time": "",
-        "start": null,
+        "time": "5am start (Sat)",
+        "start": "05:00",
         "end": null,
-        "area": "LA",
-        "venue": "Altadena",
+        "area": "Altadena",
+        "venue": "Loma Alta Park",
         "address": "",
-        "why": "",
-        "summary": "",
+        "why": "One of the oldest and toughest 100-mile trail races in the country, rerouted this year around Highway 2 closures from the Eaton Fire.",
+        "summary": "The 36th running of AC100, a 100.8-mile out-and-back trail ultramarathon from Loma Alta Park to Mt. Hillyer and back through San Gabriel wilderness, with a 33-hour cutoff.",
         "promoter": "",
-        "price": "",
-        "tags": [],
-        "sources": [
-          "https://runningintheusa.com"
+        "price": "Lottery entry (no listed fee)",
+        "tags": [
+          "ultramarathon",
+          "trail-running",
+          "endurance",
+          "outdoor"
         ],
-        "tickets": [],
+        "sources": [
+          "https://runningintheusa.com",
+          "https://ac100.com/"
+        ],
+        "tickets": [
+          "https://ac100.com/reg/"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Altadena%2C%20LA",
           "apple": "https://maps.apple.com/?q=Altadena%2C%20LA"
@@ -4163,10 +4171,10 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://party-scout.app/img/gen/angeles-crest-100-mile-e-b8b3.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
