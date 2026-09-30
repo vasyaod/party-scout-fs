@@ -3035,15 +3035,22 @@
         "time": "",
         "start": null,
         "end": null,
-        "area": "",
-        "venue": "SoMa",
-        "address": "",
-        "why": "",
-        "summary": "",
-        "promoter": "",
-        "price": "",
-        "tags": [],
-        "sources": [],
+        "area": "SoMa",
+        "venue": "Yerba Buena Gardens",
+        "address": "140 3rd St, San Francisco, CA",
+        "why": "A free, low-key group ride through the heart of SoMa Pilipinas. Bring your own bike, lock, sunscreen and snacks.",
+        "summary": "Casual, no-drop bike ride (~7 miles, low elevation change) through SoMa celebrating Filipino American History Month with SoMa Pilipinas and SOMCAN, gathering at the Philippine Sun sculpture by Mumu.",
+        "promoter": "San Francisco Bicycle Coalition",
+        "price": "Free",
+        "tags": [
+          "bike ride",
+          "free",
+          "community",
+          "filipino american history month"
+        ],
+        "sources": [
+          "https://sfbike.org/event/fil-am-history-month-ride/"
+        ],
         "tickets": [],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=SoMa",
@@ -3055,7 +3062,7 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
