@@ -3864,23 +3864,32 @@
         "id": "2026-10-12-music-mico-40e326",
         "eid": "mico-0d50",
         "track": "music",
-        "category": "",
+        "category": "Live Music",
         "name": "Mico",
         "day": "Tue",
         "date": "2026-10-13",
-        "time": "",
-        "start": null,
+        "time": "8pm (doors 7pm)",
+        "start": "20:00",
         "end": null,
-        "area": "",
+        "area": "Van Ness",
         "venue": "The Regency Ballroom",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "1300 Van Ness Ave, San Francisco, CA",
+        "why": "A Tuesday-night live show at one of SF's classic ballrooms, all ages.",
+        "summary": "MICO plays The Regency Ballroom on the Running From A Feeling Tour, with Will Linley supporting. Doors 7pm, all ages.",
         "promoter": "",
         "price": "",
-        "tags": [],
-        "sources": [],
-        "tickets": [],
+        "tags": [
+          "live music",
+          "ballroom",
+          "all ages"
+        ],
+        "sources": [
+          "https://www.jambase.com/show/mico-the-regency-ballroom-20261013",
+          "https://www.axs.com/events/1451142/mico-tickets"
+        ],
+        "tickets": [
+          "https://www.axs.com/events/1451142/mico-tickets"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=The%20Regency%20Ballroom",
           "apple": "https://maps.apple.com/?q=The%20Regency%20Ballroom"
@@ -3891,7 +3900,7 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
