@@ -1444,23 +1444,38 @@
         "id": "2026-10-19-music-diiv-ac45cb",
         "eid": "diiv-7afe",
         "track": "music",
-        "category": "",
+        "category": "concert",
         "name": "Diiv",
         "day": "Wed",
         "date": "2026-10-21",
         "time": "8:00PM",
         "start": "20:00",
         "end": null,
-        "area": "San Francisco",
+        "area": "Tenderloin",
         "venue": "Great American Music Hall",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "859 O'Farrell St, San Francisco, CA",
+        "why": "Hazy, guitar-drenched shoegaze from a modern indie favorite in an ornate 600-capacity room, part of Psych Fest 2026.",
+        "summary": "Brooklyn dream-pop/shoegaze band DIIV play Great American Music Hall, with Pink Breath of Heaven and a Mutant Otter DJ set, as part of Psychedelic Fest 2026.",
         "promoter": "",
-        "price": "",
-        "tags": [],
-        "sources": [],
-        "tickets": [],
+        "price": "$47-$50",
+        "tags": [
+          "live-music",
+          "indie",
+          "shoegaze",
+          "psych-fest"
+        ],
+        "sources": [
+          {
+            "label": "Great American Music Hall calendar",
+            "url": "https://gamh.com/calendar/"
+          }
+        ],
+        "tickets": [
+          {
+            "label": "See Tickets",
+            "url": "https://wl.seetickets.us/event/diiv/701325?afflky=GreatAmericanMusicHall"
+          }
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Great%20American%20Music%20Hall%2C%20San%20Francisco",
           "apple": "https://maps.apple.com/?q=Great%20American%20Music%20Hall%2C%20San%20Francisco"
@@ -1468,11 +1483,19 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://party-scout.app/img/gen/diiv-7afe.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
-        "active": true
+        "enriched": 1,
+        "active": true,
+        "lineup": [
+          {
+            "name": "DIIV"
+          },
+          {
+            "name": "Pink Breath of Heaven"
+          }
+        ]
       },
       {
         "id": "2026-10-19-music-kepi-ghoulie-electric-the-bloo-7d1126",
