@@ -2837,23 +2837,32 @@
         "id": "2026-10-19-music-basement-ff0e3f",
         "eid": "basement-4b33",
         "track": "music",
-        "category": "",
+        "category": "concert",
         "name": "Basement",
         "day": "Fri",
         "date": "2026-10-23",
         "time": "6:00PM",
         "start": "18:00",
         "end": null,
-        "area": "San Francisco",
+        "area": "Berkeley",
         "venue": "The UC Theatre",
-        "address": "",
-        "why": "",
-        "summary": "",
-        "promoter": "",
-        "price": "",
-        "tags": [],
-        "sources": [],
-        "tickets": [],
+        "address": "2036 University Ave, Berkeley, CA",
+        "why": "Emo/alt-rock favorites back after an eight-year hiatus, with High Vis on the bill.",
+        "summary": "British rock band Basement play The UC Theatre in Berkeley on the WIRED tour, with High Vis, Big Boy and Lowertown. Doors 6pm, show 7pm, all ages. Listed as sold out.",
+        "promoter": "The UC Theatre",
+        "price": "$39.50 + fees ($53)",
+        "tags": [
+          "live-music",
+          "rock",
+          "all-ages",
+          "sold-out"
+        ],
+        "sources": [
+          "https://www.theuctheatre.org/shows/basement-23-oct"
+        ],
+        "tickets": [
+          "https://www.theuctheatre.org/events#tickets"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=The%20UC%20Theatre%2C%20San%20Francisco",
           "apple": "https://maps.apple.com/?q=The%20UC%20Theatre%2C%20San%20Francisco"
@@ -2861,11 +2870,25 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://party-scout.app/img/gen/basement-4b33.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
-        "active": true
+        "enriched": 1,
+        "active": true,
+        "lineup": [
+          {
+            "name": "Basement"
+          },
+          {
+            "name": "High Vis"
+          },
+          {
+            "name": "Big Boy"
+          },
+          {
+            "name": "Lowertown"
+          }
+        ]
       },
       {
         "id": "2026-10-19-music-chief-keef-9ff60c",
