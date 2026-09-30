@@ -4580,25 +4580,35 @@
         "id": "2026-09-28-sports-mean-girls-half-marathon-a084a1",
         "eid": "mean-girls-half-marathon-539f",
         "track": "sports",
-        "category": "",
+        "category": "Themed Run",
         "name": "Mean Girls Half Marathon",
         "day": "Sat",
         "date": "2026-10-03",
-        "time": "",
-        "start": null,
+        "time": "7am",
+        "start": "07:00",
         "end": null,
         "area": "LA",
-        "venue": "Los Angeles",
-        "address": "",
-        "why": "",
-        "summary": "",
-        "promoter": "",
-        "price": "",
-        "tags": [],
-        "sources": [
-          "https://runningintheusa.com"
+        "venue": "LA River Path",
+        "address": "6846 Owensmouth Ave, Canoga Park, CA 91303",
+        "why": "A Mean Girls-themed half marathon along the LA River Path, costumes encouraged",
+        "summary": "A fan-made, Mean Girls-themed running event on the LA River Path with 5K, 10K, and half marathon (\"The Full Plastics\") distances, all starting at 7am; a parody tribute unaffiliated with the film's rights holders.",
+        "promoter": "Jed and Ted's Excellent Races",
+        "price": "$34.99",
+        "tags": [
+          "running",
+          "half-marathon",
+          "themed",
+          "costume",
+          "outdoor",
+          "daytime"
         ],
-        "tickets": [],
+        "sources": [
+          "https://runningintheusa.com",
+          "https://runsignup.com/Race/CA/CanogaPark/MeanGirls5K10KHalfMarathon"
+        ],
+        "tickets": [
+          "https://runsignup.com/Race/Register/?raceId=196076&eventId=1081428"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Los%20Angeles%2C%20LA",
           "apple": "https://maps.apple.com/?q=Los%20Angeles%2C%20LA"
@@ -4606,10 +4616,10 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://party-scout.app/img/gen/mean-girls-half-marathon-539f.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
