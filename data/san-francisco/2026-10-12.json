@@ -4053,23 +4053,33 @@
         "id": "2026-10-12-music-wolves-of-glendale-34f0eb",
         "eid": "wolves-of-glendale-3e49",
         "track": "music",
-        "category": "",
+        "category": "Comedy Rock",
         "name": "Wolves of Glendale",
         "day": "Tue",
         "date": "2026-10-13",
-        "time": "",
-        "start": null,
-        "end": null,
-        "area": "",
+        "time": "7–11pm",
+        "start": "19:00",
+        "end": "23:00",
+        "area": "Potrero Hill",
         "venue": "Bottom Of The Hill",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "1233 17th St, San Francisco, CA 94107",
+        "why": "A rare Tuesday-night mix of comedy rock and video-game-soundtrack covers in a 275-cap club.",
+        "summary": "Comedy rock trio Wolves of Glendale bring their pointed parodies to Bottom of the Hill on the Go to the Woods tour, with Cor64 reinterpreting classic 90s console soundtracks.",
         "promoter": "",
-        "price": "",
-        "tags": [],
-        "sources": [],
-        "tickets": [],
+        "price": "$25",
+        "tags": [
+          "comedy rock",
+          "live music",
+          "video game music",
+          "parody"
+        ],
+        "sources": [
+          "https://dice.fm/event/v3xwl6-wolves-of-glendale-cor64-13th-oct-bottom-of-the-hill-san-francisco-tickets",
+          "https://www.songkick.com/concerts/43248096-wolves-of-glendale-at-bottom-of-the-hill"
+        ],
+        "tickets": [
+          "https://dice.fm/event/v3xwl6-wolves-of-glendale-cor64-13th-oct-bottom-of-the-hill-san-francisco-tickets"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Bottom%20Of%20The%20Hill",
           "apple": "https://maps.apple.com/?q=Bottom%20Of%20The%20Hill"
@@ -4077,11 +4087,21 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://party-scout.app/img/gen/wolves-of-glendale-3e49.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
-        "active": true
+        "enriched": 1,
+        "active": true,
+        "lineup": [
+          {
+            "name": "Wolves of Glendale",
+            "instagram": null
+          },
+          {
+            "name": "Cor64",
+            "instagram": null
+          }
+        ]
       },
       {
         "id": "2026-10-12-music-zolita-cb3a70",
