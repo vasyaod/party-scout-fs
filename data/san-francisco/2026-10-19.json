@@ -3521,23 +3521,32 @@
         "id": "2026-10-19-music-kacey-musgraves-db2337",
         "eid": "kacey-musgraves-b071",
         "track": "music",
-        "category": "",
+        "category": "concert",
         "name": "Kacey Musgraves",
         "day": "Fri",
         "date": "2026-10-23",
         "time": "7:30PM",
         "start": "19:30",
         "end": null,
-        "area": "San Francisco",
+        "area": "Oakland",
         "venue": "Oakland Arena",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "7000 Coliseum Way, Oakland, CA 94621",
+        "why": "Country-pop headliner on her Middle of Nowhere tour, across the bay from SF with a big-arena production.",
+        "summary": "Kacey Musgraves brings her Middle of Nowhere tour to Oakland Arena, with Estevie opening.",
         "promoter": "",
         "price": "",
-        "tags": [],
-        "sources": [],
-        "tickets": [],
+        "tags": [
+          "concert",
+          "country",
+          "live-music"
+        ],
+        "sources": [
+          "https://www.songkick.com/concerts/43185981-kacey-musgraves-at-oakland-arena",
+          "https://dothebay.com/events/2026/10/23/kacey-musgraves-featuring-estevie-tickets"
+        ],
+        "tickets": [
+          "https://www.axs.com/events/1419505/kacey-musgraves-tickets"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Oakland%20Arena%2C%20San%20Francisco",
           "apple": "https://maps.apple.com/?q=Oakland%20Arena%2C%20San%20Francisco"
@@ -3548,7 +3557,7 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
