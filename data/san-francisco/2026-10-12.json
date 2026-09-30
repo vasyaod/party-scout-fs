@@ -6715,23 +6715,34 @@
         "id": "2026-10-12-music-t-pain-ari-lennox-more-at-gold-b0e809",
         "eid": "t-pain-ari-lennox-more-a-1f8a",
         "track": "music",
-        "category": "",
+        "category": "concert",
         "name": "T-Pain, Ari Lennox & more at Golden Gate Park",
         "day": "Sat",
         "date": "2026-10-17",
-        "time": "",
-        "start": null,
+        "time": "1:00 PM",
+        "start": "13:00",
         "end": null,
-        "area": "",
+        "area": "Golden Gate Park",
         "venue": "Robin Williams Meadow",
-        "address": "",
-        "why": "",
-        "summary": "",
-        "promoter": "",
-        "price": "",
-        "tags": [],
-        "sources": [],
-        "tickets": [],
+        "address": "320 Bowling Green Dr, San Francisco, CA",
+        "why": "A rare free-air Golden Gate Park headliner show pairing T-Pain and Ari Lennox, with the beloved El Rio R&B and Ribs party crew on the bill.",
+        "summary": "R&B and Ribs expands into Golden Gate Park for the first time: T-Pain headlines an all-ages outdoor show at Robin Williams Meadow with Ari Lennox and DJ sets from Lady Ryan, Shellheart and BBCAROLZ. Presented with NPU Live and SF Rec & Park.",
+        "promoter": "NPU Live",
+        "price": "$89.99–$129.99",
+        "tags": [
+          "r&b",
+          "hip-hop",
+          "outdoor",
+          "all-ages",
+          "golden-gate-park"
+        ],
+        "sources": [
+          "https://www.kqed.org/arts/13993917/rb-ribs-golden-gate-park-t-pain-ari-lennox",
+          "https://sf.funcheap.com/presale-10am-t-pain-w-ari-lennox-outdoor-concert-at-golden-gate-park-oct-17/"
+        ],
+        "tickets": [
+          "https://www.tixr.com/groups/npulive/events/t-pain-ari-lennox-more-at-golden-gate-park-205722"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Robin%20Williams%20Meadow",
           "apple": "https://maps.apple.com/?q=Robin%20Williams%20Meadow"
@@ -6739,11 +6750,28 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://party-scout.app/img/gen/t-pain-ari-lennox-more-a-1f8a.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
-        "active": true
+        "enriched": 1,
+        "active": true,
+        "lineup": [
+          {
+            "name": "T-Pain"
+          },
+          {
+            "name": "Ari Lennox"
+          },
+          {
+            "name": "Lady Ryan"
+          },
+          {
+            "name": "Shellheart"
+          },
+          {
+            "name": "BBCAROLZ"
+          }
+        ]
       },
       {
         "id": "2026-10-12-music-atish-nikita-vida-733d87",
