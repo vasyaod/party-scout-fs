@@ -16582,18 +16582,25 @@
         "name": "Get Busy",
         "day": "Sat",
         "date": "2026-10-03",
-        "time": "",
+        "time": "9pm",
         "start": null,
         "end": null,
-        "area": "",
+        "area": "Mission",
         "venue": "El Rio",
-        "address": "",
-        "why": "",
-        "summary": "",
-        "promoter": "",
-        "price": "",
-        "tags": [],
-        "sources": [],
+        "address": "3158 Mission St, San Francisco, CA 94110",
+        "why": "A no-frills, cheap Mission dance night with a steady resident DJ crew and a $10 cover.",
+        "summary": "Monthly first-Saturday house and hip-hop dance night in El Rio's Stage Room with DJs Baysik, Cold SF and ZMO. 21+.",
+        "promoter": "El Rio",
+        "price": "$10",
+        "tags": [
+          "house",
+          "hip-hop",
+          "dj",
+          "21+"
+        ],
+        "sources": [
+          "https://tockify.com/elriosf2/detail/4318/1791086400000"
+        ],
         "tickets": [],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=El%20Rio",
@@ -16605,8 +16612,19 @@
         "image": "https://party-scout.app/img/gen/get-busy-695f.jpg",
         "image_generated": true,
         "popularity": 0,
-        "enriched": 0,
-        "active": true
+        "enriched": 1,
+        "active": true,
+        "lineup": [
+          {
+            "name": "DJ Baysik"
+          },
+          {
+            "name": "Cold SF"
+          },
+          {
+            "name": "ZMO"
+          }
+        ]
       },
       {
         "id": "2026-09-28-music-i-love-hhardcore-tour-w-hhunte-2fc746",
