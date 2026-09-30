@@ -4830,23 +4830,34 @@
         "id": "2026-10-12-music-sex-pistols-steve-jones-paul-c-00511e",
         "eid": "sex-pistols-steve-jones-f258",
         "track": "music",
-        "category": "",
+        "category": "concert",
         "name": "Sex Pistols (Steve Jones, Paul Cook, Glen Matlock)",
         "day": "Wed",
         "date": "2026-10-14",
-        "time": "",
+        "time": "8:30 PM",
         "start": null,
         "end": null,
-        "area": "",
+        "area": "Tenderloin / Mid-Market",
         "venue": "The Warfield",
-        "address": "",
-        "why": "",
-        "summary": "",
-        "promoter": "",
-        "price": "",
-        "tags": [],
-        "sources": [],
-        "tickets": [],
+        "address": "982 Market St, San Francisco, CA 94102",
+        "why": "Rare chance to see the original punk lineup's core members play the Pistols catalog live in a historic San Francisco theater.",
+        "summary": "Sex Pistols' surviving members Steve Jones, Paul Cook and Glen Matlock play The Warfield with Frank Carter on vocals and Starcrawler in support. Doors 7:30 PM, all ages.",
+        "promoter": "Goldenvoice Presents",
+        "price": "$119–$324",
+        "tags": [
+          "punk",
+          "live-music",
+          "concert",
+          "all-ages"
+        ],
+        "sources": [
+          "https://www.san-francisco-theater.com/shows/the-warfield/sex-pistols",
+          "https://www.ticketmaster.com/sex-pistols-san-francisco-10-14-2026/event/Z7r9jZ1A74-ek"
+        ],
+        "tickets": [
+          "https://www.ticketmaster.com/sex-pistols-san-francisco-10-14-2026/event/Z7r9jZ1A74-ek",
+          "https://www.axs.com/events/908696/sex-pistols-steve-jones-paul-cook-glen-matlock-feat-frank-carter-tickets"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=The%20Warfield",
           "apple": "https://maps.apple.com/?q=The%20Warfield"
@@ -4854,11 +4865,19 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://party-scout.app/img/gen/sex-pistols-steve-jones-f258.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
-        "active": true
+        "enriched": 1,
+        "active": true,
+        "lineup": [
+          {
+            "name": "Sex Pistols feat. Frank Carter"
+          },
+          {
+            "name": "Starcrawler"
+          }
+        ]
       },
       {
         "id": "2026-10-12-music-sister-sadie-fdd42f",
