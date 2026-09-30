@@ -2548,22 +2548,30 @@
         "id": "2026-10-19-music-ridel-high-ec5650",
         "eid": "ridel-high-1aba",
         "track": "music",
-        "category": "",
+        "category": "live music",
         "name": "Ridel High",
         "day": "Sat",
         "date": "2026-10-24",
-        "time": "",
+        "time": "Doors 3:30pm",
         "start": null,
         "end": null,
-        "area": "",
-        "venue": "The Redwood Bar And Grill (Los Angeles)",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "area": "DTLA",
+        "venue": "The Redwood Bar & Grill",
+        "address": "316 W 2nd St, Los Angeles, CA 90012",
+        "why": "Early-evening all-ages power-pop bill for $10 with 90s LA band Ridel High.",
+        "summary": "Afternoon Rock Show at the Redwood Bar in Downtown LA, all ages: Astral Jets, Ridel High, Jeff Whalen and Dylan Champion.",
         "promoter": "",
-        "price": "",
-        "tags": [],
-        "sources": [],
+        "price": "$10",
+        "tags": [
+          "live music",
+          "rock",
+          "power pop",
+          "all ages",
+          "afternoon"
+        ],
+        "sources": [
+          "https://theredwoodbar.com/events.html"
+        ],
         "tickets": [],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=The%20Redwood%20Bar%20And%20Grill%20%28Los%20Angeles%29",
@@ -2572,11 +2580,29 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://party-scout.app/img/gen/ridel-high-1aba.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
-        "active": true
+        "enriched": 1,
+        "active": true,
+        "lineup": [
+          {
+            "name": "Astral Jets",
+            "instagram": null
+          },
+          {
+            "name": "Ridel High",
+            "instagram": null
+          },
+          {
+            "name": "Jeff Whalen",
+            "instagram": null
+          },
+          {
+            "name": "Dylan Champion",
+            "instagram": null
+          }
+        ]
       },
       {
         "id": "2026-10-19-music-substance-drab-majesty-buzz-ku-048bba",
