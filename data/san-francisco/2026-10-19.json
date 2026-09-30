@@ -2611,16 +2611,26 @@
         "time": "7:30PM",
         "start": "19:30",
         "end": null,
-        "area": "San Francisco",
+        "area": "Saratoga",
         "venue": "The Mountain Winery",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "14831 Pierce Rd, Saratoga, CA 95070",
+        "why": "Alt-rock veterans with a co-headlining Anberlin set, played in a hillside winery amphitheater.",
+        "summary": "Switchfoot headline an evening at The Mountain Winery in Saratoga with Anberlin. Doors 5:30PM, show 7:30PM; all ages, 21+ to drink.",
         "promoter": "",
-        "price": "",
-        "tags": [],
-        "sources": [],
-        "tickets": [],
+        "price": "From $81",
+        "tags": [
+          "live-music",
+          "rock",
+          "outdoor",
+          "all-ages"
+        ],
+        "sources": [
+          "https://www.axs.com/events/1383144/switchfoot-tickets?skin=mountainwinery",
+          "https://www.songkick.com/concerts/43136392-switchfoot-at-mountain-winery"
+        ],
+        "tickets": [
+          "https://www.axs.com/events/1383144/switchfoot-tickets?skin=mountainwinery"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=The%20Mountain%20Winery%2C%20San%20Francisco",
           "apple": "https://maps.apple.com/?q=The%20Mountain%20Winery%2C%20San%20Francisco"
@@ -2631,8 +2641,16 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
-        "active": true
+        "enriched": 1,
+        "active": true,
+        "lineup": [
+          {
+            "name": "Switchfoot"
+          },
+          {
+            "name": "Anberlin"
+          }
+        ]
       },
       {
         "id": "2026-10-19-music-tommy-castro-and-the-painkille-2b09a7",
