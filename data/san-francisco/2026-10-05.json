@@ -5871,23 +5871,33 @@
         "id": "2026-10-05-music-she-him-8a13ed",
         "eid": "she-him-45e2",
         "track": "music",
-        "category": "",
+        "category": "concert",
         "name": "She & Him",
         "day": "Mon",
         "date": "2026-10-05",
-        "time": "",
-        "start": null,
+        "time": "8pm (doors 7pm)",
+        "start": "20:00",
         "end": null,
-        "area": "",
-        "venue": "The Castro",
-        "address": "",
-        "why": "",
-        "summary": "",
-        "promoter": "",
-        "price": "",
-        "tags": [],
-        "sources": [],
-        "tickets": [],
+        "area": "Castro",
+        "venue": "The Castro Theatre",
+        "address": "429 Castro St, San Francisco, CA 94114",
+        "why": "A rare Monday-night chance to see She & Him in one of SF's most beautiful historic theaters.",
+        "summary": "Zooey Deschanel and M. Ward's indie-pop duo play the Castro Theatre on the Pump Up The Volumes Tour, with Jordana opening. All ages; sold out on primary sale.",
+        "promoter": "Another Planet Entertainment",
+        "price": "Sold out",
+        "tags": [
+          "concert",
+          "indie-pop",
+          "live-band",
+          "all-ages",
+          "sold-out"
+        ],
+        "sources": [
+          "https://apeconcerts.com/events/she-him-261005/"
+        ],
+        "tickets": [
+          "https://www.ticketmaster.com/she-him-san-francisco-california-10-05-2026/event/1C0064B97D6F462E"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=The%20Castro",
           "apple": "https://maps.apple.com/?q=The%20Castro"
@@ -5895,11 +5905,21 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://party-scout.app/img/gen/she-him-45e2.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
-        "active": true
+        "enriched": 1,
+        "active": true,
+        "lineup": [
+          {
+            "name": "She & Him",
+            "instagram": null
+          },
+          {
+            "name": "Jordana",
+            "instagram": null
+          }
+        ]
       },
       {
         "id": "2026-10-05-music-soulfly-nailbomb-incite-71c0d6",
