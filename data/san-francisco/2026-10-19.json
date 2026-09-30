@@ -1797,15 +1797,22 @@
         "time": "8:00PM",
         "start": "20:00",
         "end": null,
-        "area": "San Francisco",
+        "area": "Hayes Valley",
         "venue": "Rickshaw Stop",
-        "address": "",
-        "why": "",
-        "summary": "",
-        "promoter": "",
+        "address": "155 Fell St, San Francisco, CA",
+        "why": "A long-running geeky lecture night at the Rickshaw Stop; reportedly one of the last there before the series moves to a smaller venue.",
+        "summary": "Monthly Nerd Nite SF: three short, funny talks on offbeat science and culture in a rock-club setting, drinks in hand.",
+        "promoter": "Nerd Nite SF",
         "price": "",
-        "tags": [],
-        "sources": [],
+        "tags": [
+          "talks",
+          "nerd nite",
+          "science",
+          "comedy"
+        ],
+        "sources": [
+          "https://sf.nerdnite.com/"
+        ],
         "tickets": [],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Rickshaw%20Stop%2C%20San%20Francisco",
@@ -1817,7 +1824,7 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
