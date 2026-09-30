@@ -1719,14 +1719,17 @@
         "time": "11:59pm-5am",
         "start": "23:59",
         "end": "05:00",
-        "area": "",
+        "area": "DTLA",
         "venue": "TBA (DTLA/Los Angeles)",
         "address": "",
-        "why": "",
-        "summary": "",
+        "why": "A full night out that runs until 5am.",
+        "summary": "A late-night club night in downtown Los Angeles running from just before midnight until 5am, 21+.",
         "promoter": "",
         "price": "$15  | 21+",
-        "tags": [],
+        "tags": [
+          "nightclub",
+          "21+"
+        ],
         "sources": [],
         "tickets": [],
         "maps": {},
@@ -1736,7 +1739,7 @@
         "image": "https://party-scout.app/img/gen/club-pivete-4105.jpg",
         "image_generated": true,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
