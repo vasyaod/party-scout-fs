@@ -7603,15 +7603,22 @@
         "time": "",
         "start": null,
         "end": null,
-        "area": "",
+        "area": "Mission Bay",
         "venue": "Shed A at Pier 48",
         "address": "",
-        "why": "",
-        "summary": "",
-        "promoter": "",
+        "why": "A weekend-night dance series from Goldenvoice on the waterfront at Pier 48.",
+        "summary": "Goldenvoice's seasonal club series returns to Shed A at Pier 48 for Season 2, running Oct 17 through Jan 2, 2027.",
+        "promoter": "Goldenvoice",
         "price": "",
-        "tags": [],
-        "sources": [],
+        "tags": [
+          "electronic",
+          "club",
+          "goldenvoice"
+        ],
+        "sources": [
+          "https://aegworldwide.com/press-center/press-releases/goldenvoice-presents-club-darc-seasonal-club-experience-san-francisco",
+          "https://www.kron4.com/entertainment-news/club-darcs-fall-lineup-released-for-edm-concert-series-in-sf/"
+        ],
         "tickets": [],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Shed%20A%20at%20Pier%2048",
@@ -7623,7 +7630,7 @@
         "image": "https://party-scout.app/img/gen/club-darc-season-2-261e.jpg",
         "image_generated": true,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       }
     ],
