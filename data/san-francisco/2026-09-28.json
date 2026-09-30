@@ -16426,21 +16426,33 @@
         "name": "African Arts Festival",
         "day": "Sat",
         "date": "2026-10-03",
-        "time": "",
-        "start": null,
-        "end": null,
-        "area": "SF",
+        "time": "11:00 AM – 4:00 PM",
+        "start": "11:00",
+        "end": "16:00",
+        "area": "SoMa",
         "venue": "Yerba Buena Gardens",
-        "address": "",
-        "why": "",
-        "summary": "",
-        "promoter": "",
-        "price": "",
-        "tags": [],
-        "sources": [
-          "https://sf.funcheap.com"
+        "address": "Great Lawn, Mission St between 3rd & 4th Sts, San Francisco, CA 94103",
+        "why": "A free, family-friendly afternoon of live West African drumming and dance in the middle of downtown SF.",
+        "summary": "Free daytime festival on the Great Lawn with live music, dance and drumming from Bay Area ensembles representing regions of Africa and the diaspora, plus African food, clothing, jewelry and art vendors and kids' drum, dance and face-painting activities.",
+        "promoter": "Duniya Dance and Drum Company / Yerba Buena Gardens Festival",
+        "price": "Free",
+        "tags": [
+          "free",
+          "festival",
+          "african",
+          "live-music",
+          "dance",
+          "family-friendly",
+          "outdoor"
         ],
-        "tickets": [],
+        "sources": [
+          "https://sf.funcheap.com",
+          "https://ybgfestival.org/event/african-arts-festival-2026/",
+          "https://sf.funcheap.com/african-arts-festival-at-yerba-buena-gardens-festival-2026/"
+        ],
+        "tickets": [
+          "https://www.eventbrite.com/e/african-arts-festival-at-ybgfestival-tickets-1986357479693"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Yerba%20Buena%20Gardens%2C%20SF",
           "apple": "https://maps.apple.com/?q=Yerba%20Buena%20Gardens%2C%20SF"
@@ -16451,8 +16463,40 @@
         "image": "https://party-scout.app/img/gen/african-arts-festival-549c.jpg",
         "image_generated": true,
         "popularity": 0,
-        "enriched": 0,
-        "active": true
+        "enriched": 1,
+        "active": true,
+        "lineup": [
+          {
+            "name": "Emmanuel Nado"
+          },
+          {
+            "name": "Diamano Coura West African Dance Company"
+          },
+          {
+            "name": "Unique Derique"
+          },
+          {
+            "name": "Fua dia Congo"
+          },
+          {
+            "name": "Mulu Senshaw"
+          },
+          {
+            "name": "Duniya Dance and Drum Company"
+          },
+          {
+            "name": "Arenas Dance Company"
+          },
+          {
+            "name": "Chinyakare Ensemble"
+          },
+          {
+            "name": "Hana Baba & Ahmed Elejail"
+          },
+          {
+            "name": "Bongo & the TonTons"
+          }
+        ]
       },
       {
         "id": "2026-09-28-music-burn-book-samurei-t-wang-ying-c105fc",
