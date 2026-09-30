@@ -1999,22 +1999,30 @@
         "id": "2026-10-19-music-the-aquabats-e73ef9",
         "eid": "the-aquabats-67dd",
         "track": "music",
-        "category": "",
+        "category": "concert",
         "name": "The Aquabats!",
         "day": "Thu",
         "date": "2026-10-22",
         "time": "7:00PM",
         "start": "19:00",
         "end": null,
-        "area": "San Francisco",
+        "area": "Civic Center",
         "venue": "The Regency Ballroom",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "1300 Van Ness Ave, San Francisco, CA 94109",
+        "why": "Superhero-costumed ska-pop spectacle a week before Halloween, with a costume-friendly crowd and Mariachi El Bronx in support.",
+        "summary": "The Aquabats! bring their costume-party 'Trick-Or-Treat To The Beat!' tour to The Regency Ballroom, with Mariachi El Bronx and Mrs Magician.",
         "promoter": "",
         "price": "",
-        "tags": [],
-        "sources": [],
+        "tags": [
+          "live-music",
+          "ska",
+          "punk",
+          "costume",
+          "halloween"
+        ],
+        "sources": [
+          "https://www.sfshameless.com/the-artists/2026/7/14/the-aquabats-announce-costume-party-october-2026-tour-dates"
+        ],
         "tickets": [],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=The%20Regency%20Ballroom%2C%20San%20Francisco",
@@ -2023,11 +2031,22 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://party-scout.app/img/gen/the-aquabats-67dd.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
-        "active": true
+        "enriched": 1,
+        "active": true,
+        "lineup": [
+          {
+            "name": "The Aquabats!"
+          },
+          {
+            "name": "Mariachi El Bronx"
+          },
+          {
+            "name": "Mrs Magician"
+          }
+        ]
       },
       {
         "id": "2026-10-19-music-arcade-karaoke-sf-s-wild-new-t-d85880",
