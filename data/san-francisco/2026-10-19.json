@@ -2090,17 +2090,28 @@
         "date": "2026-10-22",
         "time": "9:00 pm",
         "start": "21:00",
-        "end": null,
-        "area": "San Francisco",
-        "venue": "",
-        "address": "",
-        "why": "",
-        "summary": "",
-        "promoter": "",
-        "price": "",
-        "tags": [],
-        "sources": [],
-        "tickets": [],
+        "end": "01:00",
+        "area": "Marina",
+        "venue": "White Rabbit",
+        "address": "3138 Fillmore St, San Francisco, CA",
+        "why": "A free, no-cover weekly dance night with rotating guest DJs — an easy midweek pick for house and disco fans.",
+        "summary": "Inner Circle is a long-running free weekly Thursday night at White Rabbit in the Marina, with guest DJs spinning house, disco, remixes, currents and classics from 9pm until late.",
+        "promoter": "Inner Circle SF",
+        "price": "Free (RSVP)",
+        "tags": [
+          "house",
+          "disco",
+          "free",
+          "weekly",
+          "dj"
+        ],
+        "sources": [
+          "https://sf.funcheap.com/every-thursday-inner-circle-dance-party-at-white-rabbit-sf-3/",
+          "https://www.instagram.com/innercirclesf/"
+        ],
+        "tickets": [
+          "https://innercirclesf.eventbrite.com"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=San%20Francisco",
           "apple": "https://maps.apple.com/?q=San%20Francisco"
@@ -2111,7 +2122,7 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
