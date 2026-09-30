@@ -1746,22 +1746,31 @@
         "id": "2026-10-19-music-dia-de-los-muertos-all-under-o-f886d2",
         "eid": "dia-de-los-muertos-all-u-e237",
         "track": "music",
-        "category": "",
+        "category": "festival",
         "name": "Dia de los Muertos – All Under One Sky",
         "day": "Sat",
         "date": "2026-10-24",
-        "time": "",
-        "start": null,
-        "end": null,
-        "area": "",
+        "time": "12:00 PM",
+        "start": "12:00",
+        "end": "24:00",
+        "area": "Hollywood",
         "venue": "Hollywood Forever",
-        "address": "",
-        "why": "",
-        "summary": "",
-        "promoter": "",
+        "address": "6000 Santa Monica Blvd, Los Angeles, CA 90038",
+        "why": "LA's biggest Día de los Muertos: live music, ofrendas and a procession among the cemetery's mausoleums.",
+        "summary": "Hollywood Forever's 27th annual Día de los Muertos, themed \"All Under One Sky / Bajo un Mismo Cielo\", runs noon to midnight with DannyLux, Trish Toledo, Tropa Magica and Los Shadows, DJs Que Madre, JOAQU.N and Dro Barlo, plus community altars, a procession and a Children's Plaza.",
+        "promoter": "Hollywood Forever",
         "price": "",
-        "tags": [],
-        "sources": [],
+        "tags": [
+          "dia-de-los-muertos",
+          "live",
+          "latin",
+          "cultural",
+          "outdoor"
+        ],
+        "sources": [
+          "https://hollywoodforever.com/event/dia-de-los-muertos-5/",
+          "https://www.ladayofthedead.com/event-info/"
+        ],
         "tickets": [],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Hollywood%20Forever",
@@ -1770,11 +1779,34 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://party-scout.app/img/gen/dia-de-los-muertos-all-u-e237.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
-        "active": true
+        "enriched": 1,
+        "active": true,
+        "lineup": [
+          {
+            "name": "DannyLux"
+          },
+          {
+            "name": "Trish Toledo"
+          },
+          {
+            "name": "Tropa Magica"
+          },
+          {
+            "name": "Los Shadows"
+          },
+          {
+            "name": "Que Madre"
+          },
+          {
+            "name": "JOAQU.N"
+          },
+          {
+            "name": "Dro Barlo"
+          }
+        ]
       },
       {
         "id": "2026-10-19-music-dialed-in-w-darryn-jones-zerne-e0a0f6",
