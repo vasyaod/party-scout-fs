@@ -4779,18 +4779,25 @@
         "name": "Quattracenta, Rip Room",
         "day": "Wed",
         "date": "2026-10-14",
-        "time": "",
-        "start": null,
+        "time": "8pm",
+        "start": "20:00",
         "end": null,
-        "area": "",
+        "area": "Oakland",
         "venue": "Thee Stork Club",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "2330 Telegraph Ave, Oakland, CA",
+        "why": "Two three-piece art-punk/art-rock bands touring together in a 150-cap room.",
+        "summary": "Baltimore art-rock trio Quattracenta joins San Francisco art-punk trio Rip Room, with Fog Lamp, at Thee Stork Club in Oakland.",
         "promoter": "",
-        "price": "",
-        "tags": [],
-        "sources": [],
+        "price": "$12",
+        "tags": [
+          "punk",
+          "art-rock",
+          "live-music"
+        ],
+        "sources": [
+          "https://www.jambase.com/venue/thee-stork-club",
+          "https://theestorkclub.com/calendar/"
+        ],
         "tickets": [],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Thee%20Stork%20Club",
@@ -4802,8 +4809,22 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
-        "active": true
+        "enriched": 1,
+        "active": true,
+        "lineup": [
+          {
+            "name": "Rip Room",
+            "instagram": null
+          },
+          {
+            "name": "Quattracenta",
+            "instagram": null
+          },
+          {
+            "name": "Fog Lamp",
+            "instagram": null
+          }
+        ]
       },
       {
         "id": "2026-10-12-music-sex-pistols-steve-jones-paul-c-00511e",
