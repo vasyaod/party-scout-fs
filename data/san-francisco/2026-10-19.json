@@ -3252,23 +3252,32 @@
         "id": "2026-10-19-music-gary-clark-jr-ac23f1",
         "eid": "gary-clark-jr-d5f4",
         "track": "music",
-        "category": "",
+        "category": "Concert",
         "name": "Gary Clark Jr.",
         "day": "Fri",
         "date": "2026-10-23",
         "time": "7:00PM",
         "start": "19:00",
         "end": null,
-        "area": "San Francisco",
+        "area": "Oakland",
         "venue": "Fox Theater",
-        "address": "",
-        "why": "",
-        "summary": "",
-        "promoter": "",
-        "price": "",
-        "tags": [],
-        "sources": [],
-        "tickets": [],
+        "address": "1807 Telegraph Ave, Oakland, CA 94612",
+        "why": "One of the best live guitarists working today, in a historic Art Deco theater.",
+        "summary": "Grammy-winning blues and R&B guitarist Gary Clark Jr. plays the Fox Theater in Oakland. Doors 7 PM, show 8 PM, all ages, with openers Xavier Lynn and DJ Kurupt.",
+        "promoter": "Another Planet Entertainment",
+        "price": "See Ticketmaster",
+        "tags": [
+          "live music",
+          "blues",
+          "rock",
+          "all ages"
+        ],
+        "sources": [
+          "https://thefoxoakland.com/events/gary-clark-jr-261023"
+        ],
+        "tickets": [
+          "https://www.ticketmaster.com/gary-clark-jr-oakland-california-10-23-2026/event/1C0064BC0B428079"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Fox%20Theater%2C%20San%20Francisco",
           "apple": "https://maps.apple.com/?q=Fox%20Theater%2C%20San%20Francisco"
@@ -3276,11 +3285,22 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://party-scout.app/img/gen/gary-clark-jr-d5f4.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
-        "active": true
+        "enriched": 1,
+        "active": true,
+        "lineup": [
+          {
+            "name": "Gary Clark Jr."
+          },
+          {
+            "name": "Xavier Lynn"
+          },
+          {
+            "name": "DJ Kurupt"
+          }
+        ]
       },
       {
         "id": "2026-10-19-music-george-clanton-ryan-hemsworth-3d8c42",
