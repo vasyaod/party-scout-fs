@@ -748,23 +748,31 @@
         "id": "2026-10-19-music-dinosaur-jr-fall-tour-2026-wit-e2b2a6",
         "eid": "dinosaur-jr-fall-tour-20-8c43",
         "track": "music",
-        "category": "",
+        "category": "concert",
         "name": "Dinosaur Jr. - Fall Tour 2026 with special guest Stef Chura",
         "day": "Tue",
         "date": "2026-10-20",
         "time": "7:00PM",
         "start": "19:00",
         "end": null,
-        "area": "San Francisco",
+        "area": "Sacramento",
         "venue": "Ace of Spades",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "1417 R St, Sacramento, CA",
+        "why": "Loud, fuzzy alt-rock legends J Mascis, Lou Barlow and Murph with Detroit's Stef Chura opening.",
+        "summary": "Dinosaur Jr. bring their fall 2026 tour to Ace of Spades in Sacramento with special guest Stef Chura. Note: this is the Sacramento date; the San Francisco show is Oct 18 at the Castro Theatre.",
         "promoter": "",
-        "price": "",
-        "tags": [],
-        "sources": [],
-        "tickets": [],
+        "price": "See tickets",
+        "tags": [
+          "indie-rock",
+          "live-music",
+          "concert"
+        ],
+        "sources": [
+          "https://www.livenation.com/event/G5vYZ_u0dqoo1/dinosaur-jr-fall-tour-2026-with-special-guest-stef-chura"
+        ],
+        "tickets": [
+          "https://www.livenation.com/event/G5vYZ_u0dqoo1/dinosaur-jr-fall-tour-2026-with-special-guest-stef-chura"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Ace%20of%20Spades%2C%20San%20Francisco",
           "apple": "https://maps.apple.com/?q=Ace%20of%20Spades%2C%20San%20Francisco"
@@ -772,11 +780,19 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://party-scout.app/img/gen/dinosaur-jr-fall-tour-20-8c43.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
-        "active": true
+        "enriched": 1,
+        "active": true,
+        "lineup": [
+          {
+            "name": "Dinosaur Jr."
+          },
+          {
+            "name": "Stef Chura"
+          }
+        ]
       },
       {
         "id": "2026-10-19-music-doja-cat-94f37e",
