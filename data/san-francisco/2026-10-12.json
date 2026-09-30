@@ -3249,23 +3249,31 @@
         "id": "2026-10-12-music-palace-05a7a0",
         "eid": "palace-fb29",
         "track": "music",
-        "category": "",
+        "category": "Concert",
         "name": "Palace",
         "day": "Mon",
         "date": "2026-10-12",
-        "time": "",
+        "time": "8:00 PM",
         "start": null,
         "end": null,
-        "area": "",
+        "area": "Sacramento",
         "venue": "Channel 24",
-        "address": "",
-        "why": "",
-        "summary": "",
-        "promoter": "",
-        "price": "",
-        "tags": [],
-        "sources": [],
-        "tickets": [],
+        "address": "1800 24th St, Sacramento, CA 95816",
+        "why": "Atmospheric, emotive indie rock from a band known for strong live shows, on a Monday night in Sacramento.",
+        "summary": "UK indie band Palace on their USA & Canada Tour 2026 at Channel 24 in Sacramento, with Rollo Doherty supporting. All ages; doors 7pm.",
+        "promoter": "Another Planet Entertainment",
+        "price": "From $60",
+        "tags": [
+          "indie",
+          "live-band",
+          "all-ages"
+        ],
+        "sources": [
+          "https://channel24sac.com/events/palace-261012"
+        ],
+        "tickets": [
+          "https://www.ticketmaster.com/palace-usa-canada-tour-2026-sacramento-california-10-12-2026/event/1C00648FEAEE1EBB"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Channel%2024",
           "apple": "https://maps.apple.com/?q=Channel%2024"
@@ -3273,11 +3281,12 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://party-scout.app/img/gen/palace-fb29.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
-        "active": true
+        "enriched": 1,
+        "active": true,
+        "lineup": []
       },
       {
         "id": "2026-10-12-music-science-buzz-cafe-3656bc",
