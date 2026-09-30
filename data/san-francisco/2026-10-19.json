@@ -2342,15 +2342,21 @@
         "time": "7:00PM",
         "start": "19:00",
         "end": null,
-        "area": "San Francisco",
+        "area": "Oakland",
         "venue": "Fox Theater",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "1807 Telegraph Ave, Oakland, CA 94612",
+        "why": "Bedroom-pop favorite Malcolm Todd in a historic 2,800-capacity Oakland theater, one night only on the Bay Area run.",
+        "summary": "Malcolm Todd headlines the Fox Theater in Oakland with support from 54 Ultra. Doors 8 PM, on sale via Ticketmaster and SeatGeek.",
         "promoter": "",
         "price": "",
-        "tags": [],
-        "sources": [],
+        "tags": [
+          "live-music",
+          "indie-pop",
+          "oakland"
+        ],
+        "sources": [
+          "https://labs.songkick.com/concerts/43270836-malcolm-todd-at-fox-theater"
+        ],
         "tickets": [],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Fox%20Theater%2C%20San%20Francisco",
@@ -2362,8 +2368,16 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
-        "active": true
+        "enriched": 1,
+        "active": true,
+        "lineup": [
+          {
+            "name": "Malcolm Todd"
+          },
+          {
+            "name": "54 Ultra"
+          }
+        ]
       },
       {
         "id": "2026-10-19-music-monsta-x-be920f",
