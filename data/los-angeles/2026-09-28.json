@@ -2912,22 +2912,30 @@
         "id": "2026-09-28-music-disco-decadance-ec46d5",
         "eid": "disco-decadance-7f9c",
         "track": "music",
-        "category": "",
+        "category": "Disco",
         "name": "Disco Decadance",
         "day": "Sat",
         "date": "2026-10-03",
-        "time": "",
-        "start": null,
-        "end": null,
-        "area": "LA",
+        "time": "9pm–1am",
+        "start": "21:00",
+        "end": "01:00",
+        "area": "Chinatown",
         "venue": "Apotheke",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "1746 N Spring St, Los Angeles, CA 90012",
+        "why": "Free RSVP disco/house night on Apotheke's LA River-side patio, no cover",
+        "summary": "Disco Decadance is Apotheke's recurring disco and house night, spotlighting the genre's roots in freedom and self-expression with resident Dirtie Blonde. No cover with RSVP; table reservations via Resy.",
         "promoter": "",
         "price": "Free w/RSVP",
-        "tags": [],
-        "sources": [],
+        "tags": [
+          "disco",
+          "house",
+          "free",
+          "rsvp",
+          "21+"
+        ],
+        "sources": [
+          "https://ra.co/dj/dirtieblonde/tour-dates"
+        ],
         "tickets": [],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Apotheke%2C%20LA",
@@ -2939,8 +2947,14 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
-        "active": true
+        "enriched": 1,
+        "active": true,
+        "lineup": [
+          {
+            "name": "Dirtie Blonde",
+            "instagram": null
+          }
+        ]
       },
       {
         "id": "2026-09-28-music-distrikt-fundraiser-bb4a8d",
