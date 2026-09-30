@@ -805,16 +805,26 @@
         "time": "7:30PM",
         "start": "19:30",
         "end": null,
-        "area": "San Francisco",
+        "area": "Sacramento",
         "venue": "Golden 1 Center",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "500 David J Stern Walk, Sacramento, CA 95814",
+        "why": "Arena-scale pop and rap spectacle from one of the genre's biggest stars, a short drive from the Bay.",
+        "summary": "Doja Cat brings her Tour Ma Vie World Tour to Golden 1 Center in Sacramento, in support of her fifth studio album Vie, with Latto as special guest. Doors 6:30 PM.",
         "promoter": "",
-        "price": "",
-        "tags": [],
-        "sources": [],
-        "tickets": [],
+        "price": "$78-$400",
+        "tags": [
+          "pop",
+          "hip-hop",
+          "arena",
+          "concert"
+        ],
+        "sources": [
+          "https://www.livenation.com/event/G5vYZbSnJ9Ve1/doja-cat-tour-ma-vie-world-tour",
+          "https://sacramento365.com/event/doja-cat-tour-ma-vie/"
+        ],
+        "tickets": [
+          "https://www.livenation.com/event/G5vYZbSnJ9Ve1/doja-cat-tour-ma-vie-world-tour"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Golden%201%20Center%2C%20San%20Francisco",
           "apple": "https://maps.apple.com/?q=Golden%201%20Center%2C%20San%20Francisco"
@@ -822,11 +832,19 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://party-scout.app/img/gen/doja-cat-7674.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
-        "active": true
+        "enriched": 1,
+        "active": true,
+        "lineup": [
+          {
+            "name": "Doja Cat"
+          },
+          {
+            "name": "Latto"
+          }
+        ]
       },
       {
         "id": "2026-10-19-music-geese-c46f11",
