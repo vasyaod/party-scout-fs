@@ -2426,19 +2426,29 @@
         "name": "The Offspring - Rock 2 Freedom® Benefit Concert",
         "day": "Sat",
         "date": "2026-10-24",
-        "time": "",
+        "time": "7:00 PM",
         "start": null,
         "end": null,
-        "area": "",
+        "area": "Koreatown",
         "venue": "The Wiltern",
-        "address": "",
-        "why": "",
-        "summary": "",
-        "promoter": "",
-        "price": "",
-        "tags": [],
-        "sources": [],
-        "tickets": [],
+        "address": "3790 Wilshire Blvd, Los Angeles, CA 90010",
+        "why": "Punk-rock heavyweights The Offspring in a historic theater, for a substance-abuse-prevention cause.",
+        "summary": "Slave 2 Nothing's sixth annual Rock 2 Freedom benefit concert at The Wiltern, with The Offspring and In-N-Out's company band .48 Special. Doors 6:30 PM.",
+        "promoter": "Slave 2 Nothing",
+        "price": "$75",
+        "tags": [
+          "rock",
+          "punk",
+          "benefit",
+          "concert"
+        ],
+        "sources": [
+          "https://www.slave2nothing.org/rock2freedom",
+          "https://www.universe.com/events/2026-rock-2-freedom-benefit-concert-tickets-PDGMZ2"
+        ],
+        "tickets": [
+          "https://www.universe.com/events/2026-rock-2-freedom-benefit-concert-tickets-PDGMZ2"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=The%20Wiltern",
           "apple": "https://maps.apple.com/?q=The%20Wiltern"
@@ -2449,8 +2459,16 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
-        "active": true
+        "enriched": 1,
+        "active": true,
+        "lineup": [
+          {
+            "name": "The Offspring"
+          },
+          {
+            "name": ".48 Special"
+          }
+        ]
       },
       {
         "id": "2026-10-19-music-pokemon-night-out-marshmello-a-41c6ff",
