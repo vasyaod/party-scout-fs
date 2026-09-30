@@ -5708,22 +5708,29 @@
         "id": "2026-10-12-music-glaive-843d59",
         "eid": "glaive-9781",
         "track": "music",
-        "category": "",
+        "category": "concert",
         "name": "Glaive",
         "day": "Fri",
         "date": "2026-10-16",
-        "time": "",
+        "time": "8:00 PM",
         "start": null,
         "end": null,
-        "area": "",
+        "area": "Berkeley",
         "venue": "The UC Theatre",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "2036 University Ave, Berkeley, CA",
+        "why": "Genre-defying pop artist glaive on his GOD SAVE THE THREE TOUR, in an all-ages room a short walk from Downtown Berkeley BART.",
+        "summary": "glaive brings the GOD SAVE THE THREE TOUR to The UC Theatre in Berkeley, with Kurtains supporting. Doors 7 PM, all ages; the listing shows it as sold out.",
         "promoter": "",
-        "price": "",
-        "tags": [],
-        "sources": [],
+        "price": "$27.50 + fees",
+        "tags": [
+          "live-music",
+          "pop",
+          "all-ages",
+          "berkeley"
+        ],
+        "sources": [
+          "https://www.theuctheatre.org/shows/glaive-16-oct"
+        ],
         "tickets": [],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=The%20UC%20Theatre",
@@ -5732,11 +5739,19 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://party-scout.app/img/gen/glaive-9781.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
-        "active": true
+        "enriched": 1,
+        "active": true,
+        "lineup": [
+          {
+            "name": "glaive"
+          },
+          {
+            "name": "Kurtains"
+          }
+        ]
       },
       {
         "id": "2026-10-12-music-iron-wine-ce4cff",
