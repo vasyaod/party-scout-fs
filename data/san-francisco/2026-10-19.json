@@ -50,23 +50,38 @@
         "id": "2026-10-19-music-amantes-del-futuro-f3818d",
         "eid": "amantes-del-futuro-3843",
         "track": "music",
-        "category": "",
+        "category": "live-music",
         "name": "Amantes del Futuro",
         "day": "Mon",
         "date": "2026-10-19",
         "time": "8:00PM",
         "start": "20:00",
         "end": null,
-        "area": "San Francisco",
+        "area": "Tenderloin",
         "venue": "Great American Music Hall",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "859 O'Farrell St, San Francisco, CA 94109",
+        "why": "Four Latin acts blending cumbia, sonidero and dance-floor rhythms in one of SF's classic ballrooms.",
+        "summary": "Mexican psychedelic-cumbia band Amantes del Futuro headline Psyched! Fest 2026 at Great American Music Hall, with Turbo Sonidero, Grupo Gallardo and Sonido Aztlan. Doors 7 PM.",
         "promoter": "",
-        "price": "",
-        "tags": [],
-        "sources": [],
-        "tickets": [],
+        "price": "$24 advance / $27 door",
+        "tags": [
+          "live-music",
+          "latin",
+          "cumbia",
+          "psyched-fest"
+        ],
+        "sources": [
+          {
+            "label": "CrawlSF",
+            "url": "https://crawlsf.com/events/amantes-del-futuro/"
+          }
+        ],
+        "tickets": [
+          {
+            "label": "Eventim",
+            "url": "https://wl.eventim.us/event/amantes-del-futuro/701664?afflky=GreatAmericanMusicHall"
+          }
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Great%20American%20Music%20Hall%2C%20San%20Francisco",
           "apple": "https://maps.apple.com/?q=Great%20American%20Music%20Hall%2C%20San%20Francisco"
@@ -74,11 +89,25 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://party-scout.app/img/gen/amantes-del-futuro-3843.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
-        "active": true
+        "enriched": 1,
+        "active": true,
+        "lineup": [
+          {
+            "name": "Amantes del Futuro"
+          },
+          {
+            "name": "Turbo Sonidero"
+          },
+          {
+            "name": "Grupo Gallardo"
+          },
+          {
+            "name": "Sonido Aztlan"
+          }
+        ]
       },
       {
         "id": "2026-10-19-music-bebe-stockwell-c6d211",
