@@ -15144,17 +15144,21 @@
         "name": "Out Of Office",
         "day": "Fri",
         "date": "2026-10-02",
-        "time": "",
-        "start": null,
-        "end": null,
+        "time": "9:00 PM - 2:00 AM",
+        "start": "21:00",
+        "end": "02:00",
         "area": "SF",
         "venue": "The Foundry",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "1425 Folsom Street, San Francisco, CA 94103",
+        "why": "A late-night SoMa dance floor to clock out and let loose on a Friday.",
+        "summary": "Quit Your Day Job presents Out Of Office, a Friday night dance party at The Foundry in SoMa.",
         "promoter": "",
         "price": "$17.98-30.30",
-        "tags": [],
+        "tags": [
+          "dance-party",
+          "nightclub",
+          "soma"
+        ],
         "sources": [
           "https://www.eventbrite.com/e/quit-your-day-job-presents-out-of-office-tickets-1996191953870"
         ],
@@ -15166,10 +15170,10 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "https://party-scout.app/img/gen/out-of-office-0188.jpg",
-        "image_generated": true,
+        "image": "https://party-scout.app/img/gen/out-of-office-d8ae.jpg",
+        "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
