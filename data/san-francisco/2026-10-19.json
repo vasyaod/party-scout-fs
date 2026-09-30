@@ -3384,16 +3384,26 @@
         "time": "7:00PM",
         "start": "19:00",
         "end": null,
-        "area": "San Francisco",
-        "venue": "The Castro",
-        "address": "",
-        "why": "",
-        "summary": "",
-        "promoter": "",
-        "price": "",
-        "tags": [],
-        "sources": [],
-        "tickets": [],
+        "area": "Castro",
+        "venue": "The Castro Theatre",
+        "address": "429 Castro St, San Francisco, CA",
+        "why": "A rare chance to see one of indie folk's sharpest songwriters in the Castro's historic 1,400-capacity movie palace.",
+        "summary": "Australian indie singer-songwriter Julia Jacklin plays The Castro Theatre on her North America tour, with Jordan Patterson opening. Doors 7pm, show 8pm, all ages.",
+        "promoter": "Another Planet Entertainment",
+        "price": "$48-$155 (sold out at box office)",
+        "tags": [
+          "indie",
+          "folk",
+          "live-music",
+          "all-ages",
+          "castro-theatre"
+        ],
+        "sources": [
+          "https://apeconcerts.com/events/julia-jacklin-261023/"
+        ],
+        "tickets": [
+          "https://www.ticketmaster.com/julia-jacklin-north-america-tour-2026-san-francisco-california-10-23-2026/event/1C0064BBBEB4B673"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=The%20Castro%2C%20San%20Francisco",
           "apple": "https://maps.apple.com/?q=The%20Castro%2C%20San%20Francisco"
@@ -3401,11 +3411,19 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://party-scout.app/img/gen/julia-jacklin-0e9b.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
-        "active": true
+        "enriched": 1,
+        "active": true,
+        "lineup": [
+          {
+            "name": "Julia Jacklin"
+          },
+          {
+            "name": "Jordan Patterson"
+          }
+        ]
       },
       {
         "id": "2026-10-19-music-julia-wolf-3c7ebc",
