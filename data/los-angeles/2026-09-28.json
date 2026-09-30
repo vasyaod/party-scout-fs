@@ -4185,21 +4185,30 @@
         "name": "Black Folk RoadRunners Group Ride",
         "day": "Sat",
         "date": "2026-10-03",
-        "time": "",
-        "start": null,
-        "end": null,
-        "area": "LA",
+        "time": "8:00 AM - 12:00 PM",
+        "start": "08:00",
+        "end": "12:00",
+        "area": "Leimert Park",
         "venue": "Leimert Plaza Park",
-        "address": "",
-        "why": "",
-        "summary": "",
-        "promoter": "",
-        "price": "",
-        "tags": [],
-        "sources": [
-          "https://www.meetup.com"
+        "address": "4395 S Leimert Blvd, Los Angeles, CA",
+        "why": "A free, welcoming monthly group ride for Black cyclists and allies exploring LA by bike, with routes for all skill levels.",
+        "summary": "Black Folk™ RoadRunners hosts its monthly group bike ride from Leimert Plaza Park, with routes ranging from leisurely social rides to high-intensity adventures.",
+        "promoter": "Black Folk™ RoadRunners",
+        "price": "Free (registration required)",
+        "tags": [
+          "cycling",
+          "group ride",
+          "free",
+          "community",
+          "outdoors"
         ],
-        "tickets": [],
+        "sources": [
+          "https://www.meetup.com",
+          "https://blackfolk.net/ride"
+        ],
+        "tickets": [
+          "https://blackfolk.net/ride"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Leimert%20Plaza%20Park%2C%20LA",
           "apple": "https://maps.apple.com/?q=Leimert%20Plaza%20Park%2C%20LA"
@@ -4210,7 +4219,7 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
