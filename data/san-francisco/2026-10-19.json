@@ -2250,16 +2250,25 @@
         "time": "8:00PM",
         "start": "20:00",
         "end": null,
-        "area": "San Francisco",
+        "area": "Tenderloin",
         "venue": "August Hall",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "420 Mason St, San Francisco, CA 94102",
+        "why": "A chance to catch a chart-topping indie-pop songwriter in an intimate downtown club venue.",
+        "summary": "gnash (the \"i hate u, i love u\" singer-songwriter) plays a live show at August Hall in San Francisco.",
         "promoter": "",
-        "price": "",
-        "tags": [],
-        "sources": [],
-        "tickets": [],
+        "price": "From $32",
+        "tags": [
+          "live music",
+          "pop",
+          "concert"
+        ],
+        "sources": [
+          "https://www.jambase.com/show/gnash-august-hall-20261022",
+          "https://www.bandsintown.com/e/1038112328-gnash-at-august-hall"
+        ],
+        "tickets": [
+          "https://www.ticketmaster.com/gnash-tickets/artist/2191520"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=August%20Hall%2C%20San%20Francisco",
           "apple": "https://maps.apple.com/?q=August%20Hall%2C%20San%20Francisco"
@@ -2270,7 +2279,7 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
