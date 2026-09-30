@@ -8023,23 +8023,33 @@
         "id": "2026-10-05-music-mon-rovia-c6dfb5",
         "eid": "mon-rovia-f651",
         "track": "music",
-        "category": "",
+        "category": "concert",
         "name": "Mon Rovîa",
         "day": "Thu",
         "date": "2026-10-08",
-        "time": "",
-        "start": null,
+        "time": "Doors 7pm, show 8pm",
+        "start": "20:00",
         "end": null,
-        "area": "",
-        "venue": "The Castro",
-        "address": "",
-        "why": "",
-        "summary": "",
-        "promoter": "",
-        "price": "",
-        "tags": [],
-        "sources": [],
-        "tickets": [],
+        "area": "Castro",
+        "venue": "The Castro Theatre",
+        "address": "429 Castro St, San Francisco, CA 94114",
+        "why": "Liberian-American folk-soul songwriter in the newly reopened Castro Theatre — a sold-out room, so check resale.",
+        "summary": "Mon Rovîa brings his Bloodline Tour to the Castro Theatre with Sydney Rose and Sarah Julia supporting.",
+        "promoter": "Another Planet Entertainment",
+        "price": "Sold out",
+        "tags": [
+          "live-music",
+          "folk",
+          "singer-songwriter",
+          "castro-theatre"
+        ],
+        "sources": [
+          "https://thecastro.com/events/mon-rovia-261008",
+          "https://www.axs.com/events/1444537/mon-rovia-tickets"
+        ],
+        "tickets": [
+          "https://www.ticketmaster.com/mon-rovia-san-francisco-california-10-08-2026/event/1C00649BC6961B85"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=The%20Castro",
           "apple": "https://maps.apple.com/?q=The%20Castro"
@@ -8047,11 +8057,22 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://party-scout.app/img/gen/mon-rovia-f651.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
-        "active": true
+        "enriched": 1,
+        "active": true,
+        "lineup": [
+          {
+            "name": "Mon Rovîa"
+          },
+          {
+            "name": "Sydney Rose"
+          },
+          {
+            "name": "Sarah Julia"
+          }
+        ]
       },
       {
         "id": "2026-10-05-music-mumford-sons-928bc9",
