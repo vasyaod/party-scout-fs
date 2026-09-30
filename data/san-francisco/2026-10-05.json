@@ -8463,23 +8463,33 @@
         "id": "2026-10-05-music-az-dz-3aedb2",
         "eid": "az-dz-8e13",
         "track": "music",
-        "category": "",
+        "category": "Music",
         "name": "Az/Dz",
         "day": "Fri",
         "date": "2026-10-09",
-        "time": "",
-        "start": null,
+        "time": "8:00 PM",
+        "start": "20:00",
         "end": null,
-        "area": "",
+        "area": "Petaluma",
         "venue": "Mystic Theatre",
-        "address": "",
-        "why": "",
-        "summary": "",
-        "promoter": "",
-        "price": "",
-        "tags": [],
-        "sources": [],
-        "tickets": [],
+        "address": "23 Petaluma Blvd N, Petaluma, CA 94952",
+        "why": "Full-volume AC/DC hits from a packed-house tribute band, plus a Black Sabbath/Ozzy opener, in a historic 1911 music hall.",
+        "summary": "AZ/DZ, the Bay Area AC/DC tribute, headline An Evening with The Monsters of Rock at Petaluma's Mystic Theatre, with Sabbath Lives (Ozzy Osbourne & Black Sabbath tribute). Doors 7 PM, show 8 PM, 21+.",
+        "promoter": "Mystic Theatre",
+        "price": "$25",
+        "tags": [
+          "rock",
+          "tribute",
+          "AC/DC",
+          "21+",
+          "Petaluma"
+        ],
+        "sources": [
+          "https://mystictheatre.com/calendar/"
+        ],
+        "tickets": [
+          "https://wl.seetickets.us/event/azdz/703002?afflky=MysticTheatre2"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Mystic%20Theatre",
           "apple": "https://maps.apple.com/?q=Mystic%20Theatre"
@@ -8487,11 +8497,19 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://party-scout.app/img/gen/az-dz-8e13.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
-        "active": true
+        "enriched": 1,
+        "active": true,
+        "lineup": [
+          {
+            "name": "AZ/DZ"
+          },
+          {
+            "name": "Sabbath Lives"
+          }
+        ]
       },
       {
         "id": "2026-10-05-music-bonnie-raitt-ced1f1",
