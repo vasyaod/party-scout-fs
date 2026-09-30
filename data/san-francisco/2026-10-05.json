@@ -7320,23 +7320,39 @@
         "id": "2026-10-05-music-the-neighbourhood-bfee64",
         "eid": "the-neighbourhood-b808",
         "track": "music",
-        "category": "",
+        "category": "concert",
         "name": "The Neighbourhood",
         "day": "Wed",
         "date": "2026-10-07",
-        "time": "",
+        "time": "7:00 PM",
         "start": null,
         "end": null,
-        "area": "",
+        "area": "Civic Center",
         "venue": "Bill Graham Civic Auditorium",
-        "address": "",
-        "why": "",
-        "summary": "",
-        "promoter": "",
-        "price": "",
-        "tags": [],
-        "sources": [],
-        "tickets": [],
+        "address": "99 Grove St, San Francisco, CA 94102",
+        "why": "Moody alt-pop headliner on a sold-out night in a historic downtown hall.",
+        "summary": "The Neighbourhood bring The Wourld Tour to Bill Graham Civic Auditorium, with support from After and Noise Dept. Doors 6 PM, all ages.",
+        "promoter": "Another Planet Entertainment / Live 105",
+        "price": "Sold out",
+        "tags": [
+          "live-music",
+          "indie",
+          "alt-pop",
+          "all-ages",
+          "sold-out"
+        ],
+        "sources": [
+          {
+            "label": "Another Planet Entertainment",
+            "url": "https://apeconcerts.com/events/the-neighbourhood-261007/"
+          }
+        ],
+        "tickets": [
+          {
+            "label": "Ticketmaster",
+            "url": "https://www.ticketmaster.com/the-neighbourhood-the-wourld-tour-san-francisco-california-10-07-2026/event/1C00635ECA50AA36"
+          }
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Bill%20Graham%20Civic%20Auditorium",
           "apple": "https://maps.apple.com/?q=Bill%20Graham%20Civic%20Auditorium"
@@ -7344,11 +7360,22 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://party-scout.app/img/gen/the-neighbourhood-b808.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
-        "active": true
+        "enriched": 1,
+        "active": true,
+        "lineup": [
+          {
+            "name": "The Neighbourhood"
+          },
+          {
+            "name": "After"
+          },
+          {
+            "name": "Noise Dept."
+          }
+        ]
       },
       {
         "id": "2026-10-05-music-rod-wave-don-t-look-down-tour-c87010",
