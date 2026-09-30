@@ -6139,23 +6139,32 @@
         "id": "2026-10-05-music-cavetown-e8f216",
         "eid": "cavetown-95d7",
         "track": "music",
-        "category": "",
+        "category": "concert",
         "name": "Cavetown",
         "day": "Tue",
         "date": "2026-10-06",
-        "time": "",
+        "time": "8:00 PM",
         "start": null,
         "end": null,
-        "area": "",
+        "area": "Oakland",
         "venue": "Fox Theater",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "1807 Telegraph Ave, Oakland, CA 94612",
+        "why": "Bedroom-pop favorite Cavetown on a headline tour stop, with Chloe Moriondo opening, in a historic Oakland theater.",
+        "summary": "Robin Skinner of Cavetown brings the Running With Scissors tour to the Fox Theater in Oakland, with support from Chloe Moriondo. All ages; doors 7 PM.",
         "promoter": "",
         "price": "",
-        "tags": [],
-        "sources": [],
-        "tickets": [],
+        "tags": [
+          "indie-pop",
+          "bedroom-pop",
+          "live-music",
+          "all-ages"
+        ],
+        "sources": [
+          "https://thefoxoakland.com/events/cavetown-261006"
+        ],
+        "tickets": [
+          "https://www.ticketmaster.com/cavetown-running-with-scissors-tour-oakland-california-10-06-2026/event/1C006488BCD0F8D6"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Fox%20Theater",
           "apple": "https://maps.apple.com/?q=Fox%20Theater"
@@ -6163,11 +6172,21 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://party-scout.app/img/gen/cavetown-95d7.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
-        "active": true
+        "enriched": 1,
+        "active": true,
+        "lineup": [
+          {
+            "name": "Cavetown",
+            "instagram": null
+          },
+          {
+            "name": "Chloe Moriondo",
+            "instagram": null
+          }
+        ]
       },
       {
         "id": "2026-10-05-music-civic-center-soundtrack-free-c-691887",
