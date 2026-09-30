@@ -4289,19 +4289,28 @@
         "name": "Dummy",
         "day": "Wed",
         "date": "2026-10-14",
-        "time": "",
+        "time": "7:30 PM (doors 7:00 PM)",
         "start": null,
         "end": null,
-        "area": "",
+        "area": "Mission",
         "venue": "The Chapel",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "777 Valencia St, San Francisco, CA",
+        "why": "Catch the LA art-pop band live in an intimate Mission venue, with three openers on the bill.",
+        "summary": "Dummy plays The Chapel in the Mission on their American tour, with support from Golomb, figure eight, and sachi's mirror.",
         "promoter": "",
-        "price": "",
-        "tags": [],
-        "sources": [],
-        "tickets": [],
+        "price": "$20",
+        "tags": [
+          "live-music",
+          "indie",
+          "art-pop"
+        ],
+        "sources": [
+          "https://thechapelsf.com/calendar/",
+          "https://myrockshows.com/event/1158838-dummy-the-chapel/"
+        ],
+        "tickets": [
+          "https://wl.eventim.us/event/dummy/700215?afflky=TheChapel"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=The%20Chapel",
           "apple": "https://maps.apple.com/?q=The%20Chapel"
@@ -4309,11 +4318,25 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://party-scout.app/img/gen/dummy-f64f.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
-        "active": true
+        "enriched": 1,
+        "active": true,
+        "lineup": [
+          {
+            "name": "Dummy"
+          },
+          {
+            "name": "Golomb"
+          },
+          {
+            "name": "figure eight"
+          },
+          {
+            "name": "sachi's mirror"
+          }
+        ]
       },
       {
         "id": "2026-10-12-music-ee-punxsutawney-spa-9d4ea8",

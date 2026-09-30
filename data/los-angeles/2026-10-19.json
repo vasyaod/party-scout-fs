@@ -243,22 +243,30 @@
         "id": "2026-10-19-music-the-vigils-2396d5",
         "eid": "the-vigils-6e7f",
         "track": "music",
-        "category": "",
+        "category": "live music",
         "name": "The Vigils",
         "day": "Wed",
         "date": "2026-10-21",
-        "time": "",
+        "time": "8pm doors",
         "start": null,
         "end": null,
-        "area": "",
-        "venue": "The Redwood Bar And Grill (Los Angeles)",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "area": "DTLA",
+        "venue": "The Redwood Bar & Grill",
+        "address": "316 W 2nd St, Los Angeles, CA",
+        "why": "Retro-flavored rock: 50s rock and roll spirit, 70s punk energy and 80s new-romantic melodies, in a downtown dive.",
+        "summary": "LA rock band The Vigils play the Redwood Bar & Grill with The Rainman Suite; doors 8pm, $10 cover.",
         "promoter": "",
-        "price": "",
-        "tags": [],
-        "sources": [],
+        "price": "$10",
+        "tags": [
+          "live music",
+          "rock",
+          "punk",
+          "dive bar"
+        ],
+        "sources": [
+          "https://thevigils.bandcamp.com/music",
+          "https://dolosangeles.com/venues/the-redwood-bar-grill"
+        ],
         "tickets": [],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=The%20Redwood%20Bar%20And%20Grill%20%28Los%20Angeles%29",
@@ -267,11 +275,19 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://party-scout.app/img/gen/the-vigils-6e7f.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
-        "active": true
+        "enriched": 1,
+        "active": true,
+        "lineup": [
+          {
+            "name": "The Vigils"
+          },
+          {
+            "name": "The Rainman Suite"
+          }
+        ]
       },
       {
         "id": "2026-10-19-music-dave-summer-ecc2e5",
