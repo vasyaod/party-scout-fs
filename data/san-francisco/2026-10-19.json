@@ -3685,18 +3685,28 @@
         "name": "“Lower Polk Live!” Free Street Festival w/ Art, DJs, Live Music (SF)",
         "day": "Fri",
         "date": "2026-10-23",
-        "time": "4:00 pm",
+        "time": "4:00 pm - 9:00 pm",
         "start": "16:00",
-        "end": null,
-        "area": "San Francisco",
-        "venue": "",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "end": "21:00",
+        "area": "Lower Polk",
+        "venue": "Polk Street (Bush to Sutter)",
+        "address": "Polk St between Bush St & Sutter St, San Francisco, CA",
+        "why": "A free Friday-evening block party in Lower Polk mixing live music, DJs, art and line dancing — no ticket needed.",
+        "summary": "2nd annual free outdoor street festival on Polk Street with live music from The Top Chefs, DJ JP Breganza, Skratchfight turntable sessions, local artists and makers, and soul line dancing with Westside Steppaz. Family- and pet-friendly.",
         "promoter": "",
-        "price": "",
-        "tags": [],
-        "sources": [],
+        "price": "Free (RSVP encouraged)",
+        "tags": [
+          "free",
+          "street-festival",
+          "live-music",
+          "djs",
+          "art",
+          "family-friendly"
+        ],
+        "sources": [
+          "https://sf.funcheap.com/polk-live-free-street-festival-art-djs-live-music-sf/",
+          "https://sf.funcheap.com/polk-live-2026-free-music-art-street-festival-sf/"
+        ],
         "tickets": [],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=San%20Francisco",
@@ -3705,11 +3715,25 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://party-scout.app/img/gen/lower-polk-live-free-str-57ee.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
-        "active": true
+        "enriched": 1,
+        "active": true,
+        "lineup": [
+          {
+            "name": "The Top Chefs"
+          },
+          {
+            "name": "DJ JP Breganza"
+          },
+          {
+            "name": "Skratchfight"
+          },
+          {
+            "name": "Westside Steppaz"
+          }
+        ]
       },
       {
         "id": "2026-10-19-music-marie-garcia-ruka-70f32d",
