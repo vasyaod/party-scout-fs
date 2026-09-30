@@ -5309,23 +5309,34 @@
         "id": "2026-10-12-music-rush-fifty-something-07c0f6",
         "eid": "rush-fifty-something-a03e",
         "track": "music",
-        "category": "",
+        "category": "Rock",
         "name": "RUSH: Fifty Something",
         "day": "Thu",
         "date": "2026-10-15",
-        "time": "",
-        "start": null,
+        "time": "7:30pm",
+        "start": "19:30",
         "end": null,
-        "area": "",
-        "venue": "SAP Center",
-        "address": "",
-        "why": "",
-        "summary": "",
-        "promoter": "",
+        "area": "San Jose",
+        "venue": "SAP Center at San Jose",
+        "address": "525 W Santa Clara St, San Jose, CA 95113",
+        "why": "A rare chance to see Rush reunited, and the first tour since Neil Peart's passing.",
+        "summary": "Rush's first tour in over a decade: Geddy Lee and Alex Lifeson with drummer Anika Nilles on the Fifty Something reunion tour, added by demand for a second Bay Area night at SAP Center.",
+        "promoter": "Live Nation",
         "price": "",
-        "tags": [],
-        "sources": [],
-        "tickets": [],
+        "tags": [
+          "rock",
+          "prog-rock",
+          "concert",
+          "all-ages"
+        ],
+        "sources": [
+          "https://www.livenation.com/event/G5vYZbVTOJiVS/rush-fifty-something",
+          "https://www.rush.com/show/fifty-something-2026-10-15/",
+          "https://www.rushisaband.com/rush/tour/2026-Fifty-Something-Tour/335/2026/10/15/SAP-Center-at-San-Jose-San-Jose-CA"
+        ],
+        "tickets": [
+          "https://www.livenation.com/event/G5vYZbVTOJiVS/rush-fifty-something"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=SAP%20Center",
           "apple": "https://maps.apple.com/?q=SAP%20Center"
@@ -5333,11 +5344,16 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://party-scout.app/img/gen/rush-fifty-something-a03e.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
-        "active": true
+        "enriched": 1,
+        "active": true,
+        "lineup": [
+          {
+            "name": "Rush"
+          }
+        ]
       },
       {
         "id": "2026-10-12-music-sf-s-free-concerts-food-trucks-27d2db",
