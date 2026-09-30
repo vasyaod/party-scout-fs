@@ -6921,23 +6921,33 @@
         "id": "2026-10-12-music-dinosaur-jr-79e2ec",
         "eid": "dinosaur-jr-9f51",
         "track": "music",
-        "category": "",
+        "category": "concert",
         "name": "Dinosaur Jr.",
         "day": "Sun",
         "date": "2026-10-18",
-        "time": "",
-        "start": null,
+        "time": "7:00 PM",
+        "start": "19:00",
         "end": null,
-        "area": "",
-        "venue": "The Castro",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "area": "Castro",
+        "venue": "Castro Theatre",
+        "address": "429 Castro St, San Francisco, CA 94114",
+        "why": "J Mascis, Lou Barlow and Murph's wall-of-fuzz guitars in a historic single-screen movie palace on a Sunday night.",
+        "summary": "Alt-rock legends Dinosaur Jr. play the Castro Theatre on their Fall 2026 tour, with Stef Chura opening.",
         "promoter": "",
-        "price": "",
-        "tags": [],
-        "sources": [],
-        "tickets": [],
+        "price": "$60–$132",
+        "tags": [
+          "live-music",
+          "indie-rock",
+          "alt-rock",
+          "castro-theatre"
+        ],
+        "sources": [
+          "https://www.jambase.com/show/dinosaur-jr-castro-theatre-20261018",
+          "https://app.songkick.com/concerts/43299172-dinosaur-jr-at-castro-theatre"
+        ],
+        "tickets": [
+          "https://www.ticketmaster.com/dinosaur-jr-fall-tour-2026-with-san-francisco-california-10-18-2026/event/1C0064DAEB6D2C42"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=The%20Castro",
           "apple": "https://maps.apple.com/?q=The%20Castro"
@@ -6945,11 +6955,19 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://party-scout.app/img/gen/dinosaur-jr-9f51.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
-        "active": true
+        "enriched": 1,
+        "active": true,
+        "lineup": [
+          {
+            "name": "Dinosaur Jr."
+          },
+          {
+            "name": "Stef Chura"
+          }
+        ]
       },
       {
         "id": "2026-10-12-music-dossey-jesse-detor-mommy-mommy-b79dbf",
