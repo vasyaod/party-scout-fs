@@ -15360,18 +15360,24 @@
         "name": "Bolo's Block After Hours",
         "day": "Sat",
         "date": "2026-10-03",
-        "time": "",
-        "start": null,
-        "end": null,
+        "time": "9pm-2am",
+        "start": "21:00",
+        "end": "02:00",
         "area": "SF",
-        "venue": "The Midway Ride",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "venue": "The Midway",
+        "address": "900 Marin St, San Francisco, CA 94124",
+        "why": "The after-dark continuation of Bolo's SF block party takeover, at The Midway instead of the daytime rooftop spot.",
+        "summary": "The late-night afterparty edition of Bolo's Block, following the DJ's daytime rooftop block party at SVN West, moving the same city-wide carne-asada-cookout energy into The Midway for a 21+ night session.",
         "promoter": "",
-        "price": "$35+",
-        "tags": [],
-        "sources": [],
+        "price": "$15+",
+        "tags": [
+          "afters",
+          "latin",
+          "21-plus"
+        ],
+        "sources": [
+          "https://www.tixr.com/groups/midwaysf"
+        ],
         "tickets": [],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=The%20Midway%20Ride%2C%20SF",
@@ -15383,7 +15389,7 @@
         "image": "https://party-scout.app/img/gen/bolo-s-block-after-hours-b5de.jpg",
         "image_generated": true,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
