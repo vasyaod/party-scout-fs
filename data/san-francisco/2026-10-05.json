@@ -6507,23 +6507,32 @@
         "id": "2026-10-05-music-the-menzingers-69d39f",
         "eid": "the-menzingers-5227",
         "track": "music",
-        "category": "",
+        "category": "concert",
         "name": "The Menzingers",
         "day": "Tue",
         "date": "2026-10-06",
-        "time": "",
+        "time": "7:00 PM",
         "start": null,
         "end": null,
-        "area": "",
+        "area": "Tenderloin",
         "venue": "Great American Music Hall",
-        "address": "",
-        "why": "",
-        "summary": "",
-        "promoter": "",
-        "price": "",
-        "tags": [],
-        "sources": [],
-        "tickets": [],
+        "address": "859 O'Farrell St, San Francisco, CA 94109",
+        "why": "Beloved melodic punk with sing-along anthems, plus Hot Water Music in support, in one of SF's best old-school rooms.",
+        "summary": "Philly punk band The Menzingers play their Everything I Ever Saw tour at Great American Music Hall, with Hot Water Music and Weakened Friends. Doors 6 PM, show 7 PM.",
+        "promoter": "KALX & GAMH",
+        "price": "$40–$45",
+        "tags": [
+          "punk",
+          "live-music",
+          "indie"
+        ],
+        "sources": [
+          "https://gamh.com/calendar/",
+          "https://dothebay.com/events/2026/10/6/the-menzingers-everything-i-ever-saw-north-american-tour-tickets"
+        ],
+        "tickets": [
+          "https://wl.seetickets.us/event/the-menzingers-everything-i-ever-saw-north-american-tour/688932?afflky=GreatAmericanMusicHall"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Great%20American%20Music%20Hall",
           "apple": "https://maps.apple.com/?q=Great%20American%20Music%20Hall"
@@ -6531,11 +6540,22 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://party-scout.app/img/gen/the-menzingers-5227.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
-        "active": true
+        "enriched": 1,
+        "active": true,
+        "lineup": [
+          {
+            "name": "The Menzingers"
+          },
+          {
+            "name": "Hot Water Music"
+          },
+          {
+            "name": "Weakened Friends"
+          }
+        ]
       },
       {
         "id": "2026-10-05-music-my-morning-jacket-66ef27",
