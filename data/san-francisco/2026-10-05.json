@@ -8153,23 +8153,32 @@
         "id": "2026-10-05-music-the-rasmus-557aa7",
         "eid": "the-rasmus-6464",
         "track": "music",
-        "category": "",
+        "category": "concert",
         "name": "The Rasmus",
         "day": "Thu",
         "date": "2026-10-08",
-        "time": "",
+        "time": "7:30 PM",
         "start": null,
         "end": null,
-        "area": "",
+        "area": "Union Square",
         "venue": "August Hall",
-        "address": "",
-        "why": "",
-        "summary": "",
-        "promoter": "",
+        "address": "420 Mason Street, San Francisco, CA 94102",
+        "why": "Rare Bay Area stop for the Finnish rockers behind 'In the Shadows', in an intimate hall.",
+        "summary": "Finnish rock band The Rasmus play August Hall with Saint Agnes and Death Valley. Doors 6:30 PM, show 7:30 PM, all ages.",
+        "promoter": "Live Nation",
         "price": "",
-        "tags": [],
-        "sources": [],
-        "tickets": [],
+        "tags": [
+          "rock",
+          "live-music",
+          "all-ages"
+        ],
+        "sources": [
+          "https://www.augusthallsf.com/tm-event/the-rasmus/",
+          "https://www.livenation.com/event/G5vYZ_CCQ3aqo/the-rasmus"
+        ],
+        "tickets": [
+          "https://www.ticketmaster.com/the-rasmus-san-francisco-california-10-08-2026/event/1C0064E39A489751"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=August%20Hall",
           "apple": "https://maps.apple.com/?q=August%20Hall"
@@ -8177,11 +8186,25 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://party-scout.app/img/gen/the-rasmus-6464.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
-        "active": true
+        "enriched": 1,
+        "active": true,
+        "lineup": [
+          {
+            "name": "The Rasmus",
+            "instagram": null
+          },
+          {
+            "name": "Saint Agnes",
+            "instagram": null
+          },
+          {
+            "name": "Death Valley",
+            "instagram": null
+          }
+        ]
       },
       {
         "id": "2026-10-05-music-sf-s-final-free-valencia-live-237e5e",
