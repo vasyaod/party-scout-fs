@@ -5,7 +5,7 @@
   "location": "San Francisco & Bay Area",
   "city": "san-francisco",
   "city_label": "San Francisco",
-  "generated_at": "2026-09-29",
+  "generated_at": "2026-09-30",
   "tracks": {
     "music": [
       {
@@ -1140,23 +1140,38 @@
         "id": "2026-10-19-music-shakey-graves-006355",
         "eid": "shakey-graves-67bb",
         "track": "music",
-        "category": "",
+        "category": "Concert",
         "name": "Shakey Graves",
         "day": "Tue",
         "date": "2026-10-20",
         "time": "7:00PM",
         "start": "19:00",
         "end": null,
-        "area": "San Francisco",
-        "venue": "The Castro",
-        "address": "",
-        "why": "",
-        "summary": "",
-        "promoter": "",
-        "price": "",
-        "tags": [],
-        "sources": [],
-        "tickets": [],
+        "area": "Castro",
+        "venue": "The Castro Theatre",
+        "address": "429 Castro St, San Francisco, CA 94114",
+        "why": "Intimate Americana/folk-rock night from a singular Austin songwriter in one of SF's most beautiful historic theaters; tickets nearly gone.",
+        "summary": "Shakey Graves (Alejandro Rose-Garcia) brings his Fondness, Etc. Tour to the Castro Theatre with Wild Pink supporting. Doors 7pm, show 8pm, all ages.",
+        "promoter": "Another Planet Entertainment",
+        "price": "Ticketed (see Ticketmaster)",
+        "tags": [
+          "concert",
+          "folk",
+          "americana",
+          "all-ages"
+        ],
+        "sources": [
+          {
+            "label": "Another Planet Entertainment",
+            "url": "https://apeconcerts.com/events/shakey-graves-261020/"
+          }
+        ],
+        "tickets": [
+          {
+            "label": "Ticketmaster",
+            "url": "https://www.ticketmaster.com/shakey-graves-fondness-etc-tour-san-francisco-california-10-20-2026/event/1C0064A6A0C52E03"
+          }
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=The%20Castro%2C%20San%20Francisco",
           "apple": "https://maps.apple.com/?q=The%20Castro%2C%20San%20Francisco"
@@ -1164,11 +1179,19 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://party-scout.app/img/gen/shakey-graves-67bb.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
-        "active": true
+        "enriched": 1,
+        "active": true,
+        "lineup": [
+          {
+            "name": "Shakey Graves"
+          },
+          {
+            "name": "Wild Pink"
+          }
+        ]
       },
       {
         "id": "2026-10-19-music-techno-tuesdays-dj-jehnee-96ae3b",

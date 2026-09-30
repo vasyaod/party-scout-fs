@@ -5,7 +5,7 @@
   "location": "San Francisco & Bay Area",
   "city": "san-francisco",
   "city_label": "San Francisco",
-  "generated_at": "2026-09-29",
+  "generated_at": "2026-09-30",
   "tracks": {
     "music": [
       {
@@ -3911,19 +3911,27 @@
         "name": "Militarie Gun",
         "day": "Tue",
         "date": "2026-10-13",
-        "time": "",
+        "time": "7:00 PM",
         "start": null,
         "end": null,
-        "area": "",
+        "area": "Mission",
         "venue": "The Chapel",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "777 Valencia St, San Francisco, CA 94110",
+        "why": "Catchy, hard-hitting punk from a band on the rise, in an intimate 500-cap room at an affordable $20.",
+        "summary": "Militarie Gun, the LA hardcore-tinged punk band, plays The Chapel in the Mission with Softcult, Shady Nasty and Dazy. All ages, standing room.",
         "promoter": "",
-        "price": "",
-        "tags": [],
-        "sources": [],
-        "tickets": [],
+        "price": "$20",
+        "tags": [
+          "punk",
+          "live-music",
+          "all-ages"
+        ],
+        "sources": [
+          "https://www.bandsintown.com/e/108495316-militarie-gun-at-the-chapel"
+        ],
+        "tickets": [
+          "https://www.eventim.us/event/militarie-gun/693468"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=The%20Chapel",
           "apple": "https://maps.apple.com/?q=The%20Chapel"
@@ -3934,8 +3942,22 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
-        "active": true
+        "enriched": 1,
+        "active": true,
+        "lineup": [
+          {
+            "name": "Militarie Gun"
+          },
+          {
+            "name": "Softcult"
+          },
+          {
+            "name": "Shady Nasty"
+          },
+          {
+            "name": "Dazy"
+          }
+        ]
       },
       {
         "id": "2026-10-12-music-provoker-3ce142",
