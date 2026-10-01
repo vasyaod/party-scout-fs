@@ -1,6 +1,6 @@
 {
   "kind": "stats",
-  "generated_at": "2026-10-01T03:09:05+00:00",
+  "generated_at": "2026-10-01T03:10:41+00:00",
   "weights_version": "v1",
   "total": {
     "n": 3765,
@@ -17,14 +17,14 @@
       "price": 1003,
       "category": 879,
       "time": 751,
-      "why": 673,
+      "why": 672,
       "sources": 607,
       "address": 603,
-      "summary": 590,
-      "tags": 569,
+      "summary": 589,
+      "tags": 568,
       "maps": 118,
       "venue": 107,
-      "area": 6
+      "area": 5
     },
     "weights_version": "v1",
     "cities": 2,
@@ -2060,14 +2060,14 @@
           "price": 632,
           "category": 559,
           "time": 445,
-          "why": 402,
+          "why": 401,
           "address": 363,
-          "summary": 351,
-          "tags": 330,
+          "summary": 350,
+          "tags": 329,
           "sources": 320,
           "maps": 100,
           "venue": 80,
-          "area": 6
+          "area": 5
         },
         "weights_version": "v1"
       },
@@ -2195,14 +2195,14 @@
               "tickets": 99,
               "category": 95,
               "price": 86,
-              "why": 48,
-              "summary": 48,
-              "tags": 48,
               "address": 47,
+              "why": 47,
+              "summary": 47,
+              "tags": 47,
               "time": 43,
               "sources": 41,
               "maps": 17,
-              "area": 6,
+              "area": 5,
               "venue": 3
             },
             "weights_version": "v1"
@@ -2269,7 +2269,7 @@
               "day": "Sat",
               "n": 55,
               "median": 0.6154,
-              "p25": 0.3731,
+              "p25": 0.3923,
               "pct_ge_075": 0.4364,
               "invalid": 2,
               "tba_rate": 0.0182,
