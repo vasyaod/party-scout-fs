@@ -5180,21 +5180,25 @@
         "day": "Thu",
         "date": "2026-10-01",
         "time": "19:30",
-        "start": null,
-        "end": null,
+        "start": "19:30",
+        "end": "01:30",
         "area": "DTLA",
         "venue": "The Redwood Bar And Grill",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "316 W. 2nd Street, Los Angeles, CA  90012",
+        "why": "To check out a one-night DTLA event and explore local nightlife.",
+        "summary": "All Star Free For All is scheduled for October 1, 2026 at 316 W. 2nd Street in DTLA; time, price, and lineup are not listed.",
         "promoter": "",
         "price": "Free",
         "tags": [
           "free",
           "21+"
         ],
-        "sources": [],
-        "tickets": [],
+        "sources": [
+          "https://ra.co/events/2508950"
+        ],
+        "tickets": [
+          "https://ra.co/events/2508950"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=The%20Redwood%20Bar%20And%20Grill",
           "apple": "https://maps.apple.com/?q=The%20Redwood%20Bar%20And%20Grill"
@@ -5205,7 +5209,7 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 1,
+        "enriched": 2,
         "active": true
       },
       {
