@@ -7474,15 +7474,23 @@
         "time": "11:00 am",
         "start": "11:00",
         "end": null,
-        "area": "San Francisco",
-        "venue": "",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "area": "Oakland",
+        "venue": "Snow Park",
+        "address": "Harrison St & Lakeside Dr, Oakland, CA",
+        "why": "A costumed-friendly, Halloween-season bike game around Oakland for a good cause.",
+        "summary": "Annual Oakland bike scavenger hunt and Scaredy Cat race starting at Snow Park: riders get a list of clues, ride around town solving puzzles and wild challenges. Proceeds have gone to Oakland's Original Scraper Bike Team.",
         "promoter": "",
         "price": "",
-        "tags": [],
-        "sources": [],
+        "tags": [
+          "bike",
+          "scavenger-hunt",
+          "outdoors",
+          "oakland",
+          "charity"
+        ],
+        "sources": [
+          "https://sf.funcheap.com/oakland-bicycle-scavenger-hunt-scaredy-cat-race-snow-park/"
+        ],
         "tickets": [],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=San%20Francisco",
@@ -7494,7 +7502,7 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
