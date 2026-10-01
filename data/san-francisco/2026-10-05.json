@@ -9069,23 +9069,32 @@
         "id": "2026-10-05-music-slightly-stoopid-4fbbfc",
         "eid": "slightly-stoopid-25f7",
         "track": "music",
-        "category": "",
+        "category": "concert",
         "name": "Slightly Stoopid",
         "day": "Fri",
         "date": "2026-10-09",
-        "time": "",
+        "time": "4:00 PM",
         "start": null,
         "end": null,
-        "area": "",
+        "area": "Stanford",
         "venue": "Frost Amphitheater",
-        "address": "",
-        "why": "",
-        "summary": "",
-        "promoter": "",
+        "address": "Stanford University, Stanford, CA",
+        "why": "San Diego's rock-reggae-punk-funk crew in an outdoor Stanford amphitheater on a Friday afternoon.",
+        "summary": "Slightly Stoopid's Cali Road Trippin 2026 tour stops at Frost Amphitheater with The Elovaters, The Hip Abduction and Denm. Gates open 4 PM, parking from 3 PM; general admission.",
+        "promoter": "GoldenVoice & Stanford Live",
         "price": "",
-        "tags": [],
-        "sources": [],
-        "tickets": [],
+        "tags": [
+          "live-music",
+          "reggae",
+          "outdoor",
+          "concert"
+        ],
+        "sources": [
+          "https://live.stanford.edu/events/26-frost/slightly-stoopid/"
+        ],
+        "tickets": [
+          "https://www.axs.com/events/1465072/slightly-stoopid-tickets"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Frost%20Amphitheater",
           "apple": "https://maps.apple.com/?q=Frost%20Amphitheater"
@@ -9093,11 +9102,25 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://party-scout.app/img/gen/slightly-stoopid-25f7.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
-        "active": true
+        "enriched": 1,
+        "active": true,
+        "lineup": [
+          {
+            "name": "Slightly Stoopid"
+          },
+          {
+            "name": "The Elovaters"
+          },
+          {
+            "name": "The Hip Abduction"
+          },
+          {
+            "name": "Denm"
+          }
+        ]
       },
       {
         "id": "2026-10-05-music-140-ukg-dnb-joker-plastician-j-9c14f2",
