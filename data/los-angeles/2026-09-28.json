@@ -5656,14 +5656,17 @@
         "time": "21:00",
         "start": null,
         "end": null,
-        "area": "",
+        "area": "Los Angeles",
         "venue": "Palomino",
         "address": "",
         "why": "",
-        "summary": "",
+        "summary": "Marco Weibel plays a free Friday-night set at Palomino.",
         "promoter": "",
         "price": "0",
-        "tags": [],
+        "tags": [
+          "free",
+          "club"
+        ],
         "sources": [],
         "tickets": [],
         "maps": {
@@ -5676,7 +5679,7 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true,
         "lineup": [
           {
