@@ -9844,23 +9844,33 @@
         "id": "2026-10-05-music-chayanne-c129b4",
         "eid": "chayanne-de36",
         "track": "music",
-        "category": "",
+        "category": "concert",
         "name": "Chayanne",
         "day": "Sun",
         "date": "2026-10-11",
-        "time": "",
-        "start": null,
+        "time": "7pm",
+        "start": "19:00",
         "end": null,
-        "area": "",
+        "area": "Mission Bay",
         "venue": "Chase Center",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "1 Warriors Way, San Francisco, CA 94158",
+        "why": "Latin pop superstar with choreographed, high-energy hits like Torero, Provocame and Salome in a big arena show.",
+        "summary": "Puerto Rican pop icon Chayanne brings his Bailemos Otra Vez Tour to Chase Center for a roughly two-hour career-spanning set, with doors at 6pm.",
         "promoter": "",
         "price": "",
-        "tags": [],
-        "sources": [],
-        "tickets": [],
+        "tags": [
+          "concert",
+          "latin",
+          "pop",
+          "arena"
+        ],
+        "sources": [
+          "https://www.bandsintown.com/e/1038745288-chayanne-at-chase-center",
+          "https://crawlsf.com/events/chayanne/"
+        ],
+        "tickets": [
+          "https://www.ticketmaster.com/chayanne-bailemos-otra-vez-tour-san-francisco-california-10-11-2026/event/1C006465C33D245E"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Chase%20Center",
           "apple": "https://maps.apple.com/?q=Chase%20Center"
@@ -9871,7 +9881,7 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
