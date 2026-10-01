@@ -4759,23 +4759,32 @@
         "id": "2026-10-19-music-dermot-kennedy-5e14a0",
         "eid": "dermot-kennedy-e7a5",
         "track": "music",
-        "category": "",
+        "category": "concert",
         "name": "Dermot Kennedy",
         "day": "Sat",
         "date": "2026-10-24",
         "time": "7:00PM",
         "start": "19:00",
         "end": null,
-        "area": "San Francisco",
+        "area": "Civic Center",
         "venue": "Bill Graham Civic Auditorium",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "99 Grove St, San Francisco, CA 94102",
+        "why": "Big-room, anthemic folk-pop and a huge singalong crowd at one of SF's classic venues.",
+        "summary": "Irish singer-songwriter Dermot Kennedy plays Bill Graham Civic Auditorium on The Weight of the Woods tour, with Jonah Kagen supporting.",
         "promoter": "",
-        "price": "",
-        "tags": [],
-        "sources": [],
-        "tickets": [],
+        "price": "From $60",
+        "tags": [
+          "concert",
+          "singer-songwriter",
+          "folk-pop"
+        ],
+        "sources": [
+          "https://www.axs.com/events/1397455/dermot-kennedy-tickets",
+          "https://www.ticketmaster.com/dermot-kennedy-the-weight-of-the-san-francisco-california-10-24-2026/event/1C006478B697BE1D"
+        ],
+        "tickets": [
+          "https://www.axs.com/events/1397455/dermot-kennedy-tickets"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Bill%20Graham%20Civic%20Auditorium%2C%20San%20Francisco",
           "apple": "https://maps.apple.com/?q=Bill%20Graham%20Civic%20Auditorium%2C%20San%20Francisco"
@@ -4786,8 +4795,16 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
-        "active": true
+        "enriched": 1,
+        "active": true,
+        "lineup": [
+          {
+            "name": "Dermot Kennedy"
+          },
+          {
+            "name": "Jonah Kagen"
+          }
+        ]
       },
       {
         "id": "2026-10-19-music-everclear-w-american-hi-fi-bd67ce",
