@@ -5117,14 +5117,17 @@
         "time": "19:30",
         "start": null,
         "end": null,
-        "area": "",
+        "area": "DTLA",
         "venue": "The Redwood Bar And Grill",
         "address": "",
         "why": "",
         "summary": "",
         "promoter": "",
         "price": "Free",
-        "tags": [],
+        "tags": [
+          "free",
+          "21+"
+        ],
         "sources": [],
         "tickets": [],
         "maps": {
@@ -5137,7 +5140,7 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
