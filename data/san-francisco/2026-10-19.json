@@ -2318,7 +2318,7 @@
         "id": "2026-10-19-music-george-clanton-d3b568",
         "eid": "george-clanton-65fa",
         "track": "music",
-        "category": "",
+        "category": "Concert",
         "name": "George Clanton",
         "day": "Thu",
         "date": "2026-10-22",
@@ -2327,7 +2327,7 @@
         "end": null,
         "area": "San Francisco",
         "venue": "The Castro Theatre",
-        "address": "",
+        "address": "429 Castro St, San Francisco, CA 94114",
         "why": "Catch a dreamy synth-pop live set in one of the city's grandest historic rooms.",
         "summary": "A Thursday-night live show by George Clanton at the Castro Theatre, starting at 8pm.",
         "promoter": "",
@@ -2337,7 +2337,9 @@
           "concert",
           "pop"
         ],
-        "sources": [],
+        "sources": [
+          "https://dothebay.com/events/2026/10/22/george-clanton-ideasforconversations-tickets"
+        ],
         "tickets": [],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=The%20Castro%20Theatre%2C%20San%20Francisco",
@@ -2346,10 +2348,10 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://party-scout.app/img/gen/george-clanton-65fa.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 1,
+        "enriched": 2,
         "active": true
       },
       {
