@@ -318,7 +318,7 @@
         "id": "2026-10-19-music-hovvdy-150753",
         "eid": "hovvdy-0ae8",
         "track": "music",
-        "category": "",
+        "category": "Concert",
         "name": "Hovvdy",
         "day": "Mon",
         "date": "2026-10-19",
@@ -337,7 +337,9 @@
           "live-music",
           "seated-room"
         ],
-        "sources": [],
+        "sources": [
+          "https://dothebay.com/events/2026/10/19/hovvdy-tickets"
+        ],
         "tickets": [],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=The%20Chapel%2C%20San%20Francisco",
@@ -346,10 +348,10 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://party-scout.app/img/gen/hovvdy-0ae8.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 1,
+        "enriched": 2,
         "active": true,
         "lineup": [
           {
