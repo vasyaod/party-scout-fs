@@ -11702,19 +11702,28 @@
         "name": "NightLife: Buggin' Out",
         "day": "Thu",
         "date": "2026-10-08",
-        "time": "",
-        "start": null,
-        "end": null,
-        "area": "",
+        "time": "6:00 PM–10:00 PM",
+        "start": "18:00",
+        "end": "22:00",
+        "area": "Golden Gate Park",
         "venue": "California Academy of Sciences",
-        "address": "",
-        "why": "",
-        "summary": "",
-        "promoter": "",
+        "address": "55 Music Concourse Drive, San Francisco, CA 94118",
+        "why": "A 21+ night among live insects and museum exhibits in Golden Gate Park — a weird, social Thursday out.",
+        "summary": "Adults-only insect-themed NightLife at the Cal Academy with live expert talks, hands-on bug encounters, local vendors and food trucks, plus a leafcutter ant showcase with curator Brian Fisher and artist Catherine Chalmers.",
+        "promoter": "California Academy of Sciences",
         "price": "",
-        "tags": [],
-        "sources": [],
-        "tickets": [],
+        "tags": [
+          "museum",
+          "21+",
+          "science",
+          "nightlife"
+        ],
+        "sources": [
+          "https://www.calacademy.org/nightlife/nightlife-buggin-out"
+        ],
+        "tickets": [
+          "https://www.calacademy.org/buy-tickets"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=California%20Academy%20of%20Sciences",
           "apple": "https://maps.apple.com/?q=California%20Academy%20of%20Sciences"
@@ -11722,10 +11731,10 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://party-scout.app/img/gen/nightlife-buggin-out-70bb.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       }
     ]
