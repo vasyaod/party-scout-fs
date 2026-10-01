@@ -11153,22 +11153,29 @@
         "id": "2026-10-05-music-san-francisco-fleet-week-2026-231f9b",
         "eid": "san-francisco-fleet-week-5cfa",
         "track": "music",
-        "category": "",
+        "category": "concert",
         "name": "San Francisco Fleet Week 2026: Band of the West Division Concert",
         "day": "Sun",
         "date": "2026-10-11",
-        "time": "",
-        "start": null,
+        "time": "12:00 PM",
+        "start": "12:00",
         "end": null,
-        "area": "",
-        "venue": "SkyStar Wheel Fisherman’s Wharf",
-        "address": "",
-        "why": "",
-        "summary": "",
-        "promoter": "",
-        "price": "",
-        "tags": [],
-        "sources": [],
+        "area": "Fisherman's Wharf",
+        "venue": "Fleet Fest",
+        "address": "2860 Taylor St, San Francisco, CA 94133",
+        "why": "Free live military band music on the waterfront during Fleet Week Sunday.",
+        "summary": "The U.S. Naval Sea Cadet Corps Band of the West Division plays a free set as part of Fleet Week's Music in Every Neighborhood concert series, at Fleet Fest by Fisherman's Wharf.",
+        "promoter": "San Francisco Fleet Week",
+        "price": "Free",
+        "tags": [
+          "free",
+          "fleet-week",
+          "live-band",
+          "outdoor"
+        ],
+        "sources": [
+          "https://fleetweeksf.org/free-concert-series/"
+        ],
         "tickets": [],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=SkyStar%20Wheel%20Fisherman%E2%80%99s%20Wharf",
@@ -11180,8 +11187,9 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
-        "active": true
+        "enriched": 1,
+        "active": true,
+        "lineup": []
       }
     ],
     "sports": [
