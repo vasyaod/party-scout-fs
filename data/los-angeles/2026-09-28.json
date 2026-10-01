@@ -8729,14 +8729,16 @@
         "time": "10:00",
         "start": null,
         "end": null,
-        "area": "",
+        "area": "Los Angeles",
         "venue": "Los Angeles",
         "address": "",
         "why": "",
         "summary": "",
         "promoter": "",
         "price": "Free",
-        "tags": [],
+        "tags": [
+          "sports"
+        ],
         "sources": [],
         "tickets": [],
         "maps": {
@@ -8749,7 +8751,7 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       }
     ]
