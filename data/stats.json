@@ -1,12 +1,12 @@
 {
   "kind": "stats",
-  "generated_at": "2026-10-01T23:44:19+00:00",
+  "generated_at": "2026-10-01T23:45:31+00:00",
   "weights_version": "v1",
   "total": {
     "n": 3848,
     "median": 0.8596,
     "p25": 0.7091,
-    "pct_ge_075": 0.7152,
+    "pct_ge_075": 0.7154,
     "invalid": 49,
     "tba_rate": 0.0842,
     "by_field_fixable": {
@@ -23,7 +23,7 @@
       "summary": 589,
       "tags": 561,
       "maps": 134,
-      "venue": 102
+      "venue": 101
     },
     "weights_version": "v1",
     "cities": 2,
@@ -2049,7 +2049,7 @@
         "n": 2326,
         "median": 0.8519,
         "p25": 0.7358,
-        "pct_ge_075": 0.7373,
+        "pct_ge_075": 0.7377,
         "invalid": 43,
         "tba_rate": 0.0357,
         "by_field_fixable": {
@@ -2066,7 +2066,7 @@
           "tags": 321,
           "sources": 307,
           "maps": 100,
-          "venue": 79
+          "venue": 78
         },
         "weights_version": "v1"
       },
@@ -2401,7 +2401,7 @@
             "n": 417,
             "median": 0.8,
             "p25": 0.587,
-            "pct_ge_075": 0.6379,
+            "pct_ge_075": 0.6403,
             "invalid": 0,
             "tba_rate": 0.0168,
             "by_field_fixable": {
@@ -2417,7 +2417,7 @@
               "summary": 104,
               "address": 98,
               "sources": 78,
-              "venue": 73,
+              "venue": 72,
               "maps": 71
             },
             "weights_version": "v1"
@@ -2463,7 +2463,7 @@
               "n": 60,
               "median": 0.8,
               "p25": 0.4038,
-              "pct_ge_075": 0.55,
+              "pct_ge_075": 0.5667,
               "invalid": 0,
               "tba_rate": 0.0,
               "weights_version": "v1"
