@@ -1,12 +1,12 @@
 {
   "kind": "stats",
-  "generated_at": "2026-10-01T00:45:25+00:00",
+  "generated_at": "2026-10-01T00:45:56+00:00",
   "weights_version": "v1",
   "total": {
     "n": 3737,
     "median": 0.8596,
     "p25": 0.6964,
-    "pct_ge_075": 0.7091,
+    "pct_ge_075": 0.7094,
     "invalid": 44,
     "tba_rate": 0.0816,
     "by_field_fixable": {
@@ -17,14 +17,14 @@
       "price": 1035,
       "category": 905,
       "time": 790,
-      "why": 746,
-      "summary": 668,
+      "why": 745,
+      "summary": 667,
       "address": 661,
       "sources": 661,
-      "tags": 647,
+      "tags": 646,
       "maps": 115,
       "venue": 110,
-      "area": 46
+      "area": 45
     },
     "weights_version": "v1",
     "cities": 2,
@@ -38,8 +38,8 @@
       "summary": {
         "n": 1439,
         "median": 0.8727,
-        "p25": 0.6842,
-        "pct_ge_075": 0.7074,
+        "p25": 0.6852,
+        "pct_ge_075": 0.7081,
         "invalid": 6,
         "tba_rate": 0.1543,
         "by_field_fixable": {
@@ -51,13 +51,13 @@
           "category": 323,
           "time": 307,
           "sources": 291,
-          "why": 277,
-          "tags": 245,
-          "summary": 245,
+          "why": 276,
           "address": 244,
+          "tags": 244,
+          "summary": 244,
           "venue": 27,
           "maps": 20,
-          "area": 6
+          "area": 5
         },
         "weights_version": "v1"
       },
@@ -166,7 +166,7 @@
             "n": 80,
             "median": 0.6154,
             "p25": 0.5741,
-            "pct_ge_075": 0.1375,
+            "pct_ge_075": 0.15,
             "invalid": 1,
             "tba_rate": 0.125,
             "by_field_fixable": {
@@ -176,14 +176,14 @@
               "coords": 70,
               "sources": 66,
               "address": 56,
-              "why": 26,
+              "why": 25,
               "start": 16,
               "price": 15,
-              "tags": 15,
-              "summary": 15,
+              "tags": 14,
+              "summary": 14,
               "maps": 11,
               "time": 9,
-              "area": 6
+              "area": 5
             },
             "weights_version": "v1"
           },
@@ -261,7 +261,7 @@
               "n": 6,
               "median": 0.4894,
               "p25": 0.2308,
-              "pct_ge_075": 0.0,
+              "pct_ge_075": 0.1667,
               "invalid": 0,
               "tba_rate": 0.3333,
               "weights_version": "v1"
