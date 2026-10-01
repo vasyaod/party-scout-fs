@@ -9787,23 +9787,32 @@
         "id": "2026-10-05-music-bruno-mars-07074b",
         "eid": "bruno-mars-176c",
         "track": "music",
-        "category": "",
+        "category": "concert",
         "name": "Bruno Mars",
         "day": "Sun",
         "date": "2026-10-11",
-        "time": "",
-        "start": null,
+        "time": "7:00 PM",
+        "start": "19:00",
         "end": null,
-        "area": "",
+        "area": "Santa Clara",
         "venue": "Levi's Stadium",
-        "address": "",
-        "why": "",
-        "summary": "",
-        "promoter": "",
+        "address": "4900 Marie P DeBartolo Way, Santa Clara, CA 95054",
+        "why": "Rare stadium night with Bruno Mars, plus RAYE and DJ Pee .Wee supporting.",
+        "summary": "Bruno Mars' first full headlining stadium tour, The Romantic Tour, lands at Levi's Stadium for a second added night, with RAYE and Anderson .Paak as DJ Pee .Wee opening.",
+        "promoter": "Live Nation",
         "price": "",
-        "tags": [],
-        "sources": [],
-        "tickets": [],
+        "tags": [
+          "pop",
+          "stadium",
+          "concert",
+          "live"
+        ],
+        "sources": [
+          "https://levisstadium.com/event/bruno-mars-the-romantic-tour-october-11th/"
+        ],
+        "tickets": [
+          "https://www.livenation.com/event/G5vYZ_eEJSDnx/bruno-mars-the-romantic-tour"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Levi%27s%20Stadium",
           "apple": "https://maps.apple.com/?q=Levi%27s%20Stadium"
@@ -9811,11 +9820,25 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://party-scout.app/img/gen/bruno-mars-176c.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
-        "active": true
+        "enriched": 1,
+        "active": true,
+        "lineup": [
+          {
+            "name": "Bruno Mars",
+            "instagram": null
+          },
+          {
+            "name": "RAYE",
+            "instagram": null
+          },
+          {
+            "name": "DJ Pee .Wee",
+            "instagram": null
+          }
+        ]
       },
       {
         "id": "2026-10-05-music-chayanne-c129b4",
