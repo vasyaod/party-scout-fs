@@ -10338,22 +10338,30 @@
         "id": "2026-10-05-music-techno-tuesdays-dj-glassjack-cff22b",
         "eid": "techno-tuesdays-dj-glass-cf83",
         "track": "music",
-        "category": "",
+        "category": "Techno",
         "name": "Techno Tuesdays - DJ Glassjack",
         "day": "Tue",
         "date": "2026-10-06",
-        "time": "",
-        "start": null,
+        "time": "10pm",
+        "start": "22:00",
         "end": null,
-        "area": "",
+        "area": "Mission",
         "venue": "Make-Out Room",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "3225 22nd St, San Francisco, CA 94110",
+        "why": "A free, late-night weekly techno session in a Mission dive bar, a rare no-cover midweek option.",
+        "summary": "Weekly Techno Tuesdays night at the Mission's Make-Out Room with resident DJ Glassjack on the decks.",
         "promoter": "",
-        "price": "",
-        "tags": [],
-        "sources": [],
+        "price": "Free",
+        "tags": [
+          "techno",
+          "mission",
+          "dive-bar",
+          "free",
+          "weekly"
+        ],
+        "sources": [
+          "https://dothebay.com/events/2026/6/2/techno-tuesdays-tickets"
+        ],
         "tickets": [],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Make-Out%20Room",
@@ -10365,8 +10373,13 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
-        "active": true
+        "enriched": 1,
+        "active": true,
+        "lineup": [
+          {
+            "name": "DJ Glassjack"
+          }
+        ]
       },
       {
         "id": "2026-10-05-music-sf-s-fleet-fest-2026-brass-ban-7cfffc",
