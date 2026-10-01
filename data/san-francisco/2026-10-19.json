@@ -6226,16 +6226,31 @@
         "time": "7:30PM",
         "start": "19:30",
         "end": null,
-        "area": "San Francisco",
+        "area": "Saratoga",
         "venue": "The Mountain Winery",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "14831 Pierce Rd, Saratoga, CA 95070",
+        "why": "90s alt-rock hits like Santa Monica and Everything to Everyone, outdoors in a 2,500-capacity winery venue.",
+        "summary": "Everclear play the Mountain Winery in Saratoga with American Hi-Fi, a 90s alt-rock night in the winery's hillside amphitheater.",
         "promoter": "",
-        "price": "",
-        "tags": [],
-        "sources": [],
-        "tickets": [],
+        "price": "From $55",
+        "tags": [
+          "live-music",
+          "rock",
+          "alt-rock",
+          "90s"
+        ],
+        "sources": [
+          {
+            "label": "Songkick",
+            "url": "https://tickets.songkick.com/concerts/43140341-everclear-at-mountain-winery"
+          }
+        ],
+        "tickets": [
+          {
+            "label": "Songkick",
+            "url": "https://tickets.songkick.com/concerts/43140341-everclear-at-mountain-winery"
+          }
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=The%20Mountain%20Winery%2C%20San%20Francisco",
           "apple": "https://maps.apple.com/?q=The%20Mountain%20Winery%2C%20San%20Francisco"
@@ -6246,8 +6261,18 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
-        "active": true
+        "enriched": 1,
+        "active": true,
+        "lineup": [
+          {
+            "name": "Everclear",
+            "instagram": null
+          },
+          {
+            "name": "American Hi-Fi",
+            "instagram": null
+          }
+        ]
       },
       {
         "id": "2026-10-19-music-fakemink-12053a",
