@@ -1,6 +1,6 @@
 {
   "kind": "stats",
-  "generated_at": "2026-10-01T06:14:28+00:00",
+  "generated_at": "2026-10-01T06:16:20+00:00",
   "weights_version": "v1",
   "total": {
     "n": 3848,
@@ -17,14 +17,14 @@
       "price": 1013,
       "category": 954,
       "time": 732,
-      "why": 702,
+      "why": 701,
       "sources": 676,
       "address": 652,
-      "summary": 603,
-      "tags": 570,
+      "summary": 602,
+      "tags": 569,
       "maps": 134,
       "venue": 102,
-      "area": 10
+      "area": 9
     },
     "weights_version": "v1",
     "cities": 2,
@@ -50,14 +50,14 @@
           "category": 397,
           "price": 382,
           "sources": 359,
-          "why": 305,
+          "why": 304,
           "address": 292,
           "time": 288,
-          "summary": 258,
-          "tags": 245,
+          "summary": 257,
+          "tags": 244,
           "maps": 34,
           "venue": 23,
-          "area": 10
+          "area": 9
         },
         "weights_version": "v1"
       },
@@ -499,13 +499,13 @@
               "sources": 105,
               "start": 92,
               "address": 87,
-              "why": 67,
-              "summary": 51,
-              "tags": 36,
+              "why": 66,
+              "summary": 50,
+              "tags": 35,
               "price": 35,
               "time": 21,
               "maps": 16,
-              "area": 10,
+              "area": 9,
               "venue": 7
             },
             "weights_version": "v1"
@@ -583,7 +583,7 @@
               "day": "Sun",
               "n": 29,
               "median": 0.6111,
-              "p25": 0.5091,
+              "p25": 0.5319,
               "pct_ge_075": 0.4483,
               "invalid": 0,
               "tba_rate": 0.1724,
