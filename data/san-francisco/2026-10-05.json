@@ -8794,23 +8794,34 @@
         "id": "2026-10-05-music-fridays-on-front-street-yacht-8fcde8",
         "eid": "fridays-on-front-street-3cd5",
         "track": "music",
-        "category": "",
+        "category": "festival",
         "name": "Fridays on Front Street: Yacht Rock Block Party",
         "day": "Fri",
         "date": "2026-10-09",
-        "time": "",
-        "start": null,
-        "end": null,
-        "area": "",
+        "time": "4pm-9pm",
+        "start": "16:00",
+        "end": "21:00",
+        "area": "Financial District",
         "venue": "Front Street Entertainment Zone",
-        "address": "",
-        "why": "",
-        "summary": "",
-        "promoter": "",
-        "price": "",
-        "tags": [],
-        "sources": [],
-        "tickets": [],
+        "address": "240 Front St, San Francisco, CA",
+        "why": "A free, all-ages outdoor block party with live yacht rock, themed contests and street-bar drinks to kick off Fleet Week weekend.",
+        "summary": "Free Fleet Week-weekend yacht rock block party on Front Street with Haulin' Oats (Hall & Oates tribute) and headliners Wonder Bread 5, plus a lip sync battle, best stache contest and a Top Gun screening.",
+        "promoter": "Downtown SF Partnership",
+        "price": "Free",
+        "tags": [
+          "yacht-rock",
+          "free",
+          "block-party",
+          "live-music",
+          "fleet-week"
+        ],
+        "sources": [
+          "https://www.eventbrite.com/e/fridays-on-front-st-free-yacht-rock-block-party-tickets-1999042771743",
+          "https://downtownsf.org/things-to-do/fridays-on-front-street"
+        ],
+        "tickets": [
+          "https://www.eventbrite.com/e/fridays-on-front-st-free-yacht-rock-block-party-tickets-1999042771743"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Front%20Street%20Entertainment%20Zone",
           "apple": "https://maps.apple.com/?q=Front%20Street%20Entertainment%20Zone"
@@ -8818,11 +8829,19 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://party-scout.app/img/gen/fridays-on-front-street-3cd5.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
-        "active": true
+        "enriched": 1,
+        "active": true,
+        "lineup": [
+          {
+            "name": "Haulin' Oats"
+          },
+          {
+            "name": "Wonder Bread 5"
+          }
+        ]
       },
       {
         "id": "2026-10-05-music-high-on-fire-4e6b5a",
