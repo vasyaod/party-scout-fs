@@ -5804,17 +5804,28 @@
         "date": "2026-10-24",
         "time": "4:00 pm",
         "start": "16:00",
-        "end": null,
-        "area": "San Francisco",
-        "venue": "",
-        "address": "",
-        "why": "",
-        "summary": "",
-        "promoter": "",
-        "price": "",
-        "tags": [],
-        "sources": [],
-        "tickets": [],
+        "end": "22:00",
+        "area": "SoMa",
+        "venue": "Ritch Street Alley",
+        "address": "Ritch St, San Francisco, CA 94107",
+        "why": "Free open-air Filipino night market in SoMa with makers, food and community vibes as golden hour turns to night.",
+        "summary": "UNDSCVRD Golden Hour Night Market, part of Season 10 of Undiscovered SF celebrating a decade of Filipino American culture, in the SF Filipino Cultural District (SOMA Pilipinas). Runs 4–10pm in Ritch Street Alley.",
+        "promoter": "UNDSCVRD",
+        "price": "Free",
+        "tags": [
+          "night-market",
+          "filipino",
+          "free",
+          "outdoor",
+          "soma"
+        ],
+        "sources": [
+          "https://www.undiscoveredsf.com/",
+          "https://luma.com/raipa01b"
+        ],
+        "tickets": [
+          "https://luma.com/raipa01b"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=San%20Francisco",
           "apple": "https://maps.apple.com/?q=San%20Francisco"
@@ -5822,10 +5833,10 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://party-scout.app/img/gen/sf-s-golden-hour-filipin-549e.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
