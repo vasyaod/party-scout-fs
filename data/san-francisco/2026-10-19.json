@@ -4810,23 +4810,33 @@
         "id": "2026-10-19-music-everclear-w-american-hi-fi-bd67ce",
         "eid": "everclear-w-american-hi-5b87",
         "track": "music",
-        "category": "",
+        "category": "concert",
         "name": "Everclear w/ American Hi-Fi",
         "day": "Sat",
         "date": "2026-10-24",
         "time": "9:00PM",
         "start": "21:00",
         "end": null,
-        "area": "San Francisco",
+        "area": "Western Addition",
         "venue": "The Independent",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "628 Divisadero St, San Francisco, CA 94117",
+        "why": "90s alt-rock staples Everclear (Santa Monica, Father of Mine) paired with American Hi-Fi (Flavor of the Weak) in an intimate 500-cap room.",
+        "summary": "Everclear bring their Lucky 7 Tour to The Independent with special guests American Hi-Fi. Doors 8:30pm, show 9pm, 21+.",
         "promoter": "",
         "price": "",
-        "tags": [],
-        "sources": [],
-        "tickets": [],
+        "tags": [
+          "live-music",
+          "rock",
+          "90s",
+          "21+"
+        ],
+        "sources": [
+          "https://www.jambase.com/show/everclear-the-independent-20261024",
+          "https://www.sfshameless.com/the-artists/2026/5/19/everclear-announce-north-american-tour-dates-with-american-hi-fi"
+        ],
+        "tickets": [
+          "https://www.ticketweb.com/event/everclear-with-american-hi-fi-the-independent-tickets/14924703"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=The%20Independent%2C%20San%20Francisco",
           "apple": "https://maps.apple.com/?q=The%20Independent%2C%20San%20Francisco"
@@ -4834,11 +4844,19 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://party-scout.app/img/gen/everclear-w-american-hi-5b87.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
-        "active": true
+        "enriched": 1,
+        "active": true,
+        "lineup": [
+          {
+            "name": "Everclear"
+          },
+          {
+            "name": "American Hi-Fi"
+          }
+        ]
       },
       {
         "id": "2026-10-19-music-fakemink-033adc",
