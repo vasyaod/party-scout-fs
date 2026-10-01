@@ -2878,22 +2878,28 @@
         "id": "2026-10-19-music-switchfoot-with-special-guest-a71d47",
         "eid": "switchfoot-with-special-9e3e",
         "track": "music",
-        "category": "",
+        "category": "concert",
         "name": "Switchfoot with special guest Anberlin - Forever Now Tour",
         "day": "Sun",
         "date": "2026-10-25",
         "time": "",
         "start": null,
         "end": null,
-        "area": "",
+        "area": "Koreatown",
         "venue": "The Wiltern",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "3790 Wilshire Blvd, Los Angeles, CA 90010",
+        "why": "Grammy-winning alt-rock headliners plus Anberlin on one bill in a historic Art Deco theater.",
+        "summary": "Switchfoot bring their Forever Now Tour to The Wiltern with special guest Anberlin, supporting their forthcoming album Forever Now.",
         "promoter": "",
         "price": "",
-        "tags": [],
-        "sources": [],
+        "tags": [
+          "rock",
+          "live-music",
+          "concert"
+        ],
+        "sources": [
+          "https://consequence.net/2026/05/switchfoot-2026-forever-now-tour-anberlin/"
+        ],
         "tickets": [],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=The%20Wiltern",
@@ -2902,11 +2908,19 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://party-scout.app/img/gen/switchfoot-with-special-9e3e.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
-        "active": true
+        "enriched": 1,
+        "active": true,
+        "lineup": [
+          {
+            "name": "Switchfoot"
+          },
+          {
+            "name": "Anberlin"
+          }
+        ]
       },
       {
         "id": "2026-10-19-music-synthesis-002-anastasia-giovan-9fbe1a",
