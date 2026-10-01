@@ -10077,23 +10077,33 @@
         "id": "2026-10-05-music-last-dinosaurs-c0b5e0",
         "eid": "last-dinosaurs-f93c",
         "track": "music",
-        "category": "",
+        "category": "concert",
         "name": "Last Dinosaurs",
         "day": "Sun",
         "date": "2026-10-11",
-        "time": "",
+        "time": "7:00 PM",
         "start": null,
         "end": null,
-        "area": "",
+        "area": "Rocklin",
         "venue": "Quarry Park Amphitheater",
-        "address": "",
-        "why": "",
-        "summary": "",
-        "promoter": "",
-        "price": "",
-        "tags": [],
-        "sources": [],
-        "tickets": [],
+        "address": "4000 Rocklin Rd, Rocklin, CA 95677",
+        "why": "Outdoor amphitheater indie-rock night with Together Pangea, a rare Last Dinosaurs California date.",
+        "summary": "Australian indie-pop band Last Dinosaurs play their California tour stop at Quarry Park Amphitheater in Rocklin, with Together Pangea and G.A.B. Doors 6 PM, show 7 PM, general admission.",
+        "promoter": "Quarry Park Amphitheater x Harlows",
+        "price": "$25-$55",
+        "tags": [
+          "indie",
+          "rock",
+          "live-music",
+          "outdoor"
+        ],
+        "sources": [
+          "https://www.prekindle.com/event/68585-last-dinosaurs-rocklin",
+          "https://www.rocklin.ca.us/event/last-dinosaurs"
+        ],
+        "tickets": [
+          "https://www.prekindle.com/event/68585-last-dinosaurs-rocklin"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Quarry%20Park%20Amphitheater",
           "apple": "https://maps.apple.com/?q=Quarry%20Park%20Amphitheater"
@@ -10101,11 +10111,25 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://party-scout.app/img/gen/last-dinosaurs-f93c.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
-        "active": true
+        "enriched": 1,
+        "active": true,
+        "lineup": [
+          {
+            "name": "Last Dinosaurs",
+            "instagram": null
+          },
+          {
+            "name": "Together Pangea",
+            "instagram": null
+          },
+          {
+            "name": "G.A.B",
+            "instagram": null
+          }
+        ]
       },
       {
         "id": "2026-10-05-music-lindy-in-the-park-swing-dance-fced3e",
