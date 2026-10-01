@@ -5612,23 +5612,32 @@
         "id": "2026-10-19-music-protomartyr-a212ef",
         "eid": "protomartyr-9da5",
         "track": "music",
-        "category": "",
+        "category": "live-music",
         "name": "Protomartyr",
         "day": "Sat",
         "date": "2026-10-24",
         "time": "8:00PM",
         "start": "20:00",
         "end": null,
-        "area": "San Francisco",
+        "area": "Tenderloin",
         "venue": "August Hall",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "420 Mason St, San Francisco, CA 94102",
+        "why": "Literate, driving Detroit post-punk in a historic Union Square-area ballroom.",
+        "summary": "Detroit post-punk band Protomartyr plays August Hall with support from Accessory.",
         "promoter": "",
-        "price": "",
-        "tags": [],
-        "sources": [],
-        "tickets": [],
+        "price": "From $47",
+        "tags": [
+          "live-music",
+          "post-punk",
+          "indie",
+          "rock"
+        ],
+        "sources": [
+          "https://www.augusthallsf.com/tm-attraction/protomartyr/"
+        ],
+        "tickets": [
+          "https://www.ticketmaster.com/protomartyr-san-francisco-california-10-24-2026/event/1C0064E3A259ADCA"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=August%20Hall%2C%20San%20Francisco",
           "apple": "https://maps.apple.com/?q=August%20Hall%2C%20San%20Francisco"
@@ -5636,11 +5645,21 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://party-scout.app/img/gen/protomartyr-9da5.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
-        "active": true
+        "enriched": 1,
+        "active": true,
+        "lineup": [
+          {
+            "name": "Protomartyr",
+            "instagram": null
+          },
+          {
+            "name": "Accessory",
+            "instagram": null
+          }
+        ]
       },
       {
         "id": "2026-10-19-music-pura-saturdays-3a1895",
