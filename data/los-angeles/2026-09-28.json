@@ -782,10 +782,10 @@
         "name": "Sammy Rae & The Friends with special guest Melt",
         "day": "Sun",
         "date": "2026-10-04",
-        "time": "7–10pm",
+        "time": "19:00",
         "start": "19:00",
         "end": "22:00",
-        "area": "Koreatown",
+        "area": "LA",
         "venue": "The Wiltern",
         "address": "3790 Wilshire Blvd, Los Angeles, CA 90010",
         "why": "A rare stop for the ebullient soul-pop octet at the historic art-deco Wiltern",
@@ -800,7 +800,8 @@
         ],
         "sources": [
           "https://www.songkick.com/concerts/43125015-sammy-rae-and-the-friends-at-wiltern",
-          "https://www.ticketmaster.com/sammy-rae-the-friends-tickets/artist/2791075"
+          "https://www.ticketmaster.com/sammy-rae-the-friends-tickets/artist/2791075",
+          "https://www.wiltern.com/shows"
         ],
         "tickets": [
           "https://www.ticketmaster.com/sammy-rae-the-friends-tickets/artist/2791075"
@@ -812,8 +813,8 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
-        "image_generated": false,
+        "image": "https://party-scout.app/img/gen/sammy-rae-the-friends-wi-9760.jpg",
+        "image_generated": true,
         "popularity": 0,
         "enriched": 1,
         "active": true,
@@ -824,96 +825,6 @@
           },
           {
             "name": "Melt",
-            "instagram": null
-          }
-        ]
-      },
-      {
-        "id": "2026-09-28-music-sunday-dance-w-tom-of-england-2d3140",
-        "eid": "sunday-dance-w-tom-of-en-fa60",
-        "track": "music",
-        "category": "",
-        "name": "Sunday Dance w/ Tom Of England",
-        "day": "Sun",
-        "date": "2026-10-04",
-        "time": "",
-        "start": null,
-        "end": null,
-        "area": "LA",
-        "venue": "Better Tomorrow",
-        "address": "",
-        "why": "",
-        "summary": "",
-        "promoter": "",
-        "price": "$10-20",
-        "tags": [],
-        "sources": [],
-        "tickets": [],
-        "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=Better%20Tomorrow%2C%20Los%20Angeles",
-          "apple": "https://maps.apple.com/?q=Better%20Tomorrow%2C%20Los%20Angeles"
-        },
-        "coords": null,
-        "coords_precise": false,
-        "ra": {},
-        "image": "",
-        "image_generated": false,
-        "popularity": 0,
-        "enriched": 1,
-        "active": true
-      },
-      {
-        "id": "2026-09-28-music-sunday-sessions-la-8315e2",
-        "eid": "sunday-sessions-la-2f1a",
-        "track": "music",
-        "category": "House / Vinyl",
-        "name": "Sunday Sessions LA",
-        "day": "Sun",
-        "date": "2026-10-04",
-        "time": "",
-        "start": null,
-        "end": null,
-        "area": "Chinatown",
-        "venue": "TBA",
-        "address": "1746 N Spring St, Los Angeles, CA 90012",
-        "why": "A vinyl-only crate-dig session in Apotheke's intimate cocktail-bar setting.",
-        "summary": "Sunday Sessions LA's weekly vinyl-only night at Apotheke, with Jordan Bernardo, Big Sam and Patrick Loda spinning curated deep cuts.",
-        "promoter": "",
-        "price": "Free-$34.50",
-        "tags": [
-          "vinyl-only",
-          "house",
-          "weekly"
-        ],
-        "sources": [
-          "https://www.sundaysessions.la/events"
-        ],
-        "tickets": [
-          "https://shotgun.live/events/sunday-sessions-la-08-24-93"
-        ],
-        "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=Los%20Angeles",
-          "apple": "https://maps.apple.com/?q=Los%20Angeles"
-        },
-        "coords": null,
-        "coords_precise": false,
-        "ra": {},
-        "image": "",
-        "image_generated": false,
-        "popularity": 0,
-        "enriched": 1,
-        "active": true,
-        "lineup": [
-          {
-            "name": "Jordan Bernardo",
-            "instagram": null
-          },
-          {
-            "name": "Big Sam",
-            "instagram": null
-          },
-          {
-            "name": "Patrick Loda",
             "instagram": null
           }
         ]
@@ -1066,7 +977,7 @@
         "name": "Direct Drive & Rhonda INTL present SHERELLE, Todd Edwards, Pangaea, Danny Daze, Mia Koden",
         "day": "Sat",
         "date": "2026-10-03",
-        "time": "",
+        "time": "22:00",
         "start": null,
         "end": null,
         "area": "Los Angeles",
@@ -1075,7 +986,7 @@
         "why": "",
         "summary": "",
         "promoter": "",
-        "price": "",
+        "price": "$15-$40",
         "tags": [],
         "sources": [],
         "tickets": [],
@@ -1090,7 +1001,27 @@
         "image_generated": true,
         "popularity": 0,
         "enriched": 1,
-        "active": true
+        "active": true,
+        "lineup": [
+          {
+            "name": "SHERELLE"
+          },
+          {
+            "name": "Todd Edwards"
+          },
+          {
+            "name": "Pangaea"
+          },
+          {
+            "name": "Danny Daze"
+          },
+          {
+            "name": "Mia Koden"
+          },
+          {
+            "name": "bahar khadem"
+          }
+        ]
       },
       {
         "id": "2026-09-28-music-incognito-presents-zenker-brot-faae58",
@@ -1317,7 +1248,7 @@
         "name": "Black Silk Stocking // 1 Year Anniversary",
         "day": "Thu",
         "date": "2026-10-01",
-        "time": "7pm-2am",
+        "time": "19:00",
         "start": null,
         "end": null,
         "area": "LA",
@@ -1326,7 +1257,7 @@
         "why": "",
         "summary": "",
         "promoter": "",
-        "price": "$10+",
+        "price": "10.00",
         "tags": [
           "synthpunk",
           "EBM",
@@ -1356,7 +1287,7 @@
         "name": "DJ_Dave",
         "day": "Thu",
         "date": "2026-10-01",
-        "time": "8pm-12am",
+        "time": "20:00",
         "start": "20:00",
         "end": null,
         "area": "LA",
@@ -1901,40 +1832,6 @@
         "active": true
       },
       {
-        "id": "2026-09-28-music-fast-at-work-5-year-anniversar-fd0f75",
-        "eid": "fast-at-work-5-year-anni-b293",
-        "track": "music",
-        "category": "",
-        "name": "Fast At Work 5-Year Anniversary",
-        "day": "Fri",
-        "date": "2026-10-02",
-        "time": "",
-        "start": null,
-        "end": null,
-        "area": "LA",
-        "venue": "",
-        "address": "",
-        "why": "",
-        "summary": "",
-        "promoter": "",
-        "price": "$11.20-33.55",
-        "tags": [],
-        "sources": [],
-        "tickets": [],
-        "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=LA",
-          "apple": "https://maps.apple.com/?q=LA"
-        },
-        "coords": null,
-        "coords_precise": false,
-        "ra": {},
-        "image": "",
-        "image_generated": false,
-        "popularity": 0,
-        "enriched": 1,
-        "active": true
-      },
-      {
         "id": "2026-09-28-music-gene-farris-757a5e",
         "eid": "gene-farris-0eb5",
         "track": "music",
@@ -2409,40 +2306,6 @@
         "active": true
       },
       {
-        "id": "2026-09-28-music-psychic-skin-14x21-cbffdc",
-        "eid": "psychic-skin-14x21-309f",
-        "track": "music",
-        "category": "",
-        "name": "Psychic Skin & 14X21",
-        "day": "Fri",
-        "date": "2026-10-02",
-        "time": "",
-        "start": null,
-        "end": null,
-        "area": "Los Angeles",
-        "venue": "",
-        "address": "",
-        "why": "",
-        "summary": "",
-        "promoter": "",
-        "price": "$15 pre/$20",
-        "tags": [],
-        "sources": [],
-        "tickets": [],
-        "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=LA",
-          "apple": "https://maps.apple.com/?q=LA"
-        },
-        "coords": null,
-        "coords_precise": false,
-        "ra": {},
-        "image": "",
-        "image_generated": false,
-        "popularity": 0,
-        "enriched": 1,
-        "active": true
-      },
-      {
         "id": "2026-09-28-music-rhythm-2-revolt-weekend-2-8166f7",
         "eid": "rhythm-2-revolt-weekend-b1a9",
         "track": "music",
@@ -2484,7 +2347,7 @@
         "name": "Roya",
         "day": "Fri",
         "date": "2026-10-02",
-        "time": "9pm-12am",
+        "time": "21:00",
         "start": "21:00",
         "end": null,
         "area": "LA",
@@ -2517,7 +2380,7 @@
         "coords_precise": false,
         "ra": {},
         "image": "https://party-scout.app/img/gen/roya-6b63.jpg",
-        "image_generated": false,
+        "image_generated": true,
         "popularity": 0,
         "enriched": 1,
         "active": true
@@ -2822,11 +2685,11 @@
         "name": "Andrew Aoun, Morcos, Anis",
         "day": "Sat",
         "date": "2026-10-03",
-        "time": "Doors 10pm",
+        "time": "10pm-2am",
         "start": "22:00",
         "end": null,
-        "area": "West Hollywood",
-        "venue": "Sunset at EDITION",
+        "area": "LA",
+        "venue": "Sunset At Edition",
         "address": "1090 N Doheny Dr, West Hollywood, CA 90069",
         "why": "A recurring Saturday night at one of Sunset Strip's most talked-about basement clubs, known for disco, house and open-format sets curated by DJ Zen Freeman.",
         "summary": "Sunset Saturdays, the weekly open-format night at the EDITION hotel's basement nightclub in West Hollywood, spans disco, house and dance music across the venue's disco-ball-lit dancefloor.",
@@ -2850,8 +2713,8 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
-        "image_generated": false,
+        "image": "https://party-scout.app/img/gen/andrew-aoun-morcos-anis-dbb2.jpg",
+        "image_generated": true,
         "popularity": 0,
         "enriched": 1,
         "active": true
@@ -2864,7 +2727,7 @@
         "name": "Club Cielo",
         "day": "Sat",
         "date": "2026-10-03",
-        "time": "10pm-2am",
+        "time": "21:00",
         "start": "22:00",
         "end": "02:00",
         "area": "LA",
@@ -2873,7 +2736,7 @@
         "why": "Guaracha/tribal night with Iris Estefania (CDMX) b2b Dina all night long",
         "summary": "Club Cielo returns to El Cid Silverlake for a night of Guaracha, Bala, Tribal, Baile Funk and Latincore, with Iris Estefania (CDMX) b2b Dina spinning all night long.",
         "promoter": "",
-        "price": "$7.50+",
+        "price": "$13",
         "tags": [
           "guaracha",
           "tribal",
@@ -2910,6 +2773,9 @@
           {
             "name": "Dina",
             "instagram": null
+          },
+          {
+            "name": "DINABN"
           }
         ]
       },
@@ -3158,11 +3024,11 @@
         "name": "Eli Escobar",
         "day": "Sat",
         "date": "2026-10-03",
-        "time": "",
+        "time": "9pm-3am",
         "start": null,
         "end": null,
-        "area": "DTLA",
-        "venue": "",
+        "area": "LA",
+        "venue": "TBA",
         "address": "",
         "why": "A rare open-to-close marathon set from a Midnight Lovers favorite at an intimate, capacity-limited DTLA soiree",
         "summary": "Midnight Lovers brings NYC house/disco selector Eli Escobar back to Los Angeles for an open-to-close set, part of the collective's recurring DTLA soiree blending house, disco and balearic sounds.",
@@ -3186,8 +3052,8 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
-        "image_generated": false,
+        "image": "https://party-scout.app/img/gen/eli-escobar-7d6c.jpg",
+        "image_generated": true,
         "popularity": 0,
         "enriched": 1,
         "active": true
@@ -3270,17 +3136,19 @@
         "name": "Infierno",
         "day": "Sat",
         "date": "2026-10-03",
-        "time": "",
+        "time": "22:00",
         "start": null,
         "end": null,
-        "area": "Long Beach",
+        "area": "LA",
         "venue": "Que Sera",
         "address": "1923 E 7th St, Long Beach, CA 90813",
         "why": "",
         "summary": "",
         "promoter": "",
         "price": "$5.50-7.85",
-        "tags": [],
+        "tags": [
+          "neo perreo"
+        ],
         "sources": [],
         "tickets": [],
         "maps": {
@@ -3290,11 +3158,16 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
-        "image_generated": false,
+        "image": "https://party-scout.app/img/gen/infierno-cdd2.jpg",
+        "image_generated": true,
         "popularity": 0,
         "enriched": 1,
-        "active": true
+        "active": true,
+        "lineup": [
+          {
+            "name": "Diablito"
+          }
+        ]
       },
       {
         "id": "2026-09-28-music-kuntress-noel-le-freak-bfaf7a",
@@ -3351,12 +3224,13 @@
         "why": "A rising face of tech house in his home city, at one of LA's biggest dance-music rooms.",
         "summary": "LA-based tech house producer Max Styler headlines Shrine Expo Hall, bringing his dark, bass-heavy club sound to the venue's expansive Exposition Park hall.",
         "promoter": "Goldenvoice & Framework Present",
-        "price": "$71",
+        "price": "18+",
         "tags": [
           "tech-house",
           "bass-house",
           "club",
-          "18+"
+          "18+",
+          "house"
         ],
         "sources": [
           "https://www.axs.com/events/1376580/max-styler-tickets",
@@ -3372,11 +3246,16 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
-        "image_generated": false,
+        "image": "https://party-scout.app/img/gen/max-styler-698c.jpg",
+        "image_generated": true,
         "popularity": 0,
         "enriched": 1,
-        "active": true
+        "active": true,
+        "lineup": [
+          {
+            "name": "Max Styler"
+          }
+        ]
       },
       {
         "id": "2026-09-28-music-neon-menagerie-46eff5",
@@ -3386,7 +3265,7 @@
         "name": "Neon Menagerie",
         "day": "Sat",
         "date": "2026-10-03",
-        "time": "9pm-2am",
+        "time": "21:00",
         "start": "21:00",
         "end": "02:00",
         "area": "LA",
@@ -3395,7 +3274,7 @@
         "why": "Full-body UV body painting and live aerial performance turn the dance floor into an immersive black light zoo.",
         "summary": "An animal-themed black light body painting immersive art party at Casita Hollywood, with 10 professional body painters, aerialist performers, UV decor by Debi Cable, and DJ sets from Eric Sharp, Pink Leopard, ZI and Mz. Chievous.",
         "promoter": "Bodies and Beats Productions",
-        "price": "$31.72-50",
+        "price": "$30-$50",
         "tags": [
           "black-light",
           "body-painting",
@@ -3603,16 +3482,16 @@
         "name": "Rebuke",
         "day": "Sat",
         "date": "2026-10-03",
-        "time": "10pm",
+        "time": "22:00",
         "start": "22:00",
         "end": null,
         "area": "LA",
-        "venue": "Academy La",
+        "venue": "Academy LA",
         "address": "6021 Hollywood Blvd, Los Angeles, CA 90028",
         "why": "Drumcode-signed Irish techno/house DJ Rebūke headlines Academy LA with support from Kieran San Jose",
         "summary": "Rebūke, the Irish DJ and producer known for fusing early-90s rave energy with modern house and techno on labels like Drumcode, headlines a Saturday night at Academy LA with support from Kieran San Jose.",
         "promoter": "",
-        "price": "$19.95",
+        "price": "0",
         "tags": [
           "techno",
           "house",
@@ -3634,7 +3513,7 @@
         "coords_precise": false,
         "ra": {},
         "image": "https://party-scout.app/img/gen/rebuke-9599.jpg",
-        "image_generated": false,
+        "image_generated": true,
         "popularity": 0,
         "enriched": 1,
         "active": true,
@@ -3695,72 +3574,6 @@
           {
             "name": "Sabrosura Boyz",
             "instagram": "sabrosuraboyz"
-          }
-        ]
-      },
-      {
-        "id": "2026-09-28-music-sherelle-todd-edwards-pangaea-a2de7b",
-        "eid": "sherelle-todd-edwards-pa-1a6a",
-        "track": "music",
-        "category": "",
-        "name": "Sherelle, Todd Edwards, Pangaea",
-        "day": "Sat",
-        "date": "2026-10-03",
-        "time": "",
-        "start": null,
-        "end": null,
-        "area": "Silver Lake",
-        "venue": "Los Globos",
-        "address": "3040 W Sunset Blvd, Los Angeles, CA 90026",
-        "why": "A rare US pairing of UK garage legend Todd Edwards with jungle/bassline force Sherelle and Hessle Audio co-founder Pangaea.",
-        "summary": "Direct Drive and Rhonda INTL bring UK garage/jungle DJ Sherelle, garage originator Todd Edwards, and Hessle Audio's Pangaea together for a bass-heavy night at Los Globos, alongside Danny Daze, Mia Koden and bahar khadem.",
-        "promoter": "Direct Drive & Rhonda INTL",
-        "price": "$17.25 before 11/$23-34.50",
-        "tags": [
-          "uk-garage",
-          "jungle",
-          "bass",
-          "techno",
-          "house"
-        ],
-        "sources": [],
-        "tickets": [],
-        "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=Los%20Globos%2C%20LA",
-          "apple": "https://maps.apple.com/?q=Los%20Globos%2C%20LA"
-        },
-        "coords": null,
-        "coords_precise": false,
-        "ra": {},
-        "image": "",
-        "image_generated": false,
-        "popularity": 0,
-        "enriched": 1,
-        "active": true,
-        "lineup": [
-          {
-            "name": "SHERELLE",
-            "instagram": null
-          },
-          {
-            "name": "Todd Edwards",
-            "instagram": null
-          },
-          {
-            "name": "Pangaea",
-            "instagram": null
-          },
-          {
-            "name": "Danny Daze",
-            "instagram": null
-          },
-          {
-            "name": "Mia Koden",
-            "instagram": null
-          },
-          {
-            "name": "bahar khadem",
-            "instagram": null
           }
         ]
       },
@@ -4036,22 +3849,24 @@
         "name": "Nightshift After Hours",
         "day": "Sun",
         "date": "2026-10-04",
-        "time": "11pm–5am",
+        "time": "23:00",
         "start": "23:00",
         "end": "05:00",
-        "area": "DTLA",
-        "venue": "The Lexington Bar",
+        "area": "LA",
+        "venue": "The Lexington",
         "address": "129 E 3rd St, Los Angeles, CA 90013",
         "why": "One of the only real after-hours parties in LA — dance past last call to a secret DJ lineup behind an unmarked alley door.",
         "summary": "Nightshift is a recurring DTLA speakeasy after-hours party at The Lexington Bar, entered through an alley, with a secret house/tech-house DJ lineup curated by the Blind Tiger collective and free entry before 1am.",
         "promoter": "Blind Tiger",
-        "price": "Free w/RSVP before 1am/$23",
+        "price": "0",
         "tags": [
           "house",
           "tech-house",
           "after-hours",
           "underground",
-          "speakeasy"
+          "speakeasy",
+          "tech house",
+          "minimal"
         ],
         "sources": [
           "https://events.extrachill.com/events/nightshift-afterhours-116",
@@ -4065,8 +3880,8 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
-        "image_generated": false,
+        "image": "https://party-scout.app/img/gen/nightshift-after-hours-d865.jpg",
+        "image_generated": true,
         "popularity": 0,
         "enriched": 1,
         "active": true
@@ -4124,7 +3939,7 @@
         "name": "Nightshift After Hours",
         "day": "Fri",
         "date": "2026-10-02",
-        "time": "11pm-5am",
+        "time": "23:00",
         "start": "23:00",
         "end": "05:00",
         "area": "LA",
@@ -4133,7 +3948,7 @@
         "why": "A real speakeasy after-hours that runs nightly with a secret DJ lineup — for those still going after the bars close.",
         "summary": "Secret-lineup DTLA speakeasy after-hours, alley entrance, dancing till 5am.",
         "promoter": "Blind Tiger",
-        "price": "free w/rsvp b4 1 / $23",
+        "price": "0",
         "tags": [
           "house",
           "afterhours",
@@ -4235,7 +4050,7 @@
         "name": "Nightshift After Hours",
         "day": "Sat",
         "date": "2026-10-03",
-        "time": "11pm-5am",
+        "time": "23:00",
         "start": "23:00",
         "end": "05:00",
         "area": "LA",
@@ -4244,7 +4059,7 @@
         "why": "Secret DJ lineup in a real DTLA speakeasy, entered through the alley, dancing till 5am",
         "summary": "Nightshift Afterhours is a recurring underground house-music session at The Lexington's DTLA speakeasy, with a secret lineup curated by the Blind Tiger collective.",
         "promoter": "Blind Tiger",
-        "price": "free w/rsvp b4 1 / $23",
+        "price": "0",
         "tags": [
           "house",
           "afterhours",
@@ -4570,40 +4385,6 @@
         "active": true
       },
       {
-        "id": "2026-09-28-music-dialed-records-w-jay-tripwire-e808ea",
-        "eid": "dialed-records-w-jay-tri-73dc",
-        "track": "music",
-        "category": "",
-        "name": "Dialed Records w/ Jay Tripwire, B.Love, Shane Kwon B2B Kosta",
-        "day": "Fri",
-        "date": "2026-10-02",
-        "time": "11pm",
-        "start": "23:00",
-        "end": null,
-        "area": "",
-        "venue": "TBA",
-        "address": "",
-        "why": "",
-        "summary": "",
-        "promoter": "",
-        "price": "free w/rsvp b4 1 / $12+",
-        "tags": [
-          "tech house",
-          "minimal"
-        ],
-        "sources": [],
-        "tickets": [],
-        "maps": {},
-        "coords": null,
-        "coords_precise": false,
-        "ra": {},
-        "image": "",
-        "image_generated": false,
-        "popularity": 0,
-        "enriched": 0,
-        "active": true
-      },
-      {
         "id": "2026-09-28-music-hurtbox-warlord-proxxy-finnuh-f70bd3",
         "eid": "hurtbox-warlord-proxxy-f-4961",
         "track": "music",
@@ -4812,7 +4593,7 @@
         "why": "",
         "summary": "",
         "promoter": "",
-        "price": "$8.05-23",
+        "price": "20",
         "tags": [
           "trance",
           "techno"
@@ -4827,7 +4608,15 @@
         "image_generated": false,
         "popularity": 0,
         "enriched": 0,
-        "active": true
+        "active": true,
+        "lineup": [
+          {
+            "name": "Ava Blank"
+          },
+          {
+            "name": "Eva Myra May"
+          }
+        ]
       },
       {
         "id": "2026-09-28-music-afters-11c6fa",
@@ -5422,6 +5211,2077 @@
         "popularity": 0,
         "enriched": 0,
         "active": true
+      },
+      {
+        "id": "2026-09-28-music-clinic-x-reunite-x-local-frequ-b70909",
+        "eid": "clinic-x-reunite-x-local-0ca1",
+        "track": "music",
+        "category": "",
+        "name": "Clinic x Reunite x Local Frequencies",
+        "day": "Wed",
+        "date": "2026-09-30",
+        "time": "20:00",
+        "start": null,
+        "end": null,
+        "area": "",
+        "venue": "Jungle Hollywood",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "",
+        "tags": [],
+        "sources": [],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=Jungle%20Hollywood",
+          "apple": "https://maps.apple.com/?q=Jungle%20Hollywood"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-09-28-music-reunite-jungle-hollywood-prese-e03dc0",
+        "eid": "reunite-jungle-hollywood-7a7a",
+        "track": "music",
+        "category": "",
+        "name": "REUNITE & Jungle Hollywood present: CLINIC WEDNESDAY'S - LOCAL FREQUENCIES",
+        "day": "Wed",
+        "date": "2026-09-30",
+        "time": "19:00",
+        "start": null,
+        "end": null,
+        "area": "",
+        "venue": "Jungle Hollywood",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "0",
+        "tags": [],
+        "sources": [],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=Jungle%20Hollywood",
+          "apple": "https://maps.apple.com/?q=Jungle%20Hollywood"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true,
+        "lineup": [
+          {
+            "name": "DENYC"
+          },
+          {
+            "name": "RCKSLVR"
+          },
+          {
+            "name": "GRLFRND"
+          }
+        ]
+      },
+      {
+        "id": "2026-09-28-music-all-star-free-for-all-440401",
+        "eid": "all-star-free-for-all-a5ec",
+        "track": "music",
+        "category": "",
+        "name": "All Star Free For All",
+        "day": "Thu",
+        "date": "2026-10-01",
+        "time": "19:30",
+        "start": null,
+        "end": null,
+        "area": "",
+        "venue": "The Redwood Bar And Grill",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "Free",
+        "tags": [],
+        "sources": [],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=The%20Redwood%20Bar%20And%20Grill",
+          "apple": "https://maps.apple.com/?q=The%20Redwood%20Bar%20And%20Grill"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-09-28-music-machine-club-10-1-majick-remy-456462",
+        "eid": "machine-club-10-1-majick-fa05",
+        "track": "music",
+        "category": "",
+        "name": "Machine Club 10/1 -  Majick, Remy Marc, Gina Kuhn",
+        "day": "Thu",
+        "date": "2026-10-01",
+        "time": "22:00",
+        "start": null,
+        "end": null,
+        "area": "",
+        "venue": "Club Tee Gee",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "0",
+        "tags": [],
+        "sources": [],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=Club%20Tee%20Gee",
+          "apple": "https://maps.apple.com/?q=Club%20Tee%20Gee"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true,
+        "lineup": [
+          {
+            "name": "Remy Marc"
+          }
+        ]
+      },
+      {
+        "id": "2026-09-28-music-night-shift-after-hours-a68644",
+        "eid": "night-shift-after-hours-9819",
+        "track": "music",
+        "category": "",
+        "name": "NIGHT SHIFT AFTER HOURS",
+        "day": "Thu",
+        "date": "2026-10-01",
+        "time": "23:00",
+        "start": null,
+        "end": null,
+        "area": "",
+        "venue": "The Lexington",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "0",
+        "tags": [],
+        "sources": [],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=The%20Lexington",
+          "apple": "https://maps.apple.com/?q=The%20Lexington"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-09-28-music-recollect-underground-26fb75",
+        "eid": "recollect-underground-71b4",
+        "track": "music",
+        "category": "",
+        "name": "RECOLLECT UNDERGROUND",
+        "day": "Thu",
+        "date": "2026-10-01",
+        "time": "23:00",
+        "start": null,
+        "end": null,
+        "area": "",
+        "venue": "TBA - INFO ON INSTAGRAM @RECOLLECTUNDERGROUND",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "10",
+        "tags": [],
+        "sources": [],
+        "tickets": [],
+        "maps": {},
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true,
+        "lineup": [
+          {
+            "name": "Matt Egbert"
+          },
+          {
+            "name": "sumkind"
+          }
+        ]
+      },
+      {
+        "id": "2026-09-28-music-sade-night-la-10-year-annivers-6c4a1d",
+        "eid": "sade-night-la-10-year-an-558a",
+        "track": "music",
+        "category": "",
+        "name": "Sade Night LA 10 Year Anniversary",
+        "day": "Thu",
+        "date": "2026-10-01",
+        "time": "21:00",
+        "start": null,
+        "end": null,
+        "area": "",
+        "venue": "General Lee's Cocktail House",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "0",
+        "tags": [],
+        "sources": [],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=General%20Lee%27s%20Cocktail%20House",
+          "apple": "https://maps.apple.com/?q=General%20Lee%27s%20Cocktail%20House"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-09-28-music-anemone-da0eee",
+        "eid": "anemone-b4e5",
+        "track": "music",
+        "category": "",
+        "name": "anemone",
+        "day": "Fri",
+        "date": "2026-10-02",
+        "time": "20:00",
+        "start": null,
+        "end": null,
+        "area": "",
+        "venue": "The Airliner",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "",
+        "tags": [],
+        "sources": [],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=The%20Airliner",
+          "apple": "https://maps.apple.com/?q=The%20Airliner"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true,
+        "lineup": [
+          {
+            "name": "DIZI"
+          },
+          {
+            "name": "Guaparda"
+          },
+          {
+            "name": "Ava Blank"
+          }
+        ]
+      },
+      {
+        "id": "2026-09-28-music-chicks-kicks-rave-85ed9a",
+        "eid": "chicks-kicks-rave-7e26",
+        "track": "music",
+        "category": "",
+        "name": "CHICKS & KICKS RAVE",
+        "day": "Fri",
+        "date": "2026-10-02",
+        "time": "10:00",
+        "start": null,
+        "end": null,
+        "area": "",
+        "venue": "TBA - TXT “FLOWR” TO 909-259-4249",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "$5 / $15",
+        "tags": [],
+        "sources": [],
+        "tickets": [],
+        "maps": {},
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-09-28-music-das-bunker-30th-anniversary-co-795fa5",
+        "eid": "das-bunker-30th-annivers-667b",
+        "track": "music",
+        "category": "",
+        "name": "Das Bunker 30th Anniversary: Combichrist with The Treasury",
+        "day": "Fri",
+        "date": "2026-10-02",
+        "time": "21:00",
+        "start": null,
+        "end": null,
+        "area": "",
+        "venue": "Catch One",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "$30",
+        "tags": [],
+        "sources": [],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=Catch%20One",
+          "apple": "https://maps.apple.com/?q=Catch%20One"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-09-28-music-dj-godfather-bae-bae-sym-nne-c63bf5",
+        "eid": "dj-godfather-bae-bae-sym-4b66",
+        "track": "music",
+        "category": "",
+        "name": "DJ Godfather, BAE BAE, SYMØNNE",
+        "day": "Fri",
+        "date": "2026-10-02",
+        "time": "23:59",
+        "start": null,
+        "end": null,
+        "area": "",
+        "venue": "TBA - Downtown LA",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "5-50",
+        "tags": [],
+        "sources": [],
+        "tickets": [],
+        "maps": {},
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true,
+        "lineup": [
+          {
+            "name": "DJ Godfather"
+          },
+          {
+            "name": "BAE BAE"
+          },
+          {
+            "name": "Symonne"
+          }
+        ]
+      },
+      {
+        "id": "2026-09-28-music-fast-at-work-5-year-anniversar-674376",
+        "eid": "fast-at-work-5-year-anni-93c6",
+        "track": "music",
+        "category": "",
+        "name": "Fast At Work 5-Year Anniversary: Darwin, Verraco, Carré, Trax Unit, Samwise",
+        "day": "Fri",
+        "date": "2026-10-02",
+        "time": "23:00",
+        "start": null,
+        "end": null,
+        "area": "LA",
+        "venue": "TBA",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "15-35",
+        "tags": [
+          "house",
+          "electro",
+          "techno",
+          "club"
+        ],
+        "sources": [],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=LA",
+          "apple": "https://maps.apple.com/?q=LA"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true,
+        "lineup": [
+          {
+            "name": "Darwin"
+          },
+          {
+            "name": "Verraco"
+          },
+          {
+            "name": "Carré"
+          },
+          {
+            "name": "Trax Unit"
+          },
+          {
+            "name": "Samwise (US)"
+          }
+        ]
+      },
+      {
+        "id": "2026-09-28-music-grace-bones-presents-house-of-fb9960",
+        "eid": "grace-bones-presents-hou-e780",
+        "track": "music",
+        "category": "",
+        "name": "Grace Bones presents House of Chic Radio",
+        "day": "Fri",
+        "date": "2026-10-02",
+        "time": "16:00",
+        "start": null,
+        "end": null,
+        "area": "",
+        "venue": "TBA -  Select Fm London",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "0",
+        "tags": [],
+        "sources": [],
+        "tickets": [],
+        "maps": {},
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true,
+        "lineup": [
+          {
+            "name": "GraceBones"
+          },
+          {
+            "name": "Leftwing & Kody"
+          }
+        ]
+      },
+      {
+        "id": "2026-09-28-music-indeed-indeed-with-sexxy-dexx-7f26a8",
+        "eid": "indeed-indeed-with-sexxy-eac7",
+        "track": "music",
+        "category": "",
+        "name": "Indeed Indeed with Sexxy Dexx, DJ Frane, Zackey Force Funk, XL Middleton, Moniquea, Kaistar",
+        "day": "Fri",
+        "date": "2026-10-02",
+        "time": "21:00",
+        "start": null,
+        "end": null,
+        "area": "",
+        "venue": "Hello Stranger",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "$15-$20",
+        "tags": [],
+        "sources": [],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=Hello%20Stranger",
+          "apple": "https://maps.apple.com/?q=Hello%20Stranger"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-09-28-music-loose-5558ac",
+        "eid": "loose-8724",
+        "track": "music",
+        "category": "",
+        "name": "Loose",
+        "day": "Fri",
+        "date": "2026-10-02",
+        "time": "21:00",
+        "start": null,
+        "end": null,
+        "area": "",
+        "venue": "Grand Star Jazz Club",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "",
+        "tags": [],
+        "sources": [],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=Grand%20Star%20Jazz%20Club",
+          "apple": "https://maps.apple.com/?q=Grand%20Star%20Jazz%20Club"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true,
+        "lineup": [
+          {
+            "name": "Rob Aquino"
+          },
+          {
+            "name": "deesco"
+          }
+        ]
+      },
+      {
+        "id": "2026-09-28-music-marco-weibel-fa764b",
+        "eid": "marco-weibel-d566",
+        "track": "music",
+        "category": "",
+        "name": "Marco Weibel",
+        "day": "Fri",
+        "date": "2026-10-02",
+        "time": "21:00",
+        "start": null,
+        "end": null,
+        "area": "",
+        "venue": "Palomino",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "0",
+        "tags": [],
+        "sources": [],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=Palomino",
+          "apple": "https://maps.apple.com/?q=Palomino"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true,
+        "lineup": [
+          {
+            "name": "Marco Weibel"
+          }
+        ]
+      },
+      {
+        "id": "2026-09-28-music-pitchblack-playback-a-tribe-ca-ec0f42",
+        "eid": "pitchblack-playback-a-tr-3156",
+        "track": "music",
+        "category": "",
+        "name": "Pitchblack Playback: A Tribe Called Quest 'The Low End Theory' (35th Anniversary)",
+        "day": "Fri",
+        "date": "2026-10-02",
+        "time": "19:00",
+        "start": null,
+        "end": null,
+        "area": "",
+        "venue": "The Aster",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "£14.97",
+        "tags": [],
+        "sources": [],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=The%20Aster",
+          "apple": "https://maps.apple.com/?q=The%20Aster"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-09-28-music-psychic-skin-14x21-miles-merce-55248f",
+        "eid": "psychic-skin-14x21-miles-61bb",
+        "track": "music",
+        "category": "",
+        "name": "Psychic Skin & 14X21: Miles Mercer, Razrbark, Luke Mele, Steven Hickey, scopa",
+        "day": "Fri",
+        "date": "2026-10-02",
+        "time": "8pm-2:30am",
+        "start": "20:00",
+        "end": "02:30",
+        "area": "LA",
+        "venue": "TBA",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "$15 pre / $20",
+        "tags": [
+          "tech house",
+          "acid house",
+          "breaks",
+          "funky house",
+          "nu-disco"
+        ],
+        "sources": [],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=LA",
+          "apple": "https://maps.apple.com/?q=LA"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-09-28-music-psychic-skin-14x21-razrbark-mi-6f2fb2",
+        "eid": "psychic-skin-14x21-razrb-7ab4",
+        "track": "music",
+        "category": "",
+        "name": "Psychic Skin & 14x21: Razrbark, Miles Mercer",
+        "day": "Fri",
+        "date": "2026-10-02",
+        "time": "20:00",
+        "start": null,
+        "end": null,
+        "area": "",
+        "venue": "TBA - 14x21",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "15",
+        "tags": [],
+        "sources": [],
+        "tickets": [],
+        "maps": {},
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true,
+        "lineup": [
+          {
+            "name": "Miles Mercer"
+          },
+          {
+            "name": "Razrbark"
+          },
+          {
+            "name": "Luke Mele"
+          }
+        ]
+      },
+      {
+        "id": "2026-09-28-music-raspoutine-presents-rckslvr-sp-ea1277",
+        "eid": "raspoutine-presents-rcks-e715",
+        "track": "music",
+        "category": "",
+        "name": "RASPOUTINE presents: RCKSLVR + SPECIAL GUEST",
+        "day": "Fri",
+        "date": "2026-10-02",
+        "time": "22:30",
+        "start": null,
+        "end": null,
+        "area": "",
+        "venue": "Raspoutine Los Angeles",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "0",
+        "tags": [],
+        "sources": [],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=Raspoutine%20Los%20Angeles",
+          "apple": "https://maps.apple.com/?q=Raspoutine%20Los%20Angeles"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true,
+        "lineup": [
+          {
+            "name": "RCKSLVR"
+          }
+        ]
+      },
+      {
+        "id": "2026-09-28-music-rhythm2revolt-weekend-2-7330e7",
+        "eid": "rhythm2revolt-weekend-2-1643",
+        "track": "music",
+        "category": "",
+        "name": "Rhythm2Revolt Weekend 2",
+        "day": "Fri",
+        "date": "2026-10-02",
+        "time": "21:00",
+        "start": null,
+        "end": null,
+        "area": "",
+        "venue": "TBA - DTLA",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "",
+        "tags": [],
+        "sources": [],
+        "tickets": [],
+        "maps": {},
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true,
+        "lineup": [
+          {
+            "name": "BAE BAE"
+          },
+          {
+            "name": "Gay Felony"
+          },
+          {
+            "name": "Spiñorita"
+          },
+          {
+            "name": "Yessi"
+          },
+          {
+            "name": "5p3c141"
+          }
+        ]
+      },
+      {
+        "id": "2026-09-28-music-shane-sato-and-burnin-chancla-2feefb",
+        "eid": "shane-sato-and-burnin-ch-9c63",
+        "track": "music",
+        "category": "",
+        "name": "Shane Sato and Burnin' Chancla at Pasaporte Records in Highland Park",
+        "day": "Fri",
+        "date": "2026-10-02",
+        "time": "19:00",
+        "start": null,
+        "end": null,
+        "area": "",
+        "venue": "De La Playa Records & Leisure",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "15",
+        "tags": [],
+        "sources": [],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=De%20La%20Playa%20Records%20%26%20Leisure",
+          "apple": "https://maps.apple.com/?q=De%20La%20Playa%20Records%20%26%20Leisure"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-09-28-music-the-snares-f78c71",
+        "eid": "the-snares-ce52",
+        "track": "music",
+        "category": "",
+        "name": "The Snares",
+        "day": "Fri",
+        "date": "2026-10-02",
+        "time": "20:00",
+        "start": null,
+        "end": null,
+        "area": "",
+        "venue": "The Redwood Bar And Grill",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "",
+        "tags": [],
+        "sources": [],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=The%20Redwood%20Bar%20And%20Grill",
+          "apple": "https://maps.apple.com/?q=The%20Redwood%20Bar%20And%20Grill"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-09-28-music-thelma-and-the-sleaze-5d4ab2",
+        "eid": "thelma-and-the-sleaze-4c97",
+        "track": "music",
+        "category": "",
+        "name": "Thelma and the Sleaze",
+        "day": "Fri",
+        "date": "2026-10-02",
+        "time": "20:00",
+        "start": null,
+        "end": null,
+        "area": "",
+        "venue": "The Redwood Bar And Grill",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "",
+        "tags": [],
+        "sources": [],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=The%20Redwood%20Bar%20And%20Grill",
+          "apple": "https://maps.apple.com/?q=The%20Redwood%20Bar%20And%20Grill"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-09-28-music-toy-tonics-jam-los-angeles-8d834a",
+        "eid": "toy-tonics-jam-los-angel-3beb",
+        "track": "music",
+        "category": "",
+        "name": "Toy Tonics Jam - Los Angeles",
+        "day": "Fri",
+        "date": "2026-10-02",
+        "time": "21:00",
+        "start": null,
+        "end": null,
+        "area": "",
+        "venue": "TBA - DTLA",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "20-40",
+        "tags": [],
+        "sources": [],
+        "tickets": [],
+        "maps": {},
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true,
+        "lineup": [
+          {
+            "name": "Cody Currie"
+          },
+          {
+            "name": "Barbara Boeing"
+          },
+          {
+            "name": "Xica Soul"
+          }
+        ]
+      },
+      {
+        "id": "2026-09-28-music-utopia-presents-dialed-records-184a90",
+        "eid": "utopia-presents-dialed-r-700f",
+        "track": "music",
+        "category": "",
+        "name": "Utopia presents Dialed Records: Jay Tripwire, B.Love",
+        "day": "Fri",
+        "date": "2026-10-02",
+        "time": "23:00",
+        "start": "23:00",
+        "end": null,
+        "area": "",
+        "venue": "Utopia",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "free w/rsvp b4 1 / $12+",
+        "tags": [
+          "tech house",
+          "minimal"
+        ],
+        "sources": [],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=Utopia",
+          "apple": "https://maps.apple.com/?q=Utopia"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true,
+        "lineup": [
+          {
+            "name": "Jay Tripwire"
+          },
+          {
+            "name": "B.Love"
+          }
+        ]
+      },
+      {
+        "id": "2026-09-28-music-yvette-janine-jackson-with-rad-0494e7",
+        "eid": "yvette-janine-jackson-wi-35fb",
+        "track": "music",
+        "category": "",
+        "name": "Yvette Janine Jackson with Radio Opera Workshop",
+        "day": "Fri",
+        "date": "2026-10-02",
+        "time": "20:00",
+        "start": null,
+        "end": null,
+        "area": "",
+        "venue": "CAP Ucla Nimoy Theater",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "$38.08 - $48.67",
+        "tags": [],
+        "sources": [],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=CAP%20Ucla%20Nimoy%20Theater",
+          "apple": "https://maps.apple.com/?q=CAP%20Ucla%20Nimoy%20Theater"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-09-28-music-all-day-i-dream-of-los-angeles-1e89e9",
+        "eid": "all-day-i-dream-of-los-a-3d67",
+        "track": "music",
+        "category": "",
+        "name": "All Day I Dream Of Los Angeles",
+        "day": "Sat",
+        "date": "2026-10-03",
+        "time": "15:00",
+        "start": null,
+        "end": null,
+        "area": "",
+        "venue": "Pershing Square",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "",
+        "tags": [],
+        "sources": [],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=Pershing%20Square",
+          "apple": "https://maps.apple.com/?q=Pershing%20Square"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true,
+        "lineup": [
+          {
+            "name": "Lee Burridge"
+          },
+          {
+            "name": "Parallelle"
+          },
+          {
+            "name": "Tim Green"
+          },
+          {
+            "name": "Birds of Mind"
+          },
+          {
+            "name": "Anton Tumas"
+          }
+        ]
+      },
+      {
+        "id": "2026-09-28-music-certified-groovers-sabrosura-b-7ffb77",
+        "eid": "certified-groovers-sabro-ab34",
+        "track": "music",
+        "category": "",
+        "name": "Certified Groovers: Sabrosura Boyz [all night long]",
+        "day": "Sat",
+        "date": "2026-10-03",
+        "time": "23:00",
+        "start": null,
+        "end": null,
+        "area": "",
+        "venue": "TBA - Downtown Los Angeles",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "",
+        "tags": [],
+        "sources": [],
+        "tickets": [],
+        "maps": {},
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true,
+        "lineup": [
+          {
+            "name": "Sabrosura Boyz"
+          },
+          {
+            "name": "D.Zeledon"
+          }
+        ]
+      },
+      {
+        "id": "2026-09-28-music-death-lens-3f8e7f",
+        "eid": "death-lens-8a8b",
+        "track": "music",
+        "category": "",
+        "name": "Death Lens",
+        "day": "Sat",
+        "date": "2026-10-03",
+        "time": "20:00",
+        "start": null,
+        "end": null,
+        "area": "",
+        "venue": "The Roxy",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "$30",
+        "tags": [],
+        "sources": [],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=The%20Roxy",
+          "apple": "https://maps.apple.com/?q=The%20Roxy"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true,
+        "lineup": [
+          {
+            "name": "Chico"
+          }
+        ]
+      },
+      {
+        "id": "2026-09-28-music-distrikt-fundrasier-los-angele-39d4bd",
+        "eid": "distrikt-fundrasier-los-9282",
+        "track": "music",
+        "category": "",
+        "name": "DISTRIKT Fundrasier - Los Angeles",
+        "day": "Sat",
+        "date": "2026-10-03",
+        "time": "22:00",
+        "start": null,
+        "end": null,
+        "area": "",
+        "venue": "TBA",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "25-40",
+        "tags": [],
+        "sources": [],
+        "tickets": [],
+        "maps": {},
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true,
+        "lineup": [
+          {
+            "name": "Brian Cid"
+          },
+          {
+            "name": "Dance Spirit"
+          },
+          {
+            "name": "Maria Nocheydía"
+          },
+          {
+            "name": "m.O.N.R.O.E."
+          }
+        ]
+      },
+      {
+        "id": "2026-09-28-music-the-drool-brothers-8fb468",
+        "eid": "the-drool-brothers-fa9d",
+        "track": "music",
+        "category": "",
+        "name": "The Drool Brothers",
+        "day": "Sat",
+        "date": "2026-10-03",
+        "time": "20:00",
+        "start": null,
+        "end": null,
+        "area": "",
+        "venue": "The Redwood Bar And Grill",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "$10",
+        "tags": [],
+        "sources": [],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=The%20Redwood%20Bar%20And%20Grill",
+          "apple": "https://maps.apple.com/?q=The%20Redwood%20Bar%20And%20Grill"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-09-28-music-hands-on-your-hips-bcf347",
+        "eid": "hands-on-your-hips-3e03",
+        "track": "music",
+        "category": "",
+        "name": "Hands On Your Hips",
+        "day": "Sat",
+        "date": "2026-10-03",
+        "time": "21:00",
+        "start": null,
+        "end": null,
+        "area": "",
+        "venue": "Detour Los Angeles",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "12",
+        "tags": [],
+        "sources": [],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=Detour%20Los%20Angeles",
+          "apple": "https://maps.apple.com/?q=Detour%20Los%20Angeles"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true,
+        "lineup": [
+          {
+            "name": "SJAYY"
+          },
+          {
+            "name": "VICTORIA MOURA"
+          }
+        ]
+      },
+      {
+        "id": "2026-09-28-music-italo-horror-disco-with-street-9dbdbb",
+        "eid": "italo-horror-disco-with-f154",
+        "track": "music",
+        "category": "",
+        "name": "Italo Horror Disco with Street Cleaner LIVE & Dark Karaoke",
+        "day": "Sat",
+        "date": "2026-10-03",
+        "time": "21:00",
+        "start": null,
+        "end": null,
+        "area": "",
+        "venue": "Blue Goose Lounge",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "5-10",
+        "tags": [],
+        "sources": [],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=Blue%20Goose%20Lounge",
+          "apple": "https://maps.apple.com/?q=Blue%20Goose%20Lounge"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-09-28-music-italo-night-little-tokyo-e5518f",
+        "eid": "italo-night-little-tokyo-3cfb",
+        "track": "music",
+        "category": "",
+        "name": "Italo-Night Little Tokyo",
+        "day": "Sat",
+        "date": "2026-10-03",
+        "time": "20:00",
+        "start": null,
+        "end": null,
+        "area": "",
+        "venue": "The Mermaid",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "0.00",
+        "tags": [],
+        "sources": [],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=The%20Mermaid",
+          "apple": "https://maps.apple.com/?q=The%20Mermaid"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-09-28-music-jacob-the-horse-cff1c7",
+        "eid": "jacob-the-horse-0117",
+        "track": "music",
+        "category": "",
+        "name": "Jacob The Horse",
+        "day": "Sat",
+        "date": "2026-10-03",
+        "time": "16:00",
+        "start": null,
+        "end": null,
+        "area": "",
+        "venue": "The Redwood Bar And Grill",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "$10",
+        "tags": [],
+        "sources": [],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=The%20Redwood%20Bar%20And%20Grill",
+          "apple": "https://maps.apple.com/?q=The%20Redwood%20Bar%20And%20Grill"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-09-28-music-lad-w-and-dublab-present-rhyth-eb31cb",
+        "eid": "lad-w-and-dublab-present-2a9d",
+        "track": "music",
+        "category": "",
+        "name": "LAD/W and dublab present RHYTHM OF THE NIGHT",
+        "day": "Sat",
+        "date": "2026-10-03",
+        "time": "20:00",
+        "start": null,
+        "end": null,
+        "area": "",
+        "venue": "Small Green Door",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "",
+        "tags": [],
+        "sources": [],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=Small%20Green%20Door",
+          "apple": "https://maps.apple.com/?q=Small%20Green%20Door"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true,
+        "lineup": [
+          {
+            "name": "Xica Soul"
+          },
+          {
+            "name": "Mamabear"
+          },
+          {
+            "name": "ANTHNY GBRIEL"
+          },
+          {
+            "name": "Maral"
+          },
+          {
+            "name": "Juliet Mendoza"
+          },
+          {
+            "name": "Chloëdees"
+          }
+        ]
+      },
+      {
+        "id": "2026-09-28-music-midnight-lovers-with-eli-escob-42f896",
+        "eid": "midnight-lovers-with-eli-0e7d",
+        "track": "music",
+        "category": "",
+        "name": "Midnight Lovers with Eli Escobar (Open to Close)",
+        "day": "Sat",
+        "date": "2026-10-03",
+        "time": "19:00",
+        "start": null,
+        "end": null,
+        "area": "",
+        "venue": "TBA - Open Air: Downtown Los Angeles",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "$20-40",
+        "tags": [],
+        "sources": [],
+        "tickets": [],
+        "maps": {},
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true,
+        "lineup": [
+          {
+            "name": "Eli Escobar"
+          }
+        ]
+      },
+      {
+        "id": "2026-09-28-music-pier-play-los-angeles-1c23fd",
+        "eid": "pier-play-los-angeles-b7af",
+        "track": "music",
+        "category": "",
+        "name": "Pier Play - Los Angeles",
+        "day": "Sat",
+        "date": "2026-10-03",
+        "time": "14:30",
+        "start": null,
+        "end": null,
+        "area": "",
+        "venue": "Santa Monica Pier",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "$",
+        "tags": [],
+        "sources": [],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=Santa%20Monica%20Pier",
+          "apple": "https://maps.apple.com/?q=Santa%20Monica%20Pier"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true,
+        "lineup": [
+          {
+            "name": "Meduza"
+          },
+          {
+            "name": "Monolink"
+          },
+          {
+            "name": "Mind Against"
+          },
+          {
+            "name": "LP Giobbi"
+          },
+          {
+            "name": "Claptone"
+          },
+          {
+            "name": "Kaz James"
+          },
+          {
+            "name": "Rinzen"
+          }
+        ]
+      },
+      {
+        "id": "2026-09-28-music-sherelle-todd-edwards-pangaea-7aeee2",
+        "eid": "sherelle-todd-edwards-pa-b68f",
+        "track": "music",
+        "category": "",
+        "name": "Sherelle, Todd Edwards, Pangaea, Danny Daze, Mia Koden",
+        "day": "Sat",
+        "date": "2026-10-03",
+        "time": "10pm-4am",
+        "start": "22:00",
+        "end": "04:00",
+        "area": "LA",
+        "venue": "Los Globos",
+        "address": "3040 W Sunset Blvd, Los Angeles, CA 90026",
+        "why": "A rare US pairing of UK garage legend Todd Edwards with jungle/bassline force Sherelle and Hessle Audio co-founder Pangaea.",
+        "summary": "Direct Drive and Rhonda INTL bring UK garage/jungle DJ Sherelle, garage originator Todd Edwards, and Hessle Audio's Pangaea together for a bass-heavy night at Los Globos, alongside Danny Daze, Mia Koden and bahar khadem.",
+        "promoter": "Direct Drive & Rhonda INTL",
+        "price": "$17.25 b4 11 / $23-34.50",
+        "tags": [
+          "techno",
+          "uk garage",
+          "electro",
+          "house",
+          "uk-garage",
+          "jungle",
+          "bass"
+        ],
+        "sources": [],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=Los%20Globos%2C%20LA",
+          "apple": "https://maps.apple.com/?q=Los%20Globos%2C%20LA"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true,
+        "lineup": [
+          {
+            "name": "SHERELLE",
+            "instagram": null
+          },
+          {
+            "name": "Todd Edwards",
+            "instagram": null
+          },
+          {
+            "name": "Pangaea",
+            "instagram": null
+          },
+          {
+            "name": "Danny Daze",
+            "instagram": null
+          },
+          {
+            "name": "Mia Koden",
+            "instagram": null
+          },
+          {
+            "name": "bahar khadem",
+            "instagram": null
+          }
+        ]
+      },
+      {
+        "id": "2026-09-28-music-spin-the-bottle-bd289c",
+        "eid": "spin-the-bottle-a8b3",
+        "track": "music",
+        "category": "",
+        "name": "Spin the Bottle",
+        "day": "Sat",
+        "date": "2026-10-03",
+        "time": "22:00",
+        "start": null,
+        "end": null,
+        "area": "",
+        "venue": "The Airliner",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "",
+        "tags": [],
+        "sources": [],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=The%20Airliner",
+          "apple": "https://maps.apple.com/?q=The%20Airliner"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true,
+        "lineup": [
+          {
+            "name": "SOLTERA"
+          }
+        ]
+      },
+      {
+        "id": "2026-09-28-music-utopia-x-reunite-present-mikey-bc0f70",
+        "eid": "utopia-x-reunite-present-0417",
+        "track": "music",
+        "category": "",
+        "name": "Utopia x REUNITE present: MIKEY BARRENECHE & FRIENDS",
+        "day": "Sat",
+        "date": "2026-10-03",
+        "time": "23:00",
+        "start": null,
+        "end": null,
+        "area": "",
+        "venue": "Utopia",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "0",
+        "tags": [],
+        "sources": [],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=Utopia",
+          "apple": "https://maps.apple.com/?q=Utopia"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true,
+        "lineup": [
+          {
+            "name": "RCKSLVR"
+          },
+          {
+            "name": "Tempo"
+          },
+          {
+            "name": "Vesper"
+          }
+        ]
+      },
+      {
+        "id": "2026-09-28-music-vpn-presents-rhythms-n-grooves-32c1ec",
+        "eid": "vpn-presents-rhythms-n-g-788a",
+        "track": "music",
+        "category": "",
+        "name": "VPN presents: Rhythms *n* Grooves with NAYGOD, Drew Labarre, Saish K",
+        "day": "Sat",
+        "date": "2026-10-03",
+        "time": "20:00",
+        "start": null,
+        "end": null,
+        "area": "",
+        "venue": "Baby Battista @ Nico's",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "0",
+        "tags": [],
+        "sources": [],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=Baby%20Battista%20%40%20Nico%27s",
+          "apple": "https://maps.apple.com/?q=Baby%20Battista%20%40%20Nico%27s"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true,
+        "lineup": [
+          {
+            "name": "NAYGOD"
+          },
+          {
+            "name": "Saish K."
+          }
+        ]
+      },
+      {
+        "id": "2026-09-28-music-casual-a-queer-day-party-2175cf",
+        "eid": "casual-a-queer-day-party-76c6",
+        "track": "music",
+        "category": "",
+        "name": "Casual: A Queer Day Party",
+        "day": "Sun",
+        "date": "2026-10-04",
+        "time": "14:00",
+        "start": null,
+        "end": null,
+        "area": "",
+        "venue": "Dada Echo Park",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "",
+        "tags": [],
+        "sources": [],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=Dada%20Echo%20Park",
+          "apple": "https://maps.apple.com/?q=Dada%20Echo%20Park"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true,
+        "lineup": [
+          {
+            "name": "Terrell Brooke"
+          },
+          {
+            "name": "BODII"
+          },
+          {
+            "name": "Cowboy Blvck"
+          }
+        ]
+      },
+      {
+        "id": "2026-09-28-music-closer-x-tyf-present-sundance-956eab",
+        "eid": "closer-x-tyf-present-sun-a483",
+        "track": "music",
+        "category": "",
+        "name": "CLOSER x TYF present SUNDANCE (Season Finale) with Lightleak & Cortes",
+        "day": "Sun",
+        "date": "2026-10-04",
+        "time": "16:00",
+        "start": null,
+        "end": null,
+        "area": "",
+        "venue": "TBA - DTLA",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "",
+        "tags": [],
+        "sources": [],
+        "tickets": [],
+        "maps": {},
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true,
+        "lineup": [
+          {
+            "name": "heelbite316"
+          }
+        ]
+      },
+      {
+        "id": "2026-09-28-music-dead-you-a18ab3",
+        "eid": "dead-you-d80c",
+        "track": "music",
+        "category": "",
+        "name": "Dead You",
+        "day": "Sun",
+        "date": "2026-10-04",
+        "time": "20:00",
+        "start": null,
+        "end": null,
+        "area": "",
+        "venue": "The Redwood Bar And Grill",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "$10",
+        "tags": [],
+        "sources": [],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=The%20Redwood%20Bar%20And%20Grill",
+          "apple": "https://maps.apple.com/?q=The%20Redwood%20Bar%20And%20Grill"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-09-28-music-mayumi-market-annual-filipino-cf61f6",
+        "eid": "mayumi-market-annual-fil-8bb1",
+        "track": "music",
+        "category": "",
+        "name": "Mayumi Market: Annual Filipino Fest",
+        "day": "Sun",
+        "date": "2026-10-04",
+        "time": "12:00",
+        "start": null,
+        "end": null,
+        "area": "",
+        "venue": "Common Space Brewery",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "",
+        "tags": [],
+        "sources": [],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=Common%20Space%20Brewery",
+          "apple": "https://maps.apple.com/?q=Common%20Space%20Brewery"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-09-28-music-smokey-lonesome-0d6274",
+        "eid": "smokey-lonesome-3cca",
+        "track": "music",
+        "category": "",
+        "name": "Smokey Lonesome",
+        "day": "Sun",
+        "date": "2026-10-04",
+        "time": "14:00",
+        "start": null,
+        "end": null,
+        "area": "",
+        "venue": "The Redwood Bar And Grill",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "$5",
+        "tags": [],
+        "sources": [],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=The%20Redwood%20Bar%20And%20Grill",
+          "apple": "https://maps.apple.com/?q=The%20Redwood%20Bar%20And%20Grill"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-09-28-music-sunday-dance-with-tom-of-engla-7d2412",
+        "eid": "sunday-dance-with-tom-of-e816",
+        "track": "music",
+        "category": "",
+        "name": "Sunday Dance with Tom of England and now also SOUND METAPHORS DJ'S",
+        "day": "Sun",
+        "date": "2026-10-04",
+        "time": "15:00",
+        "start": null,
+        "end": null,
+        "area": "LA",
+        "venue": "Better Tomorrow",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "$10-20",
+        "tags": [
+          "house"
+        ],
+        "sources": [],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=Better%20Tomorrow%2C%20Los%20Angeles",
+          "apple": "https://maps.apple.com/?q=Better%20Tomorrow%2C%20Los%20Angeles"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "https://party-scout.app/img/gen/sunday-dance-w-tom-of-en-437f.jpg",
+        "image_generated": true,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true,
+        "lineup": [
+          {
+            "name": "Tom of England"
+          },
+          {
+            "name": "Sound Metaphors Djs"
+          },
+          {
+            "name": "Juniör"
+          },
+          {
+            "name": "Warehouse Preservation Society"
+          }
+        ]
+      },
+      {
+        "id": "2026-09-28-music-sunday-sessions-la-vinyl-only-18af39",
+        "eid": "sunday-sessions-la-vinyl-7c17",
+        "track": "music",
+        "category": "House / Vinyl",
+        "name": "Sunday Sessions LA (Vinyl Only) Open Air",
+        "day": "Sun",
+        "date": "2026-10-04",
+        "time": "17:00",
+        "start": null,
+        "end": null,
+        "area": "LA",
+        "venue": "Apotheke",
+        "address": "1746 N Spring St, Los Angeles, CA 90012",
+        "why": "A vinyl-only crate-dig session in Apotheke's intimate cocktail-bar setting.",
+        "summary": "Sunday Sessions LA's weekly vinyl-only night at Apotheke, with Jordan Bernardo, Big Sam and Patrick Loda spinning curated deep cuts.",
+        "promoter": "",
+        "price": "0-35",
+        "tags": [
+          "vinyl-only",
+          "house",
+          "weekly"
+        ],
+        "sources": [
+          "https://www.sundaysessions.la/events"
+        ],
+        "tickets": [
+          "https://shotgun.live/events/sunday-sessions-la-08-24-93"
+        ],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=Los%20Angeles",
+          "apple": "https://maps.apple.com/?q=Los%20Angeles"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true,
+        "lineup": [
+          {
+            "name": "Jordan Bernardo"
+          },
+          {
+            "name": "Patrick Loda"
+          }
+        ]
+      },
+      {
+        "id": "2026-09-28-music-terrakroma-s-pop-up-ft-quantal-31de39",
+        "eid": "terrakroma-s-pop-up-ft-q-e9b0",
+        "track": "music",
+        "category": "",
+        "name": "Terrakroma's POP-UP Ft. Quantaloop & Bartek Industries",
+        "day": "Sun",
+        "date": "2026-10-04",
+        "time": "11:00",
+        "start": null,
+        "end": null,
+        "area": "",
+        "venue": "TBA",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "",
+        "tags": [],
+        "sources": [],
+        "tickets": [],
+        "maps": {},
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true,
+        "lineup": [
+          {
+            "name": "Quantaloop"
+          },
+          {
+            "name": "Bartek Industries"
+          },
+          {
+            "name": "Synchronometry"
+          },
+          {
+            "name": "Odalfer Daquees"
+          },
+          {
+            "name": "Musashi"
+          }
+        ]
       }
     ],
     "sports": [
