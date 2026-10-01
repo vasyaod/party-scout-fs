@@ -1,6 +1,6 @@
 {
   "kind": "stats",
-  "generated_at": "2026-10-01T05:25:37+00:00",
+  "generated_at": "2026-10-01T05:27:26+00:00",
   "weights_version": "v1",
   "total": {
     "n": 3848,
@@ -24,7 +24,7 @@
       "tags": 588,
       "maps": 134,
       "venue": 102,
-      "area": 42
+      "area": 41
     },
     "weights_version": "v1",
     "cities": 2,
@@ -55,7 +55,7 @@
           "time": 288,
           "summary": 286,
           "tags": 263,
-          "area": 42,
+          "area": 41,
           "maps": 34,
           "venue": 23
         },
@@ -487,7 +487,7 @@
           "summary": {
             "n": 195,
             "median": 0.6154,
-            "p25": 0.3889,
+            "p25": 0.4255,
             "pct_ge_075": 0.3897,
             "invalid": 0,
             "tba_rate": 0.1333,
@@ -502,7 +502,7 @@
               "why": 88,
               "summary": 79,
               "tags": 54,
-              "area": 42,
+              "area": 41,
               "price": 37,
               "time": 21,
               "maps": 16,
