@@ -7201,22 +7201,29 @@
         "id": "2026-10-12-music-role-model-181a11",
         "eid": "role-model-796d",
         "track": "music",
-        "category": "",
+        "category": "concert",
         "name": "Role Model",
         "day": "Sun",
         "date": "2026-10-18",
-        "time": "",
+        "time": "7:30 PM doors",
         "start": null,
         "end": null,
-        "area": "",
+        "area": "Berkeley",
         "venue": "Greek Theatre",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "2001 Gayley Rd, Berkeley, CA 94720",
+        "why": "Indie-pop/R&B singer-songwriter in an 8,500-capacity outdoor amphitheater, with Samia opening.",
+        "summary": "Role Model plays the Greek Theatre at UC Berkeley with support from Samia.",
         "promoter": "",
         "price": "",
-        "tags": [],
-        "sources": [],
+        "tags": [
+          "live music",
+          "indie pop",
+          "R&B",
+          "concert"
+        ],
+        "sources": [
+          "https://www.songkick.com/concerts/43281469-role-model-at-greek-theatre-uc-berkeley"
+        ],
         "tickets": [],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Greek%20Theatre",
@@ -7228,8 +7235,16 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
-        "active": true
+        "enriched": 1,
+        "active": true,
+        "lineup": [
+          {
+            "name": "Role Model"
+          },
+          {
+            "name": "Samia"
+          }
+        ]
       },
       {
         "id": "2026-10-12-music-saint-levant-1eb9d9",
