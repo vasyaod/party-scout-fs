@@ -6171,15 +6171,22 @@
         "time": "8:00PM",
         "start": "20:00",
         "end": null,
-        "area": "San Francisco",
+        "area": "Mission",
         "venue": "Bottom Of The Hill",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "1233 17th St, San Francisco, CA 94107",
+        "why": "Intimate Mission club show with a loud, heavy-leaning three-band bill for about $15.",
+        "summary": "Three-band bill at Bottom of the Hill: Castle headlining with Nite and Three Towers.",
         "promoter": "",
-        "price": "",
-        "tags": [],
-        "sources": [],
+        "price": "From $15",
+        "tags": [
+          "live-music",
+          "rock",
+          "metal",
+          "club-show"
+        ],
+        "sources": [
+          "https://www.jambase.com/show/castle-bottom-of-the-hill-20261025"
+        ],
         "tickets": [],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Bottom%20Of%20The%20Hill%2C%20San%20Francisco",
@@ -6191,8 +6198,22 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
-        "active": true
+        "enriched": 1,
+        "active": true,
+        "lineup": [
+          {
+            "name": "Castle",
+            "instagram": null
+          },
+          {
+            "name": "Nite",
+            "instagram": null
+          },
+          {
+            "name": "Three Towers",
+            "instagram": null
+          }
+        ]
       },
       {
         "id": "2026-10-19-music-everclear-344f51",
