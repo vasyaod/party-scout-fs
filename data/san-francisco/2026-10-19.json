@@ -7540,23 +7540,31 @@
         "id": "2026-10-19-sports-sacramento-kings-vs-memphis-gr-998f31",
         "eid": "sacramento-kings-vs-memp-9e97",
         "track": "sports",
-        "category": "",
+        "category": "sports",
         "name": "Sacramento Kings vs. Memphis Grizzlies",
         "day": "Sun",
         "date": "2026-10-25",
         "time": "6:00PM",
         "start": "18:00",
         "end": null,
-        "area": "San Francisco",
+        "area": "Sacramento",
         "venue": "Golden 1 Center",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "500 David J Stern Walk, Sacramento, CA 95814",
+        "why": "Pro basketball in Sacramento, about 90 miles from SF; a Sunday-evening game for hoops fans.",
+        "summary": "NBA regular-season home game for the Sacramento Kings against the Memphis Grizzlies at Golden 1 Center.",
         "promoter": "",
         "price": "",
-        "tags": [],
-        "sources": [],
-        "tickets": [],
+        "tags": [
+          "sports",
+          "nba",
+          "basketball"
+        ],
+        "sources": [
+          "https://www.ticketmaster.com/sacramento-kings-tickets/artist/806010"
+        ],
+        "tickets": [
+          "https://www.ticketmaster.com/sacramento-kings-tickets/artist/806010"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Golden%201%20Center%2C%20San%20Francisco",
           "apple": "https://maps.apple.com/?q=Golden%201%20Center%2C%20San%20Francisco"
@@ -7567,7 +7575,7 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       }
     ]
