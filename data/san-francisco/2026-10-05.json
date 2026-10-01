@@ -9626,23 +9626,34 @@
         "id": "2026-10-05-music-taking-back-sunday-ac9b11",
         "eid": "taking-back-sunday-920f",
         "track": "music",
-        "category": "",
+        "category": "concert",
         "name": "Taking Back Sunday",
         "day": "Sat",
         "date": "2026-10-10",
-        "time": "",
-        "start": null,
+        "time": "7pm",
+        "start": "19:00",
         "end": null,
-        "area": "",
+        "area": "Stanford",
         "venue": "Frost Amphitheater",
         "address": "",
-        "why": "",
-        "summary": "",
-        "promoter": "",
+        "why": "A 2000s emo triple bill under the stars: Taking Back Sunday, Thrice and Saves The Day on one night.",
+        "summary": "Emo and post-hardcore veterans Taking Back Sunday play an outdoor general-admission show at Stanford's Frost Amphitheater with Thrice and Saves The Day. Gates 6pm.",
+        "promoter": "Stanford Live / Goldenvoice",
         "price": "",
-        "tags": [],
-        "sources": [],
-        "tickets": [],
+        "tags": [
+          "live-music",
+          "emo",
+          "rock",
+          "outdoor",
+          "all-ages"
+        ],
+        "sources": [
+          "https://live.stanford.edu/events/26-frost/taking-back-sunday/",
+          "https://www.axs.com/events/1424062/taking-back-sunday-tickets"
+        ],
+        "tickets": [
+          "https://www.axs.com/events/1424062/taking-back-sunday-tickets"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Frost%20Amphitheater",
           "apple": "https://maps.apple.com/?q=Frost%20Amphitheater"
@@ -9650,11 +9661,25 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://party-scout.app/img/gen/taking-back-sunday-920f.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
-        "active": true
+        "enriched": 1,
+        "active": true,
+        "lineup": [
+          {
+            "name": "Taking Back Sunday",
+            "instagram": null
+          },
+          {
+            "name": "Thrice",
+            "instagram": null
+          },
+          {
+            "name": "Saves The Day",
+            "instagram": null
+          }
+        ]
       },
       {
         "id": "2026-10-05-music-tune-yards-foxtails-brigade-ga-13d8a6",
