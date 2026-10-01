@@ -5020,23 +5020,34 @@
         "id": "2026-10-19-music-haunted-uss-hornet-monster-bas-1040cb",
         "eid": "haunted-uss-hornet-monst-622d",
         "track": "music",
-        "category": "",
+        "category": "Halloween party",
         "name": "Haunted USS Hornet Monster Bash w/ Bowie Tribute Band (Alameda)",
         "day": "Sat",
         "date": "2026-10-24",
         "time": "8:00 pm",
         "start": "20:00",
-        "end": null,
-        "area": "San Francisco",
-        "venue": "",
-        "address": "",
-        "why": "",
-        "summary": "",
-        "promoter": "",
-        "price": "",
-        "tags": [],
-        "sources": [],
-        "tickets": [],
+        "end": "01:00",
+        "area": "Alameda",
+        "venue": "USS Hornet Sea, Air & Space Museum",
+        "address": "707 W Hornet Ave, Alameda, CA",
+        "why": "Dance to Bowie covers on the flight deck of a haunted aircraft carrier, with a $300 costume contest prize.",
+        "summary": "Annual Halloween costume party aboard the decommissioned USS Hornet aircraft carrier, with live music from David Bowie tribute band Starman SF, a big dance floor, food and multiple no-host bars.",
+        "promoter": "USS Hornet Museum",
+        "price": "$40 ($30 members)",
+        "tags": [
+          "halloween",
+          "costume",
+          "live-music",
+          "bowie-tribute",
+          "alameda"
+        ],
+        "sources": [
+          "https://uss-hornet.org/event/monsters-bash-2026/",
+          "https://www.eventbrite.com/e/monsters-bash-2026-tickets-1996114900401"
+        ],
+        "tickets": [
+          "https://www.eventbrite.com/e/monsters-bash-2026-tickets-1996114900401"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=San%20Francisco",
           "apple": "https://maps.apple.com/?q=San%20Francisco"
@@ -5044,11 +5055,16 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://party-scout.app/img/gen/haunted-uss-hornet-monst-622d.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
-        "active": true
+        "enriched": 1,
+        "active": true,
+        "lineup": [
+          {
+            "name": "Starman SF"
+          }
+        ]
       },
       {
         "id": "2026-10-19-music-hot-goth-night-halloween-skoto-666d2b",
