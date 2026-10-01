@@ -619,17 +619,21 @@
         "name": "Into The Woods presents Conducta (All Night Long)",
         "day": "Fri",
         "date": "2026-10-02",
-        "time": "",
+        "time": "22:00",
         "start": null,
         "end": null,
-        "area": "Los Angeles",
+        "area": "LA",
         "venue": "TBA",
         "address": "",
         "why": "",
         "summary": "",
         "promoter": "",
-        "price": "",
-        "tags": [],
+        "price": "$23-40.25",
+        "tags": [
+          "uk garage",
+          "breaks",
+          "house"
+        ],
         "sources": [],
         "tickets": [],
         "maps": {
@@ -639,11 +643,16 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
-        "image_generated": false,
+        "image": "https://party-scout.app/img/gen/into-the-woods-presents-fd6e.jpg",
+        "image_generated": true,
         "popularity": 0,
         "enriched": 1,
-        "active": true
+        "active": true,
+        "lineup": [
+          {
+            "name": "Conducta"
+          }
+        ]
       },
       {
         "id": "2026-09-28-music-narrow-head-celebrating-the-10-7a574f",
@@ -1146,7 +1155,7 @@
         "name": "Nightshift After Hours",
         "day": "Wed",
         "date": "2026-09-30",
-        "time": "11pm-5am",
+        "time": "23:00",
         "start": "23:00",
         "end": "05:00",
         "area": "LA",
@@ -1155,7 +1164,7 @@
         "why": "A real DTLA speakeasy running after-hours all week, entered through an alley with a secret DJ lineup",
         "summary": "Nightshift is a recurring after-hours speakeasy party at The Lexington in Downtown LA, running nightly with a secret underground-house DJ lineup curated by the Blind Tiger collective.",
         "promoter": "Blind Tiger",
-        "price": "free w/rsvp b4 1 / $23",
+        "price": "0",
         "tags": [
           "house",
           "after-hours",
@@ -1179,8 +1188,8 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
-        "image_generated": false,
+        "image": "https://party-scout.app/img/gen/nightshift-after-hours-d4d4.jpg",
+        "image_generated": true,
         "popularity": 0,
         "enriched": 1,
         "active": true
@@ -2386,66 +2395,6 @@
         "active": true
       },
       {
-        "id": "2026-09-28-music-sorbet-295ecd",
-        "eid": "sorbet-f2f8",
-        "track": "music",
-        "category": "Afters",
-        "name": "Sorbet",
-        "day": "Fri",
-        "date": "2026-10-02",
-        "time": "1am–5am",
-        "start": "01:00",
-        "end": "05:00",
-        "area": "LA",
-        "venue": "Echo Park",
-        "address": "",
-        "why": "LA's buzziest queer afters — secret Echo Park location revealed day-of, dancing till sunrise.",
-        "summary": "Sorbet returns to a secret Echo Park location for a queer after-hours party, with Josh Steers, Boyfriend Dick, Shane Thomas and Triune spinning edits, jungle, ballroom and techno from 1am to 5am.",
-        "promoter": "Sorbet",
-        "price": "$10",
-        "tags": [
-          "queer",
-          "afters",
-          "lgbtq",
-          "techno",
-          "jungle",
-          "ballroom",
-          "21+"
-        ],
-        "sources": [],
-        "tickets": [],
-        "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=Echo%20Park%2C%20LA",
-          "apple": "https://maps.apple.com/?q=Echo%20Park%2C%20LA"
-        },
-        "coords": null,
-        "coords_precise": false,
-        "ra": {},
-        "image": "",
-        "image_generated": false,
-        "popularity": 0,
-        "enriched": 1,
-        "active": true,
-        "lineup": [
-          {
-            "name": "Josh Steers",
-            "instagram": null
-          },
-          {
-            "name": "Boyfriend Dick",
-            "instagram": null
-          },
-          {
-            "name": "Shane Thomas",
-            "instagram": null
-          },
-          {
-            "name": "Triune",
-            "instagram": null
-          }
-        ]
-      },
-      {
         "id": "2026-09-28-music-tim-burton-rave-5f1a74",
         "eid": "tim-burton-rave-8591",
         "track": "music",
@@ -2515,92 +2464,6 @@
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=LA",
           "apple": "https://maps.apple.com/?q=LA"
-        },
-        "coords": null,
-        "coords_precise": false,
-        "ra": {},
-        "image": "",
-        "image_generated": false,
-        "popularity": 0,
-        "enriched": 1,
-        "active": true
-      },
-      {
-        "id": "2026-09-28-music-victor-s-the-devil-wears-lace-0d2084",
-        "eid": "victor-s-the-devil-wears-5f30",
-        "track": "music",
-        "category": "",
-        "name": "Victor's: The Devil Wears Lace & Leather",
-        "day": "Fri",
-        "date": "2026-10-02",
-        "time": "9pm–2am",
-        "start": "21:00",
-        "end": "02:00",
-        "area": "Long Beach",
-        "venue": "Falcon North",
-        "address": "2020 E Artesia Blvd, Long Beach, CA 90805",
-        "why": "A Halloween masquerade lingerie party turning up the leather-and-lace dress code a notch above Hump's usual Victor's night",
-        "summary": "VICTOR'S returns to Falcon North for a Halloween masquerade edition, The Devil Wears Lace & Leather, with a lingerie/leather dress code, masks, and DJ Lord Izac.",
-        "promoter": "Hump Events",
-        "price": "$15 before 10/$20-25",
-        "tags": [
-          "halloween",
-          "masquerade",
-          "lingerie",
-          "leather",
-          "queer",
-          "21+"
-        ],
-        "sources": [
-          "https://humpevents.com/victors",
-          "https://www.eventbrite.com/e/victors-the-devil-wears-lace-tickets-1997162372418?aff=humpevents"
-        ],
-        "tickets": [
-          "https://www.eventbrite.com/e/victors-the-devil-wears-lace-tickets-1997162372418?aff=humpevents"
-        ],
-        "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=Falcon%20North%2C%20LA",
-          "apple": "https://maps.apple.com/?q=Falcon%20North%2C%20LA"
-        },
-        "coords": null,
-        "coords_precise": false,
-        "ra": {},
-        "image": "https://party-scout.app/img/gen/victor-s-the-devil-wears-5f30.jpg",
-        "image_generated": false,
-        "popularity": 0,
-        "enriched": 1,
-        "active": true,
-        "lineup": [
-          {
-            "name": "Lord Izac",
-            "instagram": null
-          }
-        ]
-      },
-      {
-        "id": "2026-09-28-music-2n1t3-2-furious-05-46b51b",
-        "eid": "2n1t3-2-furious-05-90e0",
-        "track": "music",
-        "category": "",
-        "name": "2N1T3 2 Furious #05",
-        "day": "Sat",
-        "date": "2026-10-03",
-        "time": "",
-        "start": null,
-        "end": null,
-        "area": "LA",
-        "venue": "11770 Foothill Blvd",
-        "address": "",
-        "why": "",
-        "summary": "",
-        "promoter": "",
-        "price": "Free",
-        "tags": [],
-        "sources": [],
-        "tickets": [],
-        "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=11770%20Foothill%20Blvd%2C%20LA",
-          "apple": "https://maps.apple.com/?q=11770%20Foothill%20Blvd%2C%20LA"
         },
         "coords": null,
         "coords_precise": false,
@@ -2824,54 +2687,6 @@
         "popularity": 0,
         "enriched": 1,
         "active": true
-      },
-      {
-        "id": "2026-09-28-music-disco-decadance-ec46d5",
-        "eid": "disco-decadance-7f9c",
-        "track": "music",
-        "category": "Disco",
-        "name": "Disco Decadance",
-        "day": "Sat",
-        "date": "2026-10-03",
-        "time": "9pm–1am",
-        "start": "21:00",
-        "end": "01:00",
-        "area": "Chinatown",
-        "venue": "Apotheke",
-        "address": "1746 N Spring St, Los Angeles, CA 90012",
-        "why": "Free RSVP disco/house night on Apotheke's LA River-side patio, no cover",
-        "summary": "Disco Decadance is Apotheke's recurring disco and house night, spotlighting the genre's roots in freedom and self-expression with resident Dirtie Blonde. No cover with RSVP; table reservations via Resy.",
-        "promoter": "",
-        "price": "Free w/RSVP",
-        "tags": [
-          "disco",
-          "house",
-          "free",
-          "rsvp",
-          "21+"
-        ],
-        "sources": [
-          "https://ra.co/dj/dirtieblonde/tour-dates"
-        ],
-        "tickets": [],
-        "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=Apotheke%2C%20LA",
-          "apple": "https://maps.apple.com/?q=Apotheke%2C%20LA"
-        },
-        "coords": null,
-        "coords_precise": false,
-        "ra": {},
-        "image": "",
-        "image_generated": false,
-        "popularity": 0,
-        "enriched": 1,
-        "active": true,
-        "lineup": [
-          {
-            "name": "Dirtie Blonde",
-            "instagram": null
-          }
-        ]
       },
       {
         "id": "2026-09-28-music-distrikt-fundraiser-bb4a8d",
@@ -3443,7 +3258,7 @@
         "name": "Paradisco",
         "day": "Sat",
         "date": "2026-10-03",
-        "time": "10pm-2am",
+        "time": "22:00",
         "start": "22:00",
         "end": null,
         "area": "LA",
@@ -3452,7 +3267,7 @@
         "why": "Disco house on a glowing checkered dance floor, with roller skaters gliding through the crowd.",
         "summary": "Paradisco is a recurring disco and disco-house night at Kiss Kiss Bang Bang, the Houston Bros' retro-futuristic room with a glowing checkered dance floor and live roller-skater performances.",
         "promoter": "",
-        "price": "free",
+        "price": "0",
         "tags": [
           "disco",
           "disco-house",
@@ -3468,8 +3283,8 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
-        "image_generated": false,
+        "image": "https://party-scout.app/img/gen/paradisco-4fda.jpg",
+        "image_generated": true,
         "popularity": 0,
         "enriched": 1,
         "active": true
@@ -7280,6 +7095,211 @@
           },
           {
             "name": "Musashi"
+          }
+        ]
+      },
+      {
+        "id": "2026-09-28-music-sorbet-feat-josh-steers-boyfri-ff42cd",
+        "eid": "sorbet-feat-josh-steers-57bd",
+        "track": "music",
+        "category": "Afters",
+        "name": "Sorbet feat. Josh Steers, Boyfriend Dick, Shane Thomas & Triune",
+        "day": "Fri",
+        "date": "2026-10-02",
+        "time": "23:00",
+        "start": "01:00",
+        "end": "05:00",
+        "area": "LA",
+        "venue": "TBA - Echo Park",
+        "address": "",
+        "why": "LA's buzziest queer afters — secret Echo Park location revealed day-of, dancing till sunrise.",
+        "summary": "Sorbet returns to a secret Echo Park location for a queer after-hours party, with Josh Steers, Boyfriend Dick, Shane Thomas and Triune spinning edits, jungle, ballroom and techno from 1am to 5am.",
+        "promoter": "Sorbet",
+        "price": "40",
+        "tags": [
+          "house",
+          "club music",
+          "breaks",
+          "queer",
+          "afters",
+          "lgbtq",
+          "techno",
+          "jungle",
+          "ballroom",
+          "21+"
+        ],
+        "sources": [],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=Echo%20Park%2C%20LA",
+          "apple": "https://maps.apple.com/?q=Echo%20Park%2C%20LA"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "https://party-scout.app/img/gen/sorbet-feat-josh-steers-57bd.jpg",
+        "image_generated": true,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true,
+        "lineup": [
+          {
+            "name": "Josh Steers"
+          },
+          {
+            "name": "Boyfriend Dick"
+          },
+          {
+            "name": "Shane Thomas"
+          }
+        ]
+      },
+      {
+        "id": "2026-09-28-music-victor-s-the-devil-wears-lace-a25291",
+        "eid": "victor-s-the-devil-wears-e0a8",
+        "track": "music",
+        "category": "",
+        "name": "Victor's : The Devil Wears Lace & Leather w/DJ Lord Izac",
+        "day": "Fri",
+        "date": "2026-10-02",
+        "time": "9pm-2am",
+        "start": "21:00",
+        "end": "02:00",
+        "area": "LA",
+        "venue": "Falcon North",
+        "address": "2020 E Artesia Blvd, Long Beach, CA 90805",
+        "why": "A Halloween masquerade lingerie party turning up the leather-and-lace dress code a notch above Hump's usual Victor's night",
+        "summary": "VICTOR'S returns to Falcon North for a Halloween masquerade edition, The Devil Wears Lace & Leather, with a lingerie/leather dress code, masks, and DJ Lord Izac.",
+        "promoter": "Hump Events",
+        "price": "15.00",
+        "tags": [
+          "house",
+          "tech house",
+          "halloween",
+          "masquerade",
+          "lingerie",
+          "leather",
+          "queer",
+          "21+"
+        ],
+        "sources": [
+          "https://humpevents.com/victors",
+          "https://www.eventbrite.com/e/victors-the-devil-wears-lace-tickets-1997162372418?aff=humpevents"
+        ],
+        "tickets": [
+          "https://www.eventbrite.com/e/victors-the-devil-wears-lace-tickets-1997162372418?aff=humpevents"
+        ],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=Falcon%20North%2C%20LA",
+          "apple": "https://maps.apple.com/?q=Falcon%20North%2C%20LA"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "https://party-scout.app/img/gen/victor-s-the-devil-wears-e0a8.jpg",
+        "image_generated": true,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true,
+        "lineup": [
+          {
+            "name": "Lord Izac",
+            "instagram": null
+          }
+        ]
+      },
+      {
+        "id": "2026-09-28-music-2n1t3-2-furious-05-debskelling-fbcbb8",
+        "eid": "2n1t3-2-furious-05-debsk-49ed",
+        "track": "music",
+        "category": "",
+        "name": "2N1T3 2 Furious #05: Debskellington, Warclaw, Vanda, Tanfa, Angelkrissy, Cecylia",
+        "day": "Sat",
+        "date": "2026-10-03",
+        "time": "5pm-9pm",
+        "start": "17:00",
+        "end": "21:00",
+        "area": "LA",
+        "venue": "11770 Foothill Blvd",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "0",
+        "tags": [
+          "hard trance",
+          "hardstyle",
+          "hard dance",
+          "hardcore",
+          "drum and bass"
+        ],
+        "sources": [],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=11770%20Foothill%20Blvd%2C%20LA",
+          "apple": "https://maps.apple.com/?q=11770%20Foothill%20Blvd%2C%20LA"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "https://party-scout.app/img/gen/2n1t3-2-furious-05-debsk-49ed.jpg",
+        "image_generated": true,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true,
+        "lineup": [
+          {
+            "name": "Tanfa"
+          }
+        ]
+      },
+      {
+        "id": "2026-09-28-music-disco-decadance-dirtie-blonde-f8c0ff",
+        "eid": "disco-decadance-dirtie-b-15c0",
+        "track": "music",
+        "category": "Disco",
+        "name": "Disco Decadance: Dirtie Blonde, Jessica Jane, Lady C, T-Kay, Val Val",
+        "day": "Sat",
+        "date": "2026-10-03",
+        "time": "7pm-1am",
+        "start": "19:00",
+        "end": "01:00",
+        "area": "LA",
+        "venue": "Apotheke",
+        "address": "1746 N Spring St, Los Angeles, CA 90012",
+        "why": "Free RSVP disco/house night on Apotheke's LA River-side patio, no cover",
+        "summary": "Disco Decadance is Apotheke's recurring disco and house night, spotlighting the genre's roots in freedom and self-expression with resident Dirtie Blonde. No cover with RSVP; table reservations via Resy.",
+        "promoter": "",
+        "price": "free w/rsvp",
+        "tags": [
+          "house",
+          "disco",
+          "free",
+          "rsvp",
+          "21+"
+        ],
+        "sources": [
+          "https://ra.co/dj/dirtieblonde/tour-dates"
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=Apotheke%2C%20LA",
+          "apple": "https://maps.apple.com/?q=Apotheke%2C%20LA"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "https://party-scout.app/img/gen/disco-decadance-dirtie-b-15c0.jpg",
+        "image_generated": true,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true,
+        "lineup": [
+          {
+            "name": "Dirtie Blonde"
+          },
+          {
+            "name": "JESSICA JANE"
           }
         ]
       }
