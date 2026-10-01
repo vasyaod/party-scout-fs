@@ -535,16 +535,25 @@
         "time": "8:00PM",
         "start": "20:00",
         "end": null,
-        "area": "San Francisco",
+        "area": "Castro",
         "venue": "Cafe du Nord",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "2174 Market St, San Francisco, CA 94114",
+        "why": "Genre-blending, high-energy live band in an intimate Market Street room.",
+        "summary": "Midwest alt quintet Post Sex Nachos blend indie rock, pop, jazz and funk at Cafe du Nord, with Hannah Geller.",
         "promoter": "",
         "price": "",
-        "tags": [],
-        "sources": [],
-        "tickets": [],
+        "tags": [
+          "live-music",
+          "indie",
+          "funk"
+        ],
+        "sources": [
+          "https://www.livenation.com/event/rZ7HnEZ1Af-z-d/post-sex-nachos",
+          "https://www.jambase.com/show/post-sex-nachos-cafe-du-nord-20261019"
+        ],
+        "tickets": [
+          "https://www.livenation.com/event/rZ7HnEZ1Af-z-d/post-sex-nachos"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Cafe%20du%20Nord%2C%20San%20Francisco",
           "apple": "https://maps.apple.com/?q=Cafe%20du%20Nord%2C%20San%20Francisco"
@@ -552,10 +561,10 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://party-scout.app/img/gen/post-sex-nachos-d8a7.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
