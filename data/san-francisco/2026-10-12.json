@@ -7912,18 +7912,28 @@
         "day": "Thu",
         "date": "2026-10-15",
         "time": "18:00",
-        "start": null,
-        "end": null,
-        "area": "",
-        "venue": "",
-        "address": "",
-        "why": "",
-        "summary": "",
-        "promoter": "",
-        "price": "",
-        "tags": [],
-        "sources": [],
-        "tickets": [],
+        "start": "18:00",
+        "end": "20:00",
+        "area": "Millbrae",
+        "venue": "Downtown Millbrae",
+        "address": "Broadway & Victoria Ave, Millbrae, CA 94030",
+        "why": "A free, family-friendly Thursday-evening live band night with food and drinks in downtown Millbrae.",
+        "summary": "Free outdoor concert series on Broadway in downtown Millbrae with live music, local food vendors and drinks. The Oct 15 edition features As Is Band, 6-8pm.",
+        "promoter": "City of Millbrae",
+        "price": "Free",
+        "tags": [
+          "free",
+          "live-music",
+          "outdoor",
+          "food-drink"
+        ],
+        "sources": [
+          "https://sf.funcheap.com/beats-brews-vines-free-downtown-millbrae-festival-4/",
+          "https://www.ci.millbrae.ca.us/354/Beats-Brews-Vines"
+        ],
+        "tickets": [
+          "https://www.ci.millbrae.ca.us/354/Beats-Brews-Vines"
+        ],
         "maps": {},
         "coords": null,
         "coords_precise": false,
@@ -7931,7 +7941,7 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
