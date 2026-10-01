@@ -10025,22 +10025,29 @@
         "id": "2026-10-05-music-kronos-quartet-308541",
         "eid": "kronos-quartet-b126",
         "track": "music",
-        "category": "",
+        "category": "concert",
         "name": "Kronos Quartet",
         "day": "Sun",
         "date": "2026-10-11",
-        "time": "",
-        "start": null,
+        "time": "2:30 PM",
+        "start": "14:30",
         "end": null,
-        "area": "",
+        "area": "Stanford",
         "venue": "Bing Concert Hall",
-        "address": "",
-        "why": "",
-        "summary": "",
-        "promoter": "",
-        "price": "",
-        "tags": [],
-        "sources": [],
+        "address": "327 Lasuen St, Stanford, CA 94305",
+        "why": "San Francisco's Grammy-winning Kronos Quartet reunites with the Vahdat sisters for their Placeless collaboration, a rare Peninsula afternoon show.",
+        "summary": "Kronos Quartet joins Iranian vocalists Mahsa and Marjan Vahdat for a Placeless reunion at Bing Concert Hall, part of the St. Lawrence Legacy Series.",
+        "promoter": "Stanford Live",
+        "price": "Sold out (waitlist)",
+        "tags": [
+          "classical",
+          "world",
+          "live-music",
+          "afternoon"
+        ],
+        "sources": [
+          "https://live.stanford.edu/events/26-27season/bing-concert-hall/kronos-quartet/"
+        ],
         "tickets": [],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Bing%20Concert%20Hall",
@@ -10049,11 +10056,22 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://party-scout.app/img/gen/kronos-quartet-b126.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
-        "active": true
+        "enriched": 1,
+        "active": true,
+        "lineup": [
+          {
+            "name": "Kronos Quartet"
+          },
+          {
+            "name": "Mahsa Vahdat"
+          },
+          {
+            "name": "Marjan Vahdat"
+          }
+        ]
       },
       {
         "id": "2026-10-05-music-last-dinosaurs-c0b5e0",
