@@ -5915,23 +5915,33 @@
         "id": "2026-10-19-music-sofi-tukker-176794",
         "eid": "sofi-tukker-b83f",
         "track": "music",
-        "category": "",
+        "category": "concert",
         "name": "SOFI TUKKER",
         "day": "Sat",
         "date": "2026-10-24",
         "time": "7:00PM",
         "start": "19:00",
         "end": null,
-        "area": "San Francisco",
+        "area": "Daly City",
         "venue": "Cow Palace",
-        "address": "",
-        "why": "",
-        "summary": "",
-        "promoter": "",
-        "price": "",
-        "tags": [],
-        "sources": [],
-        "tickets": [],
+        "address": "2600 Geneva Ave, Daly City, CA 94014",
+        "why": "Grammy-nominated house duo's big arena-scale Bay Area date, with Drama and Kito on the bill.",
+        "summary": "Sofi Tukker presents the first full 'Animal Talk' show at Cow Palace, with special guests Drama and Kito. 18+; doors 7 PM, show 8 PM; $1 per ticket goes to local animal shelters via PLUS1.",
+        "promoter": "Another Planet Concerts",
+        "price": "$91-$245",
+        "tags": [
+          "house",
+          "dance-pop",
+          "live",
+          "18+"
+        ],
+        "sources": [
+          "https://www.cowpalace.com/event/sofi-tukker/",
+          "https://apeconcerts.com/events/sofi-tukker-261024/"
+        ],
+        "tickets": [
+          "https://www.ticketmaster.com/event/1C00648FC066CD8D"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Cow%20Palace%2C%20San%20Francisco",
           "apple": "https://maps.apple.com/?q=Cow%20Palace%2C%20San%20Francisco"
@@ -5939,11 +5949,22 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://party-scout.app/img/gen/sofi-tukker-b83f.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
-        "active": true
+        "enriched": 1,
+        "active": true,
+        "lineup": [
+          {
+            "name": "SOFI TUKKER"
+          },
+          {
+            "name": "Drama"
+          },
+          {
+            "name": "Kito"
+          }
+        ]
       },
       {
         "id": "2026-10-19-music-texture-summit-pres-jex-opolis-93f563",
