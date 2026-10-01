@@ -1,6 +1,6 @@
 {
   "kind": "stats",
-  "generated_at": "2026-10-01T06:05:51+00:00",
+  "generated_at": "2026-10-01T06:07:48+00:00",
   "weights_version": "v1",
   "total": {
     "n": 3848,
@@ -17,14 +17,14 @@
       "price": 1014,
       "category": 954,
       "time": 732,
-      "why": 707,
+      "why": 706,
       "sources": 678,
       "address": 654,
-      "summary": 608,
-      "tags": 574,
+      "summary": 607,
+      "tags": 573,
       "maps": 134,
       "venue": 102,
-      "area": 16
+      "area": 15
     },
     "weights_version": "v1",
     "cities": 2,
@@ -50,14 +50,14 @@
           "category": 397,
           "price": 383,
           "sources": 361,
-          "why": 310,
+          "why": 309,
           "address": 294,
           "time": 288,
-          "summary": 263,
-          "tags": 249,
+          "summary": 262,
+          "tags": 248,
           "maps": 34,
           "venue": 23,
-          "area": 16
+          "area": 15
         },
         "weights_version": "v1"
       },
@@ -487,7 +487,7 @@
           "summary": {
             "n": 195,
             "median": 0.6296,
-            "p25": 0.5,
+            "p25": 0.5074,
             "pct_ge_075": 0.4051,
             "invalid": 0,
             "tba_rate": 0.1282,
@@ -499,13 +499,13 @@
               "sources": 107,
               "start": 92,
               "address": 89,
-              "why": 72,
-              "summary": 56,
-              "tags": 40,
+              "why": 71,
+              "summary": 55,
+              "tags": 39,
               "price": 36,
               "time": 21,
-              "area": 16,
               "maps": 16,
+              "area": 15,
               "venue": 7
             },
             "weights_version": "v1"
@@ -582,8 +582,8 @@
               "date": "2026-10-04",
               "day": "Sun",
               "n": 29,
-              "median": 0.5319,
-              "p25": 0.4583,
+              "median": 0.5577,
+              "p25": 0.4615,
               "pct_ge_075": 0.3793,
               "invalid": 0,
               "tba_rate": 0.1724,
