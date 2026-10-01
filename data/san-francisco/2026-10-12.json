@@ -2833,23 +2833,34 @@
         "id": "2026-10-12-music-muna-gets-so-hot-tour-332676",
         "eid": "muna-gets-so-hot-tour-fb8a",
         "track": "music",
-        "category": "",
+        "category": "concert",
         "name": "MUNA - Gets So Hot Tour",
         "day": "Sun",
         "date": "2026-10-18",
-        "time": "",
+        "time": "7:00 PM",
         "start": null,
         "end": null,
-        "area": "",
+        "area": "Stanford",
         "venue": "Frost Amphitheater",
         "address": "",
-        "why": "",
-        "summary": "",
-        "promoter": "",
+        "why": "A touchstone LGBTQ+ indie-pop act playing a rare outdoor Peninsula show with synth-pop and new wave energy.",
+        "summary": "Indie pop trio MUNA bring their Gets So Hot Tour to Stanford's open-air Frost Amphitheater, with hemlocke springs opening. General admission; gates 6 PM, show 7 PM.",
+        "promoter": "GoldenVoice & Stanford Live",
         "price": "",
-        "tags": [],
-        "sources": [],
-        "tickets": [],
+        "tags": [
+          "indie-pop",
+          "synth-pop",
+          "live-music",
+          "outdoor",
+          "lgbtq"
+        ],
+        "sources": [
+          "https://live.stanford.edu/events/26-frost/muna/",
+          "https://dothebay.com/events/2026/10/18/muna-tickets"
+        ],
+        "tickets": [
+          "https://www.axs.com/events/1431157/muna-tickets"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Frost%20Amphitheater",
           "apple": "https://maps.apple.com/?q=Frost%20Amphitheater"
@@ -2857,11 +2868,19 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://party-scout.app/img/gen/muna-gets-so-hot-tour-fb8a.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
-        "active": true
+        "enriched": 1,
+        "active": true,
+        "lineup": [
+          {
+            "name": "MUNA"
+          },
+          {
+            "name": "hemlocke springs"
+          }
+        ]
       },
       {
         "id": "2026-10-12-music-scemo-nite-487ea4",
