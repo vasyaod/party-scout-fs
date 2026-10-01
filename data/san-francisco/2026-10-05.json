@@ -10395,22 +10395,31 @@
         "id": "2026-10-05-music-tlc-salt-n-pepa-48c3af",
         "eid": "tlc-salt-n-pepa-dc0f",
         "track": "music",
-        "category": "",
+        "category": "concert",
         "name": "TLC & Salt-N-Pepa",
         "day": "Sun",
         "date": "2026-10-11",
-        "time": "",
-        "start": null,
+        "time": "7:30 PM",
+        "start": "19:30",
         "end": null,
-        "area": "",
+        "area": "Concord",
         "venue": "Toyota Pavilion at Concord",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "2000 Kirker Pass Rd, Concord, CA 94521",
+        "why": "Two of the biggest 90s hip-hop and R&B acts on one bill, with En Vogue opening, on the final night of the tour.",
+        "summary": "TLC and Salt-N-Pepa co-headline the It's Iconic Tour with En Vogue opening, closing out the tour's 32-date North American run at Concord.",
         "promoter": "",
-        "price": "",
-        "tags": [],
-        "sources": [],
+        "price": "From $52",
+        "tags": [
+          "hip-hop",
+          "r&b",
+          "90s",
+          "concert",
+          "amphitheater"
+        ],
+        "sources": [
+          "https://hoodline.com/2026/09/en-vogue-s-oakland-roots-meet-tlc-and-salt-n-pepa-at-concord-pavilion/",
+          "https://beercanisland.com/events/tlc-concord-us"
+        ],
         "tickets": [],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Toyota%20Pavilion%20at%20Concord",
@@ -10422,8 +10431,19 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
-        "active": true
+        "enriched": 1,
+        "active": true,
+        "lineup": [
+          {
+            "name": "TLC"
+          },
+          {
+            "name": "Salt-N-Pepa"
+          },
+          {
+            "name": "En Vogue"
+          }
+        ]
       },
       {
         "id": "2026-10-05-music-ybg-dance-day-yerba-buena-gard-c451ce",
