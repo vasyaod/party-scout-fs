@@ -7094,10 +7094,13 @@
         "venue": "Fox Theater",
         "address": "",
         "why": "",
-        "summary": "",
+        "summary": "A Saturday-night concert at the Fox Theater in San Francisco, with tickets listed at $56-143.",
         "promoter": "",
         "price": "$56-143",
-        "tags": [],
+        "tags": [
+          "live-music",
+          "concert"
+        ],
         "sources": [],
         "tickets": [],
         "maps": {
@@ -7110,7 +7113,7 @@
         "image": "https://party-scout.app/img/gen/william-black-a3d1.jpg",
         "image_generated": true,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       }
     ],
