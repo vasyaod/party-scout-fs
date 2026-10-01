@@ -5186,22 +5186,29 @@
         "id": "2026-10-19-music-john-gorka-4f19d9",
         "eid": "john-gorka-906d",
         "track": "music",
-        "category": "",
+        "category": "Folk",
         "name": "John Gorka",
         "day": "Sat",
         "date": "2026-10-24",
         "time": "8:00PM",
         "start": "20:00",
         "end": null,
-        "area": "San Francisco",
+        "area": "Berkeley",
         "venue": "The Freight",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "2020 Addison St, Berkeley, CA",
+        "why": "A rare Bay Area date from a folk songwriting great, in one of the region's best listening rooms.",
+        "summary": "Singer-songwriter John Gorka plays The Freight in Berkeley, joined by bassist Michael Manring.",
         "promoter": "",
         "price": "",
-        "tags": [],
-        "sources": [],
+        "tags": [
+          "folk",
+          "singer-songwriter",
+          "live music",
+          "berkeley"
+        ],
+        "sources": [
+          "https://www.johngorka.com/tour-dates/"
+        ],
         "tickets": [],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=The%20Freight%2C%20San%20Francisco",
@@ -5210,11 +5217,19 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://party-scout.app/img/gen/john-gorka-906d.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
-        "active": true
+        "enriched": 1,
+        "active": true,
+        "lineup": [
+          {
+            "name": "John Gorka"
+          },
+          {
+            "name": "Michael Manring"
+          }
+        ]
       },
       {
         "id": "2026-10-19-music-julia-jacklin-05ce80",
