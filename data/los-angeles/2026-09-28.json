@@ -6372,14 +6372,17 @@
         "time": "20:00",
         "start": null,
         "end": null,
-        "area": "",
+        "area": "DTLA",
         "venue": "The Redwood Bar And Grill",
         "address": "",
         "why": "",
-        "summary": "",
+        "summary": "A Saturday-night live music show at The Redwood Bar And Grill, $10 at the door.",
         "promoter": "",
         "price": "$10",
-        "tags": [],
+        "tags": [
+          "music",
+          "live"
+        ],
         "sources": [],
         "tickets": [],
         "maps": {
@@ -6392,7 +6395,7 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
