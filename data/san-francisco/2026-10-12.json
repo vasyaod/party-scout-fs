@@ -8554,23 +8554,39 @@
         "id": "2026-10-12-music-feral-tendencies-presents-myst-7aff2f",
         "eid": "feral-tendencies-present-2419",
         "track": "music",
-        "category": "",
+        "category": "Techno",
         "name": "Feral Tendencies presents: MystyMoon",
         "day": "Sat",
         "date": "2026-10-17",
         "time": "21:30",
         "start": null,
         "end": null,
-        "area": "",
+        "area": "Haight-Ashbury",
         "venue": "Underground SF",
         "address": "424 Haight St, San Francisco, CA 94117, United States",
-        "why": "",
-        "summary": "",
-        "promoter": "",
-        "price": "",
-        "tags": [],
-        "sources": [],
-        "tickets": [],
+        "why": "A local-artist showcase of acid and hypnotic techno at a Haight St underground club, cheap at $10 presale.",
+        "summary": "Feral Tendencies SF x Underground SF 'Originals' series spotlighting Bay Area artists: MystyMoon plays acid and hypnotic techno with tracks from her new EP 'Alchemical Swag', with supporting vinyl sets. 21+, doors 9PM.",
+        "promoter": "Feral Tendencies SF",
+        "price": "$10 presale / $20 door",
+        "tags": [
+          "techno",
+          "acid techno",
+          "bass",
+          "local artists",
+          "21+"
+        ],
+        "sources": [
+          {
+            "label": "Underground SF",
+            "url": "https://undergroundsf.com/event/feral-tendencies-presents-mystymoon/"
+          }
+        ],
+        "tickets": [
+          {
+            "label": "Underground SF",
+            "url": "https://undergroundsf.com/event/feral-tendencies-presents-mystymoon/"
+          }
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=424%20Haight%20St%2C%20San%20Francisco%2C%20CA%2094117%2C%20United%20States",
           "apple": "https://maps.apple.com/?q=424%20Haight%20St%2C%20San%20Francisco%2C%20CA%2094117%2C%20United%20States"
@@ -8578,10 +8594,10 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://party-scout.app/img/gen/feral-tendencies-present-2419.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true,
         "lineup": [
           {
@@ -8589,6 +8605,9 @@
           },
           {
             "name": "DJBstone"
+          },
+          {
+            "name": "Hard Shiny Plastic"
           }
         ]
       },
