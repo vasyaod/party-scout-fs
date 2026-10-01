@@ -7029,14 +7029,17 @@
         "time": "20:00",
         "start": null,
         "end": null,
-        "area": "",
+        "area": "DTLA",
         "venue": "The Redwood Bar And Grill",
         "address": "",
-        "why": "",
-        "summary": "",
+        "why": "Cheap Sunday-night live music at a downtown bar.",
+        "summary": "A Sunday-night live show at The Redwood Bar And Grill, a downtown dive-bar venue, with $10 entry.",
         "promoter": "",
         "price": "$10",
-        "tags": [],
+        "tags": [
+          "live music",
+          "bar"
+        ],
         "sources": [],
         "tickets": [],
         "maps": {
@@ -7049,7 +7052,7 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
