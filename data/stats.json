@@ -1,6 +1,6 @@
 {
   "kind": "stats",
-  "generated_at": "2026-10-01T04:37:37+00:00",
+  "generated_at": "2026-10-01T04:38:42+00:00",
   "weights_version": "v1",
   "total": {
     "n": 3848,
@@ -19,12 +19,12 @@
       "why": 744,
       "time": 732,
       "sources": 686,
-      "address": 661,
+      "address": 660,
       "summary": 659,
       "tags": 603,
       "maps": 134,
       "venue": 102,
-      "area": 74
+      "area": 73
     },
     "weights_version": "v1",
     "cities": 2,
@@ -52,10 +52,10 @@
           "sources": 369,
           "why": 347,
           "summary": 314,
-          "address": 301,
+          "address": 300,
           "time": 288,
           "tags": 278,
-          "area": 74,
+          "area": 73,
           "maps": 34,
           "venue": 23
         },
@@ -486,7 +486,7 @@
           "n": 195,
           "summary": {
             "n": 195,
-            "median": 0.5192,
+            "median": 0.5273,
             "p25": 0.3654,
             "pct_ge_075": 0.3744,
             "invalid": 0,
@@ -499,9 +499,9 @@
               "sources": 115,
               "why": 109,
               "summary": 107,
-              "address": 96,
+              "address": 95,
               "start": 93,
-              "area": 74,
+              "area": 73,
               "tags": 69,
               "price": 38,
               "time": 21,
