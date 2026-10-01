@@ -4518,23 +4518,32 @@
         "id": "2026-10-19-music-basement-b89591",
         "eid": "basement-b456",
         "track": "music",
-        "category": "",
+        "category": "Live music",
         "name": "Basement",
         "day": "Sat",
         "date": "2026-10-24",
         "time": "6:00PM",
         "start": "18:00",
         "end": null,
-        "area": "San Francisco",
+        "area": "Berkeley",
         "venue": "The UC Theatre",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "2036 University Ave, Berkeley, CA",
+        "why": "Emo/alt-rock favorites touring WIRED, their first album in eight years.",
+        "summary": "British rock band Basement play The UC Theatre in Berkeley, night two of their run, with High Vis, Big Boy and Lowertown supporting. All ages; doors 6pm, show 7pm. Listed as sold out.",
         "promoter": "",
-        "price": "",
-        "tags": [],
-        "sources": [],
-        "tickets": [],
+        "price": "$39.50 + fees ($52.89)",
+        "tags": [
+          "live music",
+          "rock",
+          "all ages",
+          "sold out"
+        ],
+        "sources": [
+          "https://www.theuctheatre.org/shows/basement-24-oct"
+        ],
+        "tickets": [
+          "https://www.theuctheatre.org/shows/basement-24-oct"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=The%20UC%20Theatre%2C%20San%20Francisco",
           "apple": "https://maps.apple.com/?q=The%20UC%20Theatre%2C%20San%20Francisco"
@@ -4542,11 +4551,25 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://party-scout.app/img/gen/basement-b456.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
-        "active": true
+        "enriched": 1,
+        "active": true,
+        "lineup": [
+          {
+            "name": "Basement"
+          },
+          {
+            "name": "High Vis"
+          },
+          {
+            "name": "Big Boy"
+          },
+          {
+            "name": "Lowertown"
+          }
+        ]
       },
       {
         "id": "2026-10-19-music-bass-boos-cshay-reedemit-slugg-7cf928",
