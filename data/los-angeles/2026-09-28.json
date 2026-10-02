@@ -7554,13 +7554,13 @@
         "id": "2026-09-28-music-sunday-sessions-la-vinyl-only-18af39",
         "eid": "sunday-sessions-la-vinyl-7c17",
         "track": "music",
-        "category": "House / Vinyl",
+        "category": "Concert",
         "name": "Sunday Sessions LA (Vinyl Only) Open Air",
         "day": "Sun",
         "date": "2026-10-04",
         "time": "17:00",
-        "start": null,
-        "end": null,
+        "start": "17:00",
+        "end": "23:00",
         "area": "LA",
         "venue": "Apotheke",
         "address": "1746 N Spring St, Los Angeles, CA 90012",
@@ -7574,10 +7574,13 @@
           "weekly"
         ],
         "sources": [
-          "https://www.sundaysessions.la/events"
+          "https://www.sundaysessions.la/events",
+          "https://shotgun.live/events/sunday-sessions-la-08-24-93",
+          "https://ra.co/events/2537845"
         ],
         "tickets": [
-          "https://shotgun.live/events/sunday-sessions-la-08-24-93"
+          "https://shotgun.live/events/sunday-sessions-la-08-24-93",
+          "https://ra.co/events/2537845"
         ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Los%20Angeles",
@@ -7586,10 +7589,10 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://party-scout.app/img/gen/sunday-sessions-la-vinyl-7c17.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 1,
+        "enriched": 2,
         "active": true,
         "lineup": [
           {
