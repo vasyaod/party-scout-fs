@@ -6225,8 +6225,8 @@
         "day": "Fri",
         "date": "2026-10-02",
         "time": "21:00",
-        "start": null,
-        "end": null,
+        "start": "21:00",
+        "end": "04:00",
         "area": "DTLA",
         "venue": "TBA - DTLA",
         "address": "",
@@ -6239,16 +6239,20 @@
           "disco",
           "dj"
         ],
-        "sources": [],
-        "tickets": [],
+        "sources": [
+          "https://ra.co/events/2526491"
+        ],
+        "tickets": [
+          "https://ra.co/events/2526491"
+        ],
         "maps": {},
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://party-scout.app/img/gen/toy-tonics-jam-los-angel-3beb.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 1,
+        "enriched": 2,
         "active": true,
         "lineup": [
           {
