@@ -9823,8 +9823,8 @@
         "day": "Thu",
         "date": "2026-10-15",
         "time": "6-10pm",
-        "start": null,
-        "end": null,
+        "start": "19:00",
+        "end": "22:00",
         "area": "Golden Gate Park",
         "venue": "California Academy of Sciences",
         "address": "55 Music Concourse Drive, San Francisco, CA 94118",
@@ -9839,7 +9839,9 @@
           "thursday"
         ],
         "sources": [
-          "https://www.calacademy.org/nightlife"
+          "https://www.calacademy.org/nightlife",
+          "https://dothebay.com/events/2026/10/15/nightlife-october-15-tickets",
+          "https://sf.funcheap.com/disney-ice-find-hero-october-1518/"
         ],
         "tickets": [
           "https://www.calacademy.org/nightlife"
@@ -9854,7 +9856,7 @@
         "image": "https://party-scout.app/img/gen/nightlife-october-15-e775.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 1,
+        "enriched": 2,
         "active": true
       },
       {
