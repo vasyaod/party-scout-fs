@@ -16849,13 +16849,13 @@
         "id": "2026-09-28-music-lincoln-jesser-melodic-house-a-6c8f70",
         "eid": "lincoln-jesser-melodic-h-ff0d",
         "track": "music",
-        "category": "club",
+        "category": "Nightclub",
         "name": "LINCOLN JESSER (Melodic House) at MadaRae",
         "day": "Sat",
         "date": "2026-10-03",
         "time": "9:00 PM",
-        "start": null,
-        "end": null,
+        "start": "21:00",
+        "end": "03:00",
         "area": "SoMa",
         "venue": "Madarae San Francisco",
         "address": "46 Minna St, San Francisco, CA 94105",
@@ -16870,9 +16870,12 @@
           "21+"
         ],
         "sources": [
-          "https://www.songkick.com/venues/4516053-madarae"
+          "https://www.songkick.com/venues/4516053-madarae",
+          "https://ra.co/events/2545518"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://ra.co/events/2545518"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Madarae%20San%20Francisco",
           "apple": "https://maps.apple.com/?q=Madarae%20San%20Francisco"
@@ -16881,9 +16884,9 @@
         "coords_precise": false,
         "ra": {},
         "image": "https://party-scout.app/img/gen/lincoln-jesser-melodic-h-ff0d.jpg",
-        "image_generated": true,
+        "image_generated": false,
         "popularity": 0,
-        "enriched": 1,
+        "enriched": 2,
         "active": true
       },
       {
