@@ -6640,11 +6640,11 @@
         "day": "Sat",
         "date": "2026-10-03",
         "time": "21:00",
-        "start": null,
-        "end": null,
+        "start": "21:00",
+        "end": "02:00",
         "area": "Los Angeles",
         "venue": "Detour Los Angeles",
-        "address": "",
+        "address": "7065 1/2 Sunset Blvd Los Angeles, CA 90028",
         "why": "A late-night dance floor with two DJs for a $12 cover.",
         "summary": "Saturday-night club event at Detour Los Angeles with SJAYY and Victoria Moura on the lineup.",
         "promoter": "",
@@ -6652,8 +6652,12 @@
         "tags": [
           "club"
         ],
-        "sources": [],
-        "tickets": [],
+        "sources": [
+          "https://ra.co/events/2539437"
+        ],
+        "tickets": [
+          "https://ra.co/events/2539437"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Detour%20Los%20Angeles",
           "apple": "https://maps.apple.com/?q=Detour%20Los%20Angeles"
@@ -6661,10 +6665,10 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://party-scout.app/img/gen/hands-on-your-hips-3e03.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 1,
+        "enriched": 2,
         "active": true,
         "lineup": [
           {
