@@ -6132,18 +6132,25 @@
         "day": "Fri",
         "date": "2026-10-02",
         "time": "20:00",
-        "start": null,
-        "end": null,
+        "start": "20:00",
+        "end": "02:00",
         "area": "DTLA",
         "venue": "The Redwood Bar And Grill",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "316 W. 2nd Street, Los Angeles, CA  90012",
+        "why": "For a Downtown LA night out on October 2.",
+        "summary": "The Snares is scheduled for October 2, 2026 at 316 W. 2nd Street in Los Angeles.",
         "promoter": "",
         "price": "",
-        "tags": [],
-        "sources": [],
-        "tickets": [],
+        "tags": [
+          "music",
+          "downtown"
+        ],
+        "sources": [
+          "https://ra.co/events/2488451"
+        ],
+        "tickets": [
+          "https://ra.co/events/2488451"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=The%20Redwood%20Bar%20And%20Grill",
           "apple": "https://maps.apple.com/?q=The%20Redwood%20Bar%20And%20Grill"
@@ -6154,7 +6161,7 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 1,
+        "enriched": 2,
         "active": true
       },
       {
