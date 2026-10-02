@@ -1013,13 +1013,13 @@
         "id": "2026-10-05-music-reverberation-radio-dj-night-318acb",
         "eid": "reverberation-radio-dj-n-c079",
         "track": "music",
-        "category": "Disco",
+        "category": "Nightclub",
         "name": "Reverberation Radio DJ Night",
         "day": "Fri",
         "date": "2026-10-09",
         "time": "10pm",
         "start": "22:00",
-        "end": null,
+        "end": "02:00",
         "area": "LA",
         "venue": "Zebulon",
         "address": "2478 Fletcher Dr, Los Angeles, CA 90039",
@@ -1037,7 +1037,9 @@
         "sources": [
           "https://dice.fm/event/6a5e9543cb9a8600019806c8"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://dice.fm/event/6a5e9543cb9a8600019806c8"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Zebulon%2C%20LA",
           "apple": "https://maps.apple.com/?q=Zebulon%2C%20LA"
@@ -1045,10 +1047,10 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://party-scout.app/img/gen/reverberation-radio-dj-n-c079.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 1,
+        "enriched": 2,
         "active": true
       },
       {
