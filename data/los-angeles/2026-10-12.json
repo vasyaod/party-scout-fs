@@ -3110,17 +3110,20 @@
         "name": "Monday Running",
         "day": "Mon",
         "date": "2026-10-12",
-        "time": "",
-        "start": null,
+        "time": "6pm",
+        "start": "18:00",
         "end": null,
         "area": "Los Angeles",
         "venue": "LA/OC Exercise Meetup (Los Angeles)",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "750 S Myrtle Ave, Monrovia, CA",
+        "why": "To attend an evening event in Monrovia.",
+        "summary": "An event titled \"Monday Running\" is scheduled for 2026-10-12 at 6pm at 750 S Myrtle Ave, Monrovia, CA.",
         "promoter": "",
         "price": "",
-        "tags": [],
+        "tags": [
+          "community",
+          "evening"
+        ],
         "sources": [
           "https://www.meetup.com/find/us--ca--los-angeles/running/"
         ],
@@ -3132,10 +3135,10 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://party-scout.app/img/gen/monday-running-8e2c.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 1,
+        "enriched": 2,
         "active": true
       },
       {
