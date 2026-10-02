@@ -16287,15 +16287,15 @@
         "day": "Fri",
         "date": "2026-10-02",
         "time": "9:30 PM",
-        "start": null,
-        "end": null,
+        "start": "21:30",
+        "end": "02:00",
         "area": "NoPa",
         "venue": "Madrone Art Bar",
         "address": "500 Divisadero St, San Francisco, CA",
         "why": "A monthly First Friday party mixing disco, house and club rap at a Divisadero neighborhood bar.",
         "summary": "NU NOIZE is Madrone Art Bar's First Fridays night of disco, house and club rap, starting at 9:30pm.",
         "promoter": "Madrone Art Bar",
-        "price": "",
+        "price": "$10",
         "tags": [
           "disco",
           "house",
@@ -16304,9 +16304,13 @@
           "21+"
         ],
         "sources": [
-          "https://www.eventbrite.com/e/nu-noize-madrone-art-bar-tickets-1993807336415"
+          "https://www.eventbrite.com/e/nu-noize-madrone-art-bar-tickets-1993807336415",
+          "https://ra.co/events/2549280"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://www.eventbrite.com/e/nu-noize-madrone-art-bar-tickets-1993807336415",
+          "https://ra.co/events/2549280"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Madrone%20Art%20Bar",
           "apple": "https://maps.apple.com/?q=Madrone%20Art%20Bar"
@@ -16317,7 +16321,7 @@
         "image": "https://party-scout.app/img/gen/nu-noize-df9a.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 1,
+        "enriched": 2,
         "active": true
       },
       {
