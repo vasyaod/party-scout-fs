@@ -5782,12 +5782,12 @@
         "day": "Fri",
         "date": "2026-10-02",
         "time": "21:00",
-        "start": null,
-        "end": null,
+        "start": "21:00",
+        "end": "02:00",
         "area": "Los Angeles",
         "venue": "Palomino",
-        "address": "",
-        "why": "",
+        "address": "5630 N Figueroa, Los Angeles, CA 90042",
+        "why": "To catch a live set or appearance by the billed artist.",
         "summary": "Marco Weibel plays a free Friday-night set at Palomino.",
         "promoter": "",
         "price": "0",
@@ -5795,8 +5795,12 @@
           "free",
           "club"
         ],
-        "sources": [],
-        "tickets": [],
+        "sources": [
+          "https://ra.co/events/2550543"
+        ],
+        "tickets": [
+          "https://ra.co/events/2550543"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Palomino",
           "apple": "https://maps.apple.com/?q=Palomino"
@@ -5804,10 +5808,10 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://party-scout.app/img/gen/marco-weibel-d566.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 1,
+        "enriched": 2,
         "active": true,
         "lineup": [
           {
