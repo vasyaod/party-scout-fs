@@ -1,6 +1,6 @@
 {
   "kind": "stats",
-  "generated_at": "2026-10-02T08:12:09+00:00",
+  "generated_at": "2026-10-02T08:13:06+00:00",
   "weights_version": "v1",
   "total": {
     "n": 3848,
@@ -12,7 +12,7 @@
     "by_field_fixable": {
       "coords": 2563,
       "image": 2435,
-      "tickets": 1505,
+      "tickets": 1504,
       "start": 969,
       "price": 940,
       "category": 821,
@@ -44,7 +44,7 @@
         "by_field_fixable": {
           "image": 1011,
           "coords": 874,
-          "tickets": 495,
+          "tickets": 494,
           "start": 402,
           "price": 371,
           "category": 330,
@@ -270,7 +270,7 @@
           "n": 79,
           "summary": {
             "n": 79,
-            "median": 0.7925,
+            "median": 0.7963,
             "p25": 0.7368,
             "pct_ge_075": 0.7342,
             "invalid": 0,
@@ -279,7 +279,7 @@
               "image": 74,
               "coords": 72,
               "price": 37,
-              "tickets": 35,
+              "tickets": 34,
               "start": 18,
               "time": 15,
               "category": 12,
@@ -332,7 +332,7 @@
               "day": "Thu",
               "n": 7,
               "median": 0.7925,
-              "p25": 0.75,
+              "p25": 0.7925,
               "pct_ge_075": 0.7143,
               "invalid": 0,
               "tba_rate": 0.1429,
