@@ -6941,8 +6941,8 @@
         "day": "Sat",
         "date": "2026-10-03",
         "time": "14:30",
-        "start": null,
-        "end": null,
+        "start": "14:30",
+        "end": "21:30",
         "area": "Santa Monica",
         "venue": "Santa Monica Pier",
         "address": "200 Santa Monica Pier, Santa Monica, CA 90401",
@@ -6962,7 +6962,8 @@
           "https://ra.co/events/2493729"
         ],
         "tickets": [
-          "https://www.eventbrite.com/e/pier-play-la-w-meduza-claptone-monolink-lp-giobbi-mind-against-tickets-1999426606804"
+          "https://www.eventbrite.com/e/pier-play-la-w-meduza-claptone-monolink-lp-giobbi-mind-against-tickets-1999426606804",
+          "https://ra.co/events/2493729"
         ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Santa%20Monica%20Pier",
@@ -6974,7 +6975,7 @@
         "image": "https://party-scout.app/img/gen/pier-play-los-angeles-b7af.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 1,
+        "enriched": 2,
         "active": true,
         "lineup": [
           {
