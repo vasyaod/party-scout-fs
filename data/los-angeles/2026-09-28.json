@@ -7679,7 +7679,7 @@
         "id": "2026-09-28-music-disco-decadance-dirtie-blonde-f8c0ff",
         "eid": "disco-decadance-dirtie-b-15c0",
         "track": "music",
-        "category": "Disco",
+        "category": "Nightclub",
         "name": "Disco Decadance: Dirtie Blonde, Jessica Jane, Lady C, T-Kay, Val Val",
         "day": "Sat",
         "date": "2026-10-03",
@@ -7701,9 +7701,13 @@
           "21+"
         ],
         "sources": [
-          "https://ra.co/dj/dirtieblonde/tour-dates"
+          "https://ra.co/dj/dirtieblonde/tour-dates",
+          "https://ra.co/events/2535873"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://ra.co/dj/dirtieblonde/tour-dates",
+          "https://ra.co/events/2535873"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Apotheke%2C%20LA",
           "apple": "https://maps.apple.com/?q=Apotheke%2C%20LA"
@@ -7712,9 +7716,9 @@
         "coords_precise": false,
         "ra": {},
         "image": "https://party-scout.app/img/gen/disco-decadance-dirtie-b-15c0.jpg",
-        "image_generated": true,
+        "image_generated": false,
         "popularity": 0,
-        "enriched": 1,
+        "enriched": 2,
         "active": true,
         "lineup": [
           {
