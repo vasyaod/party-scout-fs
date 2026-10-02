@@ -1,12 +1,12 @@
 {
   "kind": "stats",
-  "generated_at": "2026-10-02T01:49:28+00:00",
+  "generated_at": "2026-10-02T01:50:04+00:00",
   "weights_version": "v1",
   "total": {
     "n": 3848,
     "median": 0.8654,
     "p25": 0.7192,
-    "pct_ge_075": 0.724,
+    "pct_ge_075": 0.7243,
     "invalid": 49,
     "tba_rate": 0.0845,
     "by_field_fixable": {
@@ -19,7 +19,7 @@
       "time": 722,
       "why": 671,
       "sources": 646,
-      "address": 641,
+      "address": 640,
       "summary": 574,
       "tags": 553,
       "maps": 134,
@@ -2048,8 +2048,8 @@
       "summary": {
         "n": 2326,
         "median": 0.8571,
-        "p25": 0.7407,
-        "pct_ge_075": 0.7433,
+        "p25": 0.7434,
+        "pct_ge_075": 0.7438,
         "invalid": 43,
         "tba_rate": 0.0361,
         "by_field_fixable": {
@@ -2061,7 +2061,7 @@
           "category": 528,
           "time": 436,
           "why": 387,
-          "address": 355,
+          "address": 354,
           "summary": 336,
           "tags": 317,
           "sources": 306,
@@ -2401,7 +2401,7 @@
             "n": 417,
             "median": 0.8,
             "p25": 0.6415,
-            "pct_ge_075": 0.6547,
+            "pct_ge_075": 0.6571,
             "invalid": 0,
             "tba_rate": 0.0168,
             "by_field_fixable": {
@@ -2415,7 +2415,7 @@
               "why": 106,
               "tags": 102,
               "summary": 100,
-              "address": 98,
+              "address": 97,
               "sources": 78,
               "venue": 72,
               "maps": 71
@@ -2473,8 +2473,8 @@
               "day": "Fri",
               "n": 88,
               "median": 0.8377,
-              "p25": 0.7358,
-              "pct_ge_075": 0.7273,
+              "p25": 0.7385,
+              "pct_ge_075": 0.7386,
               "invalid": 0,
               "tba_rate": 0.0227,
               "weights_version": "v1"
