@@ -2070,7 +2070,7 @@
         "date": "2026-10-02",
         "time": "8pm-12am",
         "start": "20:00",
-        "end": null,
+        "end": "00:00",
         "area": "LA",
         "venue": "Zizou",
         "address": "2425 Daly St, Los Angeles, CA 90031",
@@ -2088,8 +2088,12 @@
           "breaks",
           "techno"
         ],
-        "sources": [],
-        "tickets": [],
+        "sources": [
+          "https://ra.co/events/2541244"
+        ],
+        "tickets": [
+          "https://ra.co/events/2541244"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Zizou%2C%20LA",
           "apple": "https://maps.apple.com/?q=Zizou%2C%20LA"
@@ -2097,10 +2101,10 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://party-scout.app/img/gen/la-selection-by-lafille-f485.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 1,
+        "enriched": 2,
         "active": true
       },
       {
