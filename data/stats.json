@@ -1,16 +1,16 @@
 {
   "kind": "stats",
-  "generated_at": "2026-10-02T03:44:22+00:00",
+  "generated_at": "2026-10-02T03:45:53+00:00",
   "weights_version": "v1",
   "total": {
     "n": 3848,
-    "median": 0.8654,
+    "median": 0.8655,
     "p25": 0.7308,
-    "pct_ge_075": 0.7344,
+    "pct_ge_075": 0.7347,
     "invalid": 50,
     "tba_rate": 0.085,
     "by_field_fixable": {
-      "image": 2622,
+      "image": 2621,
       "coords": 2566,
       "tickets": 1551,
       "start": 1051,
@@ -23,7 +23,7 @@
       "summary": 557,
       "tags": 535,
       "maps": 134,
-      "venue": 98
+      "venue": 97
     },
     "weights_version": "v1",
     "cities": 2,
@@ -42,7 +42,7 @@
         "invalid": 6,
         "tba_rate": 0.1597,
         "by_field_fixable": {
-          "image": 1075,
+          "image": 1074,
           "coords": 877,
           "tickets": 526,
           "start": 433,
@@ -484,14 +484,14 @@
           "n": 195,
           "summary": {
             "n": 195,
-            "median": 0.8436,
+            "median": 0.8491,
             "p25": 0.5741,
             "pct_ge_075": 0.6154,
             "invalid": 0,
             "tba_rate": 0.1385,
             "by_field_fixable": {
               "coords": 168,
-              "image": 111,
+              "image": 110,
               "tickets": 86,
               "category": 83,
               "address": 70,
@@ -568,7 +568,7 @@
               "date": "2026-10-03",
               "day": "Sat",
               "n": 72,
-              "median": 0.8407,
+              "median": 0.8545,
               "p25": 0.5577,
               "pct_ge_075": 0.5694,
               "invalid": 0,
@@ -2049,7 +2049,7 @@
         "n": 2326,
         "median": 0.8654,
         "p25": 0.7527,
-        "pct_ge_075": 0.7524,
+        "pct_ge_075": 0.7528,
         "invalid": 44,
         "tba_rate": 0.0361,
         "by_field_fixable": {
@@ -2066,7 +2066,7 @@
           "tags": 307,
           "sources": 301,
           "maps": 100,
-          "venue": 78
+          "venue": 77
         },
         "weights_version": "v1"
       },
@@ -2401,7 +2401,7 @@
             "n": 417,
             "median": 0.8036,
             "p25": 0.6604,
-            "pct_ge_075": 0.6691,
+            "pct_ge_075": 0.6715,
             "invalid": 1,
             "tba_rate": 0.0168,
             "by_field_fixable": {
@@ -2417,8 +2417,8 @@
               "tags": 98,
               "address": 96,
               "sources": 76,
-              "venue": 72,
-              "maps": 71
+              "maps": 71,
+              "venue": 71
             },
             "weights_version": "v1"
           },
@@ -2485,7 +2485,7 @@
               "n": 95,
               "median": 0.8377,
               "p25": 0.45,
-              "pct_ge_075": 0.5684,
+              "pct_ge_075": 0.5789,
               "invalid": 0,
               "tba_rate": 0.0421,
               "weights_version": "v1"
