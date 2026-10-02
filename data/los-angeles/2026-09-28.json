@@ -7088,18 +7088,25 @@
         "day": "Sat",
         "date": "2026-10-03",
         "time": "22:00",
-        "start": null,
-        "end": null,
+        "start": "22:00",
+        "end": "02:00",
         "area": "Lincoln Heights",
         "venue": "The Airliner",
         "address": "2419 N Broadway, Los Angeles, CA 90031",
         "why": "",
-        "summary": "",
+        "summary": "Spin the Bottle is scheduled for October 3, 2026 in Los Angeles; venue, time, and lineup details have not been provided.",
         "promoter": "",
         "price": "",
-        "tags": [],
-        "sources": [],
-        "tickets": [],
+        "tags": [
+          "unknown",
+          "tbd"
+        ],
+        "sources": [
+          "https://ra.co/events/2544519"
+        ],
+        "tickets": [
+          "https://ra.co/events/2544519"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=The%20Airliner",
           "apple": "https://maps.apple.com/?q=The%20Airliner"
@@ -7107,10 +7114,10 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://party-scout.app/img/gen/spin-the-bottle-a8b3.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 1,
+        "enriched": 2,
         "active": true,
         "lineup": [
           {
