@@ -1774,13 +1774,13 @@
         "id": "2026-09-28-music-dosti-your-friends-in-disco-20adb8",
         "eid": "dosti-your-friends-in-di-df9d",
         "track": "music",
-        "category": "Disco",
+        "category": "Nightclub",
         "name": "Dosti: Your Friends In Disco",
         "day": "Fri",
         "date": "2026-10-02",
         "time": "10pm-2am",
         "start": "22:00",
-        "end": null,
+        "end": "02:00",
         "area": "LA",
         "venue": "Zebulon",
         "address": "2478 Fletcher Dr, Los Angeles, CA 90039",
@@ -1798,7 +1798,9 @@
         "sources": [
           "https://dice.fm/venue/zebulon-y8bv"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://dice.fm/venue/zebulon-y8bv"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Zebulon%2C%20LA",
           "apple": "https://maps.apple.com/?q=Zebulon%2C%20LA"
@@ -1806,10 +1808,10 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://party-scout.app/img/gen/dosti-your-friends-in-di-df9d.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 1,
+        "enriched": 2,
         "active": true
       },
       {
