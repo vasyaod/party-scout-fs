@@ -1613,13 +1613,13 @@
         "id": "2026-10-05-music-spooky-disco-luau-56d9ac",
         "eid": "spooky-disco-luau-2c2b",
         "track": "music",
-        "category": "Disco",
+        "category": "Nightclub",
         "name": "Spooky Disco Luau",
         "day": "Sat",
         "date": "2026-10-10",
-        "time": "",
-        "start": null,
-        "end": null,
+        "time": "9pm–2am",
+        "start": "21:00",
+        "end": "02:00",
         "area": "Arts District",
         "venue": "High Tide",
         "address": "605 E 4th St, Los Angeles, CA 90013",
@@ -1633,9 +1633,13 @@
           "free"
         ],
         "sources": [
-          "https://dice.fm/event/2wq9x7-misfits-la-disco-luau-spooky-edition-10th-oct-high-tide-los-angeles-tickets"
+          "https://dice.fm/event/2wq9x7-misfits-la-disco-luau-spooky-edition-10th-oct-high-tide-los-angeles-tickets",
+          "https://ra.co/events/2530204"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://dice.fm/event/2wq9x7-misfits-la-disco-luau-spooky-edition-10th-oct-high-tide-los-angeles-tickets",
+          "https://ra.co/events/2530204"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=High%20Tide%2C%20LA",
           "apple": "https://maps.apple.com/?q=High%20Tide%2C%20LA"
@@ -1643,10 +1647,10 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://party-scout.app/img/gen/spooky-disco-luau-2c2b.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 1,
+        "enriched": 2,
         "active": true
       },
       {
