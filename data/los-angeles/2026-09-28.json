@@ -5732,18 +5732,26 @@
         "day": "Fri",
         "date": "2026-10-02",
         "time": "21:00",
-        "start": null,
-        "end": null,
+        "start": "21:00",
+        "end": "02:00",
         "area": "Chinatown",
         "venue": "Grand Star Jazz Club",
         "address": "943 Sun Mun Way, Los Angeles, CA 90012",
-        "why": "",
-        "summary": "",
+        "why": "To check out a new LA night happening that evening.",
+        "summary": "Loose is scheduled for October 2, 2026 in Los Angeles; venue, time, and lineup details were not provided.",
         "promoter": "",
         "price": "",
-        "tags": [],
-        "sources": [],
-        "tickets": [],
+        "tags": [
+          "nightlife",
+          "los-angeles",
+          "evening"
+        ],
+        "sources": [
+          "https://ra.co/events/2550304"
+        ],
+        "tickets": [
+          "https://ra.co/events/2550304"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Grand%20Star%20Jazz%20Club",
           "apple": "https://maps.apple.com/?q=Grand%20Star%20Jazz%20Club"
@@ -5751,10 +5759,10 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://party-scout.app/img/gen/loose-8724.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 1,
+        "enriched": 2,
         "active": true,
         "lineup": [
           {
