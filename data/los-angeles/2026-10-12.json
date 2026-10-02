@@ -2829,17 +2829,17 @@
         "id": "2026-10-12-music-paradisco-372773",
         "eid": "paradisco-fd19",
         "track": "music",
-        "category": "Disco",
+        "category": "Nightclub",
         "name": "Paradisco",
         "day": "Sat",
         "date": "2026-10-17",
-        "time": "",
-        "start": null,
-        "end": null,
+        "time": "10pm–2am",
+        "start": "22:00",
+        "end": "02:00",
         "area": "Koreatown",
         "venue": "Kiss Kiss Bang Bang (Los Angeles)",
         "address": "3531 Wilshire Blvd, Los Angeles, CA 90010",
-        "why": "",
+        "why": "To spend a late night out between 10pm and 2am.",
         "summary": "Recurring disco and disco-house night at Kiss Kiss Bang Bang, the disco-themed club inside The Line Hotel in Koreatown.",
         "promoter": "Kiss Kiss Bang Bang",
         "price": "Free",
@@ -2851,7 +2851,10 @@
           "https://ra.co/events/2536859",
           "https://dice.fm/venue/kiss-kiss-bang-bang-la-w79p"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://ra.co/events/2536859",
+          "https://dice.fm/venue/kiss-kiss-bang-bang-la-w79p"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Kiss%20Kiss%20Bang%20Bang%20%28Los%20Angeles%29",
           "apple": "https://maps.apple.com/?q=Kiss%20Kiss%20Bang%20Bang%20%28Los%20Angeles%29"
@@ -2860,9 +2863,9 @@
         "coords_precise": false,
         "ra": {},
         "image": "https://party-scout.app/img/gen/paradisco-fd19.jpg",
-        "image_generated": true,
+        "image_generated": false,
         "popularity": 0,
-        "enriched": 2,
+        "enriched": 3,
         "active": true
       },
       {
