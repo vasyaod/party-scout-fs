@@ -3339,10 +3339,10 @@
         "date": "2026-10-03",
         "time": "22:00",
         "start": "22:00",
-        "end": null,
+        "end": "02:00",
         "area": "LA",
         "venue": "Kiss Kiss Bang Bang",
-        "address": "",
+        "address": "3531 Wilshire Blvd, Los Angeles, CA 90010, USA",
         "why": "Disco house on a glowing checkered dance floor, with roller skaters gliding through the crowd.",
         "summary": "Paradisco is a recurring disco and disco-house night at Kiss Kiss Bang Bang, the Houston Bros' retro-futuristic room with a glowing checkered dance floor and live roller-skater performances.",
         "promoter": "",
@@ -3353,8 +3353,12 @@
           "21+",
           "house"
         ],
-        "sources": [],
-        "tickets": [],
+        "sources": [
+          "https://ra.co/events/2527961"
+        ],
+        "tickets": [
+          "https://ra.co/events/2527961"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Kiss%20Kiss%20Bang%20Bang%2C%20LA",
           "apple": "https://maps.apple.com/?q=Kiss%20Kiss%20Bang%20Bang%2C%20LA"
@@ -3363,9 +3367,9 @@
         "coords_precise": false,
         "ra": {},
         "image": "https://party-scout.app/img/gen/paradisco-4fda.jpg",
-        "image_generated": true,
+        "image_generated": false,
         "popularity": 0,
-        "enriched": 1,
+        "enriched": 2,
         "active": true
       },
       {
