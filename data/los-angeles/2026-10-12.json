@@ -2671,21 +2671,29 @@
         "day": "Sat",
         "date": "2026-10-17",
         "time": "9:00 PM",
-        "start": null,
-        "end": null,
+        "start": "21:00",
+        "end": "02:00",
         "area": "Hollywood",
         "venue": "Casita Hollywood (Los Angeles)",
         "address": "1323 N Highland Ave, Los Angeles, CA 90028",
-        "why": "",
+        "why": "To check out a local evening event in Los Angeles on Oct 17.",
         "summary": "Minty Boi presents Baltra with dj poolboi at Casita Hollywood.",
         "promoter": "Minty Boi",
         "price": "$33.49",
-        "tags": [],
+        "tags": [
+          "music",
+          "nightlife"
+        ],
         "sources": [
           "https://dice.fm/event/3obd8p-minty-boi-presents-baltra-dj-poolboi-in-los-angeles-17th-oct-casita-hollywood-los-angeles-tickets",
-          "https://dice.fm/event/3obd8p-minty-boi-presents-baltra-dj-poolbol-ava-blank-17th-oct-the-airliner-los-angeles-tickets"
+          "https://dice.fm/event/3obd8p-minty-boi-presents-baltra-dj-poolbol-ava-blank-17th-oct-the-airliner-los-angeles-tickets",
+          "https://ra.co/events/2533687"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://dice.fm/event/3obd8p-minty-boi-presents-baltra-dj-poolboi-in-los-angeles-17th-oct-casita-hollywood-los-angeles-tickets",
+          "https://dice.fm/event/3obd8p-minty-boi-presents-baltra-dj-poolbol-ava-blank-17th-oct-the-airliner-los-angeles-tickets",
+          "https://ra.co/events/2533687"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Casita%20Hollywood%20%28Los%20Angeles%29",
           "apple": "https://maps.apple.com/?q=Casita%20Hollywood%20%28Los%20Angeles%29"
@@ -2694,9 +2702,9 @@
         "coords_precise": false,
         "ra": {},
         "image": "https://party-scout.app/img/gen/baltra-e655.jpg",
-        "image_generated": true,
+        "image_generated": false,
         "popularity": 0,
-        "enriched": 2,
+        "enriched": 3,
         "active": true,
         "lineup": [
           {
