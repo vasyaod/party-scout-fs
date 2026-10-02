@@ -5,7 +5,7 @@
   "location": "Los Angeles & SoCal",
   "city": "los-angeles",
   "city_label": "Los Angeles",
-  "generated_at": "2026-10-01",
+  "generated_at": "2026-10-02",
   "tracks": {
     "music": [
       {
@@ -2193,7 +2193,7 @@
         "id": "2026-10-05-sports-long-beach-marathon-ae6722",
         "eid": "long-beach-marathon-9ec0",
         "track": "sports",
-        "category": "Marathon",
+        "category": "Sports",
         "name": "Long Beach Marathon",
         "day": "Sat",
         "date": "2026-10-10",
@@ -2217,7 +2217,8 @@
         "sources": [
           "https://www.runguides.com/los-angeles/runs/marathon/all",
           "https://www.runlongbeach.com/marathon",
-          "https://www.visitlongbeach.com/blog/long-beach-marathon/"
+          "https://www.visitlongbeach.com/blog/long-beach-marathon/",
+          "https://www.runlongbeach.com/"
         ],
         "tickets": [
           "https://www.runlongbeach.com/"
@@ -2232,7 +2233,7 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 1,
+        "enriched": 2,
         "active": true
       }
     ]
