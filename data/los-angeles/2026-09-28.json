@@ -3788,7 +3788,7 @@
         "id": "2026-09-28-music-nightshift-after-hours-c3c3ab",
         "eid": "nightshift-after-hours-bd4e",
         "track": "music",
-        "category": "House",
+        "category": "Nightclub",
         "name": "Nightshift After Hours",
         "day": "Fri",
         "date": "2026-10-02",
@@ -3811,9 +3811,12 @@
           "minimal"
         ],
         "sources": [
-          "https://events.extrachill.com/events/nightshift-afterhours-116"
+          "https://events.extrachill.com/events/nightshift-afterhours-116",
+          "https://ra.co/events/2543649"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://ra.co/events/2543649"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=The%20Lexington%2C%20LA",
           "apple": "https://maps.apple.com/?q=The%20Lexington%2C%20LA"
@@ -3822,9 +3825,9 @@
         "coords_precise": false,
         "ra": {},
         "image": "https://party-scout.app/img/gen/nightshift-after-hours-bd4e.jpg",
-        "image_generated": true,
+        "image_generated": false,
         "popularity": 0,
-        "enriched": 1,
+        "enriched": 2,
         "active": true
       },
       {
