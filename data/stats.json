@@ -1,16 +1,16 @@
 {
   "kind": "stats",
-  "generated_at": "2026-10-02T03:17:08+00:00",
+  "generated_at": "2026-10-02T03:18:06+00:00",
   "weights_version": "v1",
   "total": {
     "n": 3848,
     "median": 0.8654,
     "p25": 0.7273,
-    "pct_ge_075": 0.7318,
+    "pct_ge_075": 0.7321,
     "invalid": 50,
     "tba_rate": 0.085,
     "by_field_fixable": {
-      "image": 2639,
+      "image": 2638,
       "coords": 2566,
       "tickets": 1560,
       "start": 1068,
@@ -42,7 +42,7 @@
         "invalid": 6,
         "tba_rate": 0.1597,
         "by_field_fixable": {
-          "image": 1080,
+          "image": 1079,
           "coords": 877,
           "tickets": 532,
           "start": 439,
@@ -491,7 +491,7 @@
             "tba_rate": 0.1385,
             "by_field_fixable": {
               "coords": 168,
-              "image": 116,
+              "image": 115,
               "tickets": 92,
               "category": 85,
               "address": 74,
@@ -2049,7 +2049,7 @@
         "n": 2326,
         "median": 0.8604,
         "p25": 0.75,
-        "pct_ge_075": 0.7502,
+        "pct_ge_075": 0.7506,
         "invalid": 44,
         "tba_rate": 0.0361,
         "by_field_fixable": {
@@ -2292,8 +2292,8 @@
           "summary": {
             "n": 263,
             "median": 0.8519,
-            "p25": 0.7778,
-            "pct_ge_075": 0.8023,
+            "p25": 0.7811,
+            "pct_ge_075": 0.8061,
             "invalid": 7,
             "tba_rate": 0.0304,
             "by_field_fixable": {
@@ -2353,8 +2353,8 @@
               "day": "Thu",
               "n": 24,
               "median": 0.8364,
-              "p25": 0.7407,
-              "pct_ge_075": 0.7083,
+              "p25": 0.7736,
+              "pct_ge_075": 0.75,
               "invalid": 0,
               "tba_rate": 0.0,
               "weights_version": "v1"
