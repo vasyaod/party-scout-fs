@@ -16699,19 +16699,28 @@
         "name": "Catmandu",
         "day": "Sat",
         "date": "2026-10-03",
-        "time": "",
-        "start": null,
-        "end": null,
+        "time": "9pm–2am",
+        "start": "21:00",
+        "end": "02:00",
         "area": "Lower Haight",
         "venue": "Underground SF",
         "address": "424 Haight St, San Francisco, CA 94117",
-        "why": "",
-        "summary": "",
+        "why": "Good for a late-night dance outing with an affordable cover.",
+        "summary": "Catmandu takes place on Oct 3, 2026, running 9pm–2am with a $10 cover.",
         "promoter": "",
-        "price": "",
-        "tags": [],
-        "sources": [],
-        "tickets": [],
+        "price": "$10",
+        "tags": [
+          "nightlife",
+          "party",
+          "late-night",
+          "paid"
+        ],
+        "sources": [
+          "https://ra.co/events/2546189"
+        ],
+        "tickets": [
+          "https://ra.co/events/2546189"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Underground%20SF",
           "apple": "https://maps.apple.com/?q=Underground%20SF"
@@ -16720,9 +16729,9 @@
         "coords_precise": false,
         "ra": {},
         "image": "https://party-scout.app/img/gen/catmandu-ca67.jpg",
-        "image_generated": true,
+        "image_generated": false,
         "popularity": 0,
-        "enriched": 1,
+        "enriched": 2,
         "active": true
       },
       {
