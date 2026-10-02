@@ -2298,16 +2298,16 @@
         "name": "SAAND - Salty Residency",
         "day": "Fri",
         "date": "2026-10-09",
-        "time": "",
-        "start": null,
-        "end": null,
+        "time": "9pm–2am",
+        "start": "21:00",
+        "end": "02:00",
         "area": "Napa",
         "venue": "Napa Music Hall",
         "address": "1030 Main St, Napa, CA 94559",
         "why": "Napa's serious house/techno residency series, a wine-country alternative to SF clubs",
         "summary": "Salty Sundays Productions' Salty Residency at Napa Music Hall showcases LA-based DJ/producer SAAND as part of an immersive Friday night series spanning house and techno.",
         "promoter": "Salty Sundays Productions",
-        "price": "",
+        "price": "$25",
         "tags": [
           "house",
           "techno",
@@ -2316,9 +2316,14 @@
         "sources": [
           "https://ra.co/clubs/295306",
           "https://ra.co/dj/saand",
-          "https://napamusichall.com/events/"
+          "https://napamusichall.com/events/",
+          "https://ra.co/events/2529828"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://ra.co/clubs/295306",
+          "https://ra.co/dj/saand",
+          "https://ra.co/events/2529828"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Napa%20Music%20Hall%2C%20Napa",
           "apple": "https://maps.apple.com/?q=Napa%20Music%20Hall%2C%20Napa"
@@ -2326,10 +2331,10 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://party-scout.app/img/gen/saand-salty-residency-c0c6.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 1,
+        "enriched": 2,
         "active": true
       },
       {
