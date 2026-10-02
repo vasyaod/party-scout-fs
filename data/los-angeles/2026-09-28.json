@@ -2408,7 +2408,7 @@
         "date": "2026-10-02",
         "time": "21:00",
         "start": "21:00",
-        "end": null,
+        "end": "00:00",
         "area": "LA",
         "venue": "The Roxy",
         "address": "9009 Sunset Blvd, West Hollywood, CA 90069",
@@ -2426,10 +2426,13 @@
         ],
         "sources": [
           "https://www.theroxy.com/shows",
-          "https://www.bandsintown.com/a/747276-roya"
+          "https://www.bandsintown.com/a/747276-roya",
+          "https://open.spotify.com/concert/1P6VB80cCmm36GWlf7qyVK",
+          "https://ra.co/events/2470824"
         ],
         "tickets": [
-          "https://open.spotify.com/concert/1P6VB80cCmm36GWlf7qyVK"
+          "https://open.spotify.com/concert/1P6VB80cCmm36GWlf7qyVK",
+          "https://ra.co/events/2470824"
         ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=The%20Roxy%2C%20LA",
@@ -2441,7 +2444,7 @@
         "image": "https://party-scout.app/img/gen/roya-6b63.jpg",
         "image_generated": true,
         "popularity": 0,
-        "enriched": 1,
+        "enriched": 2,
         "active": true
       },
       {
