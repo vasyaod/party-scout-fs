@@ -1473,7 +1473,7 @@
         "date": "2026-10-17",
         "time": "8pm",
         "start": "20:00",
-        "end": null,
+        "end": "02:00",
         "area": "Los Angeles",
         "venue": "The Redwood Bar And Grill",
         "address": "316 W 2nd St, Los Angeles, CA 90012",
@@ -1487,10 +1487,13 @@
           "rock"
         ],
         "sources": [
-          "https://theredwoodbar.com/events.html"
+          "https://theredwoodbar.com/events.html",
+          "https://www.eventbrite.com/e/in-fuzz-we-trust-presents-the-dogs-at-the-redwood-bar-october-17th-tickets-1997921642415",
+          "https://ra.co/events/2514352"
         ],
         "tickets": [
-          "https://www.eventbrite.com/e/in-fuzz-we-trust-presents-the-dogs-at-the-redwood-bar-october-17th-tickets-1997921642415"
+          "https://www.eventbrite.com/e/in-fuzz-we-trust-presents-the-dogs-at-the-redwood-bar-october-17th-tickets-1997921642415",
+          "https://ra.co/events/2514352"
         ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=The%20Redwood%20Bar%20And%20Grill",
@@ -1499,10 +1502,10 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "https://party-scout.app/img/gen/the-dogs-85c1.jpg",
-        "image_generated": true,
+        "image": "https://party-scout.app/img/gen/the-dogs-cd67.jpg",
+        "image_generated": false,
         "popularity": 0,
-        "enriched": 1,
+        "enriched": 2,
         "active": true,
         "lineup": [
           {
