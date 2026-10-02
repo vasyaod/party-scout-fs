@@ -6776,12 +6776,12 @@
         "day": "Sat",
         "date": "2026-10-03",
         "time": "16:00",
-        "start": null,
-        "end": null,
+        "start": "16:00",
+        "end": "22:00",
         "area": "DTLA",
         "venue": "The Redwood Bar And Grill",
-        "address": "",
-        "why": "",
+        "address": "316 W. 2nd Street, Los Angeles, CA  90012",
+        "why": "To attend a downtown Los Angeles event on that evening.",
         "summary": "A $10 Saturday-afternoon live show at The Redwood Bar And Grill, starting at 4pm.",
         "promoter": "",
         "price": "$10",
@@ -6789,8 +6789,12 @@
           "live music",
           "bar"
         ],
-        "sources": [],
-        "tickets": [],
+        "sources": [
+          "https://ra.co/events/2530656"
+        ],
+        "tickets": [
+          "https://ra.co/events/2530656"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=The%20Redwood%20Bar%20And%20Grill",
           "apple": "https://maps.apple.com/?q=The%20Redwood%20Bar%20And%20Grill"
@@ -6801,7 +6805,7 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 1,
+        "enriched": 2,
         "active": true
       },
       {
