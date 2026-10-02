@@ -3023,20 +3023,24 @@
         "day": "Sat",
         "date": "2026-10-03",
         "time": "22:00",
-        "start": null,
-        "end": null,
+        "start": "22:00",
+        "end": "02:00",
         "area": "LA",
         "venue": "Que Sera",
         "address": "1923 E 7th St, Long Beach, CA 90813",
-        "why": "",
-        "summary": "",
+        "why": "For an LA night out on October 3.",
+        "summary": "Infierno is scheduled to take place in Los Angeles on 2026-10-03; venue, time, and lineup are not listed.",
         "promoter": "",
         "price": "$5.50-7.85",
         "tags": [
           "neo perreo"
         ],
-        "sources": [],
-        "tickets": [],
+        "sources": [
+          "https://ra.co/events/2542417"
+        ],
+        "tickets": [
+          "https://ra.co/events/2542417"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Que%20Sera%2C%20LA",
           "apple": "https://maps.apple.com/?q=Que%20Sera%2C%20LA"
@@ -3045,9 +3049,9 @@
         "coords_precise": false,
         "ra": {},
         "image": "https://party-scout.app/img/gen/infierno-cdd2.jpg",
-        "image_generated": true,
+        "image_generated": false,
         "popularity": 0,
-        "enriched": 1,
+        "enriched": 2,
         "active": true,
         "lineup": [
           {
