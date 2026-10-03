@@ -267,8 +267,8 @@
         "day": "Wed",
         "date": "2026-10-21",
         "time": "8pm doors",
-        "start": null,
-        "end": null,
+        "start": "20:00",
+        "end": "02:00",
         "area": "DTLA",
         "venue": "The Redwood Bar & Grill",
         "address": "316 W 2nd St, Los Angeles, CA",
@@ -284,9 +284,12 @@
         ],
         "sources": [
           "https://thevigils.bandcamp.com/music",
-          "https://dolosangeles.com/venues/the-redwood-bar-grill"
+          "https://dolosangeles.com/venues/the-redwood-bar-grill",
+          "https://ra.co/events/2530659"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://ra.co/events/2530659"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=The%20Redwood%20Bar%20And%20Grill%20%28Los%20Angeles%29",
           "apple": "https://maps.apple.com/?q=The%20Redwood%20Bar%20And%20Grill%20%28Los%20Angeles%29"
@@ -297,7 +300,7 @@
         "image": "https://party-scout.app/img/gen/the-vigils-6e7f.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 1,
+        "enriched": 2,
         "active": true,
         "lineup": [
           {
