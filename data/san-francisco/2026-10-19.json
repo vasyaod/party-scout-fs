@@ -2832,7 +2832,7 @@
         "id": "2026-10-19-music-x-club-98dc6a",
         "eid": "x-club-5c2c",
         "track": "music",
-        "category": "",
+        "category": "Nightclub",
         "name": "X CLUB",
         "day": "Thu",
         "date": "2026-10-22",
@@ -2841,7 +2841,7 @@
         "end": "02:00",
         "area": "San Francisco/Oakland",
         "venue": "1015 Folsom",
-        "address": "",
+        "address": "1015 Folsom Street; San Francisco, CA 94103; United States",
         "why": "A late Thursday dance night in SoMa's big club room.",
         "summary": "A Thursday-night club event at 1015 Folsom, running 9pm to 2am.",
         "promoter": "",
@@ -2851,8 +2851,13 @@
           "nightlife",
           "21+"
         ],
-        "sources": [],
-        "tickets": [],
+        "sources": [
+          "https://ra.co/events/2511931",
+          "https://dothebay.com/events/2026/10/22/x-club-tickets"
+        ],
+        "tickets": [
+          "https://ra.co/events/2511931"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=1015%20Folsom%2C%20San%20Francisco/Oakland",
           "apple": "https://maps.apple.com/?q=1015%20Folsom%2C%20San%20Francisco/Oakland"
@@ -2860,10 +2865,10 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://party-scout.app/img/gen/x-club-5c2c.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 1,
+        "enriched": 2,
         "active": true
       },
       {
