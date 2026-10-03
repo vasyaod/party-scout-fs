@@ -10325,13 +10325,13 @@
         "id": "2026-10-12-sports-4th-annual-adaptive-sports-exp-77ac24",
         "eid": "4th-annual-adaptive-spor-97f3",
         "track": "sports",
-        "category": "",
+        "category": "Sports",
         "name": "4th Annual Adaptive Sports Expo: Wheelchair Basketball + Rugby (Berkeley)",
         "day": "Sat",
         "date": "2026-10-17",
         "time": "10:00",
-        "start": null,
-        "end": null,
+        "start": "10:00",
+        "end": "17:30",
         "area": "Berkeley",
         "venue": "James Kenney Community Center",
         "address": "1720 8th Street, Berkeley, CA",
@@ -10347,7 +10347,8 @@
           "community"
         ],
         "sources": [
-          "https://www.borp.org/expo/"
+          "https://www.borp.org/expo/",
+          "https://sf.funcheap.com/borps-4th-annual-adaptive-sports-expo-berkeley/"
         ],
         "tickets": [
           {
@@ -10360,9 +10361,9 @@
         "coords_precise": false,
         "ra": {},
         "image": "https://party-scout.app/img/gen/4th-annual-adaptive-spor-97f3.jpg",
-        "image_generated": true,
+        "image_generated": false,
         "popularity": 0,
-        "enriched": 1,
+        "enriched": 2,
         "active": true
       }
     ]
