@@ -4054,7 +4054,7 @@
         "id": "2026-10-19-music-petit-biscuit-in-san-francisco-a8ce9e",
         "eid": "petit-biscuit-in-san-fra-b2ca",
         "track": "music",
-        "category": "",
+        "category": "Concert",
         "name": "Petit Biscuit in San Francisco",
         "day": "Fri",
         "date": "2026-10-23",
@@ -4063,7 +4063,7 @@
         "end": "00:00",
         "area": "San Francisco",
         "venue": "The Foundry",
-        "address": "",
+        "address": "1425 Folsom St, San Francisco, CA 94103",
         "why": "Catch a melodic electronic set in a club room on a Friday night.",
         "summary": "Petit Biscuit plays The Foundry in San Francisco on Friday night, 9pm to midnight.",
         "promoter": "",
@@ -4073,8 +4073,12 @@
           "dj",
           "concert"
         ],
-        "sources": [],
-        "tickets": [],
+        "sources": [
+          "https://ra.co/events/2539570"
+        ],
+        "tickets": [
+          "https://ra.co/events/2539570"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=The%20Foundry%2C%20San%20Francisco",
           "apple": "https://maps.apple.com/?q=The%20Foundry%2C%20San%20Francisco"
@@ -4082,10 +4086,10 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://party-scout.app/img/gen/petit-biscuit-in-san-fra-b2ca.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 1,
+        "enriched": 2,
         "active": true
       },
       {
