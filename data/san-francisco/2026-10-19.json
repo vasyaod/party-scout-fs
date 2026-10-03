@@ -7693,7 +7693,7 @@
         "id": "2026-10-19-music-william-black-304a2b",
         "eid": "william-black-a3d1",
         "track": "music",
-        "category": "",
+        "category": "Concert",
         "name": "William Black",
         "day": "Sat",
         "date": "2026-10-24",
@@ -7702,8 +7702,8 @@
         "end": null,
         "area": "San Francisco",
         "venue": "Fox Theater",
-        "address": "",
-        "why": "",
+        "address": "1807 Telegraph Ave, Oakland, CA 94612",
+        "why": "To attend a live music event in Oakland on that date.",
         "summary": "A Saturday-night concert at the Fox Theater in San Francisco, with tickets listed at $56-143.",
         "promoter": "",
         "price": "$56-143",
@@ -7711,7 +7711,9 @@
           "live-music",
           "concert"
         ],
-        "sources": [],
+        "sources": [
+          "https://dothebay.com/events/2026/10/24/william-black-tickets"
+        ],
         "tickets": [],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Fox%20Theater%2C%20San%20Francisco",
@@ -7721,9 +7723,9 @@
         "coords_precise": false,
         "ra": {},
         "image": "https://party-scout.app/img/gen/william-black-a3d1.jpg",
-        "image_generated": true,
+        "image_generated": false,
         "popularity": 0,
-        "enriched": 1,
+        "enriched": 2,
         "active": true
       }
     ],
