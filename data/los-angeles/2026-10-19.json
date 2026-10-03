@@ -5,27 +5,27 @@
   "location": "Los Angeles & SoCal",
   "city": "los-angeles",
   "city_label": "Los Angeles",
-  "generated_at": "2026-09-30",
+  "generated_at": "2026-10-02",
   "tracks": {
     "music": [
       {
         "id": "2026-10-19-music-actress-dd05a4",
         "eid": "actress-4ebf",
         "track": "music",
-        "category": "Live electronic",
+        "category": "Concert",
         "name": "Actress",
         "day": "Mon",
         "date": "2026-10-19",
         "time": "7:00 PM",
-        "start": null,
-        "end": null,
+        "start": "19:00",
+        "end": "23:59",
         "area": "Echo Park",
         "venue": "The Echoplex",
         "address": "1154 Glendale Blvd, Los Angeles, CA 90026",
         "why": "Left-field electronic from one of UK techno's most singular producers, in an intimate basement room.",
         "summary": "Darren J. Cunningham's Actress, the Wolverhampton producer behind Werkdiscs, plays a live show at the Echoplex in Echo Park.",
         "promoter": "",
-        "price": "",
+        "price": "$38",
         "tags": [
           "live",
           "electronic",
@@ -33,9 +33,12 @@
         ],
         "sources": [
           "https://www.songkick.com/concerts/43345541-actress-at-echoplex",
-          "https://www.ticketmaster.com/actress-los-angeles-california-10-19-2026/event/090064FB1DECFA09"
+          "https://www.ticketmaster.com/actress-los-angeles-california-10-19-2026/event/090064FB1DECFA09",
+          "https://ra.co/events/2544520"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://ra.co/events/2544520"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=The%20Echoplex%20%28Los%20Angeles%29",
           "apple": "https://maps.apple.com/?q=The%20Echoplex%20%28Los%20Angeles%29"
@@ -43,10 +46,10 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://party-scout.app/img/gen/actress-4ebf.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 1,
+        "enriched": 2,
         "active": true
       },
       {
