@@ -3106,7 +3106,7 @@
         "end": "03:00",
         "area": "Hollywood",
         "venue": "Academy Nightclub (Los Angeles)",
-        "address": "",
+        "address": "6021 Hollywood Blvd.  Los Angeles, CA 90028, USA",
         "why": "A full night of club sound on a Hollywood dance floor.",
         "summary": "A Friday late-night electronic show at Academy Nightclub, 10pm to 3am, 21+.",
         "promoter": "",
@@ -3115,8 +3115,12 @@
           "electronic",
           "nightclub"
         ],
-        "sources": [],
-        "tickets": [],
+        "sources": [
+          "https://ra.co/events/2518035"
+        ],
+        "tickets": [
+          "https://ra.co/events/2518035"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Academy%20Nightclub%20%28Los%20Angeles%29",
           "apple": "https://maps.apple.com/?q=Academy%20Nightclub%20%28Los%20Angeles%29"
@@ -3125,9 +3129,9 @@
         "coords_precise": false,
         "ra": {},
         "image": "https://party-scout.app/img/gen/marco-strous-7927.jpg",
-        "image_generated": true,
+        "image_generated": false,
         "popularity": 0,
-        "enriched": 1,
+        "enriched": 2,
         "active": true
       },
       {
