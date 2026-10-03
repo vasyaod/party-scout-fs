@@ -9192,16 +9192,16 @@
         "id": "2026-10-12-music-31st-annual-campbell-oktoberfe-e16c51",
         "eid": "31st-annual-campbell-okt-e3a7",
         "track": "music",
-        "category": "",
+        "category": "Festival",
         "name": "31st Annual Campbell Oktoberfest (Oct. 17-18)",
         "day": "Sat",
         "date": "2026-10-17",
         "time": "10:00",
-        "start": null,
-        "end": null,
+        "start": "10:00",
+        "end": "18:00",
         "area": "Campbell",
         "venue": "Downtown Campbell CA",
-        "address": "",
+        "address": "E. Campbell Avenue",
         "why": "Free-entry fall festival with beer and a South Bay street-fair crowd.",
         "summary": "A two-day outdoor Oktoberfest street festival in downtown Campbell, running Saturday and Sunday.",
         "promoter": "",
@@ -9211,7 +9211,9 @@
           "free",
           "festival"
         ],
-        "sources": [],
+        "sources": [
+          "https://sf.funcheap.com/31st-annual-campbell-oktoberfest-oct-1718/"
+        ],
         "tickets": [],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Downtown%20Campbell%20CA",
@@ -9221,9 +9223,9 @@
         "coords_precise": false,
         "ra": {},
         "image": "https://party-scout.app/img/gen/31st-annual-campbell-okt-e3a7.jpg",
-        "image_generated": true,
+        "image_generated": false,
         "popularity": 0,
-        "enriched": 1,
+        "enriched": 2,
         "active": true
       }
     ],
