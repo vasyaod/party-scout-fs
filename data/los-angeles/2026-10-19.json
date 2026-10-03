@@ -1352,8 +1352,12 @@
           "electronic",
           "concert"
         ],
-        "sources": [],
-        "tickets": [],
+        "sources": [
+          "https://dosd.com/artists/snakehips/events"
+        ],
+        "tickets": [
+          "https://nightout.com/events/v/snakehips-nova-sd-san-diego-2026-10-23/tickets"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Nova%20Sd%20%28San%20Diego%29",
           "apple": "https://maps.apple.com/?q=Nova%20Sd%20%28San%20Diego%29"
@@ -1361,7 +1365,7 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://party-scout.app/img/gen/snakehips-126c.jpg",
         "image_generated": false,
         "popularity": 0,
         "enriched": 2,
