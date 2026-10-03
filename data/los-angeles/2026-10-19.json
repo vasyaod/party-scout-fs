@@ -390,7 +390,7 @@
         "id": "2026-10-19-music-flamingosis-4d78cd",
         "eid": "flamingosis-e913",
         "track": "music",
-        "category": "",
+        "category": "Concert",
         "name": "Flamingosis",
         "day": "Thu",
         "date": "2026-10-22",
@@ -399,7 +399,7 @@
         "end": "02:00",
         "area": "Hollywood",
         "venue": "Kiss Kiss Bang Bang (Los Angeles)",
-        "address": "",
+        "address": "3531 Wilshire Blvd, Los Angeles, CA 90010, USA",
         "why": "Catch a beat-driven electronic set in a club room on a weeknight.",
         "summary": "Flamingosis plays a Thursday-night 21+ show at Kiss Kiss Bang Bang in Los Angeles, doors from 9:30pm.",
         "promoter": "",
@@ -409,8 +409,12 @@
           "live",
           "concert"
         ],
-        "sources": [],
-        "tickets": [],
+        "sources": [
+          "https://ra.co/events/2469034"
+        ],
+        "tickets": [
+          "https://ra.co/events/2469034"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Kiss%20Kiss%20Bang%20Bang%20%28Los%20Angeles%29",
           "apple": "https://maps.apple.com/?q=Kiss%20Kiss%20Bang%20Bang%20%28Los%20Angeles%29"
@@ -418,10 +422,10 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://party-scout.app/img/gen/flamingosis-e913.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 1,
+        "enriched": 2,
         "active": true
       },
       {
