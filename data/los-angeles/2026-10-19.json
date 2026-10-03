@@ -3021,16 +3021,16 @@
         "id": "2026-10-19-music-channel-tres-friends-fifi-dbf3fd",
         "eid": "channel-tres-friends-fif-ce10",
         "track": "music",
-        "category": "",
+        "category": "Concert",
         "name": "Channel Tres, &Friends, Fifi",
         "day": "Fri",
         "date": "2026-10-23",
         "time": "9pm",
         "start": "21:00",
-        "end": null,
+        "end": "01:00",
         "area": "South LA",
         "venue": "Shrine Expo Hall (Los Angeles)",
-        "address": "",
+        "address": "665 W. Jefferson Blvd, Los Angeles, CA 90007",
         "why": "House-leaning electronic and hip-hop in a big warehouse-style hall.",
         "summary": "A Friday-night 18+ show at Shrine Expo Hall with Channel Tres, &Friends and Fifi on the bill.",
         "promoter": "",
@@ -3040,8 +3040,12 @@
           "electronic",
           "live"
         ],
-        "sources": [],
-        "tickets": [],
+        "sources": [
+          "https://ra.co/events/2507529"
+        ],
+        "tickets": [
+          "https://ra.co/events/2507529"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Shrine%20Expo%20Hall%20%28Los%20Angeles%29",
           "apple": "https://maps.apple.com/?q=Shrine%20Expo%20Hall%20%28Los%20Angeles%29"
@@ -3050,9 +3054,9 @@
         "coords_precise": false,
         "ra": {},
         "image": "https://party-scout.app/img/gen/channel-tres-friends-fif-ce10.jpg",
-        "image_generated": true,
+        "image_generated": false,
         "popularity": 0,
-        "enriched": 1,
+        "enriched": 2,
         "active": true
       },
       {
