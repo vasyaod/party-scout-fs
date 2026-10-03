@@ -2724,8 +2724,8 @@
         "day": "Sat",
         "date": "2026-10-17",
         "time": "22:00",
-        "start": null,
-        "end": null,
+        "start": "22:00",
+        "end": "02:00",
         "area": "SoMa",
         "venue": "Monarch",
         "address": "101 6th Street, San Francisco, CA 94103, United States",
@@ -2738,8 +2738,12 @@
           "latin",
           "dance"
         ],
-        "sources": [],
-        "tickets": [],
+        "sources": [
+          "https://ra.co/events/2543549"
+        ],
+        "tickets": [
+          "https://ra.co/events/2543549"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Monarch",
           "apple": "https://maps.apple.com/?q=Monarch"
@@ -2748,9 +2752,9 @@
         "coords_precise": false,
         "ra": {},
         "image": "https://party-scout.app/img/gen/reggaeton-mexa-vs-reggae-65ef.jpg",
-        "image_generated": true,
+        "image_generated": false,
         "popularity": 0,
-        "enriched": 1,
+        "enriched": 2,
         "active": true,
         "lineup": [
           {
