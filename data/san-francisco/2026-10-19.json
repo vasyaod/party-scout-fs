@@ -5702,18 +5702,22 @@
         "end": "02:00",
         "area": "Sacramento",
         "venue": "705 Lounge",
-        "address": "",
+        "address": "705 J St Ste B, Sacramento, CA",
         "why": "A late-night Sacramento bill for a $17-37 ticket.",
         "summary": "A Saturday late-night live show at 705 Lounge in Sacramento, running 9pm to 2am, with three acts on the bill.",
-        "promoter": "",
+        "promoter": "Black Sheep",
         "price": "$17-37",
         "tags": [
           "live-music",
           "concert",
           "late-night"
         ],
-        "sources": [],
-        "tickets": [],
+        "sources": [
+          "https://posh.vip/e/lavender-town"
+        ],
+        "tickets": [
+          "https://posh.vip/e/lavender-town"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=705%20Lounge%2C%20Sacramento",
           "apple": "https://maps.apple.com/?q=705%20Lounge%2C%20Sacramento"
@@ -5721,7 +5725,7 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://party-scout.app/img/gen/lavender-town-claybrook-ff9b.jpg",
         "image_generated": false,
         "popularity": 0,
         "enriched": 2,
