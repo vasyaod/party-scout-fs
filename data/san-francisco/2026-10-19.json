@@ -7211,7 +7211,7 @@
         "id": "2026-10-19-music-cid-x-maesic-a0b5d4",
         "eid": "cid-x-maesic-df18",
         "track": "music",
-        "category": "",
+        "category": "Nightclub",
         "name": "CID x Maesic",
         "day": "Fri",
         "date": "2026-10-23",
@@ -7220,7 +7220,7 @@
         "end": "03:00",
         "area": "San Francisco/Oakland",
         "venue": "1015 Folsom",
-        "address": "",
+        "address": "1015 Folsom Street; San Francisco, CA 94103; United States",
         "why": "A late Friday dance-floor night in SoMa's club district.",
         "summary": "A Friday-night club show at 1015 Folsom, running 10PM to 3AM.",
         "promoter": "",
@@ -7228,8 +7228,13 @@
         "tags": [
           "electronic"
         ],
-        "sources": [],
-        "tickets": [],
+        "sources": [
+          "https://ra.co/events/2488857",
+          "https://dothebay.com/events/2026/10/23/cid-x-maesic-tickets"
+        ],
+        "tickets": [
+          "https://ra.co/events/2488857"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=1015%20Folsom%2C%20San%20Francisco/Oakland",
           "apple": "https://maps.apple.com/?q=1015%20Folsom%2C%20San%20Francisco/Oakland"
@@ -7238,9 +7243,9 @@
         "coords_precise": false,
         "ra": {},
         "image": "https://party-scout.app/img/gen/cid-x-maesic-df18.jpg",
-        "image_generated": true,
+        "image_generated": false,
         "popularity": 0,
-        "enriched": 1,
+        "enriched": 2,
         "active": true
       },
       {
