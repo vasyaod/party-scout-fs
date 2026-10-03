@@ -7087,13 +7087,13 @@
         "id": "2026-10-12-music-sf-s-51st-annual-potrero-hill-7b222f",
         "eid": "sf-s-51st-annual-potrero-5823",
         "track": "music",
-        "category": "festival",
-        "name": "SF’s 51st Annual Potrero Hill R&B Festival (2026)",
+        "category": "Festival",
+        "name": "SF's 51st Annual Potrero Hill R&B Festival (2026)",
         "day": "Sat",
         "date": "2026-10-17",
         "time": "10:00",
-        "start": null,
-        "end": null,
+        "start": "10:00",
+        "end": "17:00",
         "area": "Potrero Hill",
         "venue": "20th Street (Potrero Hill)",
         "address": "20th St, San Francisco, CA",
@@ -7110,7 +7110,8 @@
           "potrero-hill"
         ],
         "sources": [
-          "https://potrerofestival.com/"
+          "https://potrerofestival.com/",
+          "https://sf.funcheap.com/potrero-hill-festival-4-blocks-fun-sf/"
         ],
         "tickets": [],
         "maps": {},
@@ -7118,9 +7119,9 @@
         "coords_precise": false,
         "ra": {},
         "image": "https://party-scout.app/img/gen/sf-s-51st-annual-potrero-5823.jpg",
-        "image_generated": true,
+        "image_generated": false,
         "popularity": 0,
-        "enriched": 1,
+        "enriched": 2,
         "active": true
       },
       {
