@@ -3937,8 +3937,12 @@
           "concert",
           "daytime"
         ],
-        "sources": [],
-        "tickets": [],
+        "sources": [
+          "https://www.eventbrite.com/e/shack15-live-lounge-sessions-tickets-1993384044337"
+        ],
+        "tickets": [
+          "https://www.eventbrite.com/e/shack15-live-lounge-sessions-tickets-1993384044337"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Shack15%2C%20San%20Francisco",
           "apple": "https://maps.apple.com/?q=Shack15%2C%20San%20Francisco"
@@ -3946,7 +3950,7 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://party-scout.app/img/gen/marie-garcia-ruka-ef3b.jpg",
         "image_generated": false,
         "popularity": 0,
         "enriched": 2,
