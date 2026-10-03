@@ -1639,9 +1639,9 @@
         "time": "10pm",
         "start": "22:00",
         "end": null,
-        "area": "Los Angeles",
+        "area": "Hollywood",
         "venue": "The Spotlight (Los Angeles)",
-        "address": "",
+        "address": "1601 N. Cahuenga Blvd, Los Angeles, CA 90028",
         "why": "To catch a live music performance in the city that night.",
         "summary": "A 21+ Friday night show at The Spotlight in Los Angeles, starting at 10pm.",
         "promoter": "",
@@ -1650,8 +1650,13 @@
           "live",
           "nightclub"
         ],
-        "sources": [],
-        "tickets": [],
+        "sources": [
+          "https://speakeasygo.com/event/EVE-3EK2XH",
+          "https://19hz.info/eventlisting_LosAngeles.php"
+        ],
+        "tickets": [
+          "https://speakeasygo.com/event/EVE-3EK2XH"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=The%20Spotlight%20%28Los%20Angeles%29",
           "apple": "https://maps.apple.com/?q=The%20Spotlight%20%28Los%20Angeles%29"
@@ -1659,7 +1664,7 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://party-scout.app/img/gen/ugo-banchi-b9c1.jpg",
         "image_generated": false,
         "popularity": 0,
         "enriched": 2,
