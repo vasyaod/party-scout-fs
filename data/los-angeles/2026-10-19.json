@@ -170,8 +170,12 @@
           "concert",
           "electronic"
         ],
-        "sources": [],
-        "tickets": [],
+        "sources": [
+          "https://venturamusichall.com/shows/george-clanton"
+        ],
+        "tickets": [
+          "https://tixr.com/e/201155"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Ventura%20Music%20Hall%20%28Ventura%29",
           "apple": "https://maps.apple.com/?q=Ventura%20Music%20Hall%20%28Ventura%29"
@@ -179,11 +183,19 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://party-scout.app/img/gen/george-clanton-f5f9.jpg",
         "image_generated": false,
         "popularity": 0,
         "enriched": 2,
-        "active": true
+        "active": true,
+        "lineup": [
+          {
+            "name": "George Clanton"
+          },
+          {
+            "name": "ideasforconversations"
+          }
+        ]
       },
       {
         "id": "2026-10-19-music-pouya-the-forever-glades-tour-2d3a6a",
