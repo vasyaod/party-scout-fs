@@ -629,15 +629,21 @@
         "area": "SF",
         "venue": "Underground SF",
         "address": "424 Haight St, San Francisco, CA 94117, United States",
-        "why": "",
-        "summary": "",
+        "why": "For a night out in San Francisco on October 16.",
+        "summary": "An event titled \"RM 303: Ghost in the Host\" is scheduled in San Francisco on October 16, 2026.",
         "promoter": "RM 303",
         "price": "$10-15",
-        "tags": [],
+        "tags": [
+          "event",
+          "nightlife",
+          "themed"
+        ],
         "sources": [
           "https://ra.co/events/2499408"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://ra.co/events/2499408"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Underground%20SF%2C%20SF",
           "apple": "https://maps.apple.com/?q=Underground%20SF%2C%20SF"
@@ -648,7 +654,7 @@
         "image": "https://images.ra.co/11671e0b90337d770e64914dd553d577760edc89.png",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 1,
+        "enriched": 2,
         "active": true,
         "lineup": [
           {
