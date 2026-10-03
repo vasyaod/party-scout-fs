@@ -1870,7 +1870,7 @@
         "id": "2026-10-19-music-club-pivete-4058b9",
         "eid": "club-pivete-4105",
         "track": "music",
-        "category": "",
+        "category": "Nightclub",
         "name": "Club Pivete",
         "day": "Sat",
         "date": "2026-10-24",
@@ -1888,16 +1888,20 @@
           "nightclub",
           "21+"
         ],
-        "sources": [],
-        "tickets": [],
+        "sources": [
+          "https://ra.co/events/2530117"
+        ],
+        "tickets": [
+          "https://ra.co/events/2530117"
+        ],
         "maps": {},
         "coords": null,
         "coords_precise": false,
         "ra": {},
         "image": "https://party-scout.app/img/gen/club-pivete-4105.jpg",
-        "image_generated": true,
+        "image_generated": false,
         "popularity": 0,
-        "enriched": 1,
+        "enriched": 2,
         "active": true
       },
       {
