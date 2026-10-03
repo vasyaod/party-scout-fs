@@ -3319,14 +3319,18 @@
         "address": "",
         "why": "To catch performances from the artists listed on the bill.",
         "summary": "A Friday-night electronic event at Underground in San Francisco/Oakland, running 9pm to 2am with $15 entry.",
-        "promoter": "",
+        "promoter": "Flux Aeterna",
         "price": "$15",
         "tags": [
           "dj",
           "night"
         ],
-        "sources": [],
-        "tickets": [],
+        "sources": [
+          "https://ra.co/events/2515190"
+        ],
+        "tickets": [
+          "https://ra.co/events/2515190"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Underground%2C%20San%20Francisco/Oakland",
           "apple": "https://maps.apple.com/?q=Underground%2C%20San%20Francisco/Oakland"
@@ -3334,11 +3338,28 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://party-scout.app/img/gen/flux-aeterna-spinorita-d-b555.jpg",
         "image_generated": false,
         "popularity": 0,
         "enriched": 2,
-        "active": true
+        "active": true,
+        "lineup": [
+          {
+            "name": "Spiñorita"
+          },
+          {
+            "name": "OSO"
+          },
+          {
+            "name": "FEO"
+          },
+          {
+            "name": "Digital KitKat"
+          },
+          {
+            "name": "THREE6SASHIA"
+          }
+        ]
       },
       {
         "id": "2026-10-19-music-frog-7ba61b",
