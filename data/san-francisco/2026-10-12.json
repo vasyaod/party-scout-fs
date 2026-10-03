@@ -1694,8 +1694,12 @@
           "house",
           "sonoma"
         ],
-        "sources": [],
-        "tickets": [],
+        "sources": [
+          "https://www.eventbrite.com/e/casa-rave-ft-watts-california-theatre-tickets-1999252439866"
+        ],
+        "tickets": [
+          "https://www.eventbrite.com/e/casa-rave-ft-watts-california-theatre-tickets-1999252439866"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=California%20Theatre",
           "apple": "https://maps.apple.com/?q=California%20Theatre"
@@ -1703,11 +1707,25 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://party-scout.app/img/gen/casa-rave-e7ff.jpg",
         "image_generated": false,
         "popularity": 0,
         "enriched": 3,
-        "active": true
+        "active": true,
+        "lineup": [
+          {
+            "name": "Watts"
+          },
+          {
+            "name": "Rey_Luv"
+          },
+          {
+            "name": "Blake Sol"
+          },
+          {
+            "name": "Joey Trip"
+          }
+        ]
       },
       {
         "id": "2026-10-12-music-city-beat-aa362c",
