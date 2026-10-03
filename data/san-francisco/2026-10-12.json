@@ -1749,18 +1749,25 @@
         "name": "Light City",
         "day": "Fri",
         "date": "2026-10-16",
-        "time": "",
-        "start": null,
-        "end": null,
+        "time": "8pm–1am",
+        "start": "20:00",
+        "end": "01:00",
         "area": "SoMa",
         "venue": "DNA Lounge",
         "address": "",
-        "why": "",
-        "summary": "",
+        "why": "A deep multi-DJ Friday lineup at SF's long-running SoMa club.",
+        "summary": "Light City at DNA Lounge in SoMa, with a bill of Frank Nitty, Michael Liu, TreeKat, Koga, HighDefDan, Selecta, Rayne and C-Shay.",
         "promoter": "",
         "price": "",
-        "tags": [],
-        "sources": [],
+        "tags": [
+          "club-night",
+          "dj-lineup",
+          "dna-lounge",
+          "soma"
+        ],
+        "sources": [
+          "https://19hz.info/eventlisting_BayArea.php"
+        ],
         "tickets": [],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=DNA%20Lounge",
@@ -1772,8 +1779,34 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 1,
-        "active": true
+        "enriched": 2,
+        "active": true,
+        "lineup": [
+          {
+            "name": "Frank Nitty"
+          },
+          {
+            "name": "Michael Liu"
+          },
+          {
+            "name": "TreeKat"
+          },
+          {
+            "name": "Koga"
+          },
+          {
+            "name": "HighDefDan"
+          },
+          {
+            "name": "Selecta"
+          },
+          {
+            "name": "Rayne"
+          },
+          {
+            "name": "C-Shay"
+          }
+        ]
       },
       {
         "id": "2026-10-12-music-murkury-e3d527",
