@@ -8895,8 +8895,8 @@
         "day": "Sat",
         "date": "2026-10-17",
         "time": "21:30",
-        "start": null,
-        "end": null,
+        "start": "21:30",
+        "end": "02:00",
         "area": "Haight-Ashbury",
         "venue": "Underground SF",
         "address": "424 Haight St, San Francisco, CA 94117, United States",
@@ -8915,13 +8915,15 @@
           {
             "label": "Underground SF",
             "url": "https://undergroundsf.com/event/feral-tendencies-presents-mystymoon/"
-          }
+          },
+          "https://ra.co/events/2546853"
         ],
         "tickets": [
           {
             "label": "Underground SF",
             "url": "https://undergroundsf.com/event/feral-tendencies-presents-mystymoon/"
-          }
+          },
+          "https://ra.co/events/2546853"
         ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=424%20Haight%20St%2C%20San%20Francisco%2C%20CA%2094117%2C%20United%20States",
@@ -8933,7 +8935,7 @@
         "image": "https://party-scout.app/img/gen/feral-tendencies-present-2419.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 1,
+        "enriched": 2,
         "active": true,
         "lineup": [
           {
