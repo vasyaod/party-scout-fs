@@ -1476,8 +1476,12 @@
           "concert",
           "nightclub"
         ],
-        "sources": [],
-        "tickets": [],
+        "sources": [
+          "https://posh.vip/e/system-error-ivy-lab-final-la-show"
+        ],
+        "tickets": [
+          "https://posh.vip/e/system-error-ivy-lab-final-la-show"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=The%20Vermont%20%28Hollywood/Los%20Angeles%29",
           "apple": "https://maps.apple.com/?q=The%20Vermont%20%28Hollywood/Los%20Angeles%29"
@@ -1485,11 +1489,25 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://party-scout.app/img/gen/system-error-ivy-lab-07e2.jpg",
         "image_generated": false,
         "popularity": 0,
         "enriched": 2,
-        "active": true
+        "active": true,
+        "lineup": [
+          {
+            "name": "Ivy Lab"
+          },
+          {
+            "name": "Cesco"
+          },
+          {
+            "name": "Lake Hills"
+          },
+          {
+            "name": "Mirror Maze"
+          }
+        ]
       },
       {
         "id": "2026-10-19-music-tuff-3-year-anniversary-hallow-fb5986",
