@@ -5,7 +5,7 @@
   "location": "Los Angeles & SoCal",
   "city": "los-angeles",
   "city_label": "Los Angeles",
-  "generated_at": "2026-10-02",
+  "generated_at": "2026-10-03",
   "tracks": {
     "music": [
       {
@@ -5809,17 +5809,17 @@
         "id": "2026-09-28-music-indeed-indeed-with-sexxy-dexx-7f26a8",
         "eid": "indeed-indeed-with-sexxy-eac7",
         "track": "music",
-        "category": "",
+        "category": "Nightclub",
         "name": "Indeed Indeed with Sexxy Dexx, DJ Frane, Zackey Force Funk, XL Middleton, Moniquea, Kaistar",
         "day": "Fri",
         "date": "2026-10-02",
         "time": "21:00",
-        "start": null,
-        "end": null,
+        "start": "21:00",
+        "end": "01:00",
         "area": "Los Angeles",
         "venue": "Hello Stranger",
-        "address": "",
-        "why": "",
+        "address": "320 East 2nd Street Los Angeles, CA 90012",
+        "why": "To catch multiple DJs and performers together in one DTLA bill.",
         "summary": "A Friday-night multi-DJ club party at Hello Stranger, with a six-act lineup of funk- and groove-leaning DJs.",
         "promoter": "",
         "price": "$15-$20",
@@ -5828,8 +5828,12 @@
           "funk",
           "dj"
         ],
-        "sources": [],
-        "tickets": [],
+        "sources": [
+          "https://ra.co/events/2537287"
+        ],
+        "tickets": [
+          "https://ra.co/events/2537287"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Hello%20Stranger",
           "apple": "https://maps.apple.com/?q=Hello%20Stranger"
@@ -5837,10 +5841,10 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://party-scout.app/img/gen/indeed-indeed-with-sexxy-eac7.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 1,
+        "enriched": 2,
         "active": true
       },
       {
