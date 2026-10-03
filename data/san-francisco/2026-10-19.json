@@ -3828,8 +3828,8 @@
         "end": "02:00",
         "area": "San Francisco/Oakland",
         "venue": "The Midway Gods and Monsters",
-        "address": "",
-        "why": "",
+        "address": "900 Marin Street, San Francisco, CA 94124",
+        "why": "For a night out at a local SF event.",
         "summary": "A Friday night live show by Lovra at The Midway's Gods and Monsters room, running 9pm to 1am with tickets from $12.50 to $20.",
         "promoter": "",
         "price": "$12.50-20",
@@ -3837,8 +3837,12 @@
           "live-music",
           "concert"
         ],
-        "sources": [],
-        "tickets": [],
+        "sources": [
+          "https://ra.co/events/2549302"
+        ],
+        "tickets": [
+          "https://ra.co/events/2549302"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=The%20Midway%20Gods%20and%20Monsters%2C%20San%20Francisco/Oakland",
           "apple": "https://maps.apple.com/?q=The%20Midway%20Gods%20and%20Monsters%2C%20San%20Francisco/Oakland"
@@ -3846,10 +3850,10 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://party-scout.app/img/gen/lovra-a9b4.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 1,
+        "enriched": 2,
         "active": true
       },
       {
