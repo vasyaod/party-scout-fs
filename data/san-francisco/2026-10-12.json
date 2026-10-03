@@ -1695,18 +1695,26 @@
         "name": "City Beat",
         "day": "Fri",
         "date": "2026-10-16",
-        "time": "",
-        "start": null,
-        "end": null,
+        "time": "10pm–2am",
+        "start": "22:00",
+        "end": "02:00",
         "area": "Mission",
         "venue": "Make-Out Room",
         "address": "3225 22nd St, San Francisco, CA 94110",
-        "why": "",
-        "summary": "",
+        "why": "A cheap, no-frills Mission dance night in an intimate room where the DJs mix disco and house with electro and hip-hop.",
+        "summary": "City Beat is a Friday-night dance party at the Make-Out Room in the Mission, with DJ Centipede and Tom Thump spinning disco, house, electro and hip-hop. 21+, $10.",
         "promoter": "",
-        "price": "",
-        "tags": [],
-        "sources": [],
+        "price": "$10",
+        "tags": [
+          "disco",
+          "house",
+          "electro",
+          "hip-hop",
+          "21+"
+        ],
+        "sources": [
+          "https://19hz.info/eventlisting_BayArea.php"
+        ],
         "tickets": [],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Make-Out%20Room",
@@ -1718,7 +1726,7 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 1,
+        "enriched": 2,
         "active": true
       },
       {
