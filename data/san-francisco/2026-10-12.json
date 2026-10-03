@@ -8749,8 +8749,8 @@
         "day": "Sat",
         "date": "2026-10-17",
         "time": "21:00",
-        "start": null,
-        "end": null,
+        "start": "21:00",
+        "end": "04:00",
         "area": "Bayview",
         "venue": "Space 550",
         "address": "550 Barneveld Ave, San Francisco, CA 94124, United States",
@@ -8766,7 +8766,9 @@
         "sources": [
           "https://ra.co/events/2523280"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://ra.co/events/2523280"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=550%20Barneveld%20Ave%2C%20San%20Francisco%2C%20CA%2094124%2C%20United%20States",
           "apple": "https://maps.apple.com/?q=550%20Barneveld%20Ave%2C%20San%20Francisco%2C%20CA%2094124%2C%20United%20States"
@@ -8774,10 +8776,10 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://party-scout.app/img/gen/big-business-3-87b8.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 1,
+        "enriched": 2,
         "active": true,
         "lineup": [
           {
