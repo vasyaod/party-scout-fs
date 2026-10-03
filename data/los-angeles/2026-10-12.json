@@ -952,7 +952,7 @@
         "id": "2026-10-12-music-matthew-thomas-fa5d78",
         "eid": "matthew-thomas-7d00",
         "track": "music",
-        "category": "",
+        "category": "Concert",
         "name": "Matthew Thomas",
         "day": "Fri",
         "date": "2026-10-16",
@@ -966,12 +966,17 @@
         "summary": "Matthew Thomas headlines a night of live music at the pirate-themed Redwood Bar and Grill in downtown LA, with support from Elle Beyer.",
         "promoter": "",
         "price": "$10",
-        "tags": [],
+        "tags": [
+          "live",
+          "music"
+        ],
         "sources": [
           "https://theredwoodbar.com/events.html",
           "https://ra.co/events/2524747"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://ra.co/events/2524747"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=The%20Redwood%20Bar%20And%20Grill",
           "apple": "https://maps.apple.com/?q=The%20Redwood%20Bar%20And%20Grill"
@@ -982,7 +987,7 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 1,
+        "enriched": 2,
         "active": true,
         "lineup": [
           {
