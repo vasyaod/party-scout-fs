@@ -1,6 +1,6 @@
 {
   "kind": "stats",
-  "generated_at": "2026-10-03T06:25:10+00:00",
+  "generated_at": "2026-10-03T06:25:34+00:00",
   "weights_version": "v1",
   "total": {
     "n": 3848,
@@ -14,7 +14,7 @@
       "image": 2165,
       "tickets": 1399,
       "price": 849,
-      "start": 827,
+      "start": 826,
       "category": 650,
       "time": 619,
       "address": 537,
@@ -38,7 +38,7 @@
         "n": 1522,
         "median": 0.9,
         "p25": 0.7636,
-        "pct_ge_075": 0.7661,
+        "pct_ge_075": 0.7654,
         "invalid": 7,
         "tba_rate": 0.1616,
         "by_field_fixable": {
@@ -480,7 +480,7 @@
             "n": 195,
             "median": 0.9107,
             "p25": 0.7407,
-            "pct_ge_075": 0.7385,
+            "pct_ge_075": 0.7333,
             "invalid": 0,
             "tba_rate": 0.1538,
             "by_field_fixable": {
@@ -575,7 +575,7 @@
               "n": 29,
               "median": 0.9434,
               "p25": 0.8333,
-              "pct_ge_075": 0.8621,
+              "pct_ge_075": 0.8276,
               "invalid": 0,
               "tba_rate": 0.1724,
               "weights_version": "v1"
@@ -2043,7 +2043,7 @@
         "n": 2326,
         "median": 0.8727,
         "p25": 0.7963,
-        "pct_ge_075": 0.8035,
+        "pct_ge_075": 0.804,
         "invalid": 47,
         "tba_rate": 0.037,
         "by_field_fixable": {
@@ -2051,7 +2051,7 @@
           "image": 1254,
           "tickets": 963,
           "price": 508,
-          "start": 451,
+          "start": 450,
           "category": 376,
           "time": 372,
           "why": 306,
@@ -2287,7 +2287,7 @@
             "n": 263,
             "median": 0.9057,
             "p25": 0.8654,
-            "pct_ge_075": 0.8973,
+            "pct_ge_075": 0.9011,
             "invalid": 7,
             "tba_rate": 0.0304,
             "by_field_fixable": {
@@ -2295,7 +2295,7 @@
               "tickets": 89,
               "price": 58,
               "image": 45,
-              "start": 32,
+              "start": 31,
               "category": 22,
               "sources": 19,
               "address": 19,
@@ -2315,7 +2315,7 @@
               "n": 25,
               "median": 0.9423,
               "p25": 0.8704,
-              "pct_ge_075": 0.88,
+              "pct_ge_075": 0.92,
               "invalid": 1,
               "tba_rate": 0.04,
               "weights_version": "v1"
