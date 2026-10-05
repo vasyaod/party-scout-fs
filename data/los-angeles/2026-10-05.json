@@ -2622,17 +2622,20 @@
         "name": "Oskar Med K",
         "day": "Thu",
         "date": "2026-10-08",
-        "time": "",
-        "start": null,
+        "time": "7pm",
+        "start": "19:00",
         "end": null,
         "area": "Santa Ana",
         "venue": "The Observatory",
         "address": "",
-        "why": "",
-        "summary": "",
+        "why": "For an early-evening live performance in LA.",
+        "summary": "An event called \"Oskar Med K\" in Los Angeles on 2026-10-08 at 7pm; no venue or ticket details provided.",
         "promoter": "",
         "price": "$38+",
-        "tags": [],
+        "tags": [
+          "live",
+          "night"
+        ],
         "sources": [
           "https://www.ticketmaster.com/event/09006470AE927429"
         ],
@@ -2647,7 +2650,7 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
