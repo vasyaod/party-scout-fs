@@ -4245,7 +4245,7 @@
         "id": "2026-10-05-music-roman-flugel-0ff676",
         "eid": "roman-flugel-80b6",
         "track": "music",
-        "category": "",
+        "category": "Concert",
         "name": "Roman Flugel",
         "day": "Sat",
         "date": "2026-10-10",
@@ -4255,15 +4255,20 @@
         "area": "San Diego",
         "venue": "3Oz Dive Club",
         "address": "1060 Garnet Avenue, San Diego, California 92109",
-        "why": "",
-        "summary": "",
+        "why": "To catch a live DJ set in Los Angeles.",
+        "summary": "Roman Flugel performs in Los Angeles on October 10, 2026.",
         "promoter": "",
         "price": "$18+",
-        "tags": [],
+        "tags": [
+          "dj",
+          "electronic"
+        ],
         "sources": [
           "https://dice.fm/event/6ab88ceb09ac980001e23e07"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://dice.fm/event/6ab88ceb09ac980001e23e07"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=3Oz%20Dive%20Club%2C%20San%20Diego",
           "apple": "https://maps.apple.com/?q=3Oz%20Dive%20Club%2C%20San%20Diego"
@@ -4274,7 +4279,7 @@
         "image": "https://dice-media.imgix.net/attachments/2026-09-27/688e2cc2-8752-4b8d-adb5-8ea2e340601a.jpg?rect=0%2C1560%2C3300%2C1980",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
