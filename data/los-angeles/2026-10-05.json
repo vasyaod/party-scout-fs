@@ -3953,15 +3953,20 @@
         "area": "San Diego",
         "venue": "Spin Nightclub",
         "address": "2028 Hancock St, San Diego, CA 92110",
-        "why": "",
-        "summary": "",
+        "why": "For a night out in Los Angeles.",
+        "summary": "Mele takes place in Los Angeles on 2026-10-10.",
         "promoter": "",
         "price": "$28.34",
-        "tags": [],
+        "tags": [
+          "los-angeles",
+          "nightlife"
+        ],
         "sources": [
           "https://dice.fm/event/8eq5n7-wondergate-presents-mel-10th-oct-spin-nightclub-san-diego-tickets"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://dice.fm/event/8eq5n7-wondergate-presents-mel-10th-oct-spin-nightclub-san-diego-tickets"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Spin%20Nightclub%2C%20San%20Diego",
           "apple": "https://maps.apple.com/?q=Spin%20Nightclub%2C%20San%20Diego"
@@ -3972,7 +3977,7 @@
         "image": "https://dice-media.imgix.net/attachments/2026-09-28/3576733b-e3c7-4633-8523-ee2b542357d4.jpg?rect=0%2C351%2C1080%2C648",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
