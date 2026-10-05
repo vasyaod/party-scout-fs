@@ -4459,21 +4459,27 @@
         "name": "Telykast",
         "day": "Sat",
         "date": "2026-10-10",
-        "time": "",
-        "start": null,
-        "end": null,
+        "time": "10pm–1:30am",
+        "start": "22:00",
+        "end": "01:30",
         "area": "Costa Mesa",
         "venue": "Time Nightclub",
         "address": "",
-        "why": "",
-        "summary": "",
+        "why": "Good for a late-night outing and to experience LA's nightlife hours.",
+        "summary": "Telykast is a late-night event in Los Angeles on October 10, 2026, running 10pm–1:30am.",
         "promoter": "",
         "price": "$10",
-        "tags": [],
+        "tags": [
+          "nightlife",
+          "late-night",
+          "los-angeles"
+        ],
         "sources": [
           "https://www.tixr.com/groups/timenightclub/events/telykast-201055"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://www.tixr.com/groups/timenightclub/events/telykast-201055"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Time%20Nightclub%2C%20Costa%20Mesa",
           "apple": "https://maps.apple.com/?q=Time%20Nightclub%2C%20Costa%20Mesa"
@@ -4484,7 +4490,7 @@
         "image": "https://party-scout.app/img/gen/telykast-a77a.jpg",
         "image_generated": true,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
