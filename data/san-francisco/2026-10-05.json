@@ -11537,12 +11537,12 @@
         "time": "9pm–3am",
         "start": "21:00",
         "end": "03:00",
-        "area": "SF",
+        "area": "SoMa",
         "venue": "F8 1192 Folsom",
-        "address": "",
+        "address": "1192 Folsom St, San Francisco, CA",
         "why": "For late-night dancing and cheap entry with early RSVP.",
         "summary": "Late-night party on 2026-10-07 (9pm–3am) featuring Papa Lu, Ledet, Torie, and Tyrel Williams; free with RSVP before 11pm, $10 otherwise.",
-        "promoter": "",
+        "promoter": "Strut SF",
         "price": "free w/rsvp b4 11pm / $10",
         "tags": [
           "dj",
@@ -11550,8 +11550,13 @@
           "late-night",
           "dance"
         ],
-        "sources": [],
-        "tickets": [],
+        "sources": [
+          "https://www.feightsf.com/new-events/strut-sf-and-f8-present-papa-lu-october-7-2026",
+          "https://19hz.info/eventlisting_BayArea.php"
+        ],
+        "tickets": [
+          "https://www.feightsf.com/new-events/strut-sf-and-f8-present-papa-lu-october-7-2026"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=F8%201192%20Folsom",
           "apple": "https://maps.apple.com/?q=F8%201192%20Folsom"
@@ -11559,11 +11564,25 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://party-scout.app/img/gen/papa-lu-ledet-torie-tyre-988b.jpg",
         "image_generated": false,
         "popularity": 0,
         "enriched": 1,
-        "active": true
+        "active": true,
+        "lineup": [
+          {
+            "name": "Papa Lu"
+          },
+          {
+            "name": "Ledet"
+          },
+          {
+            "name": "Torie"
+          },
+          {
+            "name": "Tyrel Williams"
+          }
+        ]
       },
       {
         "id": "2026-10-05-music-dj-ceejay-d38467",
