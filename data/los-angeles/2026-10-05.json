@@ -3692,24 +3692,31 @@
         "name": "Carrie 50th Anniversary",
         "day": "Sat",
         "date": "2026-10-10",
-        "time": "",
-        "start": null,
-        "end": null,
+        "time": "5:30 PM – 11:30 PM",
+        "start": "17:30",
+        "end": "23:30",
         "area": "Hollywood",
         "venue": "Hollywood Forever",
-        "address": "",
-        "why": "To join a milestone celebration and connect with fellow attendees.",
-        "summary": "A 50th-anniversary event titled \"Carrie\" is scheduled for October 10, 2026 in Los Angeles.",
-        "promoter": "",
+        "address": "6000 Santa Monica Blvd, Los Angeles, CA 90038",
+        "why": "A cult horror classic turns 50 under the stars, with picnics, a free photobooth and DJs bookending the night.",
+        "summary": "Cinespia screens Brian De Palma's Carrie (1976) among the graves at Hollywood Forever, with DJ sets before and after the film. Gates 5:30 PM, film at 7:15 PM.",
+        "promoter": "Cinespia",
         "price": "",
         "tags": [
           "anniversary",
-          "celebration"
+          "celebration",
+          "outdoor",
+          "film",
+          "dj",
+          "horror"
         ],
         "sources": [
-          "https://hollywoodforever.com/event/carrie-50th-anniversary/"
+          "https://hollywoodforever.com/event/carrie-50th-anniversary/",
+          "https://cinespia.org/carrie-50/"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://www.ticketweb.com/event/carrie-50th-anniversary-cinespia-at-hollywood-forever-cemetery-tickets/14286454?pl=HFCINE"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Hollywood%20Forever%2C%20Hollywood",
           "apple": "https://maps.apple.com/?q=Hollywood%20Forever%2C%20Hollywood"
@@ -3718,7 +3725,7 @@
         "coords_precise": false,
         "ra": {},
         "image": "https://party-scout.app/img/gen/carrie-50th-anniversary-b7b2.jpg",
-        "image_generated": true,
+        "image_generated": false,
         "popularity": 0,
         "enriched": 1,
         "active": true
