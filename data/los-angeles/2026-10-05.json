@@ -3404,25 +3404,31 @@
         "id": "2026-10-05-music-muzique-fridays-ec4b0f",
         "eid": "muzique-fridays-3b3f",
         "track": "music",
-        "category": "",
+        "category": "Nightclub",
         "name": "Muzique Fridays",
         "day": "Fri",
         "date": "2026-10-09",
-        "time": "",
-        "start": null,
-        "end": null,
+        "time": "10pm",
+        "start": "22:00",
+        "end": "02:00",
         "area": "Los Angeles",
         "venue": "Kiss Kiss Bang Bang",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "3531 Wilshire Boulevard, Los Angeles, CA 90010",
+        "why": "For a late-night outing in central Los Angeles.",
+        "summary": "Muzique Fridays takes place on Oct 9, 2026, starting at 10pm at 3531 Wilshire Boulevard in Los Angeles.",
         "promoter": "",
         "price": "free w/rsvp",
-        "tags": [],
+        "tags": [
+          "nightlife",
+          "late-night",
+          "party"
+        ],
         "sources": [
           "https://www.eventbrite.com/e/muzique-fridays-kiss-kiss-bang-bang-w-special-guest-djs-tickets-2001809036716"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://www.eventbrite.com/e/muzique-fridays-kiss-kiss-bang-bang-w-special-guest-djs-tickets-2001809036716"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Kiss%20Kiss%20Bang%20Bang%2C%20Los%20Angeles",
           "apple": "https://maps.apple.com/?q=Kiss%20Kiss%20Bang%20Bang%2C%20Los%20Angeles"
@@ -3430,10 +3436,10 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://party-scout.app/img/gen/muzique-fridays-3b3f.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
