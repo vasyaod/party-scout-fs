@@ -1,12 +1,12 @@
 {
   "kind": "stats",
-  "generated_at": "2026-10-05T09:11:41+00:00",
+  "generated_at": "2026-10-05T09:12:17+00:00",
   "weights_version": "v1",
   "total": {
     "n": 3967,
     "median": 0.875,
-    "p25": 0.7852,
-    "pct_ge_075": 0.7751,
+    "p25": 0.7857,
+    "pct_ge_075": 0.7754,
     "invalid": 56,
     "tba_rate": 0.0877,
     "by_field_fixable": {
@@ -14,11 +14,11 @@
       "image": 2211,
       "tickets": 1492,
       "start": 875,
-      "price": 856,
+      "price": 855,
       "category": 725,
       "time": 673,
-      "address": 603,
       "why": 603,
+      "address": 602,
       "summary": 550,
       "tags": 529,
       "sources": 501,
@@ -38,7 +38,7 @@
         "n": 1623,
         "median": 0.8868,
         "p25": 0.7273,
-        "pct_ge_075": 0.7314,
+        "pct_ge_075": 0.732,
         "invalid": 8,
         "tba_rate": 0.1608,
         "by_field_fixable": {
@@ -46,11 +46,11 @@
           "coords": 960,
           "tickets": 521,
           "start": 432,
-          "price": 359,
+          "price": 358,
           "category": 352,
           "time": 304,
           "why": 301,
-          "address": 293,
+          "address": 292,
           "summary": 279,
           "tags": 278,
           "sources": 259,
@@ -373,7 +373,7 @@
             "n": 148,
             "median": 0.6852,
             "p25": 0.4038,
-            "pct_ge_075": 0.3649,
+            "pct_ge_075": 0.3716,
             "invalid": 1,
             "tba_rate": 0.1824,
             "by_field_fixable": {
@@ -386,8 +386,8 @@
               "image": 81,
               "time": 68,
               "start": 68,
-              "address": 66,
-              "price": 20
+              "address": 65,
+              "price": 19
             },
             "weights_version": "v1"
           },
@@ -431,8 +431,8 @@
               "day": "Thu",
               "n": 18,
               "median": 0.8704,
-              "p25": 0.7407,
-              "pct_ge_075": 0.7222,
+              "p25": 0.7885,
+              "pct_ge_075": 0.7778,
               "invalid": 1,
               "tba_rate": 0.0,
               "weights_version": "v1"
