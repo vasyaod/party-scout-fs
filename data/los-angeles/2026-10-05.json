@@ -3994,15 +3994,20 @@
         "area": "Los Angeles",
         "venue": "The Lexington",
         "address": "129 E. 3rd St, Los Angeles, Ca, 90013",
-        "why": "",
-        "summary": "",
+        "why": "To attend a late-night Los Angeles nightlife event.",
+        "summary": "Nightshift After Hours is an event in Los Angeles on October 10, 2026.",
         "promoter": "",
         "price": "free w/rsvp b4 1 / $23",
-        "tags": [],
+        "tags": [
+          "nightlife",
+          "after-hours"
+        ],
         "sources": [
           "https://ra.co/events/2546832"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://ra.co/events/2546832"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=129%20E.%203rd%20St%2C%20Los%20Angeles%2C%20Ca%2C%2090013",
           "apple": "https://maps.apple.com/?q=129%20E.%203rd%20St%2C%20Los%20Angeles%2C%20Ca%2C%2090013"
@@ -4013,7 +4018,7 @@
         "image": "https://images.ra.co/de9b9ebe69ef72906fc749e2939a20ac43adb3af.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
