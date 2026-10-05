@@ -12183,19 +12183,28 @@
         "name": "Saucy Sunday Day Party",
         "day": "Sun",
         "date": "2026-10-11",
-        "time": "",
-        "start": null,
-        "end": null,
-        "area": "",
+        "time": "3–7pm",
+        "start": "15:00",
+        "end": "19:00",
+        "area": "SF",
         "venue": "Eria Marina",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "2300 Chestnut St, San Francisco, CA 94123",
+        "why": "For a lively Sunday-afternoon hangout with friends.",
+        "summary": "Saucy Sunday Day Party takes place Sunday, October 11, 2026 from 3–7pm at 2300 Chestnut St in San Francisco. Admission is $25.",
         "promoter": "",
-        "price": "",
-        "tags": [],
-        "sources": [],
-        "tickets": [],
+        "price": "$25",
+        "tags": [
+          "day",
+          "party",
+          "paid",
+          "social"
+        ],
+        "sources": [
+          "https://ra.co/events/2551470"
+        ],
+        "tickets": [
+          "https://ra.co/events/2551470"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Eria%20Marina",
           "apple": "https://maps.apple.com/?q=Eria%20Marina"
@@ -12204,9 +12213,9 @@
         "coords_precise": false,
         "ra": {},
         "image": "https://party-scout.app/img/gen/saucy-sunday-day-party-716b.jpg",
-        "image_generated": true,
+        "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       }
     ],
