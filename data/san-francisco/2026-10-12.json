@@ -11819,18 +11819,24 @@
         "time": "9pm–2am",
         "start": "21:00",
         "end": "02:00",
-        "area": "",
+        "area": "SF",
         "venue": "White Horse Inn",
         "address": "6551 Telegraph Ave, Oakland, CA 94609",
         "why": "",
         "summary": "",
         "promoter": "",
         "price": "10-15",
-        "tags": [],
+        "tags": [
+          "dance",
+          "party",
+          "nightlife"
+        ],
         "sources": [
           "https://ra.co/events/2551241"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://ra.co/events/2551241"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=White%20Horse%20Inn",
           "apple": "https://maps.apple.com/?q=White%20Horse%20Inn"
@@ -11841,7 +11847,7 @@
         "image": "https://images.ra.co/831af0f2325521c1ddff37917b8a37def5f89abc.png",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true,
         "lineup": [
           {
