@@ -5717,7 +5717,7 @@
         "id": "2026-10-05-music-set-with-woo-york-live-7997a6",
         "eid": "set-with-woo-york-live-944a",
         "track": "music",
-        "category": "",
+        "category": "Concert",
         "name": "SET with Woo York [Live]",
         "day": "Sat",
         "date": "2026-10-10",
@@ -5727,15 +5727,20 @@
         "area": "Los Angeles",
         "venue": "Community Berlin",
         "address": "11819 Sherman Way, North Hollywood, CA, 91605, USA",
-        "why": "",
-        "summary": "",
+        "why": "To see a live music performance in Los Angeles on October 10.",
+        "summary": "Live performance by Woo York on October 10, 2026 in Los Angeles.",
         "promoter": "",
         "price": "$25-$50",
-        "tags": [],
+        "tags": [
+          "live",
+          "electronic"
+        ],
         "sources": [
           "https://ra.co/events/2520138"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://ra.co/events/2520138"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=11819%20Sherman%20Way%2C%20North%20Hollywood%2C%20CA%2C%2091605%2C%20USA",
           "apple": "https://maps.apple.com/?q=11819%20Sherman%20Way%2C%20North%20Hollywood%2C%20CA%2C%2091605%2C%20USA"
@@ -5746,7 +5751,7 @@
         "image": "https://images.ra.co/0ebd351ac701ebfcd76e8f0db92bc82851269941.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true,
         "lineup": [
           {
