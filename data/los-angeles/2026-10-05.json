@@ -4830,26 +4830,33 @@
         "id": "2026-10-05-music-golden-era-rave-at-camille-s-6e1a29",
         "eid": "golden-era-rave-at-camil-071d",
         "track": "music",
-        "category": "",
+        "category": "Nightclub",
         "name": "Golden Era Rave at Camille's",
         "day": "Fri",
         "date": "2026-10-09",
-        "time": "",
-        "start": null,
-        "end": null,
+        "time": "9–11:59pm",
+        "start": "21:00",
+        "end": "23:59",
         "area": "Los Angeles",
         "venue": "The Bellwether",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "333 S Boylston St, Los Angeles, CA 90017",
+        "why": "To dance late into the night in downtown Los Angeles.",
+        "summary": "A late-night rave billed as Golden Era Rave at Camille’s, happening at Camille’s (333 S Boylston St) in DTLA on October 9, 2026, 9–11:59pm.",
         "promoter": "",
         "price": "$20-50",
-        "tags": [],
+        "tags": [
+          "rave",
+          "dj",
+          "dance",
+          "21+"
+        ],
         "sources": [
           "https://www.ticketweb.com/event/golden-era-rave-camilles-at-the-bellwether-tickets/14281314?camefrom=CFC_THEBELLWETHER_web&brand=thebellwether",
           "https://ra.co/events/2547832"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://ra.co/events/2547832"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=The%20Bellwether%2C%20Los%20Angeles",
           "apple": "https://maps.apple.com/?q=The%20Bellwether%2C%20Los%20Angeles"
@@ -4858,9 +4865,9 @@
         "coords_precise": false,
         "ra": {},
         "image": "https://party-scout.app/img/gen/golden-era-rave-at-camil-071d.jpg",
-        "image_generated": true,
+        "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
