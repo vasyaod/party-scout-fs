@@ -11900,17 +11900,21 @@
         "name": "Punchis! Punchis!",
         "day": "Sat",
         "date": "2026-10-10",
-        "time": "",
-        "start": null,
+        "time": "9pm",
+        "start": "21:00",
         "end": null,
-        "area": "",
+        "area": "SF",
         "venue": "August Hall",
         "address": "",
-        "why": "",
-        "summary": "",
+        "why": "For a late-evening outing with a confirmed start time and a set ticket price.",
+        "summary": "Event \"Punchis! Punchis!\" takes place in San Francisco on 2026-10-10 at 9pm; tickets are $44.",
         "promoter": "",
-        "price": "",
-        "tags": [],
+        "price": "$44",
+        "tags": [
+          "ticketed",
+          "nightlife",
+          "evening"
+        ],
         "sources": [],
         "tickets": [],
         "maps": {
@@ -11923,7 +11927,7 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
