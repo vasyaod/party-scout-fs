@@ -3369,17 +3369,20 @@
         "name": "Maga",
         "day": "Fri",
         "date": "2026-10-09",
-        "time": "",
-        "start": null,
+        "time": "10pm",
+        "start": "22:00",
         "end": null,
         "area": "Los Angeles",
         "venue": "The Spotlight",
         "address": "",
-        "why": "",
-        "summary": "",
+        "why": "For a late-night party starting at 10pm.",
+        "summary": "Maga is scheduled in Los Angeles on October 9, 2026 at 10pm.",
         "promoter": "",
         "price": "21+</td>",
-        "tags": [],
+        "tags": [
+          "nightlife",
+          "party"
+        ],
         "sources": [
           "https://speakeasygo.com/event/EVE-QL2U0E"
         ],
@@ -3394,7 +3397,7 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
