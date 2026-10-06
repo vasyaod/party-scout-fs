@@ -6787,13 +6787,13 @@
         "name": "SALSOL",
         "day": "Sun",
         "date": "2026-09-27",
-        "time": "",
-        "start": null,
-        "end": null,
+        "time": "4–9pm",
+        "start": "16:00",
+        "end": "21:00",
         "area": "Mission District",
         "venue": "Arcana",
         "address": "2512 Mission St, San Francisco, CA 94110",
-        "why": "",
+        "why": "A convenient early-evening city outing on that date.",
         "summary": "Recurring salsa night at Arcana in the Mission District, with DJ sets for salseros of all levels.",
         "promoter": "Arcana",
         "price": "",
@@ -6806,7 +6806,9 @@
           "https://ra.co/events/2539037",
           "https://www.arcanasf.com/events"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://ra.co/events/2539037"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Arcana%2C%20San%20Francisco",
           "apple": "https://maps.apple.com/?q=Arcana%2C%20San%20Francisco"
@@ -6814,10 +6816,10 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://party-scout.app/img/gen/salsol-4afa.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 1,
+        "enriched": 2,
         "active": true
       },
       {
