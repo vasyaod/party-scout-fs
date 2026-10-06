@@ -643,8 +643,8 @@
         "day": "Thu",
         "date": "2026-09-17",
         "time": "21:00-02:00",
-        "start": null,
-        "end": null,
+        "start": "21:00",
+        "end": "02:00",
         "area": "Long Beach",
         "venue": "Que Sera",
         "address": "1923 E 7th St, Long Beach, CA 90813",
@@ -655,8 +655,12 @@
         "tags": [
           "techno"
         ],
-        "sources": [],
-        "tickets": [],
+        "sources": [
+          "https://ra.co/events/2520080"
+        ],
+        "tickets": [
+          "https://ra.co/events/2520080"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Que%20Sera%2C%20Long%20Beach%2C%20CA",
           "apple": "https://maps.apple.com/?q=Que%20Sera%2C%20Long%20Beach%2C%20CA"
@@ -664,10 +668,10 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "https://images.ra.co/f1da7aa0827f3556838822807d8ada7819dba96d.jpg",
-        "image_generated": true,
+        "image": "https://party-scout.app/img/gen/museo-003-0828.jpg",
+        "image_generated": false,
         "popularity": 0,
-        "enriched": 2,
+        "enriched": 3,
         "active": true
       },
       {
