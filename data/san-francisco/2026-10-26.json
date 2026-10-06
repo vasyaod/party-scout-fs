@@ -728,18 +728,25 @@
         "name": "jackzebra",
         "day": "Tue",
         "date": "2026-10-27",
-        "time": "",
-        "start": null,
+        "time": "8pm",
+        "start": "20:00",
         "end": null,
-        "area": "",
+        "area": "Mission",
         "venue": "Brick & Mortar Music Hall",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "1710 Mission Street, San Francisco, CA 94103",
+        "why": "A convenient 8pm evening event in the Mission neighborhood.",
+        "summary": "jackzebra is scheduled for October 27, 2026 at 8pm at 1710 Mission Street in the Mission, San Francisco.",
         "promoter": "",
         "price": "",
-        "tags": [],
-        "sources": [],
+        "tags": [
+          "event",
+          "evening",
+          "mission",
+          "san-francisco"
+        ],
+        "sources": [
+          "https://dothebay.com/events/2026/10/27/jackzebra-tickets"
+        ],
         "tickets": [],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Brick%20%26%20Mortar%20Music%20Hall",
@@ -748,10 +755,10 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://party-scout.app/img/gen/jackzebra-fbe2.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
