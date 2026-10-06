@@ -474,13 +474,13 @@
         "id": "2026-09-14-music-daniel-avery-362168",
         "eid": "daniel-avery-efef",
         "track": "music",
-        "category": "Techno",
+        "category": "Concert",
         "name": "Daniel Avery",
         "day": "Thu",
         "date": "2026-09-17",
         "time": "9pm",
         "start": "21:00",
-        "end": null,
+        "end": "23:00",
         "area": "Mid-Wilshire",
         "venue": "El Rey",
         "address": "5515 Wilshire Blvd, Los Angeles, CA 90036",
@@ -488,11 +488,18 @@
         "summary": "UK producer Daniel Avery brings his atmospheric techno and driving electronic soundscapes to the El Rey Theatre.",
         "promoter": "",
         "price": "",
-        "tags": [],
-        "sources": [
-          "https://songkick.com/concerts/43287583-daniel-avery-at-el-rey-theatre"
+        "tags": [
+          "electronic",
+          "dj",
+          "live"
         ],
-        "tickets": [],
+        "sources": [
+          "https://songkick.com/concerts/43287583-daniel-avery-at-el-rey-theatre",
+          "https://ra.co/events/2479840"
+        ],
+        "tickets": [
+          "https://ra.co/events/2479840"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=El%20Rey%2C%20Los%20Angeles%2C%20CA",
           "apple": "https://maps.apple.com/?q=El%20Rey%2C%20Los%20Angeles%2C%20CA"
@@ -500,10 +507,10 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://party-scout.app/img/gen/daniel-avery-efef.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 1,
+        "enriched": 2,
         "active": true
       },
       {
