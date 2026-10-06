@@ -7188,23 +7188,32 @@
         "id": "2026-10-26-music-zhu-on-the-move-3b37c7",
         "eid": "zhu-on-the-move-f91f",
         "track": "music",
-        "category": "",
+        "category": "Concert",
         "name": "ZHU: On the Move",
         "day": "Sat",
         "date": "2026-10-31",
-        "time": "",
-        "start": null,
-        "end": null,
-        "area": "",
+        "time": "2–9pm",
+        "start": "14:00",
+        "end": "21:00",
+        "area": "SF",
         "venue": "Gold Bar Distillery",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "1 Avenue of the Palms, San Francisco, CA 94130",
+        "why": "To attend a ticketed afternoon-to-evening live music event in the city.",
+        "summary": "ZHU: On the Move is scheduled in San Francisco on October 31, 2026, running 2–9pm; tickets start at $54.",
         "promoter": "",
-        "price": "",
-        "tags": [],
-        "sources": [],
-        "tickets": [],
+        "price": "$54",
+        "tags": [
+          "live",
+          "paid",
+          "afternoon"
+        ],
+        "sources": [
+          "https://ra.co/events/2432590",
+          "https://dothebay.com/events/2026/10/31/zhu-on-the-move-tickets"
+        ],
+        "tickets": [
+          "https://ra.co/events/2432590"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Gold%20Bar%20Distillery",
           "apple": "https://maps.apple.com/?q=Gold%20Bar%20Distillery"
@@ -7213,9 +7222,9 @@
         "coords_precise": false,
         "ra": {},
         "image": "https://party-scout.app/img/gen/zhu-on-the-move-f91f.jpg",
-        "image_generated": true,
+        "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       }
     ],
