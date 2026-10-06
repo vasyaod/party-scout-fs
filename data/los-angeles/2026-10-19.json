@@ -4033,16 +4033,20 @@
         "day": "Sat",
         "date": "2026-10-24",
         "time": "20:30",
-        "start": null,
-        "end": null,
+        "start": "20:30",
+        "end": "01:45",
         "area": "Santa Ana",
         "venue": "La Santa Nightclub",
         "address": "",
-        "why": "",
-        "summary": "",
+        "why": "To attend a local nightlife event in Los Angeles that night.",
+        "summary": "An event called Mood$Wingz: Welcome To The Other Side will take place in Los Angeles on October 24, 2026.",
         "promoter": "",
         "price": "$20 b4 10",
-        "tags": [],
+        "tags": [
+          "nightlife",
+          "party",
+          "local"
+        ],
         "sources": [],
         "tickets": [],
         "maps": {
@@ -4055,7 +4059,7 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
