@@ -3761,17 +3761,27 @@
         "end": "02:00",
         "area": "San Diego",
         "venue": "Kiku Room",
-        "address": "",
-        "why": "",
-        "summary": "Horror Hi-Fi is scheduled for October 23, 2026, in Los Angeles.",
+        "address": "2812 Kettner Blvd, San Diego, CA 92101",
+        "why": "A hi-fi listening bar playing italo and EBM under horror-movie visuals, the right place for a Halloween-season Friday in San Diego.",
+        "summary": "Horror Hi-Fi is a perpetual-Halloween night of disco, new wave, italo disco and EBM at Kiku Room, with Alex Oxley and Roxanne Roll on the bill.",
         "promoter": "",
         "price": "$10",
         "tags": [
           "nightlife",
-          "event"
+          "event",
+          "disco",
+          "new wave",
+          "italo disco",
+          "EBM",
+          "halloween"
         ],
-        "sources": [],
-        "tickets": [],
+        "sources": [
+          "https://partiful.com/e/wMv22YFJvg1m4WPK03HX",
+          "https://19hz.info/eventlisting_LosAngeles.php"
+        ],
+        "tickets": [
+          "https://partiful.com/e/wMv22YFJvg1m4WPK03HX"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Kiku%20Room%2C%20San%20Diego",
           "apple": "https://maps.apple.com/?q=Kiku%20Room%2C%20San%20Diego"
@@ -3779,11 +3789,12 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://party-scout.app/img/gen/horror-hi-fi-8ddc.jpg",
         "image_generated": false,
         "popularity": 0,
         "enriched": 1,
-        "active": true
+        "active": true,
+        "lineup": []
       },
       {
         "id": "2026-10-19-music-yung-bae-paulina-shafir-owen-j-c0e3ae",
