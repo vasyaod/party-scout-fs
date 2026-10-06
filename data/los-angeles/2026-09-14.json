@@ -1959,8 +1959,8 @@
         "name": "Saymyname",
         "day": "Fri",
         "date": "2026-09-18",
-        "time": "",
-        "start": null,
+        "time": "10pm",
+        "start": "22:00",
         "end": null,
         "area": "Los Angeles",
         "venue": "Exchange",
@@ -1974,8 +1974,12 @@
           "party",
           "los-angeles"
         ],
-        "sources": [],
-        "tickets": [],
+        "sources": [
+          "https://www.tickpick.com/buy-saymyname-tickets-exchange-la-9-18-26-10pm/8236256/"
+        ],
+        "tickets": [
+          "https://www.tickpick.com/buy-saymyname-tickets-exchange-la-9-18-26-10pm/8236256/"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Exchange%2C%20Los%20Angeles%2C%20CA",
           "apple": "https://maps.apple.com/?q=Exchange%2C%20Los%20Angeles%2C%20CA"
