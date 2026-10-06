@@ -4814,23 +4814,31 @@
         "id": "2026-10-12-music-ukiyo-sessions-kodama-lounge-d18026",
         "eid": "ukiyo-sessions-kodama-lo-de57",
         "track": "music",
-        "category": "",
+        "category": "Nightclub",
         "name": "UKIYO SESSIONS × Kodama Lounge",
         "day": "Sat",
         "date": "2026-10-17",
         "time": "22:00",
-        "start": null,
-        "end": null,
+        "start": "22:00",
+        "end": "02:00",
         "area": "Los Angeles",
         "venue": "Kodama Lounge",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "123 Astronaut Ellison S Onizuka St #301, Los Angeles, CA 90012",
+        "why": "To attend a downtown Los Angeles nightlife collaboration on October 17.",
+        "summary": "UKIYO SESSIONS × Kodama Lounge is scheduled for October 17, 2026 at 123 Astronaut Ellison S Onizuka St #301 in Los Angeles.",
         "promoter": "",
         "price": "free w/rsvp",
-        "tags": [],
-        "sources": [],
-        "tickets": [],
+        "tags": [
+          "nightlife",
+          "collaboration",
+          "dtla"
+        ],
+        "sources": [
+          "https://ra.co/events/2552230"
+        ],
+        "tickets": [
+          "https://ra.co/events/2552230"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Kodama%20Lounge%2C%20Los%20Angeles",
           "apple": "https://maps.apple.com/?q=Kodama%20Lounge%2C%20Los%20Angeles"
@@ -4839,9 +4847,9 @@
         "coords_precise": false,
         "ra": {},
         "image": "https://party-scout.app/img/gen/ukiyo-sessions-kodama-lo-de57.jpg",
-        "image_generated": true,
+        "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       }
     ],
