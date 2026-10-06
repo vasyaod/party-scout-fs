@@ -4579,23 +4579,31 @@
         "id": "2026-10-12-music-information-que-sakamoto-bambi-b94b52",
         "eid": "information-que-sakamoto-325b",
         "track": "music",
-        "category": "",
+        "category": "Concert",
         "name": "Information: Que Sakamoto + Bambi + Screeb",
         "day": "Fri",
         "date": "2026-10-16",
         "time": "23:00",
-        "start": null,
-        "end": null,
+        "start": "23:00",
+        "end": "07:00",
         "area": "Los Angeles",
         "venue": "Goo People",
         "address": "",
-        "why": "",
-        "summary": "",
+        "why": "A chance to catch several live acts on the same bill.",
+        "summary": "A concert in Los Angeles on 2026-10-16 featuring Que Sakamoto, Bambi, and Screeb.",
         "promoter": "",
         "price": "$15-30",
-        "tags": [],
-        "sources": [],
-        "tickets": [],
+        "tags": [
+          "live",
+          "concert",
+          "bands"
+        ],
+        "sources": [
+          "https://ra.co/events/2538349"
+        ],
+        "tickets": [
+          "https://ra.co/events/2538349"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Goo%20People%2C%20Los%20Angeles",
           "apple": "https://maps.apple.com/?q=Goo%20People%2C%20Los%20Angeles"
@@ -4604,9 +4612,9 @@
         "coords_precise": false,
         "ra": {},
         "image": "https://party-scout.app/img/gen/information-que-sakamoto-325b.jpg",
-        "image_generated": true,
+        "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
