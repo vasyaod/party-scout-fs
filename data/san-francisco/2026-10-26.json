@@ -6112,18 +6112,24 @@
         "name": "Wake the Dead",
         "day": "Sat",
         "date": "2026-10-31",
-        "time": "",
-        "start": null,
-        "end": null,
-        "area": "",
+        "time": "8pm",
+        "start": "20:00",
+        "end": "01:30",
+        "area": "Berkeley",
         "venue": "The Freight",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "2020 Addison St, Berkeley, CA 94704",
+        "why": "Free entry on the evening of October 31 in Berkeley.",
+        "summary": "A free event on October 31, 2026 at 8pm at 2020 Addison St in Berkeley.",
         "promoter": "",
-        "price": "",
-        "tags": [],
-        "sources": [],
+        "price": "Free",
+        "tags": [
+          "free",
+          "halloween",
+          "community"
+        ],
+        "sources": [
+          "https://dothebay.com/events/2026/10/31/wake-the-dead-tickets"
+        ],
         "tickets": [],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=The%20Freight",
@@ -6132,10 +6138,10 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://party-scout.app/img/gen/wake-the-dead-d2e6.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
