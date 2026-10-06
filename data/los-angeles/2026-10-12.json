@@ -3586,18 +3586,26 @@
         "day": "Thu",
         "date": "2026-10-15",
         "time": "21:00",
-        "start": null,
-        "end": null,
+        "start": "21:00",
+        "end": "02:00",
         "area": "Los Angeles",
         "venue": "Somewhere Special",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "929 S Broadway, Los Angeles, CA 90015",
+        "why": "Free entry for an easy, spontaneous night out in DTLA.",
+        "summary": "A free event called \"Tell All Your Friends\" takes place on October 15, 2026 at 929 S Broadway in Los Angeles.",
         "promoter": "",
-        "price": "",
-        "tags": [],
-        "sources": [],
-        "tickets": [],
+        "price": "Free",
+        "tags": [
+          "free",
+          "nightlife",
+          "party"
+        ],
+        "sources": [
+          "https://ra.co/events/2544721"
+        ],
+        "tickets": [
+          "https://ra.co/events/2544721"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Somewhere%20Special%2C%20Los%20Angeles",
           "apple": "https://maps.apple.com/?q=Somewhere%20Special%2C%20Los%20Angeles"
@@ -3605,10 +3613,10 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://party-scout.app/img/gen/tell-all-your-friends-66ae.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
