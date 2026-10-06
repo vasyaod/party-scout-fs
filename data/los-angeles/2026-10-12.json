@@ -4636,23 +4636,30 @@
         "id": "2026-10-12-music-baile-world-x-khanistan-ft-arm-bc7234",
         "eid": "baile-world-x-khanistan-4cab",
         "track": "music",
-        "category": "",
+        "category": "Concert",
         "name": "Baile World x Khanistan ft. Armana Khan",
         "day": "Sat",
         "date": "2026-10-17",
         "time": "21:00",
-        "start": null,
-        "end": null,
+        "start": "21:00",
+        "end": "02:00",
         "area": "Los Angeles",
         "venue": "Don Quixote",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "2811 E Olympic Blvd, Los Angeles, CA 90023",
+        "why": "To see Armana Khan perform live.",
+        "summary": "Baile World x Khanistan featuring Armana Khan takes place on October 17, 2026 at 2811 E Olympic Blvd in Los Angeles.",
         "promoter": "",
         "price": "$25.55",
-        "tags": [],
-        "sources": [],
-        "tickets": [],
+        "tags": [
+          "live",
+          "dance"
+        ],
+        "sources": [
+          "https://ra.co/events/2547899"
+        ],
+        "tickets": [
+          "https://ra.co/events/2547899"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Don%20Quixote%2C%20Los%20Angeles",
           "apple": "https://maps.apple.com/?q=Don%20Quixote%2C%20Los%20Angeles"
@@ -4661,9 +4668,9 @@
         "coords_precise": false,
         "ra": {},
         "image": "https://party-scout.app/img/gen/baile-world-x-khanistan-4cab.jpg",
-        "image_generated": true,
+        "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
