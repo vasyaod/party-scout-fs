@@ -3560,16 +3560,20 @@
         "day": "Thu",
         "date": "2026-10-22",
         "time": "21:00",
-        "start": null,
-        "end": null,
+        "start": "21:00",
+        "end": "00:00",
         "area": "Rowland Heights",
         "venue": "Banana Bay Restaurant",
         "address": "",
-        "why": "",
-        "summary": "",
+        "why": "For a seasonal night out with themed atmosphere.",
+        "summary": "An event titled Spooky Month - Special Soup taking place October 22, 2026 in Los Angeles.",
         "promoter": "",
         "price": "free",
-        "tags": [],
+        "tags": [
+          "themed",
+          "seasonal",
+          "party"
+        ],
         "sources": [],
         "tickets": [],
         "maps": {
@@ -3582,7 +3586,7 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
