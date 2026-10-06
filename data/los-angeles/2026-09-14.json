@@ -764,8 +764,8 @@
         "day": "Thu",
         "date": "2026-09-17",
         "time": "23:00-05:00",
-        "start": null,
-        "end": null,
+        "start": "23:00",
+        "end": "05:00",
         "area": "Los Angeles",
         "venue": "TBA",
         "address": "",
@@ -779,8 +779,12 @@
           "underground",
           "secret location"
         ],
-        "sources": [],
-        "tickets": [],
+        "sources": [
+          "https://ra.co/events/2528104"
+        ],
+        "tickets": [
+          "https://ra.co/events/2528104"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Los%20Angeles%2C%20CA",
           "apple": "https://maps.apple.com/?q=Los%20Angeles%2C%20CA"
@@ -788,10 +792,10 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "https://images.ra.co/ca78774c545fbaf9dacfa6a0d2e302b483b9c255.jpg",
-        "image_generated": true,
+        "image": "https://party-scout.app/img/gen/recollect-underground-c710.jpg",
+        "image_generated": false,
         "popularity": 0,
-        "enriched": 2,
+        "enriched": 3,
         "active": true
       },
       {
