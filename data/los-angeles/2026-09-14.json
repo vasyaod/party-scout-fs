@@ -3551,13 +3551,13 @@
         "id": "2026-09-14-music-francis-mercier-presents-soley-b84ee8",
         "eid": "francis-mercier-presents-1898",
         "track": "music",
-        "category": "music",
+        "category": "Concert",
         "name": "Francis Mercier Presents Soley",
         "day": "Sat",
         "date": "2026-09-19",
         "time": "18:00",
-        "start": null,
-        "end": null,
+        "start": "18:00",
+        "end": "00:00",
         "area": "Los Angeles",
         "venue": "Reframe Studios Indoors",
         "address": "4594 Electronics Pl, Los Angeles, CA",
@@ -3570,8 +3570,12 @@
           "afro house",
           "open-air"
         ],
-        "sources": [],
-        "tickets": [],
+        "sources": [
+          "https://ra.co/events/2517979"
+        ],
+        "tickets": [
+          "https://ra.co/events/2517979"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=4594%20Electronics%20Pl%2C%20Los%20Angeles%2C%20CA",
           "apple": "https://maps.apple.com/?q=4594%20Electronics%20Pl%2C%20Los%20Angeles%2C%20CA"
@@ -3579,10 +3583,10 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://party-scout.app/img/gen/francis-mercier-presents-1898.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 1,
+        "enriched": 2,
         "active": true
       },
       {
