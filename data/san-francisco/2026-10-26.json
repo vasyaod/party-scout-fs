@@ -3314,18 +3314,23 @@
         "name": "The Chicks",
         "day": "Fri",
         "date": "2026-10-30",
-        "time": "",
-        "start": null,
+        "time": "8:30pm",
+        "start": "20:30",
         "end": null,
-        "area": "",
+        "area": "SF",
         "venue": "The Masonic",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "1111 California St., San Francisco, CA 94108",
+        "why": "For an evening out in central San Francisco.",
+        "summary": "An event titled \"The Chicks\" takes place on October 30, 2026 at 8:30pm at 1111 California St., San Francisco. No venue name, ticket price, or lineup is provided in the listing.",
         "promoter": "",
         "price": "",
-        "tags": [],
-        "sources": [],
+        "tags": [
+          "music",
+          "live"
+        ],
+        "sources": [
+          "https://dothebay.com/events/2026/10/30/the-chicks-taking-the-long-way-tickets"
+        ],
         "tickets": [],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=The%20Masonic",
@@ -3334,10 +3339,10 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://party-scout.app/img/gen/the-chicks-87ec.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
