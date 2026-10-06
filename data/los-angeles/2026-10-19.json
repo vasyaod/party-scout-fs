@@ -3676,16 +3676,21 @@
         "day": "Fri",
         "date": "2026-10-23",
         "time": "22:00",
-        "start": null,
+        "start": "22:00",
         "end": null,
         "area": "Los Angeles",
         "venue": "Los Globos",
         "address": "",
-        "why": "",
-        "summary": "",
+        "why": "For a late-October nightlife outing in Los Angeles.",
+        "summary": "A night called Electric Ave scheduled for 2026-10-23 in Los Angeles.",
         "promoter": "",
         "price": "",
-        "tags": [],
+        "tags": [
+          "nightlife",
+          "event",
+          "los-angeles",
+          "2026"
+        ],
         "sources": [],
         "tickets": [],
         "maps": {
@@ -3698,7 +3703,7 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
