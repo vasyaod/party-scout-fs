@@ -6968,19 +6968,28 @@
         "name": "Hoochie House",
         "day": "Sat",
         "date": "2026-10-31",
-        "time": "",
-        "start": null,
-        "end": null,
-        "area": "",
+        "time": "3–8pm",
+        "start": "15:00",
+        "end": "20:00",
+        "area": "Mission",
         "venue": "El Rio",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "3158 Mission St, San Francisco, CA 94110, USA",
+        "why": "An affordable, ticketed Halloween afternoon party in the Mission.",
+        "summary": "Hoochie House takes place at 3158 Mission St in San Francisco on October 31, 2026, running from 3–8pm with $10 admission.",
         "promoter": "",
-        "price": "",
-        "tags": [],
-        "sources": [],
-        "tickets": [],
+        "price": "$10",
+        "tags": [
+          "halloween",
+          "party",
+          "ticketed",
+          "afternoon"
+        ],
+        "sources": [
+          "https://ra.co/events/2538160"
+        ],
+        "tickets": [
+          "https://ra.co/events/2538160"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=El%20Rio",
           "apple": "https://maps.apple.com/?q=El%20Rio"
@@ -6989,9 +6998,9 @@
         "coords_precise": false,
         "ra": {},
         "image": "https://party-scout.app/img/gen/hoochie-house-4dc9.jpg",
-        "image_generated": true,
+        "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
