@@ -2583,13 +2583,13 @@
         "id": "2026-09-14-music-leon-vynehall-hodge-mad-miran-166cb2",
         "eid": "leon-vynehall-hodge-mad-9038",
         "track": "music",
-        "category": "music",
+        "category": "Nightclub",
         "name": "Leon Vynehall, Hodge, Mad Miran",
         "day": "Sun",
         "date": "2026-09-20",
         "time": "15:00-22:00",
-        "start": null,
-        "end": null,
+        "start": "15:00",
+        "end": "22:00",
         "area": "Los Angeles",
         "venue": "TBA",
         "address": "",
@@ -2602,8 +2602,12 @@
           "techno",
           "open-air"
         ],
-        "sources": [],
-        "tickets": [],
+        "sources": [
+          "https://ra.co/events/2521025"
+        ],
+        "tickets": [
+          "https://ra.co/events/2521025"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Los%20Angeles%2C%20CA",
           "apple": "https://maps.apple.com/?q=Los%20Angeles%2C%20CA"
@@ -2614,7 +2618,7 @@
         "image": "https://images.ra.co/cbd229653a08cc8884b3f08fc0fa2b06fc364f84.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 2,
+        "enriched": 3,
         "active": true
       },
       {
