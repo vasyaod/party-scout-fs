@@ -3470,16 +3470,19 @@
         "day": "Thu",
         "date": "2026-10-22",
         "time": "22:00",
-        "start": null,
+        "start": "22:00",
         "end": null,
         "area": "Los Angeles",
         "venue": "Sound Nightclub",
         "address": "",
-        "why": "",
-        "summary": "",
+        "why": "If you're in Los Angeles that night and want to check out a new nightlife event.",
+        "summary": "An event titled \"Blind Tiger: Chechas Church\" is scheduled for October 22, 2026 in Los Angeles; venue, time and lineup details are not provided.",
         "promoter": "",
         "price": "free w/rsvp b4 11pm / $5-11",
-        "tags": [],
+        "tags": [
+          "nightlife",
+          "event"
+        ],
         "sources": [],
         "tickets": [],
         "maps": {
@@ -3492,7 +3495,7 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
