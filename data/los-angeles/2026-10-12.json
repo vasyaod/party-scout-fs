@@ -4393,18 +4393,25 @@
         "day": "Sat",
         "date": "2026-10-17",
         "time": "22:00",
-        "start": null,
-        "end": null,
+        "start": "22:00",
+        "end": "06:00",
         "area": "Los Angeles",
         "venue": "TBA - Los Angeles",
         "address": "",
-        "why": "",
-        "summary": "",
+        "why": "Because it's a single-date nightlife event in Los Angeles.",
+        "summary": "A one-night event titled \"PHANTOM CURRENT\" is scheduled for October 17, 2026 in Los Angeles.",
         "promoter": "",
         "price": "",
-        "tags": [],
-        "sources": [],
-        "tickets": [],
+        "tags": [
+          "event",
+          "nightlife"
+        ],
+        "sources": [
+          "https://ra.co/events/2544811"
+        ],
+        "tickets": [
+          "https://ra.co/events/2544811"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Los%20Angeles",
           "apple": "https://maps.apple.com/?q=Los%20Angeles"
@@ -4412,10 +4419,10 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://party-scout.app/img/gen/phantom-current-17-octob-ba71.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
