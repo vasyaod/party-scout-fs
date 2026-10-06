@@ -4594,18 +4594,25 @@
         "day": "Sun",
         "date": "2026-10-18",
         "time": "21:00",
-        "start": null,
-        "end": null,
+        "start": "21:00",
+        "end": "01:00",
         "area": "Los Angeles",
         "venue": "Shrine Auditorium and Expo Hall",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "665 W. Jefferson Blvd, Los Angeles, CA 90007",
+        "why": "For a mid-priced night out in central Los Angeles.",
+        "summary": "A ticketed event on October 18, 2026 at 665 W. Jefferson Blvd in Los Angeles. Tickets are listed at $47–$54.",
         "promoter": "",
-        "price": "",
-        "tags": [],
-        "sources": [],
-        "tickets": [],
+        "price": "$47–$54",
+        "tags": [
+          "ticketed",
+          "live"
+        ],
+        "sources": [
+          "https://ra.co/events/2507528"
+        ],
+        "tickets": [
+          "https://ra.co/events/2507528"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Shrine%20Auditorium%20and%20Expo%20Hall%2C%20Los%20Angeles",
           "apple": "https://maps.apple.com/?q=Shrine%20Auditorium%20and%20Expo%20Hall%2C%20Los%20Angeles"
@@ -4616,7 +4623,7 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
