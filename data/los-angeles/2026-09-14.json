@@ -517,13 +517,13 @@
         "id": "2026-09-14-music-die-electric-vol-22-08839c",
         "eid": "die-electric-vol-22-5336",
         "track": "music",
-        "category": "music",
+        "category": "Nightclub",
         "name": "Die Electric Vol.22",
         "day": "Thu",
         "date": "2026-09-17",
         "time": "20:00-23:30",
-        "start": null,
-        "end": null,
+        "start": "20:00",
+        "end": "23:30",
         "area": "Los Angeles",
         "venue": "Boomtown Brewery",
         "address": "700 Jackson St, Los Angeles, CA 90012",
@@ -535,8 +535,12 @@
           "improvised",
           "live electronic"
         ],
-        "sources": [],
-        "tickets": [],
+        "sources": [
+          "https://ra.co/events/2532299"
+        ],
+        "tickets": [
+          "https://ra.co/events/2532299"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Boomtown%20Brewery%2C%20Los%20Angeles%2C%20CA",
           "apple": "https://maps.apple.com/?q=Boomtown%20Brewery%2C%20Los%20Angeles%2C%20CA"
@@ -544,10 +548,10 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "https://images.ra.co/51a5a49f7fd0657c117063afdc3e491f0fff9aa8.png",
-        "image_generated": true,
+        "image": "https://party-scout.app/img/gen/die-electric-vol-22-5336.jpg",
+        "image_generated": false,
         "popularity": 0,
-        "enriched": 2,
+        "enriched": 3,
         "active": true
       },
       {
