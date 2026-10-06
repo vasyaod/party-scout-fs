@@ -3627,17 +3627,20 @@
         "name": "Actress",
         "day": "Fri",
         "date": "2026-10-16",
-        "time": "",
-        "start": null,
-        "end": null,
+        "time": "7–11:59pm",
+        "start": "19:00",
+        "end": "23:59",
         "area": "Los Angeles",
         "venue": "Echoplex",
         "address": "",
-        "why": "",
-        "summary": "",
+        "why": "For an evening activity that runs late into the night.",
+        "summary": "An event titled \"Actress\" in Los Angeles on October 16, 2026, running 7–11:59pm.",
         "promoter": "",
         "price": "$38.44",
-        "tags": [],
+        "tags": [
+          "music",
+          "evening"
+        ],
         "sources": [],
         "tickets": [],
         "maps": {
@@ -3650,7 +3653,7 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
