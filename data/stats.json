@@ -1,6 +1,6 @@
 {
   "kind": "stats",
-  "generated_at": "2026-10-06T05:46:43+00:00",
+  "generated_at": "2026-10-06T05:46:56+00:00",
   "weights_version": "v1",
   "total": {
     "n": 4439,
@@ -15,13 +15,13 @@
       "tickets": 1806,
       "price": 1053,
       "start": 969,
-      "category": 857,
+      "category": 856,
       "address": 790,
       "time": 760,
       "sources": 712,
-      "why": 650,
-      "summary": 600,
-      "tags": 577,
+      "why": 649,
+      "summary": 599,
+      "tags": 576,
       "maps": 184,
       "area": 174,
       "venue": 110
@@ -48,13 +48,13 @@
           "tickets": 494,
           "start": 366,
           "price": 350,
-          "category": 301,
+          "category": 300,
           "address": 294,
           "sources": 269,
           "time": 232,
-          "why": 197,
-          "summary": 177,
-          "tags": 176,
+          "why": 196,
+          "summary": 176,
+          "tags": 175,
           "maps": 34,
           "venue": 17
         },
@@ -698,7 +698,7 @@
           "summary": {
             "n": 94,
             "median": 0.6731,
-            "p25": 0.4231,
+            "p25": 0.4615,
             "pct_ge_075": 0.383,
             "invalid": 0,
             "tba_rate": 0.266,
@@ -710,11 +710,11 @@
               "sources": 47,
               "price": 37,
               "time": 37,
-              "category": 33,
-              "tags": 27,
+              "category": 32,
+              "tags": 26,
               "address": 25,
-              "why": 25,
-              "summary": 24
+              "why": 24,
+              "summary": 23
             },
             "weights_version": "v1"
           },
