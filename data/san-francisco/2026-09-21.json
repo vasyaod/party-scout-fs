@@ -6738,7 +6738,7 @@
         "id": "2026-09-21-music-reggae-sunday-fcec3c",
         "eid": "reggae-sunday-e0e4",
         "track": "music",
-        "category": "Reggae",
+        "category": "Concert",
         "name": "Reggae Sunday",
         "day": "Sun",
         "date": "2026-09-27",
@@ -6763,7 +6763,9 @@
           "https://ra.co/events/2536373",
           "https://theknockoutsf.com/events-2-1"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://ra.co/events/2536373"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=The%20Knockout%2C%20San%20Francisco",
           "apple": "https://maps.apple.com/?q=The%20Knockout%2C%20San%20Francisco"
@@ -6771,10 +6773,10 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://party-scout.app/img/gen/reggae-sunday-e0e4.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 1,
+        "enriched": 2,
         "active": true
       },
       {
