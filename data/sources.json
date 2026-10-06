@@ -228,9 +228,9 @@
       "kind": "anchor",
       "use": ["listing", "price"],
       "track": ["music", "sports"],
-      "fetch": ["JSON-LD"],
-      "status": "excluded",
-      "notes": "SF discovery feed. Plain GET of the /d/ discovery listing (and /sports-and-fitness--events/) answers HTTP 405 with `x-amzn-waf-action: captcha` — an AWS WAF bot wall, measured 2026-09-18 from the agent pod; a real remote-browser session gets the same \"Human Verification\" puzzle. Excluded until a fetch path gets through (party-scout-agent#56). Its `parser` was dropped: `eb_demand.py` parses ONE event, this entry is a listing — event pages still price via the shared `eventbrite` entry."
+      "fetch": ["ephemeral-RBS"],
+      "status": "active",
+      "notes": "SF discovery feed. Plain GET of the /d/ discovery listing (and /sports-and-fitness--events/) answers HTTP 405 with `x-amzn-waf-action: captcha` — an AWS WAF bot wall, measured 2026-09-18 from the agent pod — and a remote-browser URL jump to /d/ (or a click on its city link) meets the same \"Human Verification\" puzzle. Active again since party-scout-agent#182: collect's pre-read (`party-scanner/listing_fetch.py`) reads it in one ephemeral remote-browser session through the home page's own location picker (`eventbrite_home`, driven like a person), which renders the city's dated listing — measured ok/rbs 2026-10-06 on the live system. `fetch` must stay a page method so `listing_fetch.wants_page` picks it up. Its `parser` was dropped: `eb_demand.py` parses ONE event, this entry is a listing — event pages still price via the shared `eventbrite` entry."
     },
     {
       "id": "do415",
@@ -396,9 +396,9 @@
       "kind": "anchor",
       "use": ["listing", "price"],
       "track": ["music", "sports"],
-      "fetch": ["JSON-LD"],
-      "status": "excluded",
-      "notes": "LA discovery feed. Plain GET of the /d/ discovery listing (and /sports-and-fitness--events/) answers HTTP 405 with `x-amzn-waf-action: captcha` — an AWS WAF bot wall, measured 2026-09-18 from the agent pod; a real remote-browser session gets the same \"Human Verification\" puzzle. Excluded until a fetch path gets through (party-scout-agent#56). Its `parser` was dropped: `eb_demand.py` parses ONE event, this entry is a listing — event pages still price via the shared `eventbrite` entry."
+      "fetch": ["ephemeral-RBS"],
+      "status": "active",
+      "notes": "LA discovery feed. Plain GET of the /d/ discovery listing (and /sports-and-fitness--events/) answers HTTP 405 with `x-amzn-waf-action: captcha` — an AWS WAF bot wall, measured 2026-09-18 from the agent pod — and a remote-browser URL jump to /d/ (or a click on its city link) meets the same \"Human Verification\" puzzle. Active again since party-scout-agent#182: collect's pre-read (`party-scanner/listing_fetch.py`) reads it in one ephemeral remote-browser session through the home page's own location picker (`eventbrite_home`, driven like a person), which renders the city's dated listing — measured ok/rbs 2026-10-06 on the live system. `fetch` must stay a page method so `listing_fetch.wants_page` picks it up. Its `parser` was dropped: `eb_demand.py` parses ONE event, this entry is a listing — event pages still price via the shared `eventbrite` entry."
     },
     {
       "id": "funcheap-los-angeles",
