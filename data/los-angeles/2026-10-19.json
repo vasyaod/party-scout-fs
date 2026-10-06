@@ -4144,16 +4144,20 @@
         "day": "Sun",
         "date": "2026-10-25",
         "time": "16:00",
-        "start": null,
-        "end": null,
+        "start": "16:00",
+        "end": "00:00",
         "area": "Pomona",
         "venue": "301 South Garey Avenue",
         "address": "",
-        "why": "",
-        "summary": "",
+        "why": "Go for a Halloween-themed night out in Los Angeles.",
+        "summary": "Haunted Sessions is an event scheduled for October 25, 2026 in Los Angeles.",
         "promoter": "",
         "price": "$13",
-        "tags": [],
+        "tags": [
+          "halloween",
+          "party",
+          "themed"
+        ],
         "sources": [],
         "tickets": [],
         "maps": {
@@ -4166,7 +4170,7 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
