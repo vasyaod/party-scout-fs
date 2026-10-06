@@ -562,12 +562,12 @@
         "name": "Lil Yawh",
         "day": "Thu",
         "date": "2026-09-17",
-        "time": "",
-        "start": null,
+        "time": "10pm",
+        "start": "22:00",
         "end": null,
-        "area": "Los Angeles",
+        "area": "Silver Lake",
         "venue": "El Cid",
-        "address": "",
+        "address": "4212 W Sunset Blvd, Los Angeles, CA",
         "why": "For a live concert experience in Los Angeles.",
         "summary": "Lil Yawh performs in Los Angeles on September 17, 2026. Venue and ticket details were not provided.",
         "promoter": "",
@@ -576,7 +576,9 @@
           "live",
           "concert"
         ],
-        "sources": [],
+        "sources": [
+          "https://www.songkick.com/concerts/43336225-lil-yawh-at-el-cid"
+        ],
         "tickets": [],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=El%20Cid%2C%20Los%20Angeles%2C%20CA",
