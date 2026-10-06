@@ -1867,18 +1867,23 @@
         "name": "Shyne",
         "day": "Wed",
         "date": "2026-10-28",
-        "time": "",
-        "start": null,
+        "time": "8pm",
+        "start": "20:00",
         "end": null,
-        "area": "",
+        "area": "SF",
         "venue": "The Regency Ballroom",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "1290 Sutter Street, San Francisco, CA 94109",
+        "why": "An easy option for an evening out in central San Francisco.",
+        "summary": "Shyne is scheduled for October 28, 2026 at 8pm at 1290 Sutter Street in San Francisco.",
         "promoter": "",
         "price": "",
-        "tags": [],
-        "sources": [],
+        "tags": [
+          "nightlife",
+          "event"
+        ],
+        "sources": [
+          "https://dothebay.com/events/2026/10/28/shyne-tickets"
+        ],
         "tickets": [],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=The%20Regency%20Ballroom",
@@ -1887,10 +1892,10 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://party-scout.app/img/gen/shyne-f260.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
