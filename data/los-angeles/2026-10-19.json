@@ -3918,16 +3918,19 @@
         "day": "Sat",
         "date": "2026-10-24",
         "time": "22:00",
-        "start": null,
+        "start": "22:00",
         "end": null,
         "area": "Los Angeles",
         "venue": "Academy La",
         "address": "",
-        "why": "",
-        "summary": "",
+        "why": "For a night out in Los Angeles on that date.",
+        "summary": "Hedex is scheduled for October 24, 2026 in Los Angeles.",
         "promoter": "",
         "price": "$35",
-        "tags": [],
+        "tags": [
+          "nightlife",
+          "los-angeles"
+        ],
         "sources": [],
         "tickets": [],
         "maps": {
@@ -3940,7 +3943,7 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
