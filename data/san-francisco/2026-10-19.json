@@ -9671,23 +9671,27 @@
         "name": "Pinkathon San Francisco",
         "day": "Sat",
         "date": "2026-10-24",
-        "time": "",
-        "start": null,
+        "time": "7:00 AM",
+        "start": "07:00",
         "end": null,
-        "area": "SF",
-        "venue": "San Francisco",
-        "address": "",
-        "why": "",
-        "summary": "Pinkathon San Francisco is scheduled for October 24, 2026 in San Francisco.",
+        "area": "Embarcadero",
+        "venue": "SF Ferry Building",
+        "address": "1 Ferry Building, San Francisco, CA",
+        "why": "A no-fee, no-pressure Saturday morning run on the waterfront that doubles as a breast cancer fundraiser.",
+        "summary": "Free do-it-yourself run for the Breast Cancer Research Foundation starting at the Ferry Building: pick a distance from a 5K up to a 50K, with no aid stations or course markings.",
         "promoter": "",
-        "price": "",
+        "price": "Free",
         "tags": [
           "fitness",
           "outdoor",
           "community"
         ],
-        "sources": [],
-        "tickets": [],
+        "sources": [
+          "https://runsignup.com/Race/CA/AnyPlaceintheWorld/PinkathonSF"
+        ],
+        "tickets": [
+          "https://runsignup.com/Race/CA/AnyPlaceintheWorld/PinkathonSF"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=San%20Francisco",
           "apple": "https://maps.apple.com/?q=San%20Francisco"
@@ -9695,7 +9699,7 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://party-scout.app/img/gen/pinkathon-san-francisco-f848.jpg",
         "image_generated": false,
         "popularity": 0,
         "enriched": 1,
