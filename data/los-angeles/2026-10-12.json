@@ -3302,18 +3302,26 @@
         "day": "Wed",
         "date": "2026-10-14",
         "time": "20:00",
-        "start": null,
-        "end": null,
+        "start": "20:00",
+        "end": "02:00",
         "area": "Los Angeles",
         "venue": "The Redwood Bar And Grill",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "316 W. 2nd Street, Los Angeles, CA  90012",
+        "why": "For an inexpensive October night out in DTLA.",
+        "summary": "An evening event on October 14, 2026 at 316 W. 2nd Street in Los Angeles with $10 admission.",
         "promoter": "",
-        "price": "",
-        "tags": [],
-        "sources": [],
-        "tickets": [],
+        "price": "$10",
+        "tags": [
+          "paid",
+          "nightlife",
+          "los-angeles"
+        ],
+        "sources": [
+          "https://ra.co/events/2553069"
+        ],
+        "tickets": [
+          "https://ra.co/events/2553069"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=The%20Redwood%20Bar%20And%20Grill%2C%20Los%20Angeles",
           "apple": "https://maps.apple.com/?q=The%20Redwood%20Bar%20And%20Grill%2C%20Los%20Angeles"
@@ -3324,7 +3332,7 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
