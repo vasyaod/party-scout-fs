@@ -5,7 +5,7 @@
   "location": "Los Angeles & SoCal",
   "city": "los-angeles",
   "city_label": "Los Angeles",
-  "generated_at": "2026-10-05",
+  "generated_at": "2026-10-06",
   "tracks": {
     "music": [
       {
@@ -2052,7 +2052,7 @@
         "id": "2026-09-14-music-soulwax-0fc8dc",
         "eid": "soulwax-9e24",
         "track": "music",
-        "category": "Electronic/Rock",
+        "category": "Concert",
         "name": "Soulwax",
         "day": "Fri",
         "date": "2026-09-18",
@@ -2074,10 +2074,12 @@
         ],
         "sources": [
           "https://www.axs.com/events/1494581/soulwax-tickets",
-          "https://thescenestar.com/2026/06/22/soulwax-live-shows-at-the-fonda-theatre/"
+          "https://thescenestar.com/2026/06/22/soulwax-live-shows-at-the-fonda-theatre/",
+          "https://ra.co/events/2533797"
         ],
         "tickets": [
-          "https://www.axs.com/events/1494581/soulwax-tickets"
+          "https://www.axs.com/events/1494581/soulwax-tickets",
+          "https://ra.co/events/2533797"
         ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Fonda%20Theatre%2C%20Los%20Angeles%2C%20CA",
@@ -2086,10 +2088,10 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://party-scout.app/img/gen/soulwax-9e24.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 1,
+        "enriched": 2,
         "active": true
       },
       {

@@ -5,7 +5,7 @@
   "location": "San Francisco & Bay Area",
   "city": "san-francisco",
   "city_label": "San Francisco",
-  "generated_at": "2026-10-05",
+  "generated_at": "2026-10-06",
   "tracks": {
     "music": [
       {
@@ -2134,26 +2134,34 @@
         "id": "2026-09-21-music-charles-d-larissa-porto-noods-1b793b",
         "eid": "charles-d-larissa-porto-943b",
         "track": "music",
-        "category": "",
+        "category": "Nightclub",
         "name": "Charles D, Larissa Porto, Noods",
         "day": "Fri",
         "date": "2026-09-25",
-        "time": "",
-        "start": null,
-        "end": null,
+        "time": "10pm–4am",
+        "start": "22:00",
+        "end": "04:00",
         "area": "SF",
         "venue": "Halcyon",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "314 11th St, San Francisco, California, 94103",
+        "why": "For a late-night dancefloor and extended DJ sets.",
+        "summary": "DJ night featuring Charles D, Larissa Porto, and Noods on September 25, 2026 at 314 11th St in SoMa, San Francisco; doors 10pm–4am, $20 cover.",
         "promoter": "",
-        "price": "",
-        "tags": [],
+        "price": "$20",
+        "tags": [
+          "dj",
+          "electronic",
+          "late-night",
+          "cover"
+        ],
         "sources": [
           "https://dice.fm/event/2wal6o-charles-d-25th-sep-halcyon-sf-san-francisco-tickets",
           "https://ra.co/events/2531073"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://dice.fm/event/2wal6o-charles-d-25th-sep-halcyon-sf-san-francisco-tickets",
+          "https://ra.co/events/2531073"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Halcyon%2C%20San%20Francisco",
           "apple": "https://maps.apple.com/?q=Halcyon%2C%20San%20Francisco"
@@ -2161,10 +2169,10 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "https://party-scout.app/img/gen/charles-d-larissa-porto-7d3f.jpg",
-        "image_generated": true,
+        "image": "https://party-scout.app/img/gen/charles-d-larissa-porto-943b.jpg",
+        "image_generated": false,
         "popularity": 0,
-        "enriched": 1,
+        "enriched": 2,
         "active": true
       },
       {

@@ -5,7 +5,7 @@
   "location": "San Francisco & Bay Area",
   "city": "san-francisco",
   "city_label": "San Francisco",
-  "generated_at": "2026-10-05",
+  "generated_at": "2026-10-06",
   "tracks": {
     "music": [
       {
@@ -2062,22 +2062,29 @@
         "id": "2026-10-26-music-blues-traveler-e5f69d",
         "eid": "blues-traveler-9a9b",
         "track": "music",
-        "category": "",
+        "category": "Concert",
         "name": "Blues Traveler",
         "day": "Thu",
         "date": "2026-10-29",
-        "time": "",
-        "start": null,
+        "time": "8pm",
+        "start": "20:00",
         "end": null,
-        "area": "",
+        "area": "SF",
         "venue": "The Guild Theatre",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "949 El Camino Real, Menlo Park, CA 94025",
+        "why": "For a live, improvisational blues-rock show from a long-running touring act.",
+        "summary": "Blues Traveler performs at 8pm on October 29, 2026, at 949 El Camino Real in Menlo Park.",
         "promoter": "",
         "price": "",
-        "tags": [],
-        "sources": [],
+        "tags": [
+          "blues",
+          "rock",
+          "live",
+          "concert"
+        ],
+        "sources": [
+          "https://dothebay.com/events/2026/10/29/blues-traveler-tickets"
+        ],
         "tickets": [],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=The%20Guild%20Theatre",
@@ -2086,10 +2093,10 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://party-scout.app/img/gen/blues-traveler-9a9b.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
