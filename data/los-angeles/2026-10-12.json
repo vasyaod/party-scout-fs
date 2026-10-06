@@ -4100,8 +4100,12 @@
           "late-night",
           "dj"
         ],
-        "sources": [],
-        "tickets": [],
+        "sources": [
+          "https://pear.us/good-society/post/odyzey-takeover"
+        ],
+        "tickets": [
+          "https://pear.us/good-society/post/odyzey-takeover"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=DTLA/Los%20Angeles",
           "apple": "https://maps.apple.com/?q=DTLA/Los%20Angeles"
@@ -4109,11 +4113,25 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://party-scout.app/img/gen/good-society-after-dark-1b73.jpg",
         "image_generated": false,
         "popularity": 0,
         "enriched": 1,
-        "active": true
+        "active": true,
+        "lineup": [
+          {
+            "name": "Saturna"
+          },
+          {
+            "name": "Habitaat"
+          },
+          {
+            "name": "Lowcation"
+          },
+          {
+            "name": "Auracle"
+          }
+        ]
       },
       {
         "id": "2026-10-12-music-la-goony-chonga-7d177e",
