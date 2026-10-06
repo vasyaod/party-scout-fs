@@ -2973,8 +2973,8 @@
         "name": "Dragonflies",
         "day": "Sat",
         "date": "2026-09-19",
-        "time": "",
-        "start": null,
+        "time": "8pm",
+        "start": "20:00",
         "end": null,
         "area": "Los Angeles",
         "venue": "The Masonic Lodge at Hollywood Forever",
@@ -2987,7 +2987,9 @@
           "nightlife",
           "event"
         ],
-        "sources": [],
+        "sources": [
+          "https://app.discotech.me/events/38252265-dragonflies-at-hollywood-forever"
+        ],
         "tickets": [],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Masonic%20Lodge%20at%20Hollywood%20Forever%2C%20Los%20Angeles%2C%20CA",
