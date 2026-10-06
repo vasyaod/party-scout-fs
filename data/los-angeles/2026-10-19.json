@@ -3757,16 +3757,19 @@
         "day": "Fri",
         "date": "2026-10-23",
         "time": "22:00",
-        "start": null,
-        "end": null,
+        "start": "22:00",
+        "end": "02:00",
         "area": "San Diego",
         "venue": "Kiku Room",
         "address": "",
         "why": "",
-        "summary": "",
+        "summary": "Horror Hi-Fi is scheduled for October 23, 2026, in Los Angeles.",
         "promoter": "",
         "price": "$10",
-        "tags": [],
+        "tags": [
+          "nightlife",
+          "event"
+        ],
         "sources": [],
         "tickets": [],
         "maps": {
@@ -3779,7 +3782,7 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
