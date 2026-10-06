@@ -1351,18 +1351,25 @@
         "name": "Daley",
         "day": "Wed",
         "date": "2026-10-28",
-        "time": "",
-        "start": null,
+        "time": "7pm",
+        "start": "19:00",
         "end": null,
-        "area": "",
+        "area": "Oakland",
         "venue": "Yoshi's Oakland",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "510 Embarcadero West, Oakland, CA 94607",
+        "why": "Mid-range tickets for an evening show at a waterfront Oakland spot.",
+        "summary": "An event titled Daley is scheduled for Oct 28, 2026 at 7pm at 510 Embarcadero West in Oakland; tickets are $40–$79.",
         "promoter": "",
-        "price": "",
-        "tags": [],
-        "sources": [],
+        "price": "$40–$79",
+        "tags": [
+          "ticketed",
+          "live",
+          "waterfront",
+          "oakland"
+        ],
+        "sources": [
+          "https://dothebay.com/events/2026/10/28/daley-tickets"
+        ],
         "tickets": [],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Yoshi%27s%20Oakland",
@@ -1371,10 +1378,10 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://party-scout.app/img/gen/daley-8a63.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
