@@ -2554,18 +2554,22 @@
         "day": "Sun",
         "date": "2026-11-15",
         "time": "15:00",
-        "start": null,
-        "end": null,
+        "start": "15:00",
+        "end": "03:00",
         "area": "Los Angeles",
         "venue": "Soulwerks Studio (Los Angeles)",
-        "address": "",
+        "address": "5168 valley blvd",
         "why": "",
         "summary": "",
         "promoter": "",
-        "price": "",
+        "price": "$20",
         "tags": [],
-        "sources": [],
-        "tickets": [],
+        "sources": [
+          "https://ra.co/events/2541022"
+        ],
+        "tickets": [
+          "https://ra.co/events/2541022"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Soulwerks%20Studio%20%28Los%20Angeles%29%2C%20Los%20Angeles",
           "apple": "https://maps.apple.com/?q=Soulwerks%20Studio%20%28Los%20Angeles%29%2C%20Los%20Angeles"
@@ -2573,10 +2577,10 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://party-scout.app/img/gen/green-life-ent-15yr-anni-6c64.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
