@@ -5133,18 +5133,22 @@
         "day": "Sun",
         "date": "2026-11-01",
         "time": "18:00",
-        "start": null,
-        "end": null,
+        "start": "18:00",
+        "end": "00:00",
         "area": "Los Angeles",
         "venue": "TBA (Los Angeles)",
         "address": "",
         "why": "",
         "summary": "",
         "promoter": "",
-        "price": "",
+        "price": "Free–$35",
         "tags": [],
-        "sources": [],
-        "tickets": [],
+        "sources": [
+          "https://ra.co/events/2543410"
+        ],
+        "tickets": [
+          "https://ra.co/events/2543410"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Los%20Angeles",
           "apple": "https://maps.apple.com/?q=Los%20Angeles"
@@ -5153,9 +5157,9 @@
         "coords_precise": false,
         "ra": {},
         "image": "https://party-scout.app/img/gen/sunday-sessions-la-vinyl-0e79.jpg",
-        "image_generated": true,
+        "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
