@@ -459,18 +459,28 @@
         "day": "Thu",
         "date": "2026-10-29",
         "time": "22:00",
-        "start": null,
-        "end": null,
-        "area": "Los Angeles",
+        "start": "22:00",
+        "end": "02:00",
+        "area": "Silver Lake",
         "venue": "El Cid (Los Angeles)",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "4212 Sunset Blvd, Los Angeles, CA 90029",
+        "why": "A Thursday-night Halloween warm-up at El Cid with post-punk and EBM sets, drag, and free entry if you RSVP before 11pm.",
+        "summary": "Desire After Dark, a queer post-punk, new wave and electronic Halloween dance party hosted by Delysia Jones, with DJs Joko Homo and Matt Arman plus drag.",
         "promoter": "",
-        "price": "",
-        "tags": [],
-        "sources": [],
-        "tickets": [],
+        "price": "Free w/ RSVP before 11pm, $5 after",
+        "tags": [
+          "post-punk",
+          "new wave",
+          "ebm",
+          "queer",
+          "halloween"
+        ],
+        "sources": [
+          "https://dice.fm/event/6aac5d92458bfa00011e469d"
+        ],
+        "tickets": [
+          "https://dice.fm/event/6aac5d92458bfa00011e469d"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=El%20Cid%20%28Los%20Angeles%29%2C%20Los%20Angeles",
           "apple": "https://maps.apple.com/?q=El%20Cid%20%28Los%20Angeles%29%2C%20Los%20Angeles"
@@ -478,10 +488,10 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://party-scout.app/img/gen/flippy-floppy-halloween-5720.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
