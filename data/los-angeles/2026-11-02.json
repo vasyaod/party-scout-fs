@@ -5,7 +5,7 @@
   "location": "Los Angeles & SoCal",
   "city": "los-angeles",
   "city_label": "Los Angeles",
-  "generated_at": "2026-10-06",
+  "generated_at": "2026-10-07",
   "tracks": {
     "music": [
       {
@@ -1499,16 +1499,19 @@
         "day": "Sat",
         "date": "2026-11-07",
         "time": "21:00",
-        "start": null,
+        "start": "21:00",
         "end": null,
         "area": "Los Angeles",
         "venue": "EOS Lounge (Santa Barbara)",
         "address": "",
-        "why": "",
-        "summary": "",
+        "why": "Very low cover — budget-friendly night out.",
+        "summary": "Dennett is scheduled for 2026-11-07 with a $6 admission. Venue and start time were not provided in the listing.",
         "promoter": "",
-        "price": "",
-        "tags": [],
+        "price": "$6",
+        "tags": [
+          "cheap",
+          "ticketed"
+        ],
         "sources": [],
         "tickets": [],
         "maps": {
@@ -1521,7 +1524,7 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
