@@ -2554,23 +2554,31 @@
         "id": "2026-10-26-music-smd-halloween-edition-9b7ec8",
         "eid": "smd-halloween-edition-794c",
         "track": "music",
-        "category": "",
+        "category": "Nightclub",
         "name": "SMD - Halloween Edition",
         "day": "Fri",
         "date": "2026-10-30",
         "time": "23:00",
-        "start": null,
-        "end": null,
+        "start": "23:00",
+        "end": "06:00",
         "area": "Los Angeles",
         "venue": "TBA",
         "address": "",
-        "why": "",
-        "summary": "",
+        "why": "For Halloween-themed nightlife, costumes, and dancing.",
+        "summary": "A Halloween edition of SMD taking place on October 30, 2026 in Los Angeles.",
         "promoter": "",
         "price": "",
-        "tags": [],
-        "sources": [],
-        "tickets": [],
+        "tags": [
+          "halloween",
+          "party",
+          "nightlife"
+        ],
+        "sources": [
+          "https://ra.co/events/2539279"
+        ],
+        "tickets": [
+          "https://ra.co/events/2539279"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Los%20Angeles",
           "apple": "https://maps.apple.com/?q=Los%20Angeles"
@@ -2578,10 +2586,10 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://party-scout.app/img/gen/smd-halloween-edition-794c.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
