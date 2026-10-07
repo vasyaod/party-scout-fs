@@ -3124,18 +3124,22 @@
         "day": "Sat",
         "date": "2026-10-31",
         "time": "21:00",
-        "start": null,
-        "end": null,
+        "start": "21:00",
+        "end": "02:00",
         "area": "Los Angeles",
         "venue": "Ace*Mission Studios (Los Angeles)",
-        "address": "",
+        "address": "516 S Mission Rd, Los Angeles, CA 90033",
         "why": "",
         "summary": "",
         "promoter": "",
-        "price": "",
+        "price": "$95",
         "tags": [],
-        "sources": [],
-        "tickets": [],
+        "sources": [
+          "https://ra.co/events/2537151"
+        ],
+        "tickets": [
+          "https://ra.co/events/2537151"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Ace%2AMission%20Studios%20%28Los%20Angeles%29%2C%20Los%20Angeles",
           "apple": "https://maps.apple.com/?q=Ace%2AMission%20Studios%20%28Los%20Angeles%29%2C%20Los%20Angeles"
@@ -3144,9 +3148,9 @@
         "coords_precise": false,
         "ra": {},
         "image": "https://party-scout.app/img/gen/brunello-s-mellow-circus-f2f9.jpg",
-        "image_generated": true,
+        "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
