@@ -53,16 +53,25 @@
         "time": "22:00",
         "start": "22:00",
         "end": "02:30",
-        "area": "Los Angeles",
+        "area": "Hollywood",
         "venue": "Sound Nightclub (Los Angeles)",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "1642 N Las Palmas Ave, Los Angeles, CA 90028",
+        "why": "A late Friday club night at one of Hollywood's best-known dance rooms, with a strong sound system and a 600-person capacity.",
+        "summary": "Alisha plays a Friday night at Sound Nightclub in Hollywood, doors 10pm and running until 2:30am.",
         "promoter": "",
         "price": "$31",
-        "tags": [],
-        "sources": [],
-        "tickets": [],
+        "tags": [
+          "nightclub",
+          "electronic",
+          "hollywood"
+        ],
+        "sources": [
+          "https://dice.fm/event/6aa1ca013ba22a0001689750",
+          "https://19hz.info/eventlisting_LosAngeles.php"
+        ],
+        "tickets": [
+          "https://dice.fm/event/6aa1ca013ba22a0001689750"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Sound%20Nightclub%20%28Los%20Angeles%29%2C%20Los%20Angeles",
           "apple": "https://maps.apple.com/?q=Sound%20Nightclub%20%28Los%20Angeles%29%2C%20Los%20Angeles"
@@ -70,7 +79,7 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://party-scout.app/img/gen/alisha-73ff.jpg",
         "image_generated": false,
         "popularity": 0,
         "enriched": 1,
