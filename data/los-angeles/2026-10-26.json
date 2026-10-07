@@ -5300,23 +5300,33 @@
         "id": "2026-10-26-music-millero-open-to-close-c55f19",
         "eid": "millero-open-to-close-2709",
         "track": "music",
-        "category": "",
+        "category": "club night",
         "name": "Millero (Open To Close)",
         "day": "Sat",
         "date": "2026-10-31",
         "time": "22:00",
         "start": "22:00",
-        "end": null,
-        "area": "Los Angeles",
-        "venue": "The Spotlight (Los Angeles)",
-        "address": "",
-        "why": "",
-        "summary": "",
-        "promoter": "",
+        "end": "03:00",
+        "area": "Hollywood",
+        "venue": "The Spotlight",
+        "address": "1601 N Cahuenga Blvd, Los Angeles, CA 90028",
+        "why": "A full night with one artist behind the decks, rather than a short guest slot, on a Halloween Saturday.",
+        "summary": "Millero plays an open-to-close set at The Spotlight in Hollywood on Halloween night, 10pm to 3am. 21+, tech house, progressive house and indie dance.",
+        "promoter": "The Spotlight",
         "price": "",
-        "tags": [],
-        "sources": [],
-        "tickets": [],
+        "tags": [
+          "tech house",
+          "progressive house",
+          "indie dance",
+          "21+"
+        ],
+        "sources": [
+          "https://speakeasygo.com/event/EVE-1NVLO0",
+          "https://19hz.info/eventlisting_LosAngeles.php"
+        ],
+        "tickets": [
+          "https://speakeasygo.com/event/EVE-1NVLO0"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=The%20Spotlight%20%28Los%20Angeles%29%2C%20Los%20Angeles",
           "apple": "https://maps.apple.com/?q=The%20Spotlight%20%28Los%20Angeles%29%2C%20Los%20Angeles"
@@ -5325,10 +5335,11 @@
         "coords_precise": false,
         "ra": {},
         "image": "https://party-scout.app/img/gen/millero-open-to-close-2709.jpg",
-        "image_generated": true,
+        "image_generated": false,
         "popularity": 0,
         "enriched": 1,
-        "active": true
+        "active": true,
+        "lineup": []
       },
       {
         "id": "2026-10-26-music-neil-frances-54a7f8",
