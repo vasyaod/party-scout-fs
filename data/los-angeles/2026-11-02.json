@@ -2014,18 +2014,25 @@
         "day": "Sat",
         "date": "2026-11-07",
         "time": "23:00",
-        "start": null,
-        "end": null,
+        "start": "23:00",
+        "end": "04:00",
         "area": "Los Angeles",
         "venue": "TBA (DTLA/Los Angeles)",
         "address": "",
-        "why": "",
-        "summary": "",
+        "why": "A relatively affordable ticket price for a night out in LA.",
+        "summary": "Yaego is an event in Los Angeles on November 7, 2026; tickets are listed at $15–$30.",
         "promoter": "",
-        "price": "",
-        "tags": [],
-        "sources": [],
-        "tickets": [],
+        "price": "$15–$30",
+        "tags": [
+          "ticketed",
+          "nightlife"
+        ],
+        "sources": [
+          "https://ra.co/events/2505565"
+        ],
+        "tickets": [
+          "https://ra.co/events/2505565"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Los%20Angeles",
           "apple": "https://maps.apple.com/?q=Los%20Angeles"
@@ -2033,10 +2040,10 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://party-scout.app/img/gen/yaego-aa8c.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {

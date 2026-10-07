@@ -1335,16 +1335,20 @@
         "day": "Sat",
         "date": "2026-11-14",
         "time": "21:00",
-        "start": null,
+        "start": "21:00",
         "end": null,
         "area": "Los Angeles",
         "venue": "Music Box (San Diego)",
         "address": "",
-        "why": "",
-        "summary": "",
+        "why": "For an evening out in Los Angeles with advance tickets available.",
+        "summary": "Boombox takes place on November 14, 2026 in Los Angeles. Advance tickets are $38.",
         "promoter": "",
-        "price": "",
-        "tags": [],
+        "price": "$38 pre",
+        "tags": [
+          "paid",
+          "tickets",
+          "nightlife"
+        ],
         "sources": [],
         "tickets": [],
         "maps": {
@@ -1357,7 +1361,7 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
