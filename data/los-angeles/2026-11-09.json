@@ -5,7 +5,7 @@
   "location": "Los Angeles & SoCal",
   "city": "los-angeles",
   "city_label": "Los Angeles",
-  "generated_at": "2026-10-06",
+  "generated_at": "2026-10-07",
   "tracks": {
     "music": [
       {
@@ -738,18 +738,25 @@
         "day": "Fri",
         "date": "2026-11-13",
         "time": "21:00",
-        "start": null,
-        "end": null,
+        "start": "20:00",
+        "end": "23:00",
         "area": "Los Angeles",
         "venue": "El Rey Theatre (Los Angeles)",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "5515 Wilshire Blvd, Los Angeles, CA 90036",
+        "why": "Affordable mid-priced tickets for a night out on Wilshire Boulevard.",
+        "summary": "Dennett is scheduled for November 13, 2026 at 5515 Wilshire Blvd in Los Angeles; tickets are $29–$33.",
         "promoter": "",
-        "price": "",
-        "tags": [],
-        "sources": [],
-        "tickets": [],
+        "price": "$29–$33",
+        "tags": [
+          "ticketed",
+          "los-angeles"
+        ],
+        "sources": [
+          "https://ra.co/events/2470042"
+        ],
+        "tickets": [
+          "https://ra.co/events/2470042"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=El%20Rey%20Theatre%20%28Los%20Angeles%29%2C%20Los%20Angeles",
           "apple": "https://maps.apple.com/?q=El%20Rey%20Theatre%20%28Los%20Angeles%29%2C%20Los%20Angeles"
@@ -757,10 +764,10 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://party-scout.app/img/gen/dennett-9724.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {

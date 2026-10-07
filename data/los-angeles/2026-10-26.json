@@ -5,7 +5,7 @@
   "location": "Los Angeles & SoCal",
   "city": "los-angeles",
   "city_label": "Los Angeles",
-  "generated_at": "2026-10-06",
+  "generated_at": "2026-10-07",
   "tracks": {
     "music": [
       {
@@ -1506,7 +1506,7 @@
         "time": "",
         "start": null,
         "end": null,
-        "area": "Los Angeles",
+        "area": "San Bernardino",
         "venue": "Nos Event Center (San Bernardino)",
         "address": "",
         "why": "For a ticketed Halloween-night party experience in Los Angeles.",
@@ -1519,7 +1519,9 @@
           "party",
           "dance"
         ],
-        "sources": [],
+        "sources": [
+          "https://escapehalloween.com/"
+        ],
         "tickets": [],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Nos%20Event%20Center%20%28San%20Bernardino%29%2C%20Los%20Angeles",
@@ -1528,7 +1530,7 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://party-scout.app/img/gen/escape-psycho-circus-202-6311.jpg",
         "image_generated": false,
         "popularity": 0,
         "enriched": 1,
