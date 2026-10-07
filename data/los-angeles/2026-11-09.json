@@ -1624,7 +1624,7 @@
         "time": "22:00",
         "start": "22:00",
         "end": null,
-        "area": "Los Angeles",
+        "area": "Costa Mesa",
         "venue": "Time Nightclub (Costa Mesa)",
         "address": "",
         "why": "For a reasonably priced night out in Los Angeles.",
@@ -1635,7 +1635,9 @@
           "nightlife",
           "ticketed"
         ],
-        "sources": [],
+        "sources": [
+          "https://timenightclub.com/events"
+        ],
         "tickets": [],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Time%20Nightclub%20%28Costa%20Mesa%29%2C%20Los%20Angeles",
@@ -1644,7 +1646,7 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://party-scout.app/img/gen/ghengar-5359.jpg",
         "image_generated": false,
         "popularity": 0,
         "enriched": 1,
