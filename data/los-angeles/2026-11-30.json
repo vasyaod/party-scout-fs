@@ -175,13 +175,19 @@
         "end": null,
         "area": "Los Angeles",
         "venue": "Music Box (San Diego)",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "1337 India St, San Diego, CA",
+        "why": "Chrysalis is Emancipator's new album, and this is its release run. It suits fans of lush, cinematic downtempo who will make the trip south from LA.",
+        "summary": "Emancipator brings the Chrysalis Tour to Music Box in San Diego, with long-time collaborator Ilya Goldberg (Lapa) joining for a night of downtempo, electronic and live-violin soundscapes.",
         "promoter": "",
         "price": "$44 pre",
-        "tags": [],
-        "sources": [],
+        "tags": [
+          "downtempo",
+          "electronic",
+          "live-music"
+        ],
+        "sources": [
+          "https://musicboxsd.com/event/14275804/emancipator-chrysalis-tour/"
+        ],
         "tickets": [],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Music%20Box%20%28San%20Diego%29%2C%20Los%20Angeles",
@@ -194,7 +200,8 @@
         "image_generated": false,
         "popularity": 0,
         "enriched": 1,
-        "active": true
+        "active": true,
+        "lineup": []
       },
       {
         "id": "2026-11-30-music-hans-glader-8ccb87",
