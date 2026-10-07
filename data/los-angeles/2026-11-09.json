@@ -2399,16 +2399,24 @@
         "time": "22:00",
         "start": "22:00",
         "end": "02:00",
-        "area": "Los Angeles",
+        "area": "Hollywood",
         "venue": "Sound Nightclub (Los Angeles)",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "1642 N Las Palmas Ave, Los Angeles, CA 90028",
+        "why": "A Saturday techno night at one of LA's best-sounding clubs, with tickets around $31.",
+        "summary": "Volkoder plays Sound Nightclub in Hollywood on Saturday night, 10pm to 2am, in the club's dark, powerful room.",
         "promoter": "",
         "price": "$31",
-        "tags": [],
-        "sources": [],
-        "tickets": [],
+        "tags": [
+          "techno",
+          "club",
+          "hollywood"
+        ],
+        "sources": [
+          "https://dice.fm/venue/sound-nightclub-kxeo"
+        ],
+        "tickets": [
+          "https://dice.fm/event/6a1f408e3af3fd0001074328"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Sound%20Nightclub%20%28Los%20Angeles%29%2C%20Los%20Angeles",
           "apple": "https://maps.apple.com/?q=Sound%20Nightclub%20%28Los%20Angeles%29%2C%20Los%20Angeles"
@@ -2416,7 +2424,7 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://party-scout.app/img/gen/volkoder-b829.jpg",
         "image_generated": false,
         "popularity": 0,
         "enriched": 1,
