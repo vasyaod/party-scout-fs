@@ -977,17 +977,23 @@
         "day": "Fri",
         "date": "2026-11-13",
         "time": "16:00",
-        "start": null,
-        "end": null,
+        "start": "16:00",
+        "end": "21:00",
         "area": "Los Angeles",
         "venue": "3Oz Dive Club (San Diego)",
         "address": "",
-        "why": "",
-        "summary": "",
+        "why": "A live music afternoon at a San Diego dive bar, worth the drive if you are already in Southern California.",
+        "summary": "Luke Alessi plays 3Oz Dive Club in San Diego on Friday, Nov 13, 4–9pm, per the 19hz listing.",
         "promoter": "",
-        "price": "",
-        "tags": [],
-        "sources": [],
+        "price": "$20–$30",
+        "tags": [
+          "live music",
+          "dive bar",
+          "san diego"
+        ],
+        "sources": [
+          "https://19hz.info/eventlisting_LosAngeles.php"
+        ],
         "tickets": [],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=3Oz%20Dive%20Club%20%28San%20Diego%29%2C%20Los%20Angeles",
@@ -999,7 +1005,7 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
