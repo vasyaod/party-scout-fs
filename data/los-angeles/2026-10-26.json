@@ -50,12 +50,12 @@
         "name": "The Rocky Horror Picture Show Spooktacular Tour with Barry Bostwick",
         "day": "Mon",
         "date": "2026-10-26",
-        "time": "",
-        "start": null,
+        "time": "7:00 PM",
+        "start": "19:00",
         "end": null,
-        "area": "Los Angeles",
+        "area": "Koreatown",
         "venue": "The Wiltern (Los Angeles)",
-        "address": "",
+        "address": "3790 Wilshire Blvd, Los Angeles, CA 90010",
         "why": "See Barry Bostwick onstage in a live touring presentation of the cult classic.",
         "summary": "A stop on The Rocky Horror Picture Show Spooktacular Tour featuring Barry Bostwick on October 26, 2026 in Los Angeles.",
         "promoter": "",
@@ -66,8 +66,12 @@
           "live",
           "halloween"
         ],
-        "sources": [],
-        "tickets": [],
+        "sources": [
+          "https://www.discoverlosangeles.com/event/2026/10/26/the-rocky-horror-picture-show-spooktacular-tour-with-barry-bostwick"
+        ],
+        "tickets": [
+          "https://www.ticketmaster.com/the-rocky-horror-picture-show-spooktacular-los-angeles-california-10-26-2026/event/090064B3D19C1D19"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=The%20Wiltern%20%28Los%20Angeles%29",
           "apple": "https://maps.apple.com/?q=The%20Wiltern%20%28Los%20Angeles%29"
@@ -75,7 +79,7 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://party-scout.app/img/gen/the-rocky-horror-picture-f5b9.jpg",
         "image_generated": false,
         "popularity": 0,
         "enriched": 1,
