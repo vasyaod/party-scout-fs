@@ -4287,18 +4287,22 @@
         "day": "Sat",
         "date": "2026-10-31",
         "time": "19:00",
-        "start": null,
-        "end": null,
+        "start": "19:00",
+        "end": "22:30",
         "area": "Los Angeles",
         "venue": "The Bellwether (Los Angeles)",
-        "address": "",
+        "address": "333 S Boylston St, Los Angeles, CA 90017",
         "why": "",
         "summary": "",
         "promoter": "",
-        "price": "",
+        "price": "$47",
         "tags": [],
-        "sources": [],
-        "tickets": [],
+        "sources": [
+          "https://ra.co/events/2419959"
+        ],
+        "tickets": [
+          "https://ra.co/events/2419959"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=The%20Bellwether%20%28Los%20Angeles%29%2C%20Los%20Angeles",
           "apple": "https://maps.apple.com/?q=The%20Bellwether%20%28Los%20Angeles%29%2C%20Los%20Angeles"
@@ -4307,9 +4311,9 @@
         "coords_precise": false,
         "ra": {},
         "image": "https://party-scout.app/img/gen/parra-for-cuva-f663.jpg",
-        "image_generated": true,
+        "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
