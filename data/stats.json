@@ -1,78 +1,2102 @@
 {
   "kind": "stats",
-  "generated_at": "2026-10-07T01:45:46+00:00",
+  "generated_at": "2026-10-07T03:07:00+00:00",
   "weights_version": "v1",
   "total": {
-    "n": 4439,
-    "median": 0.8772,
-    "p25": 0.8,
-    "pct_ge_075": 0.8202,
+    "n": 4897,
+    "median": 0.8723,
+    "p25": 0.7407,
+    "pct_ge_075": 0.7435,
     "invalid": 65,
-    "tba_rate": 0.0849,
+    "tba_rate": 0.0925,
     "by_field_fixable": {
-      "coords": 3107,
-      "image": 2109,
-      "tickets": 1695,
-      "price": 883,
-      "start": 748,
-      "category": 647,
-      "address": 614,
-      "time": 539,
-      "sources": 532,
-      "why": 404,
-      "summary": 354,
-      "tags": 330,
-      "maps": 184,
-      "venue": 92
+      "coords": 3489,
+      "image": 2565,
+      "tickets": 2153,
+      "price": 1338,
+      "start": 1206,
+      "category": 1105,
+      "address": 995,
+      "sources": 990,
+      "why": 862,
+      "summary": 812,
+      "tags": 788,
+      "time": 568,
+      "maps": 186,
+      "venue": 92,
+      "area": 23
     },
     "weights_version": "v1",
     "cities": 2,
-    "weeks_published": 39
+    "weeks_published": 61
   },
   "cities": [
     {
       "city": "los-angeles",
-      "n": 1689,
-      "weeks_published": 19,
+      "n": 2147,
+      "weeks_published": 41,
       "summary": {
-        "n": 1689,
-        "median": 0.9107,
-        "p25": 0.7925,
-        "pct_ge_075": 0.791,
+        "n": 2147,
+        "median": 0.8654,
+        "p25": 0.3778,
+        "pct_ge_075": 0.6223,
         "invalid": 9,
-        "tba_rate": 0.1628,
+        "tba_rate": 0.1635,
         "by_field_fixable": {
-          "coords": 1012,
-          "image": 923,
-          "tickets": 474,
-          "start": 346,
-          "price": 335,
-          "address": 286,
-          "category": 283,
-          "sources": 247,
-          "time": 218,
-          "why": 173,
-          "summary": 153,
-          "tags": 149,
-          "maps": 34,
+          "coords": 1394,
+          "image": 1379,
+          "tickets": 932,
+          "start": 804,
+          "price": 790,
+          "category": 741,
+          "sources": 705,
+          "address": 667,
+          "why": 631,
+          "summary": 611,
+          "tags": 607,
+          "time": 247,
+          "maps": 36,
+          "area": 23,
           "venue": 17
         },
         "weights_version": "v1"
       },
       "weeks": [
         {
-          "week_start": "2026-11-16",
+          "week_start": "2027-06-21",
           "n": 1,
           "summary": {
             "n": 1,
-            "median": 0.9127,
-            "p25": 0.9127,
-            "pct_ge_075": 1.0,
+            "median": 0.3269,
+            "p25": 0.3269,
+            "pct_ge_075": 0.0,
             "invalid": 0,
             "tba_rate": 0.0,
             "by_field_fixable": {
+              "category": 1,
               "start": 1,
-              "coords": 1
+              "address": 1,
+              "why": 1,
+              "summary": 1,
+              "price": 1,
+              "tags": 1,
+              "sources": 1,
+              "tickets": 1,
+              "coords": 1,
+              "image": 1
+            },
+            "weights_version": "v1"
+          },
+          "undated": 0,
+          "days": [
+            {
+              "date": "2027-06-21",
+              "day": "Mon",
+              "n": 0,
+              "median": 0.0,
+              "p25": 0.0,
+              "pct_ge_075": 0.0,
+              "invalid": 0,
+              "tba_rate": 0.0,
+              "weights_version": "v1"
+            },
+            {
+              "date": "2027-06-22",
+              "day": "Tue",
+              "n": 0,
+              "median": 0.0,
+              "p25": 0.0,
+              "pct_ge_075": 0.0,
+              "invalid": 0,
+              "tba_rate": 0.0,
+              "weights_version": "v1"
+            },
+            {
+              "date": "2027-06-23",
+              "day": "Wed",
+              "n": 0,
+              "median": 0.0,
+              "p25": 0.0,
+              "pct_ge_075": 0.0,
+              "invalid": 0,
+              "tba_rate": 0.0,
+              "weights_version": "v1"
+            },
+            {
+              "date": "2027-06-24",
+              "day": "Thu",
+              "n": 0,
+              "median": 0.0,
+              "p25": 0.0,
+              "pct_ge_075": 0.0,
+              "invalid": 0,
+              "tba_rate": 0.0,
+              "weights_version": "v1"
+            },
+            {
+              "date": "2027-06-25",
+              "day": "Fri",
+              "n": 0,
+              "median": 0.0,
+              "p25": 0.0,
+              "pct_ge_075": 0.0,
+              "invalid": 0,
+              "tba_rate": 0.0,
+              "weights_version": "v1"
+            },
+            {
+              "date": "2027-06-26",
+              "day": "Sat",
+              "n": 1,
+              "median": 0.3269,
+              "p25": 0.3269,
+              "pct_ge_075": 0.0,
+              "invalid": 0,
+              "tba_rate": 0.0,
+              "weights_version": "v1"
+            },
+            {
+              "date": "2027-06-27",
+              "day": "Sun",
+              "n": 0,
+              "median": 0.0,
+              "p25": 0.0,
+              "pct_ge_075": 0.0,
+              "invalid": 0,
+              "tba_rate": 0.0,
+              "weights_version": "v1"
+            }
+          ]
+        },
+        {
+          "week_start": "2027-05-31",
+          "n": 1,
+          "summary": {
+            "n": 1,
+            "median": 0.3111,
+            "p25": 0.3111,
+            "pct_ge_075": 0.0,
+            "invalid": 0,
+            "tba_rate": 1.0,
+            "by_field_fixable": {
+              "category": 1,
+              "time": 1,
+              "start": 1,
+              "why": 1,
+              "summary": 1,
+              "price": 1,
+              "tags": 1,
+              "sources": 1,
+              "tickets": 1,
+              "image": 1
+            },
+            "weights_version": "v1"
+          },
+          "undated": 0,
+          "days": [
+            {
+              "date": "2027-05-31",
+              "day": "Mon",
+              "n": 0,
+              "median": 0.0,
+              "p25": 0.0,
+              "pct_ge_075": 0.0,
+              "invalid": 0,
+              "tba_rate": 0.0,
+              "weights_version": "v1"
+            },
+            {
+              "date": "2027-06-01",
+              "day": "Tue",
+              "n": 0,
+              "median": 0.0,
+              "p25": 0.0,
+              "pct_ge_075": 0.0,
+              "invalid": 0,
+              "tba_rate": 0.0,
+              "weights_version": "v1"
+            },
+            {
+              "date": "2027-06-02",
+              "day": "Wed",
+              "n": 0,
+              "median": 0.0,
+              "p25": 0.0,
+              "pct_ge_075": 0.0,
+              "invalid": 0,
+              "tba_rate": 0.0,
+              "weights_version": "v1"
+            },
+            {
+              "date": "2027-06-03",
+              "day": "Thu",
+              "n": 0,
+              "median": 0.0,
+              "p25": 0.0,
+              "pct_ge_075": 0.0,
+              "invalid": 0,
+              "tba_rate": 0.0,
+              "weights_version": "v1"
+            },
+            {
+              "date": "2027-06-04",
+              "day": "Fri",
+              "n": 1,
+              "median": 0.3111,
+              "p25": 0.3111,
+              "pct_ge_075": 0.0,
+              "invalid": 0,
+              "tba_rate": 1.0,
+              "weights_version": "v1"
+            },
+            {
+              "date": "2027-06-05",
+              "day": "Sat",
+              "n": 0,
+              "median": 0.0,
+              "p25": 0.0,
+              "pct_ge_075": 0.0,
+              "invalid": 0,
+              "tba_rate": 0.0,
+              "weights_version": "v1"
+            },
+            {
+              "date": "2027-06-06",
+              "day": "Sun",
+              "n": 0,
+              "median": 0.0,
+              "p25": 0.0,
+              "pct_ge_075": 0.0,
+              "invalid": 0,
+              "tba_rate": 0.0,
+              "weights_version": "v1"
+            }
+          ]
+        },
+        {
+          "week_start": "2027-05-10",
+          "n": 1,
+          "summary": {
+            "n": 1,
+            "median": 0.3778,
+            "p25": 0.3778,
+            "pct_ge_075": 0.0,
+            "invalid": 0,
+            "tba_rate": 1.0,
+            "by_field_fixable": {
+              "category": 1,
+              "start": 1,
+              "why": 1,
+              "summary": 1,
+              "price": 1,
+              "tags": 1,
+              "sources": 1,
+              "tickets": 1,
+              "image": 1
+            },
+            "weights_version": "v1"
+          },
+          "undated": 0,
+          "days": [
+            {
+              "date": "2027-05-10",
+              "day": "Mon",
+              "n": 0,
+              "median": 0.0,
+              "p25": 0.0,
+              "pct_ge_075": 0.0,
+              "invalid": 0,
+              "tba_rate": 0.0,
+              "weights_version": "v1"
+            },
+            {
+              "date": "2027-05-11",
+              "day": "Tue",
+              "n": 0,
+              "median": 0.0,
+              "p25": 0.0,
+              "pct_ge_075": 0.0,
+              "invalid": 0,
+              "tba_rate": 0.0,
+              "weights_version": "v1"
+            },
+            {
+              "date": "2027-05-12",
+              "day": "Wed",
+              "n": 0,
+              "median": 0.0,
+              "p25": 0.0,
+              "pct_ge_075": 0.0,
+              "invalid": 0,
+              "tba_rate": 0.0,
+              "weights_version": "v1"
+            },
+            {
+              "date": "2027-05-13",
+              "day": "Thu",
+              "n": 0,
+              "median": 0.0,
+              "p25": 0.0,
+              "pct_ge_075": 0.0,
+              "invalid": 0,
+              "tba_rate": 0.0,
+              "weights_version": "v1"
+            },
+            {
+              "date": "2027-05-14",
+              "day": "Fri",
+              "n": 1,
+              "median": 0.3778,
+              "p25": 0.3778,
+              "pct_ge_075": 0.0,
+              "invalid": 0,
+              "tba_rate": 1.0,
+              "weights_version": "v1"
+            },
+            {
+              "date": "2027-05-15",
+              "day": "Sat",
+              "n": 0,
+              "median": 0.0,
+              "p25": 0.0,
+              "pct_ge_075": 0.0,
+              "invalid": 0,
+              "tba_rate": 0.0,
+              "weights_version": "v1"
+            },
+            {
+              "date": "2027-05-16",
+              "day": "Sun",
+              "n": 0,
+              "median": 0.0,
+              "p25": 0.0,
+              "pct_ge_075": 0.0,
+              "invalid": 0,
+              "tba_rate": 0.0,
+              "weights_version": "v1"
+            }
+          ]
+        },
+        {
+          "week_start": "2027-05-03",
+          "n": 1,
+          "summary": {
+            "n": 1,
+            "median": 0.3269,
+            "p25": 0.3269,
+            "pct_ge_075": 0.0,
+            "invalid": 0,
+            "tba_rate": 0.0,
+            "by_field_fixable": {
+              "category": 1,
+              "start": 1,
+              "address": 1,
+              "why": 1,
+              "summary": 1,
+              "price": 1,
+              "tags": 1,
+              "sources": 1,
+              "tickets": 1,
+              "coords": 1,
+              "image": 1
+            },
+            "weights_version": "v1"
+          },
+          "undated": 0,
+          "days": [
+            {
+              "date": "2027-05-03",
+              "day": "Mon",
+              "n": 0,
+              "median": 0.0,
+              "p25": 0.0,
+              "pct_ge_075": 0.0,
+              "invalid": 0,
+              "tba_rate": 0.0,
+              "weights_version": "v1"
+            },
+            {
+              "date": "2027-05-04",
+              "day": "Tue",
+              "n": 0,
+              "median": 0.0,
+              "p25": 0.0,
+              "pct_ge_075": 0.0,
+              "invalid": 0,
+              "tba_rate": 0.0,
+              "weights_version": "v1"
+            },
+            {
+              "date": "2027-05-05",
+              "day": "Wed",
+              "n": 1,
+              "median": 0.3269,
+              "p25": 0.3269,
+              "pct_ge_075": 0.0,
+              "invalid": 0,
+              "tba_rate": 0.0,
+              "weights_version": "v1"
+            },
+            {
+              "date": "2027-05-06",
+              "day": "Thu",
+              "n": 0,
+              "median": 0.0,
+              "p25": 0.0,
+              "pct_ge_075": 0.0,
+              "invalid": 0,
+              "tba_rate": 0.0,
+              "weights_version": "v1"
+            },
+            {
+              "date": "2027-05-07",
+              "day": "Fri",
+              "n": 0,
+              "median": 0.0,
+              "p25": 0.0,
+              "pct_ge_075": 0.0,
+              "invalid": 0,
+              "tba_rate": 0.0,
+              "weights_version": "v1"
+            },
+            {
+              "date": "2027-05-08",
+              "day": "Sat",
+              "n": 0,
+              "median": 0.0,
+              "p25": 0.0,
+              "pct_ge_075": 0.0,
+              "invalid": 0,
+              "tba_rate": 0.0,
+              "weights_version": "v1"
+            },
+            {
+              "date": "2027-05-09",
+              "day": "Sun",
+              "n": 0,
+              "median": 0.0,
+              "p25": 0.0,
+              "pct_ge_075": 0.0,
+              "invalid": 0,
+              "tba_rate": 0.0,
+              "weights_version": "v1"
+            }
+          ]
+        },
+        {
+          "week_start": "2027-03-22",
+          "n": 1,
+          "summary": {
+            "n": 1,
+            "median": 0.3269,
+            "p25": 0.3269,
+            "pct_ge_075": 0.0,
+            "invalid": 0,
+            "tba_rate": 0.0,
+            "by_field_fixable": {
+              "category": 1,
+              "start": 1,
+              "address": 1,
+              "why": 1,
+              "summary": 1,
+              "price": 1,
+              "tags": 1,
+              "sources": 1,
+              "tickets": 1,
+              "coords": 1,
+              "image": 1
+            },
+            "weights_version": "v1"
+          },
+          "undated": 0,
+          "days": [
+            {
+              "date": "2027-03-22",
+              "day": "Mon",
+              "n": 0,
+              "median": 0.0,
+              "p25": 0.0,
+              "pct_ge_075": 0.0,
+              "invalid": 0,
+              "tba_rate": 0.0,
+              "weights_version": "v1"
+            },
+            {
+              "date": "2027-03-23",
+              "day": "Tue",
+              "n": 0,
+              "median": 0.0,
+              "p25": 0.0,
+              "pct_ge_075": 0.0,
+              "invalid": 0,
+              "tba_rate": 0.0,
+              "weights_version": "v1"
+            },
+            {
+              "date": "2027-03-24",
+              "day": "Wed",
+              "n": 1,
+              "median": 0.3269,
+              "p25": 0.3269,
+              "pct_ge_075": 0.0,
+              "invalid": 0,
+              "tba_rate": 0.0,
+              "weights_version": "v1"
+            },
+            {
+              "date": "2027-03-25",
+              "day": "Thu",
+              "n": 0,
+              "median": 0.0,
+              "p25": 0.0,
+              "pct_ge_075": 0.0,
+              "invalid": 0,
+              "tba_rate": 0.0,
+              "weights_version": "v1"
+            },
+            {
+              "date": "2027-03-26",
+              "day": "Fri",
+              "n": 0,
+              "median": 0.0,
+              "p25": 0.0,
+              "pct_ge_075": 0.0,
+              "invalid": 0,
+              "tba_rate": 0.0,
+              "weights_version": "v1"
+            },
+            {
+              "date": "2027-03-27",
+              "day": "Sat",
+              "n": 0,
+              "median": 0.0,
+              "p25": 0.0,
+              "pct_ge_075": 0.0,
+              "invalid": 0,
+              "tba_rate": 0.0,
+              "weights_version": "v1"
+            },
+            {
+              "date": "2027-03-28",
+              "day": "Sun",
+              "n": 0,
+              "median": 0.0,
+              "p25": 0.0,
+              "pct_ge_075": 0.0,
+              "invalid": 0,
+              "tba_rate": 0.0,
+              "weights_version": "v1"
+            }
+          ]
+        },
+        {
+          "week_start": "2027-03-15",
+          "n": 2,
+          "summary": {
+            "n": 2,
+            "median": 0.3269,
+            "p25": 0.3269,
+            "pct_ge_075": 0.0,
+            "invalid": 0,
+            "tba_rate": 0.0,
+            "by_field_fixable": {
+              "category": 2,
+              "start": 2,
+              "address": 2,
+              "why": 2,
+              "summary": 2,
+              "price": 2,
+              "tags": 2,
+              "sources": 2,
+              "tickets": 2,
+              "coords": 2,
+              "image": 2
+            },
+            "weights_version": "v1"
+          },
+          "undated": 0,
+          "days": [
+            {
+              "date": "2027-03-15",
+              "day": "Mon",
+              "n": 0,
+              "median": 0.0,
+              "p25": 0.0,
+              "pct_ge_075": 0.0,
+              "invalid": 0,
+              "tba_rate": 0.0,
+              "weights_version": "v1"
+            },
+            {
+              "date": "2027-03-16",
+              "day": "Tue",
+              "n": 0,
+              "median": 0.0,
+              "p25": 0.0,
+              "pct_ge_075": 0.0,
+              "invalid": 0,
+              "tba_rate": 0.0,
+              "weights_version": "v1"
+            },
+            {
+              "date": "2027-03-17",
+              "day": "Wed",
+              "n": 0,
+              "median": 0.0,
+              "p25": 0.0,
+              "pct_ge_075": 0.0,
+              "invalid": 0,
+              "tba_rate": 0.0,
+              "weights_version": "v1"
+            },
+            {
+              "date": "2027-03-18",
+              "day": "Thu",
+              "n": 0,
+              "median": 0.0,
+              "p25": 0.0,
+              "pct_ge_075": 0.0,
+              "invalid": 0,
+              "tba_rate": 0.0,
+              "weights_version": "v1"
+            },
+            {
+              "date": "2027-03-19",
+              "day": "Fri",
+              "n": 1,
+              "median": 0.3269,
+              "p25": 0.3269,
+              "pct_ge_075": 0.0,
+              "invalid": 0,
+              "tba_rate": 0.0,
+              "weights_version": "v1"
+            },
+            {
+              "date": "2027-03-20",
+              "day": "Sat",
+              "n": 1,
+              "median": 0.3269,
+              "p25": 0.3269,
+              "pct_ge_075": 0.0,
+              "invalid": 0,
+              "tba_rate": 0.0,
+              "weights_version": "v1"
+            },
+            {
+              "date": "2027-03-21",
+              "day": "Sun",
+              "n": 0,
+              "median": 0.0,
+              "p25": 0.0,
+              "pct_ge_075": 0.0,
+              "invalid": 0,
+              "tba_rate": 0.0,
+              "weights_version": "v1"
+            }
+          ]
+        },
+        {
+          "week_start": "2027-03-01",
+          "n": 4,
+          "summary": {
+            "n": 4,
+            "median": 0.3269,
+            "p25": 0.3269,
+            "pct_ge_075": 0.0,
+            "invalid": 0,
+            "tba_rate": 0.0,
+            "by_field_fixable": {
+              "category": 4,
+              "start": 4,
+              "address": 4,
+              "why": 4,
+              "summary": 4,
+              "price": 4,
+              "tags": 4,
+              "sources": 4,
+              "tickets": 4,
+              "coords": 4,
+              "image": 4
+            },
+            "weights_version": "v1"
+          },
+          "undated": 0,
+          "days": [
+            {
+              "date": "2027-03-01",
+              "day": "Mon",
+              "n": 1,
+              "median": 0.3269,
+              "p25": 0.3269,
+              "pct_ge_075": 0.0,
+              "invalid": 0,
+              "tba_rate": 0.0,
+              "weights_version": "v1"
+            },
+            {
+              "date": "2027-03-02",
+              "day": "Tue",
+              "n": 0,
+              "median": 0.0,
+              "p25": 0.0,
+              "pct_ge_075": 0.0,
+              "invalid": 0,
+              "tba_rate": 0.0,
+              "weights_version": "v1"
+            },
+            {
+              "date": "2027-03-03",
+              "day": "Wed",
+              "n": 0,
+              "median": 0.0,
+              "p25": 0.0,
+              "pct_ge_075": 0.0,
+              "invalid": 0,
+              "tba_rate": 0.0,
+              "weights_version": "v1"
+            },
+            {
+              "date": "2027-03-04",
+              "day": "Thu",
+              "n": 0,
+              "median": 0.0,
+              "p25": 0.0,
+              "pct_ge_075": 0.0,
+              "invalid": 0,
+              "tba_rate": 0.0,
+              "weights_version": "v1"
+            },
+            {
+              "date": "2027-03-05",
+              "day": "Fri",
+              "n": 1,
+              "median": 0.3269,
+              "p25": 0.3269,
+              "pct_ge_075": 0.0,
+              "invalid": 0,
+              "tba_rate": 0.0,
+              "weights_version": "v1"
+            },
+            {
+              "date": "2027-03-06",
+              "day": "Sat",
+              "n": 2,
+              "median": 0.3269,
+              "p25": 0.3269,
+              "pct_ge_075": 0.0,
+              "invalid": 0,
+              "tba_rate": 0.0,
+              "weights_version": "v1"
+            },
+            {
+              "date": "2027-03-07",
+              "day": "Sun",
+              "n": 0,
+              "median": 0.0,
+              "p25": 0.0,
+              "pct_ge_075": 0.0,
+              "invalid": 0,
+              "tba_rate": 0.0,
+              "weights_version": "v1"
+            }
+          ]
+        },
+        {
+          "week_start": "2027-02-22",
+          "n": 2,
+          "summary": {
+            "n": 2,
+            "median": 0.3269,
+            "p25": 0.3269,
+            "pct_ge_075": 0.0,
+            "invalid": 0,
+            "tba_rate": 0.0,
+            "by_field_fixable": {
+              "category": 2,
+              "start": 2,
+              "address": 2,
+              "why": 2,
+              "summary": 2,
+              "price": 2,
+              "tags": 2,
+              "sources": 2,
+              "tickets": 2,
+              "coords": 2,
+              "image": 2
+            },
+            "weights_version": "v1"
+          },
+          "undated": 0,
+          "days": [
+            {
+              "date": "2027-02-22",
+              "day": "Mon",
+              "n": 0,
+              "median": 0.0,
+              "p25": 0.0,
+              "pct_ge_075": 0.0,
+              "invalid": 0,
+              "tba_rate": 0.0,
+              "weights_version": "v1"
+            },
+            {
+              "date": "2027-02-23",
+              "day": "Tue",
+              "n": 0,
+              "median": 0.0,
+              "p25": 0.0,
+              "pct_ge_075": 0.0,
+              "invalid": 0,
+              "tba_rate": 0.0,
+              "weights_version": "v1"
+            },
+            {
+              "date": "2027-02-24",
+              "day": "Wed",
+              "n": 0,
+              "median": 0.0,
+              "p25": 0.0,
+              "pct_ge_075": 0.0,
+              "invalid": 0,
+              "tba_rate": 0.0,
+              "weights_version": "v1"
+            },
+            {
+              "date": "2027-02-25",
+              "day": "Thu",
+              "n": 0,
+              "median": 0.0,
+              "p25": 0.0,
+              "pct_ge_075": 0.0,
+              "invalid": 0,
+              "tba_rate": 0.0,
+              "weights_version": "v1"
+            },
+            {
+              "date": "2027-02-26",
+              "day": "Fri",
+              "n": 1,
+              "median": 0.3269,
+              "p25": 0.3269,
+              "pct_ge_075": 0.0,
+              "invalid": 0,
+              "tba_rate": 0.0,
+              "weights_version": "v1"
+            },
+            {
+              "date": "2027-02-27",
+              "day": "Sat",
+              "n": 1,
+              "median": 0.3269,
+              "p25": 0.3269,
+              "pct_ge_075": 0.0,
+              "invalid": 0,
+              "tba_rate": 0.0,
+              "weights_version": "v1"
+            },
+            {
+              "date": "2027-02-28",
+              "day": "Sun",
+              "n": 0,
+              "median": 0.0,
+              "p25": 0.0,
+              "pct_ge_075": 0.0,
+              "invalid": 0,
+              "tba_rate": 0.0,
+              "weights_version": "v1"
+            }
+          ]
+        },
+        {
+          "week_start": "2027-02-15",
+          "n": 2,
+          "summary": {
+            "n": 2,
+            "median": 0.3269,
+            "p25": 0.3269,
+            "pct_ge_075": 0.0,
+            "invalid": 0,
+            "tba_rate": 0.0,
+            "by_field_fixable": {
+              "category": 2,
+              "start": 2,
+              "address": 2,
+              "why": 2,
+              "summary": 2,
+              "price": 2,
+              "tags": 2,
+              "sources": 2,
+              "tickets": 2,
+              "coords": 2,
+              "image": 2
+            },
+            "weights_version": "v1"
+          },
+          "undated": 0,
+          "days": [
+            {
+              "date": "2027-02-15",
+              "day": "Mon",
+              "n": 0,
+              "median": 0.0,
+              "p25": 0.0,
+              "pct_ge_075": 0.0,
+              "invalid": 0,
+              "tba_rate": 0.0,
+              "weights_version": "v1"
+            },
+            {
+              "date": "2027-02-16",
+              "day": "Tue",
+              "n": 0,
+              "median": 0.0,
+              "p25": 0.0,
+              "pct_ge_075": 0.0,
+              "invalid": 0,
+              "tba_rate": 0.0,
+              "weights_version": "v1"
+            },
+            {
+              "date": "2027-02-17",
+              "day": "Wed",
+              "n": 0,
+              "median": 0.0,
+              "p25": 0.0,
+              "pct_ge_075": 0.0,
+              "invalid": 0,
+              "tba_rate": 0.0,
+              "weights_version": "v1"
+            },
+            {
+              "date": "2027-02-18",
+              "day": "Thu",
+              "n": 0,
+              "median": 0.0,
+              "p25": 0.0,
+              "pct_ge_075": 0.0,
+              "invalid": 0,
+              "tba_rate": 0.0,
+              "weights_version": "v1"
+            },
+            {
+              "date": "2027-02-19",
+              "day": "Fri",
+              "n": 1,
+              "median": 0.3269,
+              "p25": 0.3269,
+              "pct_ge_075": 0.0,
+              "invalid": 0,
+              "tba_rate": 0.0,
+              "weights_version": "v1"
+            },
+            {
+              "date": "2027-02-20",
+              "day": "Sat",
+              "n": 1,
+              "median": 0.3269,
+              "p25": 0.3269,
+              "pct_ge_075": 0.0,
+              "invalid": 0,
+              "tba_rate": 0.0,
+              "weights_version": "v1"
+            },
+            {
+              "date": "2027-02-21",
+              "day": "Sun",
+              "n": 0,
+              "median": 0.0,
+              "p25": 0.0,
+              "pct_ge_075": 0.0,
+              "invalid": 0,
+              "tba_rate": 0.0,
+              "weights_version": "v1"
+            }
+          ]
+        },
+        {
+          "week_start": "2027-02-01",
+          "n": 5,
+          "summary": {
+            "n": 5,
+            "median": 0.3269,
+            "p25": 0.3269,
+            "pct_ge_075": 0.0,
+            "invalid": 0,
+            "tba_rate": 0.0,
+            "by_field_fixable": {
+              "category": 5,
+              "start": 5,
+              "address": 5,
+              "why": 5,
+              "summary": 5,
+              "price": 5,
+              "tags": 5,
+              "sources": 5,
+              "tickets": 5,
+              "coords": 5,
+              "image": 5
+            },
+            "weights_version": "v1"
+          },
+          "undated": 0,
+          "days": [
+            {
+              "date": "2027-02-01",
+              "day": "Mon",
+              "n": 0,
+              "median": 0.0,
+              "p25": 0.0,
+              "pct_ge_075": 0.0,
+              "invalid": 0,
+              "tba_rate": 0.0,
+              "weights_version": "v1"
+            },
+            {
+              "date": "2027-02-02",
+              "day": "Tue",
+              "n": 0,
+              "median": 0.0,
+              "p25": 0.0,
+              "pct_ge_075": 0.0,
+              "invalid": 0,
+              "tba_rate": 0.0,
+              "weights_version": "v1"
+            },
+            {
+              "date": "2027-02-03",
+              "day": "Wed",
+              "n": 0,
+              "median": 0.0,
+              "p25": 0.0,
+              "pct_ge_075": 0.0,
+              "invalid": 0,
+              "tba_rate": 0.0,
+              "weights_version": "v1"
+            },
+            {
+              "date": "2027-02-04",
+              "day": "Thu",
+              "n": 0,
+              "median": 0.0,
+              "p25": 0.0,
+              "pct_ge_075": 0.0,
+              "invalid": 0,
+              "tba_rate": 0.0,
+              "weights_version": "v1"
+            },
+            {
+              "date": "2027-02-05",
+              "day": "Fri",
+              "n": 2,
+              "median": 0.3269,
+              "p25": 0.3269,
+              "pct_ge_075": 0.0,
+              "invalid": 0,
+              "tba_rate": 0.0,
+              "weights_version": "v1"
+            },
+            {
+              "date": "2027-02-06",
+              "day": "Sat",
+              "n": 3,
+              "median": 0.3269,
+              "p25": 0.3269,
+              "pct_ge_075": 0.0,
+              "invalid": 0,
+              "tba_rate": 0.0,
+              "weights_version": "v1"
+            },
+            {
+              "date": "2027-02-07",
+              "day": "Sun",
+              "n": 0,
+              "median": 0.0,
+              "p25": 0.0,
+              "pct_ge_075": 0.0,
+              "invalid": 0,
+              "tba_rate": 0.0,
+              "weights_version": "v1"
+            }
+          ]
+        },
+        {
+          "week_start": "2027-01-25",
+          "n": 4,
+          "summary": {
+            "n": 4,
+            "median": 0.3269,
+            "p25": 0.3269,
+            "pct_ge_075": 0.0,
+            "invalid": 0,
+            "tba_rate": 0.0,
+            "by_field_fixable": {
+              "category": 4,
+              "start": 4,
+              "address": 4,
+              "why": 4,
+              "summary": 4,
+              "price": 4,
+              "tags": 4,
+              "sources": 4,
+              "tickets": 4,
+              "coords": 4,
+              "image": 4
+            },
+            "weights_version": "v1"
+          },
+          "undated": 0,
+          "days": [
+            {
+              "date": "2027-01-25",
+              "day": "Mon",
+              "n": 0,
+              "median": 0.0,
+              "p25": 0.0,
+              "pct_ge_075": 0.0,
+              "invalid": 0,
+              "tba_rate": 0.0,
+              "weights_version": "v1"
+            },
+            {
+              "date": "2027-01-26",
+              "day": "Tue",
+              "n": 0,
+              "median": 0.0,
+              "p25": 0.0,
+              "pct_ge_075": 0.0,
+              "invalid": 0,
+              "tba_rate": 0.0,
+              "weights_version": "v1"
+            },
+            {
+              "date": "2027-01-27",
+              "day": "Wed",
+              "n": 0,
+              "median": 0.0,
+              "p25": 0.0,
+              "pct_ge_075": 0.0,
+              "invalid": 0,
+              "tba_rate": 0.0,
+              "weights_version": "v1"
+            },
+            {
+              "date": "2027-01-28",
+              "day": "Thu",
+              "n": 0,
+              "median": 0.0,
+              "p25": 0.0,
+              "pct_ge_075": 0.0,
+              "invalid": 0,
+              "tba_rate": 0.0,
+              "weights_version": "v1"
+            },
+            {
+              "date": "2027-01-29",
+              "day": "Fri",
+              "n": 2,
+              "median": 0.3269,
+              "p25": 0.3269,
+              "pct_ge_075": 0.0,
+              "invalid": 0,
+              "tba_rate": 0.0,
+              "weights_version": "v1"
+            },
+            {
+              "date": "2027-01-30",
+              "day": "Sat",
+              "n": 2,
+              "median": 0.3269,
+              "p25": 0.3269,
+              "pct_ge_075": 0.0,
+              "invalid": 0,
+              "tba_rate": 0.0,
+              "weights_version": "v1"
+            },
+            {
+              "date": "2027-01-31",
+              "day": "Sun",
+              "n": 0,
+              "median": 0.0,
+              "p25": 0.0,
+              "pct_ge_075": 0.0,
+              "invalid": 0,
+              "tba_rate": 0.0,
+              "weights_version": "v1"
+            }
+          ]
+        },
+        {
+          "week_start": "2027-01-18",
+          "n": 3,
+          "summary": {
+            "n": 3,
+            "median": 0.3269,
+            "p25": 0.3269,
+            "pct_ge_075": 0.0,
+            "invalid": 0,
+            "tba_rate": 0.0,
+            "by_field_fixable": {
+              "category": 3,
+              "start": 3,
+              "address": 3,
+              "why": 3,
+              "summary": 3,
+              "price": 3,
+              "tags": 3,
+              "sources": 3,
+              "tickets": 3,
+              "coords": 3,
+              "image": 3
+            },
+            "weights_version": "v1"
+          },
+          "undated": 0,
+          "days": [
+            {
+              "date": "2027-01-18",
+              "day": "Mon",
+              "n": 0,
+              "median": 0.0,
+              "p25": 0.0,
+              "pct_ge_075": 0.0,
+              "invalid": 0,
+              "tba_rate": 0.0,
+              "weights_version": "v1"
+            },
+            {
+              "date": "2027-01-19",
+              "day": "Tue",
+              "n": 0,
+              "median": 0.0,
+              "p25": 0.0,
+              "pct_ge_075": 0.0,
+              "invalid": 0,
+              "tba_rate": 0.0,
+              "weights_version": "v1"
+            },
+            {
+              "date": "2027-01-20",
+              "day": "Wed",
+              "n": 0,
+              "median": 0.0,
+              "p25": 0.0,
+              "pct_ge_075": 0.0,
+              "invalid": 0,
+              "tba_rate": 0.0,
+              "weights_version": "v1"
+            },
+            {
+              "date": "2027-01-21",
+              "day": "Thu",
+              "n": 0,
+              "median": 0.0,
+              "p25": 0.0,
+              "pct_ge_075": 0.0,
+              "invalid": 0,
+              "tba_rate": 0.0,
+              "weights_version": "v1"
+            },
+            {
+              "date": "2027-01-22",
+              "day": "Fri",
+              "n": 2,
+              "median": 0.3269,
+              "p25": 0.3269,
+              "pct_ge_075": 0.0,
+              "invalid": 0,
+              "tba_rate": 0.0,
+              "weights_version": "v1"
+            },
+            {
+              "date": "2027-01-23",
+              "day": "Sat",
+              "n": 1,
+              "median": 0.3269,
+              "p25": 0.3269,
+              "pct_ge_075": 0.0,
+              "invalid": 0,
+              "tba_rate": 0.0,
+              "weights_version": "v1"
+            },
+            {
+              "date": "2027-01-24",
+              "day": "Sun",
+              "n": 0,
+              "median": 0.0,
+              "p25": 0.0,
+              "pct_ge_075": 0.0,
+              "invalid": 0,
+              "tba_rate": 0.0,
+              "weights_version": "v1"
+            }
+          ]
+        },
+        {
+          "week_start": "2027-01-11",
+          "n": 5,
+          "summary": {
+            "n": 5,
+            "median": 0.3269,
+            "p25": 0.3269,
+            "pct_ge_075": 0.0,
+            "invalid": 0,
+            "tba_rate": 0.0,
+            "by_field_fixable": {
+              "category": 5,
+              "start": 5,
+              "address": 5,
+              "why": 5,
+              "summary": 5,
+              "price": 5,
+              "tags": 5,
+              "sources": 5,
+              "tickets": 5,
+              "coords": 5,
+              "image": 5
+            },
+            "weights_version": "v1"
+          },
+          "undated": 0,
+          "days": [
+            {
+              "date": "2027-01-11",
+              "day": "Mon",
+              "n": 0,
+              "median": 0.0,
+              "p25": 0.0,
+              "pct_ge_075": 0.0,
+              "invalid": 0,
+              "tba_rate": 0.0,
+              "weights_version": "v1"
+            },
+            {
+              "date": "2027-01-12",
+              "day": "Tue",
+              "n": 0,
+              "median": 0.0,
+              "p25": 0.0,
+              "pct_ge_075": 0.0,
+              "invalid": 0,
+              "tba_rate": 0.0,
+              "weights_version": "v1"
+            },
+            {
+              "date": "2027-01-13",
+              "day": "Wed",
+              "n": 0,
+              "median": 0.0,
+              "p25": 0.0,
+              "pct_ge_075": 0.0,
+              "invalid": 0,
+              "tba_rate": 0.0,
+              "weights_version": "v1"
+            },
+            {
+              "date": "2027-01-14",
+              "day": "Thu",
+              "n": 0,
+              "median": 0.0,
+              "p25": 0.0,
+              "pct_ge_075": 0.0,
+              "invalid": 0,
+              "tba_rate": 0.0,
+              "weights_version": "v1"
+            },
+            {
+              "date": "2027-01-15",
+              "day": "Fri",
+              "n": 2,
+              "median": 0.3269,
+              "p25": 0.3269,
+              "pct_ge_075": 0.0,
+              "invalid": 0,
+              "tba_rate": 0.0,
+              "weights_version": "v1"
+            },
+            {
+              "date": "2027-01-16",
+              "day": "Sat",
+              "n": 3,
+              "median": 0.3269,
+              "p25": 0.3269,
+              "pct_ge_075": 0.0,
+              "invalid": 0,
+              "tba_rate": 0.0,
+              "weights_version": "v1"
+            },
+            {
+              "date": "2027-01-17",
+              "day": "Sun",
+              "n": 0,
+              "median": 0.0,
+              "p25": 0.0,
+              "pct_ge_075": 0.0,
+              "invalid": 0,
+              "tba_rate": 0.0,
+              "weights_version": "v1"
+            }
+          ]
+        },
+        {
+          "week_start": "2027-01-04",
+          "n": 3,
+          "summary": {
+            "n": 3,
+            "median": 0.3269,
+            "p25": 0.3269,
+            "pct_ge_075": 0.0,
+            "invalid": 0,
+            "tba_rate": 0.0,
+            "by_field_fixable": {
+              "category": 3,
+              "start": 3,
+              "address": 3,
+              "why": 3,
+              "summary": 3,
+              "price": 3,
+              "tags": 3,
+              "sources": 3,
+              "tickets": 3,
+              "coords": 3,
+              "image": 3
+            },
+            "weights_version": "v1"
+          },
+          "undated": 0,
+          "days": [
+            {
+              "date": "2027-01-04",
+              "day": "Mon",
+              "n": 0,
+              "median": 0.0,
+              "p25": 0.0,
+              "pct_ge_075": 0.0,
+              "invalid": 0,
+              "tba_rate": 0.0,
+              "weights_version": "v1"
+            },
+            {
+              "date": "2027-01-05",
+              "day": "Tue",
+              "n": 0,
+              "median": 0.0,
+              "p25": 0.0,
+              "pct_ge_075": 0.0,
+              "invalid": 0,
+              "tba_rate": 0.0,
+              "weights_version": "v1"
+            },
+            {
+              "date": "2027-01-06",
+              "day": "Wed",
+              "n": 0,
+              "median": 0.0,
+              "p25": 0.0,
+              "pct_ge_075": 0.0,
+              "invalid": 0,
+              "tba_rate": 0.0,
+              "weights_version": "v1"
+            },
+            {
+              "date": "2027-01-07",
+              "day": "Thu",
+              "n": 0,
+              "median": 0.0,
+              "p25": 0.0,
+              "pct_ge_075": 0.0,
+              "invalid": 0,
+              "tba_rate": 0.0,
+              "weights_version": "v1"
+            },
+            {
+              "date": "2027-01-08",
+              "day": "Fri",
+              "n": 1,
+              "median": 0.3269,
+              "p25": 0.3269,
+              "pct_ge_075": 0.0,
+              "invalid": 0,
+              "tba_rate": 0.0,
+              "weights_version": "v1"
+            },
+            {
+              "date": "2027-01-09",
+              "day": "Sat",
+              "n": 2,
+              "median": 0.3269,
+              "p25": 0.3269,
+              "pct_ge_075": 0.0,
+              "invalid": 0,
+              "tba_rate": 0.0,
+              "weights_version": "v1"
+            },
+            {
+              "date": "2027-01-10",
+              "day": "Sun",
+              "n": 0,
+              "median": 0.0,
+              "p25": 0.0,
+              "pct_ge_075": 0.0,
+              "invalid": 0,
+              "tba_rate": 0.0,
+              "weights_version": "v1"
+            }
+          ]
+        },
+        {
+          "week_start": "2026-12-28",
+          "n": 4,
+          "summary": {
+            "n": 4,
+            "median": 0.3269,
+            "p25": 0.3269,
+            "pct_ge_075": 0.0,
+            "invalid": 0,
+            "tba_rate": 0.0,
+            "by_field_fixable": {
+              "category": 4,
+              "start": 4,
+              "address": 4,
+              "why": 4,
+              "summary": 4,
+              "price": 4,
+              "tags": 4,
+              "sources": 4,
+              "tickets": 4,
+              "coords": 4,
+              "image": 4
+            },
+            "weights_version": "v1"
+          },
+          "undated": 0,
+          "days": [
+            {
+              "date": "2026-12-28",
+              "day": "Mon",
+              "n": 0,
+              "median": 0.0,
+              "p25": 0.0,
+              "pct_ge_075": 0.0,
+              "invalid": 0,
+              "tba_rate": 0.0,
+              "weights_version": "v1"
+            },
+            {
+              "date": "2026-12-29",
+              "day": "Tue",
+              "n": 0,
+              "median": 0.0,
+              "p25": 0.0,
+              "pct_ge_075": 0.0,
+              "invalid": 0,
+              "tba_rate": 0.0,
+              "weights_version": "v1"
+            },
+            {
+              "date": "2026-12-30",
+              "day": "Wed",
+              "n": 0,
+              "median": 0.0,
+              "p25": 0.0,
+              "pct_ge_075": 0.0,
+              "invalid": 0,
+              "tba_rate": 0.0,
+              "weights_version": "v1"
+            },
+            {
+              "date": "2026-12-31",
+              "day": "Thu",
+              "n": 2,
+              "median": 0.3269,
+              "p25": 0.3269,
+              "pct_ge_075": 0.0,
+              "invalid": 0,
+              "tba_rate": 0.0,
+              "weights_version": "v1"
+            },
+            {
+              "date": "2027-01-01",
+              "day": "Fri",
+              "n": 1,
+              "median": 0.3269,
+              "p25": 0.3269,
+              "pct_ge_075": 0.0,
+              "invalid": 0,
+              "tba_rate": 0.0,
+              "weights_version": "v1"
+            },
+            {
+              "date": "2027-01-02",
+              "day": "Sat",
+              "n": 1,
+              "median": 0.3269,
+              "p25": 0.3269,
+              "pct_ge_075": 0.0,
+              "invalid": 0,
+              "tba_rate": 0.0,
+              "weights_version": "v1"
+            },
+            {
+              "date": "2027-01-03",
+              "day": "Sun",
+              "n": 0,
+              "median": 0.0,
+              "p25": 0.0,
+              "pct_ge_075": 0.0,
+              "invalid": 0,
+              "tba_rate": 0.0,
+              "weights_version": "v1"
+            }
+          ]
+        },
+        {
+          "week_start": "2026-12-14",
+          "n": 13,
+          "summary": {
+            "n": 13,
+            "median": 0.3269,
+            "p25": 0.3269,
+            "pct_ge_075": 0.0,
+            "invalid": 0,
+            "tba_rate": 0.0,
+            "by_field_fixable": {
+              "category": 13,
+              "start": 13,
+              "address": 13,
+              "why": 13,
+              "summary": 13,
+              "price": 13,
+              "tags": 13,
+              "sources": 13,
+              "tickets": 13,
+              "coords": 13,
+              "image": 13
+            },
+            "weights_version": "v1"
+          },
+          "undated": 0,
+          "days": [
+            {
+              "date": "2026-12-14",
+              "day": "Mon",
+              "n": 0,
+              "median": 0.0,
+              "p25": 0.0,
+              "pct_ge_075": 0.0,
+              "invalid": 0,
+              "tba_rate": 0.0,
+              "weights_version": "v1"
+            },
+            {
+              "date": "2026-12-15",
+              "day": "Tue",
+              "n": 0,
+              "median": 0.0,
+              "p25": 0.0,
+              "pct_ge_075": 0.0,
+              "invalid": 0,
+              "tba_rate": 0.0,
+              "weights_version": "v1"
+            },
+            {
+              "date": "2026-12-16",
+              "day": "Wed",
+              "n": 0,
+              "median": 0.0,
+              "p25": 0.0,
+              "pct_ge_075": 0.0,
+              "invalid": 0,
+              "tba_rate": 0.0,
+              "weights_version": "v1"
+            },
+            {
+              "date": "2026-12-17",
+              "day": "Thu",
+              "n": 1,
+              "median": 0.3269,
+              "p25": 0.3269,
+              "pct_ge_075": 0.0,
+              "invalid": 0,
+              "tba_rate": 0.0,
+              "weights_version": "v1"
+            },
+            {
+              "date": "2026-12-18",
+              "day": "Fri",
+              "n": 4,
+              "median": 0.3269,
+              "p25": 0.3269,
+              "pct_ge_075": 0.0,
+              "invalid": 0,
+              "tba_rate": 0.0,
+              "weights_version": "v1"
+            },
+            {
+              "date": "2026-12-19",
+              "day": "Sat",
+              "n": 7,
+              "median": 0.3269,
+              "p25": 0.3269,
+              "pct_ge_075": 0.0,
+              "invalid": 0,
+              "tba_rate": 0.0,
+              "weights_version": "v1"
+            },
+            {
+              "date": "2026-12-20",
+              "day": "Sun",
+              "n": 1,
+              "median": 0.3269,
+              "p25": 0.3269,
+              "pct_ge_075": 0.0,
+              "invalid": 0,
+              "tba_rate": 0.0,
+              "weights_version": "v1"
+            }
+          ]
+        },
+        {
+          "week_start": "2026-12-07",
+          "n": 12,
+          "summary": {
+            "n": 12,
+            "median": 0.3269,
+            "p25": 0.3269,
+            "pct_ge_075": 0.0,
+            "invalid": 0,
+            "tba_rate": 0.1667,
+            "by_field_fixable": {
+              "category": 12,
+              "start": 12,
+              "why": 12,
+              "summary": 12,
+              "price": 12,
+              "tags": 12,
+              "sources": 12,
+              "tickets": 12,
+              "image": 12,
+              "address": 10,
+              "coords": 10
+            },
+            "weights_version": "v1"
+          },
+          "undated": 0,
+          "days": [
+            {
+              "date": "2026-12-07",
+              "day": "Mon",
+              "n": 0,
+              "median": 0.0,
+              "p25": 0.0,
+              "pct_ge_075": 0.0,
+              "invalid": 0,
+              "tba_rate": 0.0,
+              "weights_version": "v1"
+            },
+            {
+              "date": "2026-12-08",
+              "day": "Tue",
+              "n": 0,
+              "median": 0.0,
+              "p25": 0.0,
+              "pct_ge_075": 0.0,
+              "invalid": 0,
+              "tba_rate": 0.0,
+              "weights_version": "v1"
+            },
+            {
+              "date": "2026-12-09",
+              "day": "Wed",
+              "n": 1,
+              "median": 0.3269,
+              "p25": 0.3269,
+              "pct_ge_075": 0.0,
+              "invalid": 0,
+              "tba_rate": 0.0,
+              "weights_version": "v1"
+            },
+            {
+              "date": "2026-12-10",
+              "day": "Thu",
+              "n": 2,
+              "median": 0.3269,
+              "p25": 0.3269,
+              "pct_ge_075": 0.0,
+              "invalid": 0,
+              "tba_rate": 0.0,
+              "weights_version": "v1"
+            },
+            {
+              "date": "2026-12-11",
+              "day": "Fri",
+              "n": 4,
+              "median": 0.3269,
+              "p25": 0.3269,
+              "pct_ge_075": 0.0,
+              "invalid": 0,
+              "tba_rate": 0.25,
+              "weights_version": "v1"
+            },
+            {
+              "date": "2026-12-12",
+              "day": "Sat",
+              "n": 5,
+              "median": 0.3269,
+              "p25": 0.3269,
+              "pct_ge_075": 0.0,
+              "invalid": 0,
+              "tba_rate": 0.2,
+              "weights_version": "v1"
+            },
+            {
+              "date": "2026-12-13",
+              "day": "Sun",
+              "n": 0,
+              "median": 0.0,
+              "p25": 0.0,
+              "pct_ge_075": 0.0,
+              "invalid": 0,
+              "tba_rate": 0.0,
+              "weights_version": "v1"
+            }
+          ]
+        },
+        {
+          "week_start": "2026-11-30",
+          "n": 20,
+          "summary": {
+            "n": 20,
+            "median": 0.3269,
+            "p25": 0.3269,
+            "pct_ge_075": 0.0,
+            "invalid": 0,
+            "tba_rate": 0.05,
+            "by_field_fixable": {
+              "category": 20,
+              "start": 20,
+              "why": 20,
+              "summary": 20,
+              "price": 20,
+              "tags": 20,
+              "sources": 20,
+              "tickets": 20,
+              "image": 20,
+              "address": 19,
+              "coords": 19
+            },
+            "weights_version": "v1"
+          },
+          "undated": 0,
+          "days": [
+            {
+              "date": "2026-11-30",
+              "day": "Mon",
+              "n": 0,
+              "median": 0.0,
+              "p25": 0.0,
+              "pct_ge_075": 0.0,
+              "invalid": 0,
+              "tba_rate": 0.0,
+              "weights_version": "v1"
+            },
+            {
+              "date": "2026-12-01",
+              "day": "Tue",
+              "n": 0,
+              "median": 0.0,
+              "p25": 0.0,
+              "pct_ge_075": 0.0,
+              "invalid": 0,
+              "tba_rate": 0.0,
+              "weights_version": "v1"
+            },
+            {
+              "date": "2026-12-02",
+              "day": "Wed",
+              "n": 0,
+              "median": 0.0,
+              "p25": 0.0,
+              "pct_ge_075": 0.0,
+              "invalid": 0,
+              "tba_rate": 0.0,
+              "weights_version": "v1"
+            },
+            {
+              "date": "2026-12-03",
+              "day": "Thu",
+              "n": 1,
+              "median": 0.3269,
+              "p25": 0.3269,
+              "pct_ge_075": 0.0,
+              "invalid": 0,
+              "tba_rate": 0.0,
+              "weights_version": "v1"
+            },
+            {
+              "date": "2026-12-04",
+              "day": "Fri",
+              "n": 8,
+              "median": 0.3269,
+              "p25": 0.3269,
+              "pct_ge_075": 0.0,
+              "invalid": 0,
+              "tba_rate": 0.0,
+              "weights_version": "v1"
+            },
+            {
+              "date": "2026-12-05",
+              "day": "Sat",
+              "n": 9,
+              "median": 0.3269,
+              "p25": 0.3269,
+              "pct_ge_075": 0.0,
+              "invalid": 0,
+              "tba_rate": 0.1111,
+              "weights_version": "v1"
+            },
+            {
+              "date": "2026-12-06",
+              "day": "Sun",
+              "n": 2,
+              "median": 0.3269,
+              "p25": 0.3269,
+              "pct_ge_075": 0.0,
+              "invalid": 0,
+              "tba_rate": 0.0,
+              "weights_version": "v1"
+            }
+          ]
+        },
+        {
+          "week_start": "2026-11-23",
+          "n": 35,
+          "summary": {
+            "n": 35,
+            "median": 0.3269,
+            "p25": 0.3269,
+            "pct_ge_075": 0.0,
+            "invalid": 0,
+            "tba_rate": 0.1143,
+            "by_field_fixable": {
+              "category": 35,
+              "start": 35,
+              "why": 35,
+              "summary": 35,
+              "price": 35,
+              "tags": 35,
+              "sources": 35,
+              "tickets": 35,
+              "image": 35,
+              "address": 31,
+              "coords": 31,
+              "time": 2
+            },
+            "weights_version": "v1"
+          },
+          "undated": 0,
+          "days": [
+            {
+              "date": "2026-11-23",
+              "day": "Mon",
+              "n": 0,
+              "median": 0.0,
+              "p25": 0.0,
+              "pct_ge_075": 0.0,
+              "invalid": 0,
+              "tba_rate": 0.0,
+              "weights_version": "v1"
+            },
+            {
+              "date": "2026-11-24",
+              "day": "Tue",
+              "n": 1,
+              "median": 0.3269,
+              "p25": 0.3269,
+              "pct_ge_075": 0.0,
+              "invalid": 0,
+              "tba_rate": 0.0,
+              "weights_version": "v1"
+            },
+            {
+              "date": "2026-11-25",
+              "day": "Wed",
+              "n": 11,
+              "median": 0.3269,
+              "p25": 0.3269,
+              "pct_ge_075": 0.0,
+              "invalid": 0,
+              "tba_rate": 0.1818,
+              "weights_version": "v1"
+            },
+            {
+              "date": "2026-11-26",
+              "day": "Thu",
+              "n": 1,
+              "median": 0.3269,
+              "p25": 0.3269,
+              "pct_ge_075": 0.0,
+              "invalid": 0,
+              "tba_rate": 0.0,
+              "weights_version": "v1"
+            },
+            {
+              "date": "2026-11-27",
+              "day": "Fri",
+              "n": 8,
+              "median": 0.3269,
+              "p25": 0.3269,
+              "pct_ge_075": 0.0,
+              "invalid": 0,
+              "tba_rate": 0.125,
+              "weights_version": "v1"
+            },
+            {
+              "date": "2026-11-28",
+              "day": "Sat",
+              "n": 13,
+              "median": 0.3269,
+              "p25": 0.3269,
+              "pct_ge_075": 0.0,
+              "invalid": 0,
+              "tba_rate": 0.0769,
+              "weights_version": "v1"
+            },
+            {
+              "date": "2026-11-29",
+              "day": "Sun",
+              "n": 1,
+              "median": 0.3269,
+              "p25": 0.3269,
+              "pct_ge_075": 0.0,
+              "invalid": 0,
+              "tba_rate": 0.0,
+              "weights_version": "v1"
+            }
+          ]
+        },
+        {
+          "week_start": "2026-11-16",
+          "n": 41,
+          "summary": {
+            "n": 41,
+            "median": 0.3269,
+            "p25": 0.3269,
+            "pct_ge_075": 0.0244,
+            "invalid": 0,
+            "tba_rate": 0.1707,
+            "by_field_fixable": {
+              "start": 41,
+              "category": 40,
+              "why": 40,
+              "summary": 40,
+              "price": 40,
+              "tags": 40,
+              "sources": 40,
+              "tickets": 40,
+              "image": 40,
+              "coords": 34,
+              "address": 33,
+              "time": 2
             },
             "weights_version": "v1"
           },
@@ -92,6 +2116,102 @@
             {
               "date": "2026-11-17",
               "day": "Tue",
+              "n": 2,
+              "median": 0.3269,
+              "p25": 0.3269,
+              "pct_ge_075": 0.0,
+              "invalid": 0,
+              "tba_rate": 0.0,
+              "weights_version": "v1"
+            },
+            {
+              "date": "2026-11-18",
+              "day": "Wed",
+              "n": 2,
+              "median": 0.3269,
+              "p25": 0.3269,
+              "pct_ge_075": 0.0,
+              "invalid": 0,
+              "tba_rate": 0.0,
+              "weights_version": "v1"
+            },
+            {
+              "date": "2026-11-19",
+              "day": "Thu",
+              "n": 3,
+              "median": 0.3269,
+              "p25": 0.3269,
+              "pct_ge_075": 0.0,
+              "invalid": 0,
+              "tba_rate": 0.0,
+              "weights_version": "v1"
+            },
+            {
+              "date": "2026-11-20",
+              "day": "Fri",
+              "n": 14,
+              "median": 0.3269,
+              "p25": 0.3269,
+              "pct_ge_075": 0.0714,
+              "invalid": 0,
+              "tba_rate": 0.2143,
+              "weights_version": "v1"
+            },
+            {
+              "date": "2026-11-21",
+              "day": "Sat",
+              "n": 16,
+              "median": 0.3269,
+              "p25": 0.3269,
+              "pct_ge_075": 0.0,
+              "invalid": 0,
+              "tba_rate": 0.1875,
+              "weights_version": "v1"
+            },
+            {
+              "date": "2026-11-22",
+              "day": "Sun",
+              "n": 4,
+              "median": 0.3269,
+              "p25": 0.3269,
+              "pct_ge_075": 0.0,
+              "invalid": 0,
+              "tba_rate": 0.25,
+              "weights_version": "v1"
+            }
+          ]
+        },
+        {
+          "week_start": "2026-11-09",
+          "n": 66,
+          "summary": {
+            "n": 66,
+            "median": 0.3269,
+            "p25": 0.3269,
+            "pct_ge_075": 0.0,
+            "invalid": 0,
+            "tba_rate": 0.1667,
+            "by_field_fixable": {
+              "category": 66,
+              "start": 66,
+              "why": 66,
+              "summary": 66,
+              "price": 66,
+              "tags": 66,
+              "sources": 66,
+              "tickets": 66,
+              "image": 66,
+              "address": 55,
+              "coords": 55,
+              "time": 2
+            },
+            "weights_version": "v1"
+          },
+          "undated": 0,
+          "days": [
+            {
+              "date": "2026-11-09",
+              "day": "Mon",
               "n": 0,
               "median": 0.0,
               "p25": 0.0,
@@ -101,7 +2221,124 @@
               "weights_version": "v1"
             },
             {
-              "date": "2026-11-18",
+              "date": "2026-11-10",
+              "day": "Tue",
+              "n": 1,
+              "median": 0.3269,
+              "p25": 0.3269,
+              "pct_ge_075": 0.0,
+              "invalid": 0,
+              "tba_rate": 0.0,
+              "weights_version": "v1"
+            },
+            {
+              "date": "2026-11-11",
+              "day": "Wed",
+              "n": 3,
+              "median": 0.3269,
+              "p25": 0.3269,
+              "pct_ge_075": 0.0,
+              "invalid": 0,
+              "tba_rate": 0.0,
+              "weights_version": "v1"
+            },
+            {
+              "date": "2026-11-12",
+              "day": "Thu",
+              "n": 8,
+              "median": 0.3269,
+              "p25": 0.3269,
+              "pct_ge_075": 0.0,
+              "invalid": 0,
+              "tba_rate": 0.0,
+              "weights_version": "v1"
+            },
+            {
+              "date": "2026-11-13",
+              "day": "Fri",
+              "n": 21,
+              "median": 0.3269,
+              "p25": 0.3269,
+              "pct_ge_075": 0.0,
+              "invalid": 0,
+              "tba_rate": 0.1905,
+              "weights_version": "v1"
+            },
+            {
+              "date": "2026-11-14",
+              "day": "Sat",
+              "n": 28,
+              "median": 0.3269,
+              "p25": 0.3269,
+              "pct_ge_075": 0.0,
+              "invalid": 0,
+              "tba_rate": 0.1786,
+              "weights_version": "v1"
+            },
+            {
+              "date": "2026-11-15",
+              "day": "Sun",
+              "n": 5,
+              "median": 0.3269,
+              "p25": 0.3269,
+              "pct_ge_075": 0.0,
+              "invalid": 0,
+              "tba_rate": 0.4,
+              "weights_version": "v1"
+            }
+          ]
+        },
+        {
+          "week_start": "2026-11-02",
+          "n": 56,
+          "summary": {
+            "n": 56,
+            "median": 0.3269,
+            "p25": 0.3269,
+            "pct_ge_075": 0.0,
+            "invalid": 0,
+            "tba_rate": 0.1429,
+            "by_field_fixable": {
+              "category": 56,
+              "start": 56,
+              "why": 56,
+              "summary": 56,
+              "price": 56,
+              "tags": 56,
+              "sources": 56,
+              "tickets": 56,
+              "image": 56,
+              "address": 48,
+              "coords": 48
+            },
+            "weights_version": "v1"
+          },
+          "undated": 0,
+          "days": [
+            {
+              "date": "2026-11-02",
+              "day": "Mon",
+              "n": 1,
+              "median": 0.3269,
+              "p25": 0.3269,
+              "pct_ge_075": 0.0,
+              "invalid": 0,
+              "tba_rate": 0.0,
+              "weights_version": "v1"
+            },
+            {
+              "date": "2026-11-03",
+              "day": "Tue",
+              "n": 1,
+              "median": 0.3269,
+              "p25": 0.3269,
+              "pct_ge_075": 0.0,
+              "invalid": 0,
+              "tba_rate": 0.0,
+              "weights_version": "v1"
+            },
+            {
+              "date": "2026-11-04",
               "day": "Wed",
               "n": 0,
               "median": 0.0,
@@ -112,47 +2349,156 @@
               "weights_version": "v1"
             },
             {
-              "date": "2026-11-19",
+              "date": "2026-11-05",
               "day": "Thu",
-              "n": 0,
-              "median": 0.0,
-              "p25": 0.0,
+              "n": 5,
+              "median": 0.3269,
+              "p25": 0.3269,
               "pct_ge_075": 0.0,
               "invalid": 0,
               "tba_rate": 0.0,
               "weights_version": "v1"
             },
             {
-              "date": "2026-11-20",
+              "date": "2026-11-06",
               "day": "Fri",
-              "n": 1,
-              "median": 0.9127,
-              "p25": 0.9127,
-              "pct_ge_075": 1.0,
+              "n": 24,
+              "median": 0.3269,
+              "p25": 0.3269,
+              "pct_ge_075": 0.0,
               "invalid": 0,
-              "tba_rate": 0.0,
+              "tba_rate": 0.125,
               "weights_version": "v1"
             },
             {
-              "date": "2026-11-21",
+              "date": "2026-11-07",
               "day": "Sat",
-              "n": 0,
-              "median": 0.0,
-              "p25": 0.0,
+              "n": 20,
+              "median": 0.3269,
+              "p25": 0.3269,
+              "pct_ge_075": 0.0,
+              "invalid": 0,
+              "tba_rate": 0.2,
+              "weights_version": "v1"
+            },
+            {
+              "date": "2026-11-08",
+              "day": "Sun",
+              "n": 5,
+              "median": 0.3269,
+              "p25": 0.3269,
+              "pct_ge_075": 0.0,
+              "invalid": 0,
+              "tba_rate": 0.2,
+              "weights_version": "v1"
+            }
+          ]
+        },
+        {
+          "week_start": "2026-10-26",
+          "n": 148,
+          "summary": {
+            "n": 148,
+            "median": 0.3269,
+            "p25": 0.3269,
+            "pct_ge_075": 0.0,
+            "invalid": 0,
+            "tba_rate": 0.2703,
+            "by_field_fixable": {
+              "category": 148,
+              "start": 148,
+              "why": 148,
+              "summary": 148,
+              "price": 148,
+              "tags": 148,
+              "sources": 148,
+              "tickets": 148,
+              "image": 148,
+              "address": 108,
+              "coords": 108,
+              "area": 23,
+              "time": 22,
+              "maps": 2
+            },
+            "weights_version": "v1"
+          },
+          "undated": 0,
+          "days": [
+            {
+              "date": "2026-10-26",
+              "day": "Mon",
+              "n": 2,
+              "median": 0.2308,
+              "p25": 0.2308,
               "pct_ge_075": 0.0,
               "invalid": 0,
               "tba_rate": 0.0,
               "weights_version": "v1"
             },
             {
-              "date": "2026-11-22",
-              "day": "Sun",
-              "n": 0,
-              "median": 0.0,
-              "p25": 0.0,
+              "date": "2026-10-27",
+              "day": "Tue",
+              "n": 2,
+              "median": 0.2308,
+              "p25": 0.2308,
               "pct_ge_075": 0.0,
               "invalid": 0,
               "tba_rate": 0.0,
+              "weights_version": "v1"
+            },
+            {
+              "date": "2026-10-28",
+              "day": "Wed",
+              "n": 5,
+              "median": 0.3269,
+              "p25": 0.2308,
+              "pct_ge_075": 0.0,
+              "invalid": 0,
+              "tba_rate": 0.0,
+              "weights_version": "v1"
+            },
+            {
+              "date": "2026-10-29",
+              "day": "Thu",
+              "n": 14,
+              "median": 0.3269,
+              "p25": 0.3269,
+              "pct_ge_075": 0.0,
+              "invalid": 0,
+              "tba_rate": 0.1429,
+              "weights_version": "v1"
+            },
+            {
+              "date": "2026-10-30",
+              "day": "Fri",
+              "n": 46,
+              "median": 0.3269,
+              "p25": 0.3269,
+              "pct_ge_075": 0.0,
+              "invalid": 0,
+              "tba_rate": 0.2826,
+              "weights_version": "v1"
+            },
+            {
+              "date": "2026-10-31",
+              "day": "Sat",
+              "n": 70,
+              "median": 0.3731,
+              "p25": 0.3269,
+              "pct_ge_075": 0.0,
+              "invalid": 0,
+              "tba_rate": 0.3,
+              "weights_version": "v1"
+            },
+            {
+              "date": "2026-11-01",
+              "day": "Sun",
+              "n": 9,
+              "median": 0.3269,
+              "p25": 0.2692,
+              "pct_ge_075": 0.0,
+              "invalid": 0,
+              "tba_rate": 0.4444,
               "weights_version": "v1"
             }
           ]
@@ -266,24 +2612,27 @@
         },
         {
           "week_start": "2026-10-12",
-          "n": 121,
+          "n": 145,
           "summary": {
-            "n": 121,
-            "median": 0.9164,
-            "p25": 0.8333,
-            "pct_ge_075": 0.8347,
+            "n": 145,
+            "median": 0.9042,
+            "p25": 0.6741,
+            "pct_ge_075": 0.6966,
             "invalid": 0,
-            "tba_rate": 0.1405,
+            "tba_rate": 0.1241,
             "by_field_fixable": {
-              "coords": 104,
-              "image": 43,
-              "tickets": 31,
-              "address": 19,
-              "price": 18,
-              "category": 17,
-              "sources": 17,
+              "coords": 127,
+              "image": 64,
+              "tickets": 55,
+              "category": 41,
+              "address": 41,
+              "sources": 41,
+              "price": 39,
+              "start": 29,
+              "why": 24,
+              "summary": 24,
+              "tags": 24,
               "maps": 6,
-              "start": 5,
               "time": 3
             },
             "weights_version": "v1"
@@ -293,10 +2642,10 @@
             {
               "date": "2026-10-12",
               "day": "Mon",
-              "n": 5,
-              "median": 0.7885,
-              "p25": 0.7407,
-              "pct_ge_075": 0.6,
+              "n": 7,
+              "median": 0.7407,
+              "p25": 0.6731,
+              "pct_ge_075": 0.4286,
               "invalid": 0,
               "tba_rate": 0.0,
               "weights_version": "v1"
@@ -315,82 +2664,83 @@
             {
               "date": "2026-10-14",
               "day": "Wed",
-              "n": 5,
-              "median": 0.9074,
-              "p25": 0.8778,
-              "pct_ge_075": 0.8,
+              "n": 7,
+              "median": 0.8778,
+              "p25": 0.6667,
+              "pct_ge_075": 0.5714,
               "invalid": 0,
-              "tba_rate": 0.2,
+              "tba_rate": 0.2857,
               "weights_version": "v1"
             },
             {
               "date": "2026-10-15",
               "day": "Thu",
-              "n": 13,
+              "n": 16,
               "median": 0.9074,
-              "p25": 0.8302,
-              "pct_ge_075": 0.8462,
+              "p25": 0.7391,
+              "pct_ge_075": 0.6875,
               "invalid": 0,
-              "tba_rate": 0.2308,
+              "tba_rate": 0.125,
               "weights_version": "v1"
             },
             {
               "date": "2026-10-16",
               "day": "Fri",
-              "n": 27,
-              "median": 0.9148,
-              "p25": 0.7925,
-              "pct_ge_075": 0.8148,
+              "n": 32,
+              "median": 0.8821,
+              "p25": 0.6792,
+              "pct_ge_075": 0.6875,
               "invalid": 0,
-              "tba_rate": 0.0741,
+              "tba_rate": 0.0625,
               "weights_version": "v1"
             },
             {
               "date": "2026-10-17",
               "day": "Sat",
-              "n": 48,
-              "median": 0.9434,
-              "p25": 0.8772,
-              "pct_ge_075": 0.875,
+              "n": 58,
+              "median": 0.9193,
+              "p25": 0.7111,
+              "pct_ge_075": 0.7241,
               "invalid": 0,
-              "tba_rate": 0.2083,
+              "tba_rate": 0.1897,
               "weights_version": "v1"
             },
             {
               "date": "2026-10-18",
               "day": "Sun",
-              "n": 20,
-              "median": 0.9434,
-              "p25": 0.8704,
-              "pct_ge_075": 0.9,
+              "n": 22,
+              "median": 0.9074,
+              "p25": 0.8654,
+              "pct_ge_075": 0.8182,
               "invalid": 0,
-              "tba_rate": 0.05,
+              "tba_rate": 0.0455,
               "weights_version": "v1"
             }
           ]
         },
         {
           "week_start": "2026-10-05",
-          "n": 148,
+          "n": 153,
           "summary": {
-            "n": 148,
-            "median": 0.9148,
-            "p25": 0.7885,
-            "pct_ge_075": 0.8446,
+            "n": 153,
+            "median": 0.9091,
+            "p25": 0.7667,
+            "pct_ge_075": 0.817,
             "invalid": 1,
-            "tba_rate": 0.1824,
+            "tba_rate": 0.1765,
             "by_field_fixable": {
-              "coords": 121,
-              "tickets": 53,
-              "image": 50,
-              "address": 41,
-              "category": 32,
-              "start": 15,
+              "coords": 126,
+              "tickets": 58,
+              "image": 56,
+              "address": 46,
+              "category": 37,
+              "start": 20,
+              "why": 15,
+              "summary": 15,
+              "tags": 15,
               "time": 13,
-              "why": 10,
-              "summary": 10,
-              "tags": 10,
-              "price": 8
+              "price": 13,
+              "sources": 5
             },
             "weights_version": "v1"
           },
@@ -410,10 +2760,10 @@
             {
               "date": "2026-10-06",
               "day": "Tue",
-              "n": 3,
+              "n": 4,
               "median": 0.9444,
               "p25": 0.7963,
-              "pct_ge_075": 1.0,
+              "pct_ge_075": 0.75,
               "invalid": 0,
               "tba_rate": 0.0,
               "weights_version": "v1"
@@ -421,21 +2771,21 @@
             {
               "date": "2026-10-07",
               "day": "Wed",
-              "n": 7,
+              "n": 8,
               "median": 0.9423,
-              "p25": 0.7963,
-              "pct_ge_075": 0.8571,
+              "p25": 0.7885,
+              "pct_ge_075": 0.75,
               "invalid": 0,
-              "tba_rate": 0.1429,
+              "tba_rate": 0.125,
               "weights_version": "v1"
             },
             {
               "date": "2026-10-08",
               "day": "Thu",
-              "n": 18,
+              "n": 19,
               "median": 0.9074,
-              "p25": 0.8346,
-              "pct_ge_075": 0.8333,
+              "p25": 0.7885,
+              "pct_ge_075": 0.7895,
               "invalid": 1,
               "tba_rate": 0.0,
               "weights_version": "v1"
@@ -454,23 +2804,23 @@
             {
               "date": "2026-10-10",
               "day": "Sat",
-              "n": 56,
+              "n": 57,
               "median": 0.8809,
-              "p25": 0.7667,
-              "pct_ge_075": 0.7679,
+              "p25": 0.7577,
+              "pct_ge_075": 0.7544,
               "invalid": 0,
-              "tba_rate": 0.25,
+              "tba_rate": 0.2456,
               "weights_version": "v1"
             },
             {
               "date": "2026-10-11",
               "day": "Sun",
-              "n": 16,
-              "median": 0.9074,
-              "p25": 0.7593,
-              "pct_ge_075": 0.8125,
+              "n": 17,
+              "median": 0.8333,
+              "p25": 0.7577,
+              "pct_ge_075": 0.7647,
               "invalid": 0,
-              "tba_rate": 0.125,
+              "tba_rate": 0.1176,
               "weights_version": "v1"
             }
           ]
