@@ -5727,16 +5727,20 @@
         "day": "Sat",
         "date": "2026-10-17",
         "time": "19:00",
-        "start": null,
-        "end": null,
+        "start": "19:00",
+        "end": "23:00",
         "area": "Los Angeles",
         "venue": "Mystery Shop (Oxnard)",
         "address": "",
-        "why": "",
-        "summary": "",
+        "why": "A budget-friendly evening option with a live performance on a Saturday.",
+        "summary": "Spike Hellis appears on October 17, 2026. Admission is $16.",
         "promoter": "",
-        "price": "",
-        "tags": [],
+        "price": "$16",
+        "tags": [
+          "live",
+          "paid",
+          "music"
+        ],
         "sources": [],
         "tickets": [],
         "maps": {
@@ -5749,7 +5753,7 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
