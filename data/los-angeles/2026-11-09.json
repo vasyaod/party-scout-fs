@@ -902,16 +902,19 @@
         "day": "Fri",
         "date": "2026-11-13",
         "time": "22:00",
-        "start": null,
-        "end": null,
+        "start": "22:00",
+        "end": "02:00",
         "area": "Los Angeles",
         "venue": "Sound Nightclub (Los Angeles)",
         "address": "",
-        "why": "",
-        "summary": "",
+        "why": "Affordable ticketed night out in Los Angeles.",
+        "summary": "Event titled Joss Dean is scheduled in Los Angeles on November 13, 2026; tickets start at $31.",
         "promoter": "",
-        "price": "",
-        "tags": [],
+        "price": "$31+",
+        "tags": [
+          "ticketed",
+          "upcoming"
+        ],
         "sources": [],
         "tickets": [],
         "maps": {
@@ -924,7 +927,7 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
