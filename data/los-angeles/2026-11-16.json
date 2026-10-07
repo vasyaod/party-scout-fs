@@ -1428,18 +1428,22 @@
         "day": "Sat",
         "date": "2026-11-21",
         "time": "21:00",
-        "start": null,
-        "end": null,
+        "start": "21:00",
+        "end": "02:00",
         "area": "Los Angeles",
         "venue": "The Men's Room Bar (Long Beach)",
         "address": "",
         "why": "",
         "summary": "",
         "promoter": "",
-        "price": "",
+        "price": "$15",
         "tags": [],
-        "sources": [],
-        "tickets": [],
+        "sources": [
+          "https://ra.co/events/2542664"
+        ],
+        "tickets": [
+          "https://ra.co/events/2542664"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=The%20Men%27s%20Room%20Bar%20%28Long%20Beach%29%2C%20Los%20Angeles",
           "apple": "https://maps.apple.com/?q=The%20Men%27s%20Room%20Bar%20%28Long%20Beach%29%2C%20Los%20Angeles"
@@ -1447,10 +1451,10 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://party-scout.app/img/gen/steam-towel-party-long-b-b9d4.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
