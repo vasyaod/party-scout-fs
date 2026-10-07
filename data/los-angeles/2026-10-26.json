@@ -498,23 +498,32 @@
         "id": "2026-10-26-music-gag-halloween-b76a1a",
         "eid": "gag-halloween-208f",
         "track": "music",
-        "category": "",
+        "category": "Nightclub",
         "name": "GAG Halloween",
         "day": "Thu",
         "date": "2026-10-29",
         "time": "22:00",
-        "start": null,
-        "end": null,
+        "start": "22:00",
+        "end": "02:00",
         "area": "Los Angeles",
         "venue": "Avalon Hollywood",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "1735 Vine Street, Hollywood, CA 90028",
+        "why": "To celebrate Halloween with costumes and a night out in Hollywood.",
+        "summary": "GAG Halloween is a Halloween party on October 29, 2026 at 1735 Vine Street in Hollywood. Admission is $20.",
         "promoter": "",
-        "price": "",
-        "tags": [],
-        "sources": [],
-        "tickets": [],
+        "price": "$20",
+        "tags": [
+          "halloween",
+          "party",
+          "costume",
+          "nightlife"
+        ],
+        "sources": [
+          "https://ra.co/events/2544646"
+        ],
+        "tickets": [
+          "https://ra.co/events/2544646"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Avalon%20Hollywood%2C%20Los%20Angeles",
           "apple": "https://maps.apple.com/?q=Avalon%20Hollywood%2C%20Los%20Angeles"
@@ -522,10 +531,10 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://party-scout.app/img/gen/gag-halloween-208f.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
