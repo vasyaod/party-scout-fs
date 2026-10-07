@@ -2771,16 +2771,21 @@
         "day": "Fri",
         "date": "2026-10-30",
         "time": "18:00",
-        "start": null,
-        "end": null,
+        "start": "18:00",
+        "end": "00:00",
         "area": "Los Angeles",
         "venue": "Ace*Mission Studios (Los Angeles)",
         "address": "",
-        "why": "",
-        "summary": "",
+        "why": "For a ticketed Halloween‑weekend night out in Los Angeles.",
+        "summary": "An event called \"w/ness: Anotr\" is scheduled for October 30, 2026 in Los Angeles; tickets are listed at $105–$308. Venue and start time are not provided.",
         "promoter": "",
-        "price": "",
-        "tags": [],
+        "price": "$105–$308",
+        "tags": [
+          "ticketed",
+          "nightlife",
+          "halloween",
+          "los-angeles"
+        ],
         "sources": [],
         "tickets": [],
         "maps": {
@@ -2793,7 +2798,7 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
