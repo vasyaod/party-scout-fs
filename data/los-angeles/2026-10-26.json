@@ -4249,18 +4249,22 @@
         "day": "Sat",
         "date": "2026-10-31",
         "time": "20:00",
-        "start": null,
-        "end": null,
+        "start": "20:00",
+        "end": "04:00",
         "area": "Los Angeles",
         "venue": "Coyote Studios",
-        "address": "",
+        "address": "3501 Union Pacific Ave, Los Angeles, CA 90023, United States",
         "why": "",
         "summary": "",
         "promoter": "",
-        "price": "",
+        "price": "$15",
         "tags": [],
-        "sources": [],
-        "tickets": [],
+        "sources": [
+          "https://ra.co/events/2521563"
+        ],
+        "tickets": [
+          "https://ra.co/events/2521563"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Coyote%20Studios%2C%20Los%20Angeles",
           "apple": "https://maps.apple.com/?q=Coyote%20Studios%2C%20Los%20Angeles"
@@ -4268,10 +4272,10 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://party-scout.app/img/gen/palacio-palace-halloween-bb9c.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
