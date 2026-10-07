@@ -176,7 +176,7 @@
         "end": "02:00",
         "area": "Los Angeles",
         "venue": "EOS Lounge (Santa Barbara)",
-        "address": "",
+        "address": "500 Anacapa St, Santa Barbara, CA 93101",
         "why": "Low-cost entry for an evening out in Los Angeles.",
         "summary": "A night titled \"Main Phase\" taking place in Los Angeles on 2026-11-05 with $11 admission.",
         "promoter": "",
@@ -186,8 +186,12 @@
           "paid",
           "nightlife"
         ],
-        "sources": [],
-        "tickets": [],
+        "sources": [
+          "https://dice.fm/event/ww9mar-main-phase-5th-nov-eos-lounge-santa-barbara-tickets"
+        ],
+        "tickets": [
+          "https://dice.fm/event/ww9mar-main-phase-5th-nov-eos-lounge-santa-barbara-tickets"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=EOS%20Lounge%20%28Santa%20Barbara%29%2C%20Los%20Angeles",
           "apple": "https://maps.apple.com/?q=EOS%20Lounge%20%28Santa%20Barbara%29%2C%20Los%20Angeles"
@@ -195,7 +199,7 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://party-scout.app/img/gen/main-phase-6062.jpg",
         "image_generated": false,
         "popularity": 0,
         "enriched": 1,
