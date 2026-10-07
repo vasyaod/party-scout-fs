@@ -3043,16 +3043,21 @@
         "day": "Sat",
         "date": "2026-10-31",
         "time": "20:00",
-        "start": null,
-        "end": null,
+        "start": "20:00",
+        "end": "02:00",
         "area": "Los Angeles",
         "venue": "Balboa Park (San Diego)",
         "address": "",
-        "why": "",
-        "summary": "",
+        "why": "For a Halloween-night ticketed party experience.",
+        "summary": "An event called Blood Lovers takes place on October 31, 2026 in Los Angeles with tickets priced $39–$149.",
         "promoter": "",
-        "price": "",
-        "tags": [],
+        "price": "$39–$149",
+        "tags": [
+          "halloween",
+          "party",
+          "paid",
+          "tickets"
+        ],
         "sources": [],
         "tickets": [],
         "maps": {
@@ -3065,7 +3070,7 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {

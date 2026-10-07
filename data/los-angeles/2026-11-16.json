@@ -658,16 +658,19 @@
         "day": "Fri",
         "date": "2026-11-20",
         "time": "22:00",
-        "start": null,
-        "end": null,
+        "start": "22:00",
+        "end": "03:00",
         "area": "Los Angeles",
         "venue": "Eq (San Diego)",
         "address": "",
-        "why": "",
-        "summary": "",
+        "why": "Affordable ticket price for an easy night out in LA.",
+        "summary": "Rinzen is scheduled for 2026-11-20 in Los Angeles with tickets listed at $15–$20.",
         "promoter": "",
-        "price": "",
-        "tags": [],
+        "price": "$15–$20",
+        "tags": [
+          "ticketed",
+          "nightlife"
+        ],
         "sources": [],
         "tickets": [],
         "maps": {
@@ -680,7 +683,7 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
