@@ -222,18 +222,22 @@
         "day": "Wed",
         "date": "2026-11-25",
         "time": "22:00",
-        "start": null,
-        "end": null,
+        "start": "22:00",
+        "end": "03:00",
         "area": "Los Angeles",
         "venue": "Avalon Hollywood (Los Angeles)",
-        "address": "",
+        "address": "1735 Vine Street, Hollywood, CA 90028",
         "why": "",
         "summary": "",
         "promoter": "",
-        "price": "",
+        "price": "$23+",
         "tags": [],
-        "sources": [],
-        "tickets": [],
+        "sources": [
+          "https://ra.co/events/2534692"
+        ],
+        "tickets": [
+          "https://ra.co/events/2534692"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Avalon%20Hollywood%20%28Los%20Angeles%29%2C%20Los%20Angeles",
           "apple": "https://maps.apple.com/?q=Avalon%20Hollywood%20%28Los%20Angeles%29%2C%20Los%20Angeles"
@@ -241,10 +245,10 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://party-scout.app/img/gen/mutate-clawz-w-dr-donk-f9da.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {

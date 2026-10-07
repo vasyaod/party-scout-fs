@@ -1309,18 +1309,22 @@
         "day": "Sat",
         "date": "2026-11-21",
         "time": "21:00",
-        "start": null,
-        "end": null,
+        "start": "21:00",
+        "end": "02:00",
         "area": "Los Angeles",
         "venue": "Don Quixote (Los Angeles)",
-        "address": "",
+        "address": "2811 E Olympic Blvd, Los Angeles, CA 90023",
         "why": "",
         "summary": "",
         "promoter": "",
-        "price": "",
+        "price": "$28+",
         "tags": [],
-        "sources": [],
-        "tickets": [],
+        "sources": [
+          "https://ra.co/events/2534764"
+        ],
+        "tickets": [
+          "https://ra.co/events/2534764"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Don%20Quixote%20%28Los%20Angeles%29%2C%20Los%20Angeles",
           "apple": "https://maps.apple.com/?q=Don%20Quixote%20%28Los%20Angeles%29%2C%20Los%20Angeles"
@@ -1328,10 +1332,10 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://party-scout.app/img/gen/mirror-mode-machinedrum-3783.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
