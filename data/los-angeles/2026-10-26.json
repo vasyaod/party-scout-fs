@@ -1824,18 +1824,22 @@
         "day": "Fri",
         "date": "2026-10-30",
         "time": "23:00",
-        "start": null,
-        "end": null,
+        "start": "23:00",
+        "end": "05:00",
         "area": "Los Angeles",
         "venue": "TBA - Los Angeles (Warehouse)",
         "address": "",
         "why": "",
         "summary": "",
         "promoter": "",
-        "price": "",
+        "price": "$20–$50",
         "tags": [],
-        "sources": [],
-        "tickets": [],
+        "sources": [
+          "https://ra.co/events/2540969"
+        ],
+        "tickets": [
+          "https://ra.co/events/2540969"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Los%20Angeles",
           "apple": "https://maps.apple.com/?q=Los%20Angeles"
@@ -1843,10 +1847,10 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://party-scout.app/img/gen/incognito-presents-a-hal-fc92.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
