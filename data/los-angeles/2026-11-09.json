@@ -173,23 +173,31 @@
         "id": "2026-11-09-music-bonobo-c8eece",
         "eid": "bonobo-faf4",
         "track": "music",
-        "category": "",
+        "category": "Concert",
         "name": "Bonobo",
         "day": "Thu",
         "date": "2026-11-12",
         "time": "19:00",
-        "start": null,
-        "end": null,
+        "start": "19:00",
+        "end": "23:00",
         "area": "Los Angeles",
         "venue": "The Wiltern (Los Angeles)",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "3790 Wilshire Blvd, Los Angeles, CA 90010",
+        "why": "To experience atmospheric electronic music live in central LA.",
+        "summary": "Bonobo plays a show at 3790 Wilshire Blvd in Los Angeles on November 12, 2026. Tickets are listed at $38.",
         "promoter": "",
-        "price": "",
-        "tags": [],
-        "sources": [],
-        "tickets": [],
+        "price": "$38",
+        "tags": [
+          "electronic",
+          "live",
+          "ticketed"
+        ],
+        "sources": [
+          "https://ra.co/events/2497174"
+        ],
+        "tickets": [
+          "https://ra.co/events/2497174"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=The%20Wiltern%20%28Los%20Angeles%29%2C%20Los%20Angeles",
           "apple": "https://maps.apple.com/?q=The%20Wiltern%20%28Los%20Angeles%29%2C%20Los%20Angeles"
@@ -197,10 +205,10 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://party-scout.app/img/gen/bonobo-faf4.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
