@@ -5690,16 +5690,19 @@
         "day": "Sat",
         "date": "2026-10-17",
         "time": "21:00",
-        "start": null,
-        "end": null,
+        "start": "21:00",
+        "end": "02:00",
         "area": "Los Angeles",
         "venue": "3Oz Dive Club (San Diego)",
         "address": "",
-        "why": "",
-        "summary": "",
+        "why": "Low-cost ticketed option for a night out in LA.",
+        "summary": "Shaded is scheduled for 2026-10-17 in Los Angeles with a $12 ticket.",
         "promoter": "",
-        "price": "",
-        "tags": [],
+        "price": "$12",
+        "tags": [
+          "ticketed",
+          "nightlife"
+        ],
         "sources": [],
         "tickets": [],
         "maps": {
@@ -5712,7 +5715,7 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
