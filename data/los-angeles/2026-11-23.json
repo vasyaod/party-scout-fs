@@ -567,18 +567,22 @@
         "day": "Fri",
         "date": "2026-11-27",
         "time": "20:00",
-        "start": null,
-        "end": null,
+        "start": "20:00",
+        "end": "01:00",
         "area": "Los Angeles",
         "venue": "Shrine Expo Hall (Los Angeles)",
-        "address": "",
+        "address": "665 W. Jefferson Blvd, Los Angeles, CA 90007",
         "why": "",
         "summary": "",
         "promoter": "",
         "price": "",
         "tags": [],
-        "sources": [],
-        "tickets": [],
+        "sources": [
+          "https://ra.co/events/2507536"
+        ],
+        "tickets": [
+          "https://ra.co/events/2507536"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Shrine%20Expo%20Hall%20%28Los%20Angeles%29%2C%20Los%20Angeles",
           "apple": "https://maps.apple.com/?q=Shrine%20Expo%20Hall%20%28Los%20Angeles%29%2C%20Los%20Angeles"
@@ -586,10 +590,10 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://party-scout.app/img/gen/afrojack-control-a3a5.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
