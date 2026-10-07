@@ -19,7 +19,7 @@
         "time": "19:00",
         "start": null,
         "end": null,
-        "area": "Los Angeles",
+        "area": "Hollywood",
         "venue": "The Masonic Lodge at Hollywood Forever",
         "address": "",
         "why": "",
@@ -27,8 +27,12 @@
         "promoter": "",
         "price": "",
         "tags": [],
-        "sources": [],
-        "tickets": [],
+        "sources": [
+          "https://hollywoodforever.com/event/why/"
+        ],
+        "tickets": [
+          "https://www.ticketweb.com/event/why-the-masonic-lodge-at-hollywood-tickets/15007983?pl=HF"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=The%20Masonic%20Lodge%20at%20Hollywood%20Forever%2C%20Los%20Angeles",
           "apple": "https://maps.apple.com/?q=The%20Masonic%20Lodge%20at%20Hollywood%20Forever%2C%20Los%20Angeles"
@@ -36,7 +40,7 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://party-scout.app/img/gen/why-5f47.jpg",
         "image_generated": false,
         "popularity": 0,
         "enriched": 1,
