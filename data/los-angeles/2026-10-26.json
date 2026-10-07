@@ -3987,18 +3987,22 @@
         "day": "Sat",
         "date": "2026-10-31",
         "time": "16:00",
-        "start": null,
-        "end": null,
+        "start": "16:00",
+        "end": "00:00",
         "area": "Los Angeles",
         "venue": "Grand Park",
-        "address": "",
+        "address": "200 North Grand Ave, Los Angeles, CA 90012",
         "why": "",
         "summary": "",
         "promoter": "",
         "price": "",
         "tags": [],
-        "sources": [],
-        "tickets": [],
+        "sources": [
+          "https://ra.co/events/2502381"
+        ],
+        "tickets": [
+          "https://ra.co/events/2502381"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Grand%20Park%2C%20Los%20Angeles",
           "apple": "https://maps.apple.com/?q=Grand%20Park%2C%20Los%20Angeles"
@@ -4006,10 +4010,10 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://party-scout.app/img/gen/mayan-warrior-halloween-6577.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
