@@ -1218,23 +1218,31 @@
         "id": "2026-11-02-music-zulan-5be676",
         "eid": "zulan-8603",
         "track": "music",
-        "category": "",
+        "category": "Concert",
         "name": "Zulan",
         "day": "Fri",
         "date": "2026-11-06",
         "time": "21:00",
-        "start": null,
-        "end": null,
+        "start": "21:00",
+        "end": "01:00",
         "area": "Los Angeles",
         "venue": "Shrine Expo Hall (Los Angeles)",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "665 W. Jefferson Blvd, Los Angeles, CA 90007",
+        "why": "For a ticketed live night out in central Los Angeles.",
+        "summary": "Zulan happens on November 6, 2026 at 665 W. Jefferson Blvd in Los Angeles. Tickets start at $54+.",
         "promoter": "",
-        "price": "",
-        "tags": [],
-        "sources": [],
-        "tickets": [],
+        "price": "$54+",
+        "tags": [
+          "live",
+          "ticketed",
+          "indoor"
+        ],
+        "sources": [
+          "https://ra.co/events/2507533"
+        ],
+        "tickets": [
+          "https://ra.co/events/2507533"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Shrine%20Expo%20Hall%20%28Los%20Angeles%29%2C%20Los%20Angeles",
           "apple": "https://maps.apple.com/?q=Shrine%20Expo%20Hall%20%28Los%20Angeles%29%2C%20Los%20Angeles"
@@ -1242,10 +1250,10 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://party-scout.app/img/gen/zulan-8603.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
