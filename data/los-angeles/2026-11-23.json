@@ -1103,18 +1103,22 @@
         "day": "Sat",
         "date": "2026-11-28",
         "time": "22:00",
-        "start": null,
-        "end": null,
+        "start": "22:00",
+        "end": "02:00",
         "area": "Los Angeles",
         "venue": "Exchange (Los Angeles)",
-        "address": "",
+        "address": "618 S. Spring St., Los Angeles, CA 90014",
         "why": "",
         "summary": "",
         "promoter": "",
-        "price": "",
+        "price": "$10–$70",
         "tags": [],
-        "sources": [],
-        "tickets": [],
+        "sources": [
+          "https://ra.co/events/2523889"
+        ],
+        "tickets": [
+          "https://ra.co/events/2523889"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Exchange%20%28Los%20Angeles%29%2C%20Los%20Angeles",
           "apple": "https://maps.apple.com/?q=Exchange%20%28Los%20Angeles%29%2C%20Los%20Angeles"
@@ -1122,10 +1126,10 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://party-scout.app/img/gen/mutate-luciid-w-callush-cc2d.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
