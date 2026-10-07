@@ -2594,16 +2594,25 @@
         "time": "19:00",
         "start": null,
         "end": null,
-        "area": "Los Angeles",
+        "area": "Mid-Wilshire",
         "venue": "The Wiltern",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "3790 Wilshire Blvd, Los Angeles, CA 90010",
+        "why": "Brass-heavy 70s soft-rock hits played live by a 13-piece band in a classic Art Deco theater.",
+        "summary": "Leonid & Friends bring their big-band tribute to Chicago to the Wiltern, with a full horn section and the classic hits played note-for-note. All ages; doors 7pm, show 8pm.",
         "promoter": "",
         "price": "",
-        "tags": [],
-        "sources": [],
-        "tickets": [],
+        "tags": [
+          "live-music",
+          "tribute",
+          "rock",
+          "all-ages"
+        ],
+        "sources": [
+          "https://www.livenation.com/event/vv1AaZko8GkeO_EcM/leonid-friends"
+        ],
+        "tickets": [
+          "https://www.ticketmaster.com/leonid-friends-los-angeles-california-11-15-2026/event/09006450A0667B77"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=The%20Wiltern%2C%20Los%20Angeles",
           "apple": "https://maps.apple.com/?q=The%20Wiltern%2C%20Los%20Angeles"
@@ -2611,7 +2620,7 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://party-scout.app/img/gen/leonid-friends-1ba9.jpg",
         "image_generated": false,
         "popularity": 0,
         "enriched": 1,
