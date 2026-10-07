@@ -580,16 +580,19 @@
         "day": "Fri",
         "date": "2026-11-13",
         "time": "20:00",
-        "start": null,
+        "start": "20:00",
         "end": null,
         "area": "Los Angeles",
         "venue": "Dreamland (Malibu)",
         "address": "",
-        "why": "",
-        "summary": "",
+        "why": "For a high-energy night out with dance-floor vibes.",
+        "summary": "Boombox is an event on November 13, 2026 in Los Angeles; tickets are listed from $40+.",
         "promoter": "",
-        "price": "",
-        "tags": [],
+        "price": "$40+",
+        "tags": [
+          "dance",
+          "paid"
+        ],
         "sources": [],
         "tickets": [],
         "maps": {
@@ -602,7 +605,7 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
