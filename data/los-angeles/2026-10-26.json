@@ -4768,18 +4768,22 @@
         "day": "Sat",
         "date": "2026-10-31",
         "time": "21:00",
-        "start": null,
-        "end": null,
+        "start": "21:00",
+        "end": "02:00",
         "area": "Los Angeles",
         "venue": "Break Room 86",
-        "address": "",
+        "address": "630 S. Ardmore Ave. Los Angeles, CA 90010",
         "why": "",
         "summary": "",
         "promoter": "",
-        "price": "",
+        "price": "$20+",
         "tags": [],
-        "sources": [],
-        "tickets": [],
+        "sources": [
+          "https://ra.co/events/2541120"
+        ],
+        "tickets": [
+          "https://ra.co/events/2541120"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Break%20Room%2086%2C%20Los%20Angeles",
           "apple": "https://maps.apple.com/?q=Break%20Room%2086%2C%20Los%20Angeles"
@@ -4787,10 +4791,10 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://party-scout.app/img/gen/thriller-80-s-halloween-3040.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
