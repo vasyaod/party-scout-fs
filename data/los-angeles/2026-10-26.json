@@ -898,18 +898,27 @@
         "day": "Thu",
         "date": "2026-10-29",
         "time": "20:00",
-        "start": null,
-        "end": null,
-        "area": "Los Angeles",
+        "start": "20:00",
+        "end": "02:00",
+        "area": "DTLA",
         "venue": "The Redwood Bar And Grill",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "316 W. 2nd Street, Los Angeles, CA  90012",
+        "why": "A cheap Thursday-night live show in a classic DTLA dive, with a late 2am close.",
+        "summary": "Thorslund plays The Redwood Bar And Grill, a long-running downtown dive bar on 2nd Street, on Thursday night. Doors run 8pm to 2am and entry is $10.",
         "promoter": "",
-        "price": "",
-        "tags": [],
-        "sources": [],
-        "tickets": [],
+        "price": "$10",
+        "tags": [
+          "live-music",
+          "dive-bar",
+          "dtla",
+          "thursday"
+        ],
+        "sources": [
+          "https://ra.co/events/2553073"
+        ],
+        "tickets": [
+          "https://ra.co/events/2553073"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=The%20Redwood%20Bar%20And%20Grill%2C%20Los%20Angeles",
           "apple": "https://maps.apple.com/?q=The%20Redwood%20Bar%20And%20Grill%2C%20Los%20Angeles"
@@ -920,7 +929,7 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
