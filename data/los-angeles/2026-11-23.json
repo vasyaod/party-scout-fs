@@ -690,18 +690,22 @@
         "day": "Fri",
         "date": "2026-11-27",
         "time": "23:59",
-        "start": null,
-        "end": null,
+        "start": "23:59",
+        "end": "07:00",
         "area": "Los Angeles",
         "venue": "TBA (DTLA/Los Angeles)",
         "address": "",
         "why": "",
         "summary": "",
         "promoter": "",
-        "price": "",
+        "price": "$15–$40",
         "tags": [],
-        "sources": [],
-        "tickets": [],
+        "sources": [
+          "https://ra.co/events/2546115"
+        ],
+        "tickets": [
+          "https://ra.co/events/2546115"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Los%20Angeles",
           "apple": "https://maps.apple.com/?q=Los%20Angeles"
@@ -709,10 +713,10 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://party-scout.app/img/gen/huerta-liquid-earth-dyla-f95e.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
