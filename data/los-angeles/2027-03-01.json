@@ -96,18 +96,29 @@
         "day": "Sat",
         "date": "2027-03-06",
         "time": "18:00",
-        "start": null,
+        "start": "18:00",
         "end": null,
-        "area": "Los Angeles",
-        "venue": "The Torch At LA Coliseum (Los Angeles)",
-        "address": "",
-        "why": "",
-        "summary": "",
-        "promoter": "",
-        "price": "",
-        "tags": [],
-        "sources": [],
-        "tickets": [],
+        "area": "Exposition Park",
+        "venue": "The Torch at LA Coliseum",
+        "address": "3911 S Figueroa St, Los Angeles, CA 90037",
+        "why": "Catch the masked Norwegian producer behind 'Faded' live, with a full-scale Insomniac production at the Coliseum's open-air Torch.",
+        "summary": "Alan Walker brings his Legend of Atlantis Tour to The Torch at the LA Coliseum for an all-ages-18+ night of melodic EDM under the open sky.",
+        "promoter": "Insomniac",
+        "price": "$62+",
+        "tags": [
+          "edm",
+          "melodic",
+          "18+",
+          "outdoor",
+          "insomniac"
+        ],
+        "sources": [
+          "https://www.livenation.com/event/vvG1IZ_3n0r6vH/insomniac-presents-alan-walker-legend-of-atlantis-tour-ages-18",
+          "https://19hz.info/eventlisting_LosAngeles.php"
+        ],
+        "tickets": [
+          "https://www.livenation.com/event/vvG1IZ_3n0r6vH/insomniac-presents-alan-walker-legend-of-atlantis-tour-ages-18"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=The%20Torch%20At%20LA%20Coliseum%20%28Los%20Angeles%29%2C%20Los%20Angeles",
           "apple": "https://maps.apple.com/?q=The%20Torch%20At%20LA%20Coliseum%20%28Los%20Angeles%29%2C%20Los%20Angeles"
@@ -115,10 +126,10 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://party-scout.app/img/gen/alan-walker-legend-of-at-09bd.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
