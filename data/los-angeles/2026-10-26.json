@@ -2473,16 +2473,21 @@
         "day": "Fri",
         "date": "2026-10-30",
         "time": "22:00",
-        "start": null,
-        "end": null,
+        "start": "22:00",
+        "end": "02:00",
         "area": "Los Angeles",
         "venue": "Boardner's By La Belle (Los Angeles)",
         "address": "",
-        "why": "",
-        "summary": "",
+        "why": "For fans of horror franchises and Halloween-themed nights.",
+        "summary": "Halloween-themed event on October 30, 2026 referencing Resident Evil and Silent Hill, with tickets priced $19–$30.",
         "promoter": "",
-        "price": "",
-        "tags": [],
+        "price": "$19–$30",
+        "tags": [
+          "halloween",
+          "horror",
+          "themed",
+          "21+"
+        ],
         "sources": [],
         "tickets": [],
         "maps": {
@@ -2495,7 +2500,7 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
