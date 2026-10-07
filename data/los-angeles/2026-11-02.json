@@ -1856,18 +1856,26 @@
         "day": "Sat",
         "date": "2026-11-07",
         "time": "22:00",
-        "start": null,
-        "end": null,
+        "start": "22:00",
+        "end": "02:00",
         "area": "Los Angeles",
         "venue": "Kiss Kiss Bang Bang (Los Angeles)",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "3531 Wilshire Blvd, Los Angeles, CA 90010, USA",
+        "why": "A free night out along Wilshire for locals and visitors seeking nightlife.",
+        "summary": "Paradisco takes place November 7, 2026 at 3531 Wilshire Blvd in Los Angeles and is free to attend.",
         "promoter": "",
-        "price": "",
-        "tags": [],
-        "sources": [],
-        "tickets": [],
+        "price": "Free",
+        "tags": [
+          "free",
+          "nightlife",
+          "dance"
+        ],
+        "sources": [
+          "https://ra.co/events/2536873"
+        ],
+        "tickets": [
+          "https://ra.co/events/2536873"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Kiss%20Kiss%20Bang%20Bang%20%28Los%20Angeles%29%2C%20Los%20Angeles",
           "apple": "https://maps.apple.com/?q=Kiss%20Kiss%20Bang%20Bang%20%28Los%20Angeles%29%2C%20Los%20Angeles"
@@ -1875,10 +1883,10 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://party-scout.app/img/gen/paradisco-c41d.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
