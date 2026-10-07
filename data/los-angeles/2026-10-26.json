@@ -2432,18 +2432,25 @@
         "day": "Fri",
         "date": "2026-10-30",
         "time": "20:00",
-        "start": null,
-        "end": null,
+        "start": "20:00",
+        "end": "02:00",
         "area": "Los Angeles",
         "venue": "Blipsy Bar (Los Angeles)",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "369 N Western Ave, Los Angeles, CA 90004",
+        "why": "Free entry makes it an easy drop-in for a spontaneous night out.",
+        "summary": "A free event called Psychic Skin x Bug takes place on 2026-10-30 at 369 N Western Ave in Los Angeles (90004).",
         "promoter": "",
-        "price": "",
-        "tags": [],
-        "sources": [],
-        "tickets": [],
+        "price": "Free",
+        "tags": [
+          "free",
+          "nightlife"
+        ],
+        "sources": [
+          "https://ra.co/events/2519081"
+        ],
+        "tickets": [
+          "https://ra.co/events/2519081"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Blipsy%20Bar%20%28Los%20Angeles%29%2C%20Los%20Angeles",
           "apple": "https://maps.apple.com/?q=Blipsy%20Bar%20%28Los%20Angeles%29%2C%20Los%20Angeles"
@@ -2454,7 +2461,7 @@
         "image": "https://party-scout.app/img/gen/psychic-skin-x-bug-4565.jpg",
         "image_generated": true,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
