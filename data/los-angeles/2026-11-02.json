@@ -1067,16 +1067,20 @@
         "day": "Fri",
         "date": "2026-11-06",
         "time": "19:00",
-        "start": null,
+        "start": "19:00",
         "end": null,
         "area": "Los Angeles",
         "venue": "The Echo (Los Angeles)",
         "address": "",
-        "why": "",
-        "summary": "",
+        "why": "A relatively low-cost ticketed option for a night out in LA.",
+        "summary": "Supertaste is scheduled for November 6, 2026 in Los Angeles; tickets are listed at $27.",
         "promoter": "",
-        "price": "",
-        "tags": [],
+        "price": "$27",
+        "tags": [
+          "ticketed",
+          "los-angeles",
+          "nightlife"
+        ],
         "sources": [],
         "tickets": [],
         "maps": {
@@ -1089,7 +1093,7 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
