@@ -5267,18 +5267,22 @@
         "day": "Sat",
         "date": "2026-10-31",
         "time": "22:00",
-        "start": null,
-        "end": null,
+        "start": "22:00",
+        "end": "10:00",
         "area": "Los Angeles",
         "venue": "TBA Arts District (Los Angeles)",
         "address": "",
         "why": "",
         "summary": "",
         "promoter": "",
-        "price": "",
+        "price": "$25",
         "tags": [],
-        "sources": [],
-        "tickets": [],
+        "sources": [
+          "https://ra.co/events/2500923"
+        ],
+        "tickets": [
+          "https://ra.co/events/2500923"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Los%20Angeles",
           "apple": "https://maps.apple.com/?q=Los%20Angeles"
@@ -5287,9 +5291,9 @@
         "coords_precise": false,
         "ra": {},
         "image": "https://party-scout.app/img/gen/melt-x-yoon-satoshi-tomi-be58.jpg",
-        "image_generated": true,
+        "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
