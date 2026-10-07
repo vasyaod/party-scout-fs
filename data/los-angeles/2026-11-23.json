@@ -373,18 +373,22 @@
         "day": "Wed",
         "date": "2026-11-25",
         "time": "18:00",
-        "start": null,
-        "end": null,
+        "start": "18:00",
+        "end": "04:00",
         "area": "Los Angeles",
         "venue": "Catch One (Los Angeles)",
-        "address": "",
+        "address": "4067 W Pico Blvd, Los Angeles, CA 90019",
         "why": "",
         "summary": "",
         "promoter": "",
-        "price": "",
+        "price": "$10–$40",
         "tags": [],
-        "sources": [],
-        "tickets": [],
+        "sources": [
+          "https://ra.co/events/2526459"
+        ],
+        "tickets": [
+          "https://ra.co/events/2526459"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Catch%20One%20%28Los%20Angeles%29%2C%20Los%20Angeles",
           "apple": "https://maps.apple.com/?q=Catch%20One%20%28Los%20Angeles%29%2C%20Los%20Angeles"
@@ -392,10 +396,10 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://party-scout.app/img/gen/rhondavous-the-ravesgivi-c3cc.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
