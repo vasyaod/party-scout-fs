@@ -5134,16 +5134,19 @@
         "day": "Thu",
         "date": "2026-10-15",
         "time": "21:00",
-        "start": null,
+        "start": "21:00",
         "end": null,
         "area": "Los Angeles",
         "venue": "Air Conditioned Lounge (San Diego)",
         "address": "",
-        "why": "",
-        "summary": "",
+        "why": "To check out a new nightlife event in Los Angeles on October 15.",
+        "summary": "A Los Angeles event titled Soundwaves taking place on October 15, 2026.",
         "promoter": "",
         "price": "",
-        "tags": [],
+        "tags": [
+          "music",
+          "nightlife"
+        ],
         "sources": [],
         "tickets": [],
         "maps": {
@@ -5156,7 +5159,7 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
