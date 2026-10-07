@@ -1147,18 +1147,29 @@
         "day": "Sat",
         "date": "2026-11-21",
         "time": "13:00",
-        "start": null,
+        "start": "13:00",
         "end": null,
         "area": "Los Angeles",
         "venue": "Gallagher Square at Petco Park (San Diego)",
         "address": "",
-        "why": "",
-        "summary": "",
+        "why": "A morning 5K that turns into a Diplo-led party. Note it takes place in San Diego, not LA.",
+        "summary": "Diplo's Run Club 5K starts and finishes at Gallagher Square at Petco Park, winding through the Gaslamp Quarter, followed by a post-race set from Diplo and friends. All ages.",
         "promoter": "",
-        "price": "",
-        "tags": [],
-        "sources": [],
-        "tickets": [],
+        "price": "$112–$212",
+        "tags": [
+          "run club",
+          "5K",
+          "diplo",
+          "all ages",
+          "daytime"
+        ],
+        "sources": [
+          "https://diplosrunclub.com/san-diego",
+          "https://www.kpbs.org/events/2026/11/21/diplos-run-club"
+        ],
+        "tickets": [
+          "https://diplosrunclub.com/san-diego"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Gallagher%20Square%20at%20Petco%20Park%20%28San%20Diego%29%2C%20Los%20Angeles",
           "apple": "https://maps.apple.com/?q=Gallagher%20Square%20at%20Petco%20Park%20%28San%20Diego%29%2C%20Los%20Angeles"
@@ -1166,10 +1177,10 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://party-scout.app/img/gen/diplo-run-club-e1e0.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
