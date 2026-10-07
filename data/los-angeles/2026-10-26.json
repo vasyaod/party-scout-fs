@@ -3621,23 +3621,32 @@
         "id": "2026-10-26-music-inner-wave-08bb59",
         "eid": "inner-wave-c3fb",
         "track": "music",
-        "category": "",
+        "category": "concert",
         "name": "Inner Wave",
         "day": "Sat",
         "date": "2026-10-31",
-        "time": "",
-        "start": null,
-        "end": null,
-        "area": "",
-        "venue": "Glass House (Pomona)",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "time": "8:00 PM",
+        "start": "20:00",
+        "end": "23:30",
+        "area": "Pomona",
+        "venue": "The Glass House",
+        "address": "200 W 2nd St, Pomona, CA 91766",
+        "why": "Dreamy California indie-psych on Halloween night, in a classic all-ages Inland Empire room.",
+        "summary": "Inner Wave's Halloween night stop on their fall West Coast tour at The Glass House in Pomona, with Pearl & The Oysters supporting. All ages; doors at 7 PM.",
         "promoter": "",
-        "price": "",
-        "tags": [],
-        "sources": [],
-        "tickets": [],
+        "price": "$33",
+        "tags": [
+          "indie",
+          "live-music",
+          "halloween",
+          "all-ages"
+        ],
+        "sources": [
+          "https://dice.fm/event/k65pd9-inner-wave-west-coast-tour-2026-halloween-31st-oct-the-glass-house-pomona-tickets"
+        ],
+        "tickets": [
+          "https://dice.fm/event/k65pd9-inner-wave-west-coast-tour-2026-halloween-31st-oct-the-glass-house-pomona-tickets"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Glass%20House%20%28Pomona%29",
           "apple": "https://maps.apple.com/?q=Glass%20House%20%28Pomona%29"
@@ -3645,11 +3654,12 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://party-scout.app/img/gen/inner-wave-c3fb.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
-        "active": true
+        "enriched": 1,
+        "active": true,
+        "lineup": []
       },
       {
         "id": "2026-10-26-music-inzo-vctre-common-creation-ali-e016f0",
