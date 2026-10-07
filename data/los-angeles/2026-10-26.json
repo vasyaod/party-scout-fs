@@ -1249,18 +1249,22 @@
         "day": "Fri",
         "date": "2026-10-30",
         "time": "19:00",
-        "start": null,
-        "end": null,
-        "area": "",
+        "start": "21:00",
+        "end": "02:00",
+        "area": "Los Angeles",
         "venue": "The Sanctuary at Clifton's (Los Angeles)",
-        "address": "",
+        "address": "901 E 1st St, Los Angeles, CA 90012",
         "why": "",
         "summary": "",
         "promoter": "",
-        "price": "",
+        "price": "$20+",
         "tags": [],
-        "sources": [],
-        "tickets": [],
+        "sources": [
+          "https://ra.co/events/2542361"
+        ],
+        "tickets": [
+          "https://ra.co/events/2542361"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=The%20Sanctuary%20at%20Clifton%27s%20%28Los%20Angeles%29",
           "apple": "https://maps.apple.com/?q=The%20Sanctuary%20at%20Clifton%27s%20%28Los%20Angeles%29"
@@ -1268,10 +1272,10 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://party-scout.app/img/gen/the-dark-wedding-9f36.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
