@@ -56,18 +56,26 @@
         "day": "Wed",
         "date": "2026-11-25",
         "time": "20:30",
-        "start": null,
+        "start": "20:30",
         "end": null,
-        "area": "Los Angeles",
+        "area": "DTLA",
         "venue": "Pacific Electric (Los Angeles)",
         "address": "",
-        "why": "",
-        "summary": "",
+        "why": "A midweek house night from the NYC producer, right before Thanksgiving.",
+        "summary": "Amtrac plays Pacific Electric on Wednesday night, a house show with doors around 8:30pm, tickets from $37.",
         "promoter": "",
-        "price": "",
-        "tags": [],
-        "sources": [],
-        "tickets": [],
+        "price": "$37",
+        "tags": [
+          "house",
+          "live",
+          "dance"
+        ],
+        "sources": [
+          "https://19hz.info/eventlisting_LosAngeles.php"
+        ],
+        "tickets": [
+          "https://www.ticketmaster.com/event/0900650E152099DC"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Pacific%20Electric%20%28Los%20Angeles%29%2C%20Los%20Angeles",
           "apple": "https://maps.apple.com/?q=Pacific%20Electric%20%28Los%20Angeles%29%2C%20Los%20Angeles"
@@ -78,7 +86,7 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
