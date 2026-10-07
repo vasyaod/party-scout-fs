@@ -648,16 +648,25 @@
         "time": "21:00",
         "start": "21:00",
         "end": "02:00",
-        "area": "Los Angeles",
+        "area": "Hollywood",
         "venue": "The Vermont (Hollywood/Los Angeles)",
-        "address": "",
-        "why": "",
-        "summary": "",
-        "promoter": "",
+        "address": "1020 N Vermont Ave, Los Angeles, CA 90029",
+        "why": "A rare Benda and Vastive back-to-back on a stacked riddim and dubstep Hostile lineup.",
+        "summary": "Hostile brings Benda b2b Vastive to The Vermont for a bass-heavy Friday, with RZRKT, SQISHI and Mile32 b2b Pyro on the bill.",
+        "promoter": "Hostile",
         "price": "$24",
-        "tags": [],
-        "sources": [],
-        "tickets": [],
+        "tags": [
+          "bass",
+          "dubstep",
+          "riddim",
+          "hostile"
+        ],
+        "sources": [
+          "https://www.vermonthollywood.com/events/hostile-benda-b2b-vastive/"
+        ],
+        "tickets": [
+          "https://pear.us/hostilebass/post/bendavastive"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=The%20Vermont%20%28Hollywood/Los%20Angeles%29%2C%20Los%20Angeles",
           "apple": "https://maps.apple.com/?q=The%20Vermont%20%28Hollywood/Los%20Angeles%29%2C%20Los%20Angeles"
@@ -665,11 +674,12 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://party-scout.app/img/gen/hostile-benda-b2b-vastiv-8680.jpg",
         "image_generated": false,
         "popularity": 0,
         "enriched": 1,
-        "active": true
+        "active": true,
+        "lineup": []
       },
       {
         "id": "2026-11-23-music-huerta-liquid-earth-dylan-payn-6bcf52",
