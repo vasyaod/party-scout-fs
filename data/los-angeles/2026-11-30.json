@@ -603,14 +603,25 @@
         "end": "02:00",
         "area": "Los Angeles",
         "venue": "The Compound By Dirt Dog (Commerce)",
-        "address": "",
-        "why": "",
-        "summary": "",
-        "promoter": "",
+        "address": "2909 Supply Avenue, Commerce, CA 90040",
+        "why": "A cheap, late-night winter-themed rave for the 18+ crowd, with house, tech house and techno on the bill.",
+        "summary": "An 18+ night of EDM, lights and holiday energy at The Compound in Commerce, with Nightstalker headlining. Eight to two on Saturday, December 5.",
+        "promoter": "Plur Eventz",
         "price": "$13–$23",
-        "tags": [],
-        "sources": [],
-        "tickets": [],
+        "tags": [
+          "house",
+          "tech house",
+          "techno",
+          "edm",
+          "18+"
+        ],
+        "sources": [
+          "https://19hz.info/eventlisting_LosAngeles.php",
+          "https://www.eventbrite.com/e/winter-fantasy-18la-tickets-2000902684793"
+        ],
+        "tickets": [
+          "https://www.eventbrite.com/e/winter-fantasy-18la-tickets-2000902684793"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=The%20Compound%20By%20Dirt%20Dog%20%28Commerce%29%2C%20Los%20Angeles",
           "apple": "https://maps.apple.com/?q=The%20Compound%20By%20Dirt%20Dog%20%28Commerce%29%2C%20Los%20Angeles"
@@ -618,7 +629,7 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://party-scout.app/img/gen/winter-fantasy-e091.jpg",
         "image_generated": false,
         "popularity": 0,
         "enriched": 1,
