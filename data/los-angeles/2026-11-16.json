@@ -1347,18 +1347,22 @@
         "day": "Sat",
         "date": "2026-11-21",
         "time": "22:00",
-        "start": null,
-        "end": null,
+        "start": "22:00",
+        "end": "02:00",
         "area": "Los Angeles",
         "venue": "Kiss Kiss Bang Bang (Los Angeles)",
-        "address": "",
+        "address": "3531 Wilshire Blvd, Los Angeles, CA 90010, USA",
         "why": "",
         "summary": "",
         "promoter": "",
-        "price": "",
+        "price": "Free",
         "tags": [],
-        "sources": [],
-        "tickets": [],
+        "sources": [
+          "https://ra.co/events/2536879"
+        ],
+        "tickets": [
+          "https://ra.co/events/2536879"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Kiss%20Kiss%20Bang%20Bang%20%28Los%20Angeles%29%2C%20Los%20Angeles",
           "apple": "https://maps.apple.com/?q=Kiss%20Kiss%20Bang%20Bang%20%28Los%20Angeles%29%2C%20Los%20Angeles"
@@ -1366,10 +1370,10 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://party-scout.app/img/gen/paradisco-w-shefa-91df.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
