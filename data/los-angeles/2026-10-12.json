@@ -5248,16 +5248,19 @@
         "day": "Fri",
         "date": "2026-10-16",
         "time": "22:00",
-        "start": null,
-        "end": null,
+        "start": "22:00",
+        "end": "02:00",
         "area": "Los Angeles",
         "venue": "Nova Sd (San Diego)",
         "address": "",
-        "why": "",
-        "summary": "",
+        "why": "Affordable presale ticket for an LA night out.",
+        "summary": "Hol! is an event in Los Angeles on October 16, 2026; presale tickets are $20.",
         "promoter": "",
-        "price": "",
-        "tags": [],
+        "price": "$20 pre",
+        "tags": [
+          "ticketed",
+          "nightlife"
+        ],
         "sources": [],
         "tickets": [],
         "maps": {
@@ -5270,7 +5273,7 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
