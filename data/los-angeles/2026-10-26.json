@@ -3675,13 +3675,23 @@
         "area": "Los Angeles",
         "venue": "Beach House (San Diego)",
         "address": "",
-        "why": "",
-        "summary": "",
-        "promoter": "",
+        "why": "A daytime bass-and-electronic bill on the boardwalk on Halloween, with four acts for one ticket.",
+        "summary": "LED presents Inzo with Vctre, Common Creation and Align on Halloween afternoon at the beachfront Fit Social in San Diego. Doors at 4pm, 21+.",
+        "promoter": "LED Presents",
         "price": "$39–$50",
-        "tags": [],
-        "sources": [],
-        "tickets": [],
+        "tags": [
+          "electronic",
+          "bass",
+          "halloween",
+          "san-diego",
+          "21+"
+        ],
+        "sources": [
+          "https://events.leapevents.com/event/led-presents-inzo-fit-social-2026"
+        ],
+        "tickets": [
+          "https://events.leapevents.com/event/led-presents-inzo-fit-social-2026"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Beach%20House%20%28San%20Diego%29%2C%20Los%20Angeles",
           "apple": "https://maps.apple.com/?q=Beach%20House%20%28San%20Diego%29%2C%20Los%20Angeles"
@@ -3689,11 +3699,12 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://party-scout.app/img/gen/inzo-vctre-common-creati-a954.jpg",
         "image_generated": false,
         "popularity": 0,
         "enriched": 1,
-        "active": true
+        "active": true,
+        "lineup": []
       },
       {
         "id": "2026-10-26-music-kcrw-presents-the-maze-with-th-9c3ab8",
