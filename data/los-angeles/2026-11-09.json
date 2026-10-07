@@ -1415,18 +1415,22 @@
         "day": "Sat",
         "date": "2026-11-14",
         "time": "16:00",
-        "start": null,
-        "end": null,
+        "start": "16:00",
+        "end": "20:00",
         "area": "Los Angeles",
         "venue": "100 Aquarium Way (Long Beach)",
-        "address": "",
+        "address": "1825 W. Pier D. Street Long Beach, CA 90802",
         "why": "",
         "summary": "",
         "promoter": "",
-        "price": "",
+        "price": "65+",
         "tags": [],
-        "sources": [],
-        "tickets": [],
+        "sources": [
+          "https://ra.co/events/2540980"
+        ],
+        "tickets": [
+          "https://ra.co/events/2540980"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=100%20Aquarium%20Way%20%28Long%20Beach%29%2C%20Los%20Angeles",
           "apple": "https://maps.apple.com/?q=100%20Aquarium%20Way%20%28Long%20Beach%29%2C%20Los%20Angeles"
@@ -1434,10 +1438,10 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://party-scout.app/img/gen/creatures-at-sea-sacha-r-cfa6.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
