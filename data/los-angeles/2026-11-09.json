@@ -1833,8 +1833,12 @@
           "live",
           "ticketed"
         ],
-        "sources": [],
-        "tickets": [],
+        "sources": [
+          "https://www.somasandiego.com/event/jstjr/"
+        ],
+        "tickets": [
+          "https://www.ticketweb.com/event/id/14285814"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Soma%20-%20Mainstage%20%28San%20Diego%29%2C%20Los%20Angeles",
           "apple": "https://maps.apple.com/?q=Soma%20-%20Mainstage%20%28San%20Diego%29%2C%20Los%20Angeles"
@@ -1842,7 +1846,7 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://party-scout.app/img/gen/jstjr-8b9b.jpg",
         "image_generated": false,
         "popularity": 0,
         "enriched": 1,
