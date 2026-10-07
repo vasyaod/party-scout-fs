@@ -369,18 +369,22 @@
         "day": "Sat",
         "date": "2026-12-12",
         "time": "21:00",
-        "start": null,
-        "end": null,
+        "start": "21:00",
+        "end": "02:00",
         "area": "Los Angeles",
         "venue": "The Beehive (Los Angeles)",
-        "address": "",
+        "address": "961 E. 61st Street Los Angeles 90001",
         "why": "",
         "summary": "",
         "promoter": "",
-        "price": "",
+        "price": "$35",
         "tags": [],
-        "sources": [],
-        "tickets": [],
+        "sources": [
+          "https://ra.co/events/2524625"
+        ],
+        "tickets": [
+          "https://ra.co/events/2524625"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=The%20Beehive%20%28Los%20Angeles%29%2C%20Los%20Angeles",
           "apple": "https://maps.apple.com/?q=The%20Beehive%20%28Los%20Angeles%29%2C%20Los%20Angeles"
@@ -388,10 +392,10 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://party-scout.app/img/gen/i-love-dnb-kings-of-the-a93a.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
