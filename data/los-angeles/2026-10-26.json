@@ -4412,18 +4412,22 @@
         "day": "Sat",
         "date": "2026-10-31",
         "time": "18:00",
-        "start": null,
-        "end": null,
+        "start": "18:00",
+        "end": "22:00",
         "area": "Los Angeles",
         "venue": "De La Playa Records & Leisure (Los Angeles)",
-        "address": "",
+        "address": "110 S Ave 56, Los Angeles, California 90042",
         "why": "",
         "summary": "",
         "promoter": "",
-        "price": "",
+        "price": "$10",
         "tags": [],
-        "sources": [],
-        "tickets": [],
+        "sources": [
+          "https://ra.co/events/2549216"
+        ],
+        "tickets": [
+          "https://ra.co/events/2549216"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=De%20La%20Playa%20Records%20%26%20Leisure%20%28Los%20Angeles%29%2C%20Los%20Angeles",
           "apple": "https://maps.apple.com/?q=De%20La%20Playa%20Records%20%26%20Leisure%20%28Los%20Angeles%29%2C%20Los%20Angeles"
@@ -4432,9 +4436,9 @@
         "coords_precise": false,
         "ra": {},
         "image": "https://party-scout.app/img/gen/rare-candy-akai-solo-dj-1ef4.jpg",
-        "image_generated": true,
+        "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
