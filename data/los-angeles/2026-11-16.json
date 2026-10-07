@@ -620,16 +620,20 @@
         "day": "Fri",
         "date": "2026-11-20",
         "time": "22:00",
-        "start": null,
-        "end": null,
+        "start": "22:00",
+        "end": "02:00",
         "area": "Los Angeles",
         "venue": "Nova Sd (San Diego)",
         "address": "",
-        "why": "",
-        "summary": "",
+        "why": "Budget-friendly ticket price for a night out.",
+        "summary": "Event scheduled in Los Angeles on November 20, 2026; tickets start at $10.",
         "promoter": "",
-        "price": "",
-        "tags": [],
+        "price": "$10+",
+        "tags": [
+          "nightlife",
+          "cheap",
+          "ticketed"
+        ],
         "sources": [],
         "tickets": [],
         "maps": {
@@ -642,7 +646,7 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
