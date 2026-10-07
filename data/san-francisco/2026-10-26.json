@@ -6545,18 +6545,23 @@
         "name": "The Musical Box",
         "day": "Sun",
         "date": "2026-11-01",
-        "time": "",
-        "start": null,
-        "end": null,
-        "area": "",
+        "time": "7pm",
+        "start": "19:00",
+        "end": "01:30",
+        "area": "SF",
         "venue": "The Regency Ballroom",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "1290 Sutter Street, San Francisco, CA 94109",
+        "why": "Free entry for an easygoing evening in central San Francisco.",
+        "summary": "The Musical Box is a free event on November 1, 2026 at 7pm at 1290 Sutter Street in San Francisco.",
         "promoter": "",
-        "price": "",
-        "tags": [],
-        "sources": [],
+        "price": "Free",
+        "tags": [
+          "free",
+          "nightlife"
+        ],
+        "sources": [
+          "https://dothebay.com/events/2026/11/1/the-musical-box-tickets"
+        ],
         "tickets": [],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=The%20Regency%20Ballroom",
@@ -6565,10 +6570,10 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://party-scout.app/img/gen/the-musical-box-b936.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
