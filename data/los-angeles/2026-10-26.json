@@ -3749,18 +3749,22 @@
         "day": "Sat",
         "date": "2026-10-31",
         "time": "18:00",
-        "start": null,
-        "end": null,
+        "start": "18:00",
+        "end": "03:00",
         "area": "Los Angeles",
         "venue": "Villa Blanca Lifestyle",
-        "address": "",
+        "address": "10623 Riverside Dr, North Hollywood, CA 91602",
         "why": "",
         "summary": "",
         "promoter": "",
-        "price": "",
+        "price": "$25–$40",
         "tags": [],
-        "sources": [],
-        "tickets": [],
+        "sources": [
+          "https://ra.co/events/2527212"
+        ],
+        "tickets": [
+          "https://ra.co/events/2527212"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Villa%20Blanca%20Lifestyle%2C%20Los%20Angeles",
           "apple": "https://maps.apple.com/?q=Villa%20Blanca%20Lifestyle%2C%20Los%20Angeles"
@@ -3768,10 +3772,10 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://party-scout.app/img/gen/koncept-and-definition-p-c542.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
