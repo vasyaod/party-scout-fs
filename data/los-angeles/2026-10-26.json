@@ -3241,18 +3241,22 @@
         "day": "Sat",
         "date": "2026-10-31",
         "time": "21:00",
-        "start": null,
-        "end": null,
+        "start": "21:00",
+        "end": "02:00",
         "area": "Los Angeles",
         "venue": "The Moroccan Lounge (Los Angeles)",
-        "address": "",
+        "address": "901 E 1st St, Los Angeles, CA 90012",
         "why": "",
         "summary": "",
         "promoter": "",
-        "price": "",
+        "price": "$20+",
         "tags": [],
-        "sources": [],
-        "tickets": [],
+        "sources": [
+          "https://ra.co/events/2537059"
+        ],
+        "tickets": [
+          "https://ra.co/events/2537059"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=The%20Moroccan%20Lounge%20%28Los%20Angeles%29%2C%20Los%20Angeles",
           "apple": "https://maps.apple.com/?q=The%20Moroccan%20Lounge%20%28Los%20Angeles%29%2C%20Los%20Angeles"
@@ -3261,9 +3265,9 @@
         "coords_precise": false,
         "ra": {},
         "image": "https://party-scout.app/img/gen/daft-disko-halloween-los-6fb7.jpg",
-        "image_generated": true,
+        "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
