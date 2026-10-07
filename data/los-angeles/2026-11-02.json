@@ -810,7 +810,7 @@
         "end": "02:00",
         "area": "Los Angeles",
         "venue": "1720 (Los Angeles)",
-        "address": "",
+        "address": "1720 East 16th Street, Los Angeles, CA 90021",
         "why": "For fans of late-night DJ sets and dancing.",
         "summary": "A Mixlab night headlined by Sam Divine in Los Angeles on November 6, 2026. Tickets are $26–$92.",
         "promoter": "",
@@ -821,8 +821,12 @@
           "21+",
           "paid"
         ],
-        "sources": [],
-        "tickets": [],
+        "sources": [
+          "https://www.eventbrite.com/e/mixmag-lab-los-angeles-ft-sam-divine-tickets-1996639362080"
+        ],
+        "tickets": [
+          "https://www.eventbrite.com/e/mixmag-lab-los-angeles-ft-sam-divine-tickets-1996639362080"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=1720%20%28Los%20Angeles%29%2C%20Los%20Angeles",
           "apple": "https://maps.apple.com/?q=1720%20%28Los%20Angeles%29%2C%20Los%20Angeles"
@@ -830,11 +834,29 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://party-scout.app/img/gen/mixlab-sam-divine-cbd8.jpg",
         "image_generated": false,
         "popularity": 0,
         "enriched": 1,
-        "active": true
+        "active": true,
+        "lineup": [
+          {
+            "name": "Sam Divine",
+            "instagram": null
+          },
+          {
+            "name": "Sohmi",
+            "instagram": null
+          },
+          {
+            "name": "Juliet Mendoza",
+            "instagram": null
+          },
+          {
+            "name": "Divinefem",
+            "instagram": null
+          }
+        ]
       },
       {
         "id": "2026-11-02-music-narciss-masha-mar-marc-homer-568e62",
