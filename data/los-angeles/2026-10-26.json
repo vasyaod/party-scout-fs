@@ -3512,18 +3512,22 @@
         "day": "Sat",
         "date": "2026-10-31",
         "time": "21:00",
-        "start": null,
-        "end": null,
+        "start": "21:00",
+        "end": "02:00",
         "area": "Los Angeles",
         "venue": "Hotel Ziggy",
-        "address": "",
+        "address": "8462 Sunset Blvd, West Hollywood, CA 90069",
         "why": "",
         "summary": "",
         "promoter": "",
-        "price": "",
+        "price": "$20",
         "tags": [],
-        "sources": [],
-        "tickets": [],
+        "sources": [
+          "https://ra.co/events/2523994"
+        ],
+        "tickets": [
+          "https://ra.co/events/2523994"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Hotel%20Ziggy%2C%20Los%20Angeles",
           "apple": "https://maps.apple.com/?q=Hotel%20Ziggy%2C%20Los%20Angeles"
@@ -3531,10 +3535,10 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://party-scout.app/img/gen/haunted-hotel-halloween-99be.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
