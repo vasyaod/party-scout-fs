@@ -5731,7 +5731,7 @@
         "end": "23:00",
         "area": "Los Angeles",
         "venue": "Mystery Shop (Oxnard)",
-        "address": "",
+        "address": "420 South A Street, Oxnard, California 93030",
         "why": "A budget-friendly evening option with a live performance on a Saturday.",
         "summary": "Spike Hellis appears on October 17, 2026. Admission is $16.",
         "promoter": "",
@@ -5741,8 +5741,12 @@
           "paid",
           "music"
         ],
-        "sources": [],
-        "tickets": [],
+        "sources": [
+          "https://dice.fm/event/v3dbm6-tbd-presents-spike-hellis-17th-oct-mystery-shop-oxnard-tickets"
+        ],
+        "tickets": [
+          "https://dice.fm/event/v3dbm6-tbd-presents-spike-hellis-17th-oct-mystery-shop-oxnard-tickets"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Mystery%20Shop%20%28Oxnard%29%2C%20Los%20Angeles",
           "apple": "https://maps.apple.com/?q=Mystery%20Shop%20%28Oxnard%29%2C%20Los%20Angeles"
@@ -5750,11 +5754,12 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://party-scout.app/img/gen/spike-hellis-dee9.jpg",
         "image_generated": false,
         "popularity": 0,
         "enriched": 1,
-        "active": true
+        "active": true,
+        "lineup": []
       },
       {
         "id": "2026-10-12-music-prospa-fletch-4885db",
