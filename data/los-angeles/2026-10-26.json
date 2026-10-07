@@ -1719,12 +1719,12 @@
         "time": "23:00",
         "start": "23:00",
         "end": "05:00",
-        "area": "Los Angeles",
+        "area": "DTLA",
         "venue": "TBA (Los Angeles)",
         "address": "",
         "why": "To dance to disco and house cuts at a Halloween-themed party.",
         "summary": "Halloween dance night featuring Horse Meat Disco with Tommy Hart on October 30, 2026; tickets start at $80.",
-        "promoter": "",
+        "promoter": "Muy Muy Limited",
         "price": "$80+",
         "tags": [
           "disco",
@@ -1732,8 +1732,12 @@
           "halloween",
           "dance"
         ],
-        "sources": [],
-        "tickets": [],
+        "sources": [
+          "https://www.tixr.com/groups/muymuy/events/horse-meat-disco-halloween-w-tommy-hart-207246"
+        ],
+        "tickets": [
+          "https://www.tixr.com/groups/muymuy/events/horse-meat-disco-halloween-w-tommy-hart-207246"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Los%20Angeles",
           "apple": "https://maps.apple.com/?q=Los%20Angeles"
@@ -1741,7 +1745,7 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://party-scout.app/img/gen/horse-meat-disco-hallowe-3a46.jpg",
         "image_generated": false,
         "popularity": 0,
         "enriched": 1,
