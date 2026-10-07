@@ -539,7 +539,7 @@
         "time": "21:00",
         "start": "21:00",
         "end": "00:00",
-        "area": "Los Angeles",
+        "area": "Malibu",
         "venue": "Dreamland (Malibu)",
         "address": "",
         "why": "For a live concert experience in Los Angeles.",
@@ -551,8 +551,12 @@
           "ticketed",
           "concert"
         ],
-        "sources": [],
-        "tickets": [],
+        "sources": [
+          "https://www.tixr.com/groups/dreamland/events/elohim-203749"
+        ],
+        "tickets": [
+          "https://www.tixr.com/groups/dreamland/events/elohim-203749"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Dreamland%20%28Malibu%29%2C%20Los%20Angeles",
           "apple": "https://maps.apple.com/?q=Dreamland%20%28Malibu%29%2C%20Los%20Angeles"
