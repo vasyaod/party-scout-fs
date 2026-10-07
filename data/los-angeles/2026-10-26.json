@@ -4590,18 +4590,22 @@
         "day": "Sat",
         "date": "2026-10-31",
         "time": "15:00",
-        "start": null,
-        "end": null,
+        "start": "15:00",
+        "end": "21:00",
         "area": "Los Angeles",
         "venue": "Somewhere Special (Los Angeles)",
-        "address": "",
+        "address": "929 S Broadway, Los Angeles, CA 90015",
         "why": "",
         "summary": "",
         "promoter": "",
-        "price": "",
+        "price": "Free",
         "tags": [],
-        "sources": [],
-        "tickets": [],
+        "sources": [
+          "https://ra.co/events/2545919"
+        ],
+        "tickets": [
+          "https://ra.co/events/2545919"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Somewhere%20Special%20%28Los%20Angeles%29%2C%20Los%20Angeles",
           "apple": "https://maps.apple.com/?q=Somewhere%20Special%20%28Los%20Angeles%29%2C%20Los%20Angeles"
@@ -4610,9 +4614,9 @@
         "coords_precise": false,
         "ra": {},
         "image": "https://party-scout.app/img/gen/sunset-service-halloween-d421.jpg",
-        "image_generated": true,
+        "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
