@@ -5454,8 +5454,12 @@
           "dance",
           "ticketed"
         ],
-        "sources": [],
-        "tickets": [],
+        "sources": [
+          "https://www.ticketfairy.com/event/alwaysinmotion-20260902181120549"
+        ],
+        "tickets": [
+          "https://www.ticketfairy.com/event/alwaysinmotion-20260902181120549"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Spin%20Nightclub%20%28San%20Diego%29%2C%20Los%20Angeles",
           "apple": "https://maps.apple.com/?q=Spin%20Nightclub%20%28San%20Diego%29%2C%20Los%20Angeles"
@@ -5463,7 +5467,7 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://party-scout.app/img/gen/always-in-motion-anthony-8945.jpg",
         "image_generated": false,
         "popularity": 0,
         "enriched": 1,
