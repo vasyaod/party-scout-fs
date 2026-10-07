@@ -258,16 +258,20 @@
         "day": "Thu",
         "date": "2026-11-05",
         "time": "20:30",
-        "start": null,
+        "start": "20:30",
         "end": null,
         "area": "Los Angeles",
         "venue": "Casbah (San Diego)",
         "address": "",
-        "why": "",
-        "summary": "",
+        "why": "For a moderately priced evening out in Los Angeles.",
+        "summary": "Supertaste is an event in Los Angeles on November 5, 2026; tickets are priced $26–$32.",
         "promoter": "",
-        "price": "",
-        "tags": [],
+        "price": "$26–$32",
+        "tags": [
+          "ticketed",
+          "nightlife",
+          "los-angeles"
+        ],
         "sources": [],
         "tickets": [],
         "maps": {
@@ -280,7 +284,7 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
