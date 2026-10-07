@@ -1578,16 +1578,24 @@
         "time": "19:00",
         "start": "19:00",
         "end": null,
-        "area": "Los Angeles",
+        "area": "Hollywood",
         "venue": "Hollywood Palladium (Los Angeles)",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "6215 Sunset Blvd, Los Angeles, CA",
+        "why": "A big-room Latin house night at one of LA's classic Sunset Blvd venues.",
+        "summary": "Bolo plays a Sunday-night Latin house show at the Hollywood Palladium, doors and tickets via the venue.",
         "promoter": "",
         "price": "$119–$197",
-        "tags": [],
-        "sources": [],
-        "tickets": [],
+        "tags": [
+          "latin house",
+          "concert",
+          "hollywood palladium"
+        ],
+        "sources": [
+          "https://app.discotech.me/events/38259376-bolo-at-palladium"
+        ],
+        "tickets": [
+          "https://app.discotech.me/events/38259376-bolo-at-palladium"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Hollywood%20Palladium%20%28Los%20Angeles%29%2C%20Los%20Angeles",
           "apple": "https://maps.apple.com/?q=Hollywood%20Palladium%20%28Los%20Angeles%29%2C%20Los%20Angeles"
@@ -1595,7 +1603,7 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://party-scout.app/img/gen/bolo-2931.jpg",
         "image_generated": false,
         "popularity": 0,
         "enriched": 1,
