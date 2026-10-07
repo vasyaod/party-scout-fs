@@ -5172,18 +5172,22 @@
         "day": "Sat",
         "date": "2026-10-31",
         "time": "22:00",
-        "start": null,
-        "end": null,
+        "start": "22:00",
+        "end": "05:00",
         "area": "Los Angeles",
         "venue": "TBA (DTLA/Los Angeles)",
-        "address": "",
+        "address": "To Be Announced - DTLA",
         "why": "",
         "summary": "",
         "promoter": "",
-        "price": "",
+        "price": "$55–$100",
         "tags": [],
-        "sources": [],
-        "tickets": [],
+        "sources": [
+          "https://ra.co/events/2536248"
+        ],
+        "tickets": [
+          "https://ra.co/events/2536248"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Los%20Angeles",
           "apple": "https://maps.apple.com/?q=Los%20Angeles"
@@ -5192,9 +5196,9 @@
         "coords_precise": false,
         "ra": {},
         "image": "https://party-scout.app/img/gen/lost-miracle-sebastien-l-1746.jpg",
-        "image_generated": true,
+        "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
