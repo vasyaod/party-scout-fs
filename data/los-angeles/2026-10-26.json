@@ -1945,17 +1945,23 @@
         "day": "Fri",
         "date": "2026-10-30",
         "time": "22:00",
-        "start": null,
+        "start": "22:00",
         "end": null,
-        "area": "Los Angeles",
+        "area": "Hollywood",
         "venue": "The Spotlight (Los Angeles)",
         "address": "",
-        "why": "",
-        "summary": "",
+        "why": "A Halloween-eve Friday night out in Hollywood, with doors from 10pm.",
+        "summary": "Kidz Deez Daze is a late-night Friday music event at The Spotlight in Hollywood, listed on 19hz for October 30 with a 10pm start.",
         "promoter": "",
         "price": "",
-        "tags": [],
-        "sources": [],
+        "tags": [
+          "nightlife",
+          "hollywood",
+          "friday"
+        ],
+        "sources": [
+          "https://19hz.info/eventlisting_LosAngeles.php"
+        ],
         "tickets": [],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=The%20Spotlight%20%28Los%20Angeles%29%2C%20Los%20Angeles",
@@ -1967,7 +1973,7 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
