@@ -5605,18 +5605,28 @@
         "day": "Sat",
         "date": "2026-10-17",
         "time": "17:00",
-        "start": null,
-        "end": null,
+        "start": "17:00",
+        "end": "22:00",
         "area": "Los Angeles",
         "venue": "Ingram Plaza (San Diego)",
-        "address": "",
-        "why": "",
-        "summary": "",
-        "promoter": "",
+        "address": "2751 Dewey Rd, San Diego, CA 92106",
+        "why": "A rare RuPaul DJ set on home turf, backed by a club-leaning lineup of Bambii, LSDXOXO and Chippy Nonstop.",
+        "summary": "RuPaul plays a hometown DJ set at Insomniac's first Ingram Plaza show, an open-air lawn at Liberty Station in Point Loma, with Bambii b2b LSDXOXO, Chippy Nonstop, Alex Chapman and SHE/CLAY. 21+.",
+        "promoter": "Insomniac",
         "price": "",
-        "tags": [],
-        "sources": [],
-        "tickets": [],
+        "tags": [
+          "house",
+          "club",
+          "lgbtq",
+          "outdoor",
+          "21+"
+        ],
+        "sources": [
+          "https://www.insomniac.com/events/rupaul-2026-10-17-san-diego-ca/"
+        ],
+        "tickets": [
+          "https://www.insomniac.com/events/rupaul-2026-10-17-san-diego-ca/"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Ingram%20Plaza%20%28San%20Diego%29%2C%20Los%20Angeles",
           "apple": "https://maps.apple.com/?q=Ingram%20Plaza%20%28San%20Diego%29%2C%20Los%20Angeles"
@@ -5624,11 +5634,12 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://party-scout.app/img/gen/rupaul-bambii-b2b-lsdxox-5aa1.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
-        "active": true
+        "enriched": 1,
+        "active": true,
+        "lineup": []
       },
       {
         "id": "2026-10-12-music-sammy-virji-d61371",
