@@ -4034,18 +4034,22 @@
         "day": "Sat",
         "date": "2026-10-31",
         "time": "17:00",
-        "start": null,
-        "end": null,
+        "start": "17:00",
+        "end": "00:00",
         "area": "Los Angeles",
         "venue": "TBA - Arts District Los Angeles",
         "address": "",
         "why": "",
         "summary": "",
         "promoter": "",
-        "price": "",
+        "price": "$80",
         "tags": [],
-        "sources": [],
-        "tickets": [],
+        "sources": [
+          "https://ra.co/events/2491883"
+        ],
+        "tickets": [
+          "https://ra.co/events/2491883"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Los%20Angeles",
           "apple": "https://maps.apple.com/?q=Los%20Angeles"
@@ -4053,10 +4057,10 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://party-scout.app/img/gen/the-maze-halloween-arts-78f6.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
