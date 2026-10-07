@@ -3009,18 +3009,22 @@
         "day": "Sat",
         "date": "2026-10-31",
         "time": "17:00",
-        "start": null,
-        "end": null,
+        "start": "23:00",
+        "end": "06:00",
         "area": "Los Angeles",
         "venue": "Arts District (Los Angeles)",
         "address": "",
         "why": "",
         "summary": "",
         "promoter": "",
-        "price": "",
+        "price": "$70+",
         "tags": [],
-        "sources": [],
-        "tickets": [],
+        "sources": [
+          "https://ra.co/events/2505400"
+        ],
+        "tickets": [
+          "https://ra.co/events/2505400"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Arts%20District%20%28Los%20Angeles%29%2C%20Los%20Angeles",
           "apple": "https://maps.apple.com/?q=Arts%20District%20%28Los%20Angeles%29%2C%20Los%20Angeles"
@@ -3029,9 +3033,9 @@
         "coords_precise": false,
         "ra": {},
         "image": "https://party-scout.app/img/gen/the-blaze-kavinsky-claud-3ac8.jpg",
-        "image_generated": true,
+        "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
