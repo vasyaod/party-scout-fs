@@ -2026,16 +2026,19 @@
         "day": "Sat",
         "date": "2026-11-14",
         "time": "17:00",
-        "start": null,
-        "end": null,
+        "start": "17:00",
+        "end": "23:00",
         "area": "Los Angeles",
         "venue": "Gloria Molina Grand Park (Los Angeles)",
         "address": "",
-        "why": "",
-        "summary": "",
+        "why": "To attend a ticketed LA night with a wide range of price options.",
+        "summary": "An event titled 'Mestiza - Sacro' in Los Angeles on November 14, 2026; tickets are listed from $61 to $527.",
         "promoter": "",
-        "price": "",
-        "tags": [],
+        "price": "$61–$527",
+        "tags": [
+          "ticketed",
+          "live"
+        ],
         "sources": [],
         "tickets": [],
         "maps": {
@@ -2048,7 +2051,7 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
