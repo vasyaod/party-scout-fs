@@ -220,16 +220,20 @@
         "day": "Thu",
         "date": "2026-11-12",
         "time": "20:00",
-        "start": null,
+        "start": "20:00",
         "end": null,
-        "area": "Los Angeles",
+        "area": "West Hollywood",
         "venue": "The Roxy (Los Angeles)",
         "address": "",
-        "why": "",
-        "summary": "",
+        "why": "A close-up show at one of LA's most storied small rooms, tickets around $35.",
+        "summary": "Dylan Matthew plays The Roxy on the Sunset Strip, an intimate live-music night with doors for an 8pm start.",
         "promoter": "",
-        "price": "",
-        "tags": [],
+        "price": "$35",
+        "tags": [
+          "live music",
+          "the roxy",
+          "sunset strip"
+        ],
         "sources": [],
         "tickets": [],
         "maps": {
@@ -242,7 +246,7 @@
         "image": "https://party-scout.app/img/gen/dylan-matthew-7542.jpg",
         "image_generated": true,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
