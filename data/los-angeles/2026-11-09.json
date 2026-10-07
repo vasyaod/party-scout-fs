@@ -2357,15 +2357,22 @@
         "time": "20:00",
         "start": "20:00",
         "end": null,
-        "area": "Los Angeles",
+        "area": "Hollywood",
         "venue": "Hollywood Palladium (Los Angeles)",
         "address": "",
-        "why": "",
-        "summary": "",
-        "promoter": "",
+        "why": "A bass-music headliner set staged around a wrestling ring at one of LA's big rooms.",
+        "summary": "Valentino Khan hosts Extramania, a live music and pro wrestling night at Hollywood Palladium, with Henry Fong, Niiko x Swae, Myles Oneal and Ocho. 18+.",
+        "promoter": "Insomniac",
         "price": "",
-        "tags": [],
-        "sources": [],
+        "tags": [
+          "bass",
+          "trap",
+          "wrestling",
+          "18+"
+        ],
+        "sources": [
+          "https://app.discotech.me/events/38213630-insomniac-presents-valentino-khan-at-palladium"
+        ],
         "tickets": [],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Hollywood%20Palladium%20%28Los%20Angeles%29%2C%20Los%20Angeles",
@@ -2374,11 +2381,12 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://party-scout.app/img/gen/valentino-khan-661d.jpg",
         "image_generated": false,
         "popularity": 0,
         "enriched": 1,
-        "active": true
+        "active": true,
+        "lineup": []
       },
       {
         "id": "2026-11-09-music-volkoder-b6f4e4",
