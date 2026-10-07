@@ -1262,16 +1262,20 @@
         "day": "Fri",
         "date": "2026-10-30",
         "time": "22:00",
-        "start": null,
-        "end": null,
+        "start": "22:00",
+        "end": "03:00",
         "area": "Los Angeles",
         "venue": "Sound Nightclub (Los Angeles)",
         "address": "",
-        "why": "",
-        "summary": "",
+        "why": "To attend a ticketed nightlife event on the Halloween weekend.",
+        "summary": "Deep Dish is scheduled for October 30, 2026 in Los Angeles. Tickets start at $36+.",
         "promoter": "",
-        "price": "",
-        "tags": [],
+        "price": "$36+",
+        "tags": [
+          "ticketed",
+          "nightlife",
+          "halloween"
+        ],
         "sources": [],
         "tickets": [],
         "maps": {
@@ -1284,7 +1288,7 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
