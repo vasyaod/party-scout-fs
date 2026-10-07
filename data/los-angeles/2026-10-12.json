@@ -5486,7 +5486,7 @@
         "end": "03:00",
         "area": "Los Angeles",
         "venue": "Eq (San Diego)",
-        "address": "",
+        "address": "1271 University Ave, San Diego, CA",
         "why": "For an affordable chance to see a touring live show.",
         "summary": "A stop on the \"Gorillat: The Inner Mind Tour\" scheduled for October 17, 2026 in Los Angeles. Tickets are listed at $15–$33.",
         "promoter": "",
@@ -5497,8 +5497,12 @@
           "tour",
           "paid"
         ],
-        "sources": [],
-        "tickets": [],
+        "sources": [
+          "https://events.leapevents.com/event/led-presents-gorillat-eq-2026"
+        ],
+        "tickets": [
+          "https://events.leapevents.com/event/led-presents-gorillat-eq-2026"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Eq%20%28San%20Diego%29%2C%20Los%20Angeles",
           "apple": "https://maps.apple.com/?q=Eq%20%28San%20Diego%29%2C%20Los%20Angeles"
@@ -5506,7 +5510,7 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://party-scout.app/img/gen/gorillat-the-inner-mind-618d.jpg",
         "image_generated": false,
         "popularity": 0,
         "enriched": 1,
