@@ -406,23 +406,31 @@
         "id": "2026-11-09-music-sina-bathaie-4b35ed",
         "eid": "sina-bathaie-4400",
         "track": "music",
-        "category": "",
+        "category": "Concert",
         "name": "Sina Bathaie",
         "day": "Thu",
         "date": "2026-11-12",
         "time": "19:30",
-        "start": null,
-        "end": null,
+        "start": "19:30",
+        "end": "22:00",
         "area": "Los Angeles",
         "venue": "The Vermont (Hollywood/Los Angeles)",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "1020 N Vermont Ave, Los Angeles, CA 90029, United States",
+        "why": "To attend a ticketed live performance in Los Angeles.",
+        "summary": "Sina Bathaie performs at 1020 N Vermont Ave in Los Angeles on November 12, 2026. Tickets are $69.",
         "promoter": "",
-        "price": "",
-        "tags": [],
-        "sources": [],
-        "tickets": [],
+        "price": "$69",
+        "tags": [
+          "live",
+          "ticketed",
+          "paid"
+        ],
+        "sources": [
+          "https://ra.co/events/2514122"
+        ],
+        "tickets": [
+          "https://ra.co/events/2514122"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=The%20Vermont%20%28Hollywood/Los%20Angeles%29%2C%20Los%20Angeles",
           "apple": "https://maps.apple.com/?q=The%20Vermont%20%28Hollywood/Los%20Angeles%29%2C%20Los%20Angeles"
@@ -430,10 +438,10 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://party-scout.app/img/gen/sina-bathaie-4400.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
