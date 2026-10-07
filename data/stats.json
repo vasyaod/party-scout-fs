@@ -1,6 +1,6 @@
 {
   "kind": "stats",
-  "generated_at": "2026-10-07T13:45:10+00:00",
+  "generated_at": "2026-10-07T13:47:20+00:00",
   "weights_version": "v1",
   "total": {
     "n": 4897,
@@ -13,10 +13,10 @@
       "coords": 3489,
       "image": 2329,
       "tickets": 1945,
-      "price": 990,
+      "price": 987,
       "category": 942,
       "address": 860,
-      "start": 858,
+      "start": 855,
       "sources": 730,
       "time": 555,
       "why": 550,
@@ -48,9 +48,9 @@
           "tickets": 724,
           "category": 578,
           "address": 532,
-          "start": 456,
+          "start": 453,
           "sources": 445,
-          "price": 442,
+          "price": 439,
           "why": 319,
           "summary": 299,
           "tags": 295,
@@ -1343,16 +1343,16 @@
             "tba_rate": 0.0,
             "by_field_fixable": {
               "category": 5,
-              "start": 5,
               "address": 5,
               "why": 5,
               "summary": 5,
-              "price": 5,
               "tags": 5,
               "sources": 5,
               "tickets": 5,
               "coords": 5,
-              "image": 5
+              "image": 5,
+              "start": 4,
+              "price": 4
             },
             "weights_version": "v1"
           },
@@ -1442,7 +1442,7 @@
           "n": 3,
           "summary": {
             "n": 3,
-            "median": 0.3269,
+            "median": 0.4615,
             "p25": 0.3269,
             "pct_ge_075": 0.0,
             "invalid": 0,
@@ -1454,11 +1454,11 @@
               "coords": 3,
               "image": 3,
               "category": 2,
-              "start": 2,
               "why": 2,
               "summary": 2,
-              "price": 2,
-              "tags": 2
+              "tags": 2,
+              "start": 1,
+              "price": 1
             },
             "weights_version": "v1"
           },
@@ -2406,8 +2406,8 @@
               "tags": 57,
               "address": 55,
               "sources": 48,
-              "start": 41,
-              "price": 38,
+              "start": 40,
+              "price": 37,
               "time": 14,
               "area": 2,
               "maps": 2
@@ -2486,7 +2486,7 @@
               "date": "2026-11-01",
               "day": "Sun",
               "n": 9,
-              "median": 0.4311,
+              "median": 0.5532,
               "p25": 0.3778,
               "pct_ge_075": 0.4444,
               "invalid": 0,
