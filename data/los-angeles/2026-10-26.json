@@ -2104,10 +2104,10 @@
         "end": null,
         "area": "Los Angeles",
         "venue": "The Vermont (Hollywood/Los Angeles)",
-        "address": "",
+        "address": "1020 N Vermont Ave, Los Angeles, CA 90029",
         "why": "For high-energy electronic dancing on Halloween eve.",
         "summary": "EDM event in Los Angeles on October 30, 2026; tickets listed at $22.",
-        "promoter": "",
+        "promoter": "ACRO",
         "price": "$22",
         "tags": [
           "edm",
@@ -2115,8 +2115,13 @@
           "dance",
           "party"
         ],
-        "sources": [],
-        "tickets": [],
+        "sources": [
+          "https://19hz.info/eventlisting_LosAngeles.php",
+          "https://www.tixr.com/groups/acro/events/m-s-edm-halloween-latin-rave-los-angeles-ca-206949"
+        ],
+        "tickets": [
+          "https://www.tixr.com/groups/acro/events/m-s-edm-halloween-latin-rave-los-angeles-ca-206949"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=The%20Vermont%20%28Hollywood/Los%20Angeles%29%2C%20Los%20Angeles",
           "apple": "https://maps.apple.com/?q=The%20Vermont%20%28Hollywood/Los%20Angeles%29%2C%20Los%20Angeles"
@@ -2124,7 +2129,7 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://party-scout.app/img/gen/mas-edm-ca6b.jpg",
         "image_generated": false,
         "popularity": 0,
         "enriched": 1,
