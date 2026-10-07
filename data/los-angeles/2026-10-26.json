@@ -2389,18 +2389,27 @@
         "day": "Fri",
         "date": "2026-10-30",
         "time": "21:00",
-        "start": null,
-        "end": null,
-        "area": "Los Angeles",
+        "start": "21:00",
+        "end": "03:00",
+        "area": "DTLA",
         "venue": "1720 (Los Angeles)",
-        "address": "",
-        "why": "",
-        "summary": "",
-        "promoter": "",
-        "price": "",
-        "tags": [],
-        "sources": [],
-        "tickets": [],
+        "address": "1720 E 16th St, Los Angeles",
+        "why": "A rare PC Music label night in LA, on Halloween eve, under 1720's industrial ceiling and full sound rig.",
+        "summary": "PC Music's Pop Crypt takes over the 1720 Arts District warehouse with Crypt Cube for a night of hyperpop and pitched-up, maximalist club sound. Costumes strongly suggested. 18+.",
+        "promoter": "PC Music",
+        "price": "$46",
+        "tags": [
+          "hyperpop",
+          "pc music",
+          "18+"
+        ],
+        "sources": [
+          "https://19hz.info/eventlisting_LosAngeles.php",
+          "https://dice.fm/event/2wqddm-pop-crypt-crypt-cube-30th-oct-1720-los-angeles-tickets"
+        ],
+        "tickets": [
+          "https://dice.fm/event/2wqddm-pop-crypt-crypt-cube-30th-oct-1720-los-angeles-tickets"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=1720%20%28Los%20Angeles%29%2C%20Los%20Angeles",
           "apple": "https://maps.apple.com/?q=1720%20%28Los%20Angeles%29%2C%20Los%20Angeles"
@@ -2408,10 +2417,10 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://party-scout.app/img/gen/pop-crypt-crypt-cube-1ec3.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
