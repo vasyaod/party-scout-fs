@@ -172,16 +172,20 @@
         "day": "Thu",
         "date": "2026-11-05",
         "time": "21:00",
-        "start": null,
-        "end": null,
+        "start": "21:00",
+        "end": "02:00",
         "area": "Los Angeles",
         "venue": "EOS Lounge (Santa Barbara)",
         "address": "",
-        "why": "",
-        "summary": "",
+        "why": "Low-cost entry for an evening out in Los Angeles.",
+        "summary": "A night titled \"Main Phase\" taking place in Los Angeles on 2026-11-05 with $11 admission.",
         "promoter": "",
-        "price": "",
-        "tags": [],
+        "price": "$11",
+        "tags": [
+          "party",
+          "paid",
+          "nightlife"
+        ],
         "sources": [],
         "tickets": [],
         "maps": {
@@ -194,7 +198,7 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
