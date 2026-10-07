@@ -1587,23 +1587,27 @@
         "name": "Fideles",
         "day": "Fri",
         "date": "2026-10-30",
-        "time": "17:00",
-        "start": "17:00",
+        "time": "10pm–3am",
+        "start": "22:00",
         "end": "03:00",
         "area": "Los Angeles",
         "venue": "613 Imperial St (Los Angeles)",
-        "address": "",
+        "address": "613 Imperial Street, Los Angeles, CA 90021",
         "why": "To attend a ticketed nightlife event in Los Angeles on October 30.",
         "summary": "Fideles is an event in Los Angeles on October 30, 2026; tickets are listed at $35–$83.",
-        "promoter": "",
-        "price": "$35–$83",
+        "promoter": "Origin",
+        "price": "$47–$118",
         "tags": [
           "ticketed",
           "nightlife",
           "los-angeles"
         ],
-        "sources": [],
-        "tickets": [],
+        "sources": [
+          "https://www.eventbrite.com/e/origin-presents-fideles-tickets-1996533157419"
+        ],
+        "tickets": [
+          "https://www.eventbrite.com/e/origin-presents-fideles-tickets-1996533157419"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=613%20Imperial%20St%20%28Los%20Angeles%29%2C%20Los%20Angeles",
           "apple": "https://maps.apple.com/?q=613%20Imperial%20St%20%28Los%20Angeles%29%2C%20Los%20Angeles"
@@ -1611,7 +1615,7 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://party-scout.app/img/gen/fideles-5f0f.jpg",
         "image_generated": false,
         "popularity": 0,
         "enriched": 1,
