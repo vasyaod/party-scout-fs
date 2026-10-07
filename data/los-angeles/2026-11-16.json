@@ -301,16 +301,19 @@
         "day": "Thu",
         "date": "2026-11-19",
         "time": "20:00",
-        "start": null,
+        "start": "20:00",
         "end": null,
         "area": "Los Angeles",
         "venue": "Hollywood Palladium (Los Angeles)",
         "address": "",
-        "why": "",
-        "summary": "",
+        "why": "To attend a ticketed evening in Los Angeles with mid-range to premium pricing.",
+        "summary": "Bolo is scheduled for November 19, 2026 in Los Angeles; tickets are listed at $89–$177.",
         "promoter": "",
-        "price": "",
-        "tags": [],
+        "price": "$89–$177",
+        "tags": [
+          "ticketed",
+          "paid"
+        ],
         "sources": [],
         "tickets": [],
         "maps": {
@@ -323,7 +326,7 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
