@@ -1985,16 +1985,19 @@
         "day": "Fri",
         "date": "2026-10-30",
         "time": "22:00",
-        "start": null,
-        "end": null,
+        "start": "22:00",
+        "end": "01:30",
         "area": "Los Angeles",
         "venue": "Time Nightclub (Costa Mesa)",
         "address": "",
-        "why": "",
-        "summary": "",
+        "why": "For a ticketed late-October night out in LA.",
+        "summary": "Kream is scheduled in Los Angeles on October 30, 2026. Advance tickets are listed from $29.",
         "promoter": "",
-        "price": "",
-        "tags": [],
+        "price": "$29 pre",
+        "tags": [
+          "ticketed",
+          "nightlife"
+        ],
         "sources": [],
         "tickets": [],
         "maps": {
@@ -2007,7 +2010,7 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {

@@ -1244,18 +1244,25 @@
         "day": "Fri",
         "date": "2026-11-13",
         "time": "22:00",
-        "start": null,
-        "end": null,
+        "start": "22:00",
+        "end": "03:00",
         "area": "Los Angeles",
         "venue": "Dirt Dog Compound (Commerce)",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "2909 Supply Ave, Commerce, CA 90040, USA",
+        "why": "Go for an inexpensive night out with a modest cover in southeast LA County.",
+        "summary": "Riot is scheduled for 2026-11-13 at 2909 Supply Ave in Commerce, with tickets priced between $8 and $20.",
         "promoter": "",
-        "price": "",
-        "tags": [],
-        "sources": [],
-        "tickets": [],
+        "price": "$8–$20",
+        "tags": [
+          "paid",
+          "ticketed"
+        ],
+        "sources": [
+          "https://ra.co/events/2505654"
+        ],
+        "tickets": [
+          "https://ra.co/events/2505654"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Dirt%20Dog%20Compound%20%28Commerce%29%2C%20Los%20Angeles",
           "apple": "https://maps.apple.com/?q=Dirt%20Dog%20Compound%20%28Commerce%29%2C%20Los%20Angeles"
@@ -1263,10 +1270,10 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://party-scout.app/img/gen/riot-e57b.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
