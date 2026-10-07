@@ -2095,19 +2095,24 @@
         "time": "19:00",
         "start": null,
         "end": null,
-        "area": "Los Angeles",
+        "area": "Koreatown",
         "venue": "The Wiltern",
-        "address": "",
-        "why": "To experience live orchestral/classical music in the city.",
-        "summary": "Buena Vista Orchestra is scheduled for 2026-11-08 in Los Angeles. Venue details are not listed.",
+        "address": "3790 Wilshire Blvd, Los Angeles, CA 90010",
+        "why": "Classic Havana dance music played live by a full horn-and-vocals band in one of LA's most beautiful theaters.",
+        "summary": "A ten-piece Cuban ensemble carrying the Buena Vista Social Club sound — son, bolero, mambo and cha-cha-chá — to the Wiltern's art deco hall on a Sunday night.",
         "promoter": "",
         "price": "",
         "tags": [
           "orchestra",
           "live",
-          "classical"
+          "classical",
+          "cuban",
+          "son",
+          "latin"
         ],
-        "sources": [],
+        "sources": [
+          "https://app.discotech.me/events/38195180-buena-vista-orchestra-at-the-wiltern"
+        ],
         "tickets": [],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=The%20Wiltern%2C%20Los%20Angeles",
@@ -2116,7 +2121,7 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://party-scout.app/img/gen/buena-vista-orchestra-3502.jpg",
         "image_generated": false,
         "popularity": 0,
         "enriched": 1,
