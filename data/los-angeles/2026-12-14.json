@@ -209,16 +209,24 @@
         "time": "21:00",
         "start": "21:00",
         "end": null,
-        "area": "Los Angeles",
+        "area": "Pomona",
         "venue": "Fox Theater (Pomona)",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "301 S Garey Ave, Pomona, CA",
+        "why": "A Saturday-night show in the historic Fox Theater, a short drive east of LA.",
+        "summary": "Bolo plays the Fox Theater in Pomona on Saturday night, doors-to-late for an 18+ crowd.",
         "promoter": "",
         "price": "",
-        "tags": [],
-        "sources": [],
-        "tickets": [],
+        "tags": [
+          "live",
+          "18+",
+          "pomona"
+        ],
+        "sources": [
+          "https://app.discotech.me/events/38265363-bolo-at-fox-theater-pomona"
+        ],
+        "tickets": [
+          "https://app.discotech.me/events/38265363-bolo-at-fox-theater-pomona"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Fox%20Theater%20%28Pomona%29%2C%20Los%20Angeles",
           "apple": "https://maps.apple.com/?q=Fox%20Theater%20%28Pomona%29%2C%20Los%20Angeles"
@@ -226,7 +234,7 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://party-scout.app/img/gen/bolo-28e2.jpg",
         "image_generated": false,
         "popularity": 0,
         "enriched": 1,
