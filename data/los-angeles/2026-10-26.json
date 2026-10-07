@@ -1457,23 +1457,31 @@
         "id": "2026-10-26-music-escape-halloween-d02c64",
         "eid": "escape-halloween-4926",
         "track": "music",
-        "category": "",
+        "category": "Festival",
         "name": "Escape Halloween",
         "day": "Fri",
         "date": "2026-10-30",
         "time": "16:00",
-        "start": null,
-        "end": null,
+        "start": "16:00",
+        "end": "02:00",
         "area": "Los Angeles",
         "venue": "NOS Event Center",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "689 South E Street, San Bernardino, CA 92408",
+        "why": "To attend a themed Halloween party with costumes and a spooky atmosphere.",
+        "summary": "Escape Halloween is a Halloween-themed event scheduled for October 30, 2026 at 689 South E Street in San Bernardino, CA.",
         "promoter": "",
         "price": "",
-        "tags": [],
-        "sources": [],
-        "tickets": [],
+        "tags": [
+          "halloween",
+          "party",
+          "costume"
+        ],
+        "sources": [
+          "https://ra.co/events/2523917"
+        ],
+        "tickets": [
+          "https://ra.co/events/2523917"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=NOS%20Event%20Center%2C%20Los%20Angeles",
           "apple": "https://maps.apple.com/?q=NOS%20Event%20Center%2C%20Los%20Angeles"
@@ -1481,10 +1489,10 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://party-scout.app/img/gen/escape-halloween-4926.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
