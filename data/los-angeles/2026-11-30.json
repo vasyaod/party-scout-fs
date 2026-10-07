@@ -293,18 +293,22 @@
         "day": "Fri",
         "date": "2026-12-04",
         "time": "21:00",
-        "start": null,
-        "end": null,
+        "start": "21:00",
+        "end": "01:00",
         "area": "Los Angeles",
         "venue": "Shrine Expo Hall (Los Angeles)",
-        "address": "",
+        "address": "665 W. Jefferson Blvd, Los Angeles, CA 90007",
         "why": "",
         "summary": "",
         "promoter": "",
-        "price": "",
+        "price": "$54",
         "tags": [],
-        "sources": [],
-        "tickets": [],
+        "sources": [
+          "https://ra.co/events/2507538"
+        ],
+        "tickets": [
+          "https://ra.co/events/2507538"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Shrine%20Expo%20Hall%20%28Los%20Angeles%29%2C%20Los%20Angeles",
           "apple": "https://maps.apple.com/?q=Shrine%20Expo%20Hall%20%28Los%20Angeles%29%2C%20Los%20Angeles"
@@ -315,7 +319,7 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
