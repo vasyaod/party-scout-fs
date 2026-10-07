@@ -1867,12 +1867,12 @@
         "time": "17:30",
         "start": null,
         "end": null,
-        "area": "Los Angeles",
+        "area": "Hollywood",
         "venue": "Hollywood Forever",
-        "address": "",
-        "why": "Good pick for a Halloween-eve night out.",
-        "summary": "An event titled \"Jennifer's Body\" is scheduled for October 30, 2026 in Los Angeles.",
-        "promoter": "",
+        "address": "6000 Santa Monica Blvd, Los Angeles",
+        "why": "A cult-classic horror screening among the graves on Halloween weekend, with DJs and a photobooth.",
+        "summary": "Cinespia's outdoor screening of Jennifer's Body (2009, dir. Karyn Kusama) at Hollywood Forever Cemetery, kicking off Halloween weekend with DJ sets, burgers and a free photobooth. Gates 5:30pm, film 7:15pm; listed as sold out.",
+        "promoter": "Cinespia",
         "price": "",
         "tags": [
           "halloween",
@@ -1880,7 +1880,9 @@
           "event",
           "october"
         ],
-        "sources": [],
+        "sources": [
+          "https://cinespia.org/event/jennifers-body/"
+        ],
         "tickets": [],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Hollywood%20Forever%2C%20Los%20Angeles",
@@ -1889,7 +1891,7 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://party-scout.app/img/gen/jennifer-s-body-f8f3.jpg",
         "image_generated": false,
         "popularity": 0,
         "enriched": 1,
