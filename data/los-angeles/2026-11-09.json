@@ -2271,16 +2271,25 @@
         "time": "18:00",
         "start": "18:00",
         "end": "22:30",
-        "area": "Los Angeles",
+        "area": "DTLA",
         "venue": "1720 (Los Angeles)",
-        "address": "",
-        "why": "",
-        "summary": "",
-        "promoter": "",
+        "address": "1720 E 16th St, Los Angeles, California 90021",
+        "why": "Dreamy synthpop and electroclash on a Saturday evening at one of LA's best small rooms, all ages and done by 10:30.",
+        "summary": "Electropop duo Suzy Sheer play 1720 with support from Patch+, presented by Minty Boi. All ages, doors 6pm.",
+        "promoter": "Minty Boi",
         "price": "$29",
-        "tags": [],
-        "sources": [],
-        "tickets": [],
+        "tags": [
+          "electropop",
+          "synthpop",
+          "electroclash",
+          "all-ages"
+        ],
+        "sources": [
+          "https://dice.fm/event/53mlwy-minty-boi-presents-suzy-sheer-live-in-los-angeles-with-patch-14th-nov-1720-los-angeles-tickets"
+        ],
+        "tickets": [
+          "https://dice.fm/event/53mlwy-minty-boi-presents-suzy-sheer-live-in-los-angeles-with-patch-14th-nov-1720-los-angeles-tickets"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=1720%20%28Los%20Angeles%29%2C%20Los%20Angeles",
           "apple": "https://maps.apple.com/?q=1720%20%28Los%20Angeles%29%2C%20Los%20Angeles"
@@ -2288,7 +2297,7 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://party-scout.app/img/gen/suzy-sheer-patch-9f77.jpg",
         "image_generated": false,
         "popularity": 0,
         "enriched": 1,

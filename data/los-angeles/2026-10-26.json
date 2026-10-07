@@ -3082,18 +3082,26 @@
         "day": "Sat",
         "date": "2026-10-31",
         "time": "21:00",
-        "start": null,
-        "end": null,
+        "start": "21:00",
+        "end": "01:00",
         "area": "Los Angeles",
         "venue": "Camille's at The Bellwether (Los Angeles)",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "333 S Boylston St, Los Angeles, CA 90017",
+        "why": "Budget-friendly Halloween night out in downtown LA.",
+        "summary": "Brijean is scheduled for October 31, 2026 at 333 S Boylston St in Los Angeles. Admission is $12.",
         "promoter": "",
-        "price": "",
-        "tags": [],
-        "sources": [],
-        "tickets": [],
+        "price": "$12",
+        "tags": [
+          "halloween",
+          "paid",
+          "los-angeles"
+        ],
+        "sources": [
+          "https://ra.co/events/2521322"
+        ],
+        "tickets": [
+          "https://ra.co/events/2521322"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Camille%27s%20at%20The%20Bellwether%20%28Los%20Angeles%29%2C%20Los%20Angeles",
           "apple": "https://maps.apple.com/?q=Camille%27s%20at%20The%20Bellwether%20%28Los%20Angeles%29%2C%20Los%20Angeles"
@@ -3102,9 +3110,9 @@
         "coords_precise": false,
         "ra": {},
         "image": "https://party-scout.app/img/gen/brijean-e100.jpg",
-        "image_generated": true,
+        "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
