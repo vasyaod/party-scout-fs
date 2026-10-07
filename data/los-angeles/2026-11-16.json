@@ -5,7 +5,7 @@
   "location": "Los Angeles & SoCal",
   "city": "los-angeles",
   "city_label": "Los Angeles",
-  "generated_at": "2026-10-06",
+  "generated_at": "2026-10-07",
   "tracks": {
     "music": [
       {
@@ -171,21 +171,25 @@
         "id": "2026-11-16-music-roz-se-esta-haciendo-tarde-6ef3f3",
         "eid": "roz-se-esta-haciendo-tar-a34e",
         "track": "music",
-        "category": "",
+        "category": "Concert",
         "name": "Roz: Se Esta Haciendo Tarde",
         "day": "Tue",
         "date": "2026-11-17",
         "time": "19:00",
-        "start": null,
+        "start": "19:00",
         "end": null,
         "area": "Los Angeles",
         "venue": "House of Blues (San Diego)",
         "address": "",
-        "why": "",
-        "summary": "",
+        "why": "For a ticketed night out in Los Angeles on Nov. 17.",
+        "summary": "Roz: Se Esta Haciendo Tarde is scheduled for November 17, 2026 in Los Angeles; tickets start at $106+.",
         "promoter": "",
-        "price": "",
-        "tags": [],
+        "price": "$106+",
+        "tags": [
+          "ticketed",
+          "evening",
+          "nightlife"
+        ],
         "sources": [],
         "tickets": [],
         "maps": {
@@ -198,7 +202,7 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
