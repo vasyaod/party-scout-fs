@@ -580,16 +580,19 @@
         "day": "Thu",
         "date": "2026-10-29",
         "time": "22:00",
-        "start": null,
-        "end": null,
+        "start": "22:00",
+        "end": "03:00",
         "area": "Los Angeles",
         "venue": "Sound Nightclub (Los Angeles)",
         "address": "",
-        "why": "",
-        "summary": "",
+        "why": "For an affordable night out in Los Angeles.",
+        "summary": "Rivo is an event on 2026-10-29 in Los Angeles with a $25 admission.",
         "promoter": "",
-        "price": "",
-        "tags": [],
+        "price": "$25",
+        "tags": [
+          "ticketed",
+          "nightlife"
+        ],
         "sources": [],
         "tickets": [],
         "maps": {
@@ -602,7 +605,7 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
