@@ -7587,18 +7587,27 @@
         "day": "Fri",
         "date": "2026-10-09",
         "time": "20:00",
-        "start": null,
-        "end": null,
+        "start": "20:00",
+        "end": "00:00",
         "area": "Los Angeles",
         "venue": "Baby Battista @ Nico's",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "3111 Glendale Blvd #2, Los Angeles, CA 90039",
+        "why": "To spend an evening at a neighborhood wine bar and sample drinks with friends.",
+        "summary": "An event called GOOD EVENiNG at Nico's Wine is scheduled for 2026-10-09 at 3111 Glendale Blvd #2 in Los Angeles.",
         "promoter": "",
         "price": "Free",
-        "tags": [],
-        "sources": [],
-        "tickets": [],
+        "tags": [
+          "wine",
+          "21+",
+          "drinks",
+          "bar"
+        ],
+        "sources": [
+          "https://ra.co/events/2555118"
+        ],
+        "tickets": [
+          "https://ra.co/events/2555118"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Baby%20Battista%20%40%20Nico%27s%2C%20Los%20Angeles",
           "apple": "https://maps.apple.com/?q=Baby%20Battista%20%40%20Nico%27s%2C%20Los%20Angeles"
@@ -7606,10 +7615,10 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://party-scout.app/img/gen/good-evening-at-nico-s-w-9677.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
