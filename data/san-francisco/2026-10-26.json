@@ -8408,16 +8408,23 @@
         "date": "2026-10-30",
         "time": "6:00 PM",
         "start": "18:00",
-        "end": null,
-        "area": "",
+        "end": "21:00",
+        "area": "SF",
         "venue": "Embarcadero Plaza",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "1 Market Street, San Francisco, CA",
+        "why": "A free, unscripted group ride through downtown SF at golden hour — bring a bike and lights and join the crowd.",
+        "summary": "The monthly last-Friday bike ride: hundreds of cyclists gather at Embarcadero Plaza and roll through the city together, no registration and no cost.",
         "promoter": "",
-        "price": "",
-        "tags": [],
-        "sources": [],
+        "price": "Free",
+        "tags": [
+          "bike ride",
+          "free",
+          "outdoors",
+          "community"
+        ],
+        "sources": [
+          "https://sf.funcheap.com/san-francisco-critical-mass-last-friday-of-the-month-17/"
+        ],
         "tickets": [],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Embarcadero%20Plaza",
@@ -8426,10 +8433,10 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://party-scout.app/img/gen/critical-mass-san-franci-80be.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       }
     ]
