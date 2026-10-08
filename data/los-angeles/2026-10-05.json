@@ -6723,20 +6723,24 @@
         "time": "19:00",
         "start": null,
         "end": null,
-        "area": "Los Angeles",
+        "area": "Hollywood",
         "venue": "Hollywood Bowl",
         "address": "",
         "why": "To hear laid-back indie-rock and relaxed, melodic songwriting in a live setting.",
         "summary": "Mac DeMarco performs in Los Angeles on October 9, 2026.",
         "promoter": "",
-        "price": "",
+        "price": "From $54",
         "tags": [
           "indie",
           "rock",
           "live"
         ],
-        "sources": [],
-        "tickets": [],
+        "sources": [
+          "https://www.hollywoodbowl.com/events/performances/4363/2026-10-09/mac-demarco"
+        ],
+        "tickets": [
+          "https://www.hollywoodbowl.com/events/performances/4363/2026-10-09/mac-demarco"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Hollywood%20Bowl%2C%20Los%20Angeles",
           "apple": "https://maps.apple.com/?q=Hollywood%20Bowl%2C%20Los%20Angeles"
@@ -6744,7 +6748,7 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://party-scout.app/img/gen/mac-demarco-6c0c.jpg",
         "image_generated": false,
         "popularity": 0,
         "enriched": 1,
