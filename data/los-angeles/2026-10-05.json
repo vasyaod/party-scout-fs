@@ -8742,16 +8742,20 @@
         "day": "Wed",
         "date": "2026-10-07",
         "time": "18:00",
-        "start": null,
-        "end": null,
+        "start": "18:00",
+        "end": "20:30",
         "area": "Los Angeles",
         "venue": "LAX Street Parking",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "9111 Falmouth Ave., Los Angeles, CA",
+        "why": "Good for an outdoor coastal walk and exploring nearby park and beach trails.",
+        "summary": "Listed for 2026-10-07 at 9111 Falmouth Ave., Los Angeles. The listing references a roughly five-mile walk from Rick's LAX office and nearby park, beach, and a 'secret trail'.",
         "promoter": "",
         "price": "",
-        "tags": [],
+        "tags": [
+          "outdoor",
+          "walking",
+          "beach"
+        ],
         "sources": [
           "https://www.meetup.com/los-angeles-hiking-group/events/316791544/"
         ],
@@ -8763,10 +8767,10 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://party-scout.app/img/gen/5mi-walk-from-near-ricks-c0bc.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
