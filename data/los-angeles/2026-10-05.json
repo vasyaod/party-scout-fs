@@ -6640,9 +6640,9 @@
         "time": "10pm–3am",
         "start": "22:00",
         "end": "03:00",
-        "area": "Los Angeles",
+        "area": "DTLA",
         "venue": "Exchange LA",
-        "address": "",
+        "address": "618 S Spring St, Los Angeles, CA",
         "why": "For a late-night dancefloor of electronic DJs and a budget-friendly $15 cover.",
         "summary": "A DJ night in Los Angeles on Oct 9, 2026 featuring Kyle Watson, Trace, No Static (NC), and Miller; runs 10pm–3am with a $15 cover.",
         "promoter": "",
@@ -6654,8 +6654,13 @@
           "paid",
           "late-night"
         ],
-        "sources": [],
-        "tickets": [],
+        "sources": [
+          "https://app.discotech.me/events/38247347-kyle-watson-360deg-at-exchange-la",
+          "https://19hz.info/eventlisting_LosAngeles.php"
+        ],
+        "tickets": [
+          "https://www.tixr.com/groups/exchangela/events/kyle-watson-360-200843"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Exchange%20LA%2C%20Los%20Angeles",
           "apple": "https://maps.apple.com/?q=Exchange%20LA%2C%20Los%20Angeles"
@@ -6663,7 +6668,7 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://party-scout.app/img/gen/kyle-watson-trace-no-sta-74e7.jpg",
         "image_generated": false,
         "popularity": 0,
         "enriched": 1,
