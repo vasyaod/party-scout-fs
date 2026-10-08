@@ -8523,16 +8523,20 @@
         "day": "Fri",
         "date": "2026-10-09",
         "time": "19:15",
-        "start": null,
-        "end": null,
+        "start": "19:15",
+        "end": "20:15",
         "area": "Los Angeles",
         "venue": "Silverlake recreation center",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "1873 Silverlake Blvd, Los angeles, CA",
+        "why": "To get fresh air and explore Silverlake's local streets and sights.",
+        "summary": "A neighborhood walk in Silverlake meeting at 1873 Silverlake Blvd on 2026-10-09.",
         "promoter": "",
         "price": "",
-        "tags": [],
+        "tags": [
+          "outdoor",
+          "walking",
+          "community"
+        ],
         "sources": [
           "https://www.meetup.com/lahikingandfitness/events/315913840/"
         ],
@@ -8544,10 +8548,10 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://party-scout.app/img/gen/easy-walk-around-silverl-5ee9.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
