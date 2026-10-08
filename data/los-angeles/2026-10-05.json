@@ -9090,16 +9090,19 @@
         "day": "Sun",
         "date": "2026-10-11",
         "time": "10:00",
-        "start": null,
-        "end": null,
+        "start": "10:00",
+        "end": "12:00",
         "area": "Los Angeles",
         "venue": "Los Angeles",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "Los Angeles, CA",
+        "why": "To attend an upcoming LA event and see the lineup and venue once they're announced.",
+        "summary": "PKLA is scheduled for October 11, 2026 in Los Angeles; venue, time, and lineup are listed as TBA.",
         "promoter": "",
         "price": "",
-        "tags": [],
+        "tags": [
+          "tba",
+          "los-angeles"
+        ],
         "sources": [
           "https://www.meetup.com/parkourla/events/316652835/"
         ],
@@ -9111,10 +9114,10 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://party-scout.app/img/gen/pkla-tba-bc7d.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
