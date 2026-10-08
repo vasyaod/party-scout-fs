@@ -7630,18 +7630,25 @@
         "day": "Fri",
         "date": "2026-10-09",
         "time": "16:00",
-        "start": null,
-        "end": null,
+        "start": "16:00",
+        "end": "17:00",
         "area": "Los Angeles",
         "venue": "TBA - Select FM London",
         "address": "",
-        "why": "",
-        "summary": "",
+        "why": "To attend a curated local nightlife event.",
+        "summary": "Grace Bones presents \"House of Chic\" on 2026-10-09 in Los Angeles.",
         "promoter": "",
         "price": "Free",
-        "tags": [],
-        "sources": [],
-        "tickets": [],
+        "tags": [
+          "dj",
+          "nightlife"
+        ],
+        "sources": [
+          "https://ra.co/events/2552875"
+        ],
+        "tickets": [
+          "https://ra.co/events/2552875"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Los%20Angeles",
           "apple": "https://maps.apple.com/?q=Los%20Angeles"
@@ -7649,10 +7656,10 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://party-scout.app/img/gen/grace-bones-presents-hou-3caf.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
