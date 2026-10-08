@@ -8563,16 +8563,21 @@
         "day": "Fri",
         "date": "2026-10-09",
         "time": "19:15",
-        "start": null,
-        "end": null,
+        "start": "19:15",
+        "end": "20:15",
         "area": "Los Angeles",
         "venue": "Silver Lake Recreation Center",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "1850 W Silver Lake Dr, Los Angeles, CA",
+        "why": "For a relaxed evening stroll to take in the neighborhood atmosphere.",
+        "summary": "A low-key Friday evening walk around the Silver Lake area on 2026-10-09, centered at 1850 W Silver Lake Dr, Los Angeles. No formal lineup, time, or ticketing information is listed.",
         "promoter": "",
         "price": "",
-        "tags": [],
+        "tags": [
+          "outdoor",
+          "walking",
+          "neighborhood",
+          "evening"
+        ],
         "sources": [
           "https://www.meetup.com/los-angeles-hiking-group/events/316206049/"
         ],
@@ -8584,10 +8589,10 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://party-scout.app/img/gen/friday-easy-night-walk-a-8928.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
