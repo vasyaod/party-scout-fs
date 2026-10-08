@@ -6794,23 +6794,32 @@
         "id": "2026-10-12-music-nightshift-after-hours-7bd4e1",
         "eid": "nightshift-after-hours-be8f",
         "track": "music",
-        "category": "",
+        "category": "Nightclub",
         "name": "Nightshift After Hours",
         "day": "Sun",
         "date": "2026-10-18",
-        "time": "",
-        "start": null,
-        "end": null,
+        "time": "11pm–5am",
+        "start": "23:00",
+        "end": "05:00",
         "area": "Los Angeles",
         "venue": "129 East 3rd Street",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "129 E. 3rd St, Los Angeles, Ca, 90013",
+        "why": "For late-night dancing and an all-night free event.",
+        "summary": "An after-hours party on October 18, 2026 at 129 E. 3rd St in DTLA running 11pm–5am. Admission is free.",
         "promoter": "",
-        "price": "",
-        "tags": [],
-        "sources": [],
-        "tickets": [],
+        "price": "Free",
+        "tags": [
+          "free",
+          "after-hours",
+          "dance",
+          "late-night"
+        ],
+        "sources": [
+          "https://ra.co/events/2555216"
+        ],
+        "tickets": [
+          "https://ra.co/events/2555216"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=129%20East%203rd%20Street%2C%20Los%20Angeles",
           "apple": "https://maps.apple.com/?q=129%20East%203rd%20Street%2C%20Los%20Angeles"
@@ -6819,9 +6828,9 @@
         "coords_precise": false,
         "ra": {},
         "image": "https://party-scout.app/img/gen/nightshift-after-hours-be8f.jpg",
-        "image_generated": true,
+        "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       }
     ],
