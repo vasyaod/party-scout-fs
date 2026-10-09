@@ -10080,21 +10080,27 @@
         "name": "Tinzo + Jojo",
         "day": "Sun",
         "date": "2026-10-25",
-        "time": "",
-        "start": null,
-        "end": null,
+        "time": "2–7pm",
+        "start": "14:00",
+        "end": "19:00",
         "area": "San Francisco",
         "venue": "San Francisco Belle Hornblower",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "1425 Folsom St, San Francisco, CA 94103",
+        "why": "To attend an afternoon, ticketed event in SoMa.",
+        "summary": "Tinzo + Jojo is a ticketed event at 1425 Folsom St in SoMa on October 25, 2026, running 2–7pm with $25 entry.",
         "promoter": "",
-        "price": "",
-        "tags": [],
-        "sources": [
-          "https://edmtrain.com/san-francisco-ca"
+        "price": "$25",
+        "tags": [
+          "ticketed",
+          "afternoon"
         ],
-        "tickets": [],
+        "sources": [
+          "https://edmtrain.com/san-francisco-ca",
+          "https://ra.co/events/2474671"
+        ],
+        "tickets": [
+          "https://ra.co/events/2474671"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=San%20Francisco%20Belle%20Hornblower%2C%20San%20Francisco",
           "apple": "https://maps.apple.com/?q=San%20Francisco%20Belle%20Hornblower%2C%20San%20Francisco"
@@ -10103,9 +10109,9 @@
         "coords_precise": false,
         "ra": {},
         "image": "https://party-scout.app/img/gen/tinzo-jojo-bebb.jpg",
-        "image_generated": true,
+        "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       }
     ],
