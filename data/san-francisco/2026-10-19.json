@@ -2339,7 +2339,8 @@
           "pop"
         ],
         "sources": [
-          "https://dothebay.com/events/2026/10/22/george-clanton-ideasforconversations-tickets"
+          "https://dothebay.com/events/2026/10/22/george-clanton-ideasforconversations-tickets",
+          "https://edmtrain.com/san-francisco-ca"
         ],
         "tickets": [],
         "maps": {
@@ -2350,7 +2351,7 @@
         "coords_precise": false,
         "ra": {},
         "image": "https://party-scout.app/img/gen/george-clanton-65fa.jpg",
-        "image_generated": false,
+        "image_generated": true,
         "popularity": 0,
         "enriched": 2,
         "active": true
@@ -2853,7 +2854,9 @@
         ],
         "sources": [
           "https://ra.co/events/2511931",
-          "https://dothebay.com/events/2026/10/22/x-club-tickets"
+          "https://dothebay.com/events/2026/10/22/x-club-tickets",
+          "https://1015.com",
+          "https://edmtrain.com/san-francisco-ca"
         ],
         "tickets": [
           "https://ra.co/events/2511931"
@@ -2949,7 +2952,7 @@
         "coords_precise": false,
         "ra": {},
         "image": "https://party-scout.app/img/gen/all-systems-live-1-yr-an-bb99.jpg",
-        "image_generated": true,
+        "image_generated": false,
         "popularity": 0,
         "enriched": 2,
         "active": true
@@ -3104,10 +3107,10 @@
         "name": "Club De Combat, Jay Bird, Baby",
         "day": "Fri",
         "date": "2026-10-23",
-        "time": "9:30pm",
+        "time": "9:30pm-2am",
         "start": "21:30",
         "end": "02:00",
-        "area": "San Francisco/Oakland",
+        "area": "San Francisco",
         "venue": "Audio",
         "address": "",
         "why": "For a late-night out with music and dancing.",
@@ -3117,7 +3120,9 @@
         "tags": [
           "live-music"
         ],
-        "sources": [],
+        "sources": [
+          "https://edmtrain.com/san-francisco-ca"
+        ],
         "tickets": [],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Audio%2C%20San%20Francisco/Oakland",
@@ -3126,8 +3131,8 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
-        "image_generated": false,
+        "image": "https://party-scout.app/img/gen/club-de-combat-jay-bird-4dda.jpg",
+        "image_generated": true,
         "popularity": 0,
         "enriched": 2,
         "active": true
@@ -3258,52 +3263,6 @@
         ]
       },
       {
-        "id": "2026-10-19-music-first-contact-1cab0f",
-        "eid": "first-contact-8701",
-        "track": "music",
-        "category": "",
-        "name": "First Contact",
-        "day": "Fri",
-        "date": "2026-10-23",
-        "time": "9pm–3am",
-        "start": "21:00",
-        "end": "02:00",
-        "area": "San Francisco/Oakland",
-        "venue": "Public Works",
-        "address": "161 Erie St, San Francisco, CA 94103",
-        "why": "Playful sci-fi disco in the Loft with a costume theme (dress as your home planet) — a fun, low-priced Friday.",
-        "summary": "First Contact: An Extraterrestrial Disco — a cosmic-themed disco night in the Public Works Loft, 21+, limited capacity, with funky basslines and dance-floor grooves.",
-        "promoter": "SWS",
-        "price": "From $12 + fees (GA presale)",
-        "tags": [
-          "disco",
-          "house",
-          "costume",
-          "21+"
-        ],
-        "sources": [
-          "https://crawlsf.com/events/first-contact-an-extraterrestrial-disco/",
-          "https://www.tixr.com/groups/publicsf/events/first-contact-an-extraterrestrial-disco-203469",
-          "https://ra.co/events/2544544"
-        ],
-        "tickets": [
-          "https://www.tixr.com/groups/publicsf/events/first-contact-an-extraterrestrial-disco-203469",
-          "https://ra.co/events/2544544"
-        ],
-        "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=Public%20Works%2C%20San%20Francisco/Oakland",
-          "apple": "https://maps.apple.com/?q=Public%20Works%2C%20San%20Francisco/Oakland"
-        },
-        "coords": null,
-        "coords_precise": false,
-        "ra": {},
-        "image": "https://party-scout.app/img/gen/first-contact-8701.jpg",
-        "image_generated": false,
-        "popularity": 0,
-        "enriched": 2,
-        "active": true
-      },
-      {
         "id": "2026-10-19-music-flux-aeterna-spinorita-digital-164045",
         "eid": "flux-aeterna-spinorita-d-b555",
         "track": "music",
@@ -3311,10 +3270,10 @@
         "name": "Flux Aeterna: Spinorita, Digital KitKat",
         "day": "Fri",
         "date": "2026-10-23",
-        "time": "9pm",
+        "time": "9pm-2am",
         "start": "21:00",
         "end": "02:00",
-        "area": "San Francisco/Oakland",
+        "area": "San Francisco",
         "venue": "Underground",
         "address": "",
         "why": "To catch performances from the artists listed on the bill.",
@@ -3338,8 +3297,8 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "https://party-scout.app/img/gen/flux-aeterna-spinorita-d-b555.jpg",
-        "image_generated": false,
+        "image": "https://party-scout.app/img/gen/flux-aeterna-spinorita-d-be7e.jpg",
+        "image_generated": true,
         "popularity": 0,
         "enriched": 2,
         "active": true,
@@ -3789,10 +3748,10 @@
         "name": "Lovra",
         "day": "Fri",
         "date": "2026-10-23",
-        "time": "9pm",
+        "time": "9pm-1am",
         "start": "21:00",
         "end": "02:00",
-        "area": "San Francisco/Oakland",
+        "area": "San Francisco",
         "venue": "The Midway Gods and Monsters",
         "address": "900 Marin Street, San Francisco, CA 94124",
         "why": "For a night out at a local SF event.",
@@ -3804,7 +3763,8 @@
           "concert"
         ],
         "sources": [
-          "https://ra.co/events/2549302"
+          "https://ra.co/events/2549302",
+          "https://edmtrain.com/san-francisco-ca"
         ],
         "tickets": [
           "https://ra.co/events/2549302"
@@ -3816,8 +3776,8 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "https://party-scout.app/img/gen/lovra-a9b4.jpg",
-        "image_generated": false,
+        "image": "https://party-scout.app/img/gen/lovra-b158.jpg",
+        "image_generated": true,
         "popularity": 0,
         "enriched": 2,
         "active": true
@@ -3983,10 +3943,10 @@
         "name": "No Bias Ren Faire Ft. Estoc, Bored Lord, bastiengoat, RITCHRD, Tom Marsi",
         "day": "Fri",
         "date": "2026-10-23",
-        "time": "10pm",
+        "time": "10pm-4am",
         "start": "22:00",
         "end": "04:00",
-        "area": "San Francisco/Oakland",
+        "area": "San Francisco",
         "venue": "F8 1192 Folsom",
         "address": "1192 Folsom St, San Francisco, CA 94103",
         "why": "A late-night, multi-DJ Folsom Street dance floor to close out the work week.",
@@ -4010,50 +3970,8 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "https://party-scout.app/img/gen/no-bias-ren-faire-ft-est-c297.jpg",
-        "image_generated": false,
-        "popularity": 0,
-        "enriched": 2,
-        "active": true
-      },
-      {
-        "id": "2026-10-19-music-petit-biscuit-in-san-francisco-a8ce9e",
-        "eid": "petit-biscuit-in-san-fra-b2ca",
-        "track": "music",
-        "category": "Concert",
-        "name": "Petit Biscuit in San Francisco",
-        "day": "Fri",
-        "date": "2026-10-23",
-        "time": "9pm–12am",
-        "start": "21:00",
-        "end": "00:00",
-        "area": "San Francisco",
-        "venue": "The Foundry",
-        "address": "1425 Folsom St, San Francisco, CA 94103",
-        "why": "Catch a melodic electronic set in a club room on a Friday night.",
-        "summary": "Petit Biscuit plays The Foundry in San Francisco on Friday night, 9pm to midnight.",
-        "promoter": "",
-        "price": "$31.05-48.03",
-        "tags": [
-          "live-music",
-          "dj",
-          "concert"
-        ],
-        "sources": [
-          "https://ra.co/events/2539570"
-        ],
-        "tickets": [
-          "https://ra.co/events/2539570"
-        ],
-        "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=The%20Foundry%2C%20San%20Francisco",
-          "apple": "https://maps.apple.com/?q=The%20Foundry%2C%20San%20Francisco"
-        },
-        "coords": null,
-        "coords_precise": false,
-        "ra": {},
-        "image": "https://party-scout.app/img/gen/petit-biscuit-in-san-fra-b2ca.jpg",
-        "image_generated": false,
+        "image": "https://party-scout.app/img/gen/no-bias-ren-faire-ft-est-5e0d.jpg",
+        "image_generated": true,
         "popularity": 0,
         "enriched": 2,
         "active": true
@@ -4133,10 +4051,10 @@
         "name": "Psyched! Fest 2026: Robertitx, Pondi Map, 2At, Euphemia, Ghost Milk, Queermom, Rose Thorns, Profesito, Wockie, Femme Jatale, Lobottomy, Louie El Ser, Boyprincess, Moonpie, Yari",
         "day": "Fri",
         "date": "2026-10-23",
-        "time": "9pm",
+        "time": "9pm-2am",
         "start": "21:00",
         "end": "02:00",
-        "area": "San Francisco/Oakland",
+        "area": "San Francisco",
         "venue": "Monarch",
         "address": "101 6th Street, San Francisco, CA 94103, United States",
         "why": "Fifteen acts for one ticket, running late into the night.",
@@ -4161,8 +4079,8 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "https://party-scout.app/img/gen/psyched-fest-2026-robert-8376.jpg",
-        "image_generated": false,
+        "image": "https://party-scout.app/img/gen/psyched-fest-2026-robert-b6e6.jpg",
+        "image_generated": true,
         "popularity": 0,
         "enriched": 2,
         "active": true
@@ -4190,7 +4108,8 @@
           "21+"
         ],
         "sources": [
-          "https://app.discotech.me/events/38214433-riot-the-machine-world-tour-at-the-midway"
+          "https://app.discotech.me/events/38214433-riot-the-machine-world-tour-at-the-midway",
+          "https://edmtrain.com/san-francisco-ca"
         ],
         "tickets": [],
         "maps": {
@@ -4462,13 +4381,15 @@
         "why": "A full-length overnight dance session with early-bird pricing before 11.",
         "summary": "A late Friday night at Halcyon, 10pm to 4am, with Victor Ruiz, Tara and Mostash on the bill.",
         "promoter": "",
-        "price": "$12",
+        "price": "From $12",
         "tags": [
           "dj",
           "21+"
         ],
         "sources": [
-          "https://ra.co/events/2531101"
+          "https://ra.co/events/2531101",
+          "https://edmtrain.com/san-francisco-ca",
+          "https://halcyon-sf.com"
         ],
         "tickets": [
           "https://ra.co/events/2531101"
@@ -4850,7 +4771,7 @@
         "time": "10pm",
         "start": "22:00",
         "end": "03:00",
-        "area": "SoMa",
+        "area": "San Francisco",
         "venue": "The Great Northern",
         "address": "119 Utah St, San Francisco, CA 94103",
         "why": "The city's premier Brazilian party in full Halloween costume, with two rooms of music and live performances.",
@@ -5172,50 +5093,6 @@
         "coords_precise": false,
         "ra": {},
         "image": "https://party-scout.app/img/gen/golden-gate-park-the-wha-ac5b.jpg",
-        "image_generated": false,
-        "popularity": 0,
-        "enriched": 2,
-        "active": true
-      },
-      {
-        "id": "2026-10-19-music-grunt-halloween-4de87e",
-        "eid": "grunt-halloween-c17b",
-        "track": "music",
-        "category": "",
-        "name": "GRUNT-HALLOWEEN",
-        "day": "Sat",
-        "date": "2026-10-24",
-        "time": "9pm–2am",
-        "start": "21:00",
-        "end": "02:00",
-        "area": "San Francisco/Oakland",
-        "venue": "The Stud",
-        "address": "1123 Folsom St, San Francisco, CA 94103",
-        "why": "For a late-night Halloween outing with a set cover and extended hours.",
-        "summary": "GRUNT-HALLOWEEN is a Halloween night on October 24, 2026, running 9pm–2am with a $20 cover.",
-        "promoter": "",
-        "price": "$20",
-        "tags": [
-          "halloween",
-          "party",
-          "paid",
-          "late-night",
-          "night"
-        ],
-        "sources": [
-          "https://ra.co/events/2542602"
-        ],
-        "tickets": [
-          "https://ra.co/events/2542602"
-        ],
-        "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=The%20Stud%2C%20San%20Francisco/Oakland",
-          "apple": "https://maps.apple.com/?q=The%20Stud%2C%20San%20Francisco/Oakland"
-        },
-        "coords": null,
-        "coords_precise": false,
-        "ra": {},
-        "image": "https://party-scout.app/img/gen/grunt-halloween-c17b.jpg",
         "image_generated": false,
         "popularity": 0,
         "enriched": 2,
@@ -5725,7 +5602,8 @@
           "daytime"
         ],
         "sources": [
-          "https://ra.co/events/2551488"
+          "https://ra.co/events/2551488",
+          "https://edmtrain.com/san-francisco-ca"
         ],
         "tickets": [
           "https://ra.co/events/2551488"
@@ -6153,7 +6031,8 @@
           "dj"
         ],
         "sources": [
-          "https://app.discotech.me/events/38233148-sidepiece-day-party-at-gold-bar-distillery-sf-at-san-francisco-concerts-and-events"
+          "https://app.discotech.me/events/38233148-sidepiece-day-party-at-gold-bar-distillery-sf-at-san-francisco-concerts-and-events",
+          "https://edmtrain.com/san-francisco-ca"
         ],
         "tickets": [],
         "maps": {
@@ -6331,7 +6210,7 @@
         "name": "Tokyo Machine, Dodge & Fuski",
         "day": "Sat",
         "date": "2026-10-24",
-        "time": "9pm",
+        "time": "9pm-2am",
         "start": "21:00",
         "end": "02:00",
         "area": "San Francisco",
@@ -6345,7 +6224,9 @@
           "dj",
           "live"
         ],
-        "sources": [],
+        "sources": [
+          "https://edmtrain.com/san-francisco-ca"
+        ],
         "tickets": [],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=The%20Midway%2C%20San%20Francisco",
@@ -6354,8 +6235,8 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "https://party-scout.app/img/gen/tokyo-machine-dodge-fusk-3d4c.jpg",
-        "image_generated": false,
+        "image": "https://party-scout.app/img/gen/tokyo-machine-dodge-fusk-a187.jpg",
+        "image_generated": true,
         "popularity": 0,
         "enriched": 2,
         "active": true
@@ -7195,7 +7076,7 @@
         "coords_precise": false,
         "ra": {},
         "image": "https://party-scout.app/img/gen/sunset-sound-system-hall-a2ab.jpg",
-        "image_generated": false,
+        "image_generated": true,
         "popularity": 0,
         "enriched": 3,
         "active": true
@@ -7292,7 +7173,7 @@
         "coords_precise": false,
         "ra": {},
         "image": "https://party-scout.app/img/gen/sunset-sound-system-hall-5c2d.jpg",
-        "image_generated": false,
+        "image_generated": true,
         "popularity": 0,
         "enriched": 2,
         "active": true
@@ -7308,13 +7189,13 @@
         "time": "2:00 PM",
         "start": "14:00",
         "end": "19:00",
-        "area": "San Francisco/Oakland",
+        "area": "San Francisco",
         "venue": "The Foundry",
         "address": "1425 Folsom St, San Francisco, CA 94103",
         "why": "Added second date after the Saturday show sold out: a phone-free, no-VIP daytime dance floor with both DJs playing solo and back-to-back.",
         "summary": "Tinzo and Jojo bring their Dark Library tour to The Foundry for an added Sunday afternoon party: an intimate, no-phones, no-VIP dance floor with two solo sets and one back-to-back set. 21+.",
         "promoter": "15Utah",
-        "price": "From $25",
+        "price": "From $31.05",
         "tags": [
           "house",
           "dj set",
@@ -7324,7 +7205,8 @@
         "sources": [
           "https://www.eventbrite.com/e/tinzo-jojo-dark-library-tour-sf-second-party-added-tickets-1992065784386",
           "https://www.jambase.com/show/tinzo-jojo-the-foundry-sf-20261025",
-          "https://ra.co/events/2474671"
+          "https://ra.co/events/2474671",
+          "https://www.eventbrite.com/d/ca--san-francisco/"
         ],
         "tickets": [
           "https://www.eventbrite.com/e/tinzo-jojo-dark-library-tour-sf-second-party-added-tickets-1992065784386",
@@ -7412,7 +7294,9 @@
         ],
         "sources": [
           "https://ra.co/events/2488857",
-          "https://dothebay.com/events/2026/10/23/cid-x-maesic-tickets"
+          "https://dothebay.com/events/2026/10/23/cid-x-maesic-tickets",
+          "https://1015.com",
+          "https://edmtrain.com/san-francisco-ca"
         ],
         "tickets": [
           "https://ra.co/events/2488857"
@@ -7452,7 +7336,9 @@
           "dj",
           "21+"
         ],
-        "sources": [],
+        "sources": [
+          "https://edmtrain.com/san-francisco-ca"
+        ],
         "tickets": [],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Public%20Works%2C%20San%20Francisco/Oakland",
@@ -7492,7 +7378,8 @@
           "21+"
         ],
         "sources": [
-          "https://www.eventbrite.com/e/ivy-lab-a-farewell-tour-presented-by-public-works-goldenvoice-tickets-1993480105659"
+          "https://www.eventbrite.com/e/ivy-lab-a-farewell-tour-presented-by-public-works-goldenvoice-tickets-1993480105659",
+          "https://edmtrain.com/san-francisco-ca"
         ],
         "tickets": [
           "https://www.eventbrite.com/e/ivy-lab-a-farewell-tour-presented-by-public-works-goldenvoice-tickets-1993480105659"
@@ -7542,15 +7429,20 @@
         "tags": [
           "live-music",
           "concert",
-          "dj"
+          "dj",
+          "live",
+          "ticketed",
+          "indoor"
         ],
         "sources": [
-          "https://dothebay.com/events/2026/10/24/jai-wolf-tickets"
+          "https://dothebay.com/events/2026/10/24/jai-wolf-tickets",
+          "https://edmtrain.com/san-francisco-ca",
+          "https://www.theregencyballroom.com"
         ],
         "tickets": [],
         "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=The%20Regency%20Ballroom%2C%20San%20Francisco",
-          "apple": "https://maps.apple.com/?q=The%20Regency%20Ballroom%2C%20San%20Francisco"
+          "google": "https://www.google.com/maps/search/?api=1&query=Regency%20Ballroom%2C%20San%20Francisco",
+          "apple": "https://maps.apple.com/?q=Regency%20Ballroom%2C%20San%20Francisco"
         },
         "coords": null,
         "coords_precise": false,
@@ -7578,13 +7470,15 @@
         "why": "A full-length overnight club set at a dedicated dance venue, with early-bird pricing before 11.",
         "summary": "A Saturday late-night dance event at Halcyon, running 10pm to 4am, headlined by Konstantin Sibold with Elegie and Left On Read.",
         "promoter": "",
-        "price": "$12",
+        "price": "From $12",
         "tags": [
           "dj",
           "21+"
         ],
         "sources": [
-          "https://ra.co/events/2531104"
+          "https://ra.co/events/2531104",
+          "https://edmtrain.com/san-francisco-ca",
+          "https://halcyon-sf.com"
         ],
         "tickets": [
           "https://ra.co/events/2531104"
@@ -7711,7 +7605,8 @@
           "concert"
         ],
         "sources": [
-          "https://dothebay.com/events/2026/10/24/william-black-tickets"
+          "https://dothebay.com/events/2026/10/24/william-black-tickets",
+          "https://edmtrain.com/san-francisco-ca"
         ],
         "tickets": [],
         "maps": {
@@ -9397,7 +9292,9 @@
           "live",
           "dj"
         ],
-        "sources": [],
+        "sources": [
+          "https://edmtrain.com/san-francisco-ca"
+        ],
         "tickets": [],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=F8",
@@ -9808,7 +9705,9 @@
           "dance",
           "party"
         ],
-        "sources": [],
+        "sources": [
+          "https://edmtrain.com/san-francisco-ca"
+        ],
         "tickets": [],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Beaux%20SF%2C%20San%20Francisco",
@@ -9848,7 +9747,8 @@
           "nightlife"
         ],
         "sources": [
-          "https://ra.co/events/2551364"
+          "https://ra.co/events/2551364",
+          "https://edmtrain.com/san-francisco-ca"
         ],
         "tickets": [
           "https://ra.co/events/2551364"
@@ -9948,46 +9848,6 @@
         "active": true
       },
       {
-        "id": "2026-10-19-music-jai-wolf-10-year-anniversary-t-ffd0c7",
-        "eid": "jai-wolf-10-year-anniver-bb6f",
-        "track": "music",
-        "category": "Concert",
-        "name": "JAI WOLF - 10 Year Anniversary Tour",
-        "day": "Sat",
-        "date": "2026-10-24",
-        "time": "8pm",
-        "start": "20:00",
-        "end": null,
-        "area": "San Francisco",
-        "venue": "Regency Ballroom",
-        "address": "1290 Sutter Street, San Francisco, CA 94109",
-        "why": "For a ticketed evening concert in central San Francisco.",
-        "summary": "JAI WOLF — 10 Year Anniversary Tour plays San Francisco on 2026-10-24 at 8pm, located at 1290 Sutter Street. Tickets are $49–$66.",
-        "promoter": "",
-        "price": "$49–$66",
-        "tags": [
-          "live",
-          "ticketed",
-          "indoor"
-        ],
-        "sources": [
-          "https://dothebay.com/events/2026/10/24/jai-wolf-tickets"
-        ],
-        "tickets": [],
-        "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=Regency%20Ballroom%2C%20San%20Francisco",
-          "apple": "https://maps.apple.com/?q=Regency%20Ballroom%2C%20San%20Francisco"
-        },
-        "coords": null,
-        "coords_precise": false,
-        "ra": {},
-        "image": "https://party-scout.app/img/gen/jai-wolf-10-year-anniver-bb6f.jpg",
-        "image_generated": false,
-        "popularity": 0,
-        "enriched": 1,
-        "active": true
-      },
-      {
         "id": "2026-10-19-music-galen-300f1b",
         "eid": "galen-f427",
         "track": "music",
@@ -10026,6 +9886,176 @@
         "image_generated": false,
         "popularity": 0,
         "enriched": 1,
+        "active": true
+      },
+      {
+        "id": "2026-10-19-music-the-last-waltz-co-presented-wi-4dca45",
+        "eid": "the-last-waltz-co-presen-23af",
+        "track": "music",
+        "category": "",
+        "name": "The Last Waltz – Co-Presented with SFFILM",
+        "day": "Wed",
+        "date": "2026-10-21",
+        "time": "7:00 PM",
+        "start": "19:00",
+        "end": null,
+        "area": "San Francisco",
+        "venue": "Jewish Community Center of San Francisco",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "From $26.73",
+        "tags": [],
+        "sources": [
+          "https://www.eventbrite.com/d/ca--san-francisco/"
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=Jewish%20Community%20Center%20of%20San%20Francisco%2C%20San%20Francisco",
+          "apple": "https://maps.apple.com/?q=Jewish%20Community%20Center%20of%20San%20Francisco%2C%20San%20Francisco"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-10-19-music-first-contact-an-extraterrestr-dcd7f2",
+        "eid": "first-contact-an-extrate-17c0",
+        "track": "music",
+        "category": "",
+        "name": "First Contact: An Extraterrestrial Disco - Daddy Long Legs, Dr. Whale, MaryBird, Partly Cloudy, Wet Pony",
+        "day": "Fri",
+        "date": "2026-10-23",
+        "time": "9pm-2am",
+        "start": "21:00",
+        "end": "02:00",
+        "area": "San Francisco",
+        "venue": "Public Works Loft",
+        "address": "161 Erie St, San Francisco, CA 94103",
+        "why": "Playful sci-fi disco in the Loft with a costume theme (dress as your home planet) — a fun, low-priced Friday.",
+        "summary": "First Contact: An Extraterrestrial Disco — a cosmic-themed disco night in the Public Works Loft, 21+, limited capacity, with funky basslines and dance-floor grooves.",
+        "promoter": "SWS",
+        "price": "$17+",
+        "tags": [
+          "disco",
+          "house",
+          "costume",
+          "21+"
+        ],
+        "sources": [
+          "https://crawlsf.com/events/first-contact-an-extraterrestrial-disco/",
+          "https://www.tixr.com/groups/publicsf/events/first-contact-an-extraterrestrial-disco-203469",
+          "https://ra.co/events/2544544"
+        ],
+        "tickets": [
+          "https://www.tixr.com/groups/publicsf/events/first-contact-an-extraterrestrial-disco-203469",
+          "https://ra.co/events/2544544"
+        ],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=Public%20Works%2C%20San%20Francisco/Oakland",
+          "apple": "https://maps.apple.com/?q=Public%20Works%2C%20San%20Francisco/Oakland"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "https://party-scout.app/img/gen/first-contact-an-extrate-17c0.jpg",
+        "image_generated": true,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-10-19-music-petit-biscuit-eff4c7",
+        "eid": "petit-biscuit-7750",
+        "track": "music",
+        "category": "Concert",
+        "name": "Petit Biscuit",
+        "day": "Fri",
+        "date": "2026-10-23",
+        "time": "9pm-12am",
+        "start": "21:00",
+        "end": "00:00",
+        "area": "San Francisco",
+        "venue": "The Foundry",
+        "address": "1425 Folsom St, San Francisco, CA 94103",
+        "why": "Catch a melodic electronic set in a club room on a Friday night.",
+        "summary": "Petit Biscuit plays The Foundry in San Francisco on Friday night, 9pm to midnight.",
+        "promoter": "",
+        "price": "From $31.05",
+        "tags": [
+          "live-music",
+          "dj",
+          "concert"
+        ],
+        "sources": [
+          "https://www.eventbrite.com/d/ca--san-francisco/",
+          "https://edmtrain.com/san-francisco-ca",
+          "https://ra.co/events/2539570"
+        ],
+        "tickets": [
+          "https://ra.co/events/2539570"
+        ],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=The%20Foundry%2C%20San%20Francisco",
+          "apple": "https://maps.apple.com/?q=The%20Foundry%2C%20San%20Francisco"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "https://party-scout.app/img/gen/petit-biscuit-in-san-fra-b2ca.jpg",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-10-19-music-grunt-halloween-charles-hawtho-f44cf0",
+        "eid": "grunt-halloween-charles-63da",
+        "track": "music",
+        "category": "",
+        "name": "Grunt-Halloween: Charles Hawthorne, Mama Celeste",
+        "day": "Sat",
+        "date": "2026-10-24",
+        "time": "9pm-2am",
+        "start": "21:00",
+        "end": "02:00",
+        "area": "San Francisco",
+        "venue": "The Stud",
+        "address": "1123 Folsom St, San Francisco, CA 94103",
+        "why": "For a late-night Halloween outing with a set cover and extended hours.",
+        "summary": "GRUNT-HALLOWEEN is a Halloween night on October 24, 2026, running 9pm–2am with a $20 cover.",
+        "promoter": "",
+        "price": "$11.50-23",
+        "tags": [
+          "halloween",
+          "party",
+          "paid",
+          "late-night",
+          "night"
+        ],
+        "sources": [
+          "https://ra.co/events/2542602"
+        ],
+        "tickets": [
+          "https://ra.co/events/2542602"
+        ],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=The%20Stud%2C%20San%20Francisco/Oakland",
+          "apple": "https://maps.apple.com/?q=The%20Stud%2C%20San%20Francisco/Oakland"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "https://party-scout.app/img/gen/grunt-halloween-charles-63da.jpg",
+        "image_generated": true,
+        "popularity": 0,
+        "enriched": 0,
         "active": true
       }
     ],
