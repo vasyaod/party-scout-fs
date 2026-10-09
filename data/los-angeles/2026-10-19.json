@@ -4498,7 +4498,7 @@
         "id": "2026-10-19-music-my-chemical-romance-7ec3f1",
         "eid": "my-chemical-romance-8378",
         "track": "music",
-        "category": "",
+        "category": "Concert",
         "name": "My Chemical Romance",
         "day": "Fri",
         "date": "2026-10-23",
@@ -4508,11 +4508,15 @@
         "area": "Los Angeles",
         "venue": "Hollywood Bowl",
         "address": "",
-        "why": "",
-        "summary": "",
+        "why": "For a big, high-energy live rock show.",
+        "summary": "My Chemical Romance performs in Los Angeles on October 23, 2026. Venue and time are not listed.",
         "promoter": "",
         "price": "",
-        "tags": [],
+        "tags": [
+          "rock",
+          "live",
+          "concert"
+        ],
         "sources": [],
         "tickets": [],
         "maps": {
@@ -4525,7 +4529,7 @@
         "image": "https://party-scout.app/img/gen/my-chemical-romance-8378.jpg",
         "image_generated": true,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
