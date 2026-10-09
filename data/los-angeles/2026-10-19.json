@@ -5,7 +5,7 @@
   "location": "Los Angeles & SoCal",
   "city": "los-angeles",
   "city_label": "Los Angeles",
-  "generated_at": "2026-10-07",
+  "generated_at": "2026-10-08",
   "tracks": {
     "music": [
       {
@@ -381,48 +381,6 @@
         "coords_precise": false,
         "ra": {},
         "image": "",
-        "image_generated": false,
-        "popularity": 0,
-        "enriched": 2,
-        "active": true
-      },
-      {
-        "id": "2026-10-19-music-flamingosis-4d78cd",
-        "eid": "flamingosis-e913",
-        "track": "music",
-        "category": "Concert",
-        "name": "Flamingosis",
-        "day": "Thu",
-        "date": "2026-10-22",
-        "time": "9:30pm-2am",
-        "start": "21:30",
-        "end": "02:00",
-        "area": "Hollywood",
-        "venue": "Kiss Kiss Bang Bang (Los Angeles)",
-        "address": "3531 Wilshire Blvd, Los Angeles, CA 90010, USA",
-        "why": "Catch a beat-driven electronic set in a club room on a weeknight.",
-        "summary": "Flamingosis plays a Thursday-night 21+ show at Kiss Kiss Bang Bang in Los Angeles, doors from 9:30pm.",
-        "promoter": "",
-        "price": "$17 b4 1030 / $23 | 21+",
-        "tags": [
-          "electronic",
-          "live",
-          "concert"
-        ],
-        "sources": [
-          "https://ra.co/events/2469034"
-        ],
-        "tickets": [
-          "https://ra.co/events/2469034"
-        ],
-        "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=Kiss%20Kiss%20Bang%20Bang%20%28Los%20Angeles%29",
-          "apple": "https://maps.apple.com/?q=Kiss%20Kiss%20Bang%20Bang%20%28Los%20Angeles%29"
-        },
-        "coords": null,
-        "coords_precise": false,
-        "ra": {},
-        "image": "https://party-scout.app/img/gen/flamingosis-e913.jpg",
         "image_generated": false,
         "popularity": 0,
         "enriched": 2,
@@ -980,13 +938,13 @@
         "time": "11:59pm–5am",
         "start": "23:59",
         "end": "05:00",
-        "area": "Silver Lake",
-        "venue": "TBA - Silverlake (Los Angeles)",
+        "area": "Los Angeles",
+        "venue": "TBA Silverlake",
         "address": "",
         "why": "For a late-night showcase of four featured artists across an all-night set.",
         "summary": "Haunted Panic Room features Adam Kraft, Banoffee, Rob Aquino and Shane Thomas on October 23, 2026, running 11:59pm–5am; tickets are $40.",
         "promoter": "",
-        "price": "$40",
+        "price": "$20-40",
         "tags": [
           "dj",
           "late-night",
@@ -1002,11 +960,25 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "https://party-scout.app/img/gen/haunted-panic-room-feat-19e6.jpg",
-        "image_generated": false,
+        "image": "https://party-scout.app/img/gen/haunted-panic-room-feat-95c9.jpg",
+        "image_generated": true,
         "popularity": 0,
         "enriched": 2,
-        "active": true
+        "active": true,
+        "lineup": [
+          {
+            "name": "Adam Kraft"
+          },
+          {
+            "name": "Banoffee"
+          },
+          {
+            "name": "Rob Aquino"
+          },
+          {
+            "name": "Shane Thomas"
+          }
+        ]
       },
       {
         "id": "2026-10-19-music-jessika-von-rabbit-092b95",
@@ -1916,7 +1888,7 @@
         "name": "Dia de los Muertos – All Under One Sky",
         "day": "Sat",
         "date": "2026-10-24",
-        "time": "12pm–12am",
+        "time": "12:00",
         "start": "12:00",
         "end": "24:00",
         "area": "Los Angeles",
@@ -2302,7 +2274,7 @@
         "name": "Horror Hi-Fi",
         "day": "Sat",
         "date": "2026-10-24",
-        "time": "22:00",
+        "time": "10pm–2am",
         "start": "22:00",
         "end": "02:00",
         "area": "Los Angeles",
@@ -2329,8 +2301,8 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "https://party-scout.app/img/gen/horror-hi-fi-078d.jpg",
-        "image_generated": false,
+        "image": "https://party-scout.app/img/gen/horror-hi-fi-101f.jpg",
+        "image_generated": true,
         "popularity": 0,
         "enriched": 2,
         "active": true
@@ -2958,46 +2930,6 @@
         "ra": {},
         "image": "https://party-scout.app/img/gen/two-friends-mc4d-0a70.jpg",
         "image_generated": false,
-        "popularity": 0,
-        "enriched": 2,
-        "active": true
-      },
-      {
-        "id": "2026-10-19-music-vice-halloween-w-griffin-maxwe-8ee882",
-        "eid": "vice-halloween-w-griffin-5645",
-        "track": "music",
-        "category": "Nightclub",
-        "name": "VICE HALLOWEEN w Griffin Maxwell Brooks, OZA",
-        "day": "Sat",
-        "date": "2026-10-24",
-        "time": "10pm–6am",
-        "start": "22:00",
-        "end": "06:00",
-        "area": "Los Angeles",
-        "venue": "TBA (Los Angeles)",
-        "address": "",
-        "why": "For an all-night Halloween dance party with late-night sets from listed performers.",
-        "summary": "A VICE Halloween night party on October 24, 2026, running 10pm–6am with $40 admission; the event name lists Griffin Maxwell Brooks and OZA.",
-        "promoter": "",
-        "price": "$40",
-        "tags": [
-          "halloween",
-          "dance",
-          "dj",
-          "live"
-        ],
-        "sources": [
-          "https://ra.co/events/2544382"
-        ],
-        "tickets": [
-          "https://ra.co/events/2544382"
-        ],
-        "maps": {},
-        "coords": null,
-        "coords_precise": false,
-        "ra": {},
-        "image": "https://party-scout.app/img/gen/vice-halloween-w-griffin-c899.jpg",
-        "image_generated": true,
         "popularity": 0,
         "enriched": 2,
         "active": true
@@ -3930,7 +3862,7 @@
         "name": "Hedex",
         "day": "Sat",
         "date": "2026-10-24",
-        "time": "22:00",
+        "time": "10pm",
         "start": "22:00",
         "end": null,
         "area": "Los Angeles",
@@ -3953,8 +3885,8 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
-        "image_generated": false,
+        "image": "https://party-scout.app/img/gen/hedex-02ab.jpg",
+        "image_generated": true,
         "popularity": 0,
         "enriched": 1,
         "active": true
@@ -4480,6 +4412,207 @@
         "popularity": 0,
         "enriched": 1,
         "active": true
+      },
+      {
+        "id": "2026-10-19-music-stereo-punks-presents-flamingo-321ffd",
+        "eid": "stereo-punks-presents-fl-31f6",
+        "track": "music",
+        "category": "Concert",
+        "name": "Stereo Punks Presents: Flamingosis",
+        "day": "Thu",
+        "date": "2026-10-22",
+        "time": "21:30",
+        "start": "21:30",
+        "end": "02:00",
+        "area": "Los Angeles",
+        "venue": "Kiss Kiss Bang Bang",
+        "address": "3531 Wilshire Blvd, Los Angeles, CA 90010, USA",
+        "why": "Catch a beat-driven electronic set in a club room on a weeknight.",
+        "summary": "Flamingosis plays a Thursday-night 21+ show at Kiss Kiss Bang Bang in Los Angeles, doors from 9:30pm.",
+        "promoter": "",
+        "price": "$17 b4 1030 / $23",
+        "tags": [
+          "electronic",
+          "live",
+          "concert"
+        ],
+        "sources": [
+          "https://ra.co/events/2469034"
+        ],
+        "tickets": [
+          "https://ra.co/events/2469034"
+        ],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=Kiss%20Kiss%20Bang%20Bang%20%28Los%20Angeles%29",
+          "apple": "https://maps.apple.com/?q=Kiss%20Kiss%20Bang%20Bang%20%28Los%20Angeles%29"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "https://party-scout.app/img/gen/stereo-punks-presents-fl-31f6.jpg",
+        "image_generated": true,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-10-19-music-gryffin-b2b-alesso-lost-freque-a08748",
+        "eid": "gryffin-b2b-alesso-lost-3dfa",
+        "track": "music",
+        "category": "",
+        "name": "Gryffin b2b Alesso, Lost Frequencies, AR/CO",
+        "day": "Fri",
+        "date": "2026-10-23",
+        "time": "",
+        "start": null,
+        "end": null,
+        "area": "Los Angeles",
+        "venue": "Exposition Park",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "",
+        "tags": [],
+        "sources": [],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=Exposition%20Park%2C%20Los%20Angeles",
+          "apple": "https://maps.apple.com/?q=Exposition%20Park%2C%20Los%20Angeles"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "https://party-scout.app/img/gen/gryffin-b2b-alesso-lost-3dfa.jpg",
+        "image_generated": true,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-10-19-music-my-chemical-romance-7ec3f1",
+        "eid": "my-chemical-romance-8378",
+        "track": "music",
+        "category": "",
+        "name": "My Chemical Romance",
+        "day": "Fri",
+        "date": "2026-10-23",
+        "time": "20:00",
+        "start": null,
+        "end": null,
+        "area": "Los Angeles",
+        "venue": "Hollywood Bowl",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "",
+        "tags": [],
+        "sources": [],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=Hollywood%20Bowl%2C%20Los%20Angeles",
+          "apple": "https://maps.apple.com/?q=Hollywood%20Bowl%2C%20Los%20Angeles"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "https://party-scout.app/img/gen/my-chemical-romance-8378.jpg",
+        "image_generated": true,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-10-19-music-my-chemical-romance-361266",
+        "eid": "my-chemical-romance-de09",
+        "track": "music",
+        "category": "",
+        "name": "My Chemical Romance",
+        "day": "Sat",
+        "date": "2026-10-24",
+        "time": "20:00",
+        "start": null,
+        "end": null,
+        "area": "Los Angeles",
+        "venue": "Hollywood Bowl",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "",
+        "tags": [],
+        "sources": [],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=Hollywood%20Bowl%2C%20Los%20Angeles",
+          "apple": "https://maps.apple.com/?q=Hollywood%20Bowl%2C%20Los%20Angeles"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "https://party-scout.app/img/gen/my-chemical-romance-de09.jpg",
+        "image_generated": true,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-10-19-music-vice-halloween-w-griffin-maxwe-5a97ba",
+        "eid": "vice-halloween-w-griffin-2034",
+        "track": "music",
+        "category": "Nightclub",
+        "name": "Vice Halloween w/ Griffin Maxwell Brooks, Oza, Flabbergast, Josh Peace",
+        "day": "Sat",
+        "date": "2026-10-24",
+        "time": "10pm–6am",
+        "start": "22:00",
+        "end": "06:00",
+        "area": "Los Angeles",
+        "venue": "TBA",
+        "address": "",
+        "why": "For an all-night Halloween dance party with late-night sets from listed performers.",
+        "summary": "A VICE Halloween night party on October 24, 2026, running 10pm–6am with $40 admission; the event name lists Griffin Maxwell Brooks and OZA.",
+        "promoter": "",
+        "price": "$22.70 b4 11 / $39.70",
+        "tags": [
+          "halloween",
+          "dance",
+          "dj",
+          "live"
+        ],
+        "sources": [
+          "https://ra.co/events/2544382"
+        ],
+        "tickets": [
+          "https://ra.co/events/2544382"
+        ],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=Los%20Angeles",
+          "apple": "https://maps.apple.com/?q=Los%20Angeles"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "https://party-scout.app/img/gen/vice-halloween-w-griffin-2034.jpg",
+        "image_generated": true,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true,
+        "lineup": [
+          {
+            "name": "Griffin Maxwell Brooks"
+          },
+          {
+            "name": "OZA"
+          },
+          {
+            "name": "Flabbergast (LA)"
+          },
+          {
+            "name": "Josh Peace"
+          }
+        ]
       }
     ],
     "sports": [
