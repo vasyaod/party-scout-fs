@@ -961,8 +961,8 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "https://party-scout.app/img/gen/roddy-lima-7557.jpg",
-        "image_generated": false,
+        "image": "https://party-scout.app/img/gen/roddy-lima-7b31.jpg",
+        "image_generated": true,
         "popularity": 0,
         "enriched": 2,
         "active": true
@@ -1133,60 +1133,6 @@
         "popularity": 0,
         "enriched": 2,
         "active": true
-      },
-      {
-        "id": "2026-10-05-music-tinlicker-e86bd6",
-        "eid": "tinlicker-f5d4",
-        "track": "music",
-        "category": "Electronic",
-        "name": "Tinlicker",
-        "day": "Fri",
-        "date": "2026-10-09",
-        "time": "7pm doors, 8pm show",
-        "start": "19:00",
-        "end": null,
-        "area": "Los Angeles",
-        "venue": "The Wiltern",
-        "address": "3790 Wilshire Blvd, Los Angeles, CA 90010",
-        "why": "Dutch melodic-techno duo Tinlicker headlines the Art Deco Wiltern with support from Helsloot",
-        "summary": "Tinlicker brings their North America 2026 tour to The Wiltern, with fellow Dutch producer Helsloot opening.",
-        "promoter": "Live Nation",
-        "price": "$48+",
-        "tags": [
-          "electronic",
-          "melodic-techno",
-          "progressive-house"
-        ],
-        "sources": [
-          "https://www.ticketmaster.com/tinlicker-north-america-2026-los-angeles-california-10-09-2026/event/09006490AB107C05",
-          "https://www.livenation.com/event/vv1AaZk38Gkel76YA/tinlicker-north-america-2026",
-          "https://www.songkick.com/concerts/43167468-tinlicker-at-wiltern"
-        ],
-        "tickets": [
-          "https://www.ticketmaster.com/tinlicker-north-america-2026-los-angeles-california-10-09-2026/event/09006490AB107C05"
-        ],
-        "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=The%20Wiltern%2C%20LA",
-          "apple": "https://maps.apple.com/?q=The%20Wiltern%2C%20LA"
-        },
-        "coords": null,
-        "coords_precise": false,
-        "ra": {},
-        "image": "",
-        "image_generated": false,
-        "popularity": 0,
-        "enriched": 1,
-        "active": true,
-        "lineup": [
-          {
-            "name": "Tinlicker",
-            "instagram": null
-          },
-          {
-            "name": "Helsloot",
-            "instagram": null
-          }
-        ]
       },
       {
         "id": "2026-10-05-music-riddim-reign-day-2-ca8e9f",
@@ -7765,8 +7711,8 @@
           "https://ra.co/events/2527911"
         ],
         "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=DTLA",
-          "apple": "https://maps.apple.com/?q=DTLA"
+          "google": "https://www.google.com/maps/search/?api=1&query=DTLA/Los%20Angeles",
+          "apple": "https://maps.apple.com/?q=DTLA/Los%20Angeles"
         },
         "coords": null,
         "coords_precise": false,
@@ -7859,8 +7805,8 @@
           "https://ra.co/events/2510355"
         ],
         "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=Los%20Globos%2C%20LA",
-          "apple": "https://maps.apple.com/?q=Los%20Globos%2C%20LA"
+          "google": "https://www.google.com/maps/search/?api=1&query=Los%20Globos%2C%20Los%20Angeles",
+          "apple": "https://maps.apple.com/?q=Los%20Globos%2C%20Los%20Angeles"
         },
         "coords": null,
         "coords_precise": false,
@@ -8225,28 +8171,33 @@
         "id": "2026-10-05-music-work-presents-dvs1-4-hour-set-cc3b35",
         "eid": "work-presents-dvs1-4-hou-50ca",
         "track": "music",
-        "category": "",
+        "category": "Nightclub",
         "name": "WORK presents: DVS1 [4 Hour Set], Mary Yuzovskaya, & Pleasures",
         "day": "Sat",
         "date": "2026-10-10",
         "time": "23:00",
-        "start": null,
-        "end": null,
+        "start": "23:00",
+        "end": "07:00",
         "area": "Los Angeles",
         "venue": "TBA - Los Angeles",
         "address": "",
-        "why": "",
-        "summary": "",
+        "why": "For an all-night party that runs until morning.",
+        "summary": "A late-night event on 2026-10-10 featuring Dvs1, Mary Yuzovskaya, and Pleasures, running 11pm–7am in Los Angeles.",
         "promoter": "",
         "price": "$25",
-        "tags": [],
+        "tags": [
+          "dj",
+          "all-night"
+        ],
         "sources": [
           "https://ra.co/events/2510218"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://ra.co/events/2510218"
+        ],
         "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=LA",
-          "apple": "https://maps.apple.com/?q=LA"
+          "google": "https://www.google.com/maps/search/?api=1&query=Los%20Angeles",
+          "apple": "https://maps.apple.com/?q=Los%20Angeles"
         },
         "coords": null,
         "coords_precise": false,
@@ -8803,7 +8754,7 @@
         "why": "To dance to deep house beats over weekend brunch in a lively daytime setting.",
         "summary": "The grand opening of a weekly Sunday brunch series centered on deep house music is scheduled for October 11, 2026 in Los Angeles.",
         "promoter": "",
-        "price": "free",
+        "price": "free Scotty Boy",
         "tags": [
           "deep-house",
           "brunch",
@@ -8819,8 +8770,8 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "https://party-scout.app/img/gen/grand-opening-of-deep-ho-2f08.jpg",
-        "image_generated": false,
+        "image": "https://party-scout.app/img/gen/grand-opening-of-deep-ho-4096.jpg",
+        "image_generated": true,
         "popularity": 0,
         "enriched": 1,
         "active": true
@@ -8842,7 +8793,7 @@
         "why": "To catch a multi-artist Sunday lineup.",
         "summary": "A Sunday show featuring Antigamut, Danny G Luvs U, Denali, DJ Softpaws, Kemosabe, and Testkit.",
         "promoter": "",
-        "price": "free w/rsvp b4 1 / $18-243",
+        "price": "free w/rsvp b4 1 / $18-243 Sxtcy X Los Perros",
         "tags": [
           "dj",
           "live",
@@ -8857,8 +8808,8 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
-        "image_generated": false,
+        "image": "https://party-scout.app/img/gen/sunday-service-antigamut-6404.jpg",
+        "image_generated": true,
         "popularity": 0,
         "enriched": 1,
         "active": true
@@ -8933,8 +8884,8 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
-        "image_generated": false,
+        "image": "https://party-scout.app/img/gen/rush-ojjisin-ikilledpurp-ada0.jpg",
+        "image_generated": true,
         "popularity": 0,
         "enriched": 1,
         "active": true
@@ -8948,7 +8899,7 @@
         "day": "Fri",
         "date": "2026-10-09",
         "time": "17:30",
-        "start": null,
+        "start": "17:30",
         "end": null,
         "area": "Santa Fe Springs",
         "venue": "Santa Fe Springs Swap Meet",
@@ -8956,7 +8907,7 @@
         "why": "For high-energy norteño and regional Mexican music with dancing.",
         "summary": "A concert on 2026-10-09 in Los Angeles featuring Los Originales De San Juan, Los Cuates, Oro Norteño and more.",
         "promoter": "",
-        "price": "$33.56",
+        "price": "From $33.56",
         "tags": [
           "norteño",
           "regional-mexican",
@@ -8972,8 +8923,8 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
-        "image_generated": false,
+        "image": "https://party-scout.app/img/gen/viejones-manosos-los-ori-ba61.jpg",
+        "image_generated": true,
         "popularity": 0,
         "enriched": 1,
         "active": true
@@ -9013,40 +8964,6 @@
         "active": true
       },
       {
-        "id": "2026-10-05-music-deep-medi-musik-20-a87645",
-        "eid": "deep-medi-musik-20-ea91",
-        "track": "music",
-        "category": "",
-        "name": "Deep Medi Musik 20",
-        "day": "Fri",
-        "date": "2026-10-09",
-        "time": "",
-        "start": "21:00",
-        "end": null,
-        "area": "Commerce",
-        "venue": "The Compound By Dirt Dog",
-        "address": "",
-        "why": "",
-        "summary": "",
-        "promoter": "",
-        "price": "$38",
-        "tags": [],
-        "sources": [],
-        "tickets": [],
-        "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=The%20Compound%20By%20Dirt%20Dog%2C%20Commerce",
-          "apple": "https://maps.apple.com/?q=The%20Compound%20By%20Dirt%20Dog%2C%20Commerce"
-        },
-        "coords": null,
-        "coords_precise": false,
-        "ra": {},
-        "image": "",
-        "image_generated": false,
-        "popularity": 0,
-        "enriched": 0,
-        "active": true
-      },
-      {
         "id": "2026-10-05-music-intimacy-daf167",
         "eid": "intimacy-8f02",
         "track": "music",
@@ -9070,74 +8987,6 @@
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=CineOpera%2C%20Los%20Angeles",
           "apple": "https://maps.apple.com/?q=CineOpera%2C%20Los%20Angeles"
-        },
-        "coords": null,
-        "coords_precise": false,
-        "ra": {},
-        "image": "",
-        "image_generated": false,
-        "popularity": 0,
-        "enriched": 0,
-        "active": true
-      },
-      {
-        "id": "2026-10-05-music-lights-down-low-feat-ben-ufo-b-74b25e",
-        "eid": "lights-down-low-feat-ben-10ca",
-        "track": "music",
-        "category": "",
-        "name": "Lights Down Low Feat. Ben Ufo, Bianca Lexis",
-        "day": "Fri",
-        "date": "2026-10-09",
-        "time": "",
-        "start": "23:00",
-        "end": null,
-        "area": "DTLA/Los Angeles",
-        "venue": "TBA",
-        "address": "",
-        "why": "",
-        "summary": "",
-        "promoter": "",
-        "price": "$23.25-46.50",
-        "tags": [],
-        "sources": [],
-        "tickets": [],
-        "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=DTLA/Los%20Angeles",
-          "apple": "https://maps.apple.com/?q=DTLA/Los%20Angeles"
-        },
-        "coords": null,
-        "coords_precise": false,
-        "ra": {},
-        "image": "",
-        "image_generated": false,
-        "popularity": 0,
-        "enriched": 0,
-        "active": true
-      },
-      {
-        "id": "2026-10-05-music-lukas-frank-f3be44",
-        "eid": "lukas-frank-9378",
-        "track": "music",
-        "category": "",
-        "name": "Lukas & Frank",
-        "day": "Fri",
-        "date": "2026-10-09",
-        "time": "",
-        "start": "21:00",
-        "end": null,
-        "area": "Los Angeles",
-        "venue": "Los Globos",
-        "address": "",
-        "why": "",
-        "summary": "",
-        "promoter": "",
-        "price": "$17.25-34.50",
-        "tags": [],
-        "sources": [],
-        "tickets": [],
-        "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=Los%20Globos%2C%20Los%20Angeles",
-          "apple": "https://maps.apple.com/?q=Los%20Globos%2C%20Los%20Angeles"
         },
         "coords": null,
         "coords_precise": false,
@@ -9254,7 +9103,7 @@
         "id": "2026-10-05-music-tinlicker-north-america-2026-7f272f",
         "eid": "tinlicker-north-america-76de",
         "track": "music",
-        "category": "",
+        "category": "Electronic",
         "name": "Tinlicker North America 2026",
         "day": "Fri",
         "date": "2026-10-09",
@@ -9263,19 +9112,27 @@
         "end": "23:00",
         "area": "Los Angeles",
         "venue": "The Wiltern",
-        "address": "",
-        "why": "",
-        "summary": "",
-        "promoter": "",
+        "address": "3790 Wilshire Blvd, Los Angeles, CA 90010",
+        "why": "Dutch melodic-techno duo Tinlicker headlines the Art Deco Wiltern with support from Helsloot",
+        "summary": "Tinlicker brings their North America 2026 tour to The Wiltern, with fellow Dutch producer Helsloot opening.",
+        "promoter": "Live Nation",
         "price": "$48+",
-        "tags": [],
+        "tags": [
+          "electronic",
+          "melodic-techno",
+          "progressive-house"
+        ],
         "sources": [
+          "https://www.ticketmaster.com/tinlicker-north-america-2026-los-angeles-california-10-09-2026/event/09006490AB107C05",
+          "https://www.livenation.com/event/vv1AaZk38Gkel76YA/tinlicker-north-america-2026",
+          "https://www.songkick.com/concerts/43167468-tinlicker-at-wiltern"
+        ],
+        "tickets": [
           "https://www.ticketmaster.com/tinlicker-north-america-2026-los-angeles-california-10-09-2026/event/09006490AB107C05"
         ],
-        "tickets": [],
         "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=The%20Wiltern%2C%20Los%20Angeles",
-          "apple": "https://maps.apple.com/?q=The%20Wiltern%2C%20Los%20Angeles"
+          "google": "https://www.google.com/maps/search/?api=1&query=The%20Wiltern%2C%20LA",
+          "apple": "https://maps.apple.com/?q=The%20Wiltern%2C%20LA"
         },
         "coords": null,
         "coords_precise": false,
@@ -9284,7 +9141,17 @@
         "image_generated": true,
         "popularity": 0,
         "enriched": 0,
-        "active": true
+        "active": true,
+        "lineup": [
+          {
+            "name": "Tinlicker",
+            "instagram": null
+          },
+          {
+            "name": "Helsloot",
+            "instagram": null
+          }
+        ]
       },
       {
         "id": "2026-10-05-music-tromac-at-silverlake-lounge-07ca87",
@@ -9442,47 +9309,6 @@
         "ra": {},
         "image": "https://party-scout.app/img/gen/colin-stauber-edb4.jpg",
         "image_generated": true,
-        "popularity": 0,
-        "enriched": 1,
-        "active": true
-      },
-      {
-        "id": "2026-10-05-music-dvs1-mary-yuzovskaya-pleasures-3675be",
-        "eid": "dvs1-mary-yuzovskaya-ple-98ba",
-        "track": "music",
-        "category": "Nightclub",
-        "name": "Dvs1, Mary Yuzovskaya, Pleasures",
-        "day": "Sat",
-        "date": "2026-10-10",
-        "time": "11pm–7am",
-        "start": "23:00",
-        "end": "07:00",
-        "area": "Los Angeles",
-        "venue": "TBA",
-        "address": "",
-        "why": "For an all-night party that runs until morning.",
-        "summary": "A late-night event on 2026-10-10 featuring Dvs1, Mary Yuzovskaya, and Pleasures, running 11pm–7am in Los Angeles.",
-        "promoter": "",
-        "price": "$25 b4 12 / $35-42",
-        "tags": [
-          "dj",
-          "all-night"
-        ],
-        "sources": [
-          "https://ra.co/events/2510218"
-        ],
-        "tickets": [
-          "https://ra.co/events/2510218"
-        ],
-        "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=Los%20Angeles",
-          "apple": "https://maps.apple.com/?q=Los%20Angeles"
-        },
-        "coords": null,
-        "coords_precise": false,
-        "ra": {},
-        "image": "https://party-scout.app/img/gen/dvs1-mary-yuzovskaya-ple-98ba.jpg",
-        "image_generated": false,
         "popularity": 0,
         "enriched": 1,
         "active": true
@@ -9721,6 +9547,108 @@
         "ra": {},
         "image": "",
         "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-10-05-music-afters-2200c1",
+        "eid": "afters-fa6b",
+        "track": "music",
+        "category": "",
+        "name": "Afters",
+        "day": "Fri",
+        "date": "2026-10-09",
+        "time": "",
+        "start": "04:00",
+        "end": null,
+        "area": "Los Angeles",
+        "venue": "Tooneyverse @ 1253 S Los Angeles St Ste C",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "$15",
+        "tags": [],
+        "sources": [],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=Tooneyverse%20%40%201253%20S%20Los%20Angeles%20St%20Ste%20C%2C%20Los%20Angeles",
+          "apple": "https://maps.apple.com/?q=Tooneyverse%20%40%201253%20S%20Los%20Angeles%20St%20Ste%20C%2C%20Los%20Angeles"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "https://party-scout.app/img/gen/afters-fa6b.jpg",
+        "image_generated": true,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-10-05-music-dublon-rooftop-party-at-level-308db2",
+        "eid": "dublon-rooftop-party-at-459a",
+        "track": "music",
+        "category": "",
+        "name": "Dublon [rooftop party] at Level 8",
+        "day": "Fri",
+        "date": "2026-10-09",
+        "time": "",
+        "start": "17:00",
+        "end": null,
+        "area": "Los Angeles",
+        "venue": "Level 8 DTLA",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "",
+        "tags": [],
+        "sources": [],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=Level%208%20DTLA%2C%20Los%20Angeles",
+          "apple": "https://maps.apple.com/?q=Level%208%20DTLA%2C%20Los%20Angeles"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "https://party-scout.app/img/gen/dublon-rooftop-party-at-459a.jpg",
+        "image_generated": true,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-10-05-music-afters-4321a1",
+        "eid": "afters-3768",
+        "track": "music",
+        "category": "",
+        "name": "Afters",
+        "day": "Sat",
+        "date": "2026-10-10",
+        "time": "",
+        "start": "04:00",
+        "end": null,
+        "area": "Los Angeles",
+        "venue": "Tooneyverse @ 1253 S Los Angeles St Ste C",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "$15",
+        "tags": [],
+        "sources": [],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=Tooneyverse%20%40%201253%20S%20Los%20Angeles%20St%20Ste%20C%2C%20Los%20Angeles",
+          "apple": "https://maps.apple.com/?q=Tooneyverse%20%40%201253%20S%20Los%20Angeles%20St%20Ste%20C%2C%20Los%20Angeles"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "https://party-scout.app/img/gen/afters-3768.jpg",
+        "image_generated": true,
         "popularity": 0,
         "enriched": 0,
         "active": true
