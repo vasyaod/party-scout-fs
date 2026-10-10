@@ -5,7 +5,7 @@
   "location": "Los Angeles & SoCal",
   "city": "los-angeles",
   "city_label": "Los Angeles",
-  "generated_at": "2026-10-09",
+  "generated_at": "2026-10-10",
   "tracks": {
     "music": [
       {
@@ -4937,14 +4937,23 @@
         "end": "05:00",
         "area": "Los Angeles",
         "venue": "The Lexington",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "129 E. 3rd St, Los Angeles, Ca, 90013",
+        "why": "For a late-night, after-hours scene in downtown Los Angeles.",
+        "summary": "Nightshift After Hours takes place October 23, 2026 at 129 E. 3rd St in downtown Los Angeles (90013). The listing indicates an after-hours event in DTLA.",
         "promoter": "",
         "price": "$23",
-        "tags": [],
-        "sources": [],
-        "tickets": [],
+        "tags": [
+          "after-hours",
+          "nightlife",
+          "dtla",
+          "late-night"
+        ],
+        "sources": [
+          "https://ra.co/events/2556342"
+        ],
+        "tickets": [
+          "https://ra.co/events/2556342"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=The%20Lexington%2C%20Los%20Angeles",
           "apple": "https://maps.apple.com/?q=The%20Lexington%2C%20Los%20Angeles"
@@ -4952,10 +4961,10 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://party-scout.app/img/gen/nightshift-after-hours-4edb.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
