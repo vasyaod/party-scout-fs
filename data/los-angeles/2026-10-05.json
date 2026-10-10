@@ -9448,19 +9448,27 @@
         "name": "Puro Amor",
         "day": "Sat",
         "date": "2026-10-10",
-        "time": "",
+        "time": "11:59pm–5am",
         "start": "23:59",
-        "end": null,
+        "end": "05:00",
         "area": "Los Angeles",
         "venue": "TBA",
         "address": "",
-        "why": "",
-        "summary": "",
+        "why": "To attend a ticketed late-night party that goes into the early morning.",
+        "summary": "Late-night event on October 10, 2026 running 11:59pm–5am with $20 entry.",
         "promoter": "",
-        "price": "",
-        "tags": [],
-        "sources": [],
-        "tickets": [],
+        "price": "$20",
+        "tags": [
+          "ticketed",
+          "late-night",
+          "party"
+        ],
+        "sources": [
+          "https://ra.co/events/2558058"
+        ],
+        "tickets": [
+          "https://ra.co/events/2558058"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Los%20Angeles",
           "apple": "https://maps.apple.com/?q=Los%20Angeles"
@@ -9468,10 +9476,10 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://party-scout.app/img/gen/puro-amor-5d03.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
