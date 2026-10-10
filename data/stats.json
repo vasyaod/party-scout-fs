@@ -1,12 +1,12 @@
 {
   "kind": "stats",
-  "generated_at": "2026-10-10T03:43:45+00:00",
+  "generated_at": "2026-10-10T03:46:44+00:00",
   "weights_version": "v1",
   "total": {
     "n": 5104,
     "median": 0.8727,
     "p25": 0.7818,
-    "pct_ge_075": 0.7874,
+    "pct_ge_075": 0.7876,
     "invalid": 117,
     "tba_rate": 0.0933,
     "by_field_fixable": {
@@ -19,9 +19,9 @@
       "start": 836,
       "sources": 752,
       "time": 579,
-      "why": 543,
-      "summary": 489,
-      "tags": 465,
+      "why": 542,
+      "summary": 488,
+      "tags": 464,
       "maps": 184,
       "venue": 92
     },
@@ -38,7 +38,7 @@
         "n": 2310,
         "median": 0.8727,
         "p25": 0.7273,
-        "pct_ge_075": 0.7303,
+        "pct_ge_075": 0.7307,
         "invalid": 59,
         "tba_rate": 0.161,
         "by_field_fixable": {
@@ -50,9 +50,9 @@
           "sources": 456,
           "price": 431,
           "start": 424,
-          "why": 309,
-          "summary": 287,
-          "tags": 283,
+          "why": 308,
+          "summary": 286,
+          "tags": 282,
           "time": 253,
           "maps": 34,
           "venue": 17
@@ -2537,8 +2537,8 @@
           "summary": {
             "n": 198,
             "median": 0.8704,
-            "p25": 0.7111,
-            "pct_ge_075": 0.702,
+            "p25": 0.7115,
+            "pct_ge_075": 0.7071,
             "invalid": 2,
             "tba_rate": 0.1465,
             "by_field_fixable": {
@@ -2550,9 +2550,9 @@
               "price": 38,
               "sources": 32,
               "time": 23,
-              "why": 20,
-              "summary": 19,
-              "tags": 19,
+              "why": 19,
+              "summary": 18,
+              "tags": 18,
               "start": 13,
               "maps": 6
             },
@@ -2610,7 +2610,7 @@
               "n": 47,
               "median": 0.8407,
               "p25": 0.6852,
-              "pct_ge_075": 0.5957,
+              "pct_ge_075": 0.617,
               "invalid": 0,
               "tba_rate": 0.1064,
               "weights_version": "v1"
