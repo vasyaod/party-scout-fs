@@ -7256,15 +7256,20 @@
         "area": "Costa Mesa",
         "venue": "Time Nightclub",
         "address": "",
-        "why": "",
-        "summary": "",
+        "why": "To try a new night out in the city.",
+        "summary": "Altego is scheduled for October 16, 2026 in Los Angeles.",
         "promoter": "",
         "price": "$20",
-        "tags": [],
+        "tags": [
+          "event",
+          "nightlife"
+        ],
         "sources": [
           "https://www.tixr.com/groups/timenightclub/events/altego-201237"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://www.tixr.com/groups/timenightclub/events/altego-201237"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Time%20Nightclub%2C%20Costa%20Mesa",
           "apple": "https://maps.apple.com/?q=Time%20Nightclub%2C%20Costa%20Mesa"
@@ -7275,7 +7280,7 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
