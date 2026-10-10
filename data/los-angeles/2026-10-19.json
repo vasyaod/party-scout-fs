@@ -4676,7 +4676,7 @@
         "id": "2026-10-19-music-nightshift-after-hours-43ae7d",
         "eid": "nightshift-after-hours-3e9c",
         "track": "music",
-        "category": "",
+        "category": "Nightclub",
         "name": "Nightshift After Hours",
         "day": "Mon",
         "date": "2026-10-19",
@@ -4685,14 +4685,23 @@
         "end": "05:00",
         "area": "Los Angeles",
         "venue": "The Lexington",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "129 E. 3rd St, Los Angeles, Ca, 90013",
+        "why": "To keep the party going late into the night.",
+        "summary": "An after-hours event happening October 19, 2026 at 129 E. 3rd St in DTLA (Los Angeles, 90013).",
         "promoter": "",
         "price": "$23",
-        "tags": [],
-        "sources": [],
-        "tickets": [],
+        "tags": [
+          "after-hours",
+          "dj",
+          "21+",
+          "dance"
+        ],
+        "sources": [
+          "https://ra.co/events/2556335"
+        ],
+        "tickets": [
+          "https://ra.co/events/2556335"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=The%20Lexington%2C%20Los%20Angeles",
           "apple": "https://maps.apple.com/?q=The%20Lexington%2C%20Los%20Angeles"
@@ -4700,10 +4709,10 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://party-scout.app/img/gen/nightshift-after-hours-3e9c.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
