@@ -7441,12 +7441,13 @@
         "sources": [
           "https://dothebay.com/events/2026/10/24/jai-wolf-tickets",
           "https://edmtrain.com/san-francisco-ca",
-          "https://www.theregencyballroom.com"
+          "https://www.theregencyballroom.com",
+          "https://www.theregencyballroom.com/"
         ],
         "tickets": [],
         "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=Regency%20Ballroom%2C%20San%20Francisco",
-          "apple": "https://maps.apple.com/?q=Regency%20Ballroom%2C%20San%20Francisco"
+          "google": "https://www.google.com/maps/search/?api=1&query=The%20Regency%20Ballroom",
+          "apple": "https://maps.apple.com/?q=The%20Regency%20Ballroom"
         },
         "coords": null,
         "coords_precise": false,
@@ -10829,26 +10830,37 @@
         "id": "2026-10-19-music-victor-ruiz-b6b6bc",
         "eid": "victor-ruiz-88d8",
         "track": "music",
-        "category": "",
+        "category": "Nightclub",
         "name": "Victor Ruiz",
         "day": "Fri",
         "date": "2026-10-23",
-        "time": "",
-        "start": null,
-        "end": null,
-        "area": "",
+        "time": "10pm–4am",
+        "start": "22:00",
+        "end": "04:00",
+        "area": "SoMa",
         "venue": "Halcyon SF",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "314 11th St, San Francisco, California, 94103",
+        "why": "A big-room house and techno night at one of SF's best-sounding clubs, with a full 6-hour run.",
+        "summary": "Victor Ruiz headlines Halcyon on a Friday night with Tara and Mostash in support, running 10pm to 4am.",
         "promoter": "",
-        "price": "",
-        "tags": [],
+        "price": "$20",
+        "tags": [
+          "dj",
+          "electronic",
+          "paid",
+          "late-night",
+          "house",
+          "techno",
+          "club"
+        ],
         "sources": [
           "https://edmtrain.com/san-francisco-ca",
-          "https://halcyonsf.com/"
+          "https://halcyonsf.com/",
+          "https://ra.co/events/2531101"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://ra.co/events/2531101"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Halcyon%20SF",
           "apple": "https://maps.apple.com/?q=Halcyon%20SF"
@@ -10856,32 +10868,46 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://party-scout.app/img/gen/victor-ruiz-88d8.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
-        "active": true
+        "enriched": 1,
+        "active": true,
+        "lineup": []
       },
       {
         "id": "2026-10-19-music-disco-morte-cristy-bubbles-and-fb069a",
         "eid": "disco-morte-cristy-bubbl-21ae",
         "track": "music",
-        "category": "",
+        "category": "Disco",
         "name": "Disco Morte: Cristy Bubbles, Andy Human",
         "day": "Sat",
         "date": "2026-10-24",
-        "time": "",
-        "start": null,
+        "time": "9pm",
+        "start": "21:00",
         "end": null,
-        "area": "San Francisco",
+        "area": "SF",
         "venue": "Mothership (San Francisco)",
         "address": "",
-        "why": "",
-        "summary": "",
-        "promoter": "",
-        "price": "",
-        "tags": [],
-        "sources": [],
+        "why": "Free entry, a proper italo and hi-NRG selection, and a skull-and-roses Halloween flyer — a cheap way to start the costume weekend.",
+        "summary": "A free Halloween-season disco night at Mothership with Cristy Bubbles and Andy Human spinning italo disco, hi-NRG, synth and boogie. Doors at 9pm, 21+, from Club Giovani.",
+        "promoter": "Club Giovani",
+        "price": "Free",
+        "tags": [
+          "disco",
+          "dj",
+          "free",
+          "dance",
+          "italo disco",
+          "hi-nrg",
+          "synth",
+          "boogie",
+          "halloween",
+          "21+"
+        ],
+        "sources": [
+          "https://www.instagram.com/dj_cristy_bubbles/p/DeIf2hdKodN/"
+        ],
         "tickets": [],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Mothership%20%28San%20Francisco%29%2C%20San%20Francisco",
@@ -10890,10 +10916,10 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://party-scout.app/img/gen/disco-morte-cristy-bubbl-21ae.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
@@ -10904,17 +10930,23 @@
         "name": "Dondedos",
         "day": "Sat",
         "date": "2026-10-24",
-        "time": "",
-        "start": null,
-        "end": null,
-        "area": "San Francisco",
+        "time": "9pm–1:30am",
+        "start": "21:00",
+        "end": "01:30",
+        "area": "Mission",
         "venue": "Bar Part Time (San Francisco)",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "496 14th St, San Francisco",
+        "why": "Free entry and a proper sound system in a small room — an easy Saturday-night drop-in.",
+        "summary": "Dondedos play a free late-night set at Bar Part Time, the Mission wine bar with a hi-fi dance floor.",
         "promoter": "",
-        "price": "",
-        "tags": [],
+        "price": "Free",
+        "tags": [
+          "free",
+          "late-night",
+          "dj",
+          "wine-bar",
+          "mission"
+        ],
         "sources": [],
         "tickets": [],
         "maps": {
@@ -10927,69 +10959,41 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
-        "active": true
-      },
-      {
-        "id": "2026-10-19-music-jai-wolf-10-year-anniversary-t-95e2b5",
-        "eid": "jai-wolf-10-year-anniver-73c5",
-        "track": "music",
-        "category": "",
-        "name": "JAI WOLF - 10 Year Anniversary Tour",
-        "day": "Sat",
-        "date": "2026-10-24",
-        "time": "",
-        "start": null,
-        "end": null,
-        "area": "",
-        "venue": "The Regency Ballroom",
-        "address": "",
-        "why": "",
-        "summary": "",
-        "promoter": "",
-        "price": "",
-        "tags": [],
-        "sources": [
-          "https://www.theregencyballroom.com/"
-        ],
-        "tickets": [],
-        "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=The%20Regency%20Ballroom",
-          "apple": "https://maps.apple.com/?q=The%20Regency%20Ballroom"
-        },
-        "coords": null,
-        "coords_precise": false,
-        "ra": {},
-        "image": "",
-        "image_generated": false,
-        "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
         "id": "2026-10-19-music-konstantin-sibold-63b772",
         "eid": "konstantin-sibold-ef42",
         "track": "music",
-        "category": "",
+        "category": "Nightclub",
         "name": "Konstantin Sibold",
         "day": "Sat",
         "date": "2026-10-24",
-        "time": "",
-        "start": null,
-        "end": null,
-        "area": "",
+        "time": "10pm–4am",
+        "start": "22:00",
+        "end": "04:00",
+        "area": "SoMa",
         "venue": "Halcyon SF",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "314 11th St, San Francisco, California, 94103",
+        "why": "For a late-night, all-ages electronic dance party atmosphere in SoMa.",
+        "summary": "Konstantin Sibold plays 10pm–4am on October 24 at 314 11th St in San Francisco; $20 admission.",
         "promoter": "",
-        "price": "",
-        "tags": [],
+        "price": "$20",
+        "tags": [
+          "dj",
+          "electronic",
+          "paid",
+          "late-night"
+        ],
         "sources": [
           "https://edmtrain.com/san-francisco-ca",
-          "https://halcyonsf.com/"
+          "https://halcyonsf.com/",
+          "https://ra.co/events/2531104"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://ra.co/events/2531104"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Halcyon%20SF",
           "apple": "https://maps.apple.com/?q=Halcyon%20SF"
@@ -11000,7 +11004,7 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
@@ -11139,6 +11143,47 @@
         "image_generated": false,
         "popularity": 0,
         "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-10-19-music-jai-wolf-10-year-anniversary-t-95e2b5",
+        "eid": "jai-wolf-10-year-anniver-499b",
+        "track": "music",
+        "category": "Concert",
+        "name": "JAI WOLF - 10 Year Anniversary Tour",
+        "day": "Sat",
+        "date": "2026-10-24",
+        "time": "8pm",
+        "start": "20:00",
+        "end": null,
+        "area": "SF",
+        "venue": "",
+        "address": "1290 Sutter Street, San Francisco, CA 94109",
+        "why": "For a high-energy electronic live show celebrating the artist's decade-long run.",
+        "summary": "Jai Wolf's 10 Year Anniversary Tour stops in San Francisco on October 24, 2026 at 8pm at 1290 Sutter Street; tickets are listed at $49–$66.",
+        "promoter": "",
+        "price": "$49–$66",
+        "tags": [
+          "electronic",
+          "live",
+          "dj"
+        ],
+        "sources": [
+          "https://www.theregencyballroom.com/",
+          "https://dothebay.com/events/2026/10/24/jai-wolf-tickets"
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=1290%20Sutter%20Street%2C%20San%20Francisco%2C%20CA%2094109",
+          "apple": "https://maps.apple.com/?q=1290%20Sutter%20Street%2C%20San%20Francisco%2C%20CA%2094109"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "https://party-scout.app/img/gen/jai-wolf-10-year-anniver-73c5.jpg",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 1,
         "active": true
       }
     ],
