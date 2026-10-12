@@ -8113,13 +8113,23 @@
         "area": "Los Angeles",
         "venue": "Rich's",
         "address": "",
-        "why": "",
-        "summary": "",
+        "why": "A reliable Wednesday-night dance floor with two rooms and a midnight drag show, and no cover listed.",
+        "summary": "Rich's weekly midweek party in San Diego's Hillcrest: EDM in the main room, hip-hop up front and a drag moment at midnight, 10pm to 2am.",
         "promoter": "",
         "price": "free",
-        "tags": [],
+        "tags": [
+          "nightlife",
+          "party",
+          "wednesday",
+          "edm",
+          "hip-hop",
+          "drag",
+          "lgbtq",
+          "weekly"
+        ],
         "sources": [
-          "https://prod-nts-api.seeticketsusa.us/v1.0.0/promote/cecfdb6c-581c-4cf1-95f2-7e71962c07b6/clickthru"
+          "https://prod-nts-api.seeticketsusa.us/v1.0.0/promote/cecfdb6c-581c-4cf1-95f2-7e71962c07b6/clickthru",
+          "https://outxout.com/event/richs-misch-3985e5b9"
         ],
         "tickets": [],
         "maps": {
@@ -8132,14 +8142,14 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
         "id": "2026-10-12-music-headroom-listening-sessions-sa-80ed68",
         "eid": "headroom-listening-sessi-274e",
         "track": "music",
-        "category": "",
+        "category": "Concert",
         "name": "Headroom Listening Sessions: San Diego",
         "day": "Thu",
         "date": "2026-10-15",
@@ -8148,16 +8158,21 @@
         "end": "21:00",
         "area": "Los Angeles",
         "venue": "Spin",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "2028 Hancock Street; San Diego, CA 92110, USA",
+        "why": "To hear music together in a focused, communal listening setting.",
+        "summary": "A Headroom Listening Sessions event titled for San Diego is scheduled for October 15, 2026; venue details were not provided in the listing.",
         "promoter": "",
         "price": "free",
-        "tags": [],
+        "tags": [
+          "listening",
+          "music"
+        ],
         "sources": [
           "https://ra.co/events/2549841"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://ra.co/events/2549841"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Spin%2C%20Los%20Angeles",
           "apple": "https://maps.apple.com/?q=Spin%2C%20Los%20Angeles"
@@ -8165,33 +8180,45 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://party-scout.app/img/gen/headroom-listening-sessi-274e.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
         "id": "2026-10-12-music-palestine-sudan-fundraiser-tap-76728f",
         "eid": "palestine-sudan-fundrais-df30",
         "track": "music",
-        "category": "",
+        "category": "Concert",
         "name": "Palestine & Sudan Fundraiser Tape Listening Party 2",
         "day": "Thu",
         "date": "2026-10-15",
         "time": "19:00",
-        "start": null,
-        "end": null,
+        "start": "19:00",
+        "end": "23:00",
         "area": "Los Angeles",
         "venue": "Tea at Shiloh",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "2035 Bay St, Los Angeles, CA 90021",
+        "why": "Music-first night where the listening is the point and the money goes to aid causes.",
+        "summary": "A listening party for a fundraiser tape benefiting Palestine and Sudan relief, held at Tea at Shiloh on Bay St in LA's Arts District area.",
         "promoter": "",
         "price": "",
-        "tags": [],
-        "sources": [],
-        "tickets": [],
+        "tags": [
+          "fundraiser",
+          "listening-party",
+          "charity",
+          "community",
+          "listening party",
+          "tape",
+          "benefit"
+        ],
+        "sources": [
+          "https://ra.co/events/2558472"
+        ],
+        "tickets": [
+          "https://ra.co/events/2558472"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Tea%20at%20Shiloh%2C%20Los%20Angeles",
           "apple": "https://maps.apple.com/?q=Tea%20at%20Shiloh%2C%20Los%20Angeles"
@@ -8199,17 +8226,17 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://party-scout.app/img/gen/palestine-sudan-fundrais-df30.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
         "id": "2026-10-12-music-surface-diy-w-jeku-fun2bjane-c-9d5cfa",
         "eid": "surface-diy-w-jeku-fun2b-df4f",
         "track": "music",
-        "category": "",
+        "category": "Concert",
         "name": "Surface Diy w/ Jeku, Fun2bjane & Capes",
         "day": "Thu",
         "date": "2026-10-15",
@@ -8218,14 +8245,22 @@
         "end": "04:00",
         "area": "Los Angeles",
         "venue": "Better Tomorrow (Los Angeles)",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "1133 Venice Blvd Los Angeles CA 90033",
+        "why": "To catch three acts sharing a single bill.",
+        "summary": "Surface Diy with Jeku, Fun2bjane & Capes is scheduled for October 15, 2026 at 1133 Venice Blvd in Los Angeles.",
         "promoter": "",
         "price": "$16.8",
-        "tags": [],
-        "sources": [],
-        "tickets": [],
+        "tags": [
+          "live",
+          "music",
+          "diy"
+        ],
+        "sources": [
+          "https://ra.co/events/2548074"
+        ],
+        "tickets": [
+          "https://ra.co/events/2548074"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Better%20Tomorrow%20%28Los%20Angeles%29%2C%20Los%20Angeles",
           "apple": "https://maps.apple.com/?q=Better%20Tomorrow%20%28Los%20Angeles%29%2C%20Los%20Angeles"
@@ -8233,10 +8268,10 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://party-scout.app/img/gen/surface-diy-w-jeku-fun2b-df4f.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
