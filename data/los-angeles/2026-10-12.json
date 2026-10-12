@@ -8537,21 +8537,29 @@
         "id": "2026-10-12-music-the-afters-exchange-unofficial-ca9a09",
         "eid": "the-afters-exchange-unof-6970",
         "track": "music",
-        "category": "",
+        "category": "Nightclub",
         "name": "The Afters Exchange (Unofficial Sammy Virji Afters)",
         "day": "Sat",
         "date": "2026-10-17",
         "time": "9pm",
         "start": "21:00",
-        "end": null,
+        "end": "23:00",
         "area": "Los Angeles",
         "venue": "TBA",
         "address": "",
-        "why": "",
-        "summary": "",
-        "promoter": "",
+        "why": "Late-night house and tech house for anyone not ready to call it a night after the main show.",
+        "summary": "Independent 21+ late-night warehouse afterparty after the Sammy Virji show, with local house and tech house DJs and immersive production. Secret location, listed as San Diego.",
+        "promoter": "Psychosis Events x Pushin' Promotions",
         "price": "$15-30",
-        "tags": [],
+        "tags": [
+          "afterparty",
+          "late-night",
+          "social",
+          "house",
+          "tech-house",
+          "warehouse",
+          "21+"
+        ],
         "sources": [
           "https://ticketly.events/e/601/psychosis-events-x-pushin-promotions-the-afters-exchange-unofficial-sammy-virji-afters?ref=EDMTrain"
         ],
@@ -8563,10 +8571,10 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://party-scout.app/img/gen/the-afters-exchange-unof-6970.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
@@ -8665,17 +8673,21 @@
         "time": "9pm–4am",
         "start": "21:00",
         "end": "04:00",
-        "area": "Los Angeles",
+        "area": "San Diego",
         "venue": "Rich's",
         "address": "",
-        "why": "To see Myxzlplix and Breezus perform together in LA.",
-        "summary": "A Los Angeles event on 2026-10-17 billed as Fuel featuring Myxzlplix and Breezus.",
+        "why": "Pick this one for an all-night tech-house floor at one of San Diego's long-running dance clubs.",
+        "summary": "Fuel is Rich's recurring Saturday tech-house night, with Myxzlplix headlining and Breezus in support. Doors 9pm, running until 4am.",
         "promoter": "",
         "price": "$18.07",
         "tags": [
           "music",
           "artists",
-          "night"
+          "night",
+          "tech house",
+          "house",
+          "club night",
+          "nightlife"
         ],
         "sources": [
           "https://wl.eventim.us/event/fuel-w-myxzlplix/706587?afflky=RichsSanDiego"
@@ -8698,22 +8710,30 @@
         "id": "2026-10-12-music-good-society-x-odyzey-bass-war-8b873c",
         "eid": "good-society-x-odyzey-ba-a371",
         "track": "music",
-        "category": "",
+        "category": "Nightclub",
         "name": "Good Society x Odyzey - Bass Warehouse Party: Saturna, HABITAAT, Lowcation, AURAcle",
         "day": "Sat",
         "date": "2026-10-17",
-        "time": "",
-        "start": null,
+        "time": "9pm",
+        "start": "21:00",
         "end": null,
-        "area": "Los Angeles",
+        "area": "DTLA",
         "venue": "Downtown Los Angeles (Arts District) (Los Angeles)",
         "address": "",
-        "why": "",
-        "summary": "",
-        "promoter": "",
+        "why": "Bass-heavy, no-frills warehouse night in DTLA with a tight four-act lineup from a crew known for its after-hours parties.",
+        "summary": "An after-dark warehouse party from Good Society and Odyzey Music in the Arts District, built around raw underground bass music. Saturna, HABITAAT, Lowcation and AURAcle share the lineup.",
+        "promoter": "Good Society x Odyzey Music",
         "price": "",
-        "tags": [],
-        "sources": [],
+        "tags": [
+          "bass",
+          "warehouse",
+          "dj",
+          "underground",
+          "dtla"
+        ],
+        "sources": [
+          "https://events.musicofourdesire.com/event/luf7-good-society-x-odyzey-music-warehouse-party-event-los-angeles-united-states"
+        ],
         "tickets": [],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Downtown%20Los%20Angeles%20%28Arts%20District%29%20%28Los%20Angeles%29%2C%20Los%20Angeles",
@@ -8725,8 +8745,9 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
-        "active": true
+        "enriched": 1,
+        "active": true,
+        "lineup": []
       },
       {
         "id": "2026-10-12-music-the-haunting-of-the-5th-floor-6716b2",
@@ -8771,18 +8792,28 @@
         "day": "Sat",
         "date": "2026-10-17",
         "time": "21:00",
-        "start": null,
-        "end": null,
+        "start": "21:00",
+        "end": "03:00",
         "area": "Los Angeles",
         "venue": "TBA - IYKYK ",
         "address": "",
-        "why": "",
-        "summary": "",
+        "why": "A late-night Saturday party with a secret location: go if you like finding out where the night is happening at the last minute.",
+        "summary": "NO SQUARES is a Saturday-night club party in Los Angeles running 9pm to 3am, with the venue kept under wraps until you have a ticket.",
         "promoter": "",
         "price": "",
-        "tags": [],
-        "sources": [],
-        "tickets": [],
+        "tags": [
+          "nightlife",
+          "unknown",
+          "club",
+          "late-night",
+          "secret-location"
+        ],
+        "sources": [
+          "https://ra.co/events/2558186"
+        ],
+        "tickets": [
+          "https://ra.co/events/2558186"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Los%20Angeles",
           "apple": "https://maps.apple.com/?q=Los%20Angeles"
@@ -8790,10 +8821,10 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://party-scout.app/img/gen/no-squares-ea96.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
