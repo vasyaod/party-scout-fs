@@ -10660,11 +10660,11 @@
         "time": "",
         "start": null,
         "end": null,
-        "area": "SF",
+        "area": "Union Square",
         "venue": "The Westin St. Francis San Francisco on Union Square",
         "address": "",
-        "why": "For an interactive, theatrical dinner experience where guests help solve a staged mystery.",
-        "summary": "A murder mystery dinner at The Westin St. Francis on October 23, 2026.",
+        "why": "A dress-up night out with a story built in: costumes encouraged, dinner and drinks included in the show format.",
+        "summary": "An interactive whodunit dinner in a Union Square hotel ballroom, themed around a masquerade ball with suspects, motives and surprise twists.",
         "promoter": "",
         "price": "",
         "tags": [
@@ -10672,7 +10672,9 @@
           "dinner",
           "interactive",
           "themed",
-          "indoor"
+          "indoor",
+          "murder-mystery",
+          "costume"
         ],
         "sources": [
           "https://www.eventbrite.com/d/ca--san-francisco/events/"
@@ -10697,25 +10699,34 @@
         "id": "2026-10-19-music-petit-biscuit-at-the-foundry-i-64b8f9",
         "eid": "petit-biscuit-at-the-fou-93aa",
         "track": "music",
-        "category": "",
+        "category": "Concert",
         "name": "Petit Biscuit at The Foundry in San Francisco",
         "day": "Fri",
         "date": "2026-10-23",
-        "time": "",
-        "start": null,
-        "end": null,
-        "area": "",
+        "time": "9pm–2am",
+        "start": "21:00",
+        "end": "02:00",
+        "area": "SoMa",
         "venue": "The Foundry",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "1425 Folsom St, San Francisco, CA 94103",
+        "why": "For a late-night dance set and club atmosphere in SoMa.",
+        "summary": "Petit Biscuit performs at The Foundry in San Francisco on October 23, 2026; the show runs 9pm–2am at 1425 Folsom St with tickets listed at $35.",
         "promoter": "",
-        "price": "",
-        "tags": [],
-        "sources": [
-          "https://www.eventbrite.com/d/ca--san-francisco/events/"
+        "price": "$35",
+        "tags": [
+          "electronic",
+          "dance",
+          "live",
+          "indoor"
         ],
-        "tickets": [],
+        "sources": [
+          "https://www.eventbrite.com/d/ca--san-francisco/events/",
+          "https://ra.co/events/2539570"
+        ],
+        "tickets": [
+          "https://www.eventbrite.com/d/ca--san-francisco/events/",
+          "https://ra.co/events/2539570"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=The%20Foundry",
           "apple": "https://maps.apple.com/?q=The%20Foundry"
@@ -10723,32 +10734,40 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://party-scout.app/img/gen/petit-biscuit-at-the-fou-93aa.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
         "id": "2026-10-19-music-rahaan-alston-8f4978",
         "eid": "rahaan-alston-2bd9",
         "track": "music",
-        "category": "",
+        "category": "Nightclub",
         "name": "Rahaan + Alston",
         "day": "Fri",
         "date": "2026-10-23",
-        "time": "",
-        "start": null,
-        "end": null,
-        "area": "San Francisco",
-        "venue": "Bar Part Time (San Francisco)",
+        "time": "9pm–1:30am",
+        "start": "21:00",
+        "end": "01:30",
+        "area": "SF",
+        "venue": "Bar Part Time",
         "address": "",
-        "why": "",
-        "summary": "",
+        "why": "A free, no-frills late set of disco and electrohouse in an intimate bar, 21+.",
+        "summary": "Rahaan and Alston play a free Friday night of disco and electro-house at Bar Part Time, the wine bar and listening room in San Francisco.",
         "promoter": "",
-        "price": "",
-        "tags": [],
-        "sources": [],
+        "price": "Free",
+        "tags": [
+          "free",
+          "dj",
+          "disco",
+          "electrohouse",
+          "21+"
+        ],
+        "sources": [
+          "https://www.instagram.com/barparttime/p/DeNGjGyyYl2/"
+        ],
         "tickets": [],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Bar%20Part%20Time%20%28San%20Francisco%29%2C%20San%20Francisco",
@@ -10757,33 +10776,42 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://party-scout.app/img/gen/rahaan-alston-2bd9.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
         "id": "2026-10-19-music-the-velvet-vault-amelia-hoochi-6aec18",
         "eid": "the-velvet-vault-amelia-27a7",
         "track": "music",
-        "category": "",
+        "category": "Nightclub",
         "name": "The Velvet Vault: Amelia, hooCHi, Natasha Xo, Reedemit, S¦",
         "day": "Fri",
         "date": "2026-10-23",
-        "time": "",
-        "start": null,
-        "end": null,
+        "time": "9pm–2am",
+        "start": "21:00",
+        "end": "02:00",
         "area": "San Francisco",
         "venue": "Question Mark Tavern (San Francisco)",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "312 Harriet Street, San Francisco, CA 94103",
+        "why": "A free, late-night multi-artist music showcase in SoMa.",
+        "summary": "A free, late-night event at 312 Harriet Street in San Francisco on Oct 23, 2026, running 9pm–2am and featuring Amelia, hooCHi, Natasha Xo, Reedemit, and S¦.",
         "promoter": "",
-        "price": "",
-        "tags": [],
-        "sources": [],
-        "tickets": [],
+        "price": "Free",
+        "tags": [
+          "free",
+          "live",
+          "late-night",
+          "multi-artist"
+        ],
+        "sources": [
+          "https://ra.co/events/2553643"
+        ],
+        "tickets": [
+          "https://ra.co/events/2553643"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Question%20Mark%20Tavern%20%28San%20Francisco%29%2C%20San%20Francisco",
           "apple": "https://maps.apple.com/?q=Question%20Mark%20Tavern%20%28San%20Francisco%29%2C%20San%20Francisco"
@@ -10791,10 +10819,10 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://party-scout.app/img/gen/the-velvet-vault-amelia-27a7.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
