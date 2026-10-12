@@ -17571,21 +17571,25 @@
         "id": "2026-10-12-music-nyx-late-night-clubbing-084-fr-f75ff3",
         "eid": "nyx-late-night-clubbing-56c2",
         "track": "music",
-        "category": "",
+        "category": "Nightclub",
         "name": "NYX - LATE NIGHT CLUBBING #084 (FRIDAY)",
         "day": "Fri",
         "date": "2026-10-16",
         "time": "",
         "start": null,
         "end": null,
-        "area": "",
+        "area": "SF",
         "venue": "San Francisco (location TBA)",
         "address": "",
-        "why": "",
-        "summary": "",
+        "why": "For late-night dancing and a lively party atmosphere.",
+        "summary": "Late-night clubbing event in San Francisco on Friday, October 16, 2026 (NYX - LATE NIGHT CLUBBING #084).",
         "promoter": "",
         "price": "",
-        "tags": [],
+        "tags": [
+          "nightclub",
+          "dance",
+          "late-night"
+        ],
         "sources": [],
         "tickets": [],
         "maps": {},
@@ -17595,7 +17599,7 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
@@ -17606,19 +17610,28 @@
         "name": "Perfect Stranger",
         "day": "Fri",
         "date": "2026-10-16",
-        "time": "",
-        "start": null,
+        "time": "9pm",
+        "start": "21:00",
         "end": null,
-        "area": "",
+        "area": "Dogpatch",
         "venue": "The Midway",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "900 Marin St, San Francisco, CA 94124",
+        "why": "A small-room night of melodic electronic music for the release of a new album, with a full local support bill.",
+        "summary": "Perfect Stranger plays an Intimate Night at The Midway, an album release party for A Perfect Sphere with Sphera, Khromata and niTuk.",
         "promoter": "",
-        "price": "",
-        "tags": [],
+        "price": "$43",
+        "tags": [
+          "ticketed",
+          "night",
+          "9pm",
+          "electronic",
+          "album-release",
+          "live"
+        ],
         "sources": [],
-        "tickets": [],
+        "tickets": [
+          "https://tixr.com/e/205038"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=The%20Midway",
           "apple": "https://maps.apple.com/?q=The%20Midway"
@@ -17626,17 +17639,18 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
-        "image_generated": false,
+        "image": "https://party-scout.app/img/gen/perfect-stranger-d884.jpg",
+        "image_generated": true,
         "popularity": 0,
-        "enriched": 0,
-        "active": true
+        "enriched": 1,
+        "active": true,
+        "lineup": []
       },
       {
         "id": "2026-10-12-music-surround-sound-av-astral-magi-5bc9c9",
         "eid": "surround-sound-av-astral-1193",
         "track": "music",
-        "category": "",
+        "category": "Concert",
         "name": "Surround Sound AV: Astral Magi, Forwyrd, Lunaxix, h__cam, Richard Haig",
         "day": "Sat",
         "date": "2026-10-17",
@@ -17645,14 +17659,23 @@
         "end": "20:00",
         "area": "West Oakland",
         "venue": "TBA",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "2253 Poplar St, Oakland, CA 94607, USA",
+        "why": "For immersive audiovisual performances from experimental electronic artists.",
+        "summary": "A surround-sound audiovisual night on 2026-10-17 featuring Astral Magi, Forwyrd, Lunaxix, h__cam, and Richard Haig at 2253 Poplar St in Oakland.",
         "promoter": "",
         "price": "$20",
-        "tags": [],
-        "sources": [],
-        "tickets": [],
+        "tags": [
+          "electronic",
+          "av",
+          "live",
+          "experimental"
+        ],
+        "sources": [
+          "https://ra.co/events/2529200"
+        ],
+        "tickets": [
+          "https://ra.co/events/2529200"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=West%20Oakland",
           "apple": "https://maps.apple.com/?q=West%20Oakland"
@@ -17661,9 +17684,9 @@
         "coords_precise": false,
         "ra": {},
         "image": "https://party-scout.app/img/gen/surround-sound-av-astral-1193.jpg",
-        "image_generated": true,
+        "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
@@ -17674,19 +17697,31 @@
         "name": "Beat Kitty",
         "day": "Sun",
         "date": "2026-10-18",
-        "time": "",
-        "start": null,
-        "end": null,
-        "area": "",
+        "time": "10am–1:11pm",
+        "start": "10:00",
+        "end": "13:11",
+        "area": "Hayes Valley",
         "venue": "554 Fillmore St",
-        "address": "",
-        "why": "",
-        "summary": "",
-        "promoter": "",
-        "price": "",
-        "tags": [],
-        "sources": [],
-        "tickets": [],
+        "address": "554 Fillmore Street, San Francisco, CA 94117",
+        "why": "A daytime, dance-first alternative to a club night: bass-heavy sets from Beat Kitty with a guided yoga opening, done by 1pm.",
+        "summary": "MOVEMENT Ecstatic Dance SF brings Beat Kitty on music duty for a Sunday-morning dance journey, with yoga facilitation by Kirin Power. Bass, dubstep and glitch-hop in an intentional, sober-style community space.",
+        "promoter": "MOVEMENT",
+        "price": "$30–$50",
+        "tags": [
+          "paid",
+          "daytime",
+          "ticketed",
+          "bass",
+          "dubstep",
+          "glitch-hop",
+          "ecstatic dance"
+        ],
+        "sources": [
+          "https://www.eventbrite.com/e/movement-ecstatic-dance-sf-beat-kitty-registration-2002170195953"
+        ],
+        "tickets": [
+          "https://www.eventbrite.com/e/movement-ecstatic-dance-sf-beat-kitty-registration-2002170195953"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=554%20Fillmore%20St",
           "apple": "https://maps.apple.com/?q=554%20Fillmore%20St"
@@ -17694,10 +17729,10 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://party-scout.app/img/gen/beat-kitty-1cea.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
