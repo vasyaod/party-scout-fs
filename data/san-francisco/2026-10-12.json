@@ -17739,23 +17739,31 @@
         "id": "2026-10-12-music-david-harness-57ce4d",
         "eid": "david-harness-f4a9",
         "track": "music",
-        "category": "",
+        "category": "Concert",
         "name": "David Harness",
         "day": "Sun",
         "date": "2026-10-18",
-        "time": "",
-        "start": null,
-        "end": null,
-        "area": "",
+        "time": "3–8pm",
+        "start": "15:00",
+        "end": "20:00",
+        "area": "SoMa",
         "venue": "Audio",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "316 11th St; San Francisco CA 94103; United States",
+        "why": "Good for an early-evening outing that bridges afternoon and night.",
+        "summary": "David Harness is scheduled at 316 11th St, San Francisco on 2026-10-18 from 3–8pm; tickets are $21.",
         "promoter": "",
-        "price": "",
-        "tags": [],
-        "sources": [],
-        "tickets": [],
+        "price": "$21",
+        "tags": [
+          "ticketed",
+          "live",
+          "afternoon"
+        ],
+        "sources": [
+          "https://ra.co/events/2539559"
+        ],
+        "tickets": [
+          "https://ra.co/events/2539559"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Audio",
           "apple": "https://maps.apple.com/?q=Audio"
@@ -17763,33 +17771,45 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://party-scout.app/img/gen/david-harness-f4a9.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
         "id": "2026-10-12-music-discovery-meadows-afters-abeso-7662d1",
         "eid": "discovery-meadows-afters-5c8b",
         "track": "music",
-        "category": "",
+        "category": "Nightclub",
         "name": "Discovery Meadows Afters: Abesowavvy, Briz, Jay Guerra",
         "day": "Sun",
         "date": "2026-10-18",
         "time": "Sun: Oct 18 (10pm-1:30am)",
         "start": "06:00",
         "end": "22:00",
-        "area": "",
+        "area": "San Jose",
         "venue": "Labyrinth (San Jose)",
-        "address": "",
-        "why": "",
-        "summary": "",
-        "promoter": "",
+        "address": "45 Post St, San Jose, CA",
+        "why": "A Sunday-night afters with a tight three-DJ house and tech house bill; free before 10:30pm.",
+        "summary": "T&N Event Co's late-night afters at Labyrinth in downtown San Jose, with Abesowavvy, Briz and Jay Guerra on house and tech house. 21+, 10pm to 1:30am.",
+        "promoter": "T&N Event Co",
         "price": "free b4 10:30pm / $7.10 | 21+",
-        "tags": [],
-        "sources": [],
-        "tickets": [],
+        "tags": [
+          "dj",
+          "afterparty",
+          "dance",
+          "21+",
+          "house",
+          "tech house",
+          "afters"
+        ],
+        "sources": [
+          "https://posh.vip/e/bay-trip-exclusive-afters-1"
+        ],
+        "tickets": [
+          "https://posh.vip/e/bay-trip-exclusive-afters-1"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Labyrinth%20%28San%20Jose%29",
           "apple": "https://maps.apple.com/?q=Labyrinth%20%28San%20Jose%29"
@@ -17797,11 +17817,12 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://party-scout.app/img/gen/discovery-meadows-afters-5c8b.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
-        "active": true
+        "enriched": 1,
+        "active": true,
+        "lineup": []
       }
     ],
     "sports": [
@@ -19366,21 +19387,29 @@
         "id": "2026-10-12-sports-singles-5k-run-walk-sf-eb9488",
         "eid": "singles-5k-run-walk-sf-cec0",
         "track": "sports",
-        "category": "",
+        "category": "Sports",
         "name": "Singles 5k Run/Walk- SF",
         "day": "Sun",
         "date": "2026-10-18",
         "time": "",
         "start": null,
         "end": null,
-        "area": "",
+        "area": "SF",
         "venue": "San Francisco",
         "address": "",
-        "why": "",
-        "summary": "",
+        "why": "Easy social format: walk or run at your own pace and meet other singles.",
+        "summary": "A singles-focused 5k run/walk in San Francisco, a low-pressure way to meet people while moving.",
         "promoter": "",
         "price": "",
-        "tags": [],
+        "tags": [
+          "outdoor",
+          "fitness",
+          "social",
+          "5k",
+          "daytime",
+          "running",
+          "singles"
+        ],
         "sources": [],
         "tickets": [],
         "maps": {
@@ -19393,7 +19422,7 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       }
     ]
