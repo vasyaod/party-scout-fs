@@ -6635,20 +6635,25 @@
         "time": "9pm",
         "start": "21:00",
         "end": null,
-        "area": "SF",
-        "venue": "",
-        "address": "",
-        "why": "For a ticketed late-evening outing in the city.",
-        "summary": "Supertaste is an event in San Francisco on November 7, 2026 at 9pm; tickets cost $28.",
+        "area": "Mission",
+        "venue": "Brick & Mortar Music Hall",
+        "address": "1710 Mission St, San Francisco, CA",
+        "why": "A live band night at a Mission District music hall.",
+        "summary": "Supertaste plays Brick & Mortar Music Hall in the Mission on Saturday, November 7, 2026, with 3kelves; doors for a 9pm show, tickets $28.",
         "promoter": "",
         "price": "$28",
         "tags": [
           "nightlife",
           "ticketed",
-          "evening"
+          "evening",
+          "live music"
         ],
-        "sources": [],
-        "tickets": [],
+        "sources": [
+          "https://www.brickandmortarmusic.com/tm-event/supertaste/"
+        ],
+        "tickets": [
+          "https://www.ticketweb.com/event/supertaste-3kelves-brick-and-mortar-music-hall-tickets/14244524"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=SF",
           "apple": "https://maps.apple.com/?q=SF"
@@ -6656,7 +6661,7 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://party-scout.app/img/gen/supertaste-576e.jpg",
         "image_generated": false,
         "popularity": 0,
         "enriched": 1,
@@ -6676,14 +6681,15 @@
         "area": "SF",
         "venue": "",
         "address": "",
-        "why": "An easy evening outing with a fixed 7–11pm run and a moderate ticket price.",
-        "summary": "Sha Ray takes place on November 8, 2026, running 7–11pm with tickets priced at $34.",
+        "why": "Good for a reasonably priced, early-evening outing in the city.",
+        "summary": "Sha Ray is happening in San Francisco on November 8, 2026, from 7–11pm; tickets are $34.",
         "promoter": "",
         "price": "$34",
         "tags": [
           "ticketed",
           "evening",
-          "live"
+          "live",
+          "paid"
         ],
         "sources": [],
         "tickets": [],
@@ -6711,17 +6717,18 @@
         "time": "10pm–2am",
         "start": "22:00",
         "end": "02:00",
-        "area": "SF",
+        "area": "SoMa",
         "venue": "",
         "address": "900 Marin Street, San Francisco, CA 94124",
-        "why": "For a late-night electronic DJ set in southeast San Francisco.",
+        "why": "For a late-night dance outing in SoMa.",
         "summary": "Adriatique is scheduled at 900 Marin Street in San Francisco on November 6, 2026, from 10pm–2am.",
         "promoter": "",
         "price": "",
         "tags": [
           "dj",
           "electronic",
-          "late-night"
+          "late-night",
+          "dance"
         ],
         "sources": [
           "https://ra.co/events/2557336"
