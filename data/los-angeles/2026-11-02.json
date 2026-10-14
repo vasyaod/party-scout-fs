@@ -3127,23 +3127,34 @@
         "id": "2026-11-02-music-ms-lauryn-hill-wyclef-jean-cel-2c6e45",
         "eid": "ms-lauryn-hill-wyclef-je-f539",
         "track": "music",
-        "category": "",
+        "category": "Concert",
         "name": "Ms. Lauryn Hill & Wyclef Jean: Celebrating 30 years of Fugees' The Score",
         "day": "Sun",
         "date": "2026-11-08",
         "time": "7:30pm",
         "start": "19:30",
         "end": null,
-        "area": "Los Angeles",
+        "area": "Hollywood",
         "venue": "Hollywood Bowl",
-        "address": "",
-        "why": "",
-        "summary": "",
-        "promoter": "",
+        "address": "2301 N Highland Ave, Los Angeles, CA",
+        "why": "A rare Fugees reunion under the stars, playing a landmark 90s hip-hop album.",
+        "summary": "Lauryn Hill and Wyclef Jean reunite at the Hollywood Bowl to mark 30 years of the Fugees' classic album The Score.",
+        "promoter": "Live Nation",
         "price": "",
-        "tags": [],
-        "sources": [],
-        "tickets": [],
+        "tags": [
+          "hip-hop",
+          "90s",
+          "live",
+          "classic",
+          "fugees",
+          "hollywood-bowl"
+        ],
+        "sources": [
+          "https://www.livenation.com/event/vvG1iZ_8uiKsbN/ms-lauryn-hill-wyclef-jean-celebrating-30-years-of-fugees-the-score"
+        ],
+        "tickets": [
+          "https://www.livenation.com/event/vvG1iZ_8uiKsbN/ms-lauryn-hill-wyclef-jean-celebrating-30-years-of-fugees-the-score"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Hollywood%20Bowl%2C%20Los%20Angeles",
           "apple": "https://maps.apple.com/?q=Hollywood%20Bowl%2C%20Los%20Angeles"
@@ -3151,10 +3162,10 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://party-scout.app/img/gen/ms-lauryn-hill-wyclef-je-f539.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
@@ -3248,22 +3259,32 @@
         "id": "2026-11-02-sports-diplo-s-run-club-diplo-4128a3",
         "eid": "diplo-s-run-club-diplo-ba17",
         "track": "sports",
-        "category": "",
+        "category": "Nightclub",
         "name": "Diplo's Run Club: Diplo",
         "day": "Sun",
         "date": "2026-11-08",
-        "time": "",
-        "start": null,
+        "time": "9:00 AM",
+        "start": "09:00",
         "end": null,
         "area": "Los Angeles",
         "venue": "LA River",
         "address": "",
-        "why": "",
-        "summary": "",
+        "why": "A Sunday-morning 5K that ends in a Diplo set, so the finish line doubles as the party.",
+        "summary": "Diplo's Run Club brings its 5K to Los Angeles, with a route past the LA River and Chinatown and a post-race Diplo concert.",
         "promoter": "",
-        "price": "",
-        "tags": [],
-        "sources": [],
+        "price": "From $140 (VIP $240)",
+        "tags": [
+          "dj",
+          "electronic",
+          "dance",
+          "running",
+          "5k",
+          "diplo",
+          "concert"
+        ],
+        "sources": [
+          "https://haid.app/en/events/diplos-run-club-los-angeles-mqk8vrsz"
+        ],
         "tickets": [],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=LA%20River%2C%20Los%20Angeles",
@@ -3275,7 +3296,7 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       }
     ]
