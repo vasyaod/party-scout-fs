@@ -142,8 +142,23 @@ CASES = [
     ("event-date-format", _week(lambda w: first_event(w).__setitem__("date", "2026-02-30"))),
     ("event-date-outside-window", _week(lambda w: first_event(w).__setitem__("date", day_before(w["window"])))),
     ("event-time-format", _week(lambda w: first_event(w).__setitem__("start", "8pm"))),
+    # Issue #25: the right shape, but no clock time.
+    ("event-time-range", _week(lambda w: first_event(w).__setitem__("end", "24:00"))),
+    ("event-time-range", _week(lambda w: first_event(w).__setitem__("start", "21:60"))),
     ("event-maps-keys", _week(lambda w: first_event(w).__setitem__("maps", {"bing": "https://x"}))),
     ("event-coords-keys", _week(lambda w: first_event(w).__setitem__("coords", {"lat": 1.0}))),
+    # Issue #25: list types whose entries are not URLs — a list()-ed URL, a
+    # `{label, url}` object, a scheme-less host, a URL with a space in it.
+    ("event-link-url", _week(lambda w: first_event(w).__setitem__("tickets", list("https://dice.fm/e")))),
+    ("event-link-url", _week(lambda w: first_event(w).__setitem__("tickets", [{"label": "Dice", "url": "https://dice.fm/e"}]))),
+    ("event-link-url", _week(lambda w: first_event(w).__setitem__("sources", ["ra.co/events/1"]))),
+    ("event-link-url", _week(lambda w: first_event(w).__setitem__("sources", ["https://ra.co/events/1 2"]))),
+    ("event-link-url", _week(lambda w: first_event(w).__setitem__("maps", {"google": "The Pearl, SF", "apple": "https://maps.apple.com/?q=x"}))),
+    ("event-image-url", _week(lambda w: first_event(w).__setitem__("image", "http://example.com/flyer.jpg"))),
+    ("event-image-url", _week(lambda w: first_event(w).__setitem__("image", "img/gen/x.jpg"))),
+    ("event-coords-value", _week(lambda w: first_event(w).__setitem__("coords", {"lat": None, "lon": None}))),
+    ("event-coords-value", _week(lambda w: first_event(w).__setitem__("coords", {"lat": 91.0, "lon": -122.4}))),
+    ("event-coords-value", _week(lambda w: first_event(w).__setitem__("coords", {"lat": 37.7, "lon": "-122.4"}))),
     ("event-lineup-shape", _week(lambda w: first_event(w).__setitem__("lineup", ["Karizma"]))),
     ("event-popularity-range", _week(lambda w: first_event(w).__setitem__("popularity", 11))),
     ("event-enriched-range", _week(lambda w: first_event(w).__setitem__("enriched", -1))),
@@ -236,8 +251,10 @@ def main() -> int:
             shutil.copy(os.path.join(SCRIPTS, name), os.path.join(pristine, "scripts", name))
 
         failures = []
+        checked = []
 
         def expect(label, ok, detail):
+            checked.append(label)
             if not ok:
                 failures.append(f"{label}\n{detail}")
             print(f"  {'ok  ' if ok else 'FAIL'} {label}")
@@ -282,6 +299,24 @@ def main() -> int:
         expect(
             "draft: empty eid on an enriched=0 event is still reported",
             result.returncode != 0 and "event-empty-field" in failed_codes(result.stdout),
+            result.stdout + result.stderr,
+        )
+        shutil.rmtree(root)
+
+        # Issue #25: the legitimate edges of the value checks stay quiet — an
+        # http:// link, `""` image, whole-field `null` coords, the extreme
+        # coordinates, a midnight-crossing `23:59`..`00:00`, an empty list.
+        root = os.path.join(tmp, "valid-values")
+        shutil.copytree(pristine, root)
+        _week(lambda w: first_event(w).update(
+            sources=[], tickets=["http://www.bottomofthehill.com/stubmatic/event1.html"],
+            image="", coords=None, start="23:59", end="00:00",
+        ))(root)
+        _week(lambda w: w["tracks"]["music"][1].update(coords={"lat": -90, "lon": 180.0}))(root)
+        result = run(root)
+        expect(
+            "valid values: edge values of the #25 checks are not reported",
+            result.returncode == 0,
             result.stdout + result.stderr,
         )
         shutil.rmtree(root)
@@ -366,7 +401,7 @@ def main() -> int:
                "no per-field tally\n" + out)
         shutil.rmtree(root)
 
-    total = len(CASES) + 9  # the cases, the control, #20's 7 and the breakdown
+    total = len(checked)
     print()
     if failures:
         for failure in failures:
