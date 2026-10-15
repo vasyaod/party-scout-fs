@@ -1,15 +1,23 @@
 {
   "_comment": "Pre-existing violations tolerated by scripts/validate_data.py: max allowed count per check. Regenerate with `python3 scripts/validate_data.py --update-baseline`.",
   "allowed": {
+    "event-coords-value": 2,
     "event-date-outside-window": 13,
     "event-empty-field": 34,
     "event-field-type": 33,
+    "event-image-url": 5,
     "event-lineup-shape": 9,
+    "event-link-url": 35,
     "event-missing-field": 4,
     "event-time-format": 7,
+    "event-time-range": 1,
     "event-unknown-field": 0
   },
   "samples": {
+    "event-coords-value": [
+      "data/los-angeles/2026-07-27.json tracks.music[26]: {'lat': None, 'lon': None}",
+      "data/los-angeles/2026-07-27.json tracks.music[27]: {'lat': None, 'lon': None}"
+    ],
     "event-date-outside-window": [
       "data/san-francisco/2026-06-29.json tracks.music[21]: 2026-06-29 not in 2026-07-02..2026-07-05",
       "data/san-francisco/2026-06-29.json tracks.music[25]: 2026-07-01 not in 2026-07-02..2026-07-05",
@@ -40,6 +48,13 @@
       "data/los-angeles/2026-07-27.json tracks.music[26]: price is null",
       "data/los-angeles/2026-07-27.json tracks.music[26]: image is null"
     ],
+    "event-image-url": [
+      "data/los-angeles/2026-06-22.json tracks.sports[9]: 'http://static1.squarespace.com/static/56a929f4c647ade79615c348/t/6050201ac69...",
+      "data/los-angeles/2026-06-29.json tracks.music[1]: 'http://static-label.frontgatetickets.com/common/events/159911_lg.jpg'",
+      "data/los-angeles/2026-06-29.json tracks.sports[12]: 'http://static1.squarespace.com/static/56a929f4c647ade79615c348/t/6050201ac69...",
+      "data/san-francisco/2026-06-22.json tracks.sports[5]: 'http://dserunners.com/Club_Documents/CourseMaps/GreatHighway10K_2022.jpg'",
+      "data/san-francisco/2026-08-03.json tracks.music[52]: 'http://oaklandcontinentalclub.com/wp-content/uploads/Screenshot-2026-06-29-a..."
+    ],
     "event-lineup-shape": [
       "data/los-angeles/2026-07-20.json tracks.music[34]: str entry",
       "data/los-angeles/2026-07-20.json tracks.music[34]: str entry",
@@ -49,6 +64,16 @@
       "data/los-angeles/2026-08-03.json tracks.music[0]: str entry",
       "data/los-angeles/2026-08-03.json tracks.music[0]: str entry",
       "data/los-angeles/2026-08-03.json tracks.music[0]: str entry"
+    ],
+    "event-link-url": [
+      "data/los-angeles/2026-10-12.json tracks.music[149]: tickets[0]='h' (+26 more of 27)",
+      "data/san-francisco/2026-10-05.json tracks.music[114]: tickets[0]={'label': 'Dothebay', 'url': 'https://dothebay.com/events/2026/10/5/esdeekid-...",
+      "data/san-francisco/2026-10-05.json tracks.music[145]: sources[0]={'label': 'MATO', 'url': 'https://ma.to/event/zzzahara-faerybabyy-06-oct-2026'} (+1 more of 3)",
+      "data/san-francisco/2026-10-05.json tracks.music[145]: tickets[0]={'label': 'Dice', 'url': 'https://dice.fm/event/bb9q5k-zzzahara-faerybabyy-tb...",
+      "data/san-francisco/2026-10-05.json tracks.music[157]: sources[0]={'label': 'Another Planet Entertainment', 'url': 'https://apeconcerts.com/eve...",
+      "data/san-francisco/2026-10-05.json tracks.music[157]: tickets[0]={'label': 'Ticketmaster', 'url': 'https://www.ticketmaster.com/the-neighbourh...",
+      "data/san-francisco/2026-10-05.json tracks.music[158]: tickets[0]={'label': 'Ticketmaster', 'url': 'https://www.ticketmaster.com/event/1C0064D0...",
+      "data/san-francisco/2026-10-05.json tracks.music[164]: sources[0]={'label': 'Thee Stork Club calendar', 'url': 'https://theestorkclub.com/calen..."
     ],
     "event-missing-field": [
       "data/los-angeles/2026-07-20.json tracks.music[34]: id",
@@ -64,6 +89,9 @@
       "data/san-francisco/2026-08-03.json tracks.music[1]: end=''",
       "data/san-francisco/2026-08-03.json tracks.music[3]: start=''",
       "data/san-francisco/2026-08-03.json tracks.music[3]: end=''"
+    ],
+    "event-time-range": [
+      "data/los-angeles/2026-10-19.json tracks.music[42]: end='24:00'"
     ]
   }
 }

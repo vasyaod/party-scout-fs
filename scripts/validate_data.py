@@ -4,7 +4,10 @@
 Three families of checks:
 
   schema       every event / week file has the fields MODEL.md documents,
-               with the documented types
+               with the documented types — and, where a type alone lets
+               nonsense through, sane values: `sources`/`tickets`/`maps`
+               entries are http(s) URLs, `image` is https, `start`/`end` are
+               real clock times, `coords` are finite in-range numbers
   consistency  each city's index.json agrees with its week files
                (presence, counts, window, title, newest-first order)
   stats        data/stats.json totals agree with the week files
@@ -48,6 +51,7 @@ from __future__ import annotations
 import argparse
 import io
 import json
+import math
 import os
 import re
 import shutil
@@ -57,6 +61,7 @@ import tarfile
 import tempfile
 from collections import Counter
 from datetime import date, timedelta
+from urllib.parse import urlsplit
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 DATA = os.path.join(ROOT, "data")
@@ -65,6 +70,7 @@ BASELINE = os.path.join(ROOT, "scripts", "validation_baseline.json")
 DATE_RE = re.compile(r"^\d{4}-\d{2}-\d{2}$")
 WINDOW_RE = re.compile(r"^(\d{4}-\d{2}-\d{2})\.\.(\d{4}-\d{2}-\d{2})$")
 HHMM_RE = re.compile(r"^\d{2}:\d{2}$")
+WHITESPACE_RE = re.compile(r"\s")
 TRACKS = ("music", "sports")
 
 # MODEL.md "## `data/<city>/<week_start>.json` — one week"
@@ -206,6 +212,22 @@ def check_type(rep: Report, code: str, where: str, field: str, value, spec) -> b
     return True
 
 
+def is_url(value, schemes=("http", "https")) -> bool:
+    """An absolute URL with one of `schemes`, a host, and no whitespace anywhere."""
+    if not isinstance(value, str) or WHITESPACE_RE.search(value):
+        return False
+    try:
+        parts = urlsplit(value)
+    except ValueError:  # e.g. an unclosed `[` IPv6 host
+        return False
+    return parts.scheme in schemes and bool(parts.netloc)
+
+
+def short(value) -> str:
+    text = repr(value)
+    return text if len(text) <= 80 else text[:77] + "..."
+
+
 def check_event(rep: Report, where: str, event, track_key: str, window) -> None:
     if not isinstance(event, dict):
         rep.add("event-not-object", where, type_name(event))
@@ -249,14 +271,53 @@ def check_event(rep: Report, where: str, event, track_key: str, window) -> None:
         value = event.get(field)
         if isinstance(value, str) and not HHMM_RE.match(value):
             rep.add("event-time-format", where, f"{field}={value!r}")
+        # `24:00` / `21:60` have the shape but are no clock time; an event
+        # ending at midnight is `00:00` (MODEL.md `end`: earlier than `start`
+        # = crosses midnight).
+        elif isinstance(value, str) and (int(value[:2]) > 23 or int(value[3:]) > 59):
+            rep.add("event-time-range", where, f"{field}={value!r}")
+
+    # `tickets[0]` is the Buy-ticket href and `sources[0]` the Open href
+    # (REQUIREMENTS rules 8/9): an entry that is a stray character of a
+    # list()-ed URL, or a `{label, url}` object, renders as `/h` or
+    # `[object Object]`. Counted once per event and field, however many
+    # entries are bad — 27 characters of one URL are one broken card.
+    for field in ("sources", "tickets"):
+        entries = event.get(field)
+        if not isinstance(entries, list):
+            continue
+        bad = [(i, entry) for i, entry in enumerate(entries) if not is_url(entry)]
+        if bad:
+            i, entry = bad[0]
+            more = f" (+{len(bad) - 1} more of {len(entries)})" if len(bad) > 1 else ""
+            rep.add("event-link-url", where, f"{field}[{i}]={short(entry)}{more}")
 
     maps = event.get("maps")
     if isinstance(maps, dict) and maps and not {"google", "apple"} <= set(maps):
         rep.add("event-maps-keys", where, ",".join(sorted(maps)))
+    if isinstance(maps, dict):
+        for key in ("google", "apple"):
+            if key in maps and not is_url(maps[key]):
+                rep.add("event-link-url", where, f"maps.{key}={short(maps[key])}")
+
+    # Served from an https site: an http:// image is mixed content. `""` is
+    # the documented "no image" (the UI shows the stub).
+    image = event.get("image")
+    if isinstance(image, str) and image and not is_url(image, ("https",)):
+        rep.add("event-image-url", where, short(image))
 
     coords = event.get("coords")
     if isinstance(coords, dict) and coords and not {"lat", "lon"} <= set(coords):
         rep.add("event-coords-keys", where, ",".join(sorted(coords)))
+    # MODEL.md `coords`: numbers, or the whole field `null` — never a
+    # `{"lat": null, "lon": null}` that reads as a pin with no position.
+    if isinstance(coords, dict):
+        for axis, limit in (("lat", 90), ("lon", 180)):
+            value = coords.get(axis, 0)
+            if (isinstance(value, bool) or not isinstance(value, (int, float))
+                    or not math.isfinite(value) or abs(value) > limit):
+                rep.add("event-coords-value", where, short(coords))
+                break
 
     lineup = event.get("lineup")
     if isinstance(lineup, list):
