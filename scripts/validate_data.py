@@ -6,7 +6,8 @@ Three families of checks:
   schema       every event / week file has the fields MODEL.md documents,
                with the documented types — and, where a type alone lets
                nonsense through, sane values: `sources`/`tickets`/`maps`
-               entries are http(s) URLs, `image` is https, `start`/`end` are
+               entries are http(s) URLs (a `sources` entry may also be
+               `{"url", "hidden"}`), `image` is https, `start`/`end` are
                real clock times, `coords` are finite in-range numbers
   consistency  each city's index.json agrees with its week files
                (presence, counts, window, title, newest-first order)
@@ -223,6 +224,16 @@ def is_url(value, schemes=("http", "https")) -> bool:
     return parts.scheme in schemes and bool(parts.netloc)
 
 
+def is_source(entry) -> bool:
+    """A `sources` entry: a URL string (shown), or `{"url": <URL>, "hidden": <bool>}`
+    with no other key (MODEL.md `sources`, party-scout-service#122). `hidden` may be
+    left out, which means shown."""
+    if isinstance(entry, dict):
+        return (set(entry) <= {"url", "hidden"} and is_url(entry.get("url"))
+                and isinstance(entry.get("hidden", False), bool))
+    return is_url(entry)
+
+
 def short(value) -> str:
     text = repr(value)
     return text if len(text) <= 80 else text[:77] + "..."
@@ -282,11 +293,14 @@ def check_event(rep: Report, where: str, event, track_key: str, window) -> None:
     # list()-ed URL, or a `{label, url}` object, renders as `/h` or
     # `[object Object]`. Counted once per event and field, however many
     # entries are bad — 27 characters of one URL are one broken card.
+    # The one object a `sources` entry may be is `{"url", "hidden"}` (#122):
+    # every reader unwraps it, and a hidden one is never rendered.
     for field in ("sources", "tickets"):
         entries = event.get(field)
         if not isinstance(entries, list):
             continue
-        bad = [(i, entry) for i, entry in enumerate(entries) if not is_url(entry)]
+        ok = is_source if field == "sources" else is_url
+        bad = [(i, entry) for i, entry in enumerate(entries) if not ok(entry)]
         if bad:
             i, entry = bad[0]
             more = f" (+{len(bad) - 1} more of {len(entries)})" if len(bad) > 1 else ""

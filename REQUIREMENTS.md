@@ -45,10 +45,10 @@ browser geolocation if the user already granted it -> IP-based geolocation fallb
    (Funcheap, DoTheBay, etc.). Do **not** keep only the ticket link and drop the site
    the event was discovered on. The list is **priority-ordered: the FIRST link is the
    most authoritative** (the anchor we trust most; e.g. the RA/venue listing) — put
-   the primary link first, the rest after. The ONLY things excluded are our own
+   the primary link first, the rest after. The ONLY things never SHOWN are our own
    **scrape aggregators / listing indexes** (19hz and similar — see rule 11): those
-   just point back at our own pipeline, so resolve them to the real page instead of
-   storing them. Deduplicate by URL. On merge the order is preserved (first wins) and
+   just point back at our own pipeline, so they are stored as **hidden** sources
+   (provenance only) and the real page is still worth resolving. Deduplicate by URL. On merge the order is preserved (first wins) and
    new links are appended; `[]` when none is known.
 1b. **Same event from another source → ADD the source, never duplicate.** When a scan
    finds an event that is **already in the DB** — the same real-world event (match on
@@ -194,13 +194,22 @@ browser geolocation if the user already granted it -> IP-based geolocation fallb
 9. **Buy ticket → the real seller only.** `tickets` is a list; `tickets[0]` (the Buy-ticket target) points at the actual ticketer
    (RA / Tixr / Eventbrite / Etix / Ticketmaster / AXS / venue). **Never** a search
    engine. No real seller → no Buy-ticket button.
-10. **Open → the event website** (`sources[0]`): event info/lineup page.
-11. **No circular / source links — but that means ONLY third-party scrape indexes.**
-    Never store a **third-party aggregator / listing index** we scrape (e.g.
-    `19hz.info`, or any multi-venue index) in an event's `sources` list — it just
-    points back at our own pipeline. Resolve the event's real page instead, or leave
-    `sources` empty (no Open button). **This exclusion does NOT apply to a venue's own
-    site** (`themidwaysf.com`, `1015.com`, `halcyon-sf.com`, …) or an organizer's own
+10. **Open → the event website** (the first **visible** `sources` entry): event
+    info/lineup page. A hidden source is never the Open target.
+11. **No circular / source links shown — but that means ONLY third-party scrape
+    indexes — and no card without a source.** A **third-party aggregator / listing
+    index** we scrape (e.g. `19hz.info`, or any multi-venue index) is never SHOWN: it
+    just points back at our own pipeline. It is still stored, as a **hidden source** —
+    `{"url": "<URL>", "hidden": true}` in `sources` (MODEL.md) — so the card keeps its
+    provenance, and the site never renders it or opens it. Always written hidden,
+    however it arrives. A plain URL string is a visible source (the format every
+    source had before; it stays valid, and old and new entries can be mixed).
+    **Every card is written with at least one source URL**; a hidden one counts, so a
+    19hz-only event is kept, with its 19hz row as a hidden source. A card with no
+    source URL is refused at write time (party-scout-service ingest, logged and
+    counted); existing cards are not backfilled. Resolve the event's real page too
+    when you can — that is the one that gets an Open button. **This exclusion does NOT
+    apply to a venue's own site** (`themidwaysf.com`, `1015.com`, `halcyon-sf.com`, …) or an organizer's own
     page — those are legitimate first-party sources and SHOULD be collected under rule
     1a alongside the ticketer. The line: a site that lists many unrelated venues =
     excluded aggregator; the venue/organizer describing its own event = keep it.

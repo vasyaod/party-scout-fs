@@ -139,7 +139,7 @@ Jun 25–28 2026 weekend → `2026-06-22.json`). Carries `city` + `city_label` t
 | `promoter` | string | Organizer / promoter / production brand behind the event, as it presents itself (e.g. `boots.`, `No Reason SF`). Prefer the collective name over a venue or single DJ. `""` when unknown (never guessed). Optional; see REQUIREMENTS rule 2c. |
 | `price` | string | Lowest/GA price `"$NN"`, a range `"$NN–MM"`, or `"Free"`. `""` if unobtainable (never guessed). |
 | `tags` | array&lt;string&gt; | Genre/vibe tags (house, techno, free, outdoor, rooftop, pride, daytime…). Powers the tag cloud + filter. |
-| `sources` | array&lt;string&gt; | **Ordered list of EVERY site the event appears on** (replaces the old single `link`) → the card's **Open** button uses **index 0** (the highest-priority link). Collect them all — official/organizer page, the **venue's own event page** (themidwaysf.com, 1015.com…), the **ticketer** (RA/Tixr/Eventbrite/AXS/Dice), the IG post it was scouted from, editorial listings — priority-ordered, most authoritative first (see REQUIREMENTS rule 1a). Only **third-party scrape indexes** (19hz & similar multi-venue aggregators) are dropped (rule 11); a venue's own site is kept. `[]` when none known. Merges as an order-preserving union (first wins). |
+| `sources` | array&lt;string \| {url, hidden}&gt; | **Ordered list of EVERY site the event appears on** (replaces the old single `link`) → the card's **Open** button uses **index 0** (the highest-priority link). Collect them all — official/organizer page, the **venue's own event page** (themidwaysf.com, 1015.com…), the **ticketer** (RA/Tixr/Eventbrite/AXS/Dice), the IG post it was scouted from, editorial listings — priority-ordered, most authoritative first (see REQUIREMENTS rule 1a). Each entry is **either a URL string (shown) or an object `{"url": "<URL>", "hidden": true}`** — a source kept for provenance and **never shown** (no link, never the Open target). Old and new entries mix freely, even in one card; a plain string is exactly what every entry was before, so nothing is migrated (`{"url": u}` / `"hidden": false` mean shown and are stored as the plain `u`). **Third-party scrape indexes** (19hz & similar multi-venue aggregators) are stored **hidden**, never shown (rule 11); a venue's own site is kept and shown. A card is **not written without at least one source URL** — a hidden one counts (rule 11; enforced by party-scout-service's ingest, existing cards are not backfilled), so `[]` survives only on legacy cards. Merges as an order-preserving union (first wins), one entry per URL, hidden if any copy was. |
 | `tickets` | array&lt;string&gt; | **Ordered list of ticket-seller URLs** (RA/Tixr/Eventbrite/Etix/Ticketmaster/AXS/…) → **Buy ticket** uses **index 0**. Never a search engine. The same URL may also appear in `sources` (an event page can be both info + ticket). Merges as an order-preserving union. |
 | `lineup` | array&lt;object&gt; | **Optional** DJ/artist lineup — `{ "name", "instagram" }` per artist on the flyer. `name` as printed; `instagram` is the **handle only** (no `@`, no URL) or `null` when it cannot be confirmed — never a guessed handle. Omit or `[]` when there is no lineup. See REQUIREMENTS rule 2b. |
 | `maps` | object | `{ "google", "apple" }` Maps URLs (from `address` › known-venue table › `venue, area`). Client opens the right app per device. |
@@ -155,8 +155,10 @@ Jun 25–28 2026 weekend → `2026-06-22.json`). Carries `city` + `city_label` t
 ### Link rules (summary — see REQUIREMENTS.md)
 
 - `tickets`, `maps`, `sources` are **never shown as raw URL text** — only as buttons /
-  the `open map` link. `tickets[0]` → **Buy ticket** (real seller only). `sources[0]` →
-  **Open** (event page). `maps` → the 📍 **open map** link (Apple on iOS/iPadOS/
+  the `open map` link. `tickets[0]` → **Buy ticket** (real seller only). The first
+  **visible** `sources` entry → **Open** (event page); a hidden source
+  (`{"url", "hidden": true}`) is never rendered, and a card whose sources are all hidden
+  still shows, with no Open link. `maps` → the 📍 **open map** link (Apple on iOS/iPadOS/
   macOS, Google elsewhere).
 - `price` is combined into the Buy-ticket button (`$NN · Buy ticket`); `Free`
   renders as a gold non-clickable button.

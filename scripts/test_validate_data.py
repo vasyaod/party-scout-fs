@@ -153,6 +153,13 @@ CASES = [
     ("event-link-url", _week(lambda w: first_event(w).__setitem__("tickets", [{"label": "Dice", "url": "https://dice.fm/e"}]))),
     ("event-link-url", _week(lambda w: first_event(w).__setitem__("sources", ["ra.co/events/1"]))),
     ("event-link-url", _week(lambda w: first_event(w).__setitem__("sources", ["https://ra.co/events/1 2"]))),
+    # party-scout-service#122: a `sources` object is `{url, hidden}` and nothing
+    # else — a bad URL, a non-bool flag or another key is still a broken link,
+    # and `tickets` has no object form at all.
+    ("event-link-url", _week(lambda w: first_event(w).__setitem__("sources", [{"url": "19hz.info/x", "hidden": True}]))),
+    ("event-link-url", _week(lambda w: first_event(w).__setitem__("sources", [{"url": "https://19hz.info/x", "hidden": "yes"}]))),
+    ("event-link-url", _week(lambda w: first_event(w).__setitem__("sources", [{"url": "https://ra.co/e/1", "label": "RA"}]))),
+    ("event-link-url", _week(lambda w: first_event(w).__setitem__("tickets", [{"url": "https://dice.fm/e", "hidden": True}]))),
     ("event-link-url", _week(lambda w: first_event(w).__setitem__("maps", {"google": "The Pearl, SF", "apple": "https://maps.apple.com/?q=x"}))),
     ("event-image-url", _week(lambda w: first_event(w).__setitem__("image", "http://example.com/flyer.jpg"))),
     ("event-image-url", _week(lambda w: first_event(w).__setitem__("image", "img/gen/x.jpg"))),
@@ -313,9 +320,15 @@ def main() -> int:
             image="", coords=None, start="23:59", end="00:00",
         ))(root)
         _week(lambda w: w["tracks"]["music"][1].update(coords={"lat": -90, "lon": 180.0}))(root)
+        # party-scout-service#122: old plain URLs and `{url, hidden}` objects, mixed
+        # in one event; a hidden 19hz listing; `hidden` left out = shown.
+        _week(lambda w: w["tracks"]["music"][2].update(sources=[
+            "https://ra.co/events/2463690", {"url": "https://19hz.info/eventlisting_BayArea.php", "hidden": True},
+            {"url": "https://venue.example/e", "hidden": False}, {"url": "https://promoter.example/e"},
+        ]))(root)
         result = run(root)
         expect(
-            "valid values: edge values of the #25 checks are not reported",
+            "valid values: edge values of the #25 checks (and #122 source objects) are not reported",
             result.returncode == 0,
             result.stdout + result.stderr,
         )
