@@ -252,24 +252,29 @@
         "time": "10:00PM",
         "start": null,
         "end": null,
-        "area": "SoMa",
+        "area": "Mission",
         "venue": "The Valencia Room",
-        "address": "88 5th Street, San Francisco, CA 94103",
-        "why": "For a lively night out in central SoMa.",
-        "summary": "An event called \"So HOUSE Your Evening So Far?\" is scheduled for 2026-11-09 at 88 5th Street in San Francisco.",
+        "address": "647 Valencia St, San Francisco, CA",
+        "why": "A free, no-fuss house music night to start the week, built around community and dancing.",
+        "summary": "Weekly Monday house night at The Valencia Room in the Mission, with free entry all night and a free RSVP guest list.",
         "promoter": "",
-        "price": "",
+        "price": "Free",
         "tags": [
           "house",
           "dj",
           "nightlife",
-          "dance"
+          "dance",
+          "electronic",
+          "free",
+          "weekly",
+          "mission"
         ],
         "sources": [
           {
             "url": "https://dothebay.com/events",
             "hidden": true
-          }
+          },
+          "https://app.discotech.me/events/38112307-so-house-your-evening-so-far-at-the-valencia-room"
         ],
         "tickets": [],
         "maps": {
@@ -293,22 +298,31 @@
         "name": "Weston Estate",
         "day": "Mon",
         "date": "2026-11-09",
-        "time": "7:30PM",
-        "start": null,
+        "time": "7:30pm",
+        "start": "19:30",
         "end": null,
-        "area": "San Francisco",
+        "area": "NoPa",
         "venue": "The Independent",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "88 5th Street, San Francisco, CA 94103",
+        "why": "A live band night at one of SF's best mid-size rooms, with tickets from $35.",
+        "summary": "Weston Estate plays The Independent on a Monday night, with doors for a 7:30pm show.",
         "promoter": "",
-        "price": "",
-        "tags": [],
+        "price": "$35+",
+        "tags": [
+          "nightlife",
+          "event",
+          "indoor",
+          "soma",
+          "live music",
+          "indie",
+          "concert"
+        ],
         "sources": [
           {
             "url": "https://dothebay.com/events",
             "hidden": true
-          }
+          },
+          "https://dothebay.com/events/2026/11/9/weston-estate-tickets"
         ],
         "tickets": [],
         "maps": {
@@ -318,38 +332,47 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/san-francisco/2026-11-09/weston-estate-2f1d.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
         "id": "2026-11-09-music-celebrating-50-years-of-buzzco-978fee",
         "eid": "celebrating-50-years-of-76c6",
         "track": "music",
-        "category": "",
+        "category": "Concert",
         "name": "Celebrating 50 Years of Buzzcocks",
         "day": "Tue",
         "date": "2026-11-10",
-        "time": "8:00PM",
-        "start": null,
+        "time": "8pm",
+        "start": "20:00",
         "end": null,
-        "area": "San Francisco",
+        "area": "Mission",
         "venue": "The Chapel",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "88 5th Street, San Francisco, CA 94103",
+        "why": "Half a century of razor-sharp punk-pop hooks from a band that shaped the genre, in an intimate Valencia Street room.",
+        "summary": "Punk pioneers Buzzcocks mark 50 years of \"Ever Fallen in Love\" and pop-charged punk with a headline night at The Chapel.",
         "promoter": "",
-        "price": "",
-        "tags": [],
+        "price": "$37.50-$42.50, All Ages",
+        "tags": [
+          "punk",
+          "rock",
+          "live",
+          "live music",
+          "all ages"
+        ],
         "sources": [
           {
             "url": "https://dothebay.com/events",
             "hidden": true
-          }
+          },
+          "https://dothebay.com/events/2026/11/10/celebrating-50-years-of-buzzcocks-tickets"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://wl.seetickets.us/event/celebrating-50-years-of-buzzcocks/695312?afflky=TheChapel"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=The%20Chapel",
           "apple": "https://maps.apple.com/?q=The%20Chapel"
@@ -357,36 +380,43 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/san-francisco/2026-11-09/celebrating-50-years-of-76c6.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
         "id": "2026-11-09-music-claudio-simonetti-s-goblin-per-b3a1c5",
         "eid": "claudio-simonetti-s-gobl-0f3a",
         "track": "music",
-        "category": "",
+        "category": "Concert",
         "name": "Claudio Simonetti's Goblin Performs the Live Score to Tenebre",
         "day": "Tue",
         "date": "2026-11-10",
-        "time": "6:30PM",
-        "start": null,
+        "time": "6:30pm",
+        "start": "18:30",
         "end": null,
-        "area": "San Francisco",
+        "area": "SoMa",
         "venue": "The Castro",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "88 5th Street, San Francisco, CA 94103",
+        "why": "Hear a rare live performance of a classic horror film score synced to the movie.",
+        "summary": "Claudio Simonetti's Goblin performs the film score to Tenebre live on November 10, 2026 at 6:30pm at 88 5th Street in San Francisco.",
         "promoter": "",
         "price": "",
-        "tags": [],
+        "tags": [
+          "live",
+          "film",
+          "score",
+          "horror",
+          "concert"
+        ],
         "sources": [
           {
             "url": "https://dothebay.com/events",
             "hidden": true
-          }
+          },
+          "https://dothebay.com/events/2026/11/10/claudio-simonettis-goblin-performs-the-live-score-to-tenebre-tickets"
         ],
         "tickets": [],
         "maps": {
@@ -396,10 +426,10 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/san-francisco/2026-11-09/claudio-simonetti-s-gobl-0f3a.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
