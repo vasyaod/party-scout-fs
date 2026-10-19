@@ -12112,7 +12112,7 @@
         "id": "2026-10-19-music-night-vision-spookeasy-w-dj-ci-9c2d47",
         "eid": "night-vision-spookeasy-w-1a91",
         "track": "music",
-        "category": "",
+        "category": "Nightclub",
         "name": "Night Vision: Spookeasy w/ DJ Cira, Maxime, Mipsy 3000, DJ M3",
         "day": "Thu",
         "date": "2026-10-22",
@@ -12122,11 +12122,16 @@
         "area": "San Francisco",
         "venue": "Monarch",
         "address": "101 6th Street, San Francisco, CA 94103, United States",
-        "why": "",
-        "summary": "",
+        "why": "For fans of high-energy DJ sets and spooky, dancefloor-focused vibes.",
+        "summary": "A Halloween-themed Spookeasy night in San Francisco on October 22, 2026, featuring DJs DJ Cira, Maxime, Mipsy 3000, and DJ M3.",
         "promoter": "",
         "price": "$5.64-11.28",
-        "tags": [],
+        "tags": [
+          "dj",
+          "electronic",
+          "halloween",
+          "dance"
+        ],
         "sources": [
           {
             "url": "https://19hz.info/eventlisting_BayArea.php",
@@ -12135,7 +12140,9 @@
           "https://dothebay.com/events/2026/10/22/night-vision-spookeasy-dance-party-tickets",
           "https://ra.co/events/2559288"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://ra.co/events/2559288"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=101%206th%20Street%2C%20San%20Francisco%2C%20CA%2094103%2C%20United%20States",
           "apple": "https://maps.apple.com/?q=101%206th%20Street%2C%20San%20Francisco%2C%20CA%2094103%2C%20United%20States"
@@ -12146,7 +12153,7 @@
         "image": "https://images.ra.co/4574793f95347fb05cf7e24f6ca21f0f4b4d9f4d.png",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true,
         "lineup": [
           {
@@ -12163,25 +12170,34 @@
         "id": "2026-10-19-music-rabiah-trio-live-band-72c568",
         "eid": "rabiah-trio-live-band-dfbc",
         "track": "music",
-        "category": "",
+        "category": "Concert",
         "name": "Rabiah Trio Live Band",
         "day": "Thu",
         "date": "2026-10-22",
         "time": "21:00-23:30",
-        "start": null,
-        "end": null,
-        "area": "San Francisco",
+        "start": "21:00",
+        "end": "23:30",
+        "area": "Mission",
         "venue": "Arcana",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "2512 Mission St, San Francisco",
+        "why": "A midweek live-music night in the Mission with a three-piece band, an easy way to catch real instruments without a weekend crowd.",
+        "summary": "Rabiah Trio plays a live band set at Arcana on Mission Street, running 9 to 11:30pm on a Thursday night.",
         "promoter": "",
         "price": "",
-        "tags": [],
+        "tags": [
+          "live",
+          "music",
+          "live-music",
+          "band",
+          "mission",
+          "thursday"
+        ],
         "sources": [
           "https://ra.co/events/2559434"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://ra.co/events/2559434"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Arcana%2C%20San%20Francisco",
           "apple": "https://maps.apple.com/?q=Arcana%2C%20San%20Francisco"
@@ -12192,28 +12208,36 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
         "id": "2026-10-19-music-substance-fest-2026-undergroun-5613ff",
         "eid": "substance-fest-2026-unde-dba8",
         "track": "music",
-        "category": "",
+        "category": "Festival",
         "name": "Substance Fest 2026: Underground Synth-Pop + Post-Punk (SF)",
         "day": "Thu",
         "date": "2026-10-22",
         "time": "18:00",
-        "start": null,
-        "end": null,
-        "area": "San Francisco",
+        "start": "18:00",
+        "end": "01:00",
+        "area": "Tenderloin",
         "venue": "Great American Music Hall",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "859 O'Farrell St., San Francisco, CA",
+        "why": "A rare chance to catch Belgian EBM pioneers A Split Second and a stacked synth-pop and post-punk bill in one of SF's most beautiful rooms.",
+        "summary": "Day 1 of Substance Fest brings a night of underground synth-pop, darkwave and post-punk to the Great American Music Hall, headlined by A Split Second, Crash Course in Science and Automelodi, with DJ sets between bands.",
         "promoter": "",
-        "price": "",
-        "tags": [],
+        "price": "$30",
+        "tags": [
+          "synth-pop",
+          "post-punk",
+          "festival",
+          "live",
+          "ticketed",
+          "darkwave",
+          "live-music"
+        ],
         "sources": [
           "https://sf.funcheap.com/substance-fest-2026-underground-synthpop-postpunk-sf/"
         ],
@@ -12225,35 +12249,43 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/san-francisco/2026-10-19/substance-fest-2026-unde-dba8.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
-        "active": true
+        "enriched": 1,
+        "active": true,
+        "lineup": []
       },
       {
         "id": "2026-10-19-music-substance-fest-san-francisco-2-964624",
         "eid": "substance-fest-san-franc-ec6c",
         "track": "music",
-        "category": "",
+        "category": "Festival",
         "name": "Substance Fest San Francisco 2026: Day 1",
         "day": "Thu",
         "date": "2026-10-22",
         "time": "6:00PM",
         "start": "18:00",
-        "end": null,
+        "end": "01:00",
         "area": "San Francisco",
         "venue": "Great American Music Hall",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "859 O'Farrell Street, San Francisco, CA 94109, United States",
+        "why": "To attend the opening day of a multi-day festival in central San Francisco.",
+        "summary": "Day 1 of Substance Fest San Francisco 2026 is scheduled for October 22 at 859 O'Farrell Street in San Francisco, with tickets listed at $30.",
         "promoter": "",
-        "price": "",
-        "tags": [],
-        "sources": [
-          "https://dothebay.com/events/2026/10/22/substance-fest-san-francisco-2026-day-1-tickets"
+        "price": "$30",
+        "tags": [
+          "festival",
+          "live",
+          "multiday"
         ],
-        "tickets": [],
+        "sources": [
+          "https://dothebay.com/events/2026/10/22/substance-fest-san-francisco-2026-day-1-tickets",
+          "https://ra.co/events/2546883"
+        ],
+        "tickets": [
+          "https://ra.co/events/2546883"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Great%20American%20Music%20Hall%2C%20San%20Francisco",
           "apple": "https://maps.apple.com/?q=Great%20American%20Music%20Hall%2C%20San%20Francisco"
@@ -12261,17 +12293,17 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/san-francisco/2026-10-19/substance-fest-san-franc-ec6c.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
         "id": "2026-10-19-music-tricky-fm-s-twin-star-fantasy-7e7c27",
         "eid": "tricky-fm-s-twin-star-fa-0d2d",
         "track": "music",
-        "category": "",
+        "category": "Concert",
         "name": "Tricky Fm's Twin Star Fantasy Record Release w/ Edgar and Tugboyz",
         "day": "Thu",
         "date": "2026-10-22",
@@ -12280,17 +12312,23 @@
         "end": "23:00",
         "area": "San Francisco",
         "venue": "The Lab",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "2948 16th St., San Francisco, CA",
+        "why": "To catch a local record-release party and see Edgar and Tugboyz live.",
+        "summary": "Tricky Fm presents a record-release show for Twin Star Fantasy featuring Edgar and Tugboyz on October 22, 2026 at 2948 16th St., San Francisco.",
         "promoter": "",
         "price": "$17",
-        "tags": [],
+        "tags": [
+          "live",
+          "indie",
+          "record-release",
+          "party"
+        ],
         "sources": [
           {
             "url": "https://19hz.info/eventlisting_BayArea.php",
             "hidden": true
-          }
+          },
+          "https://sf.funcheap.com/tricky-fms-twin-star-fantasy-record-release-edgar-tugboyz/"
         ],
         "tickets": [],
         "maps": {
@@ -12303,7 +12341,7 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
