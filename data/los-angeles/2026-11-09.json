@@ -2778,21 +2778,32 @@
         "time": "9pm",
         "start": "21:00",
         "end": null,
-        "area": "Los Angeles",
+        "area": "Costa Mesa",
         "venue": "Kitsch Bar (Costa Mesa)",
         "address": "",
-        "why": "",
-        "summary": "",
-        "promoter": "",
-        "price": "",
-        "tags": [],
+        "why": "A low-key midweek dance night in Orange County with a four-DJ bill and tickets from $10.",
+        "summary": "Thursday-night EDM party at Kitsch Bar in Costa Mesa with future house and bass house, hosted by Community Arts & Festivals. Peekxz, Danny Lugosi, DJ Saaber and Meeshma are on the bill. 21+.",
+        "promoter": "Community Arts & Festivals",
+        "price": "$10-20",
+        "tags": [
+          "electronic",
+          "dance",
+          "dj",
+          "edm",
+          "future-house",
+          "bass-house",
+          "21+"
+        ],
         "sources": [
           {
             "url": "https://19hz.info/eventlisting_LosAngeles.php",
             "hidden": true
-          }
+          },
+          "https://eventsta.com/event/kitschbar111226"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://eventsta.com/event/kitschbar111226"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Kitsch%20Bar%20%28Costa%20Mesa%29%2C%20Los%20Angeles",
           "apple": "https://maps.apple.com/?q=Kitsch%20Bar%20%28Costa%20Mesa%29%2C%20Los%20Angeles"
@@ -2800,38 +2811,45 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/los-angeles/2026-11-09/dance-electric-3d9a.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
         "id": "2026-11-09-music-kcrw-presents-bonobo-c99638",
         "eid": "kcrw-presents-bonobo-2a4c",
         "track": "music",
-        "category": "",
+        "category": "Concert",
         "name": "KCRW presents Bonobo",
         "day": "Thu",
         "date": "2026-11-12",
-        "time": "",
-        "start": null,
-        "end": null,
+        "time": "7–11pm",
+        "start": "19:00",
+        "end": "23:00",
         "area": "Los Angeles",
         "venue": "The Wiltern",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "3790 Wilshire Blvd, Los Angeles, CA 90010",
+        "why": "For an immersive evening of downtempo electronic production performed live.",
+        "summary": "KCRW presents Bonobo at 3790 Wilshire Blvd in Los Angeles on November 12, 2026. The show runs 7–11pm and tickets are $38.",
         "promoter": "",
-        "price": "",
-        "tags": [],
+        "price": "$38",
+        "tags": [
+          "electronic",
+          "downtempo",
+          "live"
+        ],
         "sources": [
           {
             "url": "https://www.axs.com/venues/the-wiltern",
             "hidden": true
-          }
+          },
+          "https://ra.co/events/2497174"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://ra.co/events/2497174"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=The%20Wiltern%2C%20Los%20Angeles",
           "apple": "https://maps.apple.com/?q=The%20Wiltern%2C%20Los%20Angeles"
@@ -2839,10 +2857,10 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/los-angeles/2026-11-09/kcrw-presents-bonobo-2a4c.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
@@ -2859,11 +2877,14 @@
         "area": "Los Angeles",
         "venue": "Sound Nightclub (Los Angeles)",
         "address": "",
-        "why": "",
-        "summary": "",
+        "why": "To catch two performers sharing a bill in Los Angeles.",
+        "summary": "A performance featuring Kyle Starkey and Paige Tomlinson on 2026-11-12 in Los Angeles.",
         "promoter": "",
         "price": "$19.27",
-        "tags": [],
+        "tags": [
+          "live",
+          "show"
+        ],
         "sources": [
           {
             "url": "https://19hz.info/eventlisting_LosAngeles.php",
@@ -2881,7 +2902,7 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
