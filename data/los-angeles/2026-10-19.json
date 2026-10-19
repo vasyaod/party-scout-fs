@@ -5828,20 +5828,30 @@
         "day": "Tue",
         "date": "2026-10-20",
         "time": "18:30-00:30",
-        "start": null,
-        "end": null,
-        "area": "Los Angeles",
+        "start": "18:30",
+        "end": "00:30",
+        "area": "DTLA",
         "venue": "The Redwood Bar And Grill",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "316 W. 2nd Street, Los Angeles, CA 90012",
+        "why": "Five local bands for $15 in a dive bar that has hosted live music for years.",
+        "summary": "A Tuesday-night punk and rock bill at The Redwood Bar and Grill in downtown LA, with Mosaic Coyote sharing the stage with Ziggy Sixx, Wrong Crowd, Broken Record and Red Hill Avenue.",
         "promoter": "",
         "price": "$15",
-        "tags": [],
+        "tags": [
+          "nightlife",
+          "event",
+          "downtown",
+          "live music",
+          "rock",
+          "dive bar",
+          "DTLA"
+        ],
         "sources": [
           "https://ra.co/events/2558828"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://ra.co/events/2558828"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=The%20Redwood%20Bar%20And%20Grill%2C%20Los%20Angeles",
           "apple": "https://maps.apple.com/?q=The%20Redwood%20Bar%20And%20Grill%2C%20Los%20Angeles"
@@ -5852,14 +5862,15 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
-        "active": true
+        "enriched": 1,
+        "active": true,
+        "lineup": []
       },
       {
         "id": "2026-10-19-music-clinic-wednesday-x-amore-anast-95cd77",
         "eid": "clinic-wednesday-x-amore-c860",
         "track": "music",
-        "category": "",
+        "category": "Nightclub",
         "name": "Clinic Wednesday X Amore: Anasthesia, Possibly Sunny, D'Ego, Guy B, Lost Culture",
         "day": "Wed",
         "date": "2026-10-21",
@@ -5868,12 +5879,17 @@
         "end": "02:00",
         "area": "Los Angeles",
         "venue": "Jungle Hollywood (Los Angeles)",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "1640 N Cahuenga Blvd, Los Angeles, CA 90028",
+        "why": "To hear several DJs across one night.",
+        "summary": "A Wednesday night event at 1640 N Cahuenga Blvd in Hollywood on 2026-10-21 featuring Anasthesia, Possibly Sunny, D'Ego, Guy B, and Lost Culture.",
         "promoter": "",
         "price": "20",
-        "tags": [],
+        "tags": [
+          "dj",
+          "electronic",
+          "club",
+          "nightlife"
+        ],
         "sources": [
           {
             "url": "https://19hz.info/eventlisting_LosAngeles.php",
@@ -5881,7 +5897,9 @@
           },
           "https://ra.co/events/2559635"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://ra.co/events/2559635"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Jungle%20Hollywood%20%28Los%20Angeles%29%2C%20Los%20Angeles",
           "apple": "https://maps.apple.com/?q=Jungle%20Hollywood%20%28Los%20Angeles%29%2C%20Los%20Angeles"
@@ -5889,10 +5907,10 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/los-angeles/2026-10-19/clinic-wednesday-x-amore-c860.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
@@ -8117,21 +8135,29 @@
         "id": "2026-10-19-sports-monday-running-293fb7",
         "eid": "monday-running-0043",
         "track": "sports",
-        "category": "",
+        "category": "Run club",
         "name": "Monday Running",
         "day": "Mon",
         "date": "2026-10-19",
         "time": "6:30 PM",
         "start": "18:30",
-        "end": null,
-        "area": "Los Angeles",
-        "venue": "TBA",
-        "address": "",
-        "why": "",
-        "summary": "",
-        "promoter": "",
-        "price": "",
-        "tags": [],
+        "end": "19:30",
+        "area": "La Mirada",
+        "venue": "13701 Adelfa Dr",
+        "address": "13701 Adelfa Dr, La Mirada, Ca",
+        "why": "A free, social way to start the week: run, then stay for a rotating second sport.",
+        "summary": "Weekly Monday group run in La Mirada with the LA/OC Exercise Meetup, followed by other sports like bowling, tennis or swimming. Free to join; there's a KakaoTalk group chat.",
+        "promoter": "LA/OC Exercise Meetup",
+        "price": "Free",
+        "tags": [
+          "fitness",
+          "outdoor",
+          "community",
+          "running",
+          "social",
+          "free",
+          "meetup"
+        ],
         "sources": [
           "https://www.meetup.com/cerritos-late-20s-early-30s-meetup-group/events/316774037/"
         ],
@@ -8143,31 +8169,39 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/los-angeles/2026-10-19/monday-running-0043.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
         "id": "2026-10-19-sports-asp-x-puma-social-run-795ac0",
         "eid": "asp-x-puma-social-run-7531",
         "track": "sports",
-        "category": "",
+        "category": "run club",
         "name": "ASP x Puma Social Run",
         "day": "Tue",
         "date": "2026-10-20",
         "time": "6:00 PM",
         "start": "18:00",
-        "end": null,
-        "area": "Los Angeles",
-        "venue": "TBA",
-        "address": "",
-        "why": "",
-        "summary": "",
-        "promoter": "",
-        "price": "",
-        "tags": [],
+        "end": "19:30",
+        "area": "Brea",
+        "venue": "A Snails Pace Running Shop",
+        "address": "1040 E Imperial Hwy, Brea, CA",
+        "why": "Free, no-pressure group run where fast, slow and in-between all run together, with Puma demo gear to try.",
+        "summary": "Weekly social run from A Snail's Pace Running Shop in Brea, open to all paces. Meet at 5:45 pm, roll out at 6:00, and test-drive Puma gear before the run.",
+        "promoter": "A Snail's Pace Running Shop",
+        "price": "Free",
+        "tags": [
+          "running",
+          "outdoor",
+          "community",
+          "run club",
+          "free",
+          "social run",
+          "fitness"
+        ],
         "sources": [
           "https://www.meetup.com/a-snails-pace-running-shop-social-runs/events/316435640/"
         ],
@@ -8179,10 +8213,10 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/los-angeles/2026-10-19/asp-x-puma-social-run-7531.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
