@@ -6348,21 +6348,27 @@
         "area": "Los Angeles",
         "venue": "Zula Den (Los Angeles)",
         "address": "",
-        "why": "For a focused two-artist performance in one evening.",
-        "summary": "A ticketed evening from The Residency’s Sound Connections series featuring ITAI and Aviv Hadari on Oct 22, 2026, 8–11pm. Tickets are $34–$44.",
+        "why": "A live, collaborative house set where the line between artists and crowd blurs — more community than club night.",
+        "summary": "Vol. 46 of ITAI's Sound Connections series, 'Roots', pairs the saxophonist-producer with Aviv Hadari for a live music and intentional dance night at Zula Den.",
         "promoter": "",
         "price": "$34–$44",
         "tags": [
           "live",
-          "ticketed"
+          "ticketed",
+          "house",
+          "live music",
+          "community"
         ],
         "sources": [
           {
             "url": "https://edmtrain.com/los-angeles-ca",
             "hidden": true
-          }
+          },
+          "https://www.eventbrite.com/e/the-residency-sound-connections-vol-46-roots-itai-x-aviv-hadari-tickets-2000075510693"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://www.eventbrite.com/e/the-residency-sound-connections-vol-46-roots-itai-x-aviv-hadari-tickets-2000075510693"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Zula%20Den%20%28Los%20Angeles%29%2C%20Los%20Angeles",
           "apple": "https://maps.apple.com/?q=Zula%20Den%20%28Los%20Angeles%29%2C%20Los%20Angeles"
@@ -6370,7 +6376,7 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/los-angeles/2026-10-19/the-residency-sound-conn-83cb.jpg",
         "image_generated": false,
         "popularity": 0,
         "enriched": 1,
@@ -6520,7 +6526,7 @@
         "id": "2026-10-19-music-axis-retrograde-w-jack-faulkne-60092f",
         "eid": "axis-retrograde-w-jack-f-6216",
         "track": "music",
-        "category": "",
+        "category": "Nightclub",
         "name": "Axis: Retrograde w/ Jack Faulkner and Jonny Cota",
         "day": "Fri",
         "date": "2026-10-23",
@@ -6530,11 +6536,15 @@
         "area": "Los Angeles",
         "venue": "TBA (DTLA/Los Angeles)",
         "address": "",
-        "why": "",
-        "summary": "",
+        "why": "For a late-night, DJ-driven dancefloor experience.",
+        "summary": "A Los Angeles night on 2026-10-23 featuring Jack Faulkner and Jonny Cota.",
         "promoter": "",
         "price": "40",
-        "tags": [],
+        "tags": [
+          "dj",
+          "electronic",
+          "dance"
+        ],
         "sources": [
           {
             "url": "https://19hz.info/eventlisting_LosAngeles.php",
@@ -6542,7 +6552,9 @@
           },
           "https://ra.co/events/2553802"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://ra.co/events/2553802"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Los%20Angeles",
           "apple": "https://maps.apple.com/?q=Los%20Angeles"
@@ -6553,7 +6565,7 @@
         "image": "https://images.ra.co/57014ef6a6d17c6d2cec1d25faa05f39521d2d7e.png",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true,
         "lineup": [
           {
@@ -6566,21 +6578,30 @@
         "id": "2026-10-19-music-c-nty-classics-dance-party-sha-8b5725",
         "eid": "c-nty-classics-dance-par-84ec",
         "track": "music",
-        "category": "",
+        "category": "Nightclub",
         "name": "C*Nty Classics Dance Party: Shana Sarett & Vince Rossi",
         "day": "Fri",
         "date": "2026-10-23",
         "time": "10pm-2am",
         "start": "22:00",
         "end": "02:00",
-        "area": "Los Angeles",
+        "area": "Atwater Village",
         "venue": "Zebulon (Los Angeles)",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "2478 Fletcher Dr, Los Angeles, CA 90039",
+        "why": "No cover, a late dance floor in Atwater Village, and two working LA DJs.",
+        "summary": "A free Friday-night classics dance party at Zebulon, with Shana Sarett and Vince Rossi on the decks from 10pm to 2am.",
         "promoter": "",
         "price": "free",
-        "tags": [],
+        "tags": [
+          "dj",
+          "dance",
+          "club",
+          "21+",
+          "dance party",
+          "classics",
+          "free",
+          "late night"
+        ],
         "sources": [
           {
             "url": "https://19hz.info/eventlisting_LosAngeles.php",
@@ -6598,8 +6619,9 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
-        "active": true
+        "enriched": 1,
+        "active": true,
+        "lineup": []
       },
       {
         "id": "2026-10-19-music-gay-felony-malzof-yessi-fc1364",
@@ -6610,20 +6632,28 @@
         "day": "Fri",
         "date": "2026-10-23",
         "time": "22:00-02:00",
-        "start": null,
-        "end": null,
+        "start": "22:00",
+        "end": "02:00",
         "area": "Los Angeles",
         "venue": "Homage Brewing",
         "address": "1219 N Main St, Los Angeles, CA 90012",
-        "why": "",
-        "summary": "",
+        "why": "Three DJs on one late bill at a brewery venue near Chinatown, so you can drink and dance in the same room.",
+        "summary": "A Friday-night club bill at Homage Brewing in Chinatown with Gay Felony, Malzof and Yessi, running 10pm to 2am.",
         "promoter": "",
         "price": "",
-        "tags": [],
+        "tags": [
+          "live",
+          "nightlife",
+          "dj",
+          "club",
+          "chinatown"
+        ],
         "sources": [
           "https://ra.co/events/2560854"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://ra.co/events/2560854"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=1219%20N%20Main%20St%2C%20Los%20Angeles%2C%20CA%2090012",
           "apple": "https://maps.apple.com/?q=1219%20N%20Main%20St%2C%20Los%20Angeles%2C%20CA%2090012"
@@ -6634,7 +6664,7 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true,
         "lineup": [
           {
@@ -8302,21 +8332,30 @@
         "id": "2026-10-19-sports-friday-r-e-d-flat-easy-run-wal-d805e8",
         "eid": "friday-r-e-d-flat-easy-r-e897",
         "track": "sports",
-        "category": "",
+        "category": "Sports",
         "name": "FRIDAY R.E.D. \"Flat & easy\" run/walk",
         "day": "Fri",
         "date": "2026-10-23",
         "time": "6:30 AM",
         "start": "06:30",
-        "end": null,
-        "area": "Los Angeles",
+        "end": "07:30",
+        "area": "Hacienda Heights",
         "venue": "TBA",
         "address": "Hacienda Heights, CA",
-        "why": "",
-        "summary": "",
-        "promoter": "",
+        "why": "A low-pressure way to start a Friday on your feet with a friendly local running crew.",
+        "summary": "An early-morning flat, easy run/walk with the Turnbull Trails Roadrunners in Hacienda Heights, 6:30–7:30 AM. Exact meeting spot is shared with group members on Meetup.",
+        "promoter": "Turnbull Trails Roadrunners",
         "price": "",
-        "tags": [],
+        "tags": [
+          "outdoor",
+          "fitness",
+          "running",
+          "walking",
+          "community",
+          "run club",
+          "morning",
+          "beginner-friendly"
+        ],
         "sources": [
           "https://www.meetup.com/turnbull-trails-roadrunners/events/316827009/"
         ],
@@ -8331,7 +8370,7 @@
         "image": "https://www.meetup.com/images/fallbacks/redesign/group-cover-4-wide.webp",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
