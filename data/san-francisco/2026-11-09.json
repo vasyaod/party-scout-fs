@@ -3836,18 +3836,22 @@
         "time": "21:45",
         "start": "21:45",
         "end": "02:00",
-        "area": "SF",
+        "area": "North Beach",
         "venue": "Paname",
-        "address": "",
-        "why": "For energetic DJ sets and a lively Saturday-night dance floor.",
-        "summary": "A Saturday night dance event on 2026-11-14 featuring Dani Ashley, afterPRTY, Barto, and Disco Jones. Tickets are $6–$12.",
-        "promoter": "",
+        "address": "523 Broadway, San Francisco",
+        "why": "A four-DJ Saturday of groovy disco and house in North Beach, with tickets from about $6.",
+        "summary": "Evil Eye and Khalil's Habibis throw a vinyl-themed disco, house, funk and techno night at Paname with Dani Ashley, afterPRTY, Barto and Disco Jones.",
+        "promoter": "Evil Eye & Khalil's Habibis",
         "price": "$6–$12",
         "tags": [
           "dj",
           "dance",
           "party",
-          "ticketed"
+          "ticketed",
+          "disco",
+          "house",
+          "funk",
+          "techno"
         ],
         "sources": [
           {
@@ -3863,7 +3867,7 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/san-francisco/2026-11-09/get-down-saturday-night-ac31.jpg",
         "image_generated": false,
         "popularity": 0,
         "enriched": 1,
@@ -3873,29 +3877,35 @@
         "id": "2026-11-09-music-give-until-gone-presents-neumo-0481f1",
         "eid": "give-until-gone-presents-2d07",
         "track": "music",
-        "category": "",
+        "category": "Concert",
         "name": "Give Until Gone presents: Neumonic",
         "day": "Sat",
         "date": "2026-11-14",
         "time": "22:00-02:00",
-        "start": null,
-        "end": null,
+        "start": "22:00",
+        "end": "02:00",
         "area": "San Francisco",
         "venue": "The Midway",
         "address": "900 Marin Street, San Francisco, CA 94124",
-        "why": "",
-        "summary": "",
+        "why": "For a one-night live music experience in San Francisco.",
+        "summary": "A live music event presented by Give Until Gone titled “Neumonic” taking place in San Francisco on November 14, 2026.",
         "promoter": "",
         "price": "$18-31",
-        "tags": [],
+        "tags": [
+          "live",
+          "music"
+        ],
         "sources": [
           "https://ra.co/events/2557351",
           {
             "url": "https://19hz.info/eventlisting_BayArea.php",
             "hidden": true
-          }
+          },
+          "https://dothebay.com/events/2026/11/14/give-until-gone-presents-neumonic-tickets"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://ra.co/events/2557351"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=900%20Marin%20Street%2C%20San%20Francisco%2C%20CA%2094124",
           "apple": "https://maps.apple.com/?q=900%20Marin%20Street%2C%20San%20Francisco%2C%20CA%2094124"
@@ -3906,7 +3916,7 @@
         "image": "https://images.ra.co/5eef653207119acb5b5d01eb9948cdf7f83db737.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true,
         "lineup": [
           {
@@ -3935,17 +3945,25 @@
         "name": "Headache",
         "day": "Sat",
         "date": "2026-11-14",
-        "time": "7:00PM",
-        "start": null,
+        "time": "7:00 PM",
+        "start": "19:00",
         "end": null,
-        "area": "San Francisco",
+        "area": "Civic Center",
         "venue": "The Regency Ballroom",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "88 5th Street, San Francisco, CA 94103",
+        "why": "An all-ages live show at one of SF's classic ballrooms.",
+        "summary": "Headache plays The Regency Ballroom on Van Ness, an all-ages Saturday night show.",
         "promoter": "",
         "price": "",
-        "tags": [],
+        "tags": [
+          "nightlife",
+          "san-francisco",
+          "so-ma",
+          "event",
+          "live music",
+          "all ages",
+          "concert"
+        ],
         "sources": [
           {
             "url": "https://dothebay.com/events",
@@ -3954,7 +3972,8 @@
           {
             "url": "https://www.theregencyballroom.com/shows",
             "hidden": true
-          }
+          },
+          "https://dothebay.com/events/2026/11/14/headache-tickets"
         ],
         "tickets": [],
         "maps": {
@@ -3965,9 +3984,9 @@
         "coords_precise": false,
         "ra": {},
         "image": "https://api.party-scout.app/img/san-francisco/2026-11-09/headache-10e7.jpg",
-        "image_generated": true,
+        "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
@@ -6000,26 +6019,36 @@
         "id": "2026-11-09-music-golden-gate-park-singing-in-th-ce7a6f",
         "eid": "golden-gate-park-singing-74a2",
         "track": "music",
-        "category": "",
+        "category": "Festival",
         "name": "Golden Gate Park “Singing in the Park” Community Party",
         "day": "Sat",
         "date": "2026-11-14",
         "time": "10:30 am",
         "start": "10:30",
-        "end": null,
+        "end": "11:30",
         "area": "San Francisco",
         "venue": "Golden Gate Park",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "501 MLK Jr Dr, San Francisco, CA 94118",
+        "why": "Free, welcoming and outdoors — a low-key way to start a Saturday with live voices instead of a screen.",
+        "summary": "A free Saturday-morning community sing-along in Golden Gate Park, 10:30–11:30 am. Show up, sit in the trees and sing with neighbors.",
         "promoter": "",
         "price": "FREE",
-        "tags": [],
+        "tags": [
+          "outdoor",
+          "community",
+          "sing-along",
+          "live",
+          "family",
+          "free",
+          "singing",
+          "daytime"
+        ],
         "sources": [
           {
             "url": "https://sf.funcheap.com/",
             "hidden": true
-          }
+          },
+          "https://sf.funcheap.com/golden-gate-park-singing-in-the-park-community-party-sf-21/"
         ],
         "tickets": [],
         "maps": {
@@ -6029,10 +6058,10 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/san-francisco/2026-11-09/golden-gate-park-singing-74a2.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
