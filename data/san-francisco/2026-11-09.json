@@ -2065,25 +2065,32 @@
         "id": "2026-11-09-music-tom-djll-tanukispidercat-hat-b-4f17c4",
         "eid": "tom-djll-tanukispidercat-cd2d",
         "track": "music",
-        "category": "",
+        "category": "Concert",
         "name": "Tom Djll, Tanukispidercat, Hat Brackets, Under The Skin",
         "day": "Thu",
         "date": "2026-11-12",
         "time": "20:00-23:00",
-        "start": null,
-        "end": null,
+        "start": "20:00",
+        "end": "23:00",
         "area": "San Francisco",
         "venue": "Peacock Lounge",
         "address": "552 Haight Street",
-        "why": "",
-        "summary": "",
+        "why": "Good for discovering multiple acts in one evening.",
+        "summary": "A multi-act night in San Francisco on Nov 12, 2026 featuring Tom Djll, Tanukispidercat, Hat Brackets and Under The Skin.",
         "promoter": "",
         "price": "$5-$15",
-        "tags": [],
+        "tags": [
+          "dj",
+          "live",
+          "music"
+        ],
         "sources": [
+          "https://ra.co/events/2561823",
+          "https://dothebay.com/events/2026/11/12/tom-djll-tanukispidercat-hat-brackets-under-the-skin-tickets"
+        ],
+        "tickets": [
           "https://ra.co/events/2561823"
         ],
-        "tickets": [],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Peacock%20Lounge",
           "apple": "https://maps.apple.com/?q=Peacock%20Lounge"
@@ -2094,33 +2101,40 @@
         "image": "https://images.ra.co/d11e30e60976cac7820991e76ccacd8ea5de07d1.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
         "id": "2026-11-09-music-tuba-skinny-ec07fe",
         "eid": "tuba-skinny-460f",
         "track": "music",
-        "category": "",
+        "category": "Concert",
         "name": "Tuba Skinny",
         "day": "Thu",
         "date": "2026-11-12",
         "time": "8:00PM",
-        "start": null,
+        "start": "20:00",
         "end": null,
-        "area": "San Francisco",
+        "area": "Berkeley",
         "venue": "The Freight",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "2020 Addison St, Berkeley, CA 94704",
+        "why": "A rare Bay Area night of hot, joyful New Orleans street jazz in an intimate all-ages room.",
+        "summary": "New Orleans traditional-jazz band Tuba Skinny plays The Freight in Berkeley, with banjo, trombone, cornet, clarinet and a sousaphone anchoring the street-corner sound.",
         "promoter": "",
-        "price": "",
-        "tags": [],
+        "price": "$44 - $49, All Ages",
+        "tags": [
+          "live",
+          "jazz",
+          "live-music",
+          "new-orleans",
+          "all-ages"
+        ],
         "sources": [
           {
             "url": "https://dothebay.com/events",
             "hidden": true
-          }
+          },
+          "https://dothebay.com/events/2026/11/12/tuba-skinny-tickets"
         ],
         "tickets": [],
         "maps": {
@@ -2130,36 +2144,43 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/san-francisco/2026-11-09/tuba-skinny-460f.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
         "id": "2026-11-09-music-turnover-68ddb0",
         "eid": "turnover-7334",
         "track": "music",
-        "category": "",
+        "category": "Concert",
         "name": "Turnover",
         "day": "Thu",
         "date": "2026-11-12",
-        "time": "6:30PM",
-        "start": null,
+        "time": "6:30 PM doors",
+        "start": "18:30",
         "end": null,
-        "area": "San Francisco",
+        "area": "Berkeley",
         "venue": "The UC Theatre",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "88 5th Street, San Francisco, CA 94103",
+        "why": "A rare Bay Area date from a band whose shimmering, mellow guitar sound has a devoted following.",
+        "summary": "Virginia Beach dream-pop and emo band Turnover play The UC Theatre in Berkeley, doors at 6:30 PM.",
         "promoter": "",
         "price": "",
-        "tags": [],
+        "tags": [
+          "live",
+          "indoor",
+          "live-music",
+          "indie",
+          "dream-pop"
+        ],
         "sources": [
           {
             "url": "https://dothebay.com/events",
             "hidden": true
-          }
+          },
+          "https://dothebay.com/events/2026/11/12/turnover-tickets"
         ],
         "tickets": [],
         "maps": {
@@ -2169,11 +2190,12 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/san-francisco/2026-11-09/turnover-7334.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
-        "active": true
+        "enriched": 1,
+        "active": true,
+        "lineup": []
       },
       {
         "id": "2026-11-09-music-anime-rave-san-francisco-2bcb88",
