@@ -2874,16 +2874,20 @@
         "time": "10pm-2am",
         "start": "22:00",
         "end": "02:00",
-        "area": "Los Angeles",
+        "area": "Hollywood",
         "venue": "Sound Nightclub (Los Angeles)",
-        "address": "",
-        "why": "To catch two performers sharing a bill in Los Angeles.",
-        "summary": "A performance featuring Kyle Starkey and Paige Tomlinson on 2026-11-12 in Los Angeles.",
+        "address": "1642 N Las Palmas Ave, Los Angeles, CA 90028",
+        "why": "Two DJs on one bill at one of LA's bigger Hollywood rooms, on a weeknight with a late 2am finish.",
+        "summary": "Kyle Starkey and Paige Tomlinson play a Thursday-night club set at Sound Nightclub in Hollywood, 10pm to 2am.",
         "promoter": "",
         "price": "$19.27",
         "tags": [
           "live",
-          "show"
+          "show",
+          "house",
+          "techno",
+          "club",
+          "hollywood"
         ],
         "sources": [
           {
@@ -2899,8 +2903,8 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
-        "image_generated": false,
+        "image": "https://api.party-scout.app/img/los-angeles/2026-11-09/kyle-starkey-paige-tomli-80cc.jpg",
+        "image_generated": true,
         "popularity": 0,
         "enriched": 1,
         "active": true
@@ -2909,28 +2913,36 @@
         "id": "2026-11-09-music-obscene-goth-industrial-ebm-da-3f1465",
         "eid": "obscene-goth-industrial-496d",
         "track": "music",
-        "category": "",
+        "category": "Nightclub",
         "name": "Obscene (Goth / Industrial / EBM / Darkwave)",
         "day": "Thu",
         "date": "2026-11-12",
         "time": "21:00-02:00",
-        "start": null,
-        "end": null,
+        "start": "21:00",
+        "end": "02:00",
         "area": "Los Angeles",
         "venue": "The Slipper Clutch",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "351 S Broadway, Los Angeles, CA 90013, USA",
+        "why": "For fans wanting a night of goth, industrial, EBM and darkwave music.",
+        "summary": "A goth, industrial, EBM and darkwave club night at 351 S Broadway in DTLA on November 12, 2026.",
         "promoter": "",
         "price": "0",
-        "tags": [],
+        "tags": [
+          "goth",
+          "industrial",
+          "ebm",
+          "darkwave",
+          "club"
+        ],
         "sources": [
           {
             "url": "https://ra.co/events/2348304",
             "hidden": true
           }
         ],
-        "tickets": [],
+        "tickets": [
+          "https://ra.co/events/2348304"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=The%20Slipper%20Clutch%2C%20Los%20Angeles",
           "apple": "https://maps.apple.com/?q=The%20Slipper%20Clutch%2C%20Los%20Angeles"
@@ -2938,10 +2950,10 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/los-angeles/2026-11-09/obscene-goth-industrial-496d.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
@@ -2975,8 +2987,7 @@
           {
             "url": "https://19hz.info/eventlisting_LosAngeles.php",
             "hidden": true
-          },
-          "https://ra.co/events/2514122"
+          }
         ],
         "tickets": [
           "https://ra.co/events/2514122"
@@ -2991,14 +3002,14 @@
         "image": "https://party-scout.app/img/gen/sina-bathaie-4400.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
         "id": "2026-11-09-music-surface-diy-with-adam-rose-bab-9f517e",
         "eid": "surface-diy-with-adam-ro-5781",
         "track": "music",
-        "category": "Nightclub",
+        "category": "Concert",
         "name": "Surface DIY with Adam Rose, Babylon Beach, JJ Selects, Michael Fam, Capes",
         "day": "Thu",
         "date": "2026-11-12",
@@ -3025,8 +3036,7 @@
           {
             "url": "https://19hz.info/eventlisting_LosAngeles.php",
             "hidden": true
-          },
-          "https://ra.co/events/2548082"
+          }
         ],
         "tickets": [
           "https://ra.co/events/2548082"
@@ -3041,7 +3051,7 @@
         "image": "https://party-scout.app/img/gen/surface-diy-w-adam-rose-58af.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
@@ -3089,20 +3099,29 @@
         "day": "Thu",
         "date": "2026-11-12",
         "time": "20:00-02:00",
-        "start": null,
-        "end": null,
-        "area": "Los Angeles",
+        "start": "20:00",
+        "end": "02:00",
+        "area": "DTLA",
         "venue": "The Redwood Bar And Grill",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "316 W. 2nd Street, Los Angeles, CA 90012",
+        "why": "A late Thursday option in DTLA at a long-running downtown bar, open until 2am.",
+        "summary": "The Wyldewood Green, a Thursday night event at The Redwood Bar And Grill in downtown Los Angeles, running 8pm to 2am.",
         "promoter": "",
         "price": "",
-        "tags": [],
+        "tags": [
+          "nightlife",
+          "dtla",
+          "social",
+          "music",
+          "bar",
+          "thursday"
+        ],
         "sources": [
           "https://ra.co/events/2564271"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://ra.co/events/2564271"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=The%20Redwood%20Bar%20And%20Grill%2C%20Los%20Angeles",
           "apple": "https://maps.apple.com/?q=The%20Redwood%20Bar%20And%20Grill%2C%20Los%20Angeles"
@@ -3110,10 +3129,10 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
-        "image_generated": false,
+        "image": "https://api.party-scout.app/img/los-angeles/2026-11-09/the-wyldewood-green-20db.jpg",
+        "image_generated": true,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {

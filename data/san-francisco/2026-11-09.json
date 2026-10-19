@@ -1054,26 +1054,30 @@
         "id": "2026-11-09-music-jake-xerxes-fussell-75c4c1",
         "eid": "jake-xerxes-fussell-edb8",
         "track": "music",
-        "category": "",
+        "category": "Concert",
         "name": "Jake Xerxes Fussell",
         "day": "Wed",
         "date": "2026-11-11",
         "time": "8:00PM",
-        "start": null,
+        "start": "20:00",
         "end": null,
         "area": "San Francisco",
         "venue": "Great American Music Hall",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "88 5th Street, San Francisco, CA 94103",
+        "why": "To catch a ticketed live music performance in SoMa.",
+        "summary": "Jake Xerxes Fussell performs in San Francisco on November 11, 2026 at 88 5th Street; tickets are $25–$30.",
         "promoter": "",
-        "price": "",
-        "tags": [],
+        "price": "$25–$30",
+        "tags": [
+          "live",
+          "paid"
+        ],
         "sources": [
           {
             "url": "https://dothebay.com/events",
             "hidden": true
-          }
+          },
+          "https://dothebay.com/events/2026/11/11/jake-xerxes-fussell-tickets"
         ],
         "tickets": [],
         "maps": {
@@ -1083,10 +1087,10 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/san-francisco/2026-11-09/jake-xerxes-fussell-edb8.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
@@ -1098,21 +1102,26 @@
         "day": "Wed",
         "date": "2026-11-11",
         "time": "8:00PM",
-        "start": null,
+        "start": "20:00",
         "end": null,
         "area": "San Francisco",
         "venue": "Bottom Of The Hill",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "88 5th Street, San Francisco, CA 94103",
+        "why": "For a downtown San Francisco night out in a central SoMa location.",
+        "summary": "An event called “lowercase” takes place on November 11, 2026 at 88 5th Street in SoMa, San Francisco.",
         "promoter": "",
         "price": "",
-        "tags": [],
+        "tags": [
+          "nightlife",
+          "party",
+          "indoor"
+        ],
         "sources": [
           {
             "url": "https://dothebay.com/events",
             "hidden": true
-          }
+          },
+          "https://dothebay.com/events/2026/11/11/lowercase-tickets"
         ],
         "tickets": [],
         "maps": {
@@ -1122,10 +1131,10 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/san-francisco/2026-11-09/lowercase-87f4.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
@@ -5235,7 +5244,7 @@
         "time": "7:00PM",
         "start": "19:00",
         "end": null,
-        "area": "San Francisco",
+        "area": "SoMa",
         "venue": "The Ritz",
         "address": "88 5th Street, San Francisco, CA 94103",
         "why": "To catch a two-act billed night in SoMa.",
@@ -5271,26 +5280,34 @@
         "id": "2026-11-09-music-final-damnation-50-the-damned-dc1105",
         "eid": "final-damnation-50-the-d-3e75",
         "track": "music",
-        "category": "",
+        "category": "Concert",
         "name": "Final Damnation 50 The Damned",
         "day": "Wed",
         "date": "2026-11-11",
         "time": "8:00PM",
         "start": "20:00",
         "end": null,
-        "area": "San Francisco",
+        "area": "Fillmore",
         "venue": "The Fillmore",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "88 5th Street, San Francisco, CA 94103",
+        "why": "A rare chance to see one of punk's founding bands celebrate 50 years, with garage-rock veterans Flamin' Groovies on the bill.",
+        "summary": "The Damned, the original UK punk pioneers, play The Fillmore on their Final Damnation 50 tour, with Flamin' Groovies and The Courettes.",
         "promoter": "",
         "price": "",
-        "tags": [],
+        "tags": [
+          "punk",
+          "rock",
+          "live",
+          "indoor",
+          "live-music",
+          "concert"
+        ],
         "sources": [
           {
             "url": "https://dothebay.com/events",
             "hidden": true
-          }
+          },
+          "https://dothebay.com/events/2026/11/11/the-damned-final-damnation-50-tickets"
         ],
         "tickets": [],
         "maps": {
@@ -5300,11 +5317,12 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/san-francisco/2026-11-09/final-damnation-50-the-d-3e75.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
-        "active": true
+        "enriched": 1,
+        "active": true,
+        "lineup": []
       },
       {
         "id": "2026-11-09-music-after-dark-thursday-nights-315ed5",
