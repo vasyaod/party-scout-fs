@@ -4260,16 +4260,20 @@
         "time": "21:00-03:00",
         "start": "21:00",
         "end": "03:00",
-        "area": "San Francisco",
+        "area": "SoMa",
         "venue": "Monarch",
         "address": "101 6th Street, San Francisco, CA 94103, United States",
-        "why": "To catch two acts performing live in the city.",
-        "summary": "Mostly Cloudy: Regal86 + 1OO1O is a night in San Francisco on November 14, 2026 featuring Regal86 and 1OO1O.",
-        "promoter": "",
+        "why": "A deep, multi-room-style lineup of Bay and touring DJs on a proper Monarch sound system, running late until 3am.",
+        "summary": "Mostly Cloudy returns to Monarch with Regal86 and 1OO1O headlining a bass-leaning club night, backed by BAD JUUJU b2b Skiis, Julia Rose, NATHALIA, Saffaire and S.I.M. 21+, 9pm to 3am.",
+        "promoter": "cafeconpostre",
         "price": "",
         "tags": [
           "live",
-          "dj"
+          "dj",
+          "club",
+          "electronic",
+          "21+",
+          "late-night"
         ],
         "sources": [
           "https://ra.co/events/2537001"
@@ -4328,25 +4332,31 @@
         "id": "2026-11-09-music-nocapz-hot-creations-at-madara-63bde0",
         "eid": "nocapz-hot-creations-at-da7c",
         "track": "music",
-        "category": "",
+        "category": "Nightclub",
         "name": "Nocapz (Hot Creations,) at MadaRae",
         "day": "Sat",
         "date": "2026-11-14",
         "time": "21:00-03:00",
-        "start": null,
-        "end": null,
+        "start": "21:00",
+        "end": "03:00",
         "area": "San Francisco",
         "venue": "Madarae San Francisco",
         "address": "46 Minna St, San Francisco, CA 94105, United States",
-        "why": "",
-        "summary": "",
+        "why": "For a dancefloor-focused electronic DJ set.",
+        "summary": "Nocapz (Hot Creations) at MadaRae on 2026-11-14; tickets listed as $12 b4 11 / $11-23+.",
         "promoter": "",
-        "price": "",
-        "tags": [],
+        "price": "$12 b4 11 / $11-23+",
+        "tags": [
+          "dj",
+          "house",
+          "electronic"
+        ],
         "sources": [
           "https://ra.co/events/2537183"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://ra.co/events/2537183"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=46%20Minna%20St%2C%20San%20Francisco%2C%20CA%2094105%2C%20United%20States",
           "apple": "https://maps.apple.com/?q=46%20Minna%20St%2C%20San%20Francisco%2C%20CA%2094105%2C%20United%20States"
@@ -4357,7 +4367,7 @@
         "image": "https://images.ra.co/143ded65f896d827313dfeb738460a1793052907.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true,
         "lineup": [
           {
@@ -4370,28 +4380,36 @@
         "id": "2026-11-09-music-nocapz-hot-creations-solid-gro-0775f1",
         "eid": "nocapz-hot-creations-sol-b310",
         "track": "music",
-        "category": "",
+        "category": "Nightclub",
         "name": "Nocapz - Hot Creations, Solid Grooves, and Gruuv",
         "day": "Sat",
         "date": "2026-11-14",
         "time": "21:00",
-        "start": null,
-        "end": null,
-        "area": "",
+        "start": "21:00",
+        "end": "03:00",
+        "area": "SoMa",
         "venue": "Madarae",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "46 Minna St, San Francisco, CA 94105, United States",
+        "why": "For late-night, groove-forward DJ sets and a dancefloor-focused crowd.",
+        "summary": "A club night at 46 Minna St in SoMa on 2026-11-14 titled \"Nocapz - Hot Creations, Solid Grooves, and Gruuv\" with tickets listed at $12 before 11pm and $11–$23+.",
         "promoter": "",
-        "price": "",
-        "tags": [],
+        "price": "$12 b4 11 / $11-23+",
+        "tags": [
+          "dj",
+          "house",
+          "electronic",
+          "dance"
+        ],
         "sources": [
           {
             "url": "https://19hz.info/eventlisting_BayArea.php",
             "hidden": true
-          }
+          },
+          "https://ra.co/events/2537183"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://ra.co/events/2537183"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Madarae",
           "apple": "https://maps.apple.com/?q=Madarae"
@@ -4399,31 +4417,35 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/san-francisco/2026-11-09/nocapz-hot-creations-sol-b310.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
         "id": "2026-11-09-music-nora-en-pure-5be87e",
         "eid": "nora-en-pure-b8e7",
         "track": "music",
-        "category": "",
+        "category": "Concert",
         "name": "Nora En Pure",
         "day": "Sat",
         "date": "2026-11-14",
         "time": "14:00-19:00",
-        "start": null,
-        "end": null,
+        "start": "14:00",
+        "end": "19:00",
         "area": "San Francisco",
         "venue": "Audio SF",
         "address": "316 11th St; San Francisco CA 94103; United States",
-        "why": "",
-        "summary": "",
+        "why": "To see a major electronic DJ performing live in the city.",
+        "summary": "Nora En Pure is performing in San Francisco on November 14, 2026.",
         "promoter": "",
         "price": "$55+",
-        "tags": [],
+        "tags": [
+          "dj",
+          "electronic",
+          "live"
+        ],
         "sources": [
           "https://ra.co/events/2552263",
           {
@@ -4431,7 +4453,9 @@
             "hidden": true
           }
         ],
-        "tickets": [],
+        "tickets": [
+          "https://ra.co/events/2552263"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=316%2011th%20St%3B%20San%20Francisco%20CA%2094103%3B%20United%20States",
           "apple": "https://maps.apple.com/?q=316%2011th%20St%3B%20San%20Francisco%20CA%2094103%3B%20United%20States"
@@ -4442,7 +4466,7 @@
         "image": "https://api.party-scout.app/img/san-francisco/2026-11-09/nora-en-pure-b8e7.jpg",
         "image_generated": true,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true,
         "lineup": [
           {
@@ -4455,26 +4479,35 @@
         "id": "2026-11-09-music-paul-cauthen-the-book-of-paul-d1d221",
         "eid": "paul-cauthen-the-book-of-63dd",
         "track": "music",
-        "category": "",
+        "category": "Concert",
         "name": "Paul Cauthen: The Book of Paul Tour",
         "day": "Sat",
         "date": "2026-11-14",
         "time": "7:00PM",
-        "start": null,
+        "start": "19:00",
         "end": null,
-        "area": "San Francisco",
+        "area": "Castro",
         "venue": "The Castro",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "88 5th Street, San Francisco, CA 94103",
+        "why": "A big-voiced Texas country-soul showman in one of SF's most beautiful historic theaters.",
+        "summary": "Texas honky-tonk and soul singer Paul Cauthen brings The Book of Paul Tour to the Castro Theatre for a Saturday night show.",
         "promoter": "",
-        "price": "",
-        "tags": [],
+        "price": "From $45",
+        "tags": [
+          "americana",
+          "country",
+          "live",
+          "live music",
+          "soul",
+          "concert"
+        ],
         "sources": [
           {
             "url": "https://dothebay.com/events",
             "hidden": true
-          }
+          },
+          "https://dothebay.com/events/2026/11/14/paul-cauthen-the-wilder-blue-tickets",
+          "https://songkick.com/concerts/43294487-paul-cauthen-at-castro-theatre"
         ],
         "tickets": [],
         "maps": {
@@ -4484,31 +4517,36 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "https://api.party-scout.app/img/san-francisco/2026-11-09/paul-cauthen-the-book-of-2de7.jpg",
-        "image_generated": true,
+        "image": "https://api.party-scout.app/img/san-francisco/2026-11-09/paul-cauthen-the-book-of-63dd.jpg",
+        "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
         "id": "2026-11-09-music-qts-farius-queer-trance-party-45d4f1",
         "eid": "qts-farius-queer-trance-1711",
         "track": "music",
-        "category": "",
+        "category": "Nightclub",
         "name": "QTS: Farius' Queer Trance Party San Francisco",
         "day": "Sat",
         "date": "2026-11-14",
         "time": "9:00PM",
-        "start": null,
-        "end": null,
+        "start": "21:00",
+        "end": "03:00",
         "area": "San Francisco",
         "venue": "Public Works",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "161 Erie Street, San Francisco, CA 94103, United States",
+        "why": "For trance-driven queer dancefloor energy and a welcoming LGBTQ+ crowd.",
+        "summary": "A queer trance party in San Francisco on November 14, 2026, taking place at 161 Erie Street.",
         "promoter": "",
         "price": "$25+",
-        "tags": [],
+        "tags": [
+          "trance",
+          "queer",
+          "dance",
+          "dj"
+        ],
         "sources": [
           {
             "url": "https://dothebay.com/events",
@@ -4517,9 +4555,13 @@
           {
             "url": "https://19hz.info/eventlisting_BayArea.php",
             "hidden": true
-          }
+          },
+          "https://ra.co/events/2518015",
+          "https://dothebay.com/events/2026/11/14/qts-san-francisco-tickets"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://ra.co/events/2518015"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Public%20Works",
           "apple": "https://maps.apple.com/?q=Public%20Works"
@@ -4528,9 +4570,9 @@
         "coords_precise": false,
         "ra": {},
         "image": "https://api.party-scout.app/img/san-francisco/2026-11-09/qts-farius-queer-trance-1711.jpg",
-        "image_generated": true,
+        "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
