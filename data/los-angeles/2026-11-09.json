@@ -3282,25 +3282,31 @@
         "id": "2026-11-09-music-csw-aurora-halal-b2b-laurel-ha-4c1950",
         "eid": "csw-aurora-halal-b2b-lau-59cc",
         "track": "music",
-        "category": "",
+        "category": "Nightclub",
         "name": "CSW - Aurora Halal b2b Laurel Halo All Night",
         "day": "Fri",
         "date": "2026-11-13",
         "time": "22:00-04:00",
-        "start": null,
-        "end": null,
+        "start": "22:00",
+        "end": "04:00",
         "area": "Los Angeles",
         "venue": "TBA - Downtown",
         "address": "",
-        "why": "",
-        "summary": "",
+        "why": "For an extended back-to-back DJ set.",
+        "summary": "An all-night back-to-back DJ set at CSW featuring Aurora Halal b2b Laurel Halo.",
         "promoter": "",
         "price": "15 / 25 / 30 / 35",
-        "tags": [],
+        "tags": [
+          "dj",
+          "all-night",
+          "electronic"
+        ],
         "sources": [
           "https://ra.co/events/2559598"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://ra.co/events/2559598"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Los%20Angeles",
           "apple": "https://maps.apple.com/?q=Los%20Angeles"
@@ -3308,38 +3314,45 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/los-angeles/2026-11-09/csw-aurora-halal-b2b-lau-59cc.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
         "id": "2026-11-09-music-dale-howard-01df1a",
         "eid": "dale-howard-5899",
         "track": "music",
-        "category": "",
+        "category": "Concert",
         "name": "Dale Howard",
         "day": "Fri",
         "date": "2026-11-13",
         "time": "9pm-2am",
         "start": "21:00",
         "end": "02:00",
-        "area": "Los Angeles",
+        "area": "Costa Mesa",
         "venue": "2968 Randolph Avenue (Costa Mesa)",
         "address": "",
-        "why": "",
-        "summary": "",
-        "promoter": "",
+        "why": "A late house-music night from Loco Disco, a good pick if you want a dance floor south of LA.",
+        "summary": "Loco Disco presents house DJ Dale Howard in Costa Mesa, Friday 9pm–2am. 21+.",
+        "promoter": "Loco Disco",
         "price": "$9.99-29.99",
-        "tags": [],
+        "tags": [
+          "live",
+          "music",
+          "house",
+          "21+"
+        ],
         "sources": [
           {
             "url": "https://19hz.info/eventlisting_LosAngeles.php",
             "hidden": true
           }
         ],
-        "tickets": [],
+        "tickets": [
+          "https://shotgun.live/en/events/loco-disco-presents-dale-howard"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=2968%20Randolph%20Avenue%20%28Costa%20Mesa%29%2C%20Los%20Angeles",
           "apple": "https://maps.apple.com/?q=2968%20Randolph%20Avenue%20%28Costa%20Mesa%29%2C%20Los%20Angeles"
@@ -3347,10 +3360,10 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
-        "image_generated": false,
+        "image": "https://api.party-scout.app/img/los-angeles/2026-11-09/dale-howard-ecf6.jpg",
+        "image_generated": true,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
@@ -3384,8 +3397,7 @@
           {
             "url": "https://19hz.info/eventlisting_LosAngeles.php",
             "hidden": true
-          },
-          "https://ra.co/events/2507508"
+          }
         ],
         "tickets": [
           "https://ra.co/events/2507508"
@@ -3398,16 +3410,16 @@
         "coords_precise": false,
         "ra": {},
         "image": "https://api.party-scout.app/img/los-angeles/2026-11-09/dirty-epic-presents-aere-b49a.jpg",
-        "image_generated": true,
+        "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
         "id": "2026-11-09-music-electric-ave-ft-p2g-708ab4",
         "eid": "electric-ave-ft-p2g-585e",
         "track": "music",
-        "category": "",
+        "category": "Nightclub",
         "name": "Electric Ave Ft. P2G",
         "day": "Fri",
         "date": "2026-11-13",
@@ -3417,11 +3429,14 @@
         "area": "Los Angeles",
         "venue": "Los Globos (Los Angeles)",
         "address": "",
-        "why": "",
-        "summary": "",
+        "why": "To see P2G perform.",
+        "summary": "A Los Angeles event on November 13, 2026 billed as Electric Ave featuring P2G.",
         "promoter": "",
         "price": "",
-        "tags": [],
+        "tags": [
+          "live",
+          "dj"
+        ],
         "sources": [
           {
             "url": "https://19hz.info/eventlisting_LosAngeles.php",
@@ -3439,7 +3454,7 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
