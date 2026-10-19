@@ -3632,8 +3632,8 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
-        "image_generated": false,
+        "image": "https://api.party-scout.app/img/los-angeles/2026-11-09/mousse-t-7c70.jpg",
+        "image_generated": true,
         "popularity": 0,
         "enriched": 1,
         "active": true
@@ -3652,11 +3652,14 @@
         "area": "Los Angeles",
         "venue": "ORIGIN",
         "address": "",
-        "why": "",
-        "summary": "",
+        "why": "To check out a new LA event happening that evening.",
+        "summary": "Only Fire is scheduled for 2026-11-13 in Los Angeles; venue, time, and lineup details have not been provided.",
         "promoter": "",
         "price": "",
-        "tags": [],
+        "tags": [
+          "live",
+          "nightlife"
+        ],
         "sources": [
           {
             "url": "https://edmtrain.com/los-angeles-ca",
@@ -3674,7 +3677,7 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
@@ -3691,11 +3694,14 @@
         "area": "Los Angeles",
         "venue": "TBA (Los Angeles)",
         "address": "",
-        "why": "",
-        "summary": "",
+        "why": "For a night out in Los Angeles.",
+        "summary": "Signal4yr is scheduled in Los Angeles on November 13, 2026.",
         "promoter": "",
         "price": "$25 b4 12 / $30-60",
-        "tags": [],
+        "tags": [
+          "nightlife",
+          "party"
+        ],
         "sources": [
           {
             "url": "https://19hz.info/eventlisting_LosAngeles.php",
@@ -3703,7 +3709,9 @@
           },
           "https://ra.co/events/2538324"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://ra.co/events/2538324"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Los%20Angeles",
           "apple": "https://maps.apple.com/?q=Los%20Angeles"
@@ -3711,17 +3719,17 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/los-angeles/2026-11-09/signal4yr-fbc0.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
         "id": "2026-11-09-music-slipper-clutch-patio-sylknet-e-9b4554",
         "eid": "slipper-clutch-patio-syl-5250",
         "track": "music",
-        "category": "",
+        "category": "Concert",
         "name": "Slipper Clutch Patio: sylknet, E95",
         "day": "Fri",
         "date": "2026-11-13",
@@ -3731,11 +3739,19 @@
         "area": "Los Angeles",
         "venue": "Slipper Clutch (Los Angeles)",
         "address": "",
-        "why": "",
-        "summary": "",
+        "why": "A no-cover late-night electronic option in LA, listed on 19hz as part of Electric LA.",
+        "summary": "Free Friday-night electronic set on the Slipper Clutch patio, with sylknet and E95 on the bill, 10pm to 2am.",
         "promoter": "",
         "price": "free Electric La 2026/11/13",
-        "tags": [],
+        "tags": [
+          "outdoor",
+          "live",
+          "music",
+          "electronic",
+          "free",
+          "patio",
+          "late-night"
+        ],
         "sources": [
           {
             "url": "https://19hz.info/eventlisting_LosAngeles.php",
@@ -3753,35 +3769,48 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
         "id": "2026-11-09-music-vanished-crystal-castles-night-8becd7",
         "eid": "vanished-crystal-castles-d4ff",
         "track": "music",
-        "category": "",
+        "category": "Nightclub",
         "name": "Vanished: Crystal Castles Night / Vice City",
         "day": "Fri",
         "date": "2026-11-13",
         "time": "10pm-2am",
         "start": "22:00",
         "end": "02:00",
-        "area": "Los Angeles",
+        "area": "Hollywood",
         "venue": "Boardner's By La Belle (Los Angeles)",
-        "address": "",
-        "why": "",
-        "summary": "",
-        "promoter": "",
+        "address": "1652 N Cherokee Ave, Los Angeles, CA 90028",
+        "why": "A rare chance to hear Crystal Castles, Boy Harsher, Salem and The Knife-style club anthems all night in an indie-sleaze throwback.",
+        "summary": "Club Decades' Vanished night on the patio at Boardner's: Crystal Castles plus dark electronic, witch house, electroclash and indie sleaze, with immersive visuals. Doors 10 PM.",
+        "promoter": "Club Decades",
         "price": "$18.91-29.57",
-        "tags": [],
+        "tags": [
+          "electronic",
+          "synthwave",
+          "dj",
+          "21+",
+          "indie sleaze",
+          "witch house",
+          "electroclash",
+          "dark electronic",
+          "throwback"
+        ],
         "sources": [
           {
             "url": "https://19hz.info/eventlisting_LosAngeles.php",
             "hidden": true
-          }
+          },
+          "https://app.discotech.me/events/38241232-vanished-crystal-castles-night-at-boardners-club-decades"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://club-decades.com"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Boardner%27s%20By%20La%20Belle%20%28Los%20Angeles%29%2C%20Los%20Angeles",
           "apple": "https://maps.apple.com/?q=Boardner%27s%20By%20La%20Belle%20%28Los%20Angeles%29%2C%20Los%20Angeles"
@@ -3789,10 +3818,10 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/los-angeles/2026-11-09/vanished-crystal-castles-d4ff.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {

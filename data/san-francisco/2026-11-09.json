@@ -1491,21 +1491,26 @@
         "day": "Thu",
         "date": "2026-11-12",
         "time": "21:00",
-        "start": null,
-        "end": null,
-        "area": "",
+        "start": "21:00",
+        "end": "02:30",
+        "area": "SoMa",
         "venue": "DNA Lounge",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "375 Eleventh Street, San Francisco, CA 94103",
+        "why": "Affordable presale tickets and a central SoMa location.",
+        "summary": "Dennett is scheduled for November 12 at 375 Eleventh Street in San Francisco. Presale tickets are listed at $10–$25.",
         "promoter": "",
-        "price": "",
-        "tags": [],
+        "price": "$10-25 pre",
+        "tags": [
+          "ticketed",
+          "presale",
+          "soma"
+        ],
         "sources": [
           {
             "url": "https://19hz.info/eventlisting_BayArea.php",
             "hidden": true
-          }
+          },
+          "https://dothebay.com/events/2026/11/12/dennett-tickets"
         ],
         "tickets": [],
         "maps": {
@@ -1515,36 +1520,44 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/san-francisco/2026-11-09/dennett-c12c.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
         "id": "2026-11-09-music-ezra-collective-here-because-o-92c063",
         "eid": "ezra-collective-here-bec-c48d",
         "track": "music",
-        "category": "",
+        "category": "Concert",
         "name": "Ezra Collective - Here Because of Hope Tour",
         "day": "Thu",
         "date": "2026-11-12",
         "time": "9:00PM",
-        "start": null,
+        "start": "21:00",
         "end": null,
-        "area": "San Francisco",
+        "area": "SF",
         "venue": "Bimbo's 365 Club",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "88 5th Street, San Francisco, CA 94103",
+        "why": "Mercury Prize-winning UK jazz collective known for joyful, dance-floor-ready live sets blending Afrobeat, hip-hop and groove.",
+        "summary": "London jazz band Ezra Collective bring their Here Because of Hope tour to Bimbo's 365 Club in North Beach.",
         "promoter": "",
         "price": "",
-        "tags": [],
+        "tags": [
+          "jazz",
+          "live",
+          "tour",
+          "concert",
+          "live-music",
+          "afrobeat"
+        ],
         "sources": [
           {
             "url": "https://dothebay.com/events",
             "hidden": true
-          }
+          },
+          "https://dothebay.com/events/2026/11/12/ezra-collective-here-because-of-hope-tour-tickets"
         ],
         "tickets": [],
         "maps": {
@@ -1554,10 +1567,10 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/san-francisco/2026-11-09/ezra-collective-here-bec-c48d.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
@@ -5439,13 +5452,13 @@
         "eid": "crazy-karaoke-sf-s-wild-f320",
         "track": "music",
         "category": "Nightclub",
-        "name": "Crazy Karaoke: SF's Wild New Thursday Night Party",
+        "name": "Crazy Karaoke: SF’s Wild New Thursday Night Party",
         "day": "Thu",
         "date": "2026-11-12",
         "time": "9:00 pm",
         "start": "21:00",
         "end": "02:00",
-        "area": "San Francisco",
+        "area": "SF",
         "venue": "SF",
         "address": "1414 Market Street, San Francisco, CA",
         "why": "A lively chance to sing crowd favorites and turn a Thursday into a night out.",
@@ -5473,7 +5486,7 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/san-francisco/2026-11-09/crazy-karaoke-sf-s-wild-f320.jpg",
         "image_generated": false,
         "popularity": 0,
         "enriched": 1,
@@ -5888,26 +5901,36 @@
         "id": "2026-11-09-sports-flight-club-adult-flight-night-23329c",
         "eid": "flight-club-adult-flight-9380",
         "track": "sports",
-        "category": "",
+        "category": "Sports",
         "name": "Flight Club: Adult Flight Night (18+) at House of Air",
         "day": "Thu",
         "date": "2026-11-12",
         "time": "7:00 pm",
         "start": "19:00",
-        "end": null,
-        "area": "San Francisco",
+        "end": "21:00",
+        "area": "Presidio",
         "venue": "House of Air",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "926 Old Mason Street, San Francisco, CA",
+        "why": "A playful, low-key Thursday night out: bounce around a converted hangar with friends, no kids in the way.",
+        "summary": "House of Air opens its Presidio trampoline hangar to adults 18+ for an evening of open jumping, with the Walk the Wall rig and big foam pits.",
         "promoter": "",
         "price": "$20",
-        "tags": [],
+        "tags": [
+          "18+",
+          "trampoline",
+          "indoor",
+          "social",
+          "fitness",
+          "adults-only",
+          "active",
+          "thursday"
+        ],
         "sources": [
           {
             "url": "https://sf.funcheap.com/",
             "hidden": true
-          }
+          },
+          "https://sf.funcheap.com/flight-club-adult-flight-night-for-ages-18-at-house-of-air-trampoline-park-sf-64/"
         ],
         "tickets": [],
         "maps": {
@@ -5917,10 +5940,10 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/san-francisco/2026-11-09/flight-club-adult-flight-9380.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
