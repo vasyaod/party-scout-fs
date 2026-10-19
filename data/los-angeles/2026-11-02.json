@@ -4559,21 +4559,26 @@
         "id": "2026-11-02-music-boys-noize-b46a81",
         "eid": "boys-noize-02fb",
         "track": "music",
-        "category": "",
+        "category": "Nightclub",
         "name": "Boys Noize",
         "day": "Mon",
         "date": "2026-11-02",
         "time": "",
         "start": null,
         "end": null,
-        "area": "Los Angeles",
+        "area": "DTLA",
         "venue": "Grammy Museum LA",
         "address": "",
-        "why": "",
-        "summary": "",
+        "why": "A rare chance to catch a long-running electro and techno name in an intimate museum setting.",
+        "summary": "Boys Noize, the Berlin electronic producer and DJ, is listed for a Monday night at the Grammy Museum at L.A. Live in downtown Los Angeles.",
         "promoter": "",
         "price": "",
-        "tags": [],
+        "tags": [
+          "dj",
+          "electronic",
+          "dance",
+          "techno"
+        ],
         "sources": [
           {
             "url": "https://edmtrain.com/los-angeles-ca",
@@ -4591,7 +4596,7 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
@@ -4603,23 +4608,32 @@
         "day": "Fri",
         "date": "2026-11-06",
         "time": "21:00",
-        "start": null,
-        "end": null,
+        "start": "21:00",
+        "end": "02:00",
         "area": "Costa Mesa",
         "venue": "2968 Randolph Avenue",
         "address": "",
-        "why": "",
-        "summary": "",
+        "why": "A house-music headliner with a long club track record, playing a late Friday set (9pm–2am) in Orange County.",
+        "summary": "Lee Foss, the Repopulate Mars label founder, plays a deep and tech house night in Costa Mesa, presented by Loco Disco.",
         "promoter": "",
-        "price": "",
-        "tags": [],
+        "price": "$23–$57",
+        "tags": [
+          "dj",
+          "paid",
+          "house",
+          "tech house",
+          "deep house"
+        ],
         "sources": [
           {
             "url": "https://19hz.info/eventlisting_LosAngeles.php",
             "hidden": true
-          }
+          },
+          "https://shotgun.live/en/events/loco-disco-presents-lee-foss-repopulate-mars"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://shotgun.live/en/events/loco-disco-presents-lee-foss-repopulate-mars"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=2968%20Randolph%20Avenue%2C%20Costa%20Mesa",
           "apple": "https://maps.apple.com/?q=2968%20Randolph%20Avenue%2C%20Costa%20Mesa"
@@ -4627,10 +4641,10 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
-        "image_generated": false,
+        "image": "https://api.party-scout.app/img/los-angeles/2026-11-02/lee-foss-8a76.jpg",
+        "image_generated": true,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
