@@ -4584,20 +4584,28 @@
         "day": "Sat",
         "date": "2026-11-14",
         "time": "21:00-03:00",
-        "start": null,
-        "end": null,
+        "start": "21:00",
+        "end": "03:00",
         "area": "San Francisco",
         "venue": "Public Works",
         "address": "161 Erie Street, San Francisco, CA 94103, United States",
-        "why": "",
-        "summary": "",
+        "why": "For a night out in San Francisco on that date.",
+        "summary": "QTS: San Francisco is an event scheduled in San Francisco on November 14, 2026.",
         "promoter": "",
         "price": "$30-55",
-        "tags": [],
+        "tags": [
+          "dj",
+          "dance",
+          "21+",
+          "nightlife"
+        ],
         "sources": [
+          "https://ra.co/events/2518015",
+          "https://dothebay.com/events/2026/11/14/qts-san-francisco-tickets"
+        ],
+        "tickets": [
           "https://ra.co/events/2518015"
         ],
-        "tickets": [],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=161%20Erie%20Street%2C%20San%20Francisco%2C%20CA%2094103%2C%20United%20States",
           "apple": "https://maps.apple.com/?q=161%20Erie%20Street%2C%20San%20Francisco%2C%20CA%2094103%2C%20United%20States"
@@ -4608,7 +4616,7 @@
         "image": "https://images.ra.co/d44c3570ad81fe70240507ee9ad17ca12859534a.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true,
         "lineup": [
           {
@@ -4621,28 +4629,37 @@
         "id": "2026-11-09-music-regal86-1oo1o-bad-juuju-b2b-sk-76e24b",
         "eid": "regal86-1oo1o-bad-juuju-bbbd",
         "track": "music",
-        "category": "",
+        "category": "Nightclub",
         "name": "Regal86, 1oo1o, BAD JUUJU b2b Skiis, Julia Rose, NATHALIA, Saffaire, S.I.M, DJ IWORI",
         "day": "Sat",
         "date": "2026-11-14",
         "time": "21:00",
-        "start": null,
-        "end": null,
-        "area": "",
+        "start": "21:00",
+        "end": "03:00",
+        "area": "SoMa",
         "venue": "Monarch",
-        "address": "",
-        "why": "",
-        "summary": "",
-        "promoter": "",
-        "price": "",
-        "tags": [],
+        "address": "101 6th St, San Francisco, CA 94103",
+        "why": "A stacked eight-DJ techno bill from the Mostly Cloudy crew at one of SoMa's best club rooms.",
+        "summary": "Mostly Cloudy brings a techno night to Monarch with Regal86, 1oo1o, BAD JUUJU b2b Skiis, Julia Rose, NATHALIA, Saffaire, S.I.M and DJ IWORI. 9pm–3am, 21+.",
+        "promoter": "Cafeconpostre, Mostly Cloudy",
+        "price": "$13.55 b4 10 / $23-28.25",
+        "tags": [
+          "dj",
+          "electronic",
+          "21+",
+          "dance",
+          "techno",
+          "club"
+        ],
         "sources": [
           {
             "url": "https://19hz.info/eventlisting_BayArea.php",
             "hidden": true
           }
         ],
-        "tickets": [],
+        "tickets": [
+          "https://ra.co/events/2537001"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Monarch",
           "apple": "https://maps.apple.com/?q=Monarch"
@@ -4653,33 +4670,42 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
         "id": "2026-11-09-music-rhye-joy-tour-5f41b0",
         "eid": "rhye-joy-tour-a15e",
         "track": "music",
-        "category": "",
+        "category": "Concert",
         "name": "Rhye: Joy Tour",
         "day": "Sat",
         "date": "2026-11-14",
         "time": "7:00PM",
-        "start": null,
+        "start": "19:00",
         "end": null,
-        "area": "San Francisco",
+        "area": "SoMa",
         "venue": "The Warfield",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "88 5th Street, San Francisco, CA 94103",
+        "why": "Silky, intimate downtempo soul in one of SF's grandest historic theaters.",
+        "summary": "Rhye brings the Joy Tour to The Warfield: falsetto vocals, lush piano and analog synths from the Woman-era soul project.",
         "promoter": "",
         "price": "",
-        "tags": [],
+        "tags": [
+          "r&b",
+          "indie",
+          "live",
+          "live music",
+          "soul",
+          "concert"
+        ],
         "sources": [
           {
             "url": "https://dothebay.com/events",
             "hidden": true
-          }
+          },
+          "https://dothebay.com/events/2026/11/14/rhye-tickets",
+          "https://www.thewarfieldtheatre.com/events/detail/1468105"
         ],
         "tickets": [],
         "maps": {
@@ -4689,36 +4715,40 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "https://api.party-scout.app/img/san-francisco/2026-11-09/rhye-joy-tour-47de.jpg",
-        "image_generated": true,
+        "image": "https://api.party-scout.app/img/san-francisco/2026-11-09/rhye-joy-tour-a15e.jpg",
+        "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
         "id": "2026-11-09-music-sara-landry-w-alt8-sim0ne-alex-169eb4",
         "eid": "sara-landry-w-alt8-sim0n-079c",
         "track": "music",
-        "category": "",
+        "category": "Concert",
         "name": "Sara Landry w/ Alt8, Sim0ne, Alex Farell, Miss Crafty",
         "day": "Sat",
         "date": "2026-11-14",
         "time": "20:00",
-        "start": null,
+        "start": "20:00",
         "end": null,
-        "area": "",
+        "area": "SF",
         "venue": "Shed A At Pier 48",
         "address": "",
-        "why": "",
-        "summary": "",
+        "why": "For a multi-act live music bill in San Francisco.",
+        "summary": "Sara Landry performs with Alt8, Sim0ne, Alex Farell, and Miss Crafty on 2026-11-14. Tickets are $86–$97.",
         "promoter": "",
-        "price": "",
-        "tags": [],
+        "price": "$86–$97",
+        "tags": [
+          "live",
+          "ticketed"
+        ],
         "sources": [
           {
             "url": "https://19hz.info/eventlisting_BayArea.php",
             "hidden": true
-          }
+          },
+          "https://dothebay.com/events/2026/11/14/sara-landry-w-alt8-sim0ne-alex-farell-miss-crafty"
         ],
         "tickets": [],
         "maps": {
@@ -4728,10 +4758,10 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/san-francisco/2026-11-09/sara-landry-w-alt8-sim0n-079c.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
@@ -4743,21 +4773,26 @@
         "day": "Sat",
         "date": "2026-11-14",
         "time": "9:00PM",
-        "start": null,
+        "start": "21:00",
         "end": null,
         "area": "San Francisco",
         "venue": "The Independent",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "88 5th Street, San Francisco, CA 94103",
+        "why": "To catch a live performance in SoMa.",
+        "summary": "Sean Hayes is scheduled to perform at 88 5th Street in San Francisco on November 14, 2026.",
         "promoter": "",
         "price": "",
-        "tags": [],
+        "tags": [
+          "live",
+          "show",
+          "sf"
+        ],
         "sources": [
           {
             "url": "https://dothebay.com/events",
             "hidden": true
-          }
+          },
+          "https://dothebay.com/events/2026/11/14/sean-hayes-tickets"
         ],
         "tickets": [],
         "maps": {
@@ -4767,10 +4802,10 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "https://api.party-scout.app/img/san-francisco/2026-11-09/sean-hayes-bb27.jpg",
-        "image_generated": true,
+        "image": "https://api.party-scout.app/img/san-francisco/2026-11-09/sean-hayes-02f5.jpg",
+        "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
