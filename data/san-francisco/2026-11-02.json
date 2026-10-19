@@ -5,7 +5,7 @@
   "location": "San Francisco & Bay Area",
   "city": "san-francisco",
   "city_label": "San Francisco",
-  "generated_at": "2026-10-14",
+  "generated_at": "2026-10-19",
   "tracks": {
     "music": [
       {
@@ -6526,7 +6526,8 @@
           "house",
           "21+",
           "warehouse",
-          "late-night"
+          "late-night",
+          "dance"
         ],
         "sources": [
           "https://ra.co/events/2557336"
@@ -6561,7 +6562,7 @@
         "end": null,
         "area": "SF",
         "venue": "Brick & Mortar Music Hall",
-        "address": "",
+        "address": "1710 Mission St, San Francisco, CA",
         "why": "For an evening out in the city with a set ticket price.",
         "summary": "A ticketed San Francisco event on 2026-11-07 at 9pm titled \"Supertaste, 3kelves\" with $28 admission.",
         "promoter": "",
@@ -6569,13 +6570,19 @@
         "tags": [
           "ticketed",
           "nightlife",
-          "sf"
+          "sf",
+          "evening",
+          "live music"
         ],
-        "sources": [],
-        "tickets": [],
+        "sources": [
+          "https://www.brickandmortarmusic.com/tm-event/supertaste/"
+        ],
+        "tickets": [
+          "https://www.ticketweb.com/event/supertaste-3kelves-brick-and-mortar-music-hall-tickets/14244524"
+        ],
         "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=Brick%20And%20Mortar%20Music%20Hall%20%28San%20Francisco%29",
-          "apple": "https://maps.apple.com/?q=Brick%20And%20Mortar%20Music%20Hall%20%28San%20Francisco%29"
+          "google": "https://www.google.com/maps/search/?api=1&query=SF",
+          "apple": "https://maps.apple.com/?q=SF"
         },
         "coords": null,
         "coords_precise": false,
@@ -6607,85 +6614,7 @@
         "tags": [
           "dj",
           "electronic",
-          "dance"
-        ],
-        "sources": [],
-        "tickets": [],
-        "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=Bottom%20Of%20The%20Hill%20%28San%20Francisco%29",
-          "apple": "https://maps.apple.com/?q=Bottom%20Of%20The%20Hill%20%28San%20Francisco%29"
-        },
-        "coords": null,
-        "coords_precise": false,
-        "ra": {},
-        "image": "https://party-scout.app/img/gen/sha-ray-dj-haram-f7c7.jpg",
-        "image_generated": true,
-        "popularity": 0,
-        "enriched": 1,
-        "active": true
-      },
-      {
-        "id": "2026-11-02-music-supertaste-887566",
-        "eid": "supertaste-c68e",
-        "track": "music",
-        "category": "",
-        "name": "Supertaste",
-        "day": "Sat",
-        "date": "2026-11-07",
-        "time": "9pm",
-        "start": "21:00",
-        "end": null,
-        "area": "Mission",
-        "venue": "Brick & Mortar Music Hall",
-        "address": "1710 Mission St, San Francisco, CA",
-        "why": "A live band night at a Mission District music hall.",
-        "summary": "Supertaste plays Brick & Mortar Music Hall in the Mission on Saturday, November 7, 2026, with 3kelves; doors for a 9pm show, tickets $28.",
-        "promoter": "",
-        "price": "$28",
-        "tags": [
-          "nightlife",
-          "ticketed",
-          "evening",
-          "live music"
-        ],
-        "sources": [
-          "https://www.brickandmortarmusic.com/tm-event/supertaste/"
-        ],
-        "tickets": [
-          "https://www.ticketweb.com/event/supertaste-3kelves-brick-and-mortar-music-hall-tickets/14244524"
-        ],
-        "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=SF",
-          "apple": "https://maps.apple.com/?q=SF"
-        },
-        "coords": null,
-        "coords_precise": false,
-        "ra": {},
-        "image": "https://party-scout.app/img/gen/supertaste-576e.jpg",
-        "image_generated": false,
-        "popularity": 0,
-        "enriched": 1,
-        "active": true
-      },
-      {
-        "id": "2026-11-02-music-sha-ray-8a700d",
-        "eid": "sha-ray-ba73",
-        "track": "music",
-        "category": "",
-        "name": "Sha Ray",
-        "day": "Sun",
-        "date": "2026-11-08",
-        "time": "7–11pm",
-        "start": "19:00",
-        "end": "23:00",
-        "area": "SF",
-        "venue": "",
-        "address": "",
-        "why": "Good for a reasonably priced, early-evening outing in the city.",
-        "summary": "Sha Ray is happening in San Francisco on November 8, 2026, from 7–11pm; tickets are $34.",
-        "promoter": "",
-        "price": "$34",
-        "tags": [
+          "dance",
           "ticketed",
           "evening",
           "live",
@@ -6700,51 +6629,8 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
-        "image_generated": false,
-        "popularity": 0,
-        "enriched": 1,
-        "active": true
-      },
-      {
-        "id": "2026-11-02-music-adriatique-d6b13b",
-        "eid": "adriatique-1afe",
-        "track": "music",
-        "category": "Nightclub",
-        "name": "Adriatique",
-        "day": "Fri",
-        "date": "2026-11-06",
-        "time": "10pm–2am",
-        "start": "22:00",
-        "end": "02:00",
-        "area": "SoMa",
-        "venue": "",
-        "address": "900 Marin Street, San Francisco, CA 94124",
-        "why": "For a late-night dance outing in SoMa.",
-        "summary": "Adriatique is scheduled at 900 Marin Street in San Francisco on November 6, 2026, from 10pm–2am.",
-        "promoter": "",
-        "price": "",
-        "tags": [
-          "dj",
-          "electronic",
-          "late-night",
-          "dance"
-        ],
-        "sources": [
-          "https://ra.co/events/2557336"
-        ],
-        "tickets": [
-          "https://ra.co/events/2557336"
-        ],
-        "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=900%20Marin%20Street%2C%20San%20Francisco%2C%20CA%2094124",
-          "apple": "https://maps.apple.com/?q=900%20Marin%20Street%2C%20San%20Francisco%2C%20CA%2094124"
-        },
-        "coords": null,
-        "coords_precise": false,
-        "ra": {},
-        "image": "https://party-scout.app/img/gen/adriatique-12b4.jpg",
-        "image_generated": false,
+        "image": "https://party-scout.app/img/gen/sha-ray-dj-haram-f7c7.jpg",
+        "image_generated": true,
         "popularity": 0,
         "enriched": 1,
         "active": true
