@@ -15447,7 +15447,7 @@
         "id": "2026-10-26-music-blackandwhitesound-presents-ja-7e8855",
         "eid": "blackandwhitesound-prese-bffd",
         "track": "music",
-        "category": "Concert",
+        "category": "Nightclub",
         "name": "BlackandWhitesound presents Jay Tripwire and Tho",
         "day": "Fri",
         "date": "2026-10-30",
@@ -15483,7 +15483,8 @@
           }
         ],
         "tickets": [
-          "https://ra.co/events/2524575"
+          "https://ra.co/events/2524575",
+          "https://ra.co/events/us/sanfrancisco"
         ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=San%20Francisco",
@@ -15492,31 +15493,37 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "https://party-scout.app/img/gen/jay-tripwire-tho-justin-4467.jpg",
-        "image_generated": true,
+        "image": "https://api.party-scout.app/img/san-francisco/2026-10-26/blackandwhitesound-prese-bffd.jpg",
+        "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
         "id": "2026-10-26-music-city-creatures-pest-art-pop-up-d4f154",
         "eid": "city-creatures-pest-art-a135",
         "track": "music",
-        "category": "",
+        "category": "Market",
         "name": "City Creatures: Pest Art Pop-Up (SF)",
         "day": "Fri",
         "date": "2026-10-30",
-        "time": "14:00",
-        "start": null,
-        "end": null,
-        "area": "San Francisco",
-        "venue": "",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "time": "2pm–11pm",
+        "start": "14:00",
+        "end": "23:00",
+        "area": "SoMa",
+        "venue": "Terra Gallery",
+        "address": "511 Harrison Street, San Francisco, CA",
+        "why": "Free afternoon entry to a one-day gallery show built around a striking bug-and-city poster, with an evening fundraiser for after work.",
+        "summary": "A pest-themed art pop-up at Terra Gallery: a free open house from 2–6 PM, then a 6–11 PM evening fundraiser in support of the USF Gellert Family Business Center.",
         "promoter": "",
-        "price": "",
-        "tags": [],
+        "price": "Free",
+        "tags": [
+          "art",
+          "pop-up",
+          "free",
+          "gallery",
+          "exhibition"
+        ],
         "sources": [
           "https://sf.funcheap.com/city-creatures-pest-art-popup-sf/"
         ],
@@ -15528,38 +15535,47 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/san-francisco/2026-10-26/city-creatures-pest-art-a135.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
         "id": "2026-10-26-music-city-of-reggaeton-halloween-ev-0b3154",
         "eid": "city-of-reggaeton-hallow-6b13",
         "track": "music",
-        "category": "",
+        "category": "Nightclub",
         "name": "City of Reggaeton: Halloween Eve — San Francisco",
         "day": "Fri",
         "date": "2026-10-30",
         "time": "9:30 PM",
         "start": "21:30",
-        "end": null,
+        "end": "02:00",
         "area": "San Francisco",
         "venue": "Roccapulco, Mission Street, San Francisco, CA, USA",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "540 Howard St., San Francisco, CA 94105, United States",
+        "why": "To dance to reggaeton beats and celebrate Halloween with a lively crowd.",
+        "summary": "Reggaeton-themed Halloween Eve event on October 30, 2026, at 540 Howard St. in San Francisco. Tickets are $18.",
         "promoter": "",
-        "price": "",
-        "tags": [],
+        "price": "$18",
+        "tags": [
+          "reggaeton",
+          "dj",
+          "halloween",
+          "ticketed"
+        ],
         "sources": [
           {
             "url": "https://www.eventbrite.com/d/ca--san-francisco/",
             "hidden": true
-          }
+          },
+          "https://ra.co/events/2557522"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://www.eventbrite.com/d/ca--san-francisco/",
+          "https://ra.co/events/2557522"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Roccapulco%2C%20Mission%20Street%2C%20San%20Francisco%2C%20CA%2C%20USA%2C%20San%20Francisco",
           "apple": "https://maps.apple.com/?q=Roccapulco%2C%20Mission%20Street%2C%20San%20Francisco%2C%20CA%2C%20USA%2C%20San%20Francisco"
@@ -15567,31 +15583,35 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/san-francisco/2026-10-26/city-of-reggaeton-hallow-6b13.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
         "id": "2026-10-26-music-club-darc-season-2-08b986",
         "eid": "club-darc-season-2-5252",
         "track": "music",
-        "category": "",
+        "category": "Nightclub",
         "name": "Club Darc: Season 2",
         "day": "Fri",
         "date": "2026-10-30",
         "time": "8:00PM",
         "start": "20:00",
         "end": null,
-        "area": "San Francisco",
+        "area": "SF",
         "venue": "Shed A at Pier 48",
         "address": "",
-        "why": "",
-        "summary": "",
+        "why": "For a Halloween‑weekend night out in San Francisco.",
+        "summary": "Club Darc: Season 2 is a club night in San Francisco on October 30, 2026. Venue details were not provided.",
         "promoter": "",
         "price": "",
-        "tags": [],
+        "tags": [
+          "club",
+          "nightlife",
+          "party"
+        ],
         "sources": [
           {
             "url": "https://dothebay.com/events/2026/10/17/club-darc-season-2-tickets",
@@ -15606,10 +15626,10 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/san-francisco/2026-10-26/club-darc-season-2-5252.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
@@ -15621,23 +15641,28 @@
         "day": "Fri",
         "date": "2026-10-30",
         "time": "21:00",
-        "start": null,
-        "end": null,
+        "start": "21:00",
+        "end": "02:00",
         "area": "San Francisco",
         "venue": "Underground SF",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "424 Haight St, San Francisco, CA 94117, United States",
+        "why": "To attend a ticketed Oct 30 nightlife event with entry from $17.",
+        "summary": "FIXED GLOSS presents BEHIND THE IRON GATE on October 30, 2026 at 424 Haight St in San Francisco. Tickets start at $17+.",
         "promoter": "",
-        "price": "",
-        "tags": [],
+        "price": "$17+",
+        "tags": [
+          "ticketed",
+          "haight-ashbury"
+        ],
         "sources": [
           {
             "url": "https://ra.co/events/2530431",
             "hidden": true
           }
         ],
-        "tickets": [],
+        "tickets": [
+          "https://ra.co/events/2530431"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Underground%20SF%2C%20San%20Francisco",
           "apple": "https://maps.apple.com/?q=Underground%20SF%2C%20San%20Francisco"
@@ -15645,10 +15670,10 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/san-francisco/2026-10-26/fixed-gloss-presents-705e.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
@@ -20193,16 +20218,23 @@
         "day": "Fri",
         "date": "2026-10-30",
         "time": "15:00",
-        "start": null,
-        "end": null,
-        "area": "San Francisco",
-        "venue": "",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "start": "15:00",
+        "end": "21:30",
+        "area": "Outer Sunset",
+        "venue": "Ocean Beach Fire Pits",
+        "address": "Ocean Beach Fire Pits, San Francisco, CA",
+        "why": "Free and the final chance of 2026 for a classic SF beach bonfire.",
+        "summary": "Last weekend of the season to use the free fire pits at Ocean Beach, open 3–9:30pm. Bring wood, friends and a blanket for a bonfire by the Pacific.",
         "promoter": "",
-        "price": "",
-        "tags": [],
+        "price": "Free",
+        "tags": [
+          "free",
+          "outdoor",
+          "beach",
+          "community",
+          "bonfire",
+          "outdoors"
+        ],
         "sources": [
           "https://sf.funcheap.com/final-weekend-of-ocean-beach-bonfires-for-2023-ends-oct-31-3/"
         ],
@@ -20214,10 +20246,10 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/san-francisco/2026-10-26/final-weekend-of-ocean-b-6afc.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
