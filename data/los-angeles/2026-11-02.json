@@ -4651,28 +4651,39 @@
         "id": "2026-11-02-music-ms-lauryn-hill-wyclef-jean-cel-1738d7",
         "eid": "ms-lauryn-hill-wyclef-je-3787",
         "track": "music",
-        "category": "",
+        "category": "Concert",
         "name": "Ms. Lauryn Hill & Wyclef Jean: Celebrating 30 years of The Score",
         "day": "Sun",
         "date": "2026-11-08",
         "time": "19:30",
         "start": null,
         "end": null,
-        "area": "Los Angeles",
+        "area": "Hollywood",
         "venue": "Hollywood Bowl",
         "address": "",
-        "why": "",
-        "summary": "",
+        "why": "A rare Fugees reunion performing a landmark hip-hop album front to back, under the stars at LA's most iconic amphitheater.",
+        "summary": "Lauryn Hill and Wyclef Jean reunite at the Hollywood Bowl to mark 30 years of the Fugees' 1996 classic The Score, with its hits Ready or Not, Fu-Gee-La and Killing Me Softly.",
         "promoter": "",
-        "price": "",
-        "tags": [],
+        "price": "From ~$80 (resale)",
+        "tags": [
+          "hip-hop",
+          "90s",
+          "live",
+          "legacy",
+          "r&b",
+          "fugees",
+          "hollywood-bowl"
+        ],
         "sources": [
           {
             "url": "https://www.hollywoodbowl.com/events/performances",
             "hidden": true
-          }
+          },
+          "https://www.livenation.com/event/vvG1iZ_8uiKsbN/ms-lauryn-hill-wyclef-jean-celebrating-30-years-of-the-score"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://www.livenation.com/event/vvG1iZ_8uiKsbN/ms-lauryn-hill-wyclef-jean-celebrating-30-years-of-the-score"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Hollywood%20Bowl%2C%20Los%20Angeles",
           "apple": "https://maps.apple.com/?q=Hollywood%20Bowl%2C%20Los%20Angeles"
@@ -4680,11 +4691,12 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/los-angeles/2026-11-02/ms-lauryn-hill-wyclef-je-3787.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
-        "active": true
+        "enriched": 1,
+        "active": true,
+        "lineup": []
       }
     ],
     "sports": [
