@@ -15959,26 +15959,35 @@
         "id": "2026-10-26-music-jt-parr-5f5b16",
         "eid": "jt-parr-8c86",
         "track": "music",
-        "category": "",
+        "category": "comedy",
         "name": "JT Parr",
         "day": "Fri",
         "date": "2026-10-30",
         "time": "7:00PM",
         "start": "19:00",
         "end": null,
-        "area": "San Francisco",
+        "area": "North Beach",
         "venue": "Cobb's Comedy Club",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "915 Columbus Ave, San Francisco, CA 94133",
+        "why": "A one-night stand-up headliner in a historic North Beach comedy room, with doors at 7pm and an 18+ crowd.",
+        "summary": "Comedian JT Parr headlines a Friday-night stand-up show at Cobb's Comedy Club in North Beach.",
         "promoter": "",
         "price": "",
-        "tags": [],
+        "tags": [
+          "live",
+          "music",
+          "comedy",
+          "stand-up",
+          "north-beach",
+          "18+"
+        ],
         "sources": [
           "https://dothebay.com/events/2026/10/30/jt-parr-tickets",
           "https://dothebay.com/events/2026/10/30/jt-parr-tickets-mmq1kre"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://www.ticketmaster.com/jt-parr-san-francisco-california-10-30-2026/event/1C0064E70285A12D"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Cobb%27s%20Comedy%20Club%2C%20San%20Francisco",
           "apple": "https://maps.apple.com/?q=Cobb%27s%20Comedy%20Club%2C%20San%20Francisco"
@@ -15986,10 +15995,10 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/san-francisco/2026-10-26/jt-parr-8c86.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
@@ -16002,15 +16011,22 @@
         "date": "2026-10-30",
         "time": "6:00PM",
         "start": "18:00",
-        "end": null,
-        "area": "San Francisco",
+        "end": "22:00",
+        "area": "Golden Gate Park",
         "venue": "de Young Museum",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "50 Hagiwara Tea Garden Drive, San Francisco, CA 94118",
+        "why": "Dress up and dance among the museum's galleries the night before Halloween.",
+        "summary": "A 21+ Halloween-eve night at the de Young Museum with DJs, costumes and after-hours access to Treasures of the Pharaohs.",
         "promoter": "",
-        "price": "",
-        "tags": [],
+        "price": "$45 GA / $95 VIP",
+        "tags": [
+          "halloween",
+          "holiday",
+          "nightlife",
+          "museum",
+          "dj",
+          "21+"
+        ],
         "sources": [
           "https://dothebay.com/events/2026/10/30/late-night-editions-halloween-eve-tickets"
         ],
@@ -16022,35 +16038,45 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/san-francisco/2026-10-26/late-night-editions-hall-7159.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
         "id": "2026-10-26-music-let-the-poets-speak-a-celebrat-08a93d",
         "eid": "let-the-poets-speak-a-ce-8560",
         "track": "music",
-        "category": "",
+        "category": "Concert",
         "name": "Let the Poets Speak: A Celebration of Philip Glass + Allen Ginsberg",
         "day": "Fri",
         "date": "2026-10-30",
         "time": "7:30PM",
         "start": "19:30",
         "end": null,
-        "area": "San Francisco",
+        "area": "Stanford",
         "venue": "Bing Concert Hall",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "327 Lasuen Street, Stanford, CA 94305",
+        "why": "A rare one-night tribute pairing Glass's minimalism with Beat poetry, in one of the Bay Area's best-sounding halls.",
+        "summary": "Stanford Live marks Philip Glass's 90th birthday and Allen Ginsberg's centennial with Glass's poem settings, performed by pianist Timo Andres, Taylor Mac and the San Francisco Girls Chorus at Bing Concert Hall.",
         "promoter": "",
         "price": "",
-        "tags": [],
-        "sources": [
-          "https://dothebay.com/events/2026/10/30/let-the-poets-speak-a-celebration-of-philip-glass-and-allen-ginsberg-tickets"
+        "tags": [
+          "classical",
+          "poetry",
+          "spoken-word",
+          "live",
+          "Philip Glass",
+          "Stanford"
         ],
-        "tickets": [],
+        "sources": [
+          "https://dothebay.com/events/2026/10/30/let-the-poets-speak-a-celebration-of-philip-glass-and-allen-ginsberg-tickets",
+          "https://live.stanford.edu/events/26-27season/bing-concert-hall/let-the-poets-speak/"
+        ],
+        "tickets": [
+          "https://live.stanford.edu/events/26-27season/bing-concert-hall/let-the-poets-speak/"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Bing%20Concert%20Hall%2C%20San%20Francisco",
           "apple": "https://maps.apple.com/?q=Bing%20Concert%20Hall%2C%20San%20Francisco"
@@ -16058,11 +16084,12 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/san-francisco/2026-10-26/let-the-poets-speak-a-ce-8560.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
-        "active": true
+        "enriched": 1,
+        "active": true,
+        "lineup": []
       },
       {
         "id": "2026-10-26-music-mo-welch-d776da",
@@ -20353,23 +20380,29 @@
         "id": "2026-10-26-sports-mission-rock-fall-friday-night-f33283",
         "eid": "mission-rock-fall-friday-c083",
         "track": "sports",
-        "category": "",
+        "category": "Film",
         "name": "Mission Rock Fall Friday Night Movies – Coco (China Basin Park)",
         "day": "Fri",
         "date": "2026-10-30",
         "time": "18:30",
-        "start": null,
-        "end": null,
+        "start": "18:30",
+        "end": "21:30",
         "area": "San Francisco",
-        "venue": "",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "venue": "China Basin Park",
+        "address": "1 China Basin Park, San Francisco, CA",
+        "why": "A relaxed, free outdoor movie night perfect for families and friends.",
+        "summary": "Outdoor screening of the film Coco at China Basin Park on October 30, 2026. Free admission.",
         "promoter": "",
-        "price": "",
-        "tags": [],
+        "price": "Free",
+        "tags": [
+          "free",
+          "outdoor",
+          "film",
+          "family"
+        ],
         "sources": [
-          "https://sf.funcheap.com/mission-rock-fall-friday-night-movies-coco-china-basin-park/"
+          "https://sf.funcheap.com/mission-rock-fall-friday-night-movies-coco-china-basin-park/",
+          "https://dothebay.com/events/2026/10/30/mission-rock-fall-friday-night-movies-coco-tickets"
         ],
         "tickets": [],
         "maps": {
@@ -20382,7 +20415,7 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
