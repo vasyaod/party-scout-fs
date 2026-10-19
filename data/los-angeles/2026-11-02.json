@@ -3505,25 +3505,32 @@
         "id": "2026-11-02-music-sofia-gomez-4f5bd6",
         "eid": "sofia-gomez-7510",
         "track": "music",
-        "category": "",
+        "category": "Concert",
         "name": "Sofia Gomez",
         "day": "Wed",
         "date": "2026-11-04",
         "time": "20:00",
-        "start": null,
-        "end": null,
-        "area": "Los Angeles",
+        "start": "20:00",
+        "end": "02:00",
+        "area": "DTLA",
         "venue": "The Redwood Bar And Grill",
         "address": "316 W. 2nd Street, Los Angeles, CA  90012",
-        "why": "",
-        "summary": "",
+        "why": "A midweek downtown dive-bar night with a late 2am finish.",
+        "summary": "Sofia Gomez plays The Redwood Bar and Grill in downtown LA on a Wednesday night, 8pm to 2am.",
         "promoter": "",
         "price": "",
-        "tags": [],
+        "tags": [
+          "live",
+          "music",
+          "dtla",
+          "dive-bar"
+        ],
         "sources": [
           "https://ra.co/events/2564264"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://ra.co/events/2564264"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=The%20Redwood%20Bar%20And%20Grill",
           "apple": "https://maps.apple.com/?q=The%20Redwood%20Bar%20And%20Grill"
@@ -3534,28 +3541,38 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
         "id": "2026-11-02-music-soundscapes-from-space-robot-s-475550",
         "eid": "soundscapes-from-space-r-6b1a",
         "track": "music",
-        "category": "",
+        "category": "Concert",
         "name": "Soundscapes From Space: Robot Sunrise, Turbo Goth, Los Vamps + DJ Vox Sinistra",
         "day": "Wed",
         "date": "2026-11-04",
         "time": "20:00",
-        "start": null,
+        "start": "20:00",
         "end": null,
-        "area": "",
+        "area": "Los Angeles",
         "venue": "The Slipper Clutch (Los Angeles)",
         "address": "",
-        "why": "",
-        "summary": "",
+        "why": "Free entry and a stacked post-punk and synth bill make this an easy midweek pick for goth and darkwave fans.",
+        "summary": "A free Wednesday night of darkwave, goth and synth-driven live bands at The Slipper Clutch, with Robot Sunrise, Turbo Goth and Los Vamps, plus DJ Vox Sinistra spinning between sets.",
         "promoter": "",
         "price": "free",
-        "tags": [],
+        "tags": [
+          "electronic",
+          "alternative",
+          "live",
+          "dj",
+          "darkwave",
+          "goth",
+          "post-punk",
+          "live band",
+          "free"
+        ],
         "sources": [
           {
             "url": "https://19hz.info/eventlisting_LosAngeles.php",
@@ -3573,7 +3590,7 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
@@ -3585,20 +3602,25 @@
         "day": "Thu",
         "date": "2026-11-05",
         "time": "19:00",
-        "start": null,
-        "end": null,
+        "start": "19:00",
+        "end": "01:00",
         "area": "Los Angeles",
         "venue": "The Airliner",
         "address": "2419 N Broadway, Los Angeles, CA 90036",
         "why": "",
-        "summary": "",
+        "summary": "Dazegxd takes place November 5, 2026 at 2419 N Broadway in Los Angeles.",
         "promoter": "",
         "price": "20",
-        "tags": [],
+        "tags": [
+          "music",
+          "nightlife"
+        ],
         "sources": [
           "https://ra.co/events/2562702"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://ra.co/events/2562702"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=The%20Airliner",
           "apple": "https://maps.apple.com/?q=The%20Airliner"
@@ -3606,10 +3628,10 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "https://images.ra.co/f4638dba8b9fb1b9e78cc0e4f8835c18edef7b99.jpg",
+        "image": "https://api.party-scout.app/img/los-angeles/2026-11-02/dazegxd-a193.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true,
         "lineup": [
           {
@@ -3626,49 +3648,61 @@
         "day": "Fri",
         "date": "2026-11-06",
         "time": "22:00",
-        "start": null,
-        "end": null,
+        "start": "22:00",
+        "end": "04:00",
         "area": "Los Angeles",
         "venue": "TBA - DTLA Venue",
         "address": "",
-        "why": "",
-        "summary": "",
+        "why": "A full late-night DTLA party listed on Resident Advisor, open until 4am.",
+        "summary": "3000Thirty is a Friday-night club event in downtown Los Angeles, running 10pm to 4am.",
         "promoter": "",
         "price": "",
-        "tags": [],
+        "tags": [
+          "nightlife",
+          "party",
+          "late-night",
+          "dtla"
+        ],
         "sources": [
           "https://ra.co/events/2561670"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://ra.co/events/2561670"
+        ],
         "maps": {},
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "https://images.ra.co/43aa21d65382724a031ac6a7cb6eda1c60c0995c.png",
+        "image": "https://api.party-scout.app/img/los-angeles/2026-11-02/3000thirty-7349.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
         "id": "2026-11-02-music-afrodesi-mr-saj-b8e7eb",
         "eid": "afrodesi-mr-saj-2ab8",
         "track": "music",
-        "category": "",
+        "category": "Nightclub",
         "name": "AfroDesi - Mr Saj",
         "day": "Fri",
         "date": "2026-11-06",
         "time": "21:00",
-        "start": null,
-        "end": null,
-        "area": "",
+        "start": "21:00",
+        "end": "02:00",
+        "area": "Los Angeles",
         "venue": "Catch One (Los Angeles)",
         "address": "",
-        "why": "",
+        "why": "To dance to a high-energy blend of African and South Asian rhythms.",
         "summary": "",
         "promoter": "",
         "price": "$21.33",
-        "tags": [],
+        "tags": [
+          "afrobeats",
+          "desi",
+          "dj",
+          "dance"
+        ],
         "sources": [
           {
             "url": "https://19hz.info/eventlisting_LosAngeles.php",
@@ -3686,7 +3720,7 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
