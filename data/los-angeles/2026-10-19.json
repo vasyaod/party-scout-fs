@@ -5917,28 +5917,35 @@
         "id": "2026-10-19-music-clinic-wednesdays-amore-ec9feb",
         "eid": "clinic-wednesdays-amore-63ae",
         "track": "music",
-        "category": "",
+        "category": "Nightclub",
         "name": "Clinic Wednesdays × Amore",
         "day": "Wed",
         "date": "2026-10-21",
-        "time": "",
-        "start": null,
-        "end": null,
+        "time": "10pm–2am",
+        "start": "22:00",
+        "end": "02:00",
         "area": "Los Angeles",
         "venue": "Jungle Hollywood (Los Angeles)",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "1640 N Cahuenga Blvd, Los Angeles, CA 90028",
+        "why": "For a late-night Hollywood party and dancing until the early morning.",
+        "summary": "A late-night club event on Wednesday, October 21, 2026 at 1640 N Cahuenga Blvd in Hollywood, running 10pm–2am with a $20 cover.",
         "promoter": "",
-        "price": "",
-        "tags": [],
+        "price": "$20",
+        "tags": [
+          "dance",
+          "nightlife",
+          "late-night"
+        ],
         "sources": [
           {
             "url": "https://edmtrain.com/los-angeles-ca",
             "hidden": true
-          }
+          },
+          "https://ra.co/events/2559635"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://ra.co/events/2559635"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Jungle%20Hollywood%20%28Los%20Angeles%29%2C%20Los%20Angeles",
           "apple": "https://maps.apple.com/?q=Jungle%20Hollywood%20%28Los%20Angeles%29%2C%20Los%20Angeles"
@@ -5946,35 +5953,45 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/los-angeles/2026-10-19/clinic-wednesdays-amore-63ae.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
         "id": "2026-10-19-music-2n1t3-kill-eva-07-011933",
         "eid": "2n1t3-kill-eva-07-70e4",
         "track": "music",
-        "category": "",
+        "category": "Nightclub",
         "name": "2N1T3 KILL EVA #07",
         "day": "Thu",
         "date": "2026-10-22",
         "time": "21:00-02:00",
-        "start": null,
-        "end": null,
-        "area": "Los Angeles",
+        "start": "21:00",
+        "end": "02:00",
+        "area": "DTLA",
         "venue": "High Tide",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "605 E 4th St, Los Angeles, CA 90013",
+        "why": "A late-night midweek club option in DTLA, listed on Resident Advisor.",
+        "summary": "Seventh edition of the 2N1T3 KILL EVA night at High Tide in the Arts District, running 9pm to 2am on a Thursday.",
         "promoter": "",
         "price": "",
-        "tags": [],
+        "tags": [
+          "party",
+          "nightlife",
+          "indoor",
+          "late-night",
+          "club",
+          "dtla",
+          "thursday"
+        ],
         "sources": [
           "https://ra.co/events/2557597"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://ra.co/events/2557597"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=High%20Tide%2C%20Los%20Angeles",
           "apple": "https://maps.apple.com/?q=High%20Tide%2C%20Los%20Angeles"
@@ -5982,10 +5999,10 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/los-angeles/2026-10-19/2n1t3-kill-eva-07-70e4.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
@@ -6002,11 +6019,17 @@
         "area": "Los Angeles",
         "venue": "High Tide Los Angeles (Los Angeles)",
         "address": "",
-        "why": "",
-        "summary": "",
+        "why": "Free entry on a weeknight, so it costs nothing to try the room if you RSVP ahead.",
+        "summary": "A Thursday night at High Tide in Los Angeles, listed with free entry for guests who RSVP. Time and lineup were not published where we could read them.",
         "promoter": "",
         "price": "",
-        "tags": [],
+        "tags": [
+          "free",
+          "party",
+          "night",
+          "rsvp",
+          "thursday"
+        ],
         "sources": [
           {
             "url": "https://edmtrain.com/los-angeles-ca",
@@ -6024,14 +6047,14 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
         "id": "2026-10-19-music-kill-eva-live-aren-npc-lunasta-9d646c",
         "eid": "kill-eva-live-aren-npc-l-fdb2",
         "track": "music",
-        "category": "",
+        "category": "Concert",
         "name": "Kill Eva (Live), Aren, Npc, Lunastardustt, Diskq",
         "day": "Thu",
         "date": "2026-10-22",
@@ -6041,11 +6064,18 @@
         "area": "Los Angeles",
         "venue": "High Tide (Los Angeles)",
         "address": "",
-        "why": "",
-        "summary": "",
+        "why": "Free entry and a five-act lineup make it an easy midweek bet for underground electronic and live-set fans.",
+        "summary": "A free Thursday-night bill at High Tide in Los Angeles, with a live set from Kill Eva alongside Aren, Npc, Lunastardustt and Diskq, running 9pm to 2am.",
         "promoter": "",
         "price": "free",
-        "tags": [],
+        "tags": [
+          "live",
+          "music",
+          "nightlife",
+          "electronic",
+          "free",
+          "midweek"
+        ],
         "sources": [
           {
             "url": "https://19hz.info/eventlisting_LosAngeles.php",
@@ -6063,7 +6093,7 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
@@ -6080,11 +6110,15 @@
         "area": "Los Angeles",
         "venue": "The Melrose House LA (Los Angeles)",
         "address": "",
-        "why": "",
-        "summary": "",
+        "why": "To attend a live event in the city on that date.",
+        "summary": "Mattilo is scheduled for October 22, 2026 in Los Angeles.",
         "promoter": "",
         "price": "",
-        "tags": [],
+        "tags": [
+          "live",
+          "music",
+          "event"
+        ],
         "sources": [
           {
             "url": "https://edmtrain.com/los-angeles-ca",
@@ -6102,7 +6136,7 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {

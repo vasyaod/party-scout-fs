@@ -13165,7 +13165,7 @@
         "time": "7pm-11pm",
         "start": "19:00",
         "end": "23:00",
-        "area": "San Francisco",
+        "area": "Haight-Ashbury",
         "venue": "The Faight Collective",
         "address": "",
         "why": "To get in the Halloween spirit with a themed night out.",
@@ -13185,7 +13185,9 @@
             "hidden": true
           }
         ],
-        "tickets": [],
+        "tickets": [
+          "https://www.eventbrite.com/e/sf-cyberia-cyberween-tickets-2003307814601"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=The%20Faight%20Collective%2C%20San%20Francisco",
           "apple": "https://maps.apple.com/?q=The%20Faight%20Collective%2C%20San%20Francisco"
@@ -13193,7 +13195,7 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/san-francisco/2026-10-19/sf-cyberia-cyberween-f8ef.jpg",
         "image_generated": false,
         "popularity": 0,
         "enriched": 1,
@@ -13203,21 +13205,24 @@
         "id": "2026-10-19-music-sf-s-civic-music-free-concerts-f8514e",
         "eid": "sf-s-civic-music-free-co-4dc6",
         "track": "music",
-        "category": "",
+        "category": "Concert",
         "name": "SF’s Civic Music Free Concerts (2026)",
         "day": "Sat",
         "date": "2026-10-24",
         "time": "15:00",
-        "start": null,
-        "end": null,
+        "start": "15:00",
+        "end": "17:00",
         "area": "San Francisco",
         "venue": "Noe Valley Ministry",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "1021 Sanchez Street, SF, CA",
+        "why": "To enjoy free live music in the city.",
+        "summary": "Part of SF's Civic Music Free Concerts on October 24, 2026 at 1021 Sanchez Street in San Francisco; the event is listed as free (time and lineup not provided).",
         "promoter": "",
-        "price": "",
-        "tags": [],
+        "price": "Free",
+        "tags": [
+          "free",
+          "live"
+        ],
         "sources": [
           "https://sf.funcheap.com/sfs-civic-music-free-concerts-2026-2/"
         ],
@@ -13229,36 +13234,47 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/san-francisco/2026-10-19/sf-s-civic-music-free-co-4dc6.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
         "id": "2026-10-19-music-that-90-s-rave-0d6083",
         "eid": "that-90-s-rave-af99",
         "track": "music",
-        "category": "",
+        "category": "Nightclub",
         "name": "THAT 90'S RAVE",
         "day": "Sat",
         "date": "2026-10-24",
         "time": "",
         "start": null,
         "end": null,
-        "area": "San Francisco",
+        "area": "SF",
         "venue": "The Gingerbread House",
         "address": "",
-        "why": "",
-        "summary": "",
+        "why": "A marathon night in a venue tied to Bay Area rave history, built around 90s warehouse-party discovery.",
+        "summary": "An all-night throwback rave at The Gingerbread House, with multiple rooms for techno, hardcore, trance, drum and bass, jungle and house.",
         "promoter": "",
         "price": "",
-        "tags": [],
+        "tags": [
+          "90s",
+          "dance",
+          "dj",
+          "party",
+          "21+",
+          "rave",
+          "techno",
+          "jungle",
+          "drum-and-bass"
+        ],
         "sources": [
           {
             "url": "https://edmtrain.com/san-francisco-ca",
             "hidden": true
-          }
+          },
+          "https://www.timeout.com/san-francisco/music/that-90s-rave"
         ],
         "tickets": [],
         "maps": {
@@ -13271,28 +13287,33 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
         "id": "2026-10-19-music-undiscovered-2026-sf-s-huge-fi-3fad93",
         "eid": "undiscovered-2026-sf-s-h-ae9b",
         "track": "music",
-        "category": "",
-        "name": "“Undiscovered” 2026: SF’s Huge Filipino Block Party (SoMa)",
+        "category": "Festival",
+        "name": "\"Undiscovered\" 2026: SF's Huge Filipino Block Party (SoMa)",
         "day": "Sat",
         "date": "2026-10-24",
         "time": "16:00",
-        "start": null,
-        "end": null,
+        "start": "16:00",
+        "end": "22:00",
         "area": "San Francisco",
         "venue": "Victory Hall",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "330 Ritch Street, SoMa, San Francisco, Ca",
+        "why": "To join a vibrant, outdoor community celebration of Filipino culture.",
+        "summary": "A free Filipino block party in SoMa on October 24, 2026 at 330 Ritch Street, San Francisco.",
         "promoter": "",
-        "price": "",
-        "tags": [],
+        "price": "Free",
+        "tags": [
+          "filipino",
+          "free",
+          "outdoor",
+          "community"
+        ],
         "sources": [
           "https://sf.funcheap.com/undiscovered-sf-2026/"
         ],
@@ -13307,7 +13328,7 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
