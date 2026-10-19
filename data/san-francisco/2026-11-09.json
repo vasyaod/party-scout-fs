@@ -2750,7 +2750,7 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/san-francisco/2026-11-09/lil-texas-368a.jpg",
         "image_generated": false,
         "popularity": 0,
         "enriched": 1,
@@ -2760,21 +2760,26 @@
         "id": "2026-11-09-music-maceo-plex-the-great-northern-021275",
         "eid": "maceo-plex-the-great-nor-92cf",
         "track": "music",
-        "category": "",
+        "category": "Nightclub",
         "name": "Maceo Plex - The Great Northern",
         "day": "Fri",
         "date": "2026-11-13",
         "time": "21:00-03:00",
-        "start": null,
-        "end": null,
+        "start": "21:00",
+        "end": "03:00",
         "area": "San Francisco",
         "venue": "The Great Northern",
         "address": "119 Utah St, San Francisco, CA 94103",
-        "why": "",
-        "summary": "",
+        "why": "To catch a headline electronic DJ set at a downtown dance club.",
+        "summary": "Maceo Plex performs at The Great Northern in San Francisco on November 13, 2026.",
         "promoter": "",
         "price": "$27-62.18",
-        "tags": [],
+        "tags": [
+          "dj",
+          "electronic",
+          "nightclub",
+          "dance"
+        ],
         "sources": [
           "https://ra.co/events/2539074",
           {
@@ -2784,9 +2789,12 @@
           {
             "url": "https://dothebay.com/events",
             "hidden": true
-          }
+          },
+          "https://dothebay.com/events/2026/11/13/maceo-plex-tickets"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://ra.co/events/2539074"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=119%20Utah%20St%2C%20San%20Francisco%2C%20CA%2094103",
           "apple": "https://maps.apple.com/?q=119%20Utah%20St%2C%20San%20Francisco%2C%20CA%2094103"
@@ -2797,7 +2805,7 @@
         "image": "https://images.ra.co/1ad71ccd35ed8d110722fd73a7ac9882f2ba6c5a.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true,
         "lineup": [
           {
@@ -2810,21 +2818,26 @@
         "id": "2026-11-09-music-momentum-techno-4-less-f8e2ae",
         "eid": "momentum-techno-4-less-6b98",
         "track": "music",
-        "category": "",
+        "category": "Nightclub",
         "name": "MOMENTUM: TECHNO 4 LESS",
         "day": "Fri",
         "date": "2026-11-13",
         "time": "21:00-03:00",
-        "start": null,
-        "end": null,
+        "start": "21:00",
+        "end": "03:00",
         "area": "San Francisco",
         "venue": "F8 1192 Folsom",
         "address": "1192 Folsom St, San Francisco, CA 94103",
-        "why": "",
-        "summary": "",
+        "why": "For an evening of driving electronic beats and dancing with the local techno crowd.",
+        "summary": "A techno night titled MOMENTUM: TECHNO 4 LESS is scheduled for November 13, 2026 in San Francisco.",
         "promoter": "",
         "price": "$5-10",
-        "tags": [],
+        "tags": [
+          "techno",
+          "dj",
+          "electronic",
+          "nightlife"
+        ],
         "sources": [
           "https://ra.co/events/2560589",
           {
@@ -2832,7 +2845,9 @@
             "hidden": true
           }
         ],
-        "tickets": [],
+        "tickets": [
+          "https://ra.co/events/2560589"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=1192%20Folsom%20St%2C%20San%20Francisco%2C%20CA%2094103",
           "apple": "https://maps.apple.com/?q=1192%20Folsom%20St%2C%20San%20Francisco%2C%20CA%2094103"
@@ -2843,7 +2858,7 @@
         "image": "https://images.ra.co/aa8bcddd8d6ebdc19e09d97c7f3210f2d8d18971.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true,
         "lineup": [
           {
@@ -2877,21 +2892,26 @@
         "day": "Fri",
         "date": "2026-11-13",
         "time": "8:00PM",
-        "start": null,
+        "start": "20:00",
         "end": null,
         "area": "San Francisco",
         "venue": "Bimbo's 365 Club",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "88 5th Street, San Francisco, CA 94103",
+        "why": "For a night out in SoMa at a downtown San Francisco event.",
+        "summary": "Mustache Harbor is scheduled for November 13, 2026 at 88 5th Street in San Francisco. Time, ticket, and lineup details were not provided.",
         "promoter": "",
         "price": "",
-        "tags": [],
+        "tags": [
+          "nightlife",
+          "san-francisco",
+          "soma"
+        ],
         "sources": [
           {
             "url": "https://dothebay.com/events",
             "hidden": true
-          }
+          },
+          "https://dothebay.com/events/2026/11/13/mustache-harbor-tickets"
         ],
         "tickets": [],
         "maps": {
@@ -2901,10 +2921,10 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/san-francisco/2026-11-09/mustache-harbor-4759.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
