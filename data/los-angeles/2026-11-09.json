@@ -3461,25 +3461,34 @@
         "id": "2026-11-09-music-erik-yarosh-bc5b22",
         "eid": "erik-yarosh-6941",
         "track": "music",
-        "category": "",
+        "category": "Concert",
         "name": "Erik Yarosh",
         "day": "Fri",
         "date": "2026-11-13",
         "time": "20:00-02:00",
-        "start": null,
-        "end": null,
-        "area": "Los Angeles",
+        "start": "20:00",
+        "end": "02:00",
+        "area": "DTLA",
         "venue": "The Redwood Bar And Grill",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "316 W. 2nd Street, Los Angeles, CA  90012",
+        "why": "A cheap Friday night at a long-running downtown bar, with a late 2am close.",
+        "summary": "Erik Yarosh plays The Redwood Bar And Grill in downtown LA on Friday night, 8pm to 2am. Tickets are $10 through Resident Advisor.",
         "promoter": "",
         "price": "$10",
-        "tags": [],
+        "tags": [
+          "live",
+          "music",
+          "live music",
+          "downtown",
+          "friday",
+          "bar"
+        ],
         "sources": [
           "https://ra.co/events/2553074"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://ra.co/events/2553074"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=The%20Redwood%20Bar%20And%20Grill%2C%20Los%20Angeles",
           "apple": "https://maps.apple.com/?q=The%20Redwood%20Bar%20And%20Grill%2C%20Los%20Angeles"
@@ -3490,28 +3499,36 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
         "id": "2026-11-09-music-factory-93-presents-240-km-h-a-9e2e46",
         "eid": "factory-93-presents-240-9a1f",
         "track": "music",
-        "category": "",
+        "category": "Nightclub",
         "name": "Factory 93 presents: 240 KM/H: Adrián Mills All Night Long with Special Guests",
         "day": "Fri",
         "date": "2026-11-13",
         "time": "21:00-02:00",
-        "start": null,
-        "end": null,
+        "start": "21:00",
+        "end": "02:00",
         "area": "Los Angeles",
         "venue": "Ace*Mission",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "516 S Mission Rd, Los Angeles, CA 90033",
+        "why": "A full night-long headliner set from Adrián Mills with guests, on a Friday in the Boyle Heights–adjacent Mission Rd warehouse district.",
+        "summary": "Factory 93 presents 240 KM/H, an all-night set from Adrián Mills with special guests at Ace*Mission, Friday 9pm to 2am.",
         "promoter": "",
         "price": "",
-        "tags": [],
+        "tags": [
+          "dj",
+          "all-night",
+          "electronic",
+          "party",
+          "techno",
+          "house",
+          "warehouse"
+        ],
         "sources": [
           "https://ra.co/events/2551259",
           {
@@ -3519,7 +3536,9 @@
             "hidden": true
           }
         ],
-        "tickets": [],
+        "tickets": [
+          "https://ra.co/events/2551259"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Ace%2AMission%2C%20Los%20Angeles",
           "apple": "https://maps.apple.com/?q=Ace%2AMission%2C%20Los%20Angeles"
@@ -3527,35 +3546,42 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/los-angeles/2026-11-09/factory-93-presents-240-9a1f.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
         "id": "2026-11-09-music-into-the-woods-presents-theo-p-d1f97e",
         "eid": "into-the-woods-presents-a170",
         "track": "music",
-        "category": "",
+        "category": "Nightclub",
         "name": "Into The Woods presents Theo Parrish (All Night Long)",
         "day": "Fri",
         "date": "2026-11-13",
         "time": "22:00-05:00",
-        "start": null,
-        "end": null,
+        "start": "22:00",
+        "end": "05:00",
         "area": "Los Angeles",
         "venue": "TBA",
         "address": "",
-        "why": "",
-        "summary": "",
+        "why": "For a deep, dancefloor-focused set of house and soulful electronic music.",
+        "summary": "An all-night DJ performance by Theo Parrish on November 13, 2026 in Los Angeles.",
         "promoter": "",
         "price": "20-40",
-        "tags": [],
+        "tags": [
+          "dj",
+          "house",
+          "dance",
+          "underground"
+        ],
         "sources": [
           "https://ra.co/events/2563485"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://ra.co/events/2563485"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Los%20Angeles",
           "apple": "https://maps.apple.com/?q=Los%20Angeles"
@@ -3563,17 +3589,17 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/los-angeles/2026-11-09/into-the-woods-presents-a170.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
         "id": "2026-11-09-music-mousse-t-0b2a1e",
         "eid": "mousse-t-090c",
         "track": "music",
-        "category": "",
+        "category": "Nightclub",
         "name": "Mousse T.",
         "day": "Fri",
         "date": "2026-11-13",
@@ -3583,11 +3609,15 @@
         "area": "Los Angeles",
         "venue": "The Spotlight (Los Angeles)",
         "address": "",
-        "why": "",
-        "summary": "",
+        "why": "For an evening of house and dancefloor-friendly electronic music.",
+        "summary": "Mousse T. performs in Los Angeles on November 13, 2026.",
         "promoter": "",
         "price": "$36.26",
-        "tags": [],
+        "tags": [
+          "dj",
+          "house",
+          "electronic"
+        ],
         "sources": [
           {
             "url": "https://19hz.info/eventlisting_LosAngeles.php",
@@ -3605,7 +3635,7 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
