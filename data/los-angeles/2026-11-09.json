@@ -2642,20 +2642,28 @@
         "day": "Mon",
         "date": "2026-11-09",
         "time": "20:00-02:00",
-        "start": null,
-        "end": null,
-        "area": "Los Angeles",
+        "start": "20:00",
+        "end": "02:00",
+        "area": "DTLA",
         "venue": "The Redwood Bar And Grill",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "316 W. 2nd Street, Los Angeles, CA  90012",
+        "why": "Cheap, no-frills Monday music in a classic DTLA dive, with a late 2 AM finish.",
+        "summary": "A Monday-night live show at The Redwood Bar and Grill, the long-running downtown LA dive bar on 2nd Street.",
         "promoter": "",
         "price": "",
-        "tags": [],
+        "tags": [
+          "nightlife",
+          "downtown",
+          "live music",
+          "dive bar",
+          "DTLA"
+        ],
         "sources": [
           "https://ra.co/events/2564269"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://ra.co/events/2564269"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=The%20Redwood%20Bar%20And%20Grill%2C%20Los%20Angeles",
           "apple": "https://maps.apple.com/?q=The%20Redwood%20Bar%20And%20Grill%2C%20Los%20Angeles"
@@ -2663,39 +2671,48 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
-        "image_generated": false,
+        "image": "https://api.party-scout.app/img/los-angeles/2026-11-09/graveyard-dead-505b.jpg",
+        "image_generated": true,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
         "id": "2026-11-09-music-kcrw-presents-bonobo-2c7038",
         "eid": "kcrw-presents-bonobo-17bb",
         "track": "music",
-        "category": "",
+        "category": "Concert",
         "name": "KCRW presents Bonobo",
         "day": "Wed",
         "date": "2026-11-11",
         "time": "19:00-06:00",
-        "start": null,
-        "end": null,
+        "start": "19:00",
+        "end": "06:00",
         "area": "Los Angeles",
         "venue": "The Wiltern",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "3790 Wilshire Blvd, Los Angeles, CA 90010",
+        "why": "For an immersive electronic live set and atmospheric production.",
+        "summary": "KCRW presents Bonobo at 3790 Wilshire Blvd in Los Angeles on November 11, 2026. Tickets are listed at $38.",
         "promoter": "",
-        "price": "",
-        "tags": [],
+        "price": "$38",
+        "tags": [
+          "electronic",
+          "live",
+          "dj",
+          "ticketed"
+        ],
         "sources": [
           "https://ra.co/events/2502148",
           {
             "url": "https://www.axs.com/venues/the-wiltern",
             "hidden": true
-          }
+          },
+          "https://ra.co/events/2497172"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://ra.co/events/2502148",
+          "https://ra.co/events/2497172"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=The%20Wiltern%2C%20Los%20Angeles",
           "apple": "https://maps.apple.com/?q=The%20Wiltern%2C%20Los%20Angeles"
@@ -2703,10 +2720,10 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/los-angeles/2026-11-09/kcrw-presents-bonobo-17bb.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
@@ -2718,20 +2735,25 @@
         "day": "Wed",
         "date": "2026-11-11",
         "time": "19:00-01:00",
-        "start": null,
-        "end": null,
+        "start": "19:00",
+        "end": "01:00",
         "area": "Los Angeles",
         "venue": "The Redwood Bar And Grill",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "316 W. 2nd Street, Los Angeles, CA  90012",
+        "why": "A good option for an evening out in Downtown Los Angeles.",
+        "summary": "An event titled \"Petunia & The Vipers\" is scheduled for November 11, 2026 at 316 W. 2nd Street in Downtown Los Angeles.",
         "promoter": "",
         "price": "$20",
-        "tags": [],
+        "tags": [
+          "live",
+          "music"
+        ],
         "sources": [
           "https://ra.co/events/2558829"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://ra.co/events/2558829"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=The%20Redwood%20Bar%20And%20Grill%2C%20Los%20Angeles",
           "apple": "https://maps.apple.com/?q=The%20Redwood%20Bar%20And%20Grill%2C%20Los%20Angeles"
@@ -2742,7 +2764,7 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {

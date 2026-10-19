@@ -15415,19 +15415,27 @@
         "time": "6:00PM",
         "start": "18:00",
         "end": null,
-        "area": "San Francisco",
+        "area": "North Beach",
         "venue": "The Palace Theater",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "644 Broadway St., San Francisco, CA 94133",
+        "why": "A spooky, interactive Halloween-week night out in North Beach, running through Oct 31.",
+        "summary": "A one-hour walk-through immersive theater show at The Palace Theater in North Beach, where vampires run a haunted hotel. This year's house rules: no garlic, no sharp wooden implements, no consecrated water.",
         "promoter": "",
-        "price": "",
-        "tags": [],
+        "price": "From $39",
+        "tags": [
+          "nightlife",
+          "event",
+          "immersive",
+          "theater",
+          "halloween",
+          "haunted"
+        ],
         "sources": [
           {
             "url": "https://dothebay.com/events/2026/10/8/the-black-cat-hotel-tickets",
             "hidden": true
-          }
+          },
+          "https://hauntedattractionnetwork.com/black-cat-hotel-san-francisco/"
         ],
         "tickets": [],
         "maps": {
@@ -15437,10 +15445,10 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/san-francisco/2026-10-26/the-black-cat-hotel-498a.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
@@ -16677,21 +16685,27 @@
         "id": "2026-10-26-music-the-stoner-comedy-jam-friday-n-831072",
         "eid": "the-stoner-comedy-jam-fr-5335",
         "track": "music",
-        "category": "",
+        "category": "Comedy",
         "name": "“The Stoner Comedy Jam” Friday Nights (SF)",
         "day": "Fri",
         "date": "2026-10-30",
         "time": "20:00",
-        "start": null,
-        "end": null,
-        "area": "San Francisco",
-        "venue": "",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "start": "20:00",
+        "end": "21:30",
+        "area": "Civic Center",
+        "venue": "Moe Greens",
+        "address": "1276 Market St., San Francisco, CA",
+        "why": "A free, laid-back Friday comedy night with two hosts and a lineup of local comics, easy to drop into before a night out.",
+        "summary": "Free weekly Friday-night stand-up at Moe Greens on Market St., hosted by Stroy Moyd and Shivaan Nadan, with a relaxed, cannabis-friendly comedy vibe.",
         "promoter": "",
-        "price": "",
-        "tags": [],
+        "price": "Free",
+        "tags": [
+          "comedy",
+          "free",
+          "live",
+          "stand-up",
+          "weekly"
+        ],
         "sources": [
           "https://sf.funcheap.com/the-stoner-comedy-jam-friday-nights-sf-188/"
         ],
@@ -16703,11 +16717,12 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/san-francisco/2026-10-26/the-stoner-comedy-jam-fr-5335.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
-        "active": true
+        "enriched": 1,
+        "active": true,
+        "lineup": []
       },
       {
         "id": "2026-10-26-music-supperween-supper-club-dj-even-fa5371",
@@ -16765,25 +16780,33 @@
         "id": "2026-10-26-music-why2k-halloween-ae1c5c",
         "eid": "why2k-halloween-cd46",
         "track": "music",
-        "category": "",
+        "category": "Nightclub",
         "name": "Why2k Halloween",
         "day": "Fri",
         "date": "2026-10-30",
         "time": "21:30",
-        "start": null,
-        "end": null,
+        "start": "21:30",
+        "end": "02:00",
         "area": "San Francisco",
         "venue": "DNA Lounge",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "375 Eleventh Street, San Francisco, CA 94103, United States",
+        "why": "For a Halloween night out and costume fun in SoMa.",
+        "summary": "Why2k Halloween takes place October 30, 2026 at 375 Eleventh Street in SoMa, San Francisco.",
         "promoter": "",
         "price": "$15",
-        "tags": [],
+        "tags": [
+          "halloween",
+          "y2k",
+          "party",
+          "costume"
+        ],
         "sources": [
+          "https://ra.co/events/2562699",
+          "https://dothebay.com/events/2026/10/30/halloween-tickets"
+        ],
+        "tickets": [
           "https://ra.co/events/2562699"
         ],
-        "tickets": [],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=DNA%20Lounge%2C%20San%20Francisco",
           "apple": "https://maps.apple.com/?q=DNA%20Lounge%2C%20San%20Francisco"
@@ -16791,33 +16814,42 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/san-francisco/2026-10-26/why2k-halloween-cd46.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
         "id": "2026-10-26-music-12th-annual-chinatown-hallowee-41a6ee",
         "eid": "12th-annual-chinatown-ha-49bb",
         "track": "music",
-        "category": "",
+        "category": "Festival",
         "name": "12th Annual Chinatown Halloween Festival + Block Party (SF)",
         "day": "Sat",
         "date": "2026-10-31",
         "time": "11:00",
-        "start": null,
-        "end": null,
-        "area": "San Francisco",
-        "venue": "",
-        "address": "",
-        "why": "",
-        "summary": "",
-        "promoter": "",
-        "price": "",
-        "tags": [],
+        "start": "11:00",
+        "end": "15:00",
+        "area": "Chinatown",
+        "venue": "Waverly Place",
+        "address": "Waverly Pl, San Francisco, CA 94108",
+        "why": "Free, all-ages Halloween fun in the heart of Chinatown, with a costume contest and a street full of activities.",
+        "summary": "The 12th annual Chinatown Halloween Festival takes over Waverly Place with a pumpkin patch, arts and crafts, games and a costume contest.",
+        "promoter": "Community Youth Center of SF",
+        "price": "Free",
+        "tags": [
+          "festival",
+          "halloween",
+          "outdoor",
+          "family-friendly",
+          "free",
+          "street-fair",
+          "chinatown"
+        ],
         "sources": [
-          "https://sf.funcheap.com/12th-annual-chinatown-halloween-festival-block-party-sf/"
+          "https://sf.funcheap.com/12th-annual-chinatown-halloween-festival-block-party-sf/",
+          "https://dothebay.com/events/2026/10/31/gasolina-halloween-party-tickets"
         ],
         "tickets": [],
         "maps": {
@@ -16827,10 +16859,10 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/san-francisco/2026-10-26/12th-annual-chinatown-ha-49bb.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
