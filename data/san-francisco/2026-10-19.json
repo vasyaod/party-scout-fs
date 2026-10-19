@@ -12338,7 +12338,7 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/san-francisco/2026-10-19/tricky-fm-s-twin-star-fa-0d2d.jpg",
         "image_generated": false,
         "popularity": 0,
         "enriched": 1,
@@ -12348,7 +12348,7 @@
         "id": "2026-10-19-music-babe-stanley-frank-sensation-j-21503a",
         "eid": "babe-stanley-frank-sensa-82d8",
         "track": "music",
-        "category": "",
+        "category": "Nightclub",
         "name": "Babe: Stanley Frank Sensation, jcore, DJ Trevs",
         "day": "Fri",
         "date": "2026-10-23",
@@ -12357,12 +12357,17 @@
         "end": "02:00",
         "area": "San Francisco",
         "venue": "Driftwood",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "1225 Folsom St. San Francisco CA 94103",
+        "why": "For energetic DJ-led electronic and dance music in a SoMa club setting.",
+        "summary": "Babe is an event on October 23, 2026 at 1225 Folsom St in SoMa featuring Stanley Frank Sensation, jcore, and DJ Trevs.",
         "promoter": "",
         "price": "$10",
-        "tags": [],
+        "tags": [
+          "dj",
+          "electronic",
+          "dance",
+          "club"
+        ],
         "sources": [
           {
             "url": "https://19hz.info/eventlisting_BayArea.php",
@@ -12370,7 +12375,9 @@
           },
           "https://ra.co/events/2558005"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://ra.co/events/2558005"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Driftwood%2C%20San%20Francisco",
           "apple": "https://maps.apple.com/?q=Driftwood%2C%20San%20Francisco"
@@ -12378,17 +12385,17 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/san-francisco/2026-10-19/babe-stanley-frank-sensa-82d8.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
         "id": "2026-10-19-music-beats-crafts-artspan-open-stud-0c03c1",
         "eid": "beats-crafts-artspan-ope-23f6",
         "track": "music",
-        "category": "",
+        "category": "Nightclub",
         "name": "Beats & Crafts: Artspan Open Studios Opening Night Party w/Discomakes, Cold Leftovers, Fygma",
         "day": "Fri",
         "date": "2026-10-23",
@@ -12397,12 +12404,17 @@
         "end": "23:00",
         "area": "San Francisco",
         "venue": "The Faight Collective",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "Address: 473A Haight St, San Francisco, CA 94117",
+        "why": "To hear Discomakes, Cold Leftovers, and Fygma and connect with local artists in the Haight.",
+        "summary": "Opening night party for Artspan Open Studios at 473A Haight St in San Francisco on 2026-10-23, featuring Discomakes, Cold Leftovers, and Fygma.",
         "promoter": "",
         "price": "0",
-        "tags": [],
+        "tags": [
+          "dj",
+          "art",
+          "party",
+          "opening"
+        ],
         "sources": [
           {
             "url": "https://19hz.info/eventlisting_BayArea.php",
@@ -12410,7 +12422,9 @@
           },
           "https://ra.co/events/2559664"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://ra.co/events/2559664"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=The%20Faight%20Collective%2C%20San%20Francisco",
           "apple": "https://maps.apple.com/?q=The%20Faight%20Collective%2C%20San%20Francisco"
@@ -12418,17 +12432,17 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/san-francisco/2026-10-19/beats-crafts-artspan-ope-23f6.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
         "id": "2026-10-19-music-chinatown-after-dark-hidra-yuk-fc4755",
         "eid": "chinatown-after-dark-hid-ca5d",
         "track": "music",
-        "category": "",
+        "category": "Concert",
         "name": "Chinatown After Dark: Hidra, Yuka Yu",
         "day": "Fri",
         "date": "2026-10-23",
@@ -12438,18 +12452,25 @@
         "area": "San Francisco",
         "venue": "260 Kearny St",
         "address": "",
-        "why": "",
-        "summary": "",
+        "why": "To catch Hidra and Yuka Yu performing live.",
+        "summary": "An evening billed as \"Chinatown After Dark\" on 2026-10-23 featuring Hidra and Yuka Yu in San Francisco.",
         "promoter": "",
         "price": "free",
-        "tags": [],
+        "tags": [
+          "live",
+          "music",
+          "nightlife"
+        ],
         "sources": [
           {
             "url": "https://19hz.info/eventlisting_BayArea.php",
             "hidden": true
-          }
+          },
+          "https://ra.co/events/2555248"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://ra.co/events/2555248"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=260%20Kearny%20St%2C%20San%20Francisco",
           "apple": "https://maps.apple.com/?q=260%20Kearny%20St%2C%20San%20Francisco"
@@ -12457,35 +12478,43 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/san-francisco/2026-10-19/chinatown-after-dark-hid-ca5d.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
         "id": "2026-10-19-music-dope-with-dj-brian-v-342d9b",
         "eid": "dope-with-dj-brian-v-2a6b",
         "track": "music",
-        "category": "",
+        "category": "Nightclub",
         "name": "Dope with DJ BRIAN V",
         "day": "Fri",
         "date": "2026-10-23",
         "time": "22:00-02:00",
-        "start": null,
-        "end": null,
+        "start": "22:00",
+        "end": "02:00",
         "area": "San Francisco",
         "venue": "Temple SF",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "540 Howard St., San Francisco, CA 94105, United States",
+        "why": "Go to dance to a live DJ set in a downtown SoMa spot.",
+        "summary": "A DJ night featuring DJ BRIAN V on October 23, 2026 at 540 Howard St. in San Francisco.",
         "promoter": "",
         "price": "23.18",
-        "tags": [],
+        "tags": [
+          "dj",
+          "dance",
+          "nightlife",
+          "soma"
+        ],
         "sources": [
+          "https://ra.co/events/2557494",
+          "https://dothebay.com/events/2026/10/23/dope-with-dj-brian-v-the-2000-s-party-tickets"
+        ],
+        "tickets": [
           "https://ra.co/events/2557494"
         ],
-        "tickets": [],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Temple%20SF%2C%20San%20Francisco",
           "apple": "https://maps.apple.com/?q=Temple%20SF%2C%20San%20Francisco"
@@ -12493,31 +12522,38 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/san-francisco/2026-10-19/dope-with-dj-brian-v-2a6b.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
         "id": "2026-10-19-music-free-halloween-carnival-of-cur-026438",
         "eid": "free-halloween-carnival-5b8f",
         "track": "music",
-        "category": "",
+        "category": "Festival",
         "name": "Free Halloween “Carnival of Curiosities” w/ Circus Fun (SF’s Ocean Avenue)",
         "day": "Fri",
         "date": "2026-10-23",
         "time": "18:00",
-        "start": null,
-        "end": null,
-        "area": "San Francisco",
+        "start": "18:00",
+        "end": "20:00",
+        "area": "Ocean Avenue",
         "venue": "Ashton Avenue between Ocean Ave & Pico Ave",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "385 Ashton Ave, San Francisco",
+        "why": "A free, family-friendly costume-welcome carnival on Ocean Avenue, 6–8pm — an easy early Halloween outing (no full-face masks).",
+        "summary": "Free Halloween block party on Ashton Ave between Ocean and Pico, with games, performers, face painting and balloon artists, presented by the Ocean Avenue Association and Civic Joy Fund.",
         "promoter": "",
-        "price": "",
-        "tags": [],
+        "price": "Free",
+        "tags": [
+          "free",
+          "halloween",
+          "circus",
+          "outdoor",
+          "family",
+          "block-party"
+        ],
         "sources": [
           "https://sf.funcheap.com/free-halloween-carnival-curiosities-circus-fun-sfs-ocean-avenue/"
         ],
@@ -12529,31 +12565,38 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/san-francisco/2026-10-19/free-halloween-carnival-5b8f.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
         "id": "2026-10-19-music-from-the-e-fall-festival-night-0dc259",
         "eid": "from-the-e-fall-festival-9afb",
         "track": "music",
-        "category": "",
+        "category": "Market",
         "name": "From The E: Fall Festival Night Market (Excelsior)",
         "day": "Fri",
         "date": "2026-10-23",
-        "time": "16:30",
-        "start": null,
-        "end": null,
-        "area": "San Francisco",
-        "venue": "Ocean Ave & Mission St.",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "time": "4:30–8:30pm",
+        "start": "16:30",
+        "end": "20:30",
+        "area": "Excelsior",
+        "venue": "Ocean Ave & Mission St",
+        "address": "Ocean Ave & Mission St., San Francisco, CA 94112, USA",
+        "why": "Free, easygoing community evening with music and local makers — a good low-key start to a Friday night.",
+        "summary": "A free neighborhood night market on the Ocean Ave corridor in the Excelsior, with live music, local vendors, food and crafts. The fall edition is Friday Oct 23.",
         "promoter": "",
-        "price": "",
-        "tags": [],
+        "price": "Free",
+        "tags": [
+          "free",
+          "outdoor",
+          "market",
+          "community",
+          "night-market",
+          "music"
+        ],
         "sources": [
           "https://sf.funcheap.com/fall-festival-night-market-excelsior/"
         ],
@@ -12565,10 +12608,10 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/san-francisco/2026-10-19/from-the-e-fall-festival-9afb.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
