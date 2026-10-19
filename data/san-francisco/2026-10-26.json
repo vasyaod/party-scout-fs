@@ -16580,14 +16580,22 @@
         "time": "6:00PM",
         "start": "18:00",
         "end": null,
-        "area": "San Francisco",
+        "area": "SoMa",
         "venue": "The San Francisco Mint",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "88 5th Street, San Francisco, CA 94103",
+        "why": "A full-scale immersive haunt with cinematic sets and live actors, plus the Fang Bang vampire bar for a Halloween night out.",
+        "summary": "Terror Vault's immersive 1980s slasher-movie horror experience at the San Francisco Mint, running Oct 1 – Nov 8. Walk through abandoned schools, campgrounds and fraternity houses with live actors; 18+.",
         "promoter": "",
         "price": "",
-        "tags": [],
+        "tags": [
+          "halloween",
+          "party",
+          "themed",
+          "nightlife",
+          "immersive",
+          "horror",
+          "18+"
+        ],
         "sources": [
           {
             "url": "https://dothebay.com/events/2026/10/1/terror-vault-slashed-tickets",
@@ -16602,10 +16610,10 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/san-francisco/2026-10-26/slashed-return-to-hellvi-c2e5.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
@@ -16646,11 +16654,11 @@
           {
             "url": "https://ra.co/events/2505285",
             "hidden": true
-          },
-          "https://ra.co/events/2505285"
+          }
         ],
         "tickets": [
-          "https://ra.co/events/2505285"
+          "https://ra.co/events/2505285",
+          "https://ra.co/events/us/sanfrancisco"
         ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=The%20Great%20Northern",
@@ -16662,7 +16670,7 @@
         "image": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/34122474/29436b7e-c8e3-4ea3-b56e-49805593c877.png",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
@@ -16705,28 +16713,41 @@
         "id": "2026-10-26-music-supperween-supper-club-dj-even-fa5371",
         "eid": "supperween-supper-club-d-0fc2",
         "track": "music",
-        "category": "",
+        "category": "Nightclub",
         "name": "Supperween (Supper Club DJ Event)",
         "day": "Fri",
         "date": "2026-10-30",
         "time": "9pm",
         "start": "21:00",
-        "end": null,
-        "area": "San Francisco",
+        "end": "02:00",
+        "area": "SoMa",
         "venue": "The EndUp",
-        "address": "",
-        "why": "",
-        "summary": "",
-        "promoter": "",
-        "price": "",
-        "tags": [],
+        "address": "401 6th St, San Francisco",
+        "why": "A costume party on Halloween eve at SF's legendary after-hours club, with a wide-open dance mix.",
+        "summary": "Supper Club's Halloween-eve costume and DJ party at The EndUp, 9pm to 2am. EDM, hip-hop, R&B, baile funk, house and dubstep. 21+.",
+        "promoter": "Supper Club",
+        "price": "$15",
+        "tags": [
+          "dj",
+          "halloween",
+          "paid",
+          "dance",
+          "costume",
+          "edm",
+          "hip-hop",
+          "house",
+          "21+"
+        ],
         "sources": [
           {
             "url": "https://19hz.info/eventlisting_BayArea.php",
             "hidden": true
-          }
+          },
+          "https://www.eventbrite.com/e/supper-club-presents-supperween-tickets-2003036902295"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://www.eventbrite.com/e/supper-club-presents-supperween-tickets-2003036902295"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=The%20EndUp%2C%20San%20Francisco",
           "apple": "https://maps.apple.com/?q=The%20EndUp%2C%20San%20Francisco"
@@ -16734,10 +16755,10 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/san-francisco/2026-10-26/supperween-supper-club-d-0fc2.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
@@ -20542,24 +20563,27 @@
         "eid": "sf-state-s-free-public-r-bcbf",
         "track": "sports",
         "category": "",
-        "name": "SF State's Free Public Rooftop Stargazing Nights w/ Huge Telescope (October 2026)",
+        "name": "SF State’s Free Public Rooftop Stargazing Nights w/ Huge Telescope (October 2026)",
         "day": "Fri",
         "date": "2026-10-30",
         "time": "19:00",
         "start": "19:00",
         "end": "21:00",
-        "area": "San Francisco",
+        "area": "Lakeshore",
         "venue": "San Francisco State University Observatory",
         "address": "Thornton Hall, 10th Floor San Francisco State University 1600 Holloway Avenue San Francisco, CA 94132",
-        "why": "Get close-up views of planets, the Moon, and other celestial objects through a university observatory telescope.",
-        "summary": "Free public rooftop stargazing at San Francisco State University's observatory on October 30, 2026, held on the Thornton Hall 10th-floor rooftop with a large telescope available.",
+        "why": "A free, no-ticket night out under the stars with a serious telescope and city lights as the backdrop.",
+        "summary": "Free public stargazing on the 10th-floor rooftop of Thornton Hall at SF State, with a big Meade telescope pointed at the moon, planets and deep-sky objects. Clear skies only.",
         "promoter": "",
         "price": "Free",
         "tags": [
           "free",
           "outdoor",
           "science",
-          "family-friendly"
+          "family-friendly",
+          "stargazing",
+          "astronomy",
+          "outdoors"
         ],
         "sources": [
           "https://sf.funcheap.com/sf-states-free-public-rooftop-stargazing-nights-w-huge-telescope-october-2026-11/"
@@ -20572,7 +20596,7 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/san-francisco/2026-10-26/sf-state-s-free-public-r-bcbf.jpg",
         "image_generated": false,
         "popularity": 0,
         "enriched": 1,
