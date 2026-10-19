@@ -1582,21 +1582,28 @@
         "day": "Thu",
         "date": "2026-11-12",
         "time": "8:00PM",
-        "start": null,
+        "start": "20:00",
         "end": null,
         "area": "San Francisco",
         "venue": "The Fillmore",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "1805 Geary Boulevard, San Francisco, CA",
+        "why": "A rare chance to see the Britpop band in the Fillmore's historic room.",
+        "summary": "Gene play The Fillmore on Thursday, November 12, with the show starting at 8 PM.",
         "promoter": "",
         "price": "",
-        "tags": [],
+        "tags": [
+          "event",
+          "nightlife",
+          "live music",
+          "rock",
+          "the fillmore"
+        ],
         "sources": [
           {
             "url": "https://dothebay.com/events",
             "hidden": true
-          }
+          },
+          "https://dothebay.com/events/2026/11/12/gene-tickets"
         ],
         "tickets": [],
         "maps": {
@@ -1606,36 +1613,43 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/san-francisco/2026-11-09/gene-3e27.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
         "id": "2026-11-09-music-isaiah-rashad-lil-sunny-s-awfu-d24dd0",
         "eid": "isaiah-rashad-lil-sunny-74ac",
         "track": "music",
-        "category": "",
+        "category": "Concert",
         "name": "Isaiah Rashad: Lil Sunny's Awful Road Trip",
         "day": "Thu",
         "date": "2026-11-12",
         "time": "7:00PM",
-        "start": null,
+        "start": "19:00",
         "end": null,
         "area": "San Francisco",
         "venue": "Fox Theater",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "88 5th Street, San Francisco, CA 94103",
+        "why": "To catch a live hip-hop set in SoMa.",
+        "summary": "Isaiah Rashad performs in San Francisco on November 12, 2026, at 88 5th Street.",
         "promoter": "",
-        "price": "",
-        "tags": [],
+        "price": "From ~$74",
+        "tags": [
+          "hip-hop",
+          "rap",
+          "live",
+          "indoor"
+        ],
         "sources": [
           {
             "url": "https://dothebay.com/events",
             "hidden": true
-          }
+          },
+          "https://dothebay.com/events/2026/11/12/isaiah-rashad-tickets",
+          "https://www.eventworld.com/isaiah-rashad-oakland-tickets-11-12-2026/event/558850"
         ],
         "tickets": [],
         "maps": {
@@ -1645,38 +1659,45 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/san-francisco/2026-11-09/isaiah-rashad-lil-sunny-74ac.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
         "id": "2026-11-09-music-marc-broussard-5070f7",
         "eid": "marc-broussard-8270",
         "track": "music",
-        "category": "",
+        "category": "Concert",
         "name": "Marc Broussard",
         "day": "Thu",
         "date": "2026-11-12",
         "time": "8:00PM",
-        "start": null,
+        "start": "20:00",
         "end": null,
-        "area": "San Francisco",
+        "area": "SoMa",
         "venue": "The Chapel",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "88 5th Street, San Francisco, CA 94103",
+        "why": "For soulful, rootsy vocals and a blend of R&B and Americana in a live set.",
+        "summary": "Marc Broussard performs on November 12, 2026 at 88 5th Street in San Francisco.",
         "promoter": "",
-        "price": "",
-        "tags": [],
+        "price": "$32-$35",
+        "tags": [
+          "soul",
+          "americana",
+          "live"
+        ],
         "sources": [
           {
             "url": "https://dothebay.com/events",
             "hidden": true
-          }
+          },
+          "https://dothebay.com/events/2026/11/12/marc-broussard-tickets"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://wl.seetickets.us/event/marc-broussard/694235?afflky=TheChapel"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=The%20Chapel",
           "apple": "https://maps.apple.com/?q=The%20Chapel"
@@ -1684,10 +1705,10 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/san-francisco/2026-11-09/marc-broussard-8270.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
