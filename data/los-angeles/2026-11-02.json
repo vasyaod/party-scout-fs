@@ -3692,10 +3692,10 @@
         "end": "02:00",
         "area": "Los Angeles",
         "venue": "Catch One (Los Angeles)",
-        "address": "",
+        "address": "4067 Pico Blvd, Los Angeles, CA 90019",
         "why": "To dance to a high-energy blend of African and South Asian rhythms.",
-        "summary": "",
-        "promoter": "",
+        "summary": "AfroDesi LA brings MR SAJ, the London-born DJ and creative director of the Afro-and-Desi party brand, to the Catch One Noise Room for a Friday night from 9pm to 2am.",
+        "promoter": "AfroDesi",
         "price": "$21.33",
         "tags": [
           "afrobeats",
@@ -3709,7 +3709,9 @@
             "hidden": true
           }
         ],
-        "tickets": [],
+        "tickets": [
+          "https://dice.fm/event/6ac9577727ad220001e07a58"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Catch%20One%20%28Los%20Angeles%29",
           "apple": "https://maps.apple.com/?q=Catch%20One%20%28Los%20Angeles%29"
@@ -3717,35 +3719,46 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/los-angeles/2026-11-02/afrodesi-mr-saj-2ab8.jpg",
         "image_generated": false,
         "popularity": 0,
         "enriched": 1,
-        "active": true
+        "active": true,
+        "lineup": []
       },
       {
         "id": "2026-11-02-music-bad-gyal-night-8e98d0",
         "eid": "bad-gyal-night-2075",
         "track": "music",
-        "category": "",
+        "category": "Nightclub",
         "name": "Bad Gyal Night",
         "day": "Fri",
         "date": "2026-11-06",
         "time": "22:00",
-        "start": null,
-        "end": null,
-        "area": "Los Angeles",
+        "start": "22:00",
+        "end": "02:00",
+        "area": "Koreatown",
         "venue": "Matriarch LA",
         "address": "3680 Wilshire Blvd #503, Los Angeles, CA 90010",
-        "why": "",
-        "summary": "",
+        "why": "A late Friday on Wilshire for dancehall and Latin club sounds, a few blocks from the Wiltern.",
+        "summary": "A Friday-night dancehall and reggaeton party at Matriarch LA with Diablito on the lineup, running 10pm to 2am.",
         "promoter": "",
         "price": "",
-        "tags": [],
+        "tags": [
+          "dance",
+          "dj",
+          "party",
+          "dancehall",
+          "reggaeton",
+          "latin",
+          "club"
+        ],
         "sources": [
           "https://ra.co/events/2563425"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://ra.co/events/2563425"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=3680%20Wilshire%20Blvd%20%23503%2C%20Los%20Angeles%2C%20CA%2090010",
           "apple": "https://maps.apple.com/?q=3680%20Wilshire%20Blvd%20%23503%2C%20Los%20Angeles%2C%20CA%2090010"
@@ -3756,7 +3769,7 @@
         "image": "https://images.ra.co/cd0ebde98b7708cd763f8b96e6c567dce5db31ad.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true,
         "lineup": [
           {
@@ -3768,25 +3781,31 @@
         "id": "2026-11-02-music-bad-snacks-neat-tape-3-release-d49a08",
         "eid": "bad-snacks-neat-tape-3-r-322f",
         "track": "music",
-        "category": "",
+        "category": "Nightclub",
         "name": "Bad Snacks [Neat Tape 3 Release Party]",
         "day": "Fri",
         "date": "2026-11-06",
         "time": "21:00",
-        "start": null,
-        "end": null,
-        "area": "Los Angeles",
+        "start": "21:00",
+        "end": "02:00",
+        "area": "Hollywood",
         "venue": "The Virgil",
         "address": "4519 Santa Monica Blvd, Los Angeles, CA 90029",
-        "why": "",
-        "summary": "",
+        "why": "To hear the new project and celebrate its release with other fans.",
+        "summary": "Release party for Neat Tape 3 by Bad Snacks on 2026-11-06 at 4519 Santa Monica Blvd, Los Angeles, CA 90029.",
         "promoter": "",
         "price": "$0 - $20",
-        "tags": [],
+        "tags": [
+          "dj",
+          "release",
+          "party"
+        ],
         "sources": [
           "https://ra.co/events/2562130"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://ra.co/events/2562130"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=The%20Virgil",
           "apple": "https://maps.apple.com/?q=The%20Virgil"
@@ -3794,10 +3813,10 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "https://images.ra.co/00bf9fdc8aa0c8a0ccc9bfe0c4610e43f40b2da2.jpg",
+        "image": "https://api.party-scout.app/img/los-angeles/2026-11-02/bad-snacks-neat-tape-3-r-322f.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true,
         "lineup": [
           {
@@ -3841,7 +3860,8 @@
           }
         ],
         "tickets": [
-          "https://ra.co/events/2540334"
+          "https://ra.co/events/2540334",
+          "https://www.eventbrite.com/e/buff-party-long-beach-falcon-north-tickets-1999810358616"
         ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Falcon%20North%20%28Long%20Beach%29%2C%20Los%20Angeles",
@@ -3853,7 +3873,7 @@
         "image": "https://images.ra.co/5d7bfd0ffdccdbd5e9a132e3a196b28b25d9ec4d.png",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
@@ -3889,7 +3909,8 @@
           }
         ],
         "tickets": [
-          "https://ra.co/events/2524293"
+          "https://ra.co/events/2524293",
+          "https://dice.fm/event/wwk3lp-dance-10-year-ft-bag-raiders-uffie-css-6th-nov-1720-los-angeles-tickets"
         ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=1720%20%28Los%20Angeles%29%2C%20Los%20Angeles",
@@ -3901,7 +3922,7 @@
         "image": "https://images.ra.co/18b40ba499214c1d3df25d7a298d4d0a7274f081.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true,
         "lineup": [
           {
