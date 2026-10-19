@@ -8109,12 +8109,19 @@
           "ticketed"
         ],
         "sources": [
-          "https://ra.co/events/2546965"
+          "https://ra.co/events/2546965",
+          {
+            "url": "https://ra.co/events/2546965",
+            "hidden": true
+          }
         ],
         "tickets": [
           "https://ra.co/events/2546965"
         ],
-        "maps": {},
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=San%20Francisco",
+          "apple": "https://maps.apple.com/?q=San%20Francisco"
+        },
         "coords": null,
         "coords_precise": false,
         "ra": {},
@@ -12670,16 +12677,19 @@
         "time": "7:00PM",
         "start": "19:00",
         "end": null,
-        "area": "San Francisco",
+        "area": "Outer Richmond",
         "venue": "Balboa Theater",
         "address": "3630 Balboa St, San Francisco, CA 94121",
-        "why": "For a local San Francisco night out on Oct. 26.",
-        "summary": "Wildwood is scheduled for October 26, 2026 at 3630 Balboa St in San Francisco. No time, lineup, or price details are listed.",
+        "why": "An easy Monday-night outing at a classic neighborhood movie house, with tickets sold through the theater.",
+        "summary": "Wildwood screens Monday evening at the Balboa Theater, the neighborhood single-screen cinema in the Outer Richmond.",
         "promoter": "",
         "price": "",
         "tags": [
           "local",
-          "nightlife"
+          "nightlife",
+          "film",
+          "cinema",
+          "outer-richmond"
         ],
         "sources": [
           "https://dothebay.com/events/2026/10/26/wildwood-tickets"
@@ -12702,21 +12712,28 @@
         "id": "2026-10-26-music-6-drive-in-movie-night-in-conc-d3c9df",
         "eid": "6-drive-in-movie-night-i-e83d",
         "track": "music",
-        "category": "",
+        "category": "Film",
         "name": "$6 Drive-In Movie Night in Concord & San Jose",
         "day": "Tue",
         "date": "2026-10-27",
         "time": "20:30",
-        "start": null,
-        "end": null,
-        "area": "San Francisco",
-        "venue": "",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "start": "20:30",
+        "end": "23:59",
+        "area": "Concord",
+        "venue": "Solano 2 Drive In",
+        "address": "1611 Solano Way, Concord, CA",
+        "why": "A cheap, nostalgic night out: watch a film from your car for the price of a coffee.",
+        "summary": "Double-feature-style movie night under the stars at Solano 2 Drive In in Concord, with tickets at just $6 per person.",
         "promoter": "",
-        "price": "",
-        "tags": [],
+        "price": "$6",
+        "tags": [
+          "outdoor",
+          "film",
+          "drive-in",
+          "affordable",
+          "movie",
+          "cheap"
+        ],
         "sources": [
           "https://sf.funcheap.com/6-drive-in-movie-night-in-concord-san-jose-211/"
         ],
@@ -12728,10 +12745,10 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/san-francisco/2026-10-26/6-drive-in-movie-night-i-e83d.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
@@ -12777,21 +12794,27 @@
         "id": "2026-10-26-music-club-darc-season-2-c7e2d0",
         "eid": "club-darc-season-2-00a9",
         "track": "music",
-        "category": "",
+        "category": "Nightclub",
         "name": "Club Darc: Season 2",
         "day": "Tue",
         "date": "2026-10-27",
         "time": "8:00PM",
         "start": "20:00",
         "end": null,
-        "area": "San Francisco",
+        "area": "SF",
         "venue": "Shed A at Pier 48",
         "address": "",
-        "why": "",
-        "summary": "",
+        "why": "A warehouse-scale dance floor on the waterfront with festival-grade lights, on a Tuesday night.",
+        "summary": "Goldenvoice's seasonal club series returns to Shed A at Pier 48 with a big-room sound and laser-heavy production. Doors at 8PM; 21+.",
         "promoter": "",
         "price": "",
-        "tags": [],
+        "tags": [
+          "club",
+          "nightlife",
+          "electronic",
+          "21+",
+          "warehouse"
+        ],
         "sources": [
           {
             "url": "https://dothebay.com/events/2026/10/17/club-darc-season-2-tickets",
@@ -12806,31 +12829,38 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/san-francisco/2026-10-26/club-darc-season-2-00a9.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
         "id": "2026-10-26-music-comedy-confessional-236b5a",
         "eid": "comedy-confessional-8ae1",
         "track": "music",
-        "category": "",
+        "category": "Comedy",
         "name": "Comedy Confessional",
         "day": "Tue",
         "date": "2026-10-27",
         "time": "8:00PM",
         "start": "20:00",
         "end": null,
-        "area": "San Francisco",
+        "area": "Haight-Ashbury",
         "venue": "O’Reillys Pub",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "1840 Haight St, San Francisco, CA 94115",
+        "why": "Free, easygoing Tuesday-night laughs where your own secrets become the material.",
+        "summary": "Free weekly Tuesday comedy show at O’Reilly’s Pub on Haight Street where audience members drop anonymous confessions in a bucket and Bay Area comedians pull them out to riff on.",
         "promoter": "",
-        "price": "",
-        "tags": [],
+        "price": "Free",
+        "tags": [
+          "comedy",
+          "standup",
+          "live",
+          "free",
+          "pub",
+          "haight"
+        ],
         "sources": [
           "https://dothebay.com/events/weekly/tue/comedy-confessional-tickets"
         ],
@@ -12842,10 +12872,10 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/san-francisco/2026-10-26/comedy-confessional-8ae1.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
@@ -18426,45 +18456,6 @@
         "tags": [],
         "sources": [
           "https://sf.funcheap.com/oakland-museum-of-californias-free-first-sundays-omca-61/"
-        ],
-        "tickets": [],
-        "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=San%20Francisco",
-          "apple": "https://maps.apple.com/?q=San%20Francisco"
-        },
-        "coords": null,
-        "coords_precise": false,
-        "ra": {},
-        "image": "",
-        "image_generated": false,
-        "popularity": 0,
-        "enriched": 0,
-        "active": true
-      },
-      {
-        "id": "2026-10-26-music-omeyocan-tzapotl-a-celebration-d68e82",
-        "eid": "omeyocan-tzapotl-a-celeb-e4ec",
-        "track": "music",
-        "category": "",
-        "name": "ŌMEYŌCĀN: TZAPOTL, A celebration of Fruits, Reverence and Expression",
-        "day": "Sun",
-        "date": "2026-11-01",
-        "time": "18:00",
-        "start": null,
-        "end": null,
-        "area": "San Francisco",
-        "venue": "TBA",
-        "address": "",
-        "why": "",
-        "summary": "",
-        "promoter": "",
-        "price": "25",
-        "tags": [],
-        "sources": [
-          {
-            "url": "https://ra.co/events/2546965",
-            "hidden": true
-          }
         ],
         "tickets": [],
         "maps": {
