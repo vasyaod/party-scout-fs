@@ -13905,28 +13905,34 @@
         "id": "2026-10-26-music-sean-majors-e290e2",
         "eid": "sean-majors-d3b6",
         "track": "music",
-        "category": "",
+        "category": "Concert",
         "name": "Sean Majors",
         "day": "Wed",
         "date": "2026-10-28",
-        "time": "",
-        "start": null,
-        "end": null,
+        "time": "9pm–2am",
+        "start": "21:00",
+        "end": "02:00",
         "area": "San Francisco",
         "venue": "F8",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "1192 Folsom St, San Francisco, CA 94103",
+        "why": "Affordable late-night show in SoMa.",
+        "summary": "Sean Majors performs at 1192 Folsom St in San Francisco on October 28, 2026, from 9pm–2am. Admission is $10.",
         "promoter": "",
-        "price": "",
-        "tags": [],
+        "price": "$10",
+        "tags": [
+          "live",
+          "ticketed"
+        ],
         "sources": [
           {
             "url": "https://edmtrain.com/san-francisco-ca",
             "hidden": true
-          }
+          },
+          "https://ra.co/events/2564166"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://ra.co/events/2564166"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=F8%2C%20San%20Francisco",
           "apple": "https://maps.apple.com/?q=F8%2C%20San%20Francisco"
@@ -13934,31 +13940,38 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/san-francisco/2026-10-26/sean-majors-d3b6.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
         "id": "2026-10-26-music-slashed-return-to-hellville-fc9855",
         "eid": "slashed-return-to-hellvi-6320",
         "track": "music",
-        "category": "",
+        "category": "Immersive horror",
         "name": "SLASHED: Return to Hellville",
         "day": "Wed",
         "date": "2026-10-28",
         "time": "6:00PM",
         "start": "18:00",
         "end": null,
-        "area": "San Francisco",
+        "area": "SoMa",
         "venue": "The San Francisco Mint",
-        "address": "",
-        "why": "",
-        "summary": "",
-        "promoter": "",
+        "address": "88 5th Street, San Francisco, CA 94103",
+        "why": "A full-on walkthrough scare experience built like a movie set, in a historic Mint building. A good Halloween-week outing if you want real frights.",
+        "summary": "Terror Vault's immersive horror show at the San Francisco Mint drops you into a living 1980s slasher movie, with live actors, big sets and a masked killer. 18+, runs through Nov 8.",
+        "promoter": "Terror Vault",
         "price": "",
-        "tags": [],
+        "tags": [
+          "halloween",
+          "party",
+          "indoor",
+          "immersive",
+          "horror",
+          "18+"
+        ],
         "sources": [
           {
             "url": "https://dothebay.com/events/2026/10/1/terror-vault-slashed-tickets",
@@ -13973,35 +13986,43 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/san-francisco/2026-10-26/slashed-return-to-hellvi-6320.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
         "id": "2026-10-26-music-strut-sf-and-f8-present-the-ha-d64a21",
         "eid": "strut-sf-and-f8-present-59aa",
         "track": "music",
-        "category": "",
+        "category": "Nightclub",
         "name": "Strut SF and F8 present The Halloween Party with Sean Majors and Jeff Straw",
         "day": "Wed",
         "date": "2026-10-28",
         "time": "21:00",
-        "start": null,
-        "end": null,
+        "start": "21:00",
+        "end": "02:00",
         "area": "San Francisco",
         "venue": "F8 1192 Folsom",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "1192 Folsom St, San Francisco, CA 94103",
+        "why": "To dance to DJ sets from Sean Majors and Jeff Straw.",
+        "summary": "A Halloween party presented by Strut SF and F8 at 1192 Folsom St in San Francisco on October 28, 2026, featuring Sean Majors and Jeff Straw.",
         "promoter": "",
         "price": "10",
-        "tags": [],
+        "tags": [
+          "dj",
+          "halloween",
+          "dance",
+          "21+",
+          "party"
+        ],
         "sources": [
           "https://ra.co/events/2564166"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://ra.co/events/2564166"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=F8%201192%20Folsom%2C%20San%20Francisco",
           "apple": "https://maps.apple.com/?q=F8%201192%20Folsom%2C%20San%20Francisco"
@@ -14009,10 +14030,10 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/san-francisco/2026-10-26/strut-sf-and-f8-present-59aa.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
@@ -19859,16 +19880,24 @@
         "day": "Wed",
         "date": "2026-10-28",
         "time": "19:00",
-        "start": null,
-        "end": null,
-        "area": "San Francisco",
-        "venue": "",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "start": "19:00",
+        "end": "21:00",
+        "area": "Lakeside",
+        "venue": "San Francisco State University Observatory",
+        "address": "Thornton Hall, 10th Floor San Francisco State University 1600 Holloway Avenue San Francisco, CA 94132",
+        "why": "Free, no-ticket stargazing with a huge telescope and city-lights views from the 10th floor of Thornton Hall.",
+        "summary": "SFSU's rooftop observatory opens to the public on clear Wednesday, Thursday and Friday evenings, with a big Meade telescope for looking at the Moon, clusters and galaxies.",
         "promoter": "",
-        "price": "",
-        "tags": [],
+        "price": "Free",
+        "tags": [
+          "free",
+          "outdoor",
+          "astronomy",
+          "telescope",
+          "stargazing",
+          "outdoors",
+          "family-friendly"
+        ],
         "sources": [
           "https://sf.funcheap.com/sf-states-free-public-rooftop-stargazing-nights-w-huge-telescope-october-2026-5/"
         ],
@@ -19880,10 +19909,10 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/san-francisco/2026-10-26/sf-state-s-free-public-r-ee42.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
