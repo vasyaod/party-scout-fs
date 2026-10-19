@@ -4285,18 +4285,20 @@
         "time": "10pm",
         "start": "22:00",
         "end": null,
-        "area": "Los Angeles",
+        "area": "Hollywood",
         "venue": "Avalon Hollywood (Los Angeles)",
         "address": "",
-        "why": "For heavy bass-driven dubstep and high-energy back-to-back DJ sets.",
-        "summary": "An electronic bass night on 2026-11-14 featuring Riot Ten, Codd Dubz, and a back-to-back set by Joust and Mongrel in Los Angeles.",
+        "why": "Heavy bass night with a headliner known for theatrical, high-energy sets, plus masked riddim acts Joust and Mongrel going back to back.",
+        "summary": "Riot Ten brings his horror-themed dubstep and hybrid trap show to Avalon Hollywood, with Codd Dubz and a Joust b2b Mongrel set in support.",
         "promoter": "",
         "price": "$19.95",
         "tags": [
           "dubstep",
           "bass",
           "electronic",
-          "dj"
+          "dj",
+          "hybrid trap",
+          "21+"
         ],
         "sources": [
           {
@@ -4312,11 +4314,12 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
-        "image_generated": false,
+        "image": "https://api.party-scout.app/img/los-angeles/2026-11-09/riot-ten-w-codd-dubz-jou-9a56.jpg",
+        "image_generated": true,
         "popularity": 0,
         "enriched": 1,
-        "active": true
+        "active": true,
+        "lineup": []
       },
       {
         "id": "2026-11-09-music-sainte-vie-053451",
@@ -4332,11 +4335,17 @@
         "area": "Los Angeles",
         "venue": "ORIGIN",
         "address": "",
-        "why": "",
-        "summary": "",
+        "why": "A touring electronic act on a Saturday night in LA; check the venue for doors and tickets.",
+        "summary": "Sainte Vie plays ORIGIN in Los Angeles on Saturday, Nov 14, part of an ongoing run of California dates.",
         "promoter": "",
         "price": "",
-        "tags": [],
+        "tags": [
+          "nightlife",
+          "los-angeles",
+          "electronic",
+          "house",
+          "club night"
+        ],
         "sources": [
           {
             "url": "https://edmtrain.com/los-angeles-ca",
@@ -4354,7 +4363,7 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
@@ -4371,18 +4380,27 @@
         "area": "Los Angeles",
         "venue": "1720 (Los Angeles)",
         "address": "",
-        "why": "",
-        "summary": "",
-        "promoter": "",
+        "why": "A heavy dubstep and bass bill from the Hostile crew, free before 11pm with RSVP.",
+        "summary": "Hostile presents Sisto with Devour and Muerte for a Saturday night of dubstep and bass music at 1720 in downtown LA. Free with RSVP before 11pm.",
+        "promoter": "Hostile",
         "price": "free w/rsvp b4 11pm /",
-        "tags": [],
+        "tags": [
+          "party",
+          "themed",
+          "dubstep",
+          "bass music",
+          "21+"
+        ],
         "sources": [
           {
             "url": "https://19hz.info/eventlisting_LosAngeles.php",
             "hidden": true
-          }
+          },
+          "https://dice.fm/event/6ac7df8b9aa36d00017ec787"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://dice.fm/event/6ac7df8b9aa36d00017ec787"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=1720%20%28Los%20Angeles%29%2C%20Los%20Angeles",
           "apple": "https://maps.apple.com/?q=1720%20%28Los%20Angeles%29%2C%20Los%20Angeles"
@@ -4390,31 +4408,36 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/los-angeles/2026-11-09/sisto-devour-muerte-e146.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
         "id": "2026-11-09-music-dekmantel-soundsystem-at-bar-f-9b0203",
         "eid": "dekmantel-soundsystem-at-01ea",
         "track": "music",
-        "category": "",
+        "category": "Nightclub",
         "name": "Dekmantel Soundsystem at Bar Franca",
         "day": "Sun",
         "date": "2026-11-15",
         "time": "19:00-02:00",
-        "start": null,
-        "end": null,
+        "start": "19:00",
+        "end": "02:00",
         "area": "Los Angeles",
         "venue": "Bar Franca",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "438 S Main St, Los Angeles, CA 90013",
+        "why": "For a focused club night in central DTLA.",
+        "summary": "Dekmantel Soundsystem at Bar Franca takes place on 2026-11-15 at 438 S Main St in DTLA, Los Angeles.",
         "promoter": "",
         "price": "free",
-        "tags": [],
+        "tags": [
+          "dj",
+          "21+",
+          "electronic",
+          "nightclub"
+        ],
         "sources": [
           "https://ra.co/events/2551426",
           {
@@ -4422,7 +4445,9 @@
             "hidden": true
           }
         ],
-        "tickets": [],
+        "tickets": [
+          "https://ra.co/events/2551426"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Bar%20Franca%2C%20Los%20Angeles",
           "apple": "https://maps.apple.com/?q=Bar%20Franca%2C%20Los%20Angeles"
@@ -4430,10 +4455,10 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/los-angeles/2026-11-09/dekmantel-soundsystem-at-01ea.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
