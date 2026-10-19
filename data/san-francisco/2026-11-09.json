@@ -3683,21 +3683,24 @@
         "id": "2026-11-09-music-flamingosis-ad7f9f",
         "eid": "flamingosis-cfdc",
         "track": "music",
-        "category": "",
+        "category": "Concert",
         "name": "FLAMINGOSIS",
         "day": "Sat",
         "date": "2026-11-14",
         "time": "21:30-02:00",
-        "start": null,
-        "end": null,
+        "start": "21:30",
+        "end": "02:00",
         "area": "San Francisco",
         "venue": "Audio SF",
         "address": "316 11th St; San Francisco CA 94103; United States",
-        "why": "",
-        "summary": "",
+        "why": "To catch a one-night live performance in San Francisco.",
+        "summary": "FLAMINGOSIS performs in San Francisco on November 14, 2026.",
         "promoter": "",
         "price": "$20",
-        "tags": [],
+        "tags": [
+          "live",
+          "dj"
+        ],
         "sources": [
           "https://ra.co/events/2471017",
           {
@@ -3705,7 +3708,9 @@
             "hidden": true
           }
         ],
-        "tickets": [],
+        "tickets": [
+          "https://ra.co/events/2471017"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=316%2011th%20St%3B%20San%20Francisco%20CA%2094103%3B%20United%20States",
           "apple": "https://maps.apple.com/?q=316%2011th%20St%3B%20San%20Francisco%20CA%2094103%3B%20United%20States"
@@ -3716,33 +3721,39 @@
         "image": "https://images.ra.co/b23432b862e162ac2f3d7d0df8da0a2de4241d32.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
         "id": "2026-11-09-music-frequency-8-mars-and-friends-b-5c1acc",
         "eid": "frequency-8-mars-and-fri-e6a8",
         "track": "music",
-        "category": "",
+        "category": "Concert",
         "name": "Frequency 8: Mars and Friends: Blurr, Forest Green, Khromata, Nisene",
         "day": "Sat",
         "date": "2026-11-14",
         "time": "21:00",
-        "start": null,
-        "end": null,
-        "area": "",
+        "start": "21:00",
+        "end": "02:30",
+        "area": "SoMa",
         "venue": "Great Northern",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "119 Utah Street, San Francisco, CA 94103",
+        "why": "For a stacked electronic lineup and high-energy DJ sets.",
+        "summary": "Frequency 8: Mars and Friends brings Blurr, Forest Green, Khromata, and Nisene to 119 Utah Street in San Francisco on November 14, 2026; tickets are $26–$43.",
         "promoter": "",
-        "price": "",
-        "tags": [],
+        "price": "$26–$43",
+        "tags": [
+          "electronic",
+          "dj",
+          "dance",
+          "ticketed"
+        ],
         "sources": [
           {
             "url": "https://19hz.info/eventlisting_BayArea.php",
             "hidden": true
-          }
+          },
+          "https://dothebay.com/events/2026/11/14/frequency-8-tickets"
         ],
         "tickets": [],
         "maps": {
@@ -3752,10 +3763,10 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/san-francisco/2026-11-09/frequency-8-mars-and-fri-e6a8.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
@@ -3767,16 +3778,19 @@
         "day": "Sat",
         "date": "2026-11-14",
         "time": "23:00-06:00",
-        "start": null,
-        "end": null,
+        "start": "23:00",
+        "end": "06:00",
         "area": "San Francisco",
         "venue": "TBA",
         "address": "",
-        "why": "",
-        "summary": "",
+        "why": "For a night out with friends in the city.",
+        "summary": "Function Affiliates is an event in San Francisco on November 14, 2026.",
         "promoter": "",
         "price": "$20-25",
-        "tags": [],
+        "tags": [
+          "nightlife",
+          "party"
+        ],
         "sources": [
           "https://ra.co/events/2558798",
           {
@@ -3784,7 +3798,9 @@
             "hidden": true
           }
         ],
-        "tickets": [],
+        "tickets": [
+          "https://ra.co/events/2558798"
+        ],
         "maps": {},
         "coords": null,
         "coords_precise": false,
@@ -3792,7 +3808,7 @@
         "image": "https://images.ra.co/07f2f3049385a7cf22ec1ac622ed6a098ffc73a6.png",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true,
         "lineup": [
           {
@@ -3813,21 +3829,26 @@
         "id": "2026-11-09-music-get-down-saturday-night-dani-a-6e2fae",
         "eid": "get-down-saturday-night-ac31",
         "track": "music",
-        "category": "",
+        "category": "Nightclub",
         "name": "Get Down Saturday Night: Dani Ashley, afterPRTY, Barto, Disco Jones",
         "day": "Sat",
         "date": "2026-11-14",
         "time": "21:45",
-        "start": null,
-        "end": null,
-        "area": "",
+        "start": "21:45",
+        "end": "02:00",
+        "area": "SF",
         "venue": "Paname",
         "address": "",
-        "why": "",
-        "summary": "",
+        "why": "For energetic DJ sets and a lively Saturday-night dance floor.",
+        "summary": "A Saturday night dance event on 2026-11-14 featuring Dani Ashley, afterPRTY, Barto, and Disco Jones. Tickets are $6–$12.",
         "promoter": "",
-        "price": "",
-        "tags": [],
+        "price": "$6–$12",
+        "tags": [
+          "dj",
+          "dance",
+          "party",
+          "ticketed"
+        ],
         "sources": [
           {
             "url": "https://19hz.info/eventlisting_BayArea.php",
@@ -3845,7 +3866,7 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
