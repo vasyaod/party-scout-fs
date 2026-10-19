@@ -1916,48 +1916,6 @@
         "active": true
       },
       {
-        "id": "2026-10-19-music-club-pivete-4058b9",
-        "eid": "club-pivete-4105",
-        "track": "music",
-        "category": "Nightclub",
-        "name": "Club Pivete",
-        "day": "Sat",
-        "date": "2026-10-24",
-        "time": "11:59pm-5am",
-        "start": "23:59",
-        "end": "05:00",
-        "area": "DTLA/Los Angeles",
-        "venue": "TBA (DTLA/Los Angeles)",
-        "address": "",
-        "why": "A full night out that runs until 5am.",
-        "summary": "A late-night club night in downtown Los Angeles running from just before midnight until 5am, 21+.",
-        "promoter": "",
-        "price": "$15",
-        "tags": [
-          "nightclub",
-          "21+"
-        ],
-        "sources": [
-          "https://ra.co/events/2530117",
-          {
-            "url": "https://19hz.info/eventlisting_LosAngeles.php",
-            "hidden": true
-          }
-        ],
-        "tickets": [
-          "https://ra.co/events/2530117"
-        ],
-        "maps": {},
-        "coords": null,
-        "coords_precise": false,
-        "ra": {},
-        "image": "https://party-scout.app/img/gen/club-pivete-4105.jpg",
-        "image_generated": false,
-        "popularity": 0,
-        "enriched": 2,
-        "active": true
-      },
-      {
         "id": "2026-10-19-music-dia-de-los-muertos-all-under-o-f886d2",
         "eid": "dia-de-los-muertos-all-u-e237",
         "track": "music",
@@ -6928,22 +6886,29 @@
         "area": "Los Angeles",
         "venue": "1720 (Los Angeles)",
         "address": "",
-        "why": "To hear a focused electronic DJ lineup in a club setting.",
-        "summary": "Solitary Garden: Final Communion brings Sub Imperium, Nmx, and Pvty Kerry to Los Angeles on 2026-10-23.",
-        "promoter": "",
+        "why": "A rare, sensory-driven underground rave from the dark electronic scene, whose first edition drew over 10,000 people.",
+        "summary": "Solitary Garden and Sub Imperium bring their Northern Dark Electronic Final Communion rave to 1720, with NMX b2b Pvty Kerry in support and Scythe on the bill. Presented by Cold Waves; phone cameras are banned and a black hood is encouraged.",
+        "promoter": "Cold Waves",
         "price": "$38",
         "tags": [
           "dj",
           "electronic",
-          "underground"
+          "underground",
+          "dark-electronic",
+          "industrial",
+          "rave",
+          "techno"
         ],
         "sources": [
           {
             "url": "https://19hz.info/eventlisting_LosAngeles.php",
             "hidden": true
-          }
+          },
+          "https://app.discotech.me/events/38257591-solitary-gardens-final-communion-at-1720-nightclub"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://app.discotech.me/events/38257591-solitary-gardens-final-communion-at-1720-nightclub"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=1720%20%28Los%20Angeles%29%2C%20Los%20Angeles",
           "apple": "https://maps.apple.com/?q=1720%20%28Los%20Angeles%29%2C%20Los%20Angeles"
@@ -6951,17 +6916,18 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/los-angeles/2026-10-19/solitary-garden-final-co-6196.jpg",
         "image_generated": false,
         "popularity": 0,
         "enriched": 1,
-        "active": true
+        "active": true,
+        "lineup": []
       },
       {
         "id": "2026-10-19-music-sub-form-junglists-756e70",
         "eid": "sub-form-junglists-bd75",
         "track": "music",
-        "category": "",
+        "category": "Nightclub",
         "name": "Sub Form Junglists",
         "day": "Fri",
         "date": "2026-10-23",
@@ -6971,18 +6937,28 @@
         "area": "Los Angeles",
         "venue": "Soulwerks (Los Angeles)",
         "address": "",
-        "why": "",
-        "summary": "",
-        "promoter": "",
+        "why": "Jungle, bassline and footwork all night in a community-run room with a chill-out tent, if you want underground bass with good house rules.",
+        "summary": "A Friday-night jungle and drum & bass party at Soulwerks with a chill-out tent, custom lighting and merch, all-ages at $15.",
+        "promoter": "Molly Ruin",
         "price": "$15",
-        "tags": [],
+        "tags": [
+          "jungle",
+          "dj",
+          "dance",
+          "drum and bass",
+          "bassline",
+          "footwork"
+        ],
         "sources": [
           {
             "url": "https://19hz.info/eventlisting_LosAngeles.php",
             "hidden": true
-          }
+          },
+          "https://events.ticketleap.com/tickets/subformjunglist/oct26"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://events.ticketleap.com/tickets/subformjunglist/oct26"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Soulwerks%20%28Los%20Angeles%29%2C%20Los%20Angeles",
           "apple": "https://maps.apple.com/?q=Soulwerks%20%28Los%20Angeles%29%2C%20Los%20Angeles"
@@ -6990,10 +6966,10 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/los-angeles/2026-10-19/sub-form-junglists-bd75.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
@@ -7010,11 +6986,14 @@
         "area": "Los Angeles",
         "venue": "Sound Nightclub (Los Angeles)",
         "address": "",
-        "why": "",
-        "summary": "",
+        "why": "For a planned night out in Los Angeles on Oct 23.",
+        "summary": "A Los Angeles event on 2026-10-23 that requires a ticket and ID for entry.",
         "promoter": "",
         "price": "",
-        "tags": [],
+        "tags": [
+          "ticketed",
+          "id-required"
+        ],
         "sources": [
           {
             "url": "https://edmtrain.com/los-angeles-ca",
@@ -7032,7 +7011,7 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
@@ -7049,11 +7028,14 @@
         "area": "Los Angeles",
         "venue": "Puzzle (West Hollywood/Los Angeles)",
         "address": "8947 Sunset Blvd, West Hollywood, CA 90069",
-        "why": "",
-        "summary": "",
+        "why": "To catch sets from Darius and Macheko.",
+        "summary": "Vertical on 2026-10-23 is billed with Darius and Macheko and takes place in Los Angeles; venue and time details were not provided.",
         "promoter": "",
         "price": "",
-        "tags": [],
+        "tags": [
+          "dj",
+          "live"
+        ],
         "sources": [
           {
             "url": "https://19hz.info/eventlisting_LosAngeles.php",
@@ -7061,7 +7043,9 @@
           },
           "https://ra.co/events/2556136"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://ra.co/events/2556136"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=8947%20Sunset%20Blvd%2C%20West%20Hollywood%2C%20CA%2090069",
           "apple": "https://maps.apple.com/?q=8947%20Sunset%20Blvd%2C%20West%20Hollywood%2C%20CA%2090069"
@@ -7072,7 +7056,7 @@
         "image": "https://images.ra.co/f0e7cb4e2a0b6924cdec949817af7854789c2e4e.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true,
         "lineup": [
           {
@@ -7271,7 +7255,7 @@
         "id": "2026-10-19-music-club-pivete-halloween-7061c6",
         "eid": "club-pivete-halloween-9702",
         "track": "music",
-        "category": "",
+        "category": "Nightclub",
         "name": "CLUB PIVETE: HALLOWEEN",
         "day": "Sat",
         "date": "2026-10-24",
@@ -7281,11 +7265,14 @@
         "area": "Los Angeles",
         "venue": "TBA - DTLA",
         "address": "",
-        "why": "",
-        "summary": "",
+        "why": "A full night out that runs until 5am.",
+        "summary": "A late-night club night in downtown Los Angeles running from just before midnight until 5am, 21+.",
         "promoter": "",
         "price": "15",
-        "tags": [],
+        "tags": [
+          "nightclub",
+          "21+"
+        ],
         "sources": [
           "https://ra.co/events/2530117",
           {
@@ -7293,7 +7280,9 @@
             "hidden": true
           }
         ],
-        "tickets": [],
+        "tickets": [
+          "https://ra.co/events/2530117"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Los%20Angeles",
           "apple": "https://maps.apple.com/?q=Los%20Angeles"
