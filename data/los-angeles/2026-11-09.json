@@ -3063,20 +3063,26 @@
         "day": "Thu",
         "date": "2026-11-12",
         "time": "19:30-22:00",
-        "start": null,
-        "end": null,
+        "start": "19:30",
+        "end": "22:00",
         "area": "Los Angeles",
         "venue": "Solotech Studios",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "6700 Santa Monica Blvd, Los Angeles, CA 90038",
+        "why": "To hear a veteran DJ/producer discuss craft, influences, and career.",
+        "summary": "An \"In Conversation\" event with Theo Parrish on November 12, 2026 at 6700 Santa Monica Blvd in Los Angeles.",
         "promoter": "",
         "price": "10-20",
-        "tags": [],
+        "tags": [
+          "dj",
+          "talk",
+          "electronic"
+        ],
         "sources": [
           "https://ra.co/events/2559486"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://ra.co/events/2559486"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Solotech%20Studios%2C%20Los%20Angeles",
           "apple": "https://maps.apple.com/?q=Solotech%20Studios%2C%20Los%20Angeles"
@@ -3084,10 +3090,10 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/los-angeles/2026-11-09/theo-parrish-in-conversa-91a2.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
@@ -3139,28 +3145,37 @@
         "id": "2026-11-09-music-alex-farell-c0baff",
         "eid": "alex-farell-5ab2",
         "track": "music",
-        "category": "",
+        "category": "Hard techno",
         "name": "Alex Farell",
         "day": "Fri",
         "date": "2026-11-13",
         "time": "11pm-5am",
         "start": "23:00",
         "end": "05:00",
-        "area": "Los Angeles",
+        "area": "DTLA",
         "venue": "TBA (DTLA/Los Angeles)",
         "address": "",
-        "why": "",
-        "summary": "",
-        "promoter": "",
+        "why": "A first LA show from a rising hard techno name, run by a promoter that books the genre, and open until 5am.",
+        "summary": "Alex Farell makes his Los Angeles debut for Code Red, an overnight hard techno night. Support and the exact location are still to be announced.",
+        "promoter": "Code Red",
         "price": "$17",
-        "tags": [],
+        "tags": [
+          "event",
+          "nightlife",
+          "hard techno",
+          "techno",
+          "late night"
+        ],
         "sources": [
           {
             "url": "https://19hz.info/eventlisting_LosAngeles.php",
             "hidden": true
-          }
+          },
+          "https://posh.vip/e/alex-farell-la-debut"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://posh.vip/e/alex-farell-la-debut"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Los%20Angeles",
           "apple": "https://maps.apple.com/?q=Los%20Angeles"
@@ -3168,38 +3183,46 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/los-angeles/2026-11-09/alex-farell-5ab2.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
         "id": "2026-11-09-music-aurora-halal-b2b-laurel-halo-74ec5a",
         "eid": "aurora-halal-b2b-laurel-ac20",
         "track": "music",
-        "category": "",
+        "category": "Nightclub",
         "name": "Aurora Halal b2b Laurel Halo",
         "day": "Fri",
         "date": "2026-11-13",
-        "time": "",
-        "start": null,
-        "end": null,
+        "time": "10pm–4am",
+        "start": "22:00",
+        "end": "04:00",
         "area": "Los Angeles",
         "venue": "Downtown Los Angeles",
         "address": "",
-        "why": "",
-        "summary": "",
+        "why": "For a marathon late-night electronic DJ experience.",
+        "summary": "Back-to-back DJ set featuring Aurora Halal and Laurel Halo on November 13, 2026, running 10pm–4am. Tickets are listed at $15 / $25 / $30 / $35.",
         "promoter": "",
-        "price": "",
-        "tags": [],
+        "price": "15 / 25 / 30 / 35",
+        "tags": [
+          "dj",
+          "electronic",
+          "21+",
+          "club"
+        ],
         "sources": [
           {
             "url": "https://edmtrain.com/los-angeles-ca",
             "hidden": true
-          }
+          },
+          "https://ra.co/events/2559598"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://ra.co/events/2559598"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Downtown%20Los%20Angeles%2C%20Los%20Angeles",
           "apple": "https://maps.apple.com/?q=Downtown%20Los%20Angeles%2C%20Los%20Angeles"
@@ -3207,35 +3230,41 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/los-angeles/2026-11-09/aurora-halal-b2b-laurel-ac20.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
         "id": "2026-11-09-music-bees-trees-water-music-festiva-e08487",
         "eid": "bees-trees-water-music-f-0e2b",
         "track": "music",
-        "category": "",
+        "category": "Festival",
         "name": "Bees Trees & Water Music Festival",
         "day": "Fri",
         "date": "2026-11-13",
         "time": "15:30-23:59",
-        "start": null,
-        "end": null,
+        "start": "15:30",
+        "end": "23:59",
         "area": "Los Angeles",
         "venue": "TBA - ON Website",
         "address": "",
-        "why": "",
-        "summary": "",
+        "why": "To attend a one-day music festival and hear a variety of performers.",
+        "summary": "Bees Trees & Water Music Festival is a music festival scheduled for November 13, 2026 in Los Angeles.",
         "promoter": "",
         "price": "$150",
-        "tags": [],
+        "tags": [
+          "festival",
+          "music",
+          "live"
+        ],
         "sources": [
           "https://ra.co/events/2553982"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://ra.co/events/2553982"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Los%20Angeles",
           "apple": "https://maps.apple.com/?q=Los%20Angeles"
@@ -3243,10 +3272,10 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/los-angeles/2026-11-09/bees-trees-water-music-f-0e2b.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {

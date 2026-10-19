@@ -1110,7 +1110,7 @@
         "why": "For a downtown San Francisco night out in a central SoMa location.",
         "summary": "An event called “lowercase” takes place on November 11, 2026 at 88 5th Street in SoMa, San Francisco.",
         "promoter": "",
-        "price": "",
+        "price": "$15 advance / $18 door",
         "tags": [
           "nightlife",
           "party",
@@ -1121,7 +1121,8 @@
             "url": "https://dothebay.com/events",
             "hidden": true
           },
-          "https://dothebay.com/events/2026/11/11/lowercase-tickets"
+          "https://dothebay.com/events/2026/11/11/lowercase-tickets",
+          "https://www.bottomofthehill.com/calendar.html"
         ],
         "tickets": [],
         "maps": {
@@ -1146,21 +1147,28 @@
         "day": "Wed",
         "date": "2026-11-11",
         "time": "8:00PM",
-        "start": null,
+        "start": "20:00",
         "end": null,
-        "area": "San Francisco",
+        "area": "SoMa",
         "venue": "Brick & Mortar Music Hall",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "88 5th Street, San Francisco, CA 94103",
+        "why": "A midweek live show at one of SF's best-loved small rooms, close to Powell BART.",
+        "summary": "Mad Tsai plays Brick & Mortar Music Hall in SoMa on Wednesday night, 8 PM start.",
         "promoter": "",
         "price": "",
-        "tags": [],
+        "tags": [
+          "live",
+          "nightlife",
+          "live music",
+          "concert",
+          "SoMa"
+        ],
         "sources": [
           {
             "url": "https://dothebay.com/events",
             "hidden": true
-          }
+          },
+          "https://dothebay.com/events/2026/11/11/mad-tsai-tickets"
         ],
         "tickets": [],
         "maps": {
@@ -1170,36 +1178,43 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/san-francisco/2026-11-09/mad-tsai-4ba4.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
         "id": "2026-11-09-music-olafur-arnalds-2nd-show-90fab6",
         "eid": "olafur-arnalds-2nd-show-edcc",
         "track": "music",
-        "category": "",
+        "category": "Concert",
         "name": "Ólafur Arnalds (2nd show)",
         "day": "Wed",
         "date": "2026-11-11",
-        "time": "",
-        "start": null,
+        "time": "7pm",
+        "start": "19:00",
         "end": null,
-        "area": "",
+        "area": "Castro",
         "venue": "The Castro",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "88 5th Street, San Francisco, CA 94103",
+        "why": "Cinematic, intimate neo-classical live set in one of SF's most beloved historic theaters.",
+        "summary": "Icelandic composer Ólafur Arnalds plays a second night at the Castro Theatre, blending piano, strings and electronics.",
         "promoter": "",
         "price": "",
-        "tags": [],
+        "tags": [
+          "neoclassical",
+          "ambient",
+          "live",
+          "neo-classical",
+          "theater"
+        ],
         "sources": [
           {
             "url": "https://dothebay.com/events",
             "hidden": true
-          }
+          },
+          "https://dothebay.com/events/2026/11/11/olafur-arnalds-tickets"
         ],
         "tickets": [],
         "maps": {
@@ -1209,10 +1224,10 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/san-francisco/2026-11-09/olafur-arnalds-2nd-show-edcc.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
@@ -1224,16 +1239,21 @@
         "day": "Wed",
         "date": "2026-11-11",
         "time": "21:00-02:00",
-        "start": null,
-        "end": null,
+        "start": "21:00",
+        "end": "02:00",
         "area": "San Francisco",
         "venue": "Makeout Room",
         "address": "3225 22nd St, San Francisco, CA, 94110, USA",
-        "why": "",
-        "summary": "",
+        "why": "For a San Francisco night out on Nov 11 while details remain TBA.",
+        "summary": "Paradiso is scheduled for November 11, 2026 in San Francisco; venue, time, lineup, and price are not provided.",
         "promoter": "",
         "price": "free",
-        "tags": [],
+        "tags": [
+          "tba",
+          "nightlife",
+          "mystery",
+          "san-francisco"
+        ],
         "sources": [
           "https://ra.co/events/2557416",
           {
@@ -1241,7 +1261,9 @@
             "hidden": true
           }
         ],
-        "tickets": [],
+        "tickets": [
+          "https://ra.co/events/2557416"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=3225%2022nd%20St%2C%20San%20Francisco%2C%20CA%2C%2094110%2C%20USA",
           "apple": "https://maps.apple.com/?q=3225%2022nd%20St%2C%20San%20Francisco%2C%20CA%2C%2094110%2C%20USA"
@@ -1252,7 +1274,7 @@
         "image": "https://images.ra.co/9ab259bdf8dcb2270282ce9129dc947929e45c57.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
