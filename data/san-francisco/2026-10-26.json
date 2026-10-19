@@ -17214,11 +17214,12 @@
             "url": "https://dothebay.com/events/2026/10/31/the-afterlife-tickets",
             "hidden": true
           },
-          "https://ra.co/events/2549311",
-          "https://dothebay.com/events/2026/10/31/the-afterlife-tickets"
+          "https://ra.co/events/2549311"
         ],
         "tickets": [
-          "https://ra.co/events/2549311"
+          "https://ra.co/events/2549311",
+          "https://ra.co/events/2556869",
+          "https://ra.co/events/us/sanfrancisco"
         ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Monarch",
@@ -17227,10 +17228,10 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "https://party-scout.app/img/gen/the-afterlife-1ffb.jpg",
-        "image_generated": true,
+        "image": "https://api.party-scout.app/img/san-francisco/2026-10-26/the-afterlife-feat-10cus-4018.jpg",
+        "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
@@ -17405,12 +17406,16 @@
         "end": null,
         "area": "San Francisco",
         "venue": "The Palace Theater",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "644 Broadway St., San Francisco, CA 94133",
+        "why": "To spend Halloween night out in the city with a crowd.",
+        "summary": "Halloween event on Oct 31, 2026 at The Black Cat Hotel, 644 Broadway St., San Francisco.",
         "promoter": "",
         "price": "",
-        "tags": [],
+        "tags": [
+          "halloween",
+          "party",
+          "indoor"
+        ],
         "sources": [
           {
             "url": "https://dothebay.com/events/2026/10/8/the-black-cat-hotel-tickets",
@@ -17425,10 +17430,10 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "https://api.party-scout.app/img/2026-10-26/the-black-cat-hotel-2568.jpg",
-        "image_generated": true,
+        "image": "https://api.party-scout.app/img/san-francisco/2026-10-26/the-black-cat-hotel-2568.jpg",
+        "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
@@ -18753,25 +18758,33 @@
         "time": "9pm",
         "start": "21:00",
         "end": null,
-        "area": "San Francisco",
+        "area": "SF",
         "venue": "TBA",
         "address": "",
-        "why": "Affordable Halloween night out with advance ticket pricing.",
-        "summary": "Halloween-night event on October 31, 2026; tickets listed as $15 presale / $20 at the door.",
-        "promoter": "",
+        "why": "Halloween on a hidden SF warehouse floor, run by Body SF, with a house, techno, disco and breaks night built for dancing in costume.",
+        "summary": "A Halloween-night warehouse party in San Francisco from 9pm to late, with house, techno, disco and breaks. The venue is secret: you DM the hosts for the location. 21+.",
+        "promoter": "Body SF",
         "price": "$15 pre / $20",
         "tags": [
           "halloween",
           "ticketed",
-          "party"
+          "party",
+          "house",
+          "techno",
+          "disco",
+          "breaks",
+          "warehouse"
         ],
         "sources": [
           {
             "url": "https://19hz.info/eventlisting_BayArea.php",
             "hidden": true
-          }
+          },
+          "https://partiful.com/e/Mca8BPaYttJExBiK0dEP"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://partiful.com/e/Mca8BPaYttJExBiK0dEP"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=San%20Francisco",
           "apple": "https://maps.apple.com/?q=San%20Francisco"
@@ -18779,7 +18792,7 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/san-francisco/2026-10-26/shake-your-bones-04be.jpg",
         "image_generated": false,
         "popularity": 0,
         "enriched": 1,
@@ -18789,26 +18802,35 @@
         "id": "2026-10-26-music-slashed-return-to-hellville-4575c3",
         "eid": "slashed-return-to-hellvi-ea43",
         "track": "music",
-        "category": "",
+        "category": "Nightclub",
         "name": "SLASHED: Return to Hellville",
         "day": "Sat",
         "date": "2026-10-31",
         "time": "6:00PM",
         "start": "18:00",
         "end": null,
-        "area": "San Francisco",
+        "area": "SoMa",
         "venue": "The San Francisco Mint",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "88 5th Street, San Francisco, CA 94103",
+        "why": "A Halloween-night walk-through horror show set in a camp-slasher world, in one of SF's most atmospheric buildings.",
+        "summary": "Terror Vault's 1980s slasher-movie immersive haunt takes over the historic San Francisco Mint. Timed entry for groups of up to 12, 18+ with ID.",
         "promoter": "",
-        "price": "",
-        "tags": [],
+        "price": "$60–$80",
+        "tags": [
+          "halloween",
+          "party",
+          "costume",
+          "indoor",
+          "haunted house",
+          "immersive",
+          "18+"
+        ],
         "sources": [
           {
             "url": "https://dothebay.com/events/2026/10/1/terror-vault-slashed-tickets",
             "hidden": true
-          }
+          },
+          "https://sf.funcheap.com/city-guide/sfs-terror-vault-1874-haunted-house-2026/"
         ],
         "tickets": [],
         "maps": {
@@ -18818,31 +18840,37 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "https://api.party-scout.app/img/2026-10-26/slashed-return-to-hellvi-ea43.jpg",
-        "image_generated": true,
+        "image": "https://api.party-scout.app/img/san-francisco/2026-10-26/slashed-return-to-hellvi-ea43.jpg",
+        "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
         "id": "2026-10-26-music-sunnyvale-autumn-food-festival-389d49",
         "eid": "sunnyvale-autumn-food-fe-aa05",
         "track": "music",
-        "category": "",
+        "category": "Festival",
         "name": "Sunnyvale Autumn Food Festival 2026 (Oct. 31-Nov. 1)",
         "day": "Sat",
         "date": "2026-10-31",
         "time": "10:00",
-        "start": null,
-        "end": null,
-        "area": "San Francisco",
-        "venue": "",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "start": "10:00",
+        "end": "17:00",
+        "area": "Sunnyvale",
+        "venue": "Cityline Sunnyvale",
+        "address": "345 W McKinley Ave, Sunnyvale, CA 94086",
+        "why": "A free, daytime Halloween-weekend outing for food, fall crafts and costumed pets in downtown Sunnyvale.",
+        "summary": "Two-day free autumn festival at Cityline Sunnyvale with food and drinks, handmade crafts, live stage performances and a pet costume contest. Runs 10am–5pm on Oct 31 and Nov 1.",
         "promoter": "",
-        "price": "",
-        "tags": [],
+        "price": "Free",
+        "tags": [
+          "food",
+          "free",
+          "outdoor",
+          "festival",
+          "family"
+        ],
         "sources": [
           "https://sf.funcheap.com/sunnyvale-autumn-food-festival-2026-oct-31nov-1/"
         ],
@@ -18854,10 +18882,10 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/san-francisco/2026-10-26/sunnyvale-autumn-food-fe-aa05.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
