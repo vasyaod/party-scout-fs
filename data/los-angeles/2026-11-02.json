@@ -3940,25 +3940,34 @@
         "id": "2026-11-02-music-the-fantastic-fellinis-8-45pm-9bb6ad",
         "eid": "the-fantastic-fellinis-8-7071",
         "track": "music",
-        "category": "",
+        "category": "Concert",
         "name": "The Fantastic Fellinis (8:45pm)",
         "day": "Fri",
         "date": "2026-11-06",
         "time": "20:00",
-        "start": null,
-        "end": null,
-        "area": "Los Angeles",
+        "start": "20:00",
+        "end": "02:00",
+        "area": "DTLA",
         "venue": "The Redwood Bar And Grill",
         "address": "316 W. 2nd Street, Los Angeles, CA  90012",
-        "why": "",
-        "summary": "",
+        "why": "A Friday-night live band in a downtown pirate-themed dive bar, easy to pair with dinner or a night out in DTLA.",
+        "summary": "The Fantastic Fellinis play a live set at The Redwood Bar and Grill in downtown LA, with an 8:45pm slot on a Friday night. Tickets are $15.",
         "promoter": "",
         "price": "$15",
-        "tags": [],
+        "tags": [
+          "live",
+          "music",
+          "live music",
+          "band",
+          "dtla",
+          "friday"
+        ],
         "sources": [
           "https://ra.co/events/2564265"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://ra.co/events/2564265"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=The%20Redwood%20Bar%20And%20Grill",
           "apple": "https://maps.apple.com/?q=The%20Redwood%20Bar%20And%20Grill"
@@ -3969,28 +3978,34 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
         "id": "2026-11-02-music-getbusy-los-angeles-prunk-slug-bef8fd",
         "eid": "getbusy-los-angeles-prun-097f",
         "track": "music",
-        "category": "",
+        "category": "Nightclub",
         "name": "Getbusy Los Angeles: Prunk, Slugg, Mr. Bones, Trainer Red",
         "day": "Fri",
         "date": "2026-11-06",
         "time": "19:00",
-        "start": null,
-        "end": null,
-        "area": "",
+        "start": "19:00",
+        "end": "01:00",
+        "area": "Santa Monica",
         "venue": "Tesla Rooftop 395 Santa Monica Pl Unit 308 (Los Angeles)",
         "address": "",
-        "why": "",
-        "summary": "",
+        "why": "A bass-leaning lineup with Prunk and Slugg on a Santa Monica rooftop, with an early 7pm start.",
+        "summary": "Getbusy rooftop night at Tesla Rooftop in Santa Monica with Prunk, Slugg, Mr. Bones and Trainer Red, 7pm to 1am.",
         "promoter": "",
         "price": "$39",
-        "tags": [],
+        "tags": [
+          "dj",
+          "dance",
+          "nightlife",
+          "bass",
+          "rooftop"
+        ],
         "sources": [
           {
             "url": "https://19hz.info/eventlisting_LosAngeles.php",
@@ -4008,28 +4023,35 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
         "id": "2026-11-02-music-i-bet-you-look-good-on-the-dan-b1873b",
         "eid": "i-bet-you-look-good-on-t-cea5",
         "track": "music",
-        "category": "",
+        "category": "Nightclub",
         "name": "I Bet You Look Good On The Dancefloor: 2009 Nite",
         "day": "Fri",
         "date": "2026-11-06",
         "time": "22:00",
-        "start": null,
-        "end": null,
-        "area": "",
+        "start": "22:00",
+        "end": "02:00",
+        "area": "Silver Lake",
         "venue": "El Cid (Los Angeles)",
         "address": "",
-        "why": "",
-        "summary": "",
+        "why": "Free entry and a nostalgic indie-sleaze playlist at a classic Silver Lake venue.",
+        "summary": "A 2009-themed throwback dance night at El Cid in Silver Lake, built around indie-dancefloor anthems of the era. Free with RSVP.",
         "promoter": "",
         "price": "free w/rsvp",
-        "tags": [],
+        "tags": [
+          "dance",
+          "dj",
+          "2000s",
+          "indie",
+          "throwback",
+          "free"
+        ],
         "sources": [
           {
             "url": "https://19hz.info/eventlisting_LosAngeles.php",
@@ -4047,7 +4069,7 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
@@ -4093,7 +4115,7 @@
         "image": "https://images.ra.co/a03c9aa098df1c10f98862f54df66b0277ea6100.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true,
         "lineup": [
           {
