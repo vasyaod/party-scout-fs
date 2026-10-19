@@ -4136,7 +4136,7 @@
         "id": "2026-11-02-music-work-presents-narciss-masha-ma-59a5b7",
         "eid": "work-presents-narciss-ma-d805",
         "track": "music",
-        "category": "Concert",
+        "category": "Nightclub",
         "name": "WORK presents: Narciss, Masha Mar, & Marc Homer",
         "day": "Fri",
         "date": "2026-11-06",
@@ -4174,7 +4174,7 @@
         "image": "https://images.ra.co/6da1cd7277fe6dff31121998c852d4af694600b4.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true,
         "lineup": [
           {
@@ -4232,7 +4232,7 @@
         "image": "https://images.ra.co/9f6fb99d77b6ef594c85c8ef46a8994f0b6a2816.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
@@ -4244,20 +4244,26 @@
         "day": "Sat",
         "date": "2026-11-07",
         "time": "22:00",
-        "start": null,
-        "end": null,
+        "start": "22:00",
+        "end": "04:00",
         "area": "Los Angeles",
         "venue": "Los Globos",
         "address": "3040 W Sunset Blvd Los Angeles, CA 90026",
-        "why": "",
-        "summary": "",
+        "why": "To attend a one-night event on Sunset Boulevard.",
+        "summary": "Happily Ever Afters is scheduled for November 7, 2026 at 3040 W Sunset Blvd in Los Angeles.",
         "promoter": "",
         "price": "$10-30",
-        "tags": [],
+        "tags": [
+          "nightlife",
+          "event",
+          "los-angeles"
+        ],
         "sources": [
           "https://ra.co/events/2562906"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://ra.co/events/2562906"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Los%20Globos",
           "apple": "https://maps.apple.com/?q=Los%20Globos"
@@ -4265,10 +4271,10 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "https://images.ra.co/44ca380fa1062ea64837a0d0be92ad00f0f8de2b.jpg",
+        "image": "https://api.party-scout.app/img/los-angeles/2026-11-02/happily-ever-afters-3182.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
@@ -4280,56 +4286,69 @@
         "day": "Sat",
         "date": "2026-11-07",
         "time": "22:00",
-        "start": null,
-        "end": null,
-        "area": "",
+        "start": "22:00",
+        "end": "04:00",
+        "area": "Los Angeles",
         "venue": "TBA (DTLA/Los Angeles)",
         "address": "",
-        "why": "",
-        "summary": "",
+        "why": "A straightforward option for an evening out and nightlife in LA.",
+        "summary": "A night titled \"Main Phase and Re:Ni\" happening in Los Angeles on 2026-11-07.",
         "promoter": "",
         "price": "$16.50-33.05",
-        "tags": [],
+        "tags": [
+          "nightlife",
+          "event",
+          "los-angeles"
+        ],
         "sources": [
           {
             "url": "https://19hz.info/eventlisting_LosAngeles.php",
             "hidden": true
-          }
+          },
+          "https://ra.co/events/2556065"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://ra.co/events/2556065"
+        ],
         "maps": {},
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/los-angeles/2026-11-02/main-phase-and-re-ni-ea4e.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
         "id": "2026-11-02-music-moby-live-pasadena-d812f4",
         "eid": "moby-live-pasadena-acc2",
         "track": "music",
-        "category": "",
+        "category": "Concert",
         "name": "Moby Live Pasadena",
         "day": "Sat",
         "date": "2026-11-07",
         "time": "14:00",
-        "start": null,
-        "end": null,
-        "area": "Los Angeles",
+        "start": "14:00",
+        "end": "23:00",
+        "area": "Pasadena",
         "venue": "Brookside at the Rose Bowl",
         "address": "1133 Rosemont Ave. Pasadena, CA 91103",
-        "why": "",
-        "summary": "",
+        "why": "For a high-energy electronic live set and production.",
+        "summary": "Moby performs live in Pasadena on November 7, 2026.",
         "promoter": "",
         "price": "",
-        "tags": [],
+        "tags": [
+          "electronic",
+          "live",
+          "concert"
+        ],
         "sources": [
           "https://ra.co/events/2526661"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://ra.co/events/2526661"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=1133%20Rosemont%20Ave.%20Pasadena%2C%20CA%2091103",
           "apple": "https://maps.apple.com/?q=1133%20Rosemont%20Ave.%20Pasadena%2C%20CA%2091103"
@@ -4340,7 +4359,7 @@
         "image": "https://images.ra.co/76473d545624ea7fdbb1af7e4415ad4a66bfab92.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true,
         "lineup": [
           {
@@ -4364,21 +4383,27 @@
         "id": "2026-11-02-music-sorry-for-party-rocking-2010-2-b4fc61",
         "eid": "sorry-for-party-rocking-ae2a",
         "track": "music",
-        "category": "",
+        "category": "Nightclub",
         "name": "Sorry For Party Rocking (2010-2015 Pop & Edm All Night Long!)",
         "day": "Sat",
         "date": "2026-11-07",
         "time": "21:30",
-        "start": null,
-        "end": null,
-        "area": "",
+        "start": "21:30",
+        "end": "02:00",
+        "area": "Mid-City",
         "venue": "Catch One (Los Angeles)",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "4067 W Pico Blvd, Los Angeles, CA 90019",
+        "why": "Free with RSVP before 10:30pm, and the playlist is all early-2010s pop and EDM singalongs.",
+        "summary": "A throwback dance night at Catch One devoted to 2010-2015 pop and EDM hits, running late into the night.",
         "promoter": "",
         "price": "free w/rsvp b4 10:30pm",
-        "tags": [],
+        "tags": [
+          "pop",
+          "edm",
+          "dj",
+          "dance",
+          "throwback"
+        ],
         "sources": [
           {
             "url": "https://19hz.info/eventlisting_LosAngeles.php",
@@ -4393,10 +4418,10 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
-        "image_generated": false,
+        "image": "https://api.party-scout.app/img/los-angeles/2026-11-02/sorry-for-party-rocking-154f.jpg",
+        "image_generated": true,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
