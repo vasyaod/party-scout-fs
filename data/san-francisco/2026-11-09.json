@@ -5410,17 +5410,20 @@
         "time": "8:00PM",
         "start": "20:00",
         "end": null,
-        "area": "San Francisco",
+        "area": "SF",
         "venue": "Cafe du Nord",
         "address": "88 5th Street, San Francisco, CA 94103",
-        "why": "For an intimate indie-pop show in SoMa.",
-        "summary": "Kate Nash performs at 88 5th Street in San Francisco on November 15, 2026.",
+        "why": "A rare Bay Area date from the 'Foundations' songwriter, and an intimate Sunday-night room to catch her in.",
+        "summary": "British singer-songwriter Kate Nash plays San Francisco on her 2026 North American tour, a Sunday-night show with doors-to-8pm energy and her indie-pop catalogue.",
         "promoter": "",
         "price": "",
         "tags": [
           "indie",
           "pop",
-          "live"
+          "live",
+          "indie-pop",
+          "singer-songwriter",
+          "live-music"
         ],
         "sources": [
           {
@@ -5447,28 +5450,38 @@
         "id": "2026-11-09-music-late-night-clubbing-093-648477",
         "eid": "late-night-clubbing-093-43f5",
         "track": "music",
-        "category": "",
+        "category": "Nightclub",
         "name": "Late Night Clubbing #093",
         "day": "Sun",
         "date": "2026-11-15",
         "time": "01:00",
-        "start": null,
-        "end": null,
-        "area": "",
-        "venue": "",
+        "start": "01:00",
+        "end": "06:00",
+        "area": "SF",
+        "venue": "TBA",
         "address": "",
-        "why": "",
-        "summary": "",
-        "promoter": "",
+        "why": "Pick this if the Saturday night is not over at 1am and you want house and EDM until sunrise.",
+        "summary": "Nyx's Late Night Clubbing #093 is an after-hours house and EDM night running 1am to 6am on Sunday, with a surprise guest billed.",
+        "promoter": "Nyx",
         "price": "",
-        "tags": [],
+        "tags": [
+          "dance",
+          "dj",
+          "21+",
+          "nightlife",
+          "house",
+          "edm",
+          "late-night"
+        ],
         "sources": [
           {
             "url": "https://19hz.info/eventlisting_BayArea.php",
             "hidden": true
           }
         ],
-        "tickets": [],
+        "tickets": [
+          "https://posh.vip/e/nyx-late-night-clubbing-093-saturday-w-surprise-guest"
+        ],
         "maps": {},
         "coords": null,
         "coords_precise": false,
@@ -5476,7 +5489,7 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
@@ -5522,26 +5535,36 @@
         "id": "2026-11-09-music-rodrigo-y-gabriela-our-home-to-6d2074",
         "eid": "rodrigo-y-gabriela-our-h-789d",
         "track": "music",
-        "category": "",
+        "category": "Concert",
         "name": "Rodrigo y Gabriela: Our Home Tour",
         "day": "Sun",
         "date": "2026-11-15",
         "time": "6:00PM",
-        "start": null,
+        "start": "18:00",
         "end": null,
         "area": "San Francisco",
         "venue": "The Castro",
-        "address": "",
-        "why": "",
-        "summary": "",
-        "promoter": "",
+        "address": "88 5th Street, San Francisco, CA 94103",
+        "why": "Two virtuoso acoustic guitarists turn flamenco, metal and rock into a rare, high-energy live show.",
+        "summary": "Grammy-winning Mexican guitar duo Rodrigo y Gabriela play The Castro on the OurHome tour, supporting a new album self-produced in Tokyo. All ages; doors at 6 PM.",
+        "promoter": "Another Planet Entertainment",
         "price": "",
-        "tags": [],
+        "tags": [
+          "acoustic",
+          "latin",
+          "guitar",
+          "live",
+          "live music",
+          "acoustic guitar",
+          "flamenco",
+          "all ages"
+        ],
         "sources": [
           {
             "url": "https://dothebay.com/events",
             "hidden": true
-          }
+          },
+          "https://dothebay.com/events/2026/11/15/rodrigo-y-gabriela-tickets"
         ],
         "tickets": [],
         "maps": {
@@ -5551,10 +5574,10 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/san-francisco/2026-11-09/rodrigo-y-gabriela-our-h-789d.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
@@ -6647,26 +6670,33 @@
         "id": "2026-11-09-sports-lindy-in-the-park-swing-dance-107fc0",
         "eid": "lindy-in-the-park-swing-7a38",
         "track": "sports",
-        "category": "",
+        "category": "Nightclub",
         "name": "Lindy in the Park Swing Dance Party",
         "day": "Sun",
         "date": "2026-11-15",
         "time": "11:00 am",
         "start": "11:00",
-        "end": null,
-        "area": "San Francisco",
+        "end": "14:00",
+        "area": "Golden Gate Park",
         "venue": "Golden Gate Park",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "JFK Dr. & Music Concourse Dr, San Francisco, CA",
+        "why": "To dance classic swing and socialize outdoors with other dancers.",
+        "summary": "A swing dance party held at JFK Dr. & Music Concourse Dr in Golden Gate Park on 2026-11-15.",
         "promoter": "",
         "price": "FREE",
-        "tags": [],
+        "tags": [
+          "swing",
+          "dance",
+          "outdoor",
+          "social",
+          "partner"
+        ],
         "sources": [
           {
             "url": "https://sf.funcheap.com/",
             "hidden": true
-          }
+          },
+          "https://sf.funcheap.com/lindy-in-the-park-swing-dance-party-golden-gate-park-279/"
         ],
         "tickets": [],
         "maps": {
@@ -6676,10 +6706,10 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/san-francisco/2026-11-09/lindy-in-the-park-swing-7a38.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
