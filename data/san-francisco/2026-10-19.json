@@ -13589,11 +13589,11 @@
         "time": "18:00",
         "start": "18:00",
         "end": "22:00",
-        "area": "San Francisco",
+        "area": "SF",
         "venue": "All Over San Francisco",
         "address": "San Francisco, CA",
-        "why": "To see new Latino cinema, attend filmmaker Q&As, and join related parties around the city.",
-        "summary": "A citywide festival running Oct 22–Nov 1, 2026, presenting Latino-focused film screenings, parties, and filmmaker chats across San Francisco.",
+        "why": "A rare chance to pair new Latin American and Latino cinema with festival parties and Q&As with the filmmakers.",
+        "summary": "Cine+Mas SF's 18th San Francisco Latino Film Festival runs Oct 22 to Nov 1 with screenings, opening-week parties and filmmaker conversations around the city.",
         "promoter": "",
         "price": "Free",
         "tags": [
@@ -13601,7 +13601,8 @@
           "festival",
           "free",
           "talks",
-          "parties"
+          "parties",
+          "latino"
         ],
         "sources": [
           "https://sf.funcheap.com/sf-latino-film-festival-2026-films-parties-filmmaker-chats-oct-22-nov-1/"
@@ -13614,7 +13615,7 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/san-francisco/2026-10-19/sf-latino-film-festival-e700.jpg",
         "image_generated": false,
         "popularity": 0,
         "enriched": 1,
@@ -13624,25 +13625,31 @@
         "id": "2026-10-19-music-thursday-thump-strictly-vinyls-beb951",
         "eid": "thursday-thump-strictly-2310",
         "track": "music",
-        "category": "",
+        "category": "Nightclub",
         "name": "Thursday Thump: strictly vinyls only",
         "day": "Thu",
         "date": "2026-10-22",
         "time": "18:00",
-        "start": null,
-        "end": null,
-        "area": "San Francisco",
+        "start": "18:00",
+        "end": "21:00",
+        "area": "SoMa",
         "venue": "Harlan Records",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "18 Harlan Place San Francisco, CA, 94108",
+        "why": "For warm, all-analog DJ sets and a dancefloor built on crate-digging grooves.",
+        "summary": "A vinyl-only DJ night happening Thursday, October 22, 2026 at 18 Harlan Place in San Francisco.",
         "promoter": "",
         "price": "",
-        "tags": [],
+        "tags": [
+          "vinyl",
+          "dj",
+          "dance"
+        ],
         "sources": [
           "https://ra.co/events/2564978"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://ra.co/events/2564978"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Harlan%20Records%2C%20San%20Francisco",
           "apple": "https://maps.apple.com/?q=Harlan%20Records%2C%20San%20Francisco"
@@ -13650,17 +13657,17 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/san-francisco/2026-10-19/thursday-thump-strictly-2310.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
         "id": "2026-10-19-music-eazybaked-presented-by-public-f8490b",
         "eid": "eazybaked-presented-by-p-c0b2",
         "track": "music",
-        "category": "",
+        "category": "Nightclub",
         "name": "EAZYBAKED presented by Public Works & Insomniac",
         "day": "Fri",
         "date": "2026-10-23",
@@ -13669,7 +13676,7 @@
         "end": "02:00",
         "area": "San Francisco",
         "venue": "Public Works",
-        "address": "",
+        "address": "161 Erie Street, San Francisco, CA 94103, United States",
         "why": "Late-night dance floor at one of the city's dedicated club rooms.",
         "summary": "A Friday-night DJ bill at Public Works, running from 9pm to 1:30am.",
         "promoter": "",
@@ -13699,11 +13706,12 @@
           {
             "url": "https://dothebay.com/events/2026/10/23/eazybaked-presented-by-public-works-insomniac-tickets",
             "hidden": true
-          },
-          "https://dothebay.com/events/2026/10/23/eazybaked-presented-by-public-works-insomniac-tickets",
-          "https://ra.co/events/2487110"
+          }
         ],
-        "tickets": [],
+        "tickets": [
+          "https://ra.co/events/2487110",
+          "https://ra.co/events/us/sanfrancisco"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Public%20Works%2C%20San%20Francisco/Oakland",
           "apple": "https://maps.apple.com/?q=Public%20Works%2C%20San%20Francisco/Oakland"
@@ -13711,31 +13719,41 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "https://party-scout.app/img/gen/eazybaked-rsun-0432.jpg",
-        "image_generated": true,
+        "image": "https://api.party-scout.app/img/san-francisco/2026-10-19/eazybaked-presented-by-p-c0b2.jpg",
+        "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
         "id": "2026-10-19-music-harvest-festival-original-art-41272c",
         "eid": "harvest-festival-origina-37a4",
         "track": "music",
-        "category": "",
+        "category": "Festival",
         "name": "Harvest Festival: Original Art + Craft Show (Pleasanton)",
         "day": "Fri",
         "date": "2026-10-23",
         "time": "09:00",
-        "start": null,
-        "end": null,
-        "area": "San Francisco",
+        "start": "09:00",
+        "end": "16:00",
+        "area": "Pleasanton",
         "venue": "Alameda County Fairgrounds, Building A",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "4501 Pleasanton Ave., Pleasanton, CA 94566",
+        "why": "A cozy fall outing in the East Bay: browse original handmade art, pick up gifts and enjoy live acoustic music among the pumpkins.",
+        "summary": "A three-day juried art and craft show at the Alameda County Fairgrounds, with handmade goods from local artisans, seasonal harvest decor and live music, running Oct 23–25.",
         "promoter": "",
-        "price": "",
-        "tags": [],
+        "price": "$9",
+        "tags": [
+          "art",
+          "crafts",
+          "market",
+          "outdoor",
+          "craft show",
+          "art market",
+          "harvest",
+          "family-friendly",
+          "live music"
+        ],
         "sources": [
           "https://sf.funcheap.com/harvest-festival-original-art-craft-show-pleasanton/"
         ],
@@ -13747,10 +13765,10 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/san-francisco/2026-10-19/harvest-festival-origina-37a4.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
@@ -15209,28 +15227,37 @@
         "id": "2026-10-19-sports-date-night-boxing-class-9daf52",
         "eid": "date-night-boxing-class-a714",
         "track": "sports",
-        "category": "",
+        "category": "Sports",
         "name": "Date Night Boxing Class",
         "day": "Fri",
         "date": "2026-10-23",
         "time": "6:30 PM",
         "start": "18:30",
         "end": null,
-        "area": "San Francisco",
+        "area": "Richmond",
         "venue": "The Park Gym",
         "address": "",
-        "why": "",
-        "summary": "",
+        "why": "A sweaty, laughing alternative to dinner and a movie, with no experience needed.",
+        "summary": "A beginner-friendly boxing class for couples at The Park Gym on Geary Blvd. Partner up, wrap your hands and work through pad drills together.",
         "promoter": "",
         "price": "From $30.00",
-        "tags": [],
+        "tags": [
+          "fitness",
+          "couples",
+          "class",
+          "active",
+          "boxing",
+          "date night"
+        ],
         "sources": [
           {
             "url": "https://www.eventbrite.com/d/ca--san-francisco/",
             "hidden": true
           }
         ],
-        "tickets": [],
+        "tickets": [
+          "https://www.eventbrite.com/d/ca--san-francisco/"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=The%20Park%20Gym%2C%20San%20Francisco",
           "apple": "https://maps.apple.com/?q=The%20Park%20Gym%2C%20San%20Francisco"
@@ -15238,10 +15265,10 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
-        "image_generated": false,
+        "image": "https://api.party-scout.app/img/san-francisco/2026-10-19/date-night-boxing-class-25bf.jpg",
+        "image_generated": true,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
