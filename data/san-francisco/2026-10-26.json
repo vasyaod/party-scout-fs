@@ -19954,7 +19954,7 @@
         "id": "2026-10-26-music-shyne-2622-lgnd-tour-with-barr-689edd",
         "eid": "shyne-2622-lgnd-tour-wit-bbdc",
         "track": "music",
-        "category": "",
+        "category": "Concert",
         "name": "Shyne – 2622 LGND Tour with Barrington Levy, Lil' Cease",
         "day": "Wed",
         "date": "2026-10-28",
@@ -19967,7 +19967,7 @@
         "why": "An easy option for an evening out in central San Francisco.",
         "summary": "Shyne is scheduled for October 28, 2026 at 8pm at 1290 Sutter Street in San Francisco.",
         "promoter": "",
-        "price": "",
+        "price": "From $53",
         "tags": [
           "nightlife",
           "event"
@@ -19985,8 +19985,8 @@
             "url": "https://dothebay.com/events",
             "hidden": true
           },
-          "https://dothebay.com/events/2026/10/28/shyne-tickets",
-          "https://www.axs.com/events/1528366/shyne-tickets"
+          "https://www.axs.com/events/1528366/shyne-tickets",
+          "https://san-francisco.events/concerts/shyne/"
         ],
         "tickets": [],
         "maps": {
@@ -19997,16 +19997,16 @@
         "coords_precise": false,
         "ra": {},
         "image": "https://api.party-scout.app/img/san-francisco/2026-10-26/shyne-2622-lgnd-tour-wit-bbdc.jpg",
-        "image_generated": true,
+        "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
         "id": "2026-10-26-music-bleood-kill-your-idols-tour-fbf9d8",
         "eid": "bleood-kill-your-idols-t-bab5",
         "track": "music",
-        "category": "",
+        "category": "Concert",
         "name": "Bleood – Kill Your Idols Tour",
         "day": "Thu",
         "date": "2026-10-29",
@@ -20036,8 +20036,7 @@
           {
             "url": "https://dothebay.com/events",
             "hidden": true
-          },
-          "https://dothebay.com/events/2026/10/29/bleood-tickets"
+          }
         ],
         "tickets": [],
         "maps": {
@@ -20048,30 +20047,35 @@
         "coords_precise": false,
         "ra": {},
         "image": "https://api.party-scout.app/img/san-francisco/2026-10-26/bleood-kill-your-idols-t-bab5.jpg",
-        "image_generated": true,
+        "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
         "id": "2026-10-26-music-every-thursday-inner-circle-da-80786a",
         "eid": "every-thursday-inner-cir-4dd7",
         "track": "music",
-        "category": "",
+        "category": "Nightclub",
         "name": "Every Thursday: “Inner Circle” Dance Party at White Rabbit (SF)",
         "day": "Thu",
         "date": "2026-10-29",
         "time": "21:00",
-        "start": null,
-        "end": null,
-        "area": "San Francisco",
-        "venue": "",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "start": "21:00",
+        "end": "01:00",
+        "area": "Marina",
+        "venue": "White Rabbit",
+        "address": "3138 Fillmore St., San Francisco, CA",
+        "why": "Free entry, guest DJs every week and a late-night dance floor in the Marina make it an easy midweek night out.",
+        "summary": "A free weekly Thursday dance party at White Rabbit on Fillmore, with a different guest DJ each night.",
         "promoter": "",
-        "price": "",
-        "tags": [],
+        "price": "Free",
+        "tags": [
+          "dance",
+          "free",
+          "dj",
+          "thursday"
+        ],
         "sources": [
           "https://sf.funcheap.com/every-thursday-inner-circle-dance-party-at-white-rabbit-sf-94/"
         ],
@@ -20083,31 +20087,38 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/san-francisco/2026-10-26/every-thursday-inner-cir-4dd7.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
         "id": "2026-10-26-music-ghosts-in-the-machine-acid-slv-74c519",
         "eid": "ghosts-in-the-machine-ac-43cc",
         "track": "music",
-        "category": "",
+        "category": "Nightclub",
         "name": "Ghosts In The Machine: ACiD Slvt, Narayan, Fovex One",
         "day": "Thu",
         "date": "2026-10-29",
         "time": "6pm",
         "start": "18:00",
-        "end": null,
+        "end": "22:00",
         "area": "Oakland",
         "venue": "7th West (Oakland)",
         "address": "",
-        "why": "",
-        "summary": "",
-        "promoter": "",
+        "why": "A rare early, finish-by-10 techno night for acid and dub techno fans, with a Fovex One-led bill.",
+        "summary": "An early-evening Thursday of acid and dub techno at 7th West in Oakland, with ACiD Slvt, Narayan and Fovex One. 21+, 6pm to 10pm.",
+        "promoter": "Drop The Trends",
         "price": "",
-        "tags": [],
+        "tags": [
+          "electronic",
+          "dj",
+          "live",
+          "techno",
+          "dub techno",
+          "acid techno"
+        ],
         "sources": [
           {
             "url": "https://19hz.info/eventlisting_BayArea.php",
@@ -20122,10 +20133,10 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/san-francisco/2026-10-26/ghosts-in-the-machine-ac-43cc.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
