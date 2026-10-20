@@ -20284,22 +20284,30 @@
         "time": "21:00",
         "start": "21:00",
         "end": "02:00",
-        "area": "San Francisco",
+        "area": "Mission",
         "venue": "Arcana",
         "address": "2512 Mission St, San Francisco",
-        "why": "To see multiple artists perform for an affordable $15 entry.",
-        "summary": "Halloween event on 2026-10-30 at 2512 Mission St in the Mission, featuring Femme Jatale, TEGH, and Louie El Ser. Tickets are $15.",
+        "why": "A Halloween dance party for Latin club and bass music fans, hosted by the Perreo Pesao crew.",
+        "summary": "Systema Halloween night at Arcana in the Mission, with Sanlo, Femme Jatale, TEGH and Louie El Ser. Expect reggaeton, perreo, baile funk, juke, house and techno until 2am.",
         "promoter": "",
         "price": "$15",
         "tags": [
           "halloween",
           "dj",
           "party",
-          "21+"
+          "21+",
+          "reggaeton",
+          "perreo",
+          "baile-funk",
+          "club"
         ],
         "sources": [
           {
             "url": "https://ra.co/events/2558041",
+            "hidden": true
+          },
+          {
+            "url": "https://19hz.info/eventlisting_BayArea.php",
             "hidden": true
           }
         ],
@@ -20313,8 +20321,8 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
-        "image_generated": false,
+        "image": "https://api.party-scout.app/img/san-francisco/2026-10-26/halloween-with-femme-jat-89ce.jpg",
+        "image_generated": true,
         "popularity": 0,
         "enriched": 1,
         "active": true
@@ -20328,20 +20336,26 @@
         "day": "Fri",
         "date": "2026-10-30",
         "time": "21:00",
-        "start": null,
-        "end": null,
+        "start": "21:00",
+        "end": "02:00",
         "area": "San Francisco",
         "venue": "Pop's Bar",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "2800 24th St, San Francisco 94110",
+        "why": "To get a Halloween night out in the neighborhood without a cover charge.",
+        "summary": "HAUNTED CHANNEL takes place October 30 at 2800 24th St in the Mission; admission is free.",
         "promoter": "",
-        "price": "",
-        "tags": [],
+        "price": "Free",
+        "tags": [
+          "halloween",
+          "free",
+          "party"
+        ],
         "sources": [
           "https://ra.co/events/2563764"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://ra.co/events/2563764"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Pop%27s%20Bar%2C%20San%20Francisco",
           "apple": "https://maps.apple.com/?q=Pop%27s%20Bar%2C%20San%20Francisco"
@@ -20349,38 +20363,47 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/san-francisco/2026-10-26/haunted-channel-35bc.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
         "id": "2026-10-26-music-systema-halloween-w-sanlo-femm-075a10",
         "eid": "systema-halloween-w-sanl-0146",
         "track": "music",
-        "category": "",
+        "category": "Nightclub",
         "name": "Systema Halloween w/ Sanlo + Femme Jatale + Tegh + Louie El Ser",
         "day": "Fri",
         "date": "2026-10-30",
         "time": "9pm",
         "start": "21:00",
-        "end": null,
+        "end": "02:00",
         "area": "San Francisco",
         "venue": "Arcana (San Francisco)",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "2512 Mission St, San Francisco",
+        "why": "For a Halloween night of electronic DJ sets and dancing in the Mission.",
+        "summary": "Systema Halloween on Oct 30, 2026 at 2512 Mission St in San Francisco, a Halloween club night with sets by Sanlo, Femme Jatale, Tegh, and Louie El Ser; $15 cover.",
         "promoter": "",
-        "price": "",
-        "tags": [],
+        "price": "$15",
+        "tags": [
+          "dj",
+          "electronic",
+          "halloween",
+          "dance",
+          "nightlife"
+        ],
         "sources": [
           {
             "url": "https://19hz.info/eventlisting_BayArea.php",
             "hidden": true
-          }
+          },
+          "https://ra.co/events/2558041"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://ra.co/events/2558041"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Arcana%20%28San%20Francisco%29%2C%20San%20Francisco",
           "apple": "https://maps.apple.com/?q=Arcana%20%28San%20Francisco%29%2C%20San%20Francisco"
@@ -20391,35 +20414,43 @@
         "image": "https://api.party-scout.app/img/san-francisco/2026-10-26/systema-halloween-w-sanl-0146.jpg",
         "image_generated": true,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
         "id": "2026-10-26-music-the-chamber-of-secrets-hallowe-73b422",
         "eid": "the-chamber-of-secrets-h-042c",
         "track": "music",
-        "category": "",
+        "category": "Nightclub",
         "name": "The Chamber of Secrets Halloween Party",
         "day": "Sat",
         "date": "2026-10-31",
         "time": "20:00",
-        "start": null,
-        "end": null,
+        "start": "21:00",
+        "end": "02:00",
         "area": "San Francisco",
         "venue": "Novela",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "859 O&#x27;farrell Street, San Francisco, CA 94109",
+        "why": "To celebrate Halloween with friends in downtown San Francisco at an affordable ticket price.",
+        "summary": "A Halloween party on October 31, 2026 at 859 O'Farrell Street in San Francisco. Tickets are $18–$27.",
         "promoter": "",
-        "price": "",
-        "tags": [],
+        "price": "$18–$27",
+        "tags": [
+          "costume",
+          "21+",
+          "dance",
+          "themed"
+        ],
         "sources": [
           {
             "url": "https://www.eventbrite.com/d/ca--san-francisco/events/",
             "hidden": true
-          }
+          },
+          "https://dothebay.com/events/2026/10/31/gasolina-halloween-party-tickets"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://www.eventbrite.com/d/ca--san-francisco/events/"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Novela%2C%20San%20Francisco",
           "apple": "https://maps.apple.com/?q=Novela%2C%20San%20Francisco"
@@ -20427,38 +20458,47 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/san-francisco/2026-10-26/the-chamber-of-secrets-h-042c.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
         "id": "2026-10-26-music-zhu-on-the-move-cb4da0",
         "eid": "zhu-on-the-move-37e2",
         "track": "music",
-        "category": "",
+        "category": "Concert",
         "name": "ZHU: On the Move",
         "day": "Sat",
         "date": "2026-10-31",
         "time": "14:00",
-        "start": null,
-        "end": null,
+        "start": "14:00",
+        "end": "21:00",
         "area": "San Francisco",
         "venue": "Gold Bar Distillery",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "1 Avenue of the Palms, San Francisco, CA 94130",
+        "why": "For a Halloween electronic dance night with club-style production.",
+        "summary": "A ZHU show titled \"On the Move\" takes place on October 31, 2026 at 1 Avenue of the Palms in San Francisco. Tickets are listed at $54.",
         "promoter": "",
-        "price": "",
-        "tags": [],
+        "price": "$54",
+        "tags": [
+          "electronic",
+          "dj",
+          "live",
+          "ticketed",
+          "halloween"
+        ],
         "sources": [
           {
             "url": "https://dothebay.com/events/2026/10/31/zhu-on-the-move-tickets",
             "hidden": true
-          }
+          },
+          "https://ra.co/events/2432590"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://ra.co/events/2432590"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Gold%20Bar%20Distillery%2C%20San%20Francisco",
           "apple": "https://maps.apple.com/?q=Gold%20Bar%20Distillery%2C%20San%20Francisco"
@@ -20467,9 +20507,9 @@
         "coords_precise": false,
         "ra": {},
         "image": "https://api.party-scout.app/img/san-francisco/2026-10-26/zhu-on-the-move-37e2.jpg",
-        "image_generated": true,
+        "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
@@ -22114,21 +22154,26 @@
         "id": "2026-10-26-sports-free-monthly-yoga-class-for-be-65e5d9",
         "eid": "free-monthly-yoga-class-1eea",
         "track": "sports",
-        "category": "",
+        "category": "Sports",
         "name": "Free Monthly Yoga Class for Beginners | SF﻿",
         "day": "Sun",
         "date": "2026-11-01",
         "time": "12:30",
-        "start": null,
-        "end": null,
+        "start": "12:30",
+        "end": "14:00",
         "area": "San Francisco",
         "venue": "Yoga Garden SF",
         "address": "286 Divisadero Street, San Francisco, CA",
-        "why": "",
-        "summary": "",
+        "why": "Build foundational movement skills and meet other local beginners in a no-cost, welcoming session.",
+        "summary": "A free monthly yoga class for beginners in San Francisco on 2026-11-01.",
         "promoter": "",
-        "price": "",
-        "tags": [],
+        "price": "Free",
+        "tags": [
+          "wellness",
+          "free",
+          "beginner",
+          "community"
+        ],
         "sources": [
           "https://sf.funcheap.com/free-monthly-yoga-class-for-beginners-sf-93/"
         ],
@@ -22143,7 +22188,7 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       }
     ]
