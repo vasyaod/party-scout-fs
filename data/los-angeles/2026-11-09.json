@@ -4755,34 +4755,39 @@
         "coords_precise": false,
         "ra": {},
         "image": "https://api.party-scout.app/img/los-angeles/2026-11-09/surface-diy-w-adam-rose-5a0d.jpg",
-        "image_generated": true,
+        "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
         "id": "2026-11-09-music-unnamed-opener-7pm-7b6690",
         "eid": "unnamed-opener-7pm-69fa",
         "track": "music",
-        "category": "",
+        "category": "Concert",
         "name": "(unnamed opener, 7pm)",
         "day": "Fri",
         "date": "2026-11-13",
         "time": "20:00",
-        "start": null,
-        "end": null,
-        "area": "Los Angeles",
+        "start": "20:00",
+        "end": "02:00",
+        "area": "DTLA",
         "venue": "The Redwood Bar And Grill",
         "address": "316 W. 2nd Street, Los Angeles, CA  90012",
-        "why": "",
-        "summary": "",
+        "why": "To catch an early set and get a head start on the night's show.",
+        "summary": "An early-evening performance listed as an unnamed opener at 7pm on November 13, 2026 in Los Angeles; venue details aren’t provided.",
         "promoter": "",
         "price": "",
-        "tags": [],
+        "tags": [
+          "live",
+          "concert"
+        ],
         "sources": [
           "https://ra.co/events/2564272"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://ra.co/events/2564272"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=316%20W.%202nd%20Street%2C%20Los%20Angeles%2C%20CA%20%2090012",
           "apple": "https://maps.apple.com/?q=316%20W.%202nd%20Street%2C%20Los%20Angeles%2C%20CA%20%2090012"
@@ -4793,7 +4798,7 @@
         "image": "https://api.party-scout.app/img/los-angeles/2026-11-09/unnamed-opener-7pm-69fa.jpg",
         "image_generated": true,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
@@ -4805,23 +4810,29 @@
         "day": "Sat",
         "date": "2026-11-14",
         "time": "16:00",
-        "start": null,
-        "end": null,
+        "start": "16:00",
+        "end": "20:00",
         "area": "Los Angeles",
         "venue": "Catalina Classic Cruises",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "1825 W. Pier D. Street Long Beach, CA 90802",
+        "why": "For a waterfront night out in Long Beach on November 14.",
+        "summary": "An event called Creatures At Sea takes place on November 14, 2026, at 1825 W. Pier D. Street in Long Beach, CA 90802.",
         "promoter": "",
         "price": "65+",
-        "tags": [],
+        "tags": [
+          "outdoor",
+          "nightlife",
+          "pier"
+        ],
         "sources": [
           {
             "url": "https://ra.co/events/2540980",
             "hidden": true
           }
         ],
-        "tickets": [],
+        "tickets": [
+          "https://ra.co/events/2540980"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Catalina%20Classic%20Cruises%2C%20Los%20Angeles",
           "apple": "https://maps.apple.com/?q=Catalina%20Classic%20Cruises%2C%20Los%20Angeles"
@@ -4830,9 +4841,9 @@
         "coords_precise": false,
         "ra": {},
         "image": "https://api.party-scout.app/img/los-angeles/2026-11-09/creatures-at-sea-2baa.jpg",
-        "image_generated": true,
+        "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       }
     ],
