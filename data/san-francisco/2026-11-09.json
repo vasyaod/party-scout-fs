@@ -5,7 +5,7 @@
   "location": "San Francisco & Bay Area",
   "city": "san-francisco",
   "city_label": "San Francisco",
-  "generated_at": "2026-10-19",
+  "generated_at": "2026-10-20",
   "tracks": {
     "music": [
       {
@@ -2272,7 +2272,8 @@
         "tags": [
           "dj",
           "ticketed",
-          "nightlife"
+          "nightlife",
+          "indoor"
         ],
         "sources": [
           {
@@ -2283,12 +2284,13 @@
             "url": "https://1015.com/",
             "hidden": true
           },
-          "https://dothebay.com/events/2026/11/13/bontan-tickets"
+          "https://dothebay.com/events/2026/11/13/bontan-tickets",
+          "https://1015.com/"
         ],
         "tickets": [],
         "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=1015%20Folsom",
-          "apple": "https://maps.apple.com/?q=1015%20Folsom"
+          "google": "https://www.google.com/maps/search/?api=1&query=314%2011th%20Street%2C%20San%20Francisco%2C%20CA%2094103",
+          "apple": "https://maps.apple.com/?q=314%2011th%20Street%2C%20San%20Francisco%2C%20CA%2094103"
         },
         "coords": null,
         "coords_precise": false,
@@ -3569,7 +3571,10 @@
         "tags": [
           "dj",
           "electronic",
-          "techno"
+          "techno",
+          "ticketed",
+          "dance",
+          "nightlife"
         ],
         "sources": [
           {
@@ -3580,12 +3585,13 @@
             "url": "https://1015.com/",
             "hidden": true
           },
-          "https://dothebay.com/events/2026/11/14/deborah-de-luca-tickets"
+          "https://dothebay.com/events/2026/11/14/deborah-de-luca-tickets",
+          "https://1015.com/"
         ],
         "tickets": [],
         "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=1015%20Folsom",
-          "apple": "https://maps.apple.com/?q=1015%20Folsom"
+          "google": "https://www.google.com/maps/search/?api=1&query=314%2011th%20Street%2C%20San%20Francisco%2C%20CA%2094103",
+          "apple": "https://maps.apple.com/?q=314%2011th%20Street%2C%20San%20Francisco%2C%20CA%2094103"
         },
         "coords": null,
         "coords_precise": false,
@@ -6476,90 +6482,6 @@
         "coords_precise": false,
         "ra": {},
         "image": "https://api.party-scout.app/img/san-francisco/2026-11-09/theo-parrish-a490.jpg",
-        "image_generated": false,
-        "popularity": 0,
-        "enriched": 1,
-        "active": true
-      },
-      {
-        "id": "2026-11-09-music-bontan-4ce5e7",
-        "eid": "bontan-946b",
-        "track": "music",
-        "category": "Nightclub",
-        "name": "Bontan",
-        "day": "Fri",
-        "date": "2026-11-13",
-        "time": "",
-        "start": "22:00",
-        "end": "04:00",
-        "area": "SoMa",
-        "venue": "",
-        "address": "314 11th Street, San Francisco, CA 94103",
-        "why": "For a SoMa late-night club night with discounted early tickets.",
-        "summary": "Bontan takes the stage at 314 11th Street in San Francisco on 2026-11-13. Tickets are $12 before 11pm, then $19–30.",
-        "promoter": "",
-        "price": "$12 b4 11 / $19-30",
-        "tags": [
-          "ticketed",
-          "nightlife",
-          "indoor"
-        ],
-        "sources": [
-          "https://1015.com/",
-          "https://dothebay.com/events/2026/11/13/bontan-tickets"
-        ],
-        "tickets": [],
-        "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=314%2011th%20Street%2C%20San%20Francisco%2C%20CA%2094103",
-          "apple": "https://maps.apple.com/?q=314%2011th%20Street%2C%20San%20Francisco%2C%20CA%2094103"
-        },
-        "coords": null,
-        "coords_precise": false,
-        "ra": {},
-        "image": "https://api.party-scout.app/img/san-francisco/2026-11-09/bontan-893d.jpg",
-        "image_generated": false,
-        "popularity": 0,
-        "enriched": 1,
-        "active": true
-      },
-      {
-        "id": "2026-11-09-music-deborah-de-luca-ba0644",
-        "eid": "deborah-de-luca-ec59",
-        "track": "music",
-        "category": "Nightclub",
-        "name": "Deborah De Luca",
-        "day": "Sat",
-        "date": "2026-11-14",
-        "time": "",
-        "start": "22:00",
-        "end": "04:00",
-        "area": "SoMa",
-        "venue": "",
-        "address": "314 11th Street, San Francisco, CA 94103",
-        "why": "For a ticketed night of electronic, DJ-driven dancing.",
-        "summary": "Deborah De Luca performs in San Francisco on November 14, 2026 at 314 11th Street; tickets are $46–$66.",
-        "promoter": "",
-        "price": "$46–$66",
-        "tags": [
-          "dj",
-          "electronic",
-          "ticketed",
-          "dance",
-          "nightlife"
-        ],
-        "sources": [
-          "https://1015.com/",
-          "https://dothebay.com/events/2026/11/14/deborah-de-luca-tickets"
-        ],
-        "tickets": [],
-        "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=314%2011th%20Street%2C%20San%20Francisco%2C%20CA%2094103",
-          "apple": "https://maps.apple.com/?q=314%2011th%20Street%2C%20San%20Francisco%2C%20CA%2094103"
-        },
-        "coords": null,
-        "coords_precise": false,
-        "ra": {},
-        "image": "https://api.party-scout.app/img/san-francisco/2026-11-09/deborah-de-luca-c293.jpg",
         "image_generated": false,
         "popularity": 0,
         "enriched": 1,
