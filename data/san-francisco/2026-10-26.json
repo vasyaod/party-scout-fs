@@ -20761,25 +20761,28 @@
         "id": "2026-10-26-music-sf-latino-film-fest-los-cenzon-b4fe01",
         "eid": "sf-latino-film-fest-los-d597",
         "track": "music",
-        "category": "Film",
+        "category": "Film + Live Music",
         "name": "SF Latino Film Fest: Los Cenzontles Film + Live Performance (KQED)",
         "day": "Thu",
         "date": "2026-10-29",
         "time": "19:00",
         "start": "19:00",
         "end": "21:00",
-        "area": "San Francisco",
+        "area": "Mission District",
         "venue": "KQED",
         "address": "2601 Mariposa St, San Francisco, CA",
-        "why": "To experience a film screening paired with live music and celebrate Latino cinema.",
-        "summary": "This SF Latino Film Fest event on October 29, 2026 at KQED presents a Los Cenzontles film screening paired with a live performance. Tickets are $24.",
+        "why": "A SF Latino Film Fest night that pairs a documentary premiere with Los Cenzontles playing live, in the Mission.",
+        "summary": "Bay Area premiere of Bird of Four Hundred Voices, a documentary on Eugene Rodríguez, founder of Los Cenzontles, followed by a live performance in The Commons at KQED.",
         "promoter": "",
         "price": "$24",
         "tags": [
           "film",
           "live",
           "festival",
-          "ticketed"
+          "ticketed",
+          "live-music",
+          "latino",
+          "documentary"
         ],
         "sources": [
           "https://sf.funcheap.com/sf-latino-film-fest-los-cenzontles-film-live-performance-kqed/"
@@ -20792,7 +20795,7 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/san-francisco/2026-10-26/sf-latino-film-fest-los-d597.jpg",
         "image_generated": false,
         "popularity": 0,
         "enriched": 1,
@@ -20802,28 +20805,35 @@
         "id": "2026-10-26-music-jay-tripwire-tho-justin-shaffe-ec26b8",
         "eid": "jay-tripwire-tho-justin-4467",
         "track": "music",
-        "category": "",
+        "category": "Concert",
         "name": "Jay Tripwire, Tho, Justin Shaffer",
         "day": "Fri",
         "date": "2026-10-30",
         "time": "21:00",
-        "start": null,
-        "end": null,
+        "start": "21:00",
+        "end": "09:00",
         "area": "San Francisco",
         "venue": "TBA",
         "address": "",
-        "why": "",
-        "summary": "",
+        "why": "To catch multiple live DJ sets in one affordable show.",
+        "summary": "A concert in San Francisco on 2026-10-30 featuring Jay Tripwire, Tho, and Justin Shaffer; tickets are listed at $20–$30.",
         "promoter": "",
-        "price": "",
-        "tags": [],
+        "price": "$20–$30",
+        "tags": [
+          "dj",
+          "live",
+          "electronic"
+        ],
         "sources": [
           {
             "url": "https://19hz.info/eventlisting_BayArea.php",
             "hidden": true
-          }
+          },
+          "https://ra.co/events/2524575"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://ra.co/events/2524575"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=San%20Francisco",
           "apple": "https://maps.apple.com/?q=San%20Francisco"
@@ -20832,9 +20842,9 @@
         "coords_precise": false,
         "ra": {},
         "image": "https://api.party-scout.app/img/san-francisco/2026-10-26/jay-tripwire-tho-justin-4467.jpg",
-        "image_generated": true,
+        "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
@@ -20873,11 +20883,11 @@
           {
             "url": "https://ra.co/events/us/sanfrancisco",
             "hidden": true
-          },
-          "https://ra.co/events/2551492"
+          }
         ],
         "tickets": [
-          "https://ra.co/events/2551492"
+          "https://ra.co/events/2551492",
+          "https://ra.co/events/us/sanfrancisco"
         ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Mothership",
@@ -20887,9 +20897,9 @@
         "coords_precise": false,
         "ra": {},
         "image": "https://api.party-scout.app/img/san-francisco/2026-10-26/maja-blast-jaag-dj-ing-n-62fe.jpg",
-        "image_generated": true,
+        "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
@@ -20901,21 +20911,27 @@
         "day": "Fri",
         "date": "2026-10-30",
         "time": "22:00",
-        "start": null,
-        "end": null,
+        "start": "22:00",
+        "end": "04:00",
         "area": "San Francisco",
         "venue": "Halcyon",
         "address": "314 11th St, San Francisco, California, 94103",
-        "why": "",
-        "summary": "",
+        "why": "For a live set in the city.",
+        "summary": "Sam Divine is scheduled to perform in San Francisco on 2026-10-30.",
         "promoter": "",
         "price": "$30",
-        "tags": [],
+        "tags": [
+          "dj",
+          "live"
+        ],
         "sources": [
           "https://www.halcyon-sf.com",
+          "https://ra.co/events/2531106",
+          "https://dothebay.com/events/2026/10/30/sam-divine-tickets"
+        ],
+        "tickets": [
           "https://ra.co/events/2531106"
         ],
-        "tickets": [],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=314%2011th%20St%2C%20San%20Francisco%2C%20California%2C%2094103",
           "apple": "https://maps.apple.com/?q=314%2011th%20St%2C%20San%20Francisco%2C%20California%2C%2094103"
@@ -20926,7 +20942,7 @@
         "image": "https://images.ra.co/c52fe055c6843bd0e7125492e20500998539f77e.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true,
         "lineup": [
           {
@@ -23327,21 +23343,30 @@
         "id": "2026-10-26-sports-hallowe-en-eve-parks-around-th-a65fd9",
         "eid": "hallowe-en-eve-parks-aro-a8b4",
         "track": "sports",
-        "category": "",
+        "category": "Festival",
         "name": "Hallowe'en Eve Parks Around The Panhandle",
         "day": "Fri",
         "date": "2026-10-30",
         "time": "15:00",
-        "start": null,
-        "end": null,
-        "area": "San Francisco",
+        "start": "15:00",
+        "end": "17:00",
+        "area": "Haight / Panhandle",
         "venue": "William McKinley Monument, William McKinley Monument, San Francisco, CA 94117",
         "address": "William McKinley Monument, San Francisco, CA 94117, San Francisco, CA",
-        "why": "",
-        "summary": "",
+        "why": "A low-key, pay-what-you-like Halloween Eve stroll to see SF's best-decorated houses with a friendly walking group.",
+        "summary": "A two-hour guided walk through four parks around the Panhandle, past one of the city's most famous decorated Halloween houses, with a few climbs and dirt paths. Costumes welcome; back before nightfall.",
         "promoter": "",
-        "price": "",
-        "tags": [],
+        "price": "By donation",
+        "tags": [
+          "halloween",
+          "outdoor",
+          "community",
+          "parks",
+          "walk",
+          "outdoors",
+          "free-ish",
+          "meetup"
+        ],
         "sources": [
           "https://www.meetup.com/roaming-zen/events/316465082/"
         ],
@@ -23356,30 +23381,37 @@
         "image": "https://secure-content.meetupstatic.com/images/classic-events/536045449/676x676.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
         "id": "2026-10-26-sports-when-was-the-last-time-you-pla-d67ac3",
         "eid": "when-was-the-last-time-y-b55a",
         "track": "sports",
-        "category": "",
+        "category": "Sports",
         "name": "When was the last time you played catch?",
         "day": "Fri",
         "date": "2026-10-30",
         "time": "17:00",
-        "start": null,
-        "end": null,
+        "start": "17:00",
+        "end": "18:30",
         "area": "San Francisco",
         "venue": "Philz Coffee Truck, 500 Marina Blvd",
         "address": "500 Marina Blvd, San Francisco, CA",
-        "why": "",
-        "summary": "",
+        "why": "Free, low-key way to meet people outdoors on a Friday evening by the bay. Bring a glove if you have one.",
+        "summary": "Casual game of catch at Marina Green: toss a baseball, softball, football or volleyball around and meet people. No teams, no pressure.",
         "promoter": "",
-        "price": "",
-        "tags": [],
+        "price": "Free",
+        "tags": [
+          "community",
+          "social",
+          "sports",
+          "outdoors",
+          "free"
+        ],
         "sources": [
-          "https://www.meetup.com/catch-up/events/316876869/"
+          "https://www.meetup.com/catch-up/events/316876869/",
+          "https://dothebay.com/events/2026/10/30/the-last-revel-tickets"
         ],
         "tickets": [],
         "maps": {
@@ -23392,7 +23424,7 @@
         "image": "https://secure-content.meetupstatic.com/images/classic-events/534768968/676x676.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
