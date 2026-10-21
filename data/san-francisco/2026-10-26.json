@@ -5,7 +5,7 @@
   "location": "San Francisco & Bay Area",
   "city": "san-francisco",
   "city_label": "San Francisco",
-  "generated_at": "2026-10-20",
+  "generated_at": "2026-10-21",
   "tracks": {
     "music": [
       {
@@ -2521,7 +2521,7 @@
         "name": "Mixed Sounds: Alkemiss Erika, Reza, Nisa, Cwiz, Teego, Ancarco, Hidra",
         "day": "Thu",
         "date": "2026-10-29",
-        "time": "9pm",
+        "time": "21:00",
         "start": "21:00",
         "end": "02:00",
         "area": "San Francisco",
@@ -2538,7 +2538,10 @@
           "thursday"
         ],
         "sources": [
-          "https://19hz.info/eventlisting_BayArea.php"
+          {
+            "url": "https://19hz.info/eventlisting_BayArea.php",
+            "hidden": true
+          }
         ],
         "tickets": [],
         "maps": {
@@ -2611,7 +2614,7 @@
         "name": "The Operator & Liquid Kicks",
         "day": "Thu",
         "date": "2026-10-29",
-        "time": "9pm",
+        "time": "21:00",
         "start": "21:00",
         "end": "01:30",
         "area": "San Francisco",
@@ -2626,7 +2629,12 @@
           "late-night",
           "san-francisco"
         ],
-        "sources": [],
+        "sources": [
+          {
+            "url": "https://19hz.info/eventlisting_BayArea.php",
+            "hidden": true
+          }
+        ],
         "tickets": [],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Phonobar",
@@ -2698,7 +2706,7 @@
         "name": "Perreo Electrico Halloween ft OtebNSolrac + Secret Lineup",
         "day": "Thu",
         "date": "2026-10-29",
-        "time": "9pm",
+        "time": "21:00",
         "start": "21:00",
         "end": "02:00",
         "area": "San Francisco",
@@ -2714,7 +2722,12 @@
           "halloween",
           "dance"
         ],
-        "sources": [],
+        "sources": [
+          {
+            "url": "https://19hz.info/eventlisting_BayArea.php",
+            "hidden": true
+          }
+        ],
         "tickets": [],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=The%20Midway%20Ride",
@@ -2879,7 +2892,8 @@
           {
             "url": "https://edmtrain.com/san-francisco-ca",
             "hidden": true
-          }
+          },
+          "https://1015.com"
         ],
         "tickets": [
           "https://ra.co/events/2483932"
@@ -2948,7 +2962,7 @@
         "name": "Substance Fest: Desire, Mothermary, Madeline Goldstein, Sacred Skin, Club Drugs, Violet Thrones, DJ Starr Noir, DJ Black Lipstick",
         "day": "Thu",
         "date": "2026-10-29",
-        "time": "6pm",
+        "time": "18:00",
         "start": "18:30",
         "end": "01:00",
         "area": "San Francisco",
@@ -2966,7 +2980,11 @@
           "nightlife"
         ],
         "sources": [
-          "https://dothebay.com/events/2026/10/29/desire-mothermary-tickets"
+          "https://dothebay.com/events/2026/10/29/desire-mothermary-tickets",
+          {
+            "url": "https://19hz.info/eventlisting_BayArea.php",
+            "hidden": true
+          }
         ],
         "tickets": [],
         "maps": {
@@ -3128,7 +3146,7 @@
         "name": "Avalon Emerson, Sedef Adasi, Mez Monty, BEYA, likeholywine, nonsuit",
         "day": "Fri",
         "date": "2026-10-30",
-        "time": "10pm",
+        "time": "22:00",
         "start": "22:00",
         "end": "06:00",
         "area": "San Francisco",
@@ -3177,7 +3195,7 @@
         "name": "Calitalo Disco",
         "day": "Fri",
         "date": "2026-10-30",
-        "time": "10pm",
+        "time": "22:00",
         "start": "22:00",
         "end": "02:00",
         "area": "San Francisco",
@@ -3193,7 +3211,12 @@
           "late-night",
           "dance"
         ],
-        "sources": [],
+        "sources": [
+          {
+            "url": "https://19hz.info/eventlisting_BayArea.php",
+            "hidden": true
+          }
+        ],
         "tickets": [],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Make%20Out%20Room",
@@ -3303,7 +3326,7 @@
         "start": "22:00",
         "end": null,
         "area": "San Francisco",
-        "venue": "The Regency Ballroom",
+        "venue": "Regency Ballroom",
         "address": "1290 Sutter Street, San Francisco, CA 94109",
         "why": "Costume-friendly Halloween-eve goth party in one of SF's grandest ballrooms.",
         "summary": "A Halloween-weekend goth and darkwave night at the Regency Ballroom, pitting Cholos against Vampires on one dancefloor. 21+.",
@@ -3328,7 +3351,8 @@
           {
             "url": "https://www.theregencyballroom.com/shows",
             "hidden": true
-          }
+          },
+          "https://www.regencyballroom.com"
         ],
         "tickets": [
           "https://www.axs.com/events/1528369"
@@ -3395,7 +3419,7 @@
         "name": "Darude, Nile, Vic Vibez",
         "day": "Fri",
         "date": "2026-10-30",
-        "time": "9:30pm",
+        "time": "21:30",
         "start": "21:30",
         "end": "02:00",
         "area": "San Francisco",
@@ -3413,7 +3437,11 @@
           "nightlife"
         ],
         "sources": [
-          "https://www.audiosf.com/event/darude-10-30/"
+          "https://www.audiosf.com/event/darude-10-30/",
+          {
+            "url": "https://19hz.info/eventlisting_BayArea.php",
+            "hidden": true
+          }
         ],
         "tickets": [],
         "maps": {
@@ -3437,7 +3465,7 @@
         "name": "Devil's Night: Sage, Starr Noir",
         "day": "Fri",
         "date": "2026-10-30",
-        "time": "9pm",
+        "time": "21:00",
         "start": "21:00",
         "end": null,
         "area": "San Francisco",
@@ -3453,7 +3481,12 @@
           "halloween",
           "evening"
         ],
-        "sources": [],
+        "sources": [
+          {
+            "url": "https://19hz.info/eventlisting_BayArea.php",
+            "hidden": true
+          }
+        ],
         "tickets": [],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=1190%20Folsom%20St",
@@ -3476,7 +3509,7 @@
         "name": "Electroluxx Halloween",
         "day": "Fri",
         "date": "2026-10-30",
-        "time": "9pm",
+        "time": "21:00",
         "start": "21:00",
         "end": "05:00",
         "area": "San Francisco",
@@ -3492,7 +3525,12 @@
           "ticketed",
           "late-night"
         ],
-        "sources": [],
+        "sources": [
+          {
+            "url": "https://19hz.info/eventlisting_BayArea.php",
+            "hidden": true
+          }
+        ],
         "tickets": [],
         "maps": {},
         "coords": null,
@@ -3512,7 +3550,7 @@
         "name": "European Halloween Party Feat. DJ Lumiles & DJ Casparone + Slic3r",
         "day": "Fri",
         "date": "2026-10-30",
-        "time": "10pm",
+        "time": "22:00",
         "start": "22:00",
         "end": "02:00",
         "area": "San Francisco",
@@ -3530,7 +3568,11 @@
           "late-night"
         ],
         "sources": [
-          "https://www.eventbrite.com/e/european-halloween-party-feat-dj-lumiles-dj-casparone-slic3r-tickets-2002376608338"
+          "https://www.eventbrite.com/e/european-halloween-party-feat-dj-lumiles-dj-casparone-slic3r-tickets-2002376608338",
+          {
+            "url": "https://19hz.info/eventlisting_BayArea.php",
+            "hidden": true
+          }
         ],
         "tickets": [
           "https://www.eventbrite.com/e/european-halloween-party-feat-dj-lumiles-dj-casparone-slic3r-tickets-2002376608338"
@@ -3556,7 +3598,7 @@
         "name": "Fixed Gloss: Brown Angel, Charles Hawthorne, Alice Stribling",
         "day": "Fri",
         "date": "2026-10-30",
-        "time": "9pm",
+        "time": "21:00",
         "start": "21:00",
         "end": "02:00",
         "area": "San Francisco",
@@ -3573,7 +3615,10 @@
           "indie dance"
         ],
         "sources": [
-          "https://19hz.info/eventlisting_BayArea.php"
+          {
+            "url": "https://19hz.info/eventlisting_BayArea.php",
+            "hidden": true
+          }
         ],
         "tickets": [
           "https://shotgun.live/en/events/fixedglosshalloween"
@@ -3744,7 +3789,7 @@
         "name": "Halloween Friday the 30th",
         "day": "Fri",
         "date": "2026-10-30",
-        "time": "9pm",
+        "time": "21:00",
         "start": "21:00",
         "end": "02:00",
         "area": "San Francisco",
@@ -3761,7 +3806,11 @@
           "late-night"
         ],
         "sources": [
-          "https://www.eventbrite.com/e/halloween-friday-the-30th-tickets-2002490881131"
+          "https://www.eventbrite.com/e/halloween-friday-the-30th-tickets-2002490881131",
+          {
+            "url": "https://19hz.info/eventlisting_BayArea.php",
+            "hidden": true
+          }
         ],
         "tickets": [
           "https://www.eventbrite.com/e/halloween-friday-the-30th-tickets-2002490881131"
@@ -3787,7 +3836,7 @@
         "name": "Hallows Gate:  Sid The Science Bitch, Noctavia, Maznoize, Normis, Purranoia, Mandi Darkling",
         "day": "Fri",
         "date": "2026-10-30",
-        "time": "1:30am",
+        "time": "01:30",
         "start": "01:30",
         "end": "07:30",
         "area": "San Francisco",
@@ -3804,7 +3853,10 @@
           "halloween"
         ],
         "sources": [
-          "https://19hz.info/eventlisting_BayArea.php"
+          {
+            "url": "https://19hz.info/eventlisting_BayArea.php",
+            "hidden": true
+          }
         ],
         "tickets": [],
         "maps": {},
@@ -3914,7 +3966,7 @@
         "name": "Lost Miracle (Sebastien Leger & Roy Rosenfeld) & Satori",
         "day": "Fri",
         "date": "2026-10-30",
-        "time": "9pm",
+        "time": "21:00",
         "start": "21:00",
         "end": "04:00",
         "area": "San Francisco",
@@ -3932,7 +3984,11 @@
         ],
         "sources": [
           "https://ra.co/events/2535580",
-          "https://dothebay.com/events/2026/10/30/set-halloween-w-lost-miracle-sebastien-leger-roy-rosenfeld-satori-sf-tickets"
+          "https://dothebay.com/events/2026/10/30/set-halloween-w-lost-miracle-sebastien-leger-roy-rosenfeld-satori-sf-tickets",
+          {
+            "url": "https://19hz.info/eventlisting_BayArea.php",
+            "hidden": true
+          }
         ],
         "tickets": [
           "https://ra.co/events/2535580"
@@ -3945,49 +4001,6 @@
         "coords_precise": false,
         "ra": {},
         "image": "https://party-scout.app/img/gen/lost-miracle-sebastien-l-47e2.jpg",
-        "image_generated": false,
-        "popularity": 0,
-        "enriched": 1,
-        "active": true
-      },
-      {
-        "id": "2026-10-26-music-maja-blast-feat-dj-ing-a3ba26",
-        "eid": "maja-blast-feat-dj-ing-ed0b",
-        "track": "music",
-        "category": "Nightclub",
-        "name": "Maja Blast feat. DJ ing",
-        "day": "Fri",
-        "date": "2026-10-30",
-        "time": "9pm–2am",
-        "start": "21:00",
-        "end": "02:00",
-        "area": "Mission",
-        "venue": "Mothership",
-        "address": "3152 Mission Street San Francisco, CA 94110",
-        "why": "For a free late-night DJ set and dancing into the early morning.",
-        "summary": "A free late-night event billed as \"Maja Blast feat. DJ ing\" on Oct 30, 2026 at 3152 Mission Street, running 9pm–2am.",
-        "promoter": "",
-        "price": "Free",
-        "tags": [
-          "dj",
-          "free",
-          "dance",
-          "late-night"
-        ],
-        "sources": [
-          "https://ra.co/events/2551492"
-        ],
-        "tickets": [
-          "https://ra.co/events/2551492"
-        ],
-        "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=Mothership",
-          "apple": "https://maps.apple.com/?q=Mothership"
-        },
-        "coords": null,
-        "coords_precise": false,
-        "ra": {},
-        "image": "https://party-scout.app/img/gen/maja-blast-feat-dj-ing-ed0b.jpg",
         "image_generated": false,
         "popularity": 0,
         "enriched": 1,
@@ -4181,7 +4194,7 @@
         "name": "Pyramido + Ashkan, Cixtii b2b Icybender",
         "day": "Fri",
         "date": "2026-10-30",
-        "time": "9pm",
+        "time": "21:00",
         "start": "21:00",
         "end": "03:00",
         "area": "San Francisco",
@@ -4197,7 +4210,12 @@
           "dance",
           "late-night"
         ],
-        "sources": [],
+        "sources": [
+          {
+            "url": "https://19hz.info/eventlisting_BayArea.php",
+            "hidden": true
+          }
+        ],
         "tickets": [],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Madarae",
@@ -4373,7 +4391,7 @@
         "name": "Stardella All Vinyl: Carrieondisco, & DJ m3",
         "day": "Fri",
         "date": "2026-10-30",
-        "time": "9pm",
+        "time": "21:00",
         "start": "21:00",
         "end": "01:30",
         "area": "San Francisco",
@@ -4389,7 +4407,12 @@
           "free",
           "dance"
         ],
-        "sources": [],
+        "sources": [
+          {
+            "url": "https://19hz.info/eventlisting_BayArea.php",
+            "hidden": true
+          }
+        ],
         "tickets": [],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Phonobar",
@@ -4461,7 +4484,7 @@
         "name": "Substance Fest: Cold Cave, SRSQ, Laura Krieg, Houses of Heaven, False Figure, A.Cold.Era",
         "day": "Fri",
         "date": "2026-10-30",
-        "time": "6pm",
+        "time": "18:00",
         "start": "18:30",
         "end": "01:00",
         "area": "San Francisco",
@@ -4478,7 +4501,11 @@
           "indie"
         ],
         "sources": [
-          "https://dothebay.com/events/2026/10/30/cold-cave-solo-srsq-tickets"
+          "https://dothebay.com/events/2026/10/30/cold-cave-solo-srsq-tickets",
+          {
+            "url": "https://19hz.info/eventlisting_BayArea.php",
+            "hidden": true
+          }
         ],
         "tickets": [],
         "maps": {
@@ -4696,6 +4723,10 @@
           {
             "url": "https://ra.co/events/us/sanfrancisco",
             "hidden": true
+          },
+          {
+            "url": "https://19hz.info/eventlisting_BayArea.php",
+            "hidden": true
           }
         ],
         "tickets": [
@@ -4786,7 +4817,7 @@
         "name": "Club X Halloween 2026",
         "day": "Sat",
         "date": "2026-10-31",
-        "time": "9pm",
+        "time": "21:00",
         "start": "21:00",
         "end": "03:00",
         "area": "San Francisco",
@@ -4803,7 +4834,12 @@
           "party",
           "costume"
         ],
-        "sources": [],
+        "sources": [
+          {
+            "url": "https://19hz.info/eventlisting_BayArea.php",
+            "hidden": true
+          }
+        ],
         "tickets": [],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=715%20Harrison",
@@ -4826,7 +4862,7 @@
         "name": "Coffee & Beats: Koby, Lei, Omna",
         "day": "Sat",
         "date": "2026-10-31",
-        "time": "11am",
+        "time": "11:00",
         "start": "11:00",
         "end": "17:00",
         "area": "San Francisco",
@@ -4842,7 +4878,12 @@
           "dj",
           "coffee"
         ],
-        "sources": [],
+        "sources": [
+          {
+            "url": "https://19hz.info/eventlisting_BayArea.php",
+            "hidden": true
+          }
+        ],
         "tickets": [],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Hedge%20Coffee",
@@ -4865,7 +4906,7 @@
         "name": "Dead Famous: Illborn & On The Rocks",
         "day": "Sat",
         "date": "2026-10-31",
-        "time": "9pm",
+        "time": "21:00",
         "start": "20:00",
         "end": "01:30",
         "area": "San Francisco",
@@ -4880,7 +4921,11 @@
           "live"
         ],
         "sources": [
-          "https://dothebay.com/events/2026/10/31/wake-the-dead-tickets"
+          "https://dothebay.com/events/2026/10/31/wake-the-dead-tickets",
+          {
+            "url": "https://19hz.info/eventlisting_BayArea.php",
+            "hidden": true
+          }
         ],
         "tickets": [],
         "maps": {
@@ -4904,7 +4949,7 @@
         "name": "Decay, Joe Radio, Melting Girl, Starr Noir, Lowlife, Damon",
         "day": "Sat",
         "date": "2026-10-31",
-        "time": "9pm",
+        "time": "21:00",
         "start": "21:00",
         "end": "03:00",
         "area": "San Francisco",
@@ -4920,7 +4965,12 @@
           "party",
           "halloween"
         ],
-        "sources": [],
+        "sources": [
+          {
+            "url": "https://19hz.info/eventlisting_BayArea.php",
+            "hidden": true
+          }
+        ],
         "tickets": [],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=1190%20Folsom%20St",
@@ -4987,7 +5037,7 @@
         "name": "Dusk To Dawn Halloween Night: Big Wild, Vandelux, Hercules and Love Affair, David Harness, Qaotiq",
         "day": "Sat",
         "date": "2026-10-31",
-        "time": "9pm",
+        "time": "21:00",
         "start": "21:00",
         "end": "04:00",
         "area": "San Francisco",
@@ -5004,7 +5054,12 @@
           "live",
           "21+"
         ],
-        "sources": [],
+        "sources": [
+          {
+            "url": "https://19hz.info/eventlisting_BayArea.php",
+            "hidden": true
+          }
+        ],
         "tickets": [],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Palace%20of%20Fine%20Arts",
@@ -5072,7 +5127,7 @@
         "name": "The Equation (Acemo + Swami Sound), Mesme, at-at b2b Skiis",
         "day": "Sat",
         "date": "2026-10-31",
-        "time": "9pm",
+        "time": "21:00",
         "start": "21:00",
         "end": "02:00",
         "area": "San Francisco",
@@ -5089,7 +5144,11 @@
           "nightlife"
         ],
         "sources": [
-          "https://ra.co/events/2542481"
+          "https://ra.co/events/2542481",
+          {
+            "url": "https://19hz.info/eventlisting_BayArea.php",
+            "hidden": true
+          }
         ],
         "tickets": [
           "https://ra.co/events/2542481"
@@ -5115,7 +5174,7 @@
         "name": "Frankenstein (1931)",
         "day": "Sat",
         "date": "2026-10-31",
-        "time": "3:00PM",
+        "time": "15:00",
         "start": "15:00",
         "end": "17:00",
         "area": "San Francisco",
@@ -5206,7 +5265,7 @@
         "name": "Garage of Horrors: Scilla, Mvrdok, Spreki, Driddle",
         "day": "Sat",
         "date": "2026-10-31",
-        "time": "9pm",
+        "time": "21:00",
         "start": "21:00",
         "end": "01:30",
         "area": "San Francisco",
@@ -5220,7 +5279,12 @@
           "free",
           "dj"
         ],
-        "sources": [],
+        "sources": [
+          {
+            "url": "https://19hz.info/eventlisting_BayArea.php",
+            "hidden": true
+          }
+        ],
         "tickets": [],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Swig%20Bar",
@@ -5286,7 +5350,7 @@
         "name": "Hallo-Queen Haunted House Dance Party: Adrian Orozco, Bryan Noe",
         "day": "Sat",
         "date": "2026-10-31",
-        "time": "8pm",
+        "time": "20:00",
         "start": "20:00",
         "end": "03:00",
         "area": "San Francisco",
@@ -5305,7 +5369,10 @@
           "21+"
         ],
         "sources": [
-          "https://19hz.info/eventlisting_BayArea.php",
+          {
+            "url": "https://19hz.info/eventlisting_BayArea.php",
+            "hidden": true
+          },
           "https://www.eventbrite.com/e/hallo-queen-haunted-house-dance-party-halloween-beaux-8pm-3am-after-hours-tickets-2001625921012"
         ],
         "tickets": [
@@ -5333,7 +5400,7 @@
         "name": "Halloween Party",
         "day": "Sat",
         "date": "2026-10-31",
-        "time": "9pm",
+        "time": "21:00",
         "start": "11:00",
         "end": "15:00",
         "area": "San Francisco",
@@ -5350,7 +5417,11 @@
           "party"
         ],
         "sources": [
-          "https://sf.funcheap.com/12th-annual-chinatown-halloween-festival-block-party-sf/"
+          "https://sf.funcheap.com/12th-annual-chinatown-halloween-festival-block-party-sf/",
+          {
+            "url": "https://19hz.info/eventlisting_BayArea.php",
+            "hidden": true
+          }
         ],
         "tickets": [],
         "maps": {
@@ -5494,42 +5565,6 @@
         ]
       },
       {
-        "id": "2026-10-26-music-late-night-clubbing-088-37123f",
-        "eid": "late-night-clubbing-088-75be",
-        "track": "music",
-        "category": "Nightclub",
-        "name": "Late Night Clubbing #088",
-        "day": "Sat",
-        "date": "2026-10-31",
-        "time": "2am",
-        "start": "02:00",
-        "end": "06:00",
-        "area": "San Francisco",
-        "venue": "TBA",
-        "address": "",
-        "why": "To dance and socialize into the early-morning hours.",
-        "summary": "After-hours clubbing on 2026-10-31 from 2–6am in San Francisco.",
-        "promoter": "",
-        "price": "",
-        "tags": [
-          "dance",
-          "late-night",
-          "21+",
-          "nightlife"
-        ],
-        "sources": [],
-        "tickets": [],
-        "maps": {},
-        "coords": null,
-        "coords_precise": false,
-        "ra": {},
-        "image": "https://party-scout.app/img/gen/late-night-clubbing-088-f957.jpg",
-        "image_generated": true,
-        "popularity": 0,
-        "enriched": 1,
-        "active": true
-      },
-      {
         "id": "2026-10-26-music-medium-build-b92c19",
         "eid": "medium-build-9e04",
         "track": "music",
@@ -5633,7 +5668,7 @@
         "name": "Midnight Carnival Block Party: Rl Grime, Imanu B2B Nitepunk, Casey Club B2B 2Spade, Strobez B2B Buns, Falldren, Odd Language, Ratchaelbeats, Re!Gn, Silcrow, Devyn, Dvan B2B Viceversa, Hiraeth, Ike B2B Jujuseph, Nykoe, Control Freak, Lucky & Wink",
         "day": "Sat",
         "date": "2026-10-31",
-        "time": "4pm",
+        "time": "16:00",
         "start": "16:00",
         "end": "22:00",
         "area": "San Francisco",
@@ -5651,7 +5686,11 @@
           "halloween"
         ],
         "sources": [
-          "https://dothebay.com/events/2026/10/31/midnight-carnival-block-party-tickets"
+          "https://dothebay.com/events/2026/10/31/midnight-carnival-block-party-tickets",
+          {
+            "url": "https://19hz.info/eventlisting_BayArea.php",
+            "hidden": true
+          }
         ],
         "tickets": [],
         "maps": {
@@ -5853,7 +5892,7 @@
         "name": "Sacha Robotti, Sato, Way?",
         "day": "Sat",
         "date": "2026-10-31",
-        "time": "10pm",
+        "time": "22:00",
         "start": "22:00",
         "end": "04:00",
         "area": "San Francisco",
@@ -5885,6 +5924,10 @@
           },
           {
             "url": "https://ra.co/events/2556861",
+            "hidden": true
+          },
+          {
+            "url": "https://www.halcyon-sf.com/",
             "hidden": true
           }
         ],
@@ -5965,7 +6008,7 @@
         "name": "Scene Halloween: Estellita, Ihaveabomb, Ketamine Princess, Moxbpm, Swagbaby",
         "day": "Sat",
         "date": "2026-10-31",
-        "time": "10pm",
+        "time": "22:00",
         "start": "22:00",
         "end": null,
         "area": "San Francisco",
@@ -5980,7 +6023,12 @@
           "dj",
           "party"
         ],
-        "sources": [],
+        "sources": [
+          {
+            "url": "https://19hz.info/eventlisting_BayArea.php",
+            "hidden": true
+          }
+        ],
         "tickets": [],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=3rd%20%26%20Army",
@@ -6244,7 +6292,7 @@
         "name": "Dani Flow El Dia De Los Muertos",
         "day": "Sun",
         "date": "2026-11-01",
-        "time": "9pm",
+        "time": "21:00",
         "start": "21:00",
         "end": "02:00",
         "area": "San Francisco",
@@ -6260,7 +6308,11 @@
           "late-night"
         ],
         "sources": [
-          "https://www.eventbrite.com/e/dani-flow-el-dia-de-los-muertos-111-tickets-1998500290166"
+          "https://www.eventbrite.com/e/dani-flow-el-dia-de-los-muertos-111-tickets-1998500290166",
+          {
+            "url": "https://19hz.info/eventlisting_BayArea.php",
+            "hidden": true
+          }
         ],
         "tickets": [
           "https://www.eventbrite.com/e/dani-flow-el-dia-de-los-muertos-111-tickets-1998500290166"
@@ -6407,41 +6459,6 @@
         "coords_precise": false,
         "ra": {},
         "image": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/32889148/5bb63e52-cab7-4d3a-ab60-de838d92a237.png",
-        "image_generated": false,
-        "popularity": 0,
-        "enriched": 1,
-        "active": true
-      },
-      {
-        "id": "2026-10-26-music-late-night-clubbing-089-cf8340",
-        "eid": "late-night-clubbing-089-40b2",
-        "track": "music",
-        "category": "Nightclub",
-        "name": "Late Night Clubbing #089",
-        "day": "Sun",
-        "date": "2026-11-01",
-        "time": "1am",
-        "start": "01:00",
-        "end": "06:00",
-        "area": "San Francisco",
-        "venue": "TBA",
-        "address": "",
-        "why": "For late-night dancing and a club atmosphere.",
-        "summary": "Late Night Clubbing #089 is scheduled for 2026-11-01 from 1–6am. The venue is not listed.",
-        "promoter": "",
-        "price": "",
-        "tags": [
-          "dj",
-          "dance",
-          "late-night"
-        ],
-        "sources": [],
-        "tickets": [],
-        "maps": {},
-        "coords": null,
-        "coords_precise": false,
-        "ra": {},
-        "image": "",
         "image_generated": false,
         "popularity": 0,
         "enriched": 1,
@@ -6625,7 +6642,7 @@
         "name": "Pigeons Playing Ping Pong",
         "day": "Sun",
         "date": "2026-11-01",
-        "time": "18:00",
+        "time": "19:00",
         "start": "19:00",
         "end": "23:00",
         "area": "San Francisco",
@@ -7275,7 +7292,7 @@
         "name": "Sam Divine, Stephyv, Logan Connors",
         "day": "Fri",
         "date": "2026-10-30",
-        "time": "10pm",
+        "time": "22:00",
         "start": "22:00",
         "end": "04:00",
         "area": "San Francisco",
@@ -7311,6 +7328,10 @@
           },
           {
             "url": "https://edmtrain.com/san-francisco-ca",
+            "hidden": true
+          },
+          {
+            "url": "https://www.halcyon-sf.com/",
             "hidden": true
           }
         ],
@@ -7418,7 +7439,7 @@
         "name": "Glamoween III: Deer | Nile | Amiss | Renassance | Sahar ZIn",
         "day": "Thu",
         "date": "2026-10-29",
-        "time": "9pm",
+        "time": "21:00",
         "start": "21:00",
         "end": "02:00",
         "area": "San Francisco",
@@ -7427,7 +7448,7 @@
         "why": "For a late-night Halloween dance party and costume scene in SoMa.",
         "summary": "Glamoween III is a Halloween-themed night on October 29, 2026 at 46 Minna St in SoMa, running 9pm–2am with $20 admission.",
         "promoter": "",
-        "price": "$20",
+        "price": "20.00",
         "tags": [
           "halloween",
           "costume",
@@ -7436,7 +7457,18 @@
           "late-night"
         ],
         "sources": [
-          "https://ra.co/events/2542468"
+          {
+            "url": "https://ra.co/events/2542468",
+            "hidden": true
+          },
+          {
+            "url": "https://19hz.info/eventlisting_BayArea.php",
+            "hidden": true
+          },
+          {
+            "url": "https://ra.co/events/us/sanfrancisco",
+            "hidden": true
+          }
         ],
         "tickets": [
           "https://ra.co/events/2542468"
@@ -7509,7 +7541,7 @@
         "name": "Boofoween: Only Fire, DJ Sexstasy, Queenie, Andyland",
         "day": "Sat",
         "date": "2026-10-31",
-        "time": "10:30pm",
+        "time": "22:30",
         "start": "22:30",
         "end": "03:00",
         "area": "San Francisco",
@@ -7527,7 +7559,18 @@
           "ticketed"
         ],
         "sources": [
-          "https://ra.co/events/2484351"
+          {
+            "url": "https://ra.co/events/2484351",
+            "hidden": true
+          },
+          {
+            "url": "https://19hz.info/eventlisting_BayArea.php",
+            "hidden": true
+          },
+          {
+            "url": "https://ra.co/events/us/sanfrancisco",
+            "hidden": true
+          }
         ],
         "tickets": [
           "https://ra.co/events/2484351"
@@ -7553,7 +7596,7 @@
         "name": "Final Girls: T4T Halloween - Finishher B2B Source, Girls Trip (Pretty Privilege B2B Tom Marsi, Freak Pov, Parking Structure (Live)",
         "day": "Sat",
         "date": "2026-10-31",
-        "time": "9pm",
+        "time": "21:00",
         "start": "21:00",
         "end": "02:00",
         "area": "San Francisco",
@@ -7562,7 +7605,7 @@
         "why": "For an affordable, late-night Halloween party and dancing until 2am.",
         "summary": "A Halloween night party on Oct 31, 2026 at 3158 Mission St in San Francisco, running 9pm–2am with a $10 cover.",
         "promoter": "",
-        "price": "$10 | 21+",
+        "price": "10",
         "tags": [
           "halloween",
           "party",
@@ -7571,7 +7614,18 @@
           "late-night"
         ],
         "sources": [
-          "https://ra.co/events/2513956"
+          {
+            "url": "https://ra.co/events/2513956",
+            "hidden": true
+          },
+          {
+            "url": "https://19hz.info/eventlisting_BayArea.php",
+            "hidden": true
+          },
+          {
+            "url": "https://ra.co/events/us/sanfrancisco",
+            "hidden": true
+          }
         ],
         "tickets": [
           "https://ra.co/events/2513956"
@@ -7597,7 +7651,7 @@
         "name": "Generaid3rz Hellaween2: Kilbourne, MANAPOOL, bastiengoat, Enable Secret, Technopagan, DJ Saratonin, GHOST MILK, TARANEH, Sueuga, xtcemi",
         "day": "Sat",
         "date": "2026-10-31",
-        "time": "10pm",
+        "time": "22:00",
         "start": "22:00",
         "end": "04:00",
         "area": "San Francisco",
@@ -7606,7 +7660,7 @@
         "why": "Catch multiple featured artists across a full late-night set window for an affordable $15 entry.",
         "summary": "Halloween night event on Oct 31 at 1192 Folsom St in SoMa running 10pm–4am with a $15 cover. The bill lists Kilbourne, MANAPOOL, Enable Secret, and Technopagan.",
         "promoter": "",
-        "price": "$15 | 21+",
+        "price": "15",
         "tags": [
           "halloween",
           "paid",
@@ -7615,7 +7669,18 @@
           "party"
         ],
         "sources": [
-          "https://ra.co/events/2542624"
+          {
+            "url": "https://ra.co/events/2542624",
+            "hidden": true
+          },
+          {
+            "url": "https://19hz.info/eventlisting_BayArea.php",
+            "hidden": true
+          },
+          {
+            "url": "https://ra.co/events/us/sanfrancisco",
+            "hidden": true
+          }
         ],
         "tickets": [
           "https://ra.co/events/2542624"
@@ -7682,7 +7747,7 @@
         "name": "Hoochie House: DJ Nico, Euphemia, DJ Tink, Ecto",
         "day": "Sat",
         "date": "2026-10-31",
-        "time": "3pm",
+        "time": "15:00",
         "start": "15:00",
         "end": "20:00",
         "area": "San Francisco",
@@ -7691,7 +7756,7 @@
         "why": "An affordable, ticketed Halloween afternoon party in the Mission.",
         "summary": "Hoochie House takes place at 3158 Mission St in San Francisco on October 31, 2026, running from 3–8pm with $10 admission.",
         "promoter": "",
-        "price": "$5-10 | 21+",
+        "price": "5-10",
         "tags": [
           "halloween",
           "party",
@@ -7699,7 +7764,26 @@
           "afternoon"
         ],
         "sources": [
-          "https://ra.co/events/2538160"
+          {
+            "url": "https://ra.co/events/2538160",
+            "hidden": true
+          },
+          {
+            "url": "https://ra.co/events/2546185",
+            "hidden": true
+          },
+          {
+            "url": "https://19hz.info/eventlisting_BayArea.php",
+            "hidden": true
+          },
+          {
+            "url": "https://ra.co/events/us/sanfrancisco",
+            "hidden": true
+          },
+          {
+            "url": "https://edmtrain.com/san-francisco-ca",
+            "hidden": true
+          }
         ],
         "tickets": [
           "https://ra.co/events/2538160"
@@ -7729,7 +7813,7 @@
         "start": "14:00",
         "end": "21:00",
         "area": "San Francisco",
-        "venue": "TBA - Gold Bar Distillery Treasure Island",
+        "venue": "Gold Bar Whiskey Distillery Tasting Room",
         "address": "1 Avenue of the Palms, San Francisco, CA 94130",
         "why": "To attend a ticketed afternoon-to-evening live music event in the city.",
         "summary": "ZHU: On the Move is scheduled in San Francisco on October 31, 2026, running 2–9pm; tickets start at $54.",
@@ -7738,7 +7822,11 @@
         "tags": [
           "live",
           "paid",
-          "afternoon"
+          "afternoon",
+          "electronic",
+          "dj",
+          "ticketed",
+          "halloween"
         ],
         "sources": [
           {
@@ -7764,19 +7852,20 @@
           {
             "url": "https://www.eventbrite.com/d/ca--san-francisco/",
             "hidden": true
-          }
+          },
+          "https://ra.co/events/2432590"
         ],
         "tickets": [
           "https://ra.co/events/2432590"
         ],
         "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=Gold%20Bar%20Distillery",
-          "apple": "https://maps.apple.com/?q=Gold%20Bar%20Distillery"
+          "google": "https://www.google.com/maps/search/?api=1&query=Gold%20Bar%20Distillery%2C%20San%20Francisco",
+          "apple": "https://maps.apple.com/?q=Gold%20Bar%20Distillery%2C%20San%20Francisco"
         },
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "https://api.party-scout.app/img/san-francisco/2026-10-26/zhu-on-the-move-hallowee-2e93.jpg",
+        "image": "https://party-scout.app/img/gen/zhu-on-the-move-f91f.jpg",
         "image_generated": true,
         "popularity": 0,
         "enriched": 1,
@@ -7880,7 +7969,7 @@
         "name": "Swedm (Varg2tm & Jamesjamesjames)",
         "day": "Thu",
         "date": "2026-10-29",
-        "time": "10:00PM",
+        "time": "22:00",
         "start": "22:00",
         "end": "01:00",
         "area": "San Francisco",
@@ -7895,10 +7984,15 @@
           "dj",
           "dance",
           "indoor",
-          "late-night"
+          "late-night",
+          "electronic",
+          "club"
         ],
         "sources": [
-          "https://ra.co/events/2540103",
+          {
+            "url": "https://ra.co/events/2540103",
+            "hidden": true
+          },
           "https://dothebay.com/events/2026/10/29/swedm-varg2tm-jamesjamesjames-tickets",
           {
             "url": "https://19hz.info/eventlisting_BayArea.php",
@@ -7914,10 +8008,6 @@
           },
           {
             "url": "https://edmtrain.com/san-francisco-ca",
-            "hidden": true
-          },
-          {
-            "url": "https://ra.co/events/2540103",
             "hidden": true
           }
         ],
@@ -7945,7 +8035,7 @@
         "name": "Lost In Dreams Block Party: Marshmello, Armnhmr, Chyl, Grabbitz, Ghostdragon, Alvyn B2B Senza, Ghost. B2B Hidden Axis, Medii B2B Nikita Page, That One Scrub, Wadayawant / Afterparty: Armnhmr, Paper Skies & Senza",
         "day": "Fri",
         "date": "2026-10-30",
-        "time": "5pm",
+        "time": "17:00",
         "start": "17:00",
         "end": "02:00",
         "area": "San Francisco",
@@ -8001,7 +8091,7 @@
         "name": "Program Audio: PAURRO b2b Debit b2b erika, xtcemi, Arreola Grande, sfcowboy, Lexicon, salamigate",
         "day": "Fri",
         "date": "2026-10-30",
-        "time": "10pm",
+        "time": "22:00",
         "start": "22:00",
         "end": "04:00",
         "area": "San Francisco",
@@ -8018,7 +8108,18 @@
           "paid"
         ],
         "sources": [
-          "https://ra.co/events/2542662"
+          {
+            "url": "https://ra.co/events/2542662",
+            "hidden": true
+          },
+          {
+            "url": "https://19hz.info/eventlisting_BayArea.php",
+            "hidden": true
+          },
+          {
+            "url": "https://ra.co/events/us/sanfrancisco",
+            "hidden": true
+          }
         ],
         "tickets": [
           "https://ra.co/events/2542662"
@@ -8044,7 +8145,7 @@
         "name": "Omeyocan: Tzapotl, A Celebration Of Fruits, Reverence and Expression - San Ch, Spinorita, Brown Angel Fka Brown Amy, DJ Ari B B2B Ghostmilk, Three6Sashia, Mala Grena, Palomx",
         "day": "Sun",
         "date": "2026-11-01",
-        "time": "6pm",
+        "time": "18:00",
         "start": "18:00",
         "end": "00:00",
         "area": "San Francisco",
@@ -8060,9 +8161,16 @@
           "ticketed"
         ],
         "sources": [
-          "https://ra.co/events/2546965",
           {
             "url": "https://ra.co/events/2546965",
+            "hidden": true
+          },
+          {
+            "url": "https://19hz.info/eventlisting_BayArea.php",
+            "hidden": true
+          },
+          {
+            "url": "https://ra.co/events/us/sanfrancisco",
             "hidden": true
           }
         ],
@@ -8146,7 +8254,7 @@
         "end": "01:30",
         "area": "San Francisco",
         "venue": "Bar Part Time",
-        "address": "",
+        "address": "496 14th Street",
         "why": "For a free, high-energy night of music and dancing.",
         "summary": "A free event called DeeJay Energy in San Francisco on October 29, 2026.",
         "promoter": "",
@@ -8171,11 +8279,17 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://images.ra.co/c677124d3578f857d07cc96c4da15aec8955a5f1.jpg",
         "image_generated": false,
         "popularity": 0,
         "enriched": 1,
-        "active": true
+        "active": true,
+        "lineup": [
+          {
+            "name": "Deejay Energy",
+            "instagram": null
+          }
+        ]
       },
       {
         "id": "2026-10-26-music-audio-halloween-darude-18de4b",
@@ -8233,7 +8347,7 @@
         "name": "Halloween Rave: Narcalepsy, Drift, Ruckus, Psymatik",
         "day": "Fri",
         "date": "2026-10-30",
-        "time": "10pm",
+        "time": "22:00",
         "start": "22:00",
         "end": null,
         "area": "San Francisco",
@@ -8250,7 +8364,11 @@
           "halloween"
         ],
         "sources": [
-          "https://www.instagram.com/ravesnearyou/p/DeFkJryttwJ/"
+          "https://www.instagram.com/ravesnearyou/p/DeFkJryttwJ/",
+          {
+            "url": "https://19hz.info/eventlisting_BayArea.php",
+            "hidden": true
+          }
         ],
         "tickets": [],
         "maps": {
@@ -8325,7 +8443,7 @@
         "name": "The Monster Massive: Ultraviolet, Estrella, Moxbpm, ihaveabomb, Estellita, Yuba, Damu, Alleyeowl, Say Gex, Yogi, Rabidvodka",
         "day": "Fri",
         "date": "2026-10-30",
-        "time": "10pm",
+        "time": "22:00",
         "start": "22:00",
         "end": null,
         "area": "San Francisco",
@@ -8341,7 +8459,12 @@
           "dance",
           "club"
         ],
-        "sources": [],
+        "sources": [
+          {
+            "url": "https://19hz.info/eventlisting_BayArea.php",
+            "hidden": true
+          }
+        ],
         "tickets": [],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=San%20Francisco",
@@ -8490,7 +8613,7 @@
         "name": "Tunnel Rave: Ruckus, Narcalepsy, Dr1Ft, Psymatik",
         "day": "Fri",
         "date": "2026-10-30",
-        "time": "10pm",
+        "time": "22:00",
         "start": "22:00",
         "end": null,
         "area": "San Francisco",
@@ -8506,7 +8629,12 @@
           "dj",
           "underground"
         ],
-        "sources": [],
+        "sources": [
+          {
+            "url": "https://19hz.info/eventlisting_BayArea.php",
+            "hidden": true
+          }
+        ],
         "tickets": [],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=San%20Francisco",
@@ -8529,7 +8657,7 @@
         "name": "Autograf",
         "day": "Sat",
         "date": "2026-10-31",
-        "time": "9pm",
+        "time": "21:00",
         "start": "21:00",
         "end": "03:00",
         "area": "San Francisco",
@@ -8546,7 +8674,11 @@
           "ticketed"
         ],
         "sources": [
-          "https://ra.co/events/2554989"
+          "https://ra.co/events/2554989",
+          {
+            "url": "https://19hz.info/eventlisting_BayArea.php",
+            "hidden": true
+          }
         ],
         "tickets": [
           "https://ra.co/events/2554989"
@@ -8572,7 +8704,7 @@
         "name": "B.P.T. Is Dead Halloween w/ Wonja + Anya",
         "day": "Sat",
         "date": "2026-10-31",
-        "time": "9pm",
+        "time": "21:00",
         "start": "21:00",
         "end": "01:30",
         "area": "San Francisco",
@@ -8588,7 +8720,12 @@
           "dj",
           "party"
         ],
-        "sources": [],
+        "sources": [
+          {
+            "url": "https://19hz.info/eventlisting_BayArea.php",
+            "hidden": true
+          }
+        ],
         "tickets": [],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Bar%20Part%20Time%2C%20San%20Francisco",
@@ -8611,11 +8748,11 @@
         "name": "Fairmont Hotel San Francisco MEGA HALLOWEEN Party",
         "day": "Sat",
         "date": "2026-10-31",
-        "time": "9:00 PM",
+        "time": "21:00",
         "start": "21:00",
         "end": "02:00",
         "area": "San Francisco",
-        "venue": "FAIRMONT HOTEL",
+        "venue": "Fairmont Hotel",
         "address": "316 11th St., San Francisco, CA 94103",
         "why": "For a ticketed Halloween night out.",
         "summary": "A Halloween party titled \"Fairmont Hotel San Francisco MEGA HALLOWEEN Party\" takes place October 31, 2026 at 316 11th St., San Francisco. Tickets start at $20+.",
@@ -8627,7 +8764,12 @@
           "tickets"
         ],
         "sources": [
-          "https://ra.co/events/2535524"
+          "https://ra.co/events/2535524",
+          {
+            "url": "https://www.eventbrite.com/d/ca--san-francisco/events/",
+            "hidden": true
+          },
+          "https://www.eventbrite.com/d/ca--san-francisco/"
         ],
         "tickets": [
           "https://ra.co/events/2535524"
@@ -8639,8 +8781,8 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "https://party-scout.app/img/gen/fairmont-hotel-san-franc-f91b.jpg",
-        "image_generated": false,
+        "image": "https://api.party-scout.app/img/san-francisco/2026-10-26/fairmont-hotel-san-franc-f91b.jpg",
+        "image_generated": true,
         "popularity": 0,
         "enriched": 1,
         "active": true
@@ -8868,7 +9010,7 @@
         "time": "7:30 PM",
         "start": null,
         "end": null,
-        "area": "SF",
+        "area": "San Francisco",
         "venue": "Great American Music Hall",
         "address": "",
         "why": "Dreamy California psych-pop from Inner Wave in a gilded 1907 ballroom, as part of San Francisco's Psyched! Fest.",
@@ -8883,7 +9025,8 @@
           "psych"
         ],
         "sources": [
-          "https://gamh.com/calendar/"
+          "https://gamh.com/calendar/",
+          "https://edmtrain.com/san-francisco-ca"
         ],
         "tickets": [
           "https://wl.eventim.us/event/inner-wave/702861?afflky=GreatAmericanMusicHall"
@@ -9335,44 +9478,6 @@
         "active": true
       },
       {
-        "id": "2026-10-26-music-christian-loffler-paris-gru-di-377b70",
-        "eid": "christian-loffler-paris-ffe6",
-        "track": "music",
-        "category": "Concert",
-        "name": "Christian Loffler, PARIS, Gru.di, DWSM, ALMAS",
-        "day": "Sat",
-        "date": "2026-10-31",
-        "time": "9pm",
-        "start": "21:00",
-        "end": "03:00",
-        "area": "San Francisco",
-        "venue": "Public Works",
-        "address": "",
-        "why": "To catch a multi-artist live show in San Francisco on Halloween.",
-        "summary": "A multi-artist music night featuring Christian Loffler, PARIS, Gru.di, DWSM, and ALMAS on October 31, 2026 in San Francisco; venue details were not provided.",
-        "promoter": "",
-        "price": "$51-56+ | 21+",
-        "tags": [
-          "live",
-          "multi-artist",
-          "halloween"
-        ],
-        "sources": [],
-        "tickets": [],
-        "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=Public%20Works%2C%20San%20Francisco",
-          "apple": "https://maps.apple.com/?q=Public%20Works%2C%20San%20Francisco"
-        },
-        "coords": null,
-        "coords_precise": false,
-        "ra": {},
-        "image": "https://party-scout.app/img/gen/christian-loffler-paris-ffe6.jpg",
-        "image_generated": true,
-        "popularity": 0,
-        "enriched": 1,
-        "active": true
-      },
-      {
         "id": "2026-10-26-music-demon-time-halloween-rave-18-s-6d7679",
         "eid": "demon-time-halloween-rav-e5ed",
         "track": "music",
@@ -9422,7 +9527,7 @@
         "start": "19:00",
         "end": "01:30",
         "area": "San Francisco",
-        "venue": "The Regency Ballroom",
+        "venue": "Regency Ballroom",
         "address": "1290 Sutter Street, San Francisco, CA 94109",
         "why": "Free entry for an easygoing evening in central San Francisco.",
         "summary": "The Musical Box is a free event on November 1, 2026 at 7pm at 1290 Sutter Street in San Francisco.",
@@ -9444,7 +9549,8 @@
           {
             "url": "https://dothebay.com/events",
             "hidden": true
-          }
+          },
+          "https://www.regencyballroom.com"
         ],
         "tickets": [],
         "maps": {
@@ -11250,11 +11356,11 @@
         "name": "R&B and RIBS SF - HALLOWEEN",
         "day": "Sat",
         "date": "2026-10-31",
-        "time": "",
+        "time": "21:00",
         "start": null,
         "end": null,
-        "area": "SoMa",
-        "venue": "SVN West - A NPU Venue",
+        "area": "San Francisco",
+        "venue": "SVN West",
         "address": "",
         "why": "Pick this for a costume-friendly R&B dance floor on Halloween Saturday.",
         "summary": "The R&B and RIBS party takes over SVN West for Halloween night, with R&B, hip-hop and throwback sets and a costume crowd. The series ran a Halloween night here in 2025.",
@@ -11270,7 +11376,9 @@
           "dance party",
           "hip-hop"
         ],
-        "sources": [],
+        "sources": [
+          "https://www.eventbrite.com/d/ca--san-francisco/"
+        ],
         "tickets": [],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=SVN%20West%20-%20A%20NPU%20Venue",
@@ -13027,7 +13135,7 @@
         "name": "House/Not House - Huffy",
         "day": "Tue",
         "date": "2026-10-27",
-        "time": "9pm",
+        "time": "21:00",
         "start": "21:00",
         "end": "02:00",
         "area": "San Francisco",
@@ -13048,7 +13156,10 @@
             "url": "https://19hz.info/eventlisting_BayArea.php",
             "hidden": true
           },
-          "https://ra.co/events/2554064",
+          {
+            "url": "https://ra.co/events/2554064",
+            "hidden": true
+          },
           "https://dothebay.com/events/2026/10/27/house-not-house-tickets"
         ],
         "tickets": [
@@ -13075,7 +13186,7 @@
         "name": "Interzone - Hell-O-Ween Costume Party: Hex Embrace, Byter, Rafael Fierro",
         "day": "Tue",
         "date": "2026-10-27",
-        "time": "9pm",
+        "time": "21:00",
         "start": "21:00",
         "end": "02:00",
         "area": "San Francisco",
@@ -13103,7 +13214,10 @@
             "url": "https://ra.co/events/us/sanfrancisco",
             "hidden": true
           },
-          "https://ra.co/events/2552036",
+          {
+            "url": "https://ra.co/events/2552036",
+            "hidden": true
+          },
           {
             "url": "https://edmtrain.com/san-francisco-ca",
             "hidden": true
@@ -14194,10 +14308,10 @@
         "name": "Aliens Vs Asstronauts: Halloween Tech House Party w/ Nxgrxvity",
         "day": "Thu",
         "date": "2026-10-29",
-        "time": "10pm",
+        "time": "22:00",
         "start": "22:00",
         "end": "02:00",
-        "area": "SF",
+        "area": "San Francisco",
         "venue": "Comet Club",
         "address": "",
         "why": "Free entry, costume-friendly Halloween warm-up with a tech house lineup.",
@@ -14584,7 +14698,7 @@
         "name": "Halloweekend Prequel Ritual: Estrella, Estellita, MK Killa",
         "day": "Thu",
         "date": "2026-10-29",
-        "time": "10pm",
+        "time": "22:00",
         "start": "22:00",
         "end": null,
         "area": "San Francisco",
@@ -14932,7 +15046,7 @@
         "name": "Random Access: Rndm-Axs _ 1029 - Psybertone, Meikee Magnetic, Byter, Hopeless, KAJE",
         "day": "Thu",
         "date": "2026-10-29",
-        "time": "9pm",
+        "time": "21:00",
         "start": "21:00",
         "end": "02:00",
         "area": "San Francisco",
@@ -15331,10 +15445,10 @@
         "name": "Batcave Halloween: VAMPi, Guerrilla Pump, Espina Letal",
         "day": "Fri",
         "date": "2026-10-30",
-        "time": "9pm",
+        "time": "21:00",
         "start": "21:00",
         "end": null,
-        "area": "Mission",
+        "area": "San Francisco",
         "venue": "The Knockout",
         "address": "",
         "why": "Goth, deathrock and post-punk on Halloween weekend in the Mission, with no cover.",
@@ -15657,10 +15771,10 @@
         "name": "Friday I'm in Love w/2shy-shy, melt with U",
         "day": "Fri",
         "date": "2026-10-30",
-        "time": "10pm",
+        "time": "22:00",
         "start": "22:00",
         "end": "02:00",
-        "area": "Mission",
+        "area": "San Francisco",
         "venue": "Makeout Room",
         "address": "",
         "why": "An all-vinyl night of wave, disco and hip-hop at one of the Mission's friendliest dive bars, for a $10 cover.",
@@ -15747,10 +15861,10 @@
         "name": "Haunted Mansion ft The Sponges",
         "day": "Fri",
         "date": "2026-10-30",
-        "time": "9pm",
+        "time": "21:00",
         "start": "21:00",
         "end": null,
-        "area": "SoMa",
+        "area": "San Francisco",
         "venue": "Monarch",
         "address": "101 6th St, San Francisco, CA 94103",
         "why": "A costume-night funk and bass party with three rooms of sound, a stacked bill and the Space Cowboys crew.",
@@ -15783,7 +15897,7 @@
         "coords_precise": false,
         "ra": {},
         "image": "https://api.party-scout.app/img/san-francisco/2026-10-26/haunted-mansion-ft-the-s-f0f0.jpg",
-        "image_generated": false,
+        "image_generated": true,
         "popularity": 0,
         "enriched": 1,
         "active": true,
@@ -15797,10 +15911,10 @@
         "name": "Haunted Mansion: The Sponges & All Good Funk Alliance",
         "day": "Fri",
         "date": "2026-10-30",
-        "time": "9pm",
+        "time": "21:00",
         "start": "21:00",
         "end": "03:00",
-        "area": "SoMa",
+        "area": "San Francisco",
         "venue": "Monarch",
         "address": "101 6th St, San Francisco",
         "why": "A Halloween-weekend Friday of funky house, disco and breaks across three rooms, with two Bay Area favorites on the bill.",
@@ -15836,7 +15950,7 @@
         "coords_precise": false,
         "ra": {},
         "image": "https://api.party-scout.app/img/san-francisco/2026-10-26/haunted-mansion-the-spon-cf60.jpg",
-        "image_generated": false,
+        "image_generated": true,
         "popularity": 0,
         "enriched": 1,
         "active": true,
@@ -16290,7 +16404,7 @@
         "name": "Perreo San Francisco: J.Espinosa, Lando1, Lumbi, Chef Dre, DJ Gio",
         "day": "Fri",
         "date": "2026-10-30",
-        "time": "9:30pm",
+        "time": "21:30",
         "start": "21:30",
         "end": "02:00",
         "area": "San Francisco",
@@ -16697,10 +16811,10 @@
         "name": "Supperween (Supper Club DJ Event)",
         "day": "Fri",
         "date": "2026-10-30",
-        "time": "9pm",
+        "time": "21:00",
         "start": "21:00",
         "end": "02:00",
-        "area": "SoMa",
+        "area": "San Francisco",
         "venue": "The EndUp",
         "address": "401 6th St, San Francisco",
         "why": "A costume party on Halloween eve at SF's legendary after-hours club, with a wide-open dance mix.",
@@ -17207,7 +17321,7 @@
         "name": "All Hallow's Eve: OtebNSolrac, Digital KitKat, Artune, Aeromancer, Nicolo, 1Becoming11, Michael Liu, Nichi, Rainy, EggZen, CorporateTool, Atran, Hate2death, Crashfaster (Live), Bleeds (Live), E.N. Cowell (Live), Alice Knows Karate (DJ Set), Ceno.B1t (DJ Set)",
         "day": "Sat",
         "date": "2026-10-31",
-        "time": "9pm",
+        "time": "21:00",
         "start": "21:00",
         "end": "02:30",
         "area": "San Francisco",
@@ -17229,7 +17343,10 @@
             "url": "https://19hz.info/eventlisting_BayArea.php",
             "hidden": true
           },
-          "https://ra.co/events/2562711",
+          {
+            "url": "https://ra.co/events/2562711",
+            "hidden": true
+          },
           "https://dothebay.com/events/2026/10/31/all-hallow-s-eve-tickets"
         ],
         "tickets": [
@@ -17266,7 +17383,7 @@
         "name": "Audio Halloween w/ Sistek, Hidra, Miss Liu",
         "day": "Sat",
         "date": "2026-10-31",
-        "time": "9:30pm",
+        "time": "21:30",
         "start": "21:30",
         "end": "02:00",
         "area": "San Francisco",
@@ -17294,7 +17411,10 @@
             "url": "https://ra.co/events/us/sanfrancisco",
             "hidden": true
           },
-          "https://ra.co/events/2552261",
+          {
+            "url": "https://ra.co/events/2552261",
+            "hidden": true
+          },
           {
             "url": "https://edmtrain.com/san-francisco-ca",
             "hidden": true
@@ -17409,7 +17529,7 @@
         "name": "Castle Rave",
         "day": "Sat",
         "date": "2026-10-31",
-        "time": "10pm",
+        "time": "22:00",
         "start": "22:00",
         "end": "02:00",
         "area": "San Francisco",
@@ -17443,7 +17563,7 @@
         "coords_precise": false,
         "ra": {},
         "image": "https://api.party-scout.app/img/san-francisco/2026-10-26/castle-rave-c43c.jpg",
-        "image_generated": false,
+        "image_generated": true,
         "popularity": 0,
         "enriched": 1,
         "active": true
@@ -17874,10 +17994,10 @@
         "name": "Glamnesia 2000 w/ Sweet Pussy Pauline (LIVE), Vivacious, Bored Lord, Brown Angel, Five, God's Lil' Princess, Nick Moss, Pam, Vin Sol",
         "day": "Sat",
         "date": "2026-10-31",
-        "time": "9pm",
+        "time": "21:00",
         "start": "21:00",
         "end": "02:00",
-        "area": "SoMa",
+        "area": "San Francisco",
         "venue": "The Stud",
         "address": "",
         "why": "A rare live set from Sweet Pussy Pauline, the cult 1988 house provocateur, on Halloween, presented by Fake and Gay and Dark Entries.",
@@ -17912,7 +18032,7 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "https://api.party-scout.app/img/san-francisco/2026-10-26/glamnesia-2000-w-sweet-p-57ac.jpg",
+        "image": "https://api.party-scout.app/img/san-francisco/2026-10-26/glamnesia-2000-w-sweet-p-43e8.jpg",
         "image_generated": true,
         "popularity": 0,
         "enriched": 1,
@@ -17926,7 +18046,7 @@
         "name": "Glitterati: Juliet Mendoza, Black Panda, Source Zero1 - Dayfall Halloween",
         "day": "Sat",
         "date": "2026-10-31",
-        "time": "7pm",
+        "time": "19:00",
         "start": "19:00",
         "end": "22:00",
         "area": "San Francisco",
@@ -17961,7 +18081,7 @@
         "coords_precise": false,
         "ra": {},
         "image": "https://api.party-scout.app/img/san-francisco/2026-10-26/glitterati-juliet-mendoz-c2ab.jpg",
-        "image_generated": false,
+        "image_generated": true,
         "popularity": 0,
         "enriched": 1,
         "active": true
@@ -18063,10 +18183,10 @@
         "name": "Halloween Afters w/ Briiza, Wockie, Lilrav4, Noise Candy, Mars, Shinosmoke, Andy411, Twoseven, Krelboyne, Kat Jabba",
         "day": "Sat",
         "date": "2026-10-31",
-        "time": "10pm",
+        "time": "22:00",
         "start": "22:00",
         "end": "04:00",
-        "area": "Civic Center",
+        "area": "San Francisco",
         "venue": "TBA",
         "address": "",
         "why": "Two floors of club-music DJs on Halloween night, with ten acts across both rooms.",
@@ -18100,7 +18220,7 @@
         "coords_precise": false,
         "ra": {},
         "image": "https://api.party-scout.app/img/san-francisco/2026-10-26/halloween-afters-w-briiz-0a76.jpg",
-        "image_generated": false,
+        "image_generated": true,
         "popularity": 0,
         "enriched": 1,
         "active": true,
@@ -18157,7 +18277,7 @@
         "name": "Halloween w/ DJ Knives + Axra, DJ Switch, Lucci & Zerodayz",
         "day": "Sat",
         "date": "2026-10-31",
-        "time": "10pm",
+        "time": "22:00",
         "start": "22:00",
         "end": "02:00",
         "area": "San Francisco",
@@ -18244,7 +18364,7 @@
         "name": "No Basic SF Halloween",
         "day": "Sat",
         "date": "2026-10-31",
-        "time": "9pm",
+        "time": "21:00",
         "start": "21:00",
         "end": "02:00",
         "area": "San Francisco",
@@ -18277,7 +18397,7 @@
         "coords_precise": false,
         "ra": {},
         "image": "https://api.party-scout.app/img/san-francisco/2026-10-26/no-basic-sf-halloween-94f8.jpg",
-        "image_generated": false,
+        "image_generated": true,
         "popularity": 0,
         "enriched": 1,
         "active": true
@@ -18332,10 +18452,10 @@
         "name": "Oso Feral, Scary Much Romance, Srceamo, M666",
         "day": "Sat",
         "date": "2026-10-31",
-        "time": "8pm",
+        "time": "20:00",
         "start": "20:00",
         "end": "02:00",
-        "area": "SF",
+        "area": "San Francisco",
         "venue": "Underground",
         "address": "",
         "why": "A Halloween Saturday with a trance and progressive lineup, 8pm to 2am, for $15–$20.",
@@ -18729,10 +18849,10 @@
         "name": "Shake Your Bones",
         "day": "Sat",
         "date": "2026-10-31",
-        "time": "9pm",
+        "time": "21:00",
         "start": "21:00",
         "end": null,
-        "area": "SF",
+        "area": "San Francisco",
         "venue": "TBA",
         "address": "",
         "why": "Halloween on a hidden SF warehouse floor, run by Body SF, with a house, techno, disco and breaks night built for dancing in costume.",
@@ -19870,7 +19990,7 @@
         "time": "19:00",
         "start": "19:00",
         "end": "02:00",
-        "area": "NoPa",
+        "area": "San Francisco",
         "venue": "Madrone Art Bar",
         "address": "500 Divisadero Street, San Francisco, CA 94117",
         "why": "A free, long-running Monday soul party on Divisadero with Motown remixes you won't hear elsewhere.",
@@ -20014,7 +20134,7 @@
         "start": "20:00",
         "end": null,
         "area": "San Francisco",
-        "venue": "The Regency Ballroom",
+        "venue": "Regency Ballroom",
         "address": "1290 Sutter Street, San Francisco, CA 94109",
         "why": "An easy evening outing in central San Francisco.",
         "summary": "Bleood takes place on October 29, 2026 at 8pm at 1290 Sutter Street in San Francisco.",
@@ -20036,7 +20156,8 @@
           {
             "url": "https://dothebay.com/events",
             "hidden": true
-          }
+          },
+          "https://www.regencyballroom.com"
         ],
         "tickets": [],
         "maps": {
@@ -20047,7 +20168,7 @@
         "coords_precise": false,
         "ra": {},
         "image": "https://api.party-scout.app/img/san-francisco/2026-10-26/bleood-kill-your-idols-t-bab5.jpg",
-        "image_generated": false,
+        "image_generated": true,
         "popularity": 0,
         "enriched": 1,
         "active": true
@@ -20063,7 +20184,7 @@
         "time": "21:00",
         "start": "21:00",
         "end": "01:00",
-        "area": "Marina",
+        "area": "San Francisco",
         "venue": "White Rabbit",
         "address": "3138 Fillmore St., San Francisco, CA",
         "why": "Free entry, guest DJs every week and a late-night dance floor in the Marina make it an easy midweek night out.",
@@ -20184,52 +20305,6 @@
         "active": true
       },
       {
-        "id": "2026-10-26-music-swedm-the-great-northern-5538aa",
-        "eid": "swedm-the-great-northern-f04f",
-        "track": "music",
-        "category": "Nightclub",
-        "name": "SWEDM - The Great Northern",
-        "day": "Thu",
-        "date": "2026-10-29",
-        "time": "22:00",
-        "start": "22:00",
-        "end": "01:00",
-        "area": "San Francisco",
-        "venue": "The Great Northern",
-        "address": "119 Utah St, San Francisco, CA 94103",
-        "why": "For a night of high-energy electronic and EDM sets in a dedicated club space.",
-        "summary": "A SWEDM night at The Great Northern in San Francisco on October 29, 2026, located at 119 Utah St.",
-        "promoter": "",
-        "price": "$",
-        "tags": [
-          "electronic",
-          "dance",
-          "dj",
-          "club"
-        ],
-        "sources": [
-          {
-            "url": "https://ra.co/events/2540103",
-            "hidden": true
-          }
-        ],
-        "tickets": [
-          "https://ra.co/events/2540103"
-        ],
-        "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=The%20Great%20Northern%2C%20San%20Francisco",
-          "apple": "https://maps.apple.com/?q=The%20Great%20Northern%2C%20San%20Francisco"
-        },
-        "coords": null,
-        "coords_precise": false,
-        "ra": {},
-        "image": "https://api.party-scout.app/img/san-francisco/2026-10-26/swedm-the-great-northern-f04f.jpg",
-        "image_generated": false,
-        "popularity": 0,
-        "enriched": 1,
-        "active": true
-      },
-      {
         "id": "2026-10-26-music-999999999-adra-boys-noize-salo-29bb62",
         "eid": "999999999-adra-boys-noiz-a14b",
         "track": "music",
@@ -20284,7 +20359,7 @@
         "time": "21:00",
         "start": "21:00",
         "end": "02:00",
-        "area": "Mission",
+        "area": "San Francisco",
         "venue": "Arcana",
         "address": "2512 Mission St, San Francisco",
         "why": "A Halloween dance party for Latin club and bass music fans, hosted by the Perreo Pesao crew.",
@@ -20344,7 +20419,7 @@
         "why": "To get a Halloween night out in the neighborhood without a cover charge.",
         "summary": "HAUNTED CHANNEL takes place October 30 at 2800 24th St in the Mission; admission is free.",
         "promoter": "",
-        "price": "Free",
+        "price": "0",
         "tags": [
           "halloween",
           "free",
@@ -20363,7 +20438,7 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "https://api.party-scout.app/img/san-francisco/2026-10-26/haunted-channel-35bc.jpg",
+        "image": "https://images.ra.co/67ff233daf4353471678600c729068838d6b99b4.jpg",
         "image_generated": false,
         "popularity": 0,
         "enriched": 1,
@@ -20465,93 +20540,6 @@
         "active": true
       },
       {
-        "id": "2026-10-26-music-zhu-on-the-move-cb4da0",
-        "eid": "zhu-on-the-move-37e2",
-        "track": "music",
-        "category": "Concert",
-        "name": "ZHU: On the Move",
-        "day": "Sat",
-        "date": "2026-10-31",
-        "time": "14:00",
-        "start": "14:00",
-        "end": "21:00",
-        "area": "San Francisco",
-        "venue": "Gold Bar Distillery",
-        "address": "1 Avenue of the Palms, San Francisco, CA 94130",
-        "why": "For a Halloween electronic dance night with club-style production.",
-        "summary": "A ZHU show titled \"On the Move\" takes place on October 31, 2026 at 1 Avenue of the Palms in San Francisco. Tickets are listed at $54.",
-        "promoter": "",
-        "price": "$54",
-        "tags": [
-          "electronic",
-          "dj",
-          "live",
-          "ticketed",
-          "halloween"
-        ],
-        "sources": [
-          {
-            "url": "https://dothebay.com/events/2026/10/31/zhu-on-the-move-tickets",
-            "hidden": true
-          },
-          "https://ra.co/events/2432590"
-        ],
-        "tickets": [
-          "https://ra.co/events/2432590"
-        ],
-        "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=Gold%20Bar%20Distillery%2C%20San%20Francisco",
-          "apple": "https://maps.apple.com/?q=Gold%20Bar%20Distillery%2C%20San%20Francisco"
-        },
-        "coords": null,
-        "coords_precise": false,
-        "ra": {},
-        "image": "https://api.party-scout.app/img/san-francisco/2026-10-26/zhu-on-the-move-37e2.jpg",
-        "image_generated": false,
-        "popularity": 0,
-        "enriched": 1,
-        "active": true
-      },
-      {
-        "id": "2026-10-26-music-omeyocan-tzapotl-a-celebration-d68e82",
-        "eid": "omeyocan-tzapotl-a-celeb-e4ec",
-        "track": "music",
-        "category": "",
-        "name": "ŌMEYŌCĀN: TZAPOTL, A celebration of Fruits, Reverence and Expression",
-        "day": "Sun",
-        "date": "2026-11-01",
-        "time": "18:00",
-        "start": null,
-        "end": null,
-        "area": "San Francisco",
-        "venue": "TBA",
-        "address": "",
-        "why": "",
-        "summary": "",
-        "promoter": "",
-        "price": "25",
-        "tags": [],
-        "sources": [
-          {
-            "url": "https://ra.co/events/2546965",
-            "hidden": true
-          }
-        ],
-        "tickets": [],
-        "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=San%20Francisco",
-          "apple": "https://maps.apple.com/?q=San%20Francisco"
-        },
-        "coords": null,
-        "coords_precise": false,
-        "ra": {},
-        "image": "",
-        "image_generated": false,
-        "popularity": 0,
-        "enriched": 0,
-        "active": true
-      },
-      {
         "id": "2026-10-26-music-tenderloin-street-fair-dia-de-9dcd0f",
         "eid": "tenderloin-street-fair-d-c5e8",
         "track": "music",
@@ -20594,6 +20582,748 @@
         "image_generated": false,
         "popularity": 0,
         "enriched": 1,
+        "active": true
+      },
+      {
+        "id": "2026-10-26-music-the-48-hills-triple-gala-89bfe2",
+        "eid": "the-48-hills-triple-gala-9013",
+        "track": "music",
+        "category": "",
+        "name": "The 48 Hills Triple Gala",
+        "day": "Tue",
+        "date": "2026-10-27",
+        "time": "18:00",
+        "start": null,
+        "end": null,
+        "area": "San Francisco",
+        "venue": "El Rio",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "",
+        "tags": [],
+        "sources": [
+          "https://dothebay.com/events/2026/10/27/the-48-hills-triple-gala-tickets"
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=El%20Rio%2C%20San%20Francisco",
+          "apple": "https://maps.apple.com/?q=El%20Rio%2C%20San%20Francisco"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-10-26-music-death-by-aria-haunted-hallowee-b30ad9",
+        "eid": "death-by-aria-haunted-ha-d3e6",
+        "track": "music",
+        "category": "",
+        "name": "Death By Aria: Haunted Halloween Concert w/ Aerial Spectacle (Grace Cathedral)",
+        "day": "Wed",
+        "date": "2026-10-28",
+        "time": "19:00",
+        "start": null,
+        "end": null,
+        "area": "San Francisco",
+        "venue": "",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "",
+        "tags": [],
+        "sources": [
+          "https://sf.funcheap.com/death-aria-haunted-halloween-concert-aerial-spectacle-grace-cathedral/"
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=San%20Francisco",
+          "apple": "https://maps.apple.com/?q=San%20Francisco"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-10-26-music-interzone-hex-embrace-byter-ef1b96",
+        "eid": "interzone-hex-embrace-by-715a",
+        "track": "music",
+        "category": "",
+        "name": "INTERZONE: Hex Embrace, Byter",
+        "day": "Wed",
+        "date": "2026-10-28",
+        "time": "",
+        "start": null,
+        "end": null,
+        "area": "San Francisco",
+        "venue": "F8",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "",
+        "tags": [],
+        "sources": [
+          "https://edmtrain.com/san-francisco-ca"
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=F8%2C%20San%20Francisco",
+          "apple": "https://maps.apple.com/?q=F8%2C%20San%20Francisco"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-10-26-music-shyne-2622-lgnd-tour-5ef7f9",
+        "eid": "shyne-2622-lgnd-tour-e369",
+        "track": "music",
+        "category": "",
+        "name": "Shyne - 2622 LGND Tour",
+        "day": "Wed",
+        "date": "2026-10-28",
+        "time": "",
+        "start": null,
+        "end": null,
+        "area": "San Francisco",
+        "venue": "Regency Ballroom",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "",
+        "tags": [],
+        "sources": [
+          "https://www.regencyballroom.com"
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=Regency%20Ballroom%2C%20San%20Francisco",
+          "apple": "https://maps.apple.com/?q=Regency%20Ballroom%2C%20San%20Francisco"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-10-26-music-sf-latino-film-fest-los-cenzon-b4fe01",
+        "eid": "sf-latino-film-fest-los-d597",
+        "track": "music",
+        "category": "",
+        "name": "SF Latino Film Fest: Los Cenzontles Film + Live Performance (KQED)",
+        "day": "Thu",
+        "date": "2026-10-29",
+        "time": "19:00",
+        "start": null,
+        "end": null,
+        "area": "San Francisco",
+        "venue": "",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "",
+        "tags": [],
+        "sources": [
+          "https://sf.funcheap.com/sf-latino-film-fest-los-cenzontles-film-live-performance-kqed/"
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=San%20Francisco",
+          "apple": "https://maps.apple.com/?q=San%20Francisco"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-10-26-music-jay-tripwire-tho-justin-shaffe-ec26b8",
+        "eid": "jay-tripwire-tho-justin-4467",
+        "track": "music",
+        "category": "",
+        "name": "Jay Tripwire, Tho, Justin Shaffer",
+        "day": "Fri",
+        "date": "2026-10-30",
+        "time": "21:00",
+        "start": null,
+        "end": null,
+        "area": "San Francisco",
+        "venue": "TBA",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "",
+        "tags": [],
+        "sources": [
+          {
+            "url": "https://19hz.info/eventlisting_BayArea.php",
+            "hidden": true
+          }
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=San%20Francisco",
+          "apple": "https://maps.apple.com/?q=San%20Francisco"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "https://api.party-scout.app/img/san-francisco/2026-10-26/jay-tripwire-tho-justin-4467.jpg",
+        "image_generated": true,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-10-26-music-maja-blast-jaag-dj-ing-nofi-d24e19",
+        "eid": "maja-blast-jaag-dj-ing-n-62fe",
+        "track": "music",
+        "category": "Nightclub",
+        "name": "Maja Blast: Jaag, DJ Ing, Nofi",
+        "day": "Fri",
+        "date": "2026-10-30",
+        "time": "21:00",
+        "start": "21:00",
+        "end": "02:00",
+        "area": "San Francisco",
+        "venue": "Mothership",
+        "address": "3152 Mission Street San Francisco, CA 94110",
+        "why": "For a free late-night DJ set and dancing into the early morning.",
+        "summary": "A free late-night event billed as \"Maja Blast feat. DJ ing\" on Oct 30, 2026 at 3152 Mission Street, running 9pm–2am.",
+        "promoter": "",
+        "price": "0",
+        "tags": [
+          "dj",
+          "free",
+          "dance",
+          "late-night"
+        ],
+        "sources": [
+          {
+            "url": "https://ra.co/events/2551492",
+            "hidden": true
+          },
+          {
+            "url": "https://19hz.info/eventlisting_BayArea.php",
+            "hidden": true
+          },
+          {
+            "url": "https://ra.co/events/us/sanfrancisco",
+            "hidden": true
+          },
+          "https://ra.co/events/2551492"
+        ],
+        "tickets": [
+          "https://ra.co/events/2551492"
+        ],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=Mothership",
+          "apple": "https://maps.apple.com/?q=Mothership"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "https://api.party-scout.app/img/san-francisco/2026-10-26/maja-blast-jaag-dj-ing-n-62fe.jpg",
+        "image_generated": true,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-10-26-music-sam-divine-059dfc",
+        "eid": "sam-divine-8b2f",
+        "track": "music",
+        "category": "",
+        "name": "Sam Divine",
+        "day": "Fri",
+        "date": "2026-10-30",
+        "time": "22:00",
+        "start": null,
+        "end": null,
+        "area": "San Francisco",
+        "venue": "Halcyon",
+        "address": "314 11th St, San Francisco, California, 94103",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "$30",
+        "tags": [],
+        "sources": [
+          "https://www.halcyon-sf.com",
+          "https://ra.co/events/2531106"
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=314%2011th%20St%2C%20San%20Francisco%2C%20California%2C%2094103",
+          "apple": "https://maps.apple.com/?q=314%2011th%20St%2C%20San%20Francisco%2C%20California%2C%2094103"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "https://images.ra.co/c52fe055c6843bd0e7125492e20500998539f77e.jpg",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true,
+        "lineup": [
+          {
+            "name": "Sam Divine",
+            "instagram": null
+          }
+        ]
+      },
+      {
+        "id": "2026-10-26-music-christian-loffler-paris-gru-di-b38f62",
+        "eid": "christian-loffler-paris-1429",
+        "track": "music",
+        "category": "Concert",
+        "name": "Christian Loffler, PARIS, Gru.di, DWSM, ALMAS | Loft: Horror Hi-Fi - Alex Oxley, Roxanne Roll",
+        "day": "Sat",
+        "date": "2026-10-31",
+        "time": "21:00",
+        "start": "21:00",
+        "end": "03:00",
+        "area": "San Francisco",
+        "venue": "Public Works",
+        "address": "",
+        "why": "To catch a multi-artist live show in San Francisco on Halloween.",
+        "summary": "A multi-artist music night featuring Christian Loffler, PARIS, Gru.di, DWSM, and ALMAS on October 31, 2026 in San Francisco; venue details were not provided.",
+        "promoter": "",
+        "price": "$51-56+ | 21+",
+        "tags": [
+          "live",
+          "multi-artist",
+          "halloween"
+        ],
+        "sources": [
+          {
+            "url": "https://19hz.info/eventlisting_BayArea.php",
+            "hidden": true
+          }
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=Public%20Works%2C%20San%20Francisco",
+          "apple": "https://maps.apple.com/?q=Public%20Works%2C%20San%20Francisco"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "https://party-scout.app/img/gen/christian-loffler-paris-ffe6.jpg",
+        "image_generated": true,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-10-26-music-dusk-to-dawn-halloween-big-wil-6b7e49",
+        "eid": "dusk-to-dawn-halloween-b-e105",
+        "track": "music",
+        "category": "",
+        "name": "DUSK TO DAWN HALLOWEEN: Big Wild, Vandelux, Hercules and Love Affair + more",
+        "day": "Sat",
+        "date": "2026-10-31",
+        "time": "21:00",
+        "start": null,
+        "end": null,
+        "area": "San Francisco",
+        "venue": "Palace of Fine Arts",
+        "address": "3601 Lyon Street, San Francisco, CA 94123",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "",
+        "tags": [],
+        "sources": [
+          "https://ra.co/events/2557526"
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=3601%20Lyon%20Street%2C%20San%20Francisco%2C%20CA%2094123",
+          "apple": "https://maps.apple.com/?q=3601%20Lyon%20Street%2C%20San%20Francisco%2C%20CA%2094123"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "https://images.ra.co/6b1737b3780a342c9ca97f7eec2590c7cd64decc.png",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true,
+        "lineup": [
+          {
+            "name": "Hercules & Love Affair",
+            "instagram": null
+          },
+          {
+            "name": "David Harness",
+            "instagram": null
+          },
+          {
+            "name": "Deer Jade",
+            "instagram": null
+          },
+          {
+            "name": "Syd Gris",
+            "instagram": null
+          },
+          {
+            "name": "AMPRS&ND",
+            "instagram": null
+          },
+          {
+            "name": "Jeff Straw",
+            "instagram": null
+          },
+          {
+            "name": "Rooz",
+            "instagram": null
+          },
+          {
+            "name": "HIDRA",
+            "instagram": null
+          },
+          {
+            "name": "Karisma",
+            "instagram": null
+          },
+          {
+            "name": "Eric Sharp",
+            "instagram": null
+          },
+          {
+            "name": "JLittle",
+            "instagram": null
+          },
+          {
+            "name": "BUCK/OFF",
+            "instagram": null
+          },
+          {
+            "name": "Danny",
+            "instagram": null
+          },
+          {
+            "name": "juSt b",
+            "instagram": null
+          },
+          {
+            "name": "Decibel",
+            "instagram": null
+          }
+        ]
+      },
+      {
+        "id": "2026-10-26-music-late-night-clubbing-088-w-luke-a312cf",
+        "eid": "late-night-clubbing-088-c44f",
+        "track": "music",
+        "category": "Nightclub",
+        "name": "Late Night Clubbing #088 w/Luke Andy, Haboob, Hawn",
+        "day": "Sat",
+        "date": "2026-10-31",
+        "time": "02:00",
+        "start": "02:00",
+        "end": "06:00",
+        "area": "San Francisco",
+        "venue": "TBA",
+        "address": "",
+        "why": "To dance and socialize into the early-morning hours.",
+        "summary": "After-hours clubbing on 2026-10-31 from 2–6am in San Francisco.",
+        "promoter": "",
+        "price": "",
+        "tags": [
+          "dance",
+          "late-night",
+          "21+",
+          "nightlife"
+        ],
+        "sources": [
+          {
+            "url": "https://19hz.info/eventlisting_BayArea.php",
+            "hidden": true
+          }
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=San%20Francisco",
+          "apple": "https://maps.apple.com/?q=San%20Francisco"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "https://party-scout.app/img/gen/late-night-clubbing-088-f957.jpg",
+        "image_generated": true,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-10-26-music-latinoween-latin-halloween-par-972bce",
+        "eid": "latinoween-latin-hallowe-44b0",
+        "track": "music",
+        "category": "",
+        "name": "\"LATINOWEEN\" Latin Halloween Party | Two Dance Floors",
+        "day": "Sat",
+        "date": "2026-10-31",
+        "time": "22:00",
+        "start": null,
+        "end": null,
+        "area": "San Francisco",
+        "venue": "The EndUp",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "",
+        "tags": [],
+        "sources": [
+          "https://www.eventbrite.com/d/ca--san-francisco/"
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=The%20EndUp%2C%20San%20Francisco",
+          "apple": "https://maps.apple.com/?q=The%20EndUp%2C%20San%20Francisco"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-10-26-music-medium-build-with-the-scratch-eb8c00",
+        "eid": "medium-build-with-the-sc-bd0f",
+        "track": "music",
+        "category": "",
+        "name": "Medium Build with The Scratch",
+        "day": "Sat",
+        "date": "2026-10-31",
+        "time": "",
+        "start": null,
+        "end": null,
+        "area": "San Francisco",
+        "venue": "Regency Ballroom",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "",
+        "tags": [],
+        "sources": [
+          "https://www.regencyballroom.com"
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=Regency%20Ballroom%2C%20San%20Francisco",
+          "apple": "https://maps.apple.com/?q=Regency%20Ballroom%2C%20San%20Francisco"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-10-26-music-sacha-robotti-55c5f6",
+        "eid": "sacha-robotti-6021",
+        "track": "music",
+        "category": "",
+        "name": "Sacha Robotti",
+        "day": "Sat",
+        "date": "2026-10-31",
+        "time": "22:00",
+        "start": null,
+        "end": null,
+        "area": "San Francisco",
+        "venue": "Halcyon",
+        "address": "314 11th St, San Francisco, California, 94103",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "20",
+        "tags": [],
+        "sources": [
+          "https://www.halcyon-sf.com",
+          "https://ra.co/events/2556861"
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=314%2011th%20St%2C%20San%20Francisco%2C%20California%2C%2094103",
+          "apple": "https://maps.apple.com/?q=314%2011th%20St%2C%20San%20Francisco%2C%20California%2C%2094103"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "https://images.ra.co/f012838e3e5947a1edd931ed35fdccaeb501099b.jpg",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true,
+        "lineup": [
+          {
+            "name": "Sacha Robotti",
+            "instagram": null
+          }
+        ]
+      },
+      {
+        "id": "2026-10-26-music-san-francisco-epic-halloween-p-99387b",
+        "eid": "san-francisco-epic-hallo-a381",
+        "track": "music",
+        "category": "",
+        "name": "San Francisco Epic Halloween Party",
+        "day": "Sat",
+        "date": "2026-10-31",
+        "time": "22:00",
+        "start": null,
+        "end": null,
+        "area": "San Francisco",
+        "venue": "Ciaorigato",
+        "address": "111 Mason Street, San Francisco, Ca, 94102",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "25",
+        "tags": [],
+        "sources": [
+          "https://ra.co/events/2565973"
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=111%20Mason%20Street%2C%20San%20Francisco%2C%20Ca%2C%2094102",
+          "apple": "https://maps.apple.com/?q=111%20Mason%20Street%2C%20San%20Francisco%2C%20Ca%2C%2094102"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "https://images.ra.co/a9b605167448dc6a8d0c2c820416cdf7754c2453.png",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true,
+        "lineup": [
+          {
+            "name": "Reza Tabrizi",
+            "instagram": null
+          },
+          {
+            "name": "Alkemiss Erika",
+            "instagram": null
+          }
+        ]
+      },
+      {
+        "id": "2026-10-26-music-cuban-rumba-jam-play-sing-danc-cf30c9",
+        "eid": "cuban-rumba-jam-play-sin-7c53",
+        "track": "music",
+        "category": "",
+        "name": "Cuban Rumba Jam: Play, Sing, Dance & Enjoy | Berkeley",
+        "day": "Sun",
+        "date": "2026-11-01",
+        "time": "15:00",
+        "start": null,
+        "end": null,
+        "area": "San Francisco",
+        "venue": "La Peña Cultural Center",
+        "address": "3105 Shattuck Ave, Berkeley, CA",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "",
+        "tags": [],
+        "sources": [
+          "https://sf.funcheap.com/cuban-rumba-jam-play-sing-dance-enjoy-berkeley-114/"
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=3105%20Shattuck%20Ave%2C%20Berkeley%2C%20CA",
+          "apple": "https://maps.apple.com/?q=3105%20Shattuck%20Ave%2C%20Berkeley%2C%20CA"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "https://cdn.funcheap.com/wp-content/uploads/2016/05/Screenshot-at-Aug-20-18-41-00.png",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-10-26-music-late-night-clubbing-089-w-rell-3f4a91",
+        "eid": "late-night-clubbing-089-cb2b",
+        "track": "music",
+        "category": "Nightclub",
+        "name": "Late Night Clubbing #089 w/Rello, JJKO",
+        "day": "Sun",
+        "date": "2026-11-01",
+        "time": "01:00",
+        "start": "01:00",
+        "end": "06:00",
+        "area": "San Francisco",
+        "venue": "TBA",
+        "address": "",
+        "why": "For late-night dancing and a club atmosphere.",
+        "summary": "Late Night Clubbing #089 is scheduled for 2026-11-01 from 1–6am. The venue is not listed.",
+        "promoter": "",
+        "price": "",
+        "tags": [
+          "dj",
+          "dance",
+          "late-night"
+        ],
+        "sources": [
+          {
+            "url": "https://19hz.info/eventlisting_BayArea.php",
+            "hidden": true
+          }
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=San%20Francisco",
+          "apple": "https://maps.apple.com/?q=San%20Francisco"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
         "active": true
       }
     ],
@@ -21015,7 +21745,8 @@
           {
             "url": "https://www.letsdothis.com/us/running-events/in-san-francisco-california",
             "hidden": true
-          }
+          },
+          "https://www.runguides.com/san-francisco/runs"
         ],
         "tickets": [],
         "maps": {
@@ -22201,6 +22932,691 @@
         "image_generated": false,
         "popularity": 0,
         "enriched": 1,
+        "active": true
+      },
+      {
+        "id": "2026-10-26-sports-lake-to-ocean-a-nature-walk-5ab152",
+        "eid": "lake-to-ocean-a-nature-w-a68d",
+        "track": "sports",
+        "category": "",
+        "name": "Lake to Ocean: A Nature Walk",
+        "day": "Mon",
+        "date": "2026-10-26",
+        "time": "17:00",
+        "start": null,
+        "end": null,
+        "area": "San Francisco",
+        "venue": "1 Harding Road, 1 Harding Rd, San Francisco, CA 94132, USA",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "",
+        "tags": [],
+        "sources": [
+          "https://www.meetup.com/lakemerced/events/316877145/"
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=1%20Harding%20Road%2C%201%20Harding%20Rd%2C%20San%20Francisco%2C%20CA%2094132%2C%20USA%2C%20San%20Francisco",
+          "apple": "https://maps.apple.com/?q=1%20Harding%20Road%2C%201%20Harding%20Rd%2C%20San%20Francisco%2C%20CA%2094132%2C%20USA%2C%20San%20Francisco"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-10-26-sports-sound-baths-at-grace-cathedral-3b5e79",
+        "eid": "sound-baths-at-grace-cat-12ef",
+        "track": "sports",
+        "category": "",
+        "name": "Sound Baths at Grace Cathedral",
+        "day": "Mon",
+        "date": "2026-10-26",
+        "time": "19:00",
+        "start": null,
+        "end": null,
+        "area": "San Francisco",
+        "venue": "",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "",
+        "tags": [],
+        "sources": [
+          "https://sf.funcheap.com/sound-baths-grace-cathedral/"
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=San%20Francisco",
+          "apple": "https://maps.apple.com/?q=San%20Francisco"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-10-26-sports-queer-crush-benchmark-sf-6ea38c",
+        "eid": "queer-crush-benchmark-sf-d5e2",
+        "track": "sports",
+        "category": "",
+        "name": "Queer Crush @ Benchmark SF",
+        "day": "Tue",
+        "date": "2026-10-27",
+        "time": "18:00",
+        "start": null,
+        "end": null,
+        "area": "San Francisco",
+        "venue": "Benchmark Climbing, 1414 Van Ness Ave",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "",
+        "tags": [],
+        "sources": [
+          "https://www.meetup.com/queer-crush-norcal/events/316766862/"
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=Benchmark%20Climbing%2C%201414%20Van%20Ness%20Ave%2C%20San%20Francisco",
+          "apple": "https://maps.apple.com/?q=Benchmark%20Climbing%2C%201414%20Van%20Ness%20Ave%2C%20San%20Francisco"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-10-26-sports-squash-in-the-mission-tuesday-40f243",
+        "eid": "squash-in-the-mission-tu-ab73",
+        "track": "sports",
+        "category": "",
+        "name": "Squash in the Mission (Tuesday)",
+        "day": "Tue",
+        "date": "2026-10-27",
+        "time": "18:30",
+        "start": null,
+        "end": null,
+        "area": "San Francisco",
+        "venue": "Mission Recreation Center, 2450 Harrison St",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "",
+        "tags": [],
+        "sources": [
+          "https://www.meetup.com/san-francisco-racquet-sports/events/316891810/"
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=Mission%20Recreation%20Center%2C%202450%20Harrison%20St%2C%20San%20Francisco",
+          "apple": "https://maps.apple.com/?q=Mission%20Recreation%20Center%2C%202450%20Harrison%20St%2C%20San%20Francisco"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-10-26-sports-queer-crush-movement-san-franc-d4d78b",
+        "eid": "queer-crush-movement-san-9dc4",
+        "track": "sports",
+        "category": "",
+        "name": "Queer Crush @ Movement San Francisco",
+        "day": "Wed",
+        "date": "2026-10-28",
+        "time": "19:00",
+        "start": null,
+        "end": null,
+        "area": "San Francisco",
+        "venue": "Movement San Francisco, 924 Mason St",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "",
+        "tags": [],
+        "sources": [
+          "https://www.meetup.com/queer-crush-norcal/events/316766874/"
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=Movement%20San%20Francisco%2C%20924%20Mason%20St%2C%20San%20Francisco",
+          "apple": "https://maps.apple.com/?q=Movement%20San%20Francisco%2C%20924%20Mason%20St%2C%20San%20Francisco"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-10-26-sports-rise-run-w-morgan-3f2db9",
+        "eid": "rise-run-w-morgan-a127",
+        "track": "sports",
+        "category": "",
+        "name": "RISE + RUN W/ MORGAN",
+        "day": "Wed",
+        "date": "2026-10-28",
+        "time": "07:00",
+        "start": null,
+        "end": null,
+        "area": "San Francisco",
+        "venue": "WeWork Office Space & Coworking, 156 2nd St",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "",
+        "tags": [],
+        "sources": [
+          "https://www.meetup.com/san-francisco-fitness-meetup-group/events/316896600/"
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=WeWork%20Office%20Space%20%26%20Coworking%2C%20156%202nd%20St%2C%20San%20Francisco",
+          "apple": "https://maps.apple.com/?q=WeWork%20Office%20Space%20%26%20Coworking%2C%20156%202nd%20St%2C%20San%20Francisco"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-10-26-sports-wednesday-evening-bowls-2d4850",
+        "eid": "wednesday-evening-bowls-3064",
+        "track": "sports",
+        "category": "",
+        "name": "Wednesday Evening Bowls",
+        "day": "Wed",
+        "date": "2026-10-28",
+        "time": "17:30",
+        "start": null,
+        "end": null,
+        "area": "San Francisco",
+        "venue": "San Francisco Lawn Bowling Club, Bowling Green Drive",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "",
+        "tags": [],
+        "sources": [
+          "https://www.meetup.com/pimd-lawn-bowling-bay-area/events/316784918/"
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=San%20Francisco%20Lawn%20Bowling%20Club%2C%20Bowling%20Green%20Drive%2C%20San%20Francisco",
+          "apple": "https://maps.apple.com/?q=San%20Francisco%20Lawn%20Bowling%20Club%2C%20Bowling%20Green%20Drive%2C%20San%20Francisco"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-10-26-sports-san-francisco-thursday-pickup-72aceb",
+        "eid": "san-francisco-thursday-p-731a",
+        "track": "sports",
+        "category": "",
+        "name": "San Francisco - Thursday Pickup Spikeball",
+        "day": "Thu",
+        "date": "2026-10-29",
+        "time": "19:30",
+        "start": null,
+        "end": null,
+        "area": "San Francisco",
+        "venue": "Raymond Kimbell Playground Park, 1901 Geary Blvd, San Francisco, CA 94115, USA",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "",
+        "tags": [],
+        "sources": [
+          "https://www.meetup.com/bay-area-roundnet/events/316856911/"
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=Raymond%20Kimbell%20Playground%20Park%2C%201901%20Geary%20Blvd%2C%20San%20Francisco%2C%20CA%2094115%2C%20USA%2C%20San%20Francisco",
+          "apple": "https://maps.apple.com/?q=Raymond%20Kimbell%20Playground%20Park%2C%201901%20Geary%20Blvd%2C%20San%20Francisco%2C%20CA%2094115%2C%20USA%2C%20San%20Francisco"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-10-26-sports-hallowe-en-eve-parks-around-th-a65fd9",
+        "eid": "hallowe-en-eve-parks-aro-a8b4",
+        "track": "sports",
+        "category": "",
+        "name": "Hallowe'en Eve Parks Around The Panhandle",
+        "day": "Fri",
+        "date": "2026-10-30",
+        "time": "15:00",
+        "start": null,
+        "end": null,
+        "area": "San Francisco",
+        "venue": "William McKinley Monument, William McKinley Monument, San Francisco, CA 94117",
+        "address": "William McKinley Monument, San Francisco, CA 94117, San Francisco, CA",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "",
+        "tags": [],
+        "sources": [
+          "https://www.meetup.com/roaming-zen/events/316465082/"
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=William%20McKinley%20Monument%2C%20San%20Francisco%2C%20CA%2094117%2C%20San%20Francisco%2C%20CA",
+          "apple": "https://maps.apple.com/?q=William%20McKinley%20Monument%2C%20San%20Francisco%2C%20CA%2094117%2C%20San%20Francisco%2C%20CA"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "https://secure-content.meetupstatic.com/images/classic-events/536045449/676x676.jpg",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-10-26-sports-when-was-the-last-time-you-pla-d67ac3",
+        "eid": "when-was-the-last-time-y-b55a",
+        "track": "sports",
+        "category": "",
+        "name": "When was the last time you played catch?",
+        "day": "Fri",
+        "date": "2026-10-30",
+        "time": "17:00",
+        "start": null,
+        "end": null,
+        "area": "San Francisco",
+        "venue": "Philz Coffee Truck, 500 Marina Blvd",
+        "address": "500 Marina Blvd, San Francisco, CA",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "",
+        "tags": [],
+        "sources": [
+          "https://www.meetup.com/catch-up/events/316876869/"
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=500%20Marina%20Blvd%2C%20San%20Francisco%2C%20CA",
+          "apple": "https://maps.apple.com/?q=500%20Marina%20Blvd%2C%20San%20Francisco%2C%20CA"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "https://secure-content.meetupstatic.com/images/classic-events/534768968/676x676.jpg",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-10-26-sports-founders-running-club-easy-5-1-15dcd8",
+        "eid": "founders-running-club-ea-b95f",
+        "track": "sports",
+        "category": "",
+        "name": "Founders Running Club :: Easy 5-10km Run + Talks",
+        "day": "Sat",
+        "date": "2026-10-31",
+        "time": "09:30",
+        "start": null,
+        "end": null,
+        "area": "San Francisco",
+        "venue": "William McKinley Monument, San Francisco, CA 94117, USA",
+        "address": "San Francisco, CA 94117, USA, San Francisco, CA",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "",
+        "tags": [],
+        "sources": [
+          "https://www.meetup.com/founders-running-club/events/316388671/"
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=San%20Francisco%2C%20CA%2094117%2C%20USA%2C%20San%20Francisco%2C%20CA",
+          "apple": "https://maps.apple.com/?q=San%20Francisco%2C%20CA%2094117%2C%20USA%2C%20San%20Francisco%2C%20CA"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "https://secure-content.meetupstatic.com/images/classic-events/536403724/676x676.jpg",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-10-26-sports-saturday-morning-pick-up-socce-8398e4",
+        "eid": "saturday-morning-pick-up-3b3f",
+        "track": "sports",
+        "category": "",
+        "name": "Saturday Morning Pick-Up Soccer",
+        "day": "Sat",
+        "date": "2026-10-31",
+        "time": "09:00",
+        "start": null,
+        "end": null,
+        "area": "San Francisco",
+        "venue": "Kimbell Playground (Turf), Geary and Steiner",
+        "address": "Geary and Steiner, San Francisco, CA",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "",
+        "tags": [],
+        "sources": [
+          "https://www.meetup.com/meetup-group-lfulfems/events/316936319/"
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=Geary%20and%20Steiner%2C%20San%20Francisco%2C%20CA",
+          "apple": "https://maps.apple.com/?q=Geary%20and%20Steiner%2C%20San%20Francisco%2C%20CA"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "https://secure-content.meetupstatic.com/images/classic-events/534936879/676x676.jpg",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-10-26-sports-softball-west-sunset-2-10-am-g-0bdbbb",
+        "eid": "softball-west-sunset-2-1-b120",
+        "track": "sports",
+        "category": "",
+        "name": "Softball @ West Sunset #2 @ 10 AM. Game #491",
+        "day": "Sat",
+        "date": "2026-10-31",
+        "time": "10:00",
+        "start": null,
+        "end": null,
+        "area": "San Francisco",
+        "venue": "West Sunset Field, 1962 41st Avenue",
+        "address": "1962 41st Avenue, San Francisco, CA",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "",
+        "tags": [],
+        "sources": [
+          "https://www.meetup.com/san-francisco-softball-players/events/317048676/"
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=1962%2041st%20Avenue%2C%20San%20Francisco%2C%20CA",
+          "apple": "https://maps.apple.com/?q=1962%2041st%20Avenue%2C%20San%20Francisco%2C%20CA"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "https://secure-content.meetupstatic.com/images/classic-events/534299119/676x676.jpg",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-10-26-sports-squash-in-the-mission-saturday-0e8ea9",
+        "eid": "squash-in-the-mission-sa-5536",
+        "track": "sports",
+        "category": "",
+        "name": "Squash in the Mission (Saturday)",
+        "day": "Sat",
+        "date": "2026-10-31",
+        "time": "09:00",
+        "start": null,
+        "end": null,
+        "area": "San Francisco",
+        "venue": "Mission Recreation Center, 2450 Harrison St",
+        "address": "2450 Harrison St, San Francisco, CA",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "",
+        "tags": [],
+        "sources": [
+          "https://www.meetup.com/san-francisco-racquet-sports/events/316936469/"
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=2450%20Harrison%20St%2C%20San%20Francisco%2C%20CA",
+          "apple": "https://maps.apple.com/?q=2450%20Harrison%20St%2C%20San%20Francisco%2C%20CA"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "https://secure-content.meetupstatic.com/images/classic-events/464680391/676x676.jpg",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-10-26-sports-volleyball-training-and-playin-49e359",
+        "eid": "volleyball-training-and-c1dc",
+        "track": "sports",
+        "category": "",
+        "name": "Volleyball. Training and Playing.",
+        "day": "Sat",
+        "date": "2026-10-31",
+        "time": "09:00",
+        "start": null,
+        "end": null,
+        "area": "San Francisco",
+        "venue": "Ocean Beach, Stairwell 17, just across from Beach Chalet, 1000 Great Hwy",
+        "address": "1000 Great Hwy, San Francisco, CA",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "",
+        "tags": [],
+        "sources": [
+          "https://www.meetup.com/san-francisco-volleyball-training-playing-meetup-group/events/316936382/",
+          "https://www.meetup.com/san-francisco-volleyball-training-playing-meetup-group/events/316775029/"
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=1000%20Great%20Hwy%2C%20San%20Francisco%2C%20CA",
+          "apple": "https://maps.apple.com/?q=1000%20Great%20Hwy%2C%20San%20Francisco%2C%20CA"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "https://secure-content.meetupstatic.com/images/classic-events/499116954/676x676.jpg",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-10-26-sports-introduction-to-lawn-bowling-s-673acf",
+        "eid": "introduction-to-lawn-bow-9ba8",
+        "track": "sports",
+        "category": "",
+        "name": "Introduction to Lawn Bowling (San Francisco)",
+        "day": "Sun",
+        "date": "2026-11-01",
+        "time": "10:00",
+        "start": null,
+        "end": null,
+        "area": "San Francisco",
+        "venue": "San Francisco Lawn Bowling Club, Bowling Green Drive",
+        "address": "Bowling Green Drive, San Francisco, CA",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "",
+        "tags": [],
+        "sources": [
+          "https://www.meetup.com/pimd-lawn-bowling-bay-area/events/316886208/"
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=Bowling%20Green%20Drive%2C%20San%20Francisco%2C%20CA",
+          "apple": "https://maps.apple.com/?q=Bowling%20Green%20Drive%2C%20San%20Francisco%2C%20CA"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "https://secure-content.meetupstatic.com/images/classic-events/534090262/676x676.jpg",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-10-26-sports-sunday-morning-run-858eed",
+        "eid": "sunday-morning-run-f17a",
+        "track": "sports",
+        "category": "",
+        "name": "Sunday Morning Run",
+        "day": "Sun",
+        "date": "2026-11-01",
+        "time": "10:00",
+        "start": null,
+        "end": null,
+        "area": "San Francisco",
+        "venue": "Panhandle",
+        "address": "San Francisco, CA",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "",
+        "tags": [],
+        "sources": [
+          "https://www.meetup.com/slowrunnerssf/events/316888262/"
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=San%20Francisco%2C%20CA",
+          "apple": "https://maps.apple.com/?q=San%20Francisco%2C%20CA"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "https://secure-content.meetupstatic.com/images/classic-events/527652216/676x676.jpg",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-10-26-sports-sundays-pick-up-soccer-in-mari-4d20ee",
+        "eid": "sundays-pick-up-soccer-i-af0d",
+        "track": "sports",
+        "category": "",
+        "name": "Sundays Pick-Up Soccer in Marina Green",
+        "day": "Sun",
+        "date": "2026-11-01",
+        "time": "11:00",
+        "start": null,
+        "end": null,
+        "area": "San Francisco",
+        "venue": "Marina Green, San Francisco, CA 94123, USA",
+        "address": "San Francisco, CA 94123, USA, San Francisco, CA",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "",
+        "tags": [],
+        "sources": [
+          "https://www.meetup.com/meetup-group-ghfhwufc/events/316951373/"
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=San%20Francisco%2C%20CA%2094123%2C%20USA%2C%20San%20Francisco%2C%20CA",
+          "apple": "https://maps.apple.com/?q=San%20Francisco%2C%20CA%2094123%2C%20USA%2C%20San%20Francisco%2C%20CA"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "https://secure-content.meetupstatic.com/images/classic-events/536327267/676x676.jpg",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-10-26-sports-unicycle-club-practice-at-circ-511a3d",
+        "eid": "unicycle-club-practice-a-b80b",
+        "track": "sports",
+        "category": "",
+        "name": "Unicycle Club Practice at Circus Center",
+        "day": "Sun",
+        "date": "2026-11-01",
+        "time": "17:00",
+        "start": null,
+        "end": null,
+        "area": "San Francisco",
+        "venue": "Circus Center, 755 Frederick St",
+        "address": "755 Frederick St, San Francisco, CA",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "",
+        "tags": [],
+        "sources": [
+          "https://www.meetup.com/san-francisco-unicycle-meetup-group/events/316757775/"
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=755%20Frederick%20St%2C%20San%20Francisco%2C%20CA",
+          "apple": "https://maps.apple.com/?q=755%20Frederick%20St%2C%20San%20Francisco%2C%20CA"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "https://secure-content.meetupstatic.com/images/classic-events/532238379/676x676.jpg",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
         "active": true
       }
     ]
