@@ -5348,14 +5348,16 @@
         "area": "San Francisco",
         "venue": "Eq",
         "address": "",
-        "why": "For a night of dancefloor-focused house and techno.",
-        "summary": "A DJ night in Los Angeles on 2026-09-26 featuring Ben Ufo and Notion.",
+        "why": "To catch two guest DJs sharing a dedicated club night.",
+        "summary": "A DJ night in Los Angeles on 2026-09-26 billed as Ben Ufo + Notion.",
         "promoter": "",
         "price": "",
         "tags": [
           "dj",
           "house",
-          "techno"
+          "techno",
+          "electronic",
+          "dance"
         ],
         "sources": [],
         "tickets": [],
@@ -5556,7 +5558,7 @@
         "id": "2026-09-21-music-boiler-room-la-saturday-6c1622",
         "eid": "boiler-room-la-saturday-58c4",
         "track": "music",
-        "category": "",
+        "category": "Nightclub",
         "name": "Boiler Room: LA - Saturday",
         "day": "Sat",
         "date": "2026-09-26",
@@ -5578,10 +5580,13 @@
         ],
         "sources": [
           "https://boilerroom.tv/session/la-saturday-26/",
-          "https://boilerroom.tv/city/los-angeles/"
+          "https://boilerroom.tv/city/los-angeles/",
+          "https://dice.fm/event/g5qvaa-boiler-room-la-saturday-26th-sep-el-pueblo-de-los-angeles-historical-monument-los-angeles-tickets",
+          "https://ra.co/events/2474340"
         ],
         "tickets": [
-          "https://dice.fm/event/g5qvaa-boiler-room-la-saturday-26th-sep-el-pueblo-de-los-angeles-historical-monument-los-angeles-tickets"
+          "https://dice.fm/event/g5qvaa-boiler-room-la-saturday-26th-sep-el-pueblo-de-los-angeles-historical-monument-los-angeles-tickets",
+          "https://ra.co/events/2474340"
         ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Los%20Angeles",
@@ -5590,17 +5595,17 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/los-angeles/2026-09-21/boiler-room-la-saturday-58c4.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 1,
+        "enriched": 2,
         "active": true
       },
       {
         "id": "2026-09-21-music-cosmic-gate-edaa74",
         "eid": "cosmic-gate-29ce",
         "track": "music",
-        "category": "Trance",
+        "category": "Concert",
         "name": "Cosmic Gate",
         "day": "Sat",
         "date": "2026-09-26",
@@ -5613,7 +5618,7 @@
         "why": "Trance veterans Cosmic Gate at Academy LA's Hollywood Blvd room — a rare club-scale set for a stadium-level act",
         "summary": "Trance duo Cosmic Gate play a 10pm–2am club set at Academy LA on Hollywood Boulevard. The night is 21+.",
         "promoter": "Academy LA",
-        "price": "",
+        "price": "Free",
         "tags": [
           "trance",
           "edm",
@@ -5625,7 +5630,8 @@
           "https://www.tixr.com/groups/academy/events/cosmic-gate-201231"
         ],
         "tickets": [
-          "https://www.tixr.com/groups/academy/events/cosmic-gate-201231"
+          "https://www.tixr.com/groups/academy/events/cosmic-gate-201231",
+          "https://ra.co/events/2512850"
         ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=6021%20Hollywood%20Blvd.%20Los%20Angeles%2C%20CA%2090028",
@@ -5642,10 +5648,10 @@
           "interested": 7,
           "attending": 7
         },
-        "image": "",
+        "image": "https://api.party-scout.app/img/los-angeles/2026-09-21/cosmic-gate-29ce.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 1,
+        "enriched": 2,
         "active": true,
         "lineup": [
           {
