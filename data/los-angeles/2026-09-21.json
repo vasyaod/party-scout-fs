@@ -7513,8 +7513,8 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
-        "image_generated": false,
+        "image": "https://api.party-scout.app/img/los-angeles/2026-09-21/wide-awake-2-stage-after-edad.jpg",
+        "image_generated": true,
         "popularity": 0,
         "enriched": 2,
         "active": true
@@ -7527,24 +7527,28 @@
         "name": "WobbleArt",
         "day": "Sat",
         "date": "2026-09-26",
-        "time": "",
-        "start": null,
-        "end": null,
+        "time": "9:30pm–1am",
+        "start": "21:30",
+        "end": "01:00",
         "area": "Chinatown",
         "venue": "Apotheke",
         "address": "1746 N Spring St, Los Angeles, CA 90012",
         "why": "Free vinyl deep-house night in Apotheke's hidden speakeasy lounge.",
         "summary": "WobbleArt is a recurring deep-house night at Apotheke, the Mission Junction/Chinatown speakeasy, with DJs spinning vinyl sets in the intimate cocktail lounge.",
         "promoter": "Wobble",
-        "price": "",
+        "price": "Free",
         "tags": [
           "house",
           "deep-house",
           "vinyl",
           "free"
         ],
-        "sources": [],
-        "tickets": [],
+        "sources": [
+          "https://ra.co/events/2540084"
+        ],
+        "tickets": [
+          "https://ra.co/events/2540084"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Apotheke%2C%20Los%20Angeles",
           "apple": "https://maps.apple.com/?q=Apotheke%2C%20Los%20Angeles"
@@ -7552,17 +7556,17 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/los-angeles/2026-09-21/wobbleart-ee04.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 1,
+        "enriched": 2,
         "active": true
       },
       {
         "id": "2026-09-21-music-work-over-time-day-2-jia-marr-e3e715",
         "eid": "work-over-time-day-2-jia-d476",
         "track": "music",
-        "category": "Techno",
+        "category": "Concert",
         "name": "WORK OVER/TIME Day 2: JIA, MARRØN, Rene Wise, & Sarah Wreath (LIVE)",
         "day": "Sat",
         "date": "2026-09-26",
@@ -7575,7 +7579,7 @@
         "why": "Second night of a two-day underground techno takeover with a location revealed only to ticket holders",
         "summary": "WORK OVER/TIME is a two-day underground techno event series with the venue revealed to ticket holders shortly before doors. Day 2 (Sat Sept 26) runs from JIA, MARRØN, Rene Wise, and Sarah Wreath.",
         "promoter": "WORK",
-        "price": "",
+        "price": "$45–$60",
         "tags": [
           "techno",
           "warehouse",
@@ -7583,10 +7587,12 @@
           "underground"
         ],
         "sources": [
-          "https://ra.co/events/2428630"
+          "https://ra.co/events/2428630",
+          "https://ra.co/events/2506639"
         ],
         "tickets": [
-          "https://ra.co/events/2428630"
+          "https://ra.co/events/2428630",
+          "https://ra.co/events/2506639"
         ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Los%20Angeles",
@@ -7595,10 +7601,10 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/los-angeles/2026-09-21/work-over-time-day-2-jia-d476.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 1,
+        "enriched": 2,
         "active": true,
         "lineup": [
           {
@@ -7623,29 +7629,31 @@
         "id": "2026-09-21-music-yuuri-live-2026-in-los-angeles-d3efd3",
         "eid": "yuuri-live-2026-in-los-a-9514",
         "track": "music",
-        "category": "concert",
+        "category": "Concert",
         "name": "Yuuri Live 2026 In Los Angeles",
         "day": "Sat",
         "date": "2026-09-26",
         "time": "7:00 PM",
-        "start": null,
-        "end": null,
+        "start": "22:00",
+        "end": "02:00",
         "area": "Koreatown",
         "venue": "The Wiltern",
         "address": "3790 Wilshire Blvd, Los Angeles, CA 90010",
-        "why": "",
+        "why": "Affordable ticket price to catch a live set in LA.",
         "summary": "Japanese singer-songwriter Yuuri performs live at The Wiltern in Los Angeles.",
         "promoter": "Live Nation",
-        "price": "",
+        "price": "$10",
         "tags": [
           "concert",
           "j-pop"
         ],
         "sources": [
-          "https://www.livenation.com/event/vvG10Z_u7lBCJ3/yuuri-live-2026-in-los-angeles"
+          "https://www.livenation.com/event/vvG10Z_u7lBCJ3/yuuri-live-2026-in-los-angeles",
+          "https://ra.co/events/2546197"
         ],
         "tickets": [
-          "https://www.livenation.com/event/vvG10Z_u7lBCJ3/yuuri-live-2026-in-los-angeles"
+          "https://www.livenation.com/event/vvG10Z_u7lBCJ3/yuuri-live-2026-in-los-angeles",
+          "https://ra.co/events/2546197"
         ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=The%20Wiltern%2C%20Los%20Angeles",
@@ -7654,10 +7662,10 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/los-angeles/2026-09-21/yuuri-live-2026-in-los-a-9514.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 1,
+        "enriched": 2,
         "active": true
       },
       {
