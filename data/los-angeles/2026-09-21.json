@@ -5421,7 +5421,7 @@
         "id": "2026-09-21-music-the-birdhouse-migration-001-7eed35",
         "eid": "the-birdhouse-migration-56f7",
         "track": "music",
-        "category": "House",
+        "category": "Nightclub",
         "name": "The BirdHouse: Migration 001",
         "day": "Sat",
         "date": "2026-09-26",
@@ -5442,10 +5442,12 @@
           "charity"
         ],
         "sources": [
-          "https://events.humanitix.com/the-bird-house-001-migration"
+          "https://events.humanitix.com/the-bird-house-001-migration",
+          "https://ra.co/events/2520327"
         ],
         "tickets": [
-          "https://events.humanitix.com/the-bird-house-001-migration"
+          "https://events.humanitix.com/the-bird-house-001-migration",
+          "https://ra.co/events/2520327"
         ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Los%20Angeles",
@@ -5454,10 +5456,10 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/los-angeles/2026-09-21/the-birdhouse-migration-56f7.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 1,
+        "enriched": 2,
         "active": true,
         "lineup": [
           {
@@ -7380,13 +7382,13 @@
         "id": "2026-09-21-music-tritonal-edfd74",
         "eid": "tritonal-17d7",
         "track": "music",
-        "category": "Trance",
+        "category": "Concert",
         "name": "Tritonal",
         "day": "Sat",
         "date": "2026-09-26",
         "time": "10pm",
         "start": "22:00",
-        "end": null,
+        "end": "02:00",
         "area": "Hollywood",
         "venue": "Avalon Hollywood",
         "address": "1735 N Vine St, Los Angeles, CA 90028",
@@ -7401,7 +7403,8 @@
         ],
         "sources": [
           "https://avalonhollywood.com/event/tritonal-nightclub-near-me-discover-avalon-hollywood-2026-september-26-best-night-club-near-me-hollywood-los-angeles/",
-          "https://www.songkick.com/concerts/43281531-tritonal-at-avalon"
+          "https://www.songkick.com/concerts/43281531-tritonal-at-avalon",
+          "https://www.tixr.com/groups/avalonhollywood/events/tritonal-195839"
         ],
         "tickets": [
           "https://www.tixr.com/groups/avalonhollywood/events/tritonal-195839"
@@ -7413,10 +7416,10 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/los-angeles/2026-09-21/tritonal-17d7.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 1,
+        "enriched": 2,
         "active": true,
         "lineup": [
           {
@@ -7437,23 +7440,33 @@
         "id": "2026-09-21-music-wellness-check-presents-jen-ca-c59d9b",
         "eid": "wellness-check-presents-4500",
         "track": "music",
-        "category": "",
+        "category": "Nightclub",
         "name": "Wellness Check presents: Jen Cardini, Konduku, Buttechno (live), Rachana",
         "day": "Sat",
         "date": "2026-09-26",
-        "time": "",
-        "start": null,
-        "end": null,
+        "time": "9pm–5am",
+        "start": "21:00",
+        "end": "05:00",
         "area": "DTLA/Los Angeles",
         "venue": "TBA - DTLA",
         "address": "",
-        "why": "",
-        "summary": "",
+        "why": "For a marathon night of underground techno and extended DJ/live sets.",
+        "summary": "A late-night electronic event on September 26, 2026, featuring Jen Cardini, Konduku, Buttechno (live), and Rachana; runs 9pm–5am with $40 tickets.",
         "promoter": "",
-        "price": "",
-        "tags": [],
-        "sources": [],
-        "tickets": [],
+        "price": "$40",
+        "tags": [
+          "techno",
+          "dj",
+          "live",
+          "21+",
+          "late-night"
+        ],
+        "sources": [
+          "https://ra.co/events/2512717"
+        ],
+        "tickets": [
+          "https://ra.co/events/2512717"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=DTLA/Los%20Angeles",
           "apple": "https://maps.apple.com/?q=DTLA/Los%20Angeles"
@@ -7461,17 +7474,17 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/los-angeles/2026-09-21/wellness-check-presents-4500.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 1,
+        "enriched": 2,
         "active": true
       },
       {
         "id": "2026-09-21-music-wide-awake-2-stage-afters-f774e4",
         "eid": "wide-awake-2-stage-after-0c8b",
         "track": "music",
-        "category": "",
+        "category": "Nightclub",
         "name": "Wide Awake (2 Stage Afters)",
         "day": "Sat",
         "date": "2026-09-26",
@@ -7481,11 +7494,16 @@
         "area": "DTLA/Los Angeles",
         "venue": "TBA",
         "address": "",
-        "why": "",
-        "summary": "",
+        "why": "For late-night dancing across two stages.",
+        "summary": "A two-stage afterparty taking place on September 26, 2026 in Los Angeles.",
         "promoter": "",
         "price": "",
-        "tags": [],
+        "tags": [
+          "afterparty",
+          "late-night",
+          "two-stage",
+          "dj"
+        ],
         "sources": [],
         "tickets": [],
         "maps": {
@@ -7498,7 +7516,7 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 1,
+        "enriched": 2,
         "active": true
       },
       {
