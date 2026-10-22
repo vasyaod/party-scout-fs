@@ -5137,21 +5137,24 @@
         "id": "2026-09-21-music-afters-tooneyverse-a1a4fa",
         "eid": "afters-tooneyverse-7b88",
         "track": "music",
-        "category": "",
+        "category": "Nightclub",
         "name": "Afters @ Tooneyverse",
         "day": "Sat",
         "date": "2026-09-26",
         "time": "",
         "start": null,
         "end": null,
-        "area": "Los Angeles",
+        "area": "DTLA",
         "venue": "1253 S Los Angeles St Ste C",
         "address": "",
-        "why": "",
-        "summary": "",
+        "why": "To keep the night going with a late-night party vibe.",
+        "summary": "An after-party called Afters at Tooneyverse on September 26, 2026 in Los Angeles.",
         "promoter": "",
         "price": "",
-        "tags": [],
+        "tags": [
+          "party",
+          "late-night"
+        ],
         "sources": [],
         "tickets": [],
         "maps": {
@@ -5164,7 +5167,7 @@
         "image": "https://party-scout.app/img/gen/afters-tooneyverse-7b88.jpg",
         "image_generated": true,
         "popularity": 0,
-        "enriched": 1,
+        "enriched": 2,
         "active": true
       },
       {
@@ -8704,20 +8707,20 @@
         "id": "2026-09-21-music-wellness-check-presents-pavel-0385ab",
         "eid": "wellness-check-presents-6049",
         "track": "music",
-        "category": "Techno",
+        "category": "Concert",
         "name": "Wellness Check presents: Pavel Milyakov (live), Anenon (live), agraybé",
         "day": "Sun",
         "date": "2026-09-27",
-        "time": "",
-        "start": null,
-        "end": null,
+        "time": "4–10pm",
+        "start": "16:00",
+        "end": "22:00",
         "area": "Los Angeles",
         "venue": "TBA - DTLA",
         "address": "1755 N. Boylston St, Los Angeles, CA 90012",
         "why": "Rare outdoor live set from Berlin experimental artist Pavel Milyakov on LA's own hillside dance floor",
         "summary": "An outdoor daytime set on the grassy knoll at Montecillo De Leo Politi Park in Elysian Park, pairing Pavel Milyakov's live experimental sound with local artists Anenon and Agraybe.",
         "promoter": "",
-        "price": "",
+        "price": "$25",
         "tags": [
           "outdoor",
           "techno",
@@ -8728,9 +8731,13 @@
         ],
         "sources": [
           "https://www.songkick.com/concerts/43402136-pavel-milyakov-at-montecillo-de-leo-politi-park",
-          "https://ra.co/clubs/153583"
+          "https://ra.co/clubs/153583",
+          "https://ra.co/events/2532284"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://ra.co/clubs/153583",
+          "https://ra.co/events/2532284"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=DTLA/Los%20Angeles",
           "apple": "https://maps.apple.com/?q=DTLA/Los%20Angeles"
@@ -8738,10 +8745,10 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/los-angeles/2026-09-21/wellness-check-presents-6049.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 1,
+        "enriched": 2,
         "active": true,
         "lineup": [
           {
@@ -8762,23 +8769,32 @@
         "id": "2026-09-21-music-whatever-day-to-night-rave-0943f5",
         "eid": "whatever-day-to-night-ra-6bdd",
         "track": "music",
-        "category": "",
+        "category": "Nightclub",
         "name": "WHATEVER DAY TO NIGHT RAVE",
         "day": "Sun",
         "date": "2026-09-27",
-        "time": "",
-        "start": null,
-        "end": null,
+        "time": "4pm–1am",
+        "start": "16:00",
+        "end": "01:00",
         "area": "Los Angeles",
         "venue": "TBA",
         "address": "",
-        "why": "",
-        "summary": "",
+        "why": "To dance through the afternoon into the early-morning hours.",
+        "summary": "Day-to-night rave on 2026-09-27 running 4pm–1am with $15 admission in Los Angeles.",
         "promoter": "",
-        "price": "",
-        "tags": [],
-        "sources": [],
-        "tickets": [],
+        "price": "$15",
+        "tags": [
+          "rave",
+          "electronic",
+          "dance",
+          "ticketed"
+        ],
+        "sources": [
+          "https://ra.co/events/2539329"
+        ],
+        "tickets": [
+          "https://ra.co/events/2539329"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Los%20Angeles",
           "apple": "https://maps.apple.com/?q=Los%20Angeles"
@@ -8786,10 +8802,10 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/los-angeles/2026-09-21/whatever-day-to-night-ra-6bdd.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 1,
+        "enriched": 2,
         "active": true
       }
     ],
