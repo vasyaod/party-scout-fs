@@ -6688,7 +6688,7 @@
         "id": "2026-09-21-music-nightshift-after-hours-cfd4c4",
         "eid": "nightshift-after-hours-2a43",
         "track": "music",
-        "category": "House",
+        "category": "Nightclub",
         "name": "NIGHTSHIFT AFTER HOURS",
         "day": "Sat",
         "date": "2026-09-26",
@@ -6708,8 +6708,12 @@
           "21+",
           "speakeasy"
         ],
-        "sources": [],
-        "tickets": [],
+        "sources": [
+          "https://ra.co/events/2541664"
+        ],
+        "tickets": [
+          "https://ra.co/events/2541664"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=The%20Lexington%2C%20Los%20Angeles",
           "apple": "https://maps.apple.com/?q=The%20Lexington%2C%20Los%20Angeles"
@@ -6717,17 +6721,17 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/los-angeles/2026-09-21/nightshift-after-hours-2a43.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 1,
+        "enriched": 2,
         "active": true
       },
       {
         "id": "2026-09-21-music-o-b-i-per-pleks-4b4a2e",
         "eid": "o-b-i-per-pleks-96eb",
         "track": "music",
-        "category": "Techno",
+        "category": "Concert",
         "name": "O.B.I + Per Pleks",
         "day": "Sat",
         "date": "2026-09-26",
@@ -6748,7 +6752,8 @@
           "warehouse"
         ],
         "sources": [
-          "https://www.eventticketscenter.com/obi-los-angeles-09-26-2026/8195545/t"
+          "https://www.eventticketscenter.com/obi-los-angeles-09-26-2026/8195545/t",
+          "https://axs.com/events/1554392/obi-tickets"
         ],
         "tickets": [
           "https://axs.com/events/1554392/obi-tickets"
@@ -6760,10 +6765,10 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
-        "image_generated": false,
+        "image": "https://api.party-scout.app/img/los-angeles/2026-09-21/o-b-i-per-pleks-de79.jpg",
+        "image_generated": true,
         "popularity": 0,
-        "enriched": 1,
+        "enriched": 2,
         "active": true,
         "lineup": [
           {
@@ -6787,7 +6792,7 @@
         "time": "",
         "start": null,
         "end": null,
-        "area": "Los Angeles",
+        "area": "Santa Monica",
         "venue": "Santa Monica Beach",
         "address": "",
         "why": "Canceled: Hurricane Marie beach erosion forced Goldenvoice to scrap the inaugural festival days before load-in.",
@@ -6817,7 +6822,7 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 1,
+        "enriched": 2,
         "active": true
       },
       {
