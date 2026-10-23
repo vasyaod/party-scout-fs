@@ -399,7 +399,7 @@
         "id": "2026-09-21-music-afters-tooneyverse-9df31b",
         "eid": "afters-tooneyverse-1e26",
         "track": "music",
-        "category": "",
+        "category": "Nightclub",
         "name": "Afters @ Tooneyverse",
         "day": "Wed",
         "date": "2026-09-23",
@@ -409,11 +409,15 @@
         "area": "Los Angeles",
         "venue": "1253 S Los Angeles St Ste C",
         "address": "",
-        "why": "",
-        "summary": "",
+        "why": "For late-night dancing and keeping the party going after other shows.",
+        "summary": "An after-hours event called \"Afters @ Tooneyverse\" is scheduled for 2026-09-23 in Los Angeles.",
         "promoter": "",
         "price": "",
-        "tags": [],
+        "tags": [
+          "late-night",
+          "dj",
+          "dance"
+        ],
         "sources": [],
         "tickets": [],
         "maps": {
@@ -426,7 +430,7 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 1,
+        "enriched": 2,
         "active": true
       },
       {
@@ -1698,7 +1702,7 @@
         "id": "2026-09-21-music-the-residency-vol-42-homecomin-911872",
         "eid": "the-residency-vol-42-hom-4469",
         "track": "music",
-        "category": "",
+        "category": "Nightclub",
         "name": "The Residency - Vol. 42 - 'Homecoming'  - Grand Opening - Itai X Miles Jay",
         "day": "Thu",
         "date": "2026-09-24",
@@ -1708,11 +1712,20 @@
         "area": "Los Angeles",
         "venue": "Zula Den",
         "address": "",
-        "why": "",
-        "summary": "",
+        "why": "A live-music dance community night with Beats Antique's Miles Jay, opening a new home for the series.",
+        "summary": "The Residency's Vol. 42 'Homecoming' is the grand opening at Zula Den: a live music and intentional dance night with Miles Jay of Beats Antique and ITAI.",
         "promoter": "",
-        "price": "",
-        "tags": [],
+        "price": "$34",
+        "tags": [
+          "nightlife",
+          "party",
+          "21+",
+          "grand-opening",
+          "live music",
+          "dance",
+          "electronic",
+          "community"
+        ],
         "sources": [],
         "tickets": [],
         "maps": {
@@ -1725,8 +1738,9 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 1,
-        "active": true
+        "enriched": 2,
+        "active": true,
+        "lineup": []
       },
       {
         "id": "2026-09-21-music-robyn-the-sexistential-afterpa-609eac",
@@ -2023,26 +2037,32 @@
         "id": "2026-09-21-music-tricky-3b4455",
         "eid": "tricky-2630",
         "track": "music",
-        "category": "",
+        "category": "Concert",
         "name": "Tricky",
         "day": "Thu",
         "date": "2026-09-24",
-        "time": "",
+        "time": "7–11pm",
         "start": "20:00",
-        "end": null,
+        "end": "23:00",
         "area": "Los Angeles",
         "venue": "The Bellwether",
         "address": "333 S Boylston St, Los Angeles, CA 90017",
-        "why": "",
-        "summary": "",
+        "why": "To attend an evening live performance in Los Angeles at a set ticket price.",
+        "summary": "A concert titled \"Tricky\" scheduled for 2026-09-24 from 7–11pm in Los Angeles; tickets are $49.",
         "promoter": "",
-        "price": "",
-        "tags": [],
+        "price": "$49",
+        "tags": [
+          "concert",
+          "live",
+          "ticketed"
+        ],
         "sources": [
-          "https://www.axs.com/events/1446526/tricky-tickets"
+          "https://www.axs.com/events/1446526/tricky-tickets",
+          "https://ra.co/events/2486069"
         ],
         "tickets": [
-          "https://www.axs.com/events/1446526/tricky-tickets"
+          "https://www.axs.com/events/1446526/tricky-tickets",
+          "https://ra.co/events/2486069"
         ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=The%20Bellwether%2C%20Los%20Angeles",
@@ -2051,31 +2071,40 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/los-angeles/2026-09-21/tricky-2630.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 1,
+        "enriched": 2,
         "active": true
       },
       {
         "id": "2026-09-21-music-y2k-scene-night-221c12",
         "eid": "y2k-scene-night-4c35",
         "track": "music",
-        "category": "",
+        "category": "Nightclub",
         "name": "Y2k Scene Night",
         "day": "Thu",
         "date": "2026-09-24",
-        "time": "",
+        "time": "10:00 PM",
         "start": null,
         "end": null,
         "area": "Los Angeles",
         "venue": "1720",
         "address": "",
-        "why": "",
-        "summary": "",
+        "why": "Costumes encouraged — dress scene, emo or Y2K for a night of Kesha, Katy Perry and crunkcore singalongs.",
+        "summary": "A Thursday-night throwback to MySpace-era scene, emo, hyperpop and Y2K pop, with a live set and DJs. 18+.",
         "promoter": "",
         "price": "",
-        "tags": [],
+        "tags": [
+          "y2k",
+          "throwback",
+          "dj",
+          "dance",
+          "scene",
+          "emo",
+          "hyperpop",
+          "18+"
+        ],
         "sources": [],
         "tickets": [],
         "maps": {
@@ -2088,7 +2117,7 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 1,
+        "enriched": 2,
         "active": true
       },
       {
@@ -9405,7 +9434,7 @@
         "id": "2026-09-21-sports-a-san-marino-lacy-park-beyond-972ec0",
         "eid": "a-san-marino-lacy-park-b-46b9",
         "track": "sports",
-        "category": "Social Walk",
+        "category": "Sports",
         "name": "A San Marino/Lacy Park & Beyond, 10k-Steps Challenge #44 [TCP MOAI Adventure]",
         "day": "Wed",
         "date": "2026-09-23",
@@ -9436,10 +9465,10 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/los-angeles/2026-09-21/a-san-marino-lacy-park-b-46b9.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 1,
+        "enriched": 2,
         "active": true
       },
       {
