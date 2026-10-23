@@ -2563,7 +2563,7 @@
         "time": "11pm–8am",
         "start": "23:00",
         "end": "08:00",
-        "area": "Los Angeles",
+        "area": "DTLA",
         "venue": "TBA - Downtown Los Angeles",
         "address": "2346 Porter Street, Los Angeles, CA 90021",
         "why": "Certified Groovers' recurring DTLA warehouse hosts house selector Gene On Earth.",
@@ -2599,7 +2599,7 @@
         "id": "2026-09-21-music-chubby-cattle-pop-up-rave-ft-h-cce068",
         "eid": "chubby-cattle-pop-up-rav-7515",
         "track": "music",
-        "category": "",
+        "category": "Nightclub",
         "name": "Chubby Cattle Pop-Up Rave ft Hex Cougar, Villa, Luciden",
         "day": "Fri",
         "date": "2026-09-25",
@@ -2609,11 +2609,16 @@
         "area": "Rowland Heights",
         "venue": "Chubby Cattle Bbq",
         "address": "",
-        "why": "",
-        "summary": "",
+        "why": "An unusual pop-up: a dance night inside a Rowland Heights BBQ restaurant rather than a club.",
+        "summary": "A pop-up rave at Chubby Cattle BBQ in Rowland Heights, with Hex Cougar, Villa and Luciden on the lineup.",
         "promoter": "",
         "price": "",
-        "tags": [],
+        "tags": [
+          "electronic",
+          "rave",
+          "dj",
+          "pop-up"
+        ],
         "sources": [],
         "tickets": [],
         "maps": {
@@ -2626,14 +2631,15 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 1,
-        "active": true
+        "enriched": 2,
+        "active": true,
+        "lineup": []
       },
       {
         "id": "2026-09-21-music-close-friends-only-erez-f919c4",
         "eid": "close-friends-only-erez-147a",
         "track": "music",
-        "category": "House / Tech House",
+        "category": "Nightclub",
         "name": "Close Friends Only + Erez",
         "day": "Fri",
         "date": "2026-09-25",
@@ -2669,10 +2675,10 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/los-angeles/2026-09-21/close-friends-only-erez-147a.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 1,
+        "enriched": 2,
         "active": true,
         "lineup": [
           {
@@ -2689,20 +2695,20 @@
         "id": "2026-09-21-music-club-speed-star-presents-riria-fe4ee5",
         "eid": "club-speed-star-presents-0f85",
         "track": "music",
-        "category": "Bass",
+        "category": "Nightclub",
         "name": "club speed.star presents: RIRIA, Linda Lo, Avi Loud",
         "day": "Fri",
         "date": "2026-09-25",
-        "time": "",
-        "start": null,
-        "end": null,
+        "time": "9pm–2am",
+        "start": "21:00",
+        "end": "02:00",
         "area": "Los Angeles",
         "venue": "Club Catwalk",
         "address": "698 Harlem Pl, Los Angeles, CA 90014",
         "why": "A viral Boiler Room Tokyo alum mixing UK garage, amapiano and Jersey club in DTLA's newest underground room.",
         "summary": "Tokyo-born, London-based DJ RIRIA — a Rinse FM resident whose 2024 Boiler Room Tokyo set went viral — brings her blend of UK garage, amapiano, Jersey club and dub to Club Catwalk in the Historic Core.",
         "promoter": "club speed.star",
-        "price": "",
+        "price": "$15+",
         "tags": [
           "uk garage",
           "amapiano",
@@ -2711,9 +2717,13 @@
           "underground"
         ],
         "sources": [
-          "https://ra.co/clubs/190104"
+          "https://ra.co/clubs/190104",
+          "https://ra.co/events/2487718"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://ra.co/clubs/190104",
+          "https://ra.co/events/2487718"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Club%20Catwalk%2C%20Los%20Angeles",
           "apple": "https://maps.apple.com/?q=Club%20Catwalk%2C%20Los%20Angeles"
@@ -2721,10 +2731,10 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/los-angeles/2026-09-21/club-speed-star-presents-0f85.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 1,
+        "enriched": 2,
         "active": true,
         "lineup": [
           {
