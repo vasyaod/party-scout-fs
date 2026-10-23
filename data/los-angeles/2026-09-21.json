@@ -1389,14 +1389,16 @@
         "area": "San Diego",
         "venue": "Salvatore's Cucina & Lounge",
         "address": "750 Front St, San Diego, CA 92101",
-        "why": "For a night of back-to-back DJ sets from a diverse roster.",
-        "summary": "Hypnotic on 2026-09-24 in Los Angeles featuring Mikey P, Tezca, Saarias, L A R Z X Neko, and DJ Daemia X J. Splat.",
+        "why": "A five-act local DJ lineup in a downtown San Diego lounge on a weeknight.",
+        "summary": "A Thursday-night DJ bill at Salvatore's Cucina & Lounge in downtown San Diego, with Mikey P, Tezca, Saarias, L A R Z X Neko and DJ Daemia X J. Splat on the lineup.",
         "promoter": "",
         "price": "",
         "tags": [
           "dj",
           "electronic",
-          "dance"
+          "dance",
+          "nightlife",
+          "san-diego"
         ],
         "sources": [],
         "tickets": [],
@@ -1417,20 +1419,20 @@
         "id": "2026-09-21-music-kcrw-presents-tricky-95ea52",
         "eid": "kcrw-presents-tricky-d450",
         "track": "music",
-        "category": "Trip-hop",
+        "category": "Concert",
         "name": "KCRW presents Tricky",
         "day": "Thu",
         "date": "2026-09-24",
         "time": "Doors 7pm, show 8pm",
         "start": "20:00",
-        "end": null,
+        "end": "23:00",
         "area": "Los Angeles",
         "venue": "The Bellwether",
         "address": "333 S Boylston St, Los Angeles, CA 90017",
         "why": "Trip-hop originator on a rare solo-album tour, presented by KCRW",
         "summary": "KCRW presents Tricky, the British trip-hop pioneer, at The Bellwether in support of his new album Different When It's Silent, his first solo release in six years. All ages; optional $85 Looking Glass Lounge upgrade.",
         "promoter": "KCRW",
-        "price": "",
+        "price": "$49",
         "tags": [
           "trip-hop",
           "live",
@@ -1438,10 +1440,13 @@
           "kcrw"
         ],
         "sources": [
-          "https://thebellwetherla.com/events/tricky-260924"
+          "https://thebellwetherla.com/events/tricky-260924",
+          "https://www.livenation.com/event/vvG10Z_16_bEO2/kcrw-presents-tricky",
+          "https://ra.co/events/2486069"
         ],
         "tickets": [
-          "https://www.livenation.com/event/vvG10Z_16_bEO2/kcrw-presents-tricky"
+          "https://www.livenation.com/event/vvG10Z_16_bEO2/kcrw-presents-tricky",
+          "https://ra.co/events/2486069"
         ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=The%20Bellwether%2C%20Los%20Angeles",
@@ -1450,10 +1455,10 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/los-angeles/2026-09-21/kcrw-presents-tricky-d450.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 1,
+        "enriched": 2,
         "active": true,
         "lineup": []
       },
@@ -1461,7 +1466,7 @@
         "id": "2026-09-21-music-kruder-dorfmeister-96ecfa",
         "eid": "kruder-dorfmeister-9ba0",
         "track": "music",
-        "category": "Downtempo / Electronic",
+        "category": "Concert",
         "name": "Kruder & Dorfmeister",
         "day": "Thu",
         "date": "2026-09-24",
@@ -1471,8 +1476,8 @@
         "area": "Los Angeles",
         "venue": "The Novo",
         "address": "800 W Olympic Blvd, Los Angeles, CA 90015",
-        "why": "",
-        "summary": "",
+        "why": "To hear an influential downtempo/electronic set live.",
+        "summary": "Kruder & Dorfmeister are scheduled to appear in Los Angeles on September 24, 2026.",
         "promoter": "Goldenvoice Presents",
         "price": "$51+",
         "tags": [
@@ -1495,17 +1500,17 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/los-angeles/2026-09-21/kruder-dorfmeister-9ba0.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 1,
+        "enriched": 2,
         "active": true
       },
       {
         "id": "2026-09-21-music-mochakk-ben-sterling-jackie-ho-b97c98",
         "eid": "mochakk-ben-sterling-jac-e70e",
         "track": "music",
-        "category": "House",
+        "category": "Concert",
         "name": "Mochakk + Ben Sterling + Jackie Hollander",
         "day": "Thu",
         "date": "2026-09-24",
@@ -1539,10 +1544,10 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/los-angeles/2026-09-21/mochakk-ben-sterling-jac-e70e.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 1,
+        "enriched": 2,
         "active": true,
         "lineup": [
           {
