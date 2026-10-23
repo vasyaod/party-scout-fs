@@ -275,23 +275,31 @@
         "id": "2026-09-21-music-kelela-9f85ef",
         "eid": "kelela-17f6",
         "track": "music",
-        "category": "",
+        "category": "Concert",
         "name": "Kelela",
         "day": "Tue",
         "date": "2026-09-22",
-        "time": "",
-        "start": null,
-        "end": null,
+        "time": "7–11pm",
+        "start": "19:00",
+        "end": "23:00",
         "area": "Los Angeles",
         "venue": "The Wiltern",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "3790 Wilshire Blvd, Los Angeles, CA 90010",
+        "why": "For an evening live music show in Los Angeles.",
+        "summary": "Kelela performs September 22, 2026 from 7–11pm at 3790 Wilshire Blvd in Los Angeles; tickets start at $53.",
         "promoter": "",
-        "price": "",
-        "tags": [],
-        "sources": [],
-        "tickets": [],
+        "price": "$53+",
+        "tags": [
+          "live",
+          "ticketed",
+          "evening"
+        ],
+        "sources": [
+          "https://ra.co/events/2540295"
+        ],
+        "tickets": [
+          "https://ra.co/events/2540295"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=The%20Wiltern%2C%20Los%20Angeles",
           "apple": "https://maps.apple.com/?q=The%20Wiltern%2C%20Los%20Angeles"
@@ -299,33 +307,41 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "https://party-scout.app/img/gen/kelela-17f6.jpg",
-        "image_generated": true,
+        "image": "https://api.party-scout.app/img/los-angeles/2026-09-21/kelela-17f6.jpg",
+        "image_generated": false,
         "popularity": 0,
-        "enriched": 1,
+        "enriched": 2,
         "active": true
       },
       {
         "id": "2026-09-21-music-nightshift-after-hours-72ccfe",
         "eid": "nightshift-after-hours-d5b2",
         "track": "music",
-        "category": "",
+        "category": "Nightclub",
         "name": "NIGHTSHIFT AFTER HOURS",
         "day": "Tue",
         "date": "2026-09-22",
-        "time": "",
-        "start": null,
-        "end": null,
+        "time": "11pm–5am",
+        "start": "23:00",
+        "end": "05:00",
         "area": "Los Angeles",
         "venue": "The Lexington",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "129 E. 3rd St, Los Angeles, Ca, 90013",
+        "why": "A no-cover, late-night option that runs into the early morning.",
+        "summary": "Free after-hours event at 129 E. 3rd St in DTLA on September 22, 2026, running 11pm–5am.",
         "promoter": "",
-        "price": "",
-        "tags": [],
-        "sources": [],
-        "tickets": [],
+        "price": "Free",
+        "tags": [
+          "free",
+          "after-hours",
+          "late-night"
+        ],
+        "sources": [
+          "https://ra.co/events/2541662"
+        ],
+        "tickets": [
+          "https://ra.co/events/2541662"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=The%20Lexington%2C%20Los%20Angeles",
           "apple": "https://maps.apple.com/?q=The%20Lexington%2C%20Los%20Angeles"
@@ -333,10 +349,10 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/los-angeles/2026-09-21/nightshift-after-hours-d5b2.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 1,
+        "enriched": 2,
         "active": true
       },
       {
@@ -348,21 +364,27 @@
         "day": "Tue",
         "date": "2026-09-22",
         "time": "8:00 PM",
-        "start": null,
-        "end": null,
+        "start": "19:00",
+        "end": "00:00",
         "area": "Los Angeles",
         "venue": "Fonda Theatre",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "6126 Hollywood Blvd, Hollywood, CA 90028",
+        "why": "To enjoy a night out in Hollywood's entertainment district.",
+        "summary": "An event titled \"Six Sex, Oza, Luca\" is scheduled for 2026-09-22 at 6126 Hollywood Blvd in Hollywood, CA.",
         "promoter": "Goldenvoice",
         "price": "",
-        "tags": [],
+        "tags": [
+          "music",
+          "live",
+          "nightlife"
+        ],
         "sources": [
-          "https://www.axs.com/events/1511188/six-sex-tickets"
+          "https://www.axs.com/events/1511188/six-sex-tickets",
+          "https://ra.co/events/2533805"
         ],
         "tickets": [
-          "https://www.axs.com/events/1511188/six-sex-tickets"
+          "https://www.axs.com/events/1511188/six-sex-tickets",
+          "https://ra.co/events/2533805"
         ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Fonda%20Theatre%2C%20Los%20Angeles",
@@ -371,10 +393,10 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/los-angeles/2026-09-21/six-sex-oza-luca-a21a.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 1,
+        "enriched": 2,
         "active": true
       },
       {
@@ -9434,21 +9456,27 @@
         "id": "2026-09-21-sports-runyon-canyon-conditioning-wor-9fc8be",
         "eid": "runyon-canyon-conditioni-7e20",
         "track": "sports",
-        "category": "",
+        "category": "Sports",
         "name": "Runyon Canyon Conditioning Workout hike",
         "day": "Tue",
         "date": "2026-09-22",
         "time": "",
         "start": null,
         "end": null,
-        "area": "Los Angeles",
-        "venue": "TBA",
+        "area": "Hollywood",
+        "venue": "Runyon Canyon Park",
         "address": "",
-        "why": "",
-        "summary": "",
+        "why": "A free-feeling, sweaty way to start or end a Tuesday with big LA views instead of a gym.",
+        "summary": "A conditioning-style workout hike up Runyon Canyon in the Hollywood Hills, mixing steady climbs and steep stretches with skyline views.",
         "promoter": "",
         "price": "",
-        "tags": [],
+        "tags": [
+          "outdoor",
+          "fitness",
+          "hike",
+          "workout",
+          "outdoors"
+        ],
         "sources": [],
         "tickets": [],
         "maps": {
@@ -9461,7 +9489,7 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 1,
+        "enriched": 2,
         "active": true
       },
       {
