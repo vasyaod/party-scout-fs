@@ -4716,7 +4716,7 @@
         "date": "2026-09-25",
         "time": "8pm",
         "start": "20:00",
-        "end": null,
+        "end": "02:00",
         "area": "Los Angeles",
         "venue": "The Redwood Bar And Grill",
         "address": "316 W 2nd St, Los Angeles, CA 90012",
@@ -4730,9 +4730,12 @@
           "live-music"
         ],
         "sources": [
-          "https://theredwoodbar.com/events.html"
+          "https://theredwoodbar.com/events.html",
+          "https://ra.co/events/2508947"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://ra.co/events/2508947"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=The%20Redwood%20Bar%20And%20Grill%2C%20Los%20Angeles",
           "apple": "https://maps.apple.com/?q=The%20Redwood%20Bar%20And%20Grill%2C%20Los%20Angeles"
@@ -4740,10 +4743,10 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
-        "image_generated": false,
+        "image": "https://api.party-scout.app/img/los-angeles/2026-09-21/stax-johnson-company-6d4c.jpg",
+        "image_generated": true,
         "popularity": 0,
-        "enriched": 1,
+        "enriched": 2,
         "active": true,
         "lineup": [
           {
@@ -4764,14 +4767,14 @@
         "id": "2026-09-21-music-stereo-punks-presents-never-du-7de327",
         "eid": "stereo-punks-presents-ne-3956",
         "track": "music",
-        "category": "House",
+        "category": "Nightclub",
         "name": "Stereo Punks presents Never Dull, Alastair Lane (US Debut), Seamus Haji",
         "day": "Fri",
         "date": "2026-09-25",
         "time": "8pm–3am",
         "start": "20:00",
         "end": "03:00",
-        "area": "Los Angeles",
+        "area": "DTLA",
         "venue": "TBA - 6th St Bridge",
         "address": "635 S Clarence St, Los Angeles, CA 90023",
         "why": "The US debut of viral French-American artist Alastair Lane alongside UK house institution Seamus Haji",
@@ -4788,7 +4791,8 @@
         "sources": [
           "https://ra.co/events/2504266",
           "https://findmuse.app/concerts/los-angeles/stereo-punks-presents-never-dull-alastair-lane-us-debut-seamus-haji-tba-6th-st-bridge-2026-09-26",
-          "https://www.stereopunks.com/"
+          "https://www.stereopunks.com/",
+          "https://posh.vip/e/stereo-punks-presents-never-dull-1"
         ],
         "tickets": [
           "https://posh.vip/e/stereo-punks-presents-never-dull-1",
@@ -4801,10 +4805,10 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/los-angeles/2026-09-21/stereo-punks-presents-ne-3956.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 1,
+        "enriched": 2,
         "active": true,
         "lineup": [
           {
