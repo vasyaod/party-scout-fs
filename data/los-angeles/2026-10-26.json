@@ -9971,7 +9971,7 @@
         "id": "2026-10-26-music-baba-yaga-wootaing-mira-mai-as-2ea5e4",
         "eid": "baba-yaga-wootaing-mira-cb34",
         "track": "music",
-        "category": "",
+        "category": "Nightclub",
         "name": "Baba Yaga, Wootaing, Mira Mai, Asher Martin, Otomoto, Sylknet, Master Flynn",
         "day": "Sun",
         "date": "2026-11-01",
@@ -9981,11 +9981,15 @@
         "area": "Los Angeles",
         "venue": "TBA",
         "address": "",
-        "why": "",
-        "summary": "",
+        "why": "To catch a stacked multi-artist bill and discover several performers in one night.",
+        "summary": "A night featuring Baba Yaga, Wootaing, Mira Mai, Asher Martin, Otomoto, Sylknet, and Master Flynn on 2026-11-01 in Los Angeles.",
         "promoter": "",
         "price": "",
-        "tags": [],
+        "tags": [
+          "dj",
+          "live",
+          "nightlife"
+        ],
         "sources": [
           {
             "url": "https://19hz.info/eventlisting_LosAngeles.php",
@@ -10000,14 +10004,14 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
         "id": "2026-10-26-music-krs-one-b7833d",
         "eid": "krs-one-04ed",
         "track": "music",
-        "category": "",
+        "category": "hip-hop",
         "name": "Krs-One",
         "day": "Sun",
         "date": "2026-11-01",
@@ -10017,18 +10021,25 @@
         "area": "Los Angeles",
         "venue": "The Novo",
         "address": "",
-        "why": "",
-        "summary": "",
+        "why": "A chance to see one of hip-hop's foundational MCs live in a mid-size room.",
+        "summary": "Hip-hop pioneer KRS-One, the Boogie Down Productions founder, plays The Novo in DTLA on Sunday night.",
         "promoter": "",
-        "price": "",
-        "tags": [],
+        "price": "From $19 (resale)",
+        "tags": [
+          "hip-hop",
+          "live",
+          "live-music",
+          "concert"
+        ],
         "sources": [
           {
             "url": "https://19hz.info/eventlisting_LosAngeles.php",
             "hidden": true
           }
         ],
-        "tickets": [],
+        "tickets": [
+          "https://app.discotech.me/events/38266557-krs-one-at-the-novo"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=The%20Novo",
           "apple": "https://maps.apple.com/?q=The%20Novo"
@@ -10036,10 +10047,10 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/los-angeles/2026-10-26/krs-one-04ed.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
@@ -10051,20 +10062,26 @@
         "day": "Sun",
         "date": "2026-11-01",
         "time": "20:00",
-        "start": null,
-        "end": null,
-        "area": "",
+        "start": "20:00",
+        "end": "02:00",
+        "area": "DTLA",
         "venue": "The Redwood Bar And Grill",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "316 W. 2nd Street, Los Angeles, CA  90012",
+        "why": "For a downtown night out and drinks in DTLA.",
+        "summary": "Migs Whiskey is scheduled for November 1, 2026 at 316 W. 2nd Street in Downtown Los Angeles.",
         "promoter": "",
         "price": "",
-        "tags": [],
+        "tags": [
+          "21+",
+          "drinks",
+          "nightlife"
+        ],
         "sources": [
           "https://ra.co/events/2564262"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://ra.co/events/2564262"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=The%20Redwood%20Bar%20And%20Grill",
           "apple": "https://maps.apple.com/?q=The%20Redwood%20Bar%20And%20Grill"
@@ -10075,7 +10092,7 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
@@ -11434,21 +11451,32 @@
         "id": "2026-10-26-sports-cypress-park-to-the-la-river-5-d9e483",
         "eid": "cypress-park-to-the-la-r-e020",
         "track": "sports",
-        "category": "",
+        "category": "Run club",
         "name": "Cypress Park to the LA River 5K + Coffee",
         "day": "Sun",
         "date": "2026-11-01",
         "time": "07:00",
-        "start": null,
-        "end": null,
-        "area": "",
+        "start": "07:00",
+        "end": "08:30",
+        "area": "Cypress Park",
         "venue": "1802 Coffee Roasters, 1206 Cypress Avenue",
-        "address": "",
-        "why": "",
-        "summary": "",
-        "promoter": "",
-        "price": "",
-        "tags": [],
+        "address": "1206 Cypress Avenue, Los Angeles, CA",
+        "why": "A free, friendly Sunday-morning run through the neighborhood and along the river, finishing with coffee and conversation.",
+        "summary": "A relaxed, social 5K out-and-back from 1802 Coffee Roasters in Cypress Park to the LA River path, with optional coffee and bagels afterward. Not a race.",
+        "promoter": "Cypress Park / Mt. Washington Run Club",
+        "price": "Free",
+        "tags": [
+          "run",
+          "outdoor",
+          "community",
+          "morning",
+          "fitness",
+          "running",
+          "run club",
+          "5k",
+          "coffee",
+          "free"
+        ],
         "sources": [
           "https://www.meetup.com/cypress-park-mt-washington-run-club/events/316947635/"
         ],
@@ -11460,10 +11488,10 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/los-angeles/2026-10-26/cypress-park-to-the-la-r-e020.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
