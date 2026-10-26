@@ -24548,25 +24548,32 @@
         "id": "2026-10-26-music-stamina-presents-bryan-gee-2b0339",
         "eid": "stamina-presents-bryan-g-2b8d",
         "track": "music",
-        "category": "",
+        "category": "Nightclub",
         "name": "Stamina presents Bryan Gee",
         "day": "Sun",
         "date": "2026-11-01",
         "time": "22:00-02:00",
-        "start": null,
-        "end": null,
-        "area": "",
+        "start": "22:00",
+        "end": "02:00",
+        "area": "SoMa",
         "venue": "F8 1192 Folsom",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "1192 Folsom St, San Francisco, CA 94103",
+        "why": "For a downtown club night and dancefloor experience.",
+        "summary": "An event presenting Bryan Gee at 1192 Folsom St in San Francisco on 2026-11-01.",
         "promoter": "",
         "price": "Free",
-        "tags": [],
+        "tags": [
+          "dj",
+          "nightlife",
+          "indoor",
+          "electronic"
+        ],
         "sources": [
           "https://ra.co/events/2568973"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://ra.co/events/2568973"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=F8%201192%20Folsom",
           "apple": "https://maps.apple.com/?q=F8%201192%20Folsom"
@@ -24574,10 +24581,50 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/san-francisco/2026-10-26/stamina-presents-bryan-g-2b8d.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
+        "active": true
+      },
+      {
+        "id": "2026-10-26-music-the-musical-box-e4d1b6",
+        "eid": "the-musical-box-addc",
+        "track": "music",
+        "category": "Concert",
+        "name": "The Musical Box",
+        "day": "Sun",
+        "date": "2026-11-01",
+        "time": "",
+        "start": "19:00",
+        "end": "01:30",
+        "area": "SF",
+        "venue": "",
+        "address": "1290 Sutter Street, San Francisco, CA 94109",
+        "why": "For a free night out in central San Francisco.",
+        "summary": "The Musical Box takes place November 1, 2026 at 1290 Sutter Street in San Francisco. Admission is free.",
+        "promoter": "",
+        "price": "Free",
+        "tags": [
+          "free",
+          "music"
+        ],
+        "sources": [
+          "https://dothebay.com/events/san-francisco",
+          "https://dothebay.com/events/2026/11/1/the-musical-box-tickets"
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=1290%20Sutter%20Street%2C%20San%20Francisco%2C%20CA%2094109",
+          "apple": "https://maps.apple.com/?q=1290%20Sutter%20Street%2C%20San%20Francisco%2C%20CA%2094109"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "https://api.party-scout.app/img/san-francisco/2026-10-26/the-musical-box-b936.jpg",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 1,
         "active": true
       }
     ],
@@ -27286,26 +27333,32 @@
         "id": "2026-10-26-sports-sundays-at-the-beach-chair-yog-684342",
         "eid": "sundays-at-the-beach-cha-7834",
         "track": "sports",
-        "category": "",
+        "category": "Sports",
         "name": "Sundays at the Beach Chair Yoga Day",
         "day": "Sun",
         "date": "2026-11-01",
         "time": "14:00",
-        "start": null,
-        "end": null,
-        "area": "",
+        "start": "14:00",
+        "end": "17:00",
+        "area": "SF",
         "venue": "Great Highway",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "Irving and Great Highway, San Francisco, CA",
+        "why": "To stretch and relax outdoors by the ocean.",
+        "summary": "A beach chair yoga session taking place at Irving and Great Highway in San Francisco on 2026-11-01.",
         "promoter": "",
         "price": "Free",
-        "tags": [],
+        "tags": [
+          "yoga",
+          "outdoor",
+          "wellness",
+          "beach"
+        ],
         "sources": [
           {
             "url": "https://sf.funcheap.com/",
             "hidden": true
-          }
+          },
+          "https://sf.funcheap.com/sfs-free-sundays-at-the-beach-chair-yoga-day-great-highway-38/"
         ],
         "tickets": [],
         "maps": {
@@ -27315,10 +27368,10 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/san-francisco/2026-10-26/sundays-at-the-beach-cha-7834.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       }
     ]
