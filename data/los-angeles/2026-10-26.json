@@ -5,7 +5,7 @@
   "location": "Los Angeles & SoCal",
   "city": "los-angeles",
   "city_label": "Los Angeles",
-  "generated_at": "2026-10-14",
+  "generated_at": "2026-10-26",
   "tracks": {
     "music": [
       {
@@ -34,7 +34,12 @@
           "shadow-cast"
         ],
         "sources": [
-          "https://www.discoverlosangeles.com/event/2026/10/26/the-rocky-horror-picture-show-spooktacular-tour-with-barry-bostwick"
+          "https://www.discoverlosangeles.com/event/2026/10/26/the-rocky-horror-picture-show-spooktacular-tour-with-barry-bostwick",
+          "https://www.ticketmaster.com/the-rocky-horror-picture-show-spooktacular-los-angeles-california-10-26-2026/event/090064B3D19C1D19",
+          {
+            "url": "https://www.wiltern.com/shows",
+            "hidden": true
+          }
         ],
         "tickets": [],
         "maps": {
@@ -117,7 +122,12 @@
           "concert"
         ],
         "sources": [
-          "https://www.tickpick.com/buy-chief-keef-tickets-the-wiltern-10-27-26-7pm/8112200/"
+          "https://www.tickpick.com/buy-chief-keef-tickets-the-wiltern-10-27-26-7pm/8112200/",
+          "https://www.ticketmaster.com/chief-keef-los-angeles-california-10-27-2026/event/090064E1B5B0905D",
+          {
+            "url": "https://www.wiltern.com/shows",
+            "hidden": true
+          }
         ],
         "tickets": [],
         "maps": {
@@ -184,11 +194,11 @@
         "name": "American Galactic",
         "day": "Wed",
         "date": "2026-10-28",
-        "time": "8:00 PM – 2:00 AM",
+        "time": "20:00-02:00",
         "start": "20:00",
         "end": "02:00",
-        "area": "DTLA",
-        "venue": "Redwood Bar & Grill",
+        "area": "Los Angeles",
+        "venue": "The Redwood Bar And Grill",
         "address": "316 W. 2nd Street, Los Angeles, CA  90012",
         "why": "Cheap $10 entry and a late close make it an easy midweek DTLA night out.",
         "summary": "A Wednesday-night live music show at Redwood Bar & Grill, the long-running DTLA dive on 2nd Street, with doors at 8 PM and music until 2 AM.",
@@ -349,7 +359,7 @@
         "name": "BACKROOMS RAVE [HALLOWEEN EDITION]",
         "day": "Thu",
         "date": "2026-10-29",
-        "time": "21:00",
+        "time": "21:00-02:00",
         "start": "21:00",
         "end": "02:00",
         "area": "Los Angeles",
@@ -358,7 +368,7 @@
         "why": "For an affordable, Halloween-themed night of electronic dancing and costumes.",
         "summary": "Halloween edition rave happening on October 29, 2026 at 1720 E. 16th Ave in Los Angeles. General admission is listed at $10.",
         "promoter": "",
-        "price": "$10",
+        "price": "10",
         "tags": [
           "rave",
           "electronic",
@@ -480,7 +490,7 @@
         "name": "GAG Halloween",
         "day": "Thu",
         "date": "2026-10-29",
-        "time": "22:00",
+        "time": "22:00-02:00",
         "start": "22:00",
         "end": "02:00",
         "area": "Los Angeles",
@@ -497,7 +507,11 @@
           "nightlife"
         ],
         "sources": [
-          "https://ra.co/events/2544646"
+          "https://ra.co/events/2544646",
+          {
+            "url": "https://19hz.info/eventlisting_LosAngeles.php",
+            "hidden": true
+          }
         ],
         "tickets": [
           "https://ra.co/events/2544646"
@@ -575,7 +589,13 @@
           "rock",
           "live"
         ],
-        "sources": [],
+        "sources": [
+          "https://www.ticketmaster.com/slow-pulp-los-angeles-california-10-29-2026/event/090064A7AB53D323",
+          {
+            "url": "https://www.wiltern.com/shows",
+            "hidden": true
+          }
+        ],
         "tickets": [],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=The%20Wiltern%2C%20Los%20Angeles",
@@ -841,10 +861,10 @@
         "name": "Thorslund",
         "day": "Thu",
         "date": "2026-10-29",
-        "time": "20:00",
+        "time": "20:00-02:00",
         "start": "20:00",
         "end": "02:00",
-        "area": "DTLA",
+        "area": "Los Angeles",
         "venue": "The Redwood Bar And Grill",
         "address": "316 W. 2nd Street, Los Angeles, CA  90012",
         "why": "A cheap Thursday-night live show in a classic DTLA dive, with a late 2am close.",
@@ -915,48 +935,6 @@
         "coords_precise": false,
         "ra": {},
         "image": "https://party-scout.app/img/gen/a-halloween-dnb-rave-w-b-b8d5.jpg",
-        "image_generated": false,
-        "popularity": 0,
-        "enriched": 1,
-        "active": true
-      },
-      {
-        "id": "2026-10-26-music-ac-slater-1d5b6b",
-        "eid": "ac-slater-efbe",
-        "track": "music",
-        "category": "Nightclub",
-        "name": "AC Slater",
-        "day": "Fri",
-        "date": "2026-10-30",
-        "time": "22:00",
-        "start": "22:00",
-        "end": "02:00",
-        "area": "Los Angeles",
-        "venue": "Academy Nightclub (Los Angeles)",
-        "address": "6021 Hollywood Blvd.  Los Angeles, CA 90028, USA",
-        "why": "Free entry and late-night DJ vibes make this an easy Halloween-weekend dance plan.",
-        "summary": "AC Slater is scheduled for October 30, 2026 at 6021 Hollywood Blvd in Hollywood. Admission is free.",
-        "promoter": "",
-        "price": "Free",
-        "tags": [
-          "dj",
-          "electronic",
-          "free"
-        ],
-        "sources": [
-          "https://ra.co/events/2512856"
-        ],
-        "tickets": [
-          "https://ra.co/events/2512856"
-        ],
-        "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=Academy%20Nightclub%20%28Los%20Angeles%29%2C%20Los%20Angeles",
-          "apple": "https://maps.apple.com/?q=Academy%20Nightclub%20%28Los%20Angeles%29%2C%20Los%20Angeles"
-        },
-        "coords": null,
-        "coords_precise": false,
-        "ra": {},
-        "image": "https://party-scout.app/img/gen/ac-slater-efbe.jpg",
         "image_generated": false,
         "popularity": 0,
         "enriched": 1,
@@ -1068,7 +1046,16 @@
           "live",
           "concert"
         ],
-        "sources": [],
+        "sources": [
+          {
+            "url": "https://www.ticketmaster.com/dai-freyr-los-angeles-california-10-30-2026/event/090064761D110CC9",
+            "hidden": true
+          },
+          {
+            "url": "https://www.wiltern.com/shows",
+            "hidden": true
+          }
+        ],
         "tickets": [],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=The%20Wiltern%2C%20Los%20Angeles",
@@ -1077,8 +1064,8 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
-        "image_generated": false,
+        "image": "https://api.party-scout.app/img/los-angeles/2026-10-26/da-i-freyr-5504.jpg",
+        "image_generated": true,
         "popularity": 0,
         "enriched": 1,
         "active": true
@@ -1283,7 +1270,7 @@
         "name": "Disconic x Better Tomorrow Byron The Aquarius Computer Jay La Boix Chase Aldridge Sim Ivy",
         "day": "Fri",
         "date": "2026-10-30",
-        "time": "23:00",
+        "time": "23:00-08:00",
         "start": "23:00",
         "end": "08:00",
         "area": "Los Angeles",
@@ -1409,7 +1396,7 @@
         "name": "Escape Halloween",
         "day": "Fri",
         "date": "2026-10-30",
-        "time": "16:00",
+        "time": "16:00-02:00",
         "start": "16:00",
         "end": "02:00",
         "area": "Los Angeles",
@@ -1492,7 +1479,7 @@
         "name": "Factory 93 presents ANOTR",
         "day": "Fri",
         "date": "2026-10-30",
-        "time": "18:00",
+        "time": "18:00-00:00",
         "start": "18:00",
         "end": "00:00",
         "area": "Los Angeles",
@@ -1509,7 +1496,14 @@
           "club"
         ],
         "sources": [
-          "https://ra.co/events/2496217"
+          {
+            "url": "https://ra.co/events/2496217",
+            "hidden": true
+          },
+          {
+            "url": "https://edmtrain.com/los-angeles-ca",
+            "hidden": true
+          }
         ],
         "tickets": [
           "https://ra.co/events/2496217"
@@ -1521,8 +1515,8 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "https://party-scout.app/img/gen/factory-93-presents-anot-3804.jpg",
-        "image_generated": false,
+        "image": "https://api.party-scout.app/img/los-angeles/2026-10-26/factory-93-presents-anot-3804.jpg",
+        "image_generated": true,
         "popularity": 0,
         "enriched": 1,
         "active": true
@@ -1620,7 +1614,7 @@
         "name": "Halloween Blood Rave by Succubus Club",
         "day": "Fri",
         "date": "2026-10-30",
-        "time": "23:59",
+        "time": "23:59-05:00",
         "start": "23:59",
         "end": "05:00",
         "area": "Los Angeles",
@@ -1629,7 +1623,7 @@
         "why": "For a late-night, costume-friendly dance party with Halloween energy in downtown Los Angeles.",
         "summary": "Halloween Blood Rave by Succubus Club is a Halloween-themed rave on October 30, 2026 in DTLA; venue is to be announced and tickets range from $5–$65.",
         "promoter": "",
-        "price": "$5–$65",
+        "price": "5-65",
         "tags": [
           "electronic",
           "rave",
@@ -1750,7 +1744,7 @@
         "name": "INCOGNITO presents A HALLOWEEN DnB Rave with Bryan Gee, Reid Speed, Nightstalker",
         "day": "Fri",
         "date": "2026-10-30",
-        "time": "23:00",
+        "time": "23:00-05:00",
         "start": "23:00",
         "end": "05:00",
         "area": "Los Angeles",
@@ -1759,10 +1753,13 @@
         "why": "",
         "summary": "",
         "promoter": "",
-        "price": "$20–$50",
+        "price": "$20 - $50",
         "tags": [],
         "sources": [
-          "https://ra.co/events/2540969"
+          {
+            "url": "https://ra.co/events/2540969",
+            "hidden": true
+          }
         ],
         "tickets": [
           "https://ra.co/events/2540969"
@@ -1774,8 +1771,8 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "https://party-scout.app/img/gen/incognito-presents-a-hal-fc92.jpg",
-        "image_generated": false,
+        "image": "https://api.party-scout.app/img/los-angeles/2026-10-26/incognito-presents-a-hal-fc92.jpg",
+        "image_generated": true,
         "popularity": 0,
         "enriched": 1,
         "active": true
@@ -1825,12 +1822,12 @@
         "name": "Jennifer's Body",
         "day": "Fri",
         "date": "2026-10-30",
-        "time": "17:30",
+        "time": "5:30 pm",
         "start": null,
         "end": null,
         "area": "Los Angeles",
         "venue": "Hollywood Forever",
-        "address": "6000 Santa Monica Blvd, Los Angeles",
+        "address": "6000 Santa Monica Blvd, Los Angeles, CA 90038",
         "why": "A cult-classic horror screening among the graves on Halloween weekend, with DJs and a photobooth.",
         "summary": "Cinespia's outdoor screening of Jennifer's Body (2009, dir. Karyn Kusama) at Hollywood Forever Cemetery, kicking off Halloween weekend with DJ sets, burgers and a free photobooth. Gates 5:30pm, film 7:15pm; listed as sold out.",
         "promoter": "Cinespia",
@@ -1842,7 +1839,12 @@
           "october"
         ],
         "sources": [
-          "https://cinespia.org/event/jennifers-body/"
+          "https://cinespia.org/event/jennifers-body/",
+          "https://hollywoodforever.com/event/jennifers-body/",
+          {
+            "url": "https://hollywoodforever.com/events-calendar/",
+            "hidden": true
+          }
         ],
         "tickets": [],
         "maps": {
@@ -1852,7 +1854,7 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "https://party-scout.app/img/gen/jennifer-s-body-f8f3.jpg",
+        "image": "https://hollywoodforever.com/wp-content/uploads/2026/09/jennifers-body-main.jpg",
         "image_generated": false,
         "popularity": 0,
         "enriched": 1,
@@ -2019,7 +2021,7 @@
         "name": "Linger",
         "day": "Fri",
         "date": "2026-10-30",
-        "time": "20:00",
+        "time": "20:00-00:00",
         "start": "20:00",
         "end": "00:00",
         "area": "Los Angeles",
@@ -2028,13 +2030,17 @@
         "why": "No cover makes it easy to drop in and check it out.",
         "summary": "Linger is a free event on October 30, 2026 at 3111 Glendale Blvd #2 in Los Angeles. Time and lineup aren't listed.",
         "promoter": "",
-        "price": "Free",
+        "price": "free",
         "tags": [
           "free",
           "community"
         ],
         "sources": [
-          "https://ra.co/events/2551353"
+          "https://ra.co/events/2551353",
+          {
+            "url": "https://19hz.info/eventlisting_LosAngeles.php",
+            "hidden": true
+          }
         ],
         "tickets": [
           "https://ra.co/events/2551353"
@@ -2046,11 +2052,21 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "https://party-scout.app/img/gen/linger-8b72.jpg",
+        "image": "https://images.ra.co/81c0baf32ee9650bffccd7cc730dcac5cd6a16a1.png",
         "image_generated": false,
         "popularity": 0,
         "enriched": 1,
-        "active": true
+        "active": true,
+        "lineup": [
+          {
+            "name": "Mary McHenry",
+            "instagram": null
+          },
+          {
+            "name": "deesco",
+            "instagram": null
+          }
+        ]
       },
       {
         "id": "2026-10-26-music-mas-edm-cee788",
@@ -2097,44 +2113,6 @@
         "active": true
       },
       {
-        "id": "2026-10-26-music-minty-boi-presents-hercules-lo-243583",
-        "eid": "minty-boi-presents-hercu-67ae",
-        "track": "music",
-        "category": "Concert",
-        "name": "Minty Boi Presents: Hercules & Love Affair",
-        "day": "Fri",
-        "date": "2026-10-30",
-        "time": "",
-        "start": null,
-        "end": null,
-        "area": "Los Angeles",
-        "venue": "Casita Hollywood (Los Angeles)",
-        "address": "",
-        "why": "For a live, dance-oriented electronic set with disco-influenced grooves.",
-        "summary": "Hercules & Love Affair perform in Los Angeles on October 30, 2026.",
-        "promoter": "",
-        "price": "",
-        "tags": [
-          "electronic",
-          "dance",
-          "live"
-        ],
-        "sources": [],
-        "tickets": [],
-        "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=Casita%20Hollywood%20%28Los%20Angeles%29",
-          "apple": "https://maps.apple.com/?q=Casita%20Hollywood%20%28Los%20Angeles%29"
-        },
-        "coords": null,
-        "coords_precise": false,
-        "ra": {},
-        "image": "",
-        "image_generated": false,
-        "popularity": 0,
-        "enriched": 1,
-        "active": true
-      },
-      {
         "id": "2026-10-26-music-music-for-the-masses-dark-80-s-019a54",
         "eid": "music-for-the-masses-dar-88f1",
         "track": "music",
@@ -2142,7 +2120,7 @@
         "name": "Music for the Masses: Dark 80's New Wave Halloween [Los Angeles]",
         "day": "Fri",
         "date": "2026-10-30",
-        "time": "21:00",
+        "time": "21:00-02:00",
         "start": "21:00",
         "end": "02:00",
         "area": "Los Angeles",
@@ -2672,49 +2650,6 @@
         "active": true
       },
       {
-        "id": "2026-10-26-music-v-sions-halloween-66e2a2",
-        "eid": "v-sions-halloween-8b14",
-        "track": "music",
-        "category": "",
-        "name": "V.sions Halloween",
-        "day": "Fri",
-        "date": "2026-10-30",
-        "time": "23:00",
-        "start": "23:00",
-        "end": "06:00",
-        "area": "Los Angeles",
-        "venue": "TBA (Los Angeles)",
-        "address": "",
-        "why": "To celebrate Halloween with a night out in LA for a modest cover charge.",
-        "summary": "V.sions Halloween is a Halloween night event on October 30, 2026 in Los Angeles; admission is listed at $20 and venue and time are not specified.",
-        "promoter": "",
-        "price": "$20",
-        "tags": [
-          "halloween",
-          "party",
-          "21+",
-          "ticketed"
-        ],
-        "sources": [
-          "https://ra.co/events/2487082"
-        ],
-        "tickets": [
-          "https://ra.co/events/2487082"
-        ],
-        "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=Los%20Angeles",
-          "apple": "https://maps.apple.com/?q=Los%20Angeles"
-        },
-        "coords": null,
-        "coords_precise": false,
-        "ra": {},
-        "image": "https://party-scout.app/img/gen/v-sions-halloween-8b14.jpg",
-        "image_generated": false,
-        "popularity": 0,
-        "enriched": 1,
-        "active": true
-      },
-      {
         "id": "2026-10-26-music-w-ness-anotr-3c8789",
         "eid": "w-ness-anotr-2da6",
         "track": "music",
@@ -3030,48 +2965,6 @@
         "active": true
       },
       {
-        "id": "2026-10-26-music-brijean-963cbf",
-        "eid": "brijean-e100",
-        "track": "music",
-        "category": "",
-        "name": "Brijean",
-        "day": "Sat",
-        "date": "2026-10-31",
-        "time": "21:00",
-        "start": "21:00",
-        "end": "01:00",
-        "area": "Los Angeles",
-        "venue": "Camille's at The Bellwether (Los Angeles)",
-        "address": "333 S Boylston St, Los Angeles, CA 90017",
-        "why": "Budget-friendly Halloween night out in downtown LA.",
-        "summary": "Brijean is scheduled for October 31, 2026 at 333 S Boylston St in Los Angeles. Admission is $12.",
-        "promoter": "",
-        "price": "$12",
-        "tags": [
-          "halloween",
-          "paid",
-          "los-angeles"
-        ],
-        "sources": [
-          "https://ra.co/events/2521322"
-        ],
-        "tickets": [
-          "https://ra.co/events/2521322"
-        ],
-        "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=Camille%27s%20at%20The%20Bellwether%20%28Los%20Angeles%29%2C%20Los%20Angeles",
-          "apple": "https://maps.apple.com/?q=Camille%27s%20at%20The%20Bellwether%20%28Los%20Angeles%29%2C%20Los%20Angeles"
-        },
-        "coords": null,
-        "coords_precise": false,
-        "ra": {},
-        "image": "https://party-scout.app/img/gen/brijean-e100.jpg",
-        "image_generated": false,
-        "popularity": 0,
-        "enriched": 1,
-        "active": true
-      },
-      {
         "id": "2026-10-26-music-brunello-s-mellow-circus-241f67",
         "eid": "brunello-s-mellow-circus-f2f9",
         "track": "music",
@@ -3104,44 +2997,6 @@
         "coords_precise": false,
         "ra": {},
         "image": "https://party-scout.app/img/gen/brunello-s-mellow-circus-f2f9.jpg",
-        "image_generated": false,
-        "popularity": 0,
-        "enriched": 1,
-        "active": true
-      },
-      {
-        "id": "2026-10-26-music-certified-groovers-95d8c8",
-        "eid": "certified-groovers-3c28",
-        "track": "music",
-        "category": "",
-        "name": "Certified Groovers",
-        "day": "Sat",
-        "date": "2026-10-31",
-        "time": "22:00",
-        "start": "23:00",
-        "end": "09:00",
-        "area": "Los Angeles",
-        "venue": "TBA (DTLA/Los Angeles)",
-        "address": "",
-        "why": "",
-        "summary": "",
-        "promoter": "",
-        "price": "$20",
-        "tags": [],
-        "sources": [
-          "https://ra.co/events/2507310"
-        ],
-        "tickets": [
-          "https://ra.co/events/2507310"
-        ],
-        "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=Los%20Angeles",
-          "apple": "https://maps.apple.com/?q=Los%20Angeles"
-        },
-        "coords": null,
-        "coords_precise": false,
-        "ra": {},
-        "image": "https://party-scout.app/img/gen/certified-groovers-3c28.jpg",
         "image_generated": false,
         "popularity": 0,
         "enriched": 1,
@@ -3222,44 +3077,6 @@
         "ra": {},
         "image": "https://party-scout.app/img/gen/daft-disko-halloween-los-6fb7.jpg",
         "image_generated": true,
-        "popularity": 0,
-        "enriched": 1,
-        "active": true
-      },
-      {
-        "id": "2026-10-26-music-dillon-francis-69c82a",
-        "eid": "dillon-francis-1189",
-        "track": "music",
-        "category": "",
-        "name": "Dillon Francis",
-        "day": "Sat",
-        "date": "2026-10-31",
-        "time": "22:00",
-        "start": "22:00",
-        "end": "02:00",
-        "area": "Los Angeles",
-        "venue": "Exchange (Los Angeles)",
-        "address": "618 S. Spring St., Los Angeles, CA 90014",
-        "why": "",
-        "summary": "",
-        "promoter": "",
-        "price": "Free",
-        "tags": [],
-        "sources": [
-          "https://ra.co/events/2527792"
-        ],
-        "tickets": [
-          "https://ra.co/events/2527792"
-        ],
-        "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=Exchange%20%28Los%20Angeles%29%2C%20Los%20Angeles",
-          "apple": "https://maps.apple.com/?q=Exchange%20%28Los%20Angeles%29%2C%20Los%20Angeles"
-        },
-        "coords": null,
-        "coords_precise": false,
-        "ra": {},
-        "image": "https://party-scout.app/img/gen/dillon-francis-1189.jpg",
-        "image_generated": false,
         "popularity": 0,
         "enriched": 1,
         "active": true
@@ -3346,44 +3163,6 @@
         "active": true
       },
       {
-        "id": "2026-10-26-music-giegling-cd9c53",
-        "eid": "giegling-b01d",
-        "track": "music",
-        "category": "",
-        "name": "Giegling",
-        "day": "Sat",
-        "date": "2026-10-31",
-        "time": "23:00",
-        "start": "23:59",
-        "end": "07:00",
-        "area": "Los Angeles",
-        "venue": "TBA (DTLA/Los Angeles)",
-        "address": "",
-        "why": "",
-        "summary": "",
-        "promoter": "",
-        "price": "$25–$50",
-        "tags": [],
-        "sources": [
-          "https://ra.co/events/2505104"
-        ],
-        "tickets": [
-          "https://ra.co/events/2505104"
-        ],
-        "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=Los%20Angeles",
-          "apple": "https://maps.apple.com/?q=Los%20Angeles"
-        },
-        "coords": null,
-        "coords_precise": false,
-        "ra": {},
-        "image": "https://party-scout.app/img/gen/giegling-b01d.jpg",
-        "image_generated": false,
-        "popularity": 0,
-        "enriched": 1,
-        "active": true
-      },
-      {
         "id": "2026-10-26-music-halloween-groove-factory-clubv-1c5a7c",
         "eid": "halloween-groove-factory-2a4f",
         "track": "music",
@@ -3391,7 +3170,7 @@
         "name": "Halloween - Groove Factory & ClubView Records",
         "day": "Sat",
         "date": "2026-10-31",
-        "time": "21:00",
+        "time": "21:00-02:00",
         "start": "21:00",
         "end": "02:00",
         "area": "Los Angeles",
@@ -3415,11 +3194,25 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "https://party-scout.app/img/gen/halloween-groove-factory-2a4f.jpg",
+        "image": "https://images.ra.co/bf05fd1f9795cdcd27ce30e763fae575f01f216d.png",
         "image_generated": false,
         "popularity": 0,
         "enriched": 1,
-        "active": true
+        "active": true,
+        "lineup": [
+          {
+            "name": "Sosh & Mosh",
+            "instagram": null
+          },
+          {
+            "name": "Stoley",
+            "instagram": null
+          },
+          {
+            "name": "Kaveh",
+            "instagram": null
+          }
+        ]
       },
       {
         "id": "2026-10-26-music-haunt-massive-18th-annual-c27188",
@@ -3505,7 +3298,7 @@
         "name": "HOOD RAVE HALLOWEEN: DOWN TO CLOWN",
         "day": "Sat",
         "date": "2026-10-31",
-        "time": "23:00",
+        "time": "23:00-05:00",
         "start": "23:00",
         "end": "05:00",
         "area": "Los Angeles",
@@ -3514,10 +3307,14 @@
         "why": "",
         "summary": "",
         "promoter": "",
-        "price": "$15/$20/$25/$30/$35",
+        "price": "$16.50-40",
         "tags": [],
         "sources": [
-          "https://ra.co/events/2550243"
+          "https://ra.co/events/2550243",
+          {
+            "url": "https://19hz.info/eventlisting_LosAngeles.php",
+            "hidden": true
+          }
         ],
         "tickets": [
           "https://ra.co/events/2550243"
@@ -3529,11 +3326,29 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "https://party-scout.app/img/gen/hood-rave-halloween-down-0481.jpg",
+        "image": "https://images.ra.co/6c47e59359d781e28f9ef24377497462707e7c05.jpg",
         "image_generated": false,
         "popularity": 0,
         "enriched": 1,
-        "active": true
+        "active": true,
+        "lineup": [
+          {
+            "name": "Daniro",
+            "instagram": null
+          },
+          {
+            "name": "DJ Kita",
+            "instagram": null
+          },
+          {
+            "name": "Mia Carucci",
+            "instagram": null
+          },
+          {
+            "name": "BAE BAE",
+            "instagram": null
+          }
+        ]
       },
       {
         "id": "2026-10-26-music-incognito-x-waxxx-society-pres-df37c2",
@@ -3543,7 +3358,7 @@
         "name": "INCOGNITO X WAXXX Society present All-Vinyl HALLOWEEN Rave",
         "day": "Sat",
         "date": "2026-10-31",
-        "time": "21:00",
+        "time": "21:00-05:00",
         "start": "21:00",
         "end": "05:00",
         "area": "Los Angeles",
@@ -3552,10 +3367,13 @@
         "why": "",
         "summary": "",
         "promoter": "",
-        "price": "$20–$50",
+        "price": "$20 - $50",
         "tags": [],
         "sources": [
-          "https://ra.co/events/2531292"
+          {
+            "url": "https://ra.co/events/2531292",
+            "hidden": true
+          }
         ],
         "tickets": [
           "https://ra.co/events/2531292"
@@ -3567,8 +3385,8 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "https://party-scout.app/img/gen/incognito-x-waxxx-societ-9f87.jpg",
-        "image_generated": false,
+        "image": "https://api.party-scout.app/img/los-angeles/2026-10-26/incognito-x-waxxx-societ-9f87.jpg",
+        "image_generated": true,
         "popularity": 0,
         "enriched": 1,
         "active": true
@@ -3670,7 +3488,7 @@
         "name": "KCRW presents THE MAZE with the Blaze (live) & Claude VonStroke",
         "day": "Sat",
         "date": "2026-10-31",
-        "time": "23:00",
+        "time": "23:00-06:00",
         "start": "23:00",
         "end": "06:00",
         "area": "Los Angeles",
@@ -3694,7 +3512,7 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "https://party-scout.app/img/gen/kcrw-presents-the-maze-w-ab8e.jpg",
+        "image": "https://images.ra.co/492a28b4dd782df61a7f4c9b53cf95892b1481a9.jpg",
         "image_generated": false,
         "popularity": 0,
         "enriched": 1,
@@ -3708,7 +3526,7 @@
         "name": "Koncept and Definition present: Circus Halloween",
         "day": "Sat",
         "date": "2026-10-31",
-        "time": "18:00",
+        "time": "18:00-04:00",
         "start": "18:00",
         "end": "03:00",
         "area": "Los Angeles",
@@ -3717,10 +3535,13 @@
         "why": "",
         "summary": "",
         "promoter": "",
-        "price": "$25–$40",
+        "price": "$25-$60",
         "tags": [],
         "sources": [
-          "https://ra.co/events/2527212"
+          {
+            "url": "https://ra.co/events/2527212",
+            "hidden": true
+          }
         ],
         "tickets": [
           "https://ra.co/events/2527212"
@@ -3732,8 +3553,8 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "https://party-scout.app/img/gen/koncept-and-definition-p-c542.jpg",
-        "image_generated": false,
+        "image": "https://api.party-scout.app/img/los-angeles/2026-10-26/koncept-and-definition-p-c542.jpg",
+        "image_generated": true,
         "popularity": 0,
         "enriched": 1,
         "active": true
@@ -3886,7 +3707,12 @@
         ],
         "sources": [
           "https://knac.com/?p=4600",
-          "https://app.discotech.me/events/38154500-marilyn-manson-live-in-los-angeles-at-the-wiltern"
+          "https://app.discotech.me/events/38154500-marilyn-manson-live-in-los-angeles-at-the-wiltern",
+          "https://www.ticketmaster.com/marilyn-manson-live-in-los-angeles-los-angeles-california-10-31-2026/event/0900646689067805",
+          {
+            "url": "https://www.wiltern.com/shows",
+            "hidden": true
+          }
         ],
         "tickets": [
           "https://www.ticketmaster.com/event/0900646689067805"
@@ -3946,16 +3772,16 @@
         "name": "MAYAN WARRIOR HALLOWEEN (FULL ART CAR)",
         "day": "Sat",
         "date": "2026-10-31",
-        "time": "16:00",
+        "time": "17:00-00:00",
         "start": "16:00",
         "end": "00:00",
-        "area": "DTLA",
+        "area": "Los Angeles",
         "venue": "Grand Park",
         "address": "200 North Grand Ave, Los Angeles, CA 90012",
         "why": "A Halloween-day daytime-to-midnight party at Grand Park, with one of LA's best-known art cars as the stage.",
         "summary": "The Mayan Warrior full art car rolls into Grand Park for a Halloween-day outdoor electronic party, with the Galaxyer rig's lights, lasers and sound.",
         "promoter": "",
-        "price": "",
+        "price": "$",
         "tags": [
           "Halloween",
           "Art car",
@@ -3963,7 +3789,10 @@
           "Outdoor"
         ],
         "sources": [
-          "https://ra.co/events/2502381"
+          {
+            "url": "https://ra.co/events/2502381",
+            "hidden": true
+          }
         ],
         "tickets": [
           "https://ra.co/events/2502381"
@@ -4093,44 +3922,6 @@
         "active": true
       },
       {
-        "id": "2026-10-26-music-morten-2e997e",
-        "eid": "morten-48d6",
-        "track": "music",
-        "category": "",
-        "name": "Morten",
-        "day": "Sat",
-        "date": "2026-10-31",
-        "time": "22:00",
-        "start": "22:00",
-        "end": "02:00",
-        "area": "Los Angeles",
-        "venue": "Academy Nightclub (Los Angeles)",
-        "address": "6021 Hollywood Blvd.  Los Angeles, CA 90028, USA",
-        "why": "",
-        "summary": "",
-        "promoter": "",
-        "price": "Free",
-        "tags": [],
-        "sources": [
-          "https://ra.co/events/2512858"
-        ],
-        "tickets": [
-          "https://ra.co/events/2512858"
-        ],
-        "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=Academy%20Nightclub%20%28Los%20Angeles%29%2C%20Los%20Angeles",
-          "apple": "https://maps.apple.com/?q=Academy%20Nightclub%20%28Los%20Angeles%29%2C%20Los%20Angeles"
-        },
-        "coords": null,
-        "coords_precise": false,
-        "ra": {},
-        "image": "https://party-scout.app/img/gen/morten-48d6.jpg",
-        "image_generated": false,
-        "popularity": 0,
-        "enriched": 1,
-        "active": true
-      },
-      {
         "id": "2026-10-26-music-my-chemical-romance-with-thric-5a2733",
         "eid": "my-chemical-romance-with-fd08",
         "track": "music",
@@ -4216,7 +4007,7 @@
         "name": "palacio palace Halloween/ record release  show",
         "day": "Sat",
         "date": "2026-10-31",
-        "time": "20:00",
+        "time": "20:00-04:00",
         "start": "20:00",
         "end": "04:00",
         "area": "Los Angeles",
@@ -4228,7 +4019,10 @@
         "price": "$15",
         "tags": [],
         "sources": [
-          "https://ra.co/events/2521563"
+          {
+            "url": "https://ra.co/events/2521563",
+            "hidden": true
+          }
         ],
         "tickets": [
           "https://ra.co/events/2521563"
@@ -4451,7 +4245,7 @@
         "name": "Serenity Link: HALLOWEEN 2026",
         "day": "Sat",
         "date": "2026-10-31",
-        "time": "23:00",
+        "time": "23:00-06:00",
         "start": "23:00",
         "end": "04:00",
         "area": "Los Angeles",
@@ -4460,7 +4254,7 @@
         "why": "",
         "summary": "",
         "promoter": "",
-        "price": "$15–$40",
+        "price": "$15 - $40",
         "tags": [],
         "sources": [
           "https://ra.co/events/2521113"
@@ -4475,11 +4269,45 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "https://party-scout.app/img/gen/serenity-link-halloween-b93b.jpg",
+        "image": "https://images.ra.co/c728bb1ec800da2475c1daed995f319a8228bf98.png",
         "image_generated": false,
         "popularity": 0,
         "enriched": 1,
-        "active": true
+        "active": true,
+        "lineup": [
+          {
+            "name": "Regal86",
+            "instagram": null
+          },
+          {
+            "name": "1morning",
+            "instagram": null
+          },
+          {
+            "name": "Debit",
+            "instagram": null
+          },
+          {
+            "name": "Sevyn 0000",
+            "instagram": null
+          },
+          {
+            "name": "Mapamota",
+            "instagram": null
+          },
+          {
+            "name": "Stealth Angel",
+            "instagram": null
+          },
+          {
+            "name": "Gbenga",
+            "instagram": null
+          },
+          {
+            "name": "Space Master",
+            "instagram": null
+          }
+        ]
       },
       {
         "id": "2026-10-26-music-set-halloween-with-lost-miracl-3c25e9",
@@ -4489,7 +4317,7 @@
         "name": "SET Halloween with Lost Miracle (Sébastien Léger & Roy Rosenfeld) & Satori LA",
         "day": "Sat",
         "date": "2026-10-31",
-        "time": "22:00",
+        "time": "22:00-05:00",
         "start": "22:00",
         "end": "05:00",
         "area": "Los Angeles",
@@ -4498,10 +4326,13 @@
         "why": "",
         "summary": "",
         "promoter": "",
-        "price": "$55–$100",
+        "price": "$55-$100",
         "tags": [],
         "sources": [
-          "https://ra.co/events/2536248"
+          {
+            "url": "https://ra.co/events/2536248",
+            "hidden": true
+          }
         ],
         "tickets": [
           "https://ra.co/events/2536248"
@@ -4607,7 +4438,7 @@
         "name": "System Error: Gentlemen's Club",
         "day": "Sat",
         "date": "2026-10-31",
-        "time": "21:00",
+        "time": "21:00-02:00",
         "start": "21:00",
         "end": "02:00",
         "area": "Los Angeles",
@@ -4616,7 +4447,7 @@
         "why": "",
         "summary": "",
         "promoter": "",
-        "price": "$25",
+        "price": "25",
         "tags": [],
         "sources": [
           "https://ra.co/events/2553912"
@@ -4631,11 +4462,21 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "https://party-scout.app/img/gen/system-error-gentlemen-s-611f.jpg",
+        "image": "https://images.ra.co/eab35c0eb6b61b2c113bc5fee9074951c0a8a4f0.jpg",
         "image_generated": false,
         "popularity": 0,
         "enriched": 1,
-        "active": true
+        "active": true,
+        "lineup": [
+          {
+            "name": "Gentleman's Dub Club",
+            "instagram": null
+          },
+          {
+            "name": "Neumonic",
+            "instagram": null
+          }
+        ]
       },
       {
         "id": "2026-10-26-music-the-thing-1982-08e4cd",
@@ -4645,7 +4486,7 @@
         "name": "The Thing (1982)",
         "day": "Sat",
         "date": "2026-10-31",
-        "time": "17:30",
+        "time": "5:30 pm",
         "start": null,
         "end": null,
         "area": "Los Angeles",
@@ -4662,7 +4503,12 @@
           "cinespia"
         ],
         "sources": [
-          "https://cinespia.org/event/the-thing-halloween/"
+          "https://cinespia.org/event/the-thing-halloween/",
+          "https://hollywoodforever.com/event/the-thing-1982/",
+          {
+            "url": "https://hollywoodforever.com/events-calendar/",
+            "hidden": true
+          }
         ],
         "tickets": [
           "https://www.ticketweb.com/event/the-thing-1982-cinespia-at-hollywood-forever-cemetery-tickets/14286474?pl=HFCINE"
@@ -4731,7 +4577,7 @@
         "name": "Thriller: 80's Halloween Party",
         "day": "Sat",
         "date": "2026-10-31",
-        "time": "21:00",
+        "time": "21:00-02:00",
         "start": "21:00",
         "end": "02:00",
         "area": "Los Angeles",
@@ -4755,7 +4601,7 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "https://party-scout.app/img/gen/thriller-80-s-halloween-3040.jpg",
+        "image": "https://images.ra.co/ee5b13cafa6b573377831c9d215b688f22fe7a3e.jpg",
         "image_generated": false,
         "popularity": 0,
         "enriched": 1,
@@ -4847,44 +4693,6 @@
         "active": true
       },
       {
-        "id": "2026-10-26-music-yoi-toki-a-future-funk-hallowe-481e48",
-        "eid": "yoi-toki-a-future-funk-h-d639",
-        "track": "music",
-        "category": "",
-        "name": "Yoi Toki: A Future Funk Halloween Ft. Saint Pepsi b2b Vantage",
-        "day": "Sat",
-        "date": "2026-10-31",
-        "time": "22:00",
-        "start": "22:00",
-        "end": "02:00",
-        "area": "Los Angeles",
-        "venue": "Teragram Ballroom (Los Angeles)",
-        "address": "1234 W 7th St, Los Angeles, CA 90017, United States",
-        "why": "",
-        "summary": "",
-        "promoter": "",
-        "price": "$25+",
-        "tags": [],
-        "sources": [
-          "https://ra.co/events/2518969"
-        ],
-        "tickets": [
-          "https://ra.co/events/2518969"
-        ],
-        "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=Teragram%20Ballroom%20%28Los%20Angeles%29%2C%20Los%20Angeles",
-          "apple": "https://maps.apple.com/?q=Teragram%20Ballroom%20%28Los%20Angeles%29%2C%20Los%20Angeles"
-        },
-        "coords": null,
-        "coords_precise": false,
-        "ra": {},
-        "image": "https://party-scout.app/img/gen/yoi-toki-a-future-funk-h-d639.jpg",
-        "image_generated": false,
-        "popularity": 0,
-        "enriched": 1,
-        "active": true
-      },
-      {
         "id": "2026-10-26-music-halloween-closing-party-with-t-628c5b",
         "eid": "halloween-closing-party-a8f5",
         "track": "music",
@@ -4892,7 +4700,7 @@
         "name": "Halloween Closing Party with Tomoki Tamura (LA Debut) , Ika & Usherenko & Very Special Guest",
         "day": "Sun",
         "date": "2026-11-01",
-        "time": "17:00",
+        "time": "17:00-01:00",
         "start": "17:00",
         "end": "01:00",
         "area": "Los Angeles",
@@ -4901,10 +4709,13 @@
         "why": "",
         "summary": "",
         "promoter": "",
-        "price": "$10–$30",
+        "price": "$10 - $30",
         "tags": [],
         "sources": [
-          "https://ra.co/events/2535353"
+          {
+            "url": "https://ra.co/events/2535353",
+            "hidden": true
+          }
         ],
         "tickets": [
           "https://ra.co/events/2535353"
@@ -5036,7 +4847,12 @@
           "concert"
         ],
         "sources": [
-          "https://app.discotech.me/events/38154501-marilyn-manson-live-in-los-angeles-at-the-wiltern"
+          "https://app.discotech.me/events/38154501-marilyn-manson-live-in-los-angeles-at-the-wiltern",
+          "https://www.ticketmaster.com/marilyn-manson-live-in-los-angeles-los-angeles-california-11-01-2026/event/09006466890C7815",
+          {
+            "url": "https://www.wiltern.com/shows",
+            "hidden": true
+          }
         ],
         "tickets": [
           "https://www.ticketmaster.com/event/09006466890C7815"
@@ -5048,8 +4864,8 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "https://party-scout.app/img/gen/marilyn-manson-live-in-l-847c.jpg",
-        "image_generated": false,
+        "image": "https://api.party-scout.app/img/los-angeles/2026-10-26/marilyn-manson-live-in-l-2136.jpg",
+        "image_generated": true,
         "popularity": 0,
         "enriched": 1,
         "active": true
@@ -5582,7 +5398,7 @@
         "name": "Aerosmith & Friends",
         "day": "Thu",
         "date": "2026-10-29",
-        "time": "7:00 PM",
+        "time": "7:00PM",
         "start": null,
         "end": null,
         "area": "Hollywood",
@@ -5601,7 +5417,11 @@
         ],
         "sources": [
           "https://www.udiscovermusic.com/news/aerosmith-hollywood-bowl-show/",
-          "https://blabbermouth.net/news/its-official-aerosmith-to-return-to-live-stage-for-two-exclusive-nights-only-at-hollywood-bowl"
+          "https://blabbermouth.net/news/its-official-aerosmith-to-return-to-live-stage-for-two-exclusive-nights-only-at-hollywood-bowl",
+          {
+            "url": "https://www.hollywoodbowl.com/events/performances",
+            "hidden": true
+          }
         ],
         "tickets": [],
         "maps": {
@@ -5926,7 +5746,7 @@
         "name": "Grace Bones - ADE on tour vol 2",
         "day": "Fri",
         "date": "2026-10-30",
-        "time": "4–5pm",
+        "time": "16:00-17:00",
         "start": "16:00",
         "end": "17:00",
         "area": "Los Angeles",
@@ -5935,7 +5755,7 @@
         "why": "Free afternoon event that's easy to drop into.",
         "summary": "A free event titled \"Grace Bones - ADE on tour vol 2\" in Los Angeles on October 30, 2026, running 4–5pm.",
         "promoter": "",
-        "price": "Free",
+        "price": "0",
         "tags": [
           "free",
           "dj",
@@ -6044,7 +5864,7 @@
         "name": "Slaughterhäus: The La Cut - Los Angeles",
         "day": "Fri",
         "date": "2026-10-30",
-        "time": "11pm–5am",
+        "time": "23:00-05:00",
         "start": "23:00",
         "end": "05:00",
         "area": "Los Angeles",
@@ -6053,14 +5873,17 @@
         "why": "Go for an all-night Halloween-era club experience and dancing into the early morning.",
         "summary": "Slaughterhäus: The La Cut in Los Angeles takes place October 30, 2026 and runs 11pm–5am. Admission is listed at $30.",
         "promoter": "",
-        "price": "$30",
+        "price": "30",
         "tags": [
           "late-night",
           "party",
           "paid"
         ],
         "sources": [
-          "https://ra.co/events/2497308"
+          {
+            "url": "https://ra.co/events/2497308",
+            "hidden": true
+          }
         ],
         "tickets": [
           "https://ra.co/events/2497308"
@@ -6083,7 +5906,7 @@
         "name": "SMD - Derrick Carter & Kim Ann Foxman",
         "day": "Fri",
         "date": "2026-10-30",
-        "time": "11pm–6am",
+        "time": "23:00-06:00",
         "start": "23:00",
         "end": "06:00",
         "area": "Los Angeles",
@@ -6092,7 +5915,7 @@
         "why": "To dance all night to veteran house and electronic DJs.",
         "summary": "SMD on October 30, 2026, features Derrick Carter and Kim Ann Foxman in a late-night set running 11pm–6am; tickets are $20–$60.",
         "promoter": "",
-        "price": "$20–$60",
+        "price": "20-60",
         "tags": [
           "dj",
           "house",
@@ -6100,7 +5923,10 @@
           "late-night"
         ],
         "sources": [
-          "https://ra.co/events/2539279"
+          {
+            "url": "https://ra.co/events/2539279",
+            "hidden": true
+          }
         ],
         "tickets": [
           "https://ra.co/events/2539279"
@@ -6204,7 +6030,7 @@
         "name": "BBC presents: Blood Ball",
         "day": "Sat",
         "date": "2026-10-31",
-        "time": "10pm–4am",
+        "time": "22:00-04:00",
         "start": "22:00",
         "end": "04:00",
         "area": "Los Angeles",
@@ -6213,7 +6039,7 @@
         "why": "For late-night Halloween dancing and atmosphere.",
         "summary": "A Halloween night party on October 31, 2026 running 10pm–4am with a $50 admission.",
         "promoter": "",
-        "price": "$50",
+        "price": "$33.90-67.85",
         "tags": [
           "halloween",
           "party",
@@ -6222,7 +6048,11 @@
           "ticketed"
         ],
         "sources": [
-          "https://ra.co/events/2549439"
+          "https://ra.co/events/2549439",
+          {
+            "url": "https://19hz.info/eventlisting_LosAngeles.php",
+            "hidden": true
+          }
         ],
         "tickets": [
           "https://ra.co/events/2549439"
@@ -6231,11 +6061,33 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "https://party-scout.app/img/gen/bbc-presents-blood-ball-80f7.jpg",
+        "image": "https://images.ra.co/9094899246660bd4d405b41349a392ca0939e610.jpg",
         "image_generated": false,
         "popularity": 0,
         "enriched": 1,
-        "active": true
+        "active": true,
+        "lineup": [
+          {
+            "name": "LSDXOXO",
+            "instagram": null
+          },
+          {
+            "name": "shekdash",
+            "instagram": null
+          },
+          {
+            "name": "DeFacto X",
+            "instagram": null
+          },
+          {
+            "name": "Kemyuh",
+            "instagram": null
+          },
+          {
+            "name": "Alxander Ivey",
+            "instagram": null
+          }
+        ]
       },
       {
         "id": "2026-10-26-music-cielo-du-sol-18d8f2",
@@ -6245,7 +6097,7 @@
         "name": "Cielo du Sol",
         "day": "Sat",
         "date": "2026-10-31",
-        "time": "12–10pm",
+        "time": "12:00-22:00",
         "start": "12:00",
         "end": "22:00",
         "area": "Malibu",
@@ -6283,7 +6135,16 @@
         "popularity": 0,
         "enriched": 1,
         "active": true,
-        "lineup": []
+        "lineup": [
+          {
+            "name": "Rodriguez Jr.",
+            "instagram": null
+          },
+          {
+            "name": "bawab",
+            "instagram": null
+          }
+        ]
       },
       {
         "id": "2026-10-26-music-closer-x-tyf-present-moondance-a08923",
@@ -6293,7 +6154,7 @@
         "name": "CLOSER x TYF present MOONDANCE with James Poole",
         "day": "Sat",
         "date": "2026-10-31",
-        "time": "11:59pm–5am",
+        "time": "23:59-05:00",
         "start": "23:59",
         "end": "05:00",
         "area": "DTLA",
@@ -6322,12 +6183,21 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "https://party-scout.app/img/gen/closer-x-tyf-present-moo-0a05.jpg",
+        "image": "https://images.ra.co/bf04f054a48457ac97d613aa369602b353ce2cdb.png",
         "image_generated": false,
         "popularity": 0,
         "enriched": 1,
         "active": true,
-        "lineup": []
+        "lineup": [
+          {
+            "name": "James Poole",
+            "instagram": null
+          },
+          {
+            "name": "Drew Day",
+            "instagram": null
+          }
+        ]
       },
       {
         "id": "2026-10-26-music-e-n-d-presents-halloween-rooft-c4806f",
@@ -6337,7 +6207,7 @@
         "name": "E.N.D. presents: Halloween Rooftop Rave",
         "day": "Sat",
         "date": "2026-10-31",
-        "time": "5–10pm",
+        "time": "17:00-22:00",
         "start": "17:00",
         "end": "22:00",
         "area": "Los Angeles",
@@ -6346,7 +6216,7 @@
         "why": "To celebrate Halloween outdoors with rooftop views and free evening dancing.",
         "summary": "A free Halloween rooftop rave on October 31, 2026, running 5–10pm and billed under E.N.D. Presents.",
         "promoter": "",
-        "price": "Free",
+        "price": "0",
         "tags": [
           "free",
           "outdoor",
@@ -6364,7 +6234,7 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "https://party-scout.app/img/gen/e-n-d-presents-halloween-148c.jpg",
+        "image": "https://images.ra.co/21172a2eafe39422072d546f3c521e91ec1f7c8e.png",
         "image_generated": false,
         "popularity": 0,
         "enriched": 1,
@@ -6423,7 +6293,7 @@
         "name": "Freakquencies X The Hollywood Roosevelt present Halloween",
         "day": "Sat",
         "date": "2026-10-31",
-        "time": "8 PM - 2 AM",
+        "time": "8:00 PM",
         "start": "20:00",
         "end": "02:00",
         "area": "Hollywood",
@@ -6432,7 +6302,7 @@
         "why": "A one-night Halloween lineup spread across the historic lobby, Tropicana pool, Teddy's and the Blossom Ballroom.",
         "summary": "A full Hollywood Roosevelt hotel takeover: thirteen DJs across four rooms plus the pool, with The Dare, Kenny Beats, Tinashe, Frost Children and Dorian Electra. 21+, costumes encouraged.",
         "promoter": "",
-        "price": "$133-$196",
+        "price": "From $132.87",
         "tags": [
           "halloween",
           "party",
@@ -6442,7 +6312,11 @@
           "hotel-takeover"
         ],
         "sources": [
-          "https://www.eventbrite.com/e/2002320030111/"
+          "https://www.eventbrite.com/e/2002320030111/",
+          {
+            "url": "https://www.eventbrite.com/d/ca--los-angeles/",
+            "hidden": true
+          }
         ],
         "tickets": [
           "https://www.eventbrite.com/e/2002320030111/"
@@ -6469,7 +6343,7 @@
         "name": "FREE EVENT! Chencho Corleone y Mas! GRATIS!",
         "day": "Sat",
         "date": "2026-10-31",
-        "time": "",
+        "time": "2:00 PM",
         "start": null,
         "end": null,
         "area": "DTLA",
@@ -6478,7 +6352,7 @@
         "why": "A free Halloween-weekend Latin show in the heart of DTLA, headlined by a reggaeton name.",
         "summary": "Free outdoor reggaeton and Latin urban show billed with Chencho Corleone and more, at Pershing Square in downtown LA on Halloween Saturday.",
         "promoter": "",
-        "price": "",
+        "price": "Free",
         "tags": [
           "free",
           "latin",
@@ -6487,7 +6361,12 @@
           "outdoor",
           "halloween"
         ],
-        "sources": [],
+        "sources": [
+          {
+            "url": "https://www.eventbrite.com/d/ca--los-angeles/",
+            "hidden": true
+          }
+        ],
         "tickets": [],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Pershing%20Square",
@@ -6510,7 +6389,7 @@
         "name": "goyo club presents ELECTRIC CLEANERS PARTY 017 - HALLOWEEN SPECIAL",
         "day": "Sat",
         "date": "2026-10-31",
-        "time": "9pm–2am",
+        "time": "21:00-02:00",
         "start": "21:00",
         "end": "02:00",
         "area": "DTLA",
@@ -6519,7 +6398,7 @@
         "why": "Go for a late-night Halloween dance event in DTLA with a modest $15 cover.",
         "summary": "Goyo Club presents ELECTRIC CLEANERS PARTY 017 — a Halloween special on Oct 31, 2026, running 9pm–2am at 1219 N Main St in Los Angeles; $15 cover.",
         "promoter": "",
-        "price": "$15",
+        "price": "$11.20-22.35",
         "tags": [
           "halloween",
           "dj",
@@ -6528,7 +6407,11 @@
           "cover"
         ],
         "sources": [
-          "https://ra.co/events/2559513"
+          "https://ra.co/events/2559513",
+          {
+            "url": "https://19hz.info/eventlisting_LosAngeles.php",
+            "hidden": true
+          }
         ],
         "tickets": [
           "https://ra.co/events/2559513"
@@ -6540,7 +6423,7 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "https://party-scout.app/img/gen/goyo-club-presents-elect-c075.jpg",
+        "image": "https://images.ra.co/cb548e43353007d94eed0325c8825dac35de6cc2.png",
         "image_generated": false,
         "popularity": 0,
         "enriched": 1,
@@ -6554,7 +6437,7 @@
         "name": "Halloween at White Rabbit Sky Lounge (Formerly Skybar)",
         "day": "Sat",
         "date": "2026-10-31",
-        "time": "8:30pm–2am",
+        "time": "20:30-02:00",
         "start": "20:30",
         "end": "02:00",
         "area": "Hollywood",
@@ -6583,7 +6466,7 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "https://party-scout.app/img/gen/halloween-at-white-rabbi-587b.jpg",
+        "image": "https://images.ra.co/95237629caea59817a174febc46d52e7266c9875.jpg",
         "image_generated": false,
         "popularity": 0,
         "enriched": 1,
@@ -6597,7 +6480,7 @@
         "name": "HALLOWEEN COSTUME PARTY LOS ANGELES @ ELEVATE LOUNGE (HALLOWEEN NIGHT)",
         "day": "Sat",
         "date": "2026-10-31",
-        "time": "10pm–2am",
+        "time": "9:30 PM",
         "start": "22:00",
         "end": "02:00",
         "area": "Hollywood",
@@ -6606,7 +6489,7 @@
         "why": "Late-night dancing and Halloween vibes in central Hollywood.",
         "summary": "Halloween costume party at Elevate Lounge on October 31, 2026, 10pm–2am. Free entry.",
         "promoter": "",
-        "price": "Free",
+        "price": "From $0.00",
         "tags": [
           "free",
           "21+",
@@ -6615,7 +6498,11 @@
           "costume"
         ],
         "sources": [
-          "https://ra.co/events/2512858"
+          "https://ra.co/events/2512858",
+          {
+            "url": "https://www.eventbrite.com/d/ca--los-angeles/",
+            "hidden": true
+          }
         ],
         "tickets": [
           "https://ra.co/events/2512858"
@@ -6627,8 +6514,8 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "https://party-scout.app/img/gen/halloween-costume-party-7f41.jpg",
-        "image_generated": false,
+        "image": "https://api.party-scout.app/img/los-angeles/2026-10-26/halloween-costume-party-7f41.jpg",
+        "image_generated": true,
         "popularity": 0,
         "enriched": 1,
         "active": true
@@ -6641,7 +6528,7 @@
         "name": "Halloween Night at Bar Franca",
         "day": "Sat",
         "date": "2026-10-31",
-        "time": "8pm–2am",
+        "time": "20:00-02:00",
         "start": "20:00",
         "end": "02:00",
         "area": "DTLA",
@@ -6650,7 +6537,7 @@
         "why": "For a free late-night Halloween outing with drinks in downtown LA.",
         "summary": "A Halloween night event at Bar Franca on October 31 runs 8pm–2am at 438 S Main St in DTLA with free entry.",
         "promoter": "",
-        "price": "Free",
+        "price": "$0",
         "tags": [
           "free",
           "bar",
@@ -6771,7 +6658,7 @@
         "name": "The MAZE Festival: Arts District Halloween Block Party",
         "day": "Sat",
         "date": "2026-10-31",
-        "time": "5pm–12am",
+        "time": "05:00-12:00",
         "start": "17:00",
         "end": "00:00",
         "area": "DTLA",
@@ -6780,7 +6667,7 @@
         "why": "A rare chance to see The Blaze live and an Arcade Fire DJ set on Halloween night, in the middle of the Arts District.",
         "summary": "Halloween block party across two outdoor and indoor stages in the Arts District, 5pm to midnight. The Blaze play live, Arcade Fire do a DJ set, and Claude VonStroke plays a tribute to Kavinsky.",
         "promoter": "",
-        "price": "$80",
+        "price": "70",
         "tags": [
           "halloween",
           "outdoor",
@@ -6790,7 +6677,8 @@
           "arts district"
         ],
         "sources": [
-          "https://ra.co/events/2491883"
+          "https://ra.co/events/2491883",
+          "https://ra.co/events/2555171"
         ],
         "tickets": [
           "https://ra.co/events/2491883"
@@ -6817,7 +6705,7 @@
         "name": "NIGHTMARE ON 4TH STREET HALLOWEENIE SORIEE presented by Almostdecent & Mainframe",
         "day": "Sat",
         "date": "2026-10-31",
-        "time": "9pm–4:30am",
+        "time": "21:00-04:30",
         "start": "21:00",
         "end": "04:30",
         "area": "Los Angeles",
@@ -6826,7 +6714,7 @@
         "why": "For a late-night Halloween party with extended hours and an affordable cover.",
         "summary": "A Halloween soirée on October 31, 2026 running 9pm–4:30am with $20 admission in Los Angeles.",
         "promoter": "",
-        "price": "$20",
+        "price": "free w/rsvp b4 midnight in costume / $20",
         "tags": [
           "halloween",
           "party",
@@ -6834,7 +6722,11 @@
           "dance"
         ],
         "sources": [
-          "https://ra.co/events/2557560"
+          "https://ra.co/events/2557560",
+          {
+            "url": "https://19hz.info/eventlisting_LosAngeles.php",
+            "hidden": true
+          }
         ],
         "tickets": [
           "https://ra.co/events/2557560"
@@ -6843,7 +6735,7 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "https://party-scout.app/img/gen/nightmare-on-4th-street-c4d3.jpg",
+        "image": "https://images.ra.co/58ec3957f5a013a198342c0f1e75215c9fd0a145.jpg",
         "image_generated": false,
         "popularity": 0,
         "enriched": 1,
@@ -6857,7 +6749,7 @@
         "name": "★ RARE CANDY ★ AKAI SOLO, DJ Earl, DJ Strawberry, Dom McLennon, Tommaso, Bobbyy, Lastword",
         "day": "Sat",
         "date": "2026-10-31",
-        "time": "6–10pm",
+        "time": "16:00-22:00",
         "start": "18:00",
         "end": "22:00",
         "area": "Los Angeles",
@@ -6866,7 +6758,7 @@
         "why": "Catch a compact, early-evening lineup mixing DJs and vocal performers.",
         "summary": "An Oct 31 event at 110 S Ave 56 in Los Angeles (6–10pm, $10) featuring AKAI SOLO, DJ Earl, DJ Strawberry, Dom McLennon, Tommaso, Bobbyy, and Lastword.",
         "promoter": "",
-        "price": "$10",
+        "price": "10.00",
         "tags": [
           "dj",
           "electronic",
@@ -6874,7 +6766,10 @@
           "live"
         ],
         "sources": [
-          "https://ra.co/events/2549216"
+          {
+            "url": "https://ra.co/events/2549216",
+            "hidden": true
+          }
         ],
         "tickets": [
           "https://ra.co/events/2549216"
@@ -6900,7 +6795,7 @@
         "name": "W Hollywood Horror Story Halloween Party",
         "day": "Sat",
         "date": "2026-10-31",
-        "time": "9pm–2am",
+        "time": "21:00-02:00",
         "start": "21:00",
         "end": "02:00",
         "area": "Hollywood",
@@ -6909,7 +6804,7 @@
         "why": "For late-night Halloween costumes, dancing, and a central Hollywood night out.",
         "summary": "A Halloween party at W Hollywood on October 31, 2026, running 9pm–2am at 6250 Hollywood Blvd with admission $20–$25.",
         "promoter": "",
-        "price": "$20–$25",
+        "price": "20.22 - 25.18",
         "tags": [
           "party",
           "costume",
@@ -6943,7 +6838,7 @@
         "name": "Aerosmith & Friends",
         "day": "Sun",
         "date": "2026-11-01",
-        "time": "6:30 PM",
+        "time": "6:30PM",
         "start": null,
         "end": null,
         "area": "Hollywood",
@@ -6960,7 +6855,11 @@
           "hollywood-bowl"
         ],
         "sources": [
-          "https://www.udiscovermusic.com/news/aerosmith-hollywood-bowl-show/"
+          "https://www.udiscovermusic.com/news/aerosmith-hollywood-bowl-show/",
+          {
+            "url": "https://www.hollywoodbowl.com/events/performances",
+            "hidden": true
+          }
         ],
         "tickets": [],
         "maps": {
@@ -7017,6 +6916,2704 @@
         "image_generated": true,
         "popularity": 0,
         "enriched": 1,
+        "active": true
+      },
+      {
+        "id": "2026-10-26-music-nightshift-after-hours-dd09b6",
+        "eid": "nightshift-after-hours-9974",
+        "track": "music",
+        "category": "",
+        "name": "Nightshift After Hours",
+        "day": "Mon",
+        "date": "2026-10-26",
+        "time": "23:00-05:00",
+        "start": null,
+        "end": null,
+        "area": "",
+        "venue": "The Lexington",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "0",
+        "tags": [],
+        "sources": [
+          {
+            "url": "https://19hz.info/eventlisting_LosAngeles.php",
+            "hidden": true
+          },
+          "https://ra.co/events/2563555"
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=The%20Lexington",
+          "apple": "https://maps.apple.com/?q=The%20Lexington"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-10-26-music-open-mondays-spooky-season-963d95",
+        "eid": "open-mondays-spooky-seas-26e3",
+        "track": "music",
+        "category": "",
+        "name": "Open Mondays Spooky Season",
+        "day": "Mon",
+        "date": "2026-10-26",
+        "time": "8pm-1am",
+        "start": "20:00",
+        "end": "01:00",
+        "area": "",
+        "venue": "The Grayson",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "",
+        "tags": [],
+        "sources": [
+          {
+            "url": "https://19hz.info/eventlisting_LosAngeles.php",
+            "hidden": true
+          }
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=The%20Grayson",
+          "apple": "https://maps.apple.com/?q=The%20Grayson"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-10-26-music-del-maguey-single-village-musi-9a1e3e",
+        "eid": "del-maguey-single-villag-8991",
+        "track": "music",
+        "category": "",
+        "name": "Del Maguey Single Village Music Series with Girl Ultra",
+        "day": "Tue",
+        "date": "2026-10-27",
+        "time": "19:00-22:00",
+        "start": null,
+        "end": null,
+        "area": "",
+        "venue": "TBA",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "0",
+        "tags": [],
+        "sources": [
+          "https://ra.co/events/2567092"
+        ],
+        "tickets": [],
+        "maps": {},
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-10-26-music-nightshift-after-hours-5fcc32",
+        "eid": "nightshift-after-hours-8f35",
+        "track": "music",
+        "category": "",
+        "name": "Nightshift After Hours",
+        "day": "Tue",
+        "date": "2026-10-27",
+        "time": "23:00-05:00",
+        "start": null,
+        "end": null,
+        "area": "",
+        "venue": "The Lexington",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "0",
+        "tags": [],
+        "sources": [
+          {
+            "url": "https://19hz.info/eventlisting_LosAngeles.php",
+            "hidden": true
+          },
+          "https://ra.co/events/2563556"
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=The%20Lexington",
+          "apple": "https://maps.apple.com/?q=The%20Lexington"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-10-26-music-aurat-dj-milagro-dj-mimi-cry-k-b4185e",
+        "eid": "aurat-dj-milagro-dj-mimi-338b",
+        "track": "music",
+        "category": "",
+        "name": "Aurat, DJ Milagro, DJ Mimi Cry, Kohinoorgasm and Nuxx",
+        "day": "Wed",
+        "date": "2026-10-28",
+        "time": "8pm",
+        "start": "20:00",
+        "end": null,
+        "area": "",
+        "venue": "El Rey",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "$38",
+        "tags": [],
+        "sources": [
+          {
+            "url": "https://19hz.info/eventlisting_LosAngeles.php",
+            "hidden": true
+          }
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=El%20Rey",
+          "apple": "https://maps.apple.com/?q=El%20Rey"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-10-26-music-crucast-la-ivy-blossom-skepsis-7e2c1f",
+        "eid": "crucast-la-ivy-blossom-s-8489",
+        "track": "music",
+        "category": "",
+        "name": "Crucast LA: [Ivy], Blossom, Skepsis",
+        "day": "Wed",
+        "date": "2026-10-28",
+        "time": "9pm-2am",
+        "start": "21:00",
+        "end": "02:00",
+        "area": "",
+        "venue": "The Catwalk",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "$27.81",
+        "tags": [],
+        "sources": [
+          {
+            "url": "https://19hz.info/eventlisting_LosAngeles.php",
+            "hidden": true
+          }
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=The%20Catwalk",
+          "apple": "https://maps.apple.com/?q=The%20Catwalk"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-10-26-music-nightshift-after-hours-9b8cbc",
+        "eid": "nightshift-after-hours-0eff",
+        "track": "music",
+        "category": "",
+        "name": "Nightshift After Hours",
+        "day": "Wed",
+        "date": "2026-10-28",
+        "time": "23:00-05:00",
+        "start": null,
+        "end": null,
+        "area": "",
+        "venue": "The Lexington",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "0",
+        "tags": [],
+        "sources": [
+          {
+            "url": "https://19hz.info/eventlisting_LosAngeles.php",
+            "hidden": true
+          },
+          "https://ra.co/events/2563558"
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=The%20Lexington",
+          "apple": "https://maps.apple.com/?q=The%20Lexington"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-10-26-music-off-record-14th-door-present-a-479c7c",
+        "eid": "off-record-14th-door-pre-2ec2",
+        "track": "music",
+        "category": "",
+        "name": "Off Record & 14th Door present a Halloween event with BAD BAD, Collin Reeve, and NEKTER",
+        "day": "Wed",
+        "date": "2026-10-28",
+        "time": "20:00-02:00",
+        "start": null,
+        "end": null,
+        "area": "",
+        "venue": "TBA - DTLA",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "7",
+        "tags": [],
+        "sources": [
+          "https://ra.co/events/2565235"
+        ],
+        "tickets": [],
+        "maps": {},
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-10-26-music-casual-halloween-06-casual-aff-a449b6",
+        "eid": "casual-halloween-06-casu-7207",
+        "track": "music",
+        "category": "",
+        "name": "Casual Halloween #06: Casual Affairs, Frenchfordrugs, Alessio B2B Warclaw, Thisisglitterbeach",
+        "day": "Thu",
+        "date": "2026-10-29",
+        "time": "9pm-2am",
+        "start": "21:00",
+        "end": "02:00",
+        "area": "",
+        "venue": "High Tide",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "$25",
+        "tags": [],
+        "sources": [
+          {
+            "url": "https://19hz.info/eventlisting_LosAngeles.php",
+            "hidden": true
+          }
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=High%20Tide",
+          "apple": "https://maps.apple.com/?q=High%20Tide"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-10-26-music-csw-label-night-gmo-twist-rele-ec538c",
+        "eid": "csw-label-night-gmo-twis-4d61",
+        "track": "music",
+        "category": "",
+        "name": "CSW - Label Night (GMO Twist Release): GMO, KUČKA, Danny Goliger, Xen Model",
+        "day": "Thu",
+        "date": "2026-10-29",
+        "time": "20:00-00:00",
+        "start": null,
+        "end": null,
+        "area": "",
+        "venue": "TBA - TLA",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "0",
+        "tags": [],
+        "sources": [
+          "https://ra.co/events/2566226"
+        ],
+        "tickets": [],
+        "maps": {},
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-10-26-music-the-equation-acemo-swami-sound-cf0800",
+        "eid": "the-equation-acemo-swami-0f17",
+        "track": "music",
+        "category": "",
+        "name": "The Equation (AceMo & Swami Sound)",
+        "day": "Thu",
+        "date": "2026-10-29",
+        "time": "21:00-01:00",
+        "start": null,
+        "end": null,
+        "area": "",
+        "venue": "Homage Brewing",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "10",
+        "tags": [],
+        "sources": [
+          {
+            "url": "https://19hz.info/eventlisting_LosAngeles.php",
+            "hidden": true
+          },
+          "https://ra.co/events/2560864"
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=Homage%20Brewing",
+          "apple": "https://maps.apple.com/?q=Homage%20Brewing"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-10-26-music-nightmare-on-wilshire-2a00b0",
+        "eid": "nightmare-on-wilshire-6cd9",
+        "track": "music",
+        "category": "",
+        "name": "Nightmare On Wilshire",
+        "day": "Thu",
+        "date": "2026-10-29",
+        "time": "9pm-2am",
+        "start": "21:00",
+        "end": "02:00",
+        "area": "",
+        "venue": "Elevate Lounge",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "free w/rsvp b4 10pm / $10-31",
+        "tags": [],
+        "sources": [
+          {
+            "url": "https://19hz.info/eventlisting_LosAngeles.php",
+            "hidden": true
+          }
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=Elevate%20Lounge",
+          "apple": "https://maps.apple.com/?q=Elevate%20Lounge"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-10-26-music-nightshift-after-hours-ff144b",
+        "eid": "nightshift-after-hours-3e4b",
+        "track": "music",
+        "category": "",
+        "name": "Nightshift After Hours",
+        "day": "Thu",
+        "date": "2026-10-29",
+        "time": "23:00-05:00",
+        "start": null,
+        "end": null,
+        "area": "",
+        "venue": "The Lexington",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "0",
+        "tags": [],
+        "sources": [
+          {
+            "url": "https://19hz.info/eventlisting_LosAngeles.php",
+            "hidden": true
+          },
+          "https://ra.co/events/2563559"
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=The%20Lexington",
+          "apple": "https://maps.apple.com/?q=The%20Lexington"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-10-26-music-phantom-45-mc-questionmark-511d61",
+        "eid": "phantom-45-mc-questionma-2475",
+        "track": "music",
+        "category": "",
+        "name": "Phantom 45, MC Questionmark",
+        "day": "Thu",
+        "date": "2026-10-29",
+        "time": "10pm-2am",
+        "start": "22:00",
+        "end": "02:00",
+        "area": "",
+        "venue": "Jungle Hollywood",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "$12-17.95",
+        "tags": [],
+        "sources": [
+          {
+            "url": "https://19hz.info/eventlisting_LosAngeles.php",
+            "hidden": true
+          }
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=Jungle%20Hollywood",
+          "apple": "https://maps.apple.com/?q=Jungle%20Hollywood"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-10-26-music-ac-slater-halloween-weekend-d64b5f",
+        "eid": "ac-slater-halloween-week-a59d",
+        "track": "music",
+        "category": "Nightclub",
+        "name": "AC Slater (Halloween Weekend)",
+        "day": "Fri",
+        "date": "2026-10-30",
+        "time": "22:00-02:00",
+        "start": "22:00",
+        "end": "02:00",
+        "area": "Los Angeles",
+        "venue": "Academy LA",
+        "address": "6021 Hollywood Blvd.  Los Angeles, CA 90028, USA",
+        "why": "Free entry and late-night DJ vibes make this an easy Halloween-weekend dance plan.",
+        "summary": "AC Slater is scheduled for October 30, 2026 at 6021 Hollywood Blvd in Hollywood. Admission is free.",
+        "promoter": "",
+        "price": "$35+",
+        "tags": [
+          "dj",
+          "electronic",
+          "free"
+        ],
+        "sources": [
+          "https://ra.co/events/2512856",
+          "https://www.tixr.com/groups/academy/events/academy-la-presents-ac-slater-202787",
+          {
+            "url": "https://19hz.info/eventlisting_LosAngeles.php",
+            "hidden": true
+          },
+          {
+            "url": "https://edmtrain.com/los-angeles-ca",
+            "hidden": true
+          }
+        ],
+        "tickets": [
+          "https://ra.co/events/2512856"
+        ],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=Academy%20Nightclub%20%28Los%20Angeles%29%2C%20Los%20Angeles",
+          "apple": "https://maps.apple.com/?q=Academy%20Nightclub%20%28Los%20Angeles%29%2C%20Los%20Angeles"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "https://party-scout.app/img/gen/ac-slater-efbe.jpg",
+        "image_generated": true,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-10-26-music-after-dark-blvckjesus-yen-won-7e5cfd",
+        "eid": "after-dark-blvckjesus-ye-c46d",
+        "track": "music",
+        "category": "",
+        "name": "After Dark - BLVCKJESUS, Yen Won, Sujoy (live)",
+        "day": "Fri",
+        "date": "2026-10-30",
+        "time": "9:30pm-3am",
+        "start": "21:30",
+        "end": "03:00",
+        "area": "",
+        "venue": "TBA Fashion District",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "$23-29",
+        "tags": [],
+        "sources": [
+          {
+            "url": "https://19hz.info/eventlisting_LosAngeles.php",
+            "hidden": true
+          },
+          "https://ra.co/events/2561974"
+        ],
+        "tickets": [],
+        "maps": {},
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "https://images.ra.co/1374807957659f7f08759a624b674b62bd412870.jpg",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-10-26-music-byron-the-aquarius-computer-ja-b6fd10",
+        "eid": "byron-the-aquarius-compu-f2ee",
+        "track": "music",
+        "category": "",
+        "name": "Byron The Aquarius, Computer Jay, La Boix, Chase Aldridge, Sim Ivy",
+        "day": "Fri",
+        "date": "2026-10-30",
+        "time": "11pm-8am",
+        "start": "23:00",
+        "end": "08:00",
+        "area": "",
+        "venue": "TBA",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "$17.25-25.30",
+        "tags": [],
+        "sources": [
+          {
+            "url": "https://19hz.info/eventlisting_LosAngeles.php",
+            "hidden": true
+          }
+        ],
+        "tickets": [],
+        "maps": {},
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-10-26-music-colored-craig-pretty-gay-frien-766dcd",
+        "eid": "colored-craig-pretty-gay-bc15",
+        "track": "music",
+        "category": "",
+        "name": "Colored Craig & Pretty Gay Friendly",
+        "day": "Fri",
+        "date": "2026-10-30",
+        "time": "22:00-02:00",
+        "start": null,
+        "end": null,
+        "area": "",
+        "venue": "Homage Brewing",
+        "address": "1219 N Main St, Los Angeles, CA 90012",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "10",
+        "tags": [],
+        "sources": [
+          {
+            "url": "https://19hz.info/eventlisting_LosAngeles.php",
+            "hidden": true
+          },
+          "https://ra.co/events/2560867"
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=1219%20N%20Main%20St%2C%20Los%20Angeles%2C%20CA%2090012",
+          "apple": "https://maps.apple.com/?q=1219%20N%20Main%20St%2C%20Los%20Angeles%2C%20CA%2090012"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "https://api.party-scout.app/img/los-angeles/2026-10-26/colored-craig-pretty-gay-bc15.jpg",
+        "image_generated": true,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true,
+        "lineup": [
+          {
+            "name": "Colored Craig",
+            "instagram": null
+          },
+          {
+            "name": "Pretty Gay Friendly",
+            "instagram": null
+          }
+        ]
+      },
+      {
+        "id": "2026-10-26-music-dark-karnival-2026-aaron-jacob-66223a",
+        "eid": "dark-karnival-2026-aaron-d9e9",
+        "track": "music",
+        "category": "",
+        "name": "Dark Karnival 2026: Aaron Jacobs, DJ ICON, DJ Loomer, Fleetwood Smack, Red Five, Keyz, Holly Adams, Chad Rock, Ezra Luxe, K1K1",
+        "day": "Fri",
+        "date": "2026-10-30",
+        "time": "9pm-3am",
+        "start": "21:00",
+        "end": "03:00",
+        "area": "",
+        "venue": "Matriarch",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "$22-40",
+        "tags": [],
+        "sources": [
+          {
+            "url": "https://19hz.info/eventlisting_LosAngeles.php",
+            "hidden": true
+          }
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=Matriarch",
+          "apple": "https://maps.apple.com/?q=Matriarch"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-10-26-music-derrick-carter-kim-ann-foxman-37e9ab",
+        "eid": "derrick-carter-kim-ann-f-f8c7",
+        "track": "music",
+        "category": "",
+        "name": "Derrick Carter & Kim Ann Foxman",
+        "day": "Fri",
+        "date": "2026-10-30",
+        "time": "11pm-6am",
+        "start": "23:00",
+        "end": "06:00",
+        "area": "",
+        "venue": "TBA",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "$68",
+        "tags": [],
+        "sources": [
+          {
+            "url": "https://19hz.info/eventlisting_LosAngeles.php",
+            "hidden": true
+          }
+        ],
+        "tickets": [],
+        "maps": {},
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-10-26-music-fideles-rampue-live-3afcfa",
+        "eid": "fideles-rampue-live-79fa",
+        "track": "music",
+        "category": "",
+        "name": "Fideles & Rampue (LIVE)",
+        "day": "Fri",
+        "date": "2026-10-30",
+        "time": "22:00-03:00",
+        "start": null,
+        "end": null,
+        "area": "",
+        "venue": "ORIGIN",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "",
+        "tags": [],
+        "sources": [
+          "https://ra.co/events/2561766"
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=ORIGIN",
+          "apple": "https://maps.apple.com/?q=ORIGIN"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "https://images.ra.co/e9c1b2fa5f793f5607c5c09fae460ceca9253363.jpg",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-10-26-music-fideles-rampue-a62c5b",
+        "eid": "fideles-rampue-2d59",
+        "track": "music",
+        "category": "",
+        "name": "Fideles, Rampue",
+        "day": "Fri",
+        "date": "2026-10-30",
+        "time": "5pm-3am",
+        "start": "17:00",
+        "end": "03:00",
+        "area": "",
+        "venue": "Origin",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "$35.37-82.53",
+        "tags": [],
+        "sources": [
+          {
+            "url": "https://19hz.info/eventlisting_LosAngeles.php",
+            "hidden": true
+          }
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=Origin",
+          "apple": "https://maps.apple.com/?q=Origin"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "https://api.party-scout.app/img/los-angeles/2026-10-26/fideles-rampue-2d59.jpg",
+        "image_generated": true,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-10-26-music-jackie-straw-a59303",
+        "eid": "jackie-straw-e870",
+        "track": "music",
+        "category": "",
+        "name": "Jackie Straw",
+        "day": "Fri",
+        "date": "2026-10-30",
+        "time": "20:00-02:00",
+        "start": null,
+        "end": null,
+        "area": "",
+        "venue": "The Redwood Bar And Grill",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "",
+        "tags": [],
+        "sources": [
+          "https://ra.co/events/2564260"
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=The%20Redwood%20Bar%20And%20Grill",
+          "apple": "https://maps.apple.com/?q=The%20Redwood%20Bar%20And%20Grill"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-10-26-music-l-a-comic-con-returns-october-c7d74e",
+        "eid": "l-a-comic-con-returns-oc-09e5",
+        "track": "music",
+        "category": "",
+        "name": "L.A. Comic Con Returns October 30-November 1 For Its 15th Annual Event",
+        "day": "Fri",
+        "date": "2026-10-30",
+        "time": "15:00-17:00",
+        "start": null,
+        "end": null,
+        "area": "",
+        "venue": "Los Angeles Convention Center",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "$49-$119",
+        "tags": [],
+        "sources": [
+          "https://ra.co/events/2568623"
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=Los%20Angeles%20Convention%20Center",
+          "apple": "https://maps.apple.com/?q=Los%20Angeles%20Convention%20Center"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-10-26-music-minty-boi-presents-hercules-lo-5a2d7e",
+        "eid": "minty-boi-presents-hercu-59cf",
+        "track": "music",
+        "category": "Concert",
+        "name": "Minty Boi Presents: Hercules & Love Affair (DJ Set)",
+        "day": "Fri",
+        "date": "2026-10-30",
+        "time": "22:00-02:00",
+        "start": null,
+        "end": null,
+        "area": "Los Angeles",
+        "venue": "Casita Hollywood",
+        "address": "1323 Highland Ave, Los Angeles, CA 90028",
+        "why": "For a live, dance-oriented electronic set with disco-influenced grooves.",
+        "summary": "Hercules & Love Affair perform in Los Angeles on October 30, 2026.",
+        "promoter": "",
+        "price": "$29.45",
+        "tags": [
+          "electronic",
+          "dance",
+          "live"
+        ],
+        "sources": [
+          "https://ra.co/events/2556139",
+          {
+            "url": "https://edmtrain.com/los-angeles-ca",
+            "hidden": true
+          },
+          {
+            "url": "https://19hz.info/eventlisting_LosAngeles.php",
+            "hidden": true
+          }
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=Casita%20Hollywood%20%28Los%20Angeles%29",
+          "apple": "https://maps.apple.com/?q=Casita%20Hollywood%20%28Los%20Angeles%29"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "https://images.ra.co/d695dd10c82bc6d54d805504e2cd50acd1008fdd.jpg",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true,
+        "lineup": [
+          {
+            "name": "Hercules & Love Affair",
+            "instagram": null
+          }
+        ]
+      },
+      {
+        "id": "2026-10-26-music-nightshift-after-hours-3a12cb",
+        "eid": "nightshift-after-hours-cfbe",
+        "track": "music",
+        "category": "",
+        "name": "Nightshift After Hours",
+        "day": "Fri",
+        "date": "2026-10-30",
+        "time": "23:00-05:00",
+        "start": null,
+        "end": null,
+        "area": "",
+        "venue": "The Lexington",
+        "address": "129 E. 3rd St, Los Angeles, Ca, 90013",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "0",
+        "tags": [],
+        "sources": [
+          {
+            "url": "https://19hz.info/eventlisting_LosAngeles.php",
+            "hidden": true
+          },
+          "https://ra.co/events/2563561"
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=129%20E.%203rd%20St%2C%20Los%20Angeles%2C%20Ca%2C%2090013",
+          "apple": "https://maps.apple.com/?q=129%20E.%203rd%20St%2C%20Los%20Angeles%2C%20Ca%2C%2090013"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "https://images.ra.co/7702c5baafbe70c36cc1075612407dc8d9747584.jpg",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-10-26-music-shroomie-jake-b-beggar-96af50",
+        "eid": "shroomie-jake-b-beggar-29d0",
+        "track": "music",
+        "category": "",
+        "name": "Shroomie, Jake B, Beggar",
+        "day": "Fri",
+        "date": "2026-10-30",
+        "time": "21:00-02:00",
+        "start": null,
+        "end": null,
+        "area": "",
+        "venue": "Bar Franca",
+        "address": "438 S Main St, Los Angeles, CA 90013",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "0",
+        "tags": [],
+        "sources": [
+          {
+            "url": "https://19hz.info/eventlisting_LosAngeles.php",
+            "hidden": true
+          },
+          "https://ra.co/events/2566054"
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=438%20S%20Main%20St%2C%20Los%20Angeles%2C%20CA%2090013",
+          "apple": "https://maps.apple.com/?q=438%20S%20Main%20St%2C%20Los%20Angeles%2C%20CA%2090013"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "https://images.ra.co/c3a9cbba300babff9193884d7537daeb6ff208a5.jpg",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true,
+        "lineup": [
+          {
+            "name": "DJ Shroomie",
+            "instagram": null
+          },
+          {
+            "name": "Jake Brennan",
+            "instagram": null
+          },
+          {
+            "name": "Beggar",
+            "instagram": null
+          }
+        ]
+      },
+      {
+        "id": "2026-10-26-music-sila-halloween-party-e2ae35",
+        "eid": "sila-halloween-party-4cc1",
+        "track": "music",
+        "category": "",
+        "name": "Sila Halloween Party",
+        "day": "Fri",
+        "date": "2026-10-30",
+        "time": "9pm-4am",
+        "start": "21:00",
+        "end": "04:00",
+        "area": "",
+        "venue": "Sila at 1204 San Julian St",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "free",
+        "tags": [],
+        "sources": [
+          {
+            "url": "https://19hz.info/eventlisting_LosAngeles.php",
+            "hidden": true
+          }
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=Sila%20at%201204%20San%20Julian%20St",
+          "apple": "https://maps.apple.com/?q=Sila%20at%201204%20San%20Julian%20St"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-10-26-music-v-sions-halloween-onur-ozer-ma-4bef14",
+        "eid": "v-sions-halloween-onur-o-be12",
+        "track": "music",
+        "category": "",
+        "name": "V.sions Halloween: Onur Özer, Mayell, Mesmé, Pete Jonas, Rocky, Jackson Algeo",
+        "day": "Fri",
+        "date": "2026-10-30",
+        "time": "23:00-06:00",
+        "start": "23:00",
+        "end": "06:00",
+        "area": "Los Angeles",
+        "venue": "TBA - Downtown LA",
+        "address": "",
+        "why": "To celebrate Halloween with a night out in LA for a modest cover charge.",
+        "summary": "V.sions Halloween is a Halloween night event on October 30, 2026 in Los Angeles; admission is listed at $20 and venue and time are not specified.",
+        "promoter": "",
+        "price": "$15-45",
+        "tags": [
+          "halloween",
+          "party",
+          "21+",
+          "ticketed"
+        ],
+        "sources": [
+          "https://ra.co/events/2487082",
+          {
+            "url": "https://edmtrain.com/los-angeles-ca",
+            "hidden": true
+          },
+          {
+            "url": "https://19hz.info/eventlisting_LosAngeles.php",
+            "hidden": true
+          }
+        ],
+        "tickets": [
+          "https://ra.co/events/2487082"
+        ],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=Los%20Angeles",
+          "apple": "https://maps.apple.com/?q=Los%20Angeles"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "https://party-scout.app/img/gen/v-sions-halloween-8b14.jpg",
+        "image_generated": true,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-10-26-music-whiskeyweem-faded-moving-plane-6c6b0c",
+        "eid": "whiskeyweem-faded-moving-b99e",
+        "track": "music",
+        "category": "",
+        "name": "WhiskeyWeem, Faded, Moving Planets, Svilth, Gad, Prado, Sirrom",
+        "day": "Fri",
+        "date": "2026-10-30",
+        "time": "9pm",
+        "start": "21:00",
+        "end": null,
+        "area": "",
+        "venue": "TBA",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "",
+        "tags": [],
+        "sources": [
+          {
+            "url": "https://19hz.info/eventlisting_LosAngeles.php",
+            "hidden": true
+          }
+        ],
+        "tickets": [],
+        "maps": {},
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-10-26-music-18th-annual-haunt-massive-bd9ac1",
+        "eid": "18th-annual-haunt-massiv-57b2",
+        "track": "music",
+        "category": "",
+        "name": "18th Annual Haunt Massive",
+        "day": "Sat",
+        "date": "2026-10-31",
+        "time": "9pm-5am",
+        "start": "21:00",
+        "end": "05:00",
+        "area": "",
+        "venue": "District 7",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "free w/rsvp / $12.22-51.11",
+        "tags": [],
+        "sources": [
+          {
+            "url": "https://19hz.info/eventlisting_LosAngeles.php",
+            "hidden": true
+          }
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=District%207",
+          "apple": "https://maps.apple.com/?q=District%207"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-10-26-music-2n1t3-contamination-05-4-1c32fe",
+        "eid": "2n1t3-contamination-05-4-885f",
+        "track": "music",
+        "category": "",
+        "name": "2N1T3 CONTAMINATION #05.4",
+        "day": "Sat",
+        "date": "2026-10-31",
+        "time": "22:30-01:30",
+        "start": null,
+        "end": null,
+        "area": "",
+        "venue": "2n1t3 HQ",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "20",
+        "tags": [],
+        "sources": [
+          {
+            "url": "https://ra.co/events/2556554",
+            "hidden": true
+          }
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=2n1t3%20HQ",
+          "apple": "https://maps.apple.com/?q=2n1t3%20HQ"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-10-26-music-2n1t3-contamination-lilithsodd-c5077e",
+        "eid": "2n1t3-contamination-lili-9ef2",
+        "track": "music",
+        "category": "",
+        "name": "2N1T3 Contamination: Lilithsoddessy, Warclaw, Neujack, Avye",
+        "day": "Sat",
+        "date": "2026-10-31",
+        "time": "10:30pm-1:30am",
+        "start": "22:30",
+        "end": "01:30",
+        "area": "",
+        "venue": "1340 E 6th St",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "free w rsvp / $20",
+        "tags": [],
+        "sources": [
+          {
+            "url": "https://19hz.info/eventlisting_LosAngeles.php",
+            "hidden": true
+          }
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=1340%20E%206th%20St",
+          "apple": "https://maps.apple.com/?q=1340%20E%206th%20St"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-10-26-music-ayako-b2b-jackson-englund-jacq-caba33",
+        "eid": "ayako-b2b-jackson-englun-e523",
+        "track": "music",
+        "category": "",
+        "name": "Ayako b2b Jackson Englund, Jacqui Mateo",
+        "day": "Sat",
+        "date": "2026-10-31",
+        "time": "8pm-2am",
+        "start": "20:00",
+        "end": "02:00",
+        "area": "",
+        "venue": "Bar Franca",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "free",
+        "tags": [],
+        "sources": [
+          {
+            "url": "https://19hz.info/eventlisting_LosAngeles.php",
+            "hidden": true
+          }
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=Bar%20Franca",
+          "apple": "https://maps.apple.com/?q=Bar%20Franca"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-10-26-music-billboard-s-red-carpet-hallowe-0b1070",
+        "eid": "billboard-s-red-carpet-h-f7f5",
+        "track": "music",
+        "category": "",
+        "name": "Billboard's Red Carpet Halloween Costume Ball at Hotel Ziggy",
+        "day": "Sat",
+        "date": "2026-10-31",
+        "time": "21:00-02:00",
+        "start": null,
+        "end": null,
+        "area": "",
+        "venue": "Hotel Ziggy",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "25",
+        "tags": [],
+        "sources": [
+          {
+            "url": "https://ra.co/events/2523994",
+            "hidden": true
+          }
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=Hotel%20Ziggy",
+          "apple": "https://maps.apple.com/?q=Hotel%20Ziggy"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-10-26-music-the-boulet-brothers-halloween-616686",
+        "eid": "the-boulet-brothers-hall-08ff",
+        "track": "music",
+        "category": "",
+        "name": "The Boulet Brothers' Halloween Ball - Poppy, Mateo Segade",
+        "day": "Sat",
+        "date": "2026-10-31",
+        "time": "10pm-3am",
+        "start": "22:00",
+        "end": "03:00",
+        "area": "",
+        "venue": "The Globe Theatre",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "$49-125",
+        "tags": [],
+        "sources": [
+          {
+            "url": "https://19hz.info/eventlisting_LosAngeles.php",
+            "hidden": true
+          }
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=The%20Globe%20Theatre",
+          "apple": "https://maps.apple.com/?q=The%20Globe%20Theatre"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-10-26-music-brijean-dj-set-at-camille-s-76f0b2",
+        "eid": "brijean-dj-set-at-camill-eda6",
+        "track": "music",
+        "category": "",
+        "name": "Brijean (DJ Set) at Camille's",
+        "day": "Sat",
+        "date": "2026-10-31",
+        "time": "21:00-01:00",
+        "start": "21:00",
+        "end": "01:00",
+        "area": "Los Angeles",
+        "venue": "The Bellwether",
+        "address": "333 S Boylston St, Los Angeles, CA 90017",
+        "why": "Budget-friendly Halloween night out in downtown LA.",
+        "summary": "Brijean is scheduled for October 31, 2026 at 333 S Boylston St in Los Angeles. Admission is $12.",
+        "promoter": "",
+        "price": "$16",
+        "tags": [
+          "halloween",
+          "paid",
+          "los-angeles"
+        ],
+        "sources": [
+          "https://ra.co/events/2521322",
+          "https://www.ticketweb.com/event/brijean-colloboh-camilles-at-the-bellwether-tickets/15000653?camefrom=CFC_THEBELLWETHER_web&brand=thebellwether",
+          {
+            "url": "https://19hz.info/eventlisting_LosAngeles.php",
+            "hidden": true
+          }
+        ],
+        "tickets": [
+          "https://ra.co/events/2521322"
+        ],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=Camille%27s%20at%20The%20Bellwether%20%28Los%20Angeles%29%2C%20Los%20Angeles",
+          "apple": "https://maps.apple.com/?q=Camille%27s%20at%20The%20Bellwether%20%28Los%20Angeles%29%2C%20Los%20Angeles"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "https://party-scout.app/img/gen/brijean-e100.jpg",
+        "image_generated": true,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-10-26-music-certified-groovers-halloween-p-7cee0d",
+        "eid": "certified-groovers-hallo-0a78",
+        "track": "music",
+        "category": "",
+        "name": "Certified Groovers: HALLOWEEN PARTY",
+        "day": "Sat",
+        "date": "2026-10-31",
+        "time": "23:00-09:00",
+        "start": "23:00",
+        "end": "09:00",
+        "area": "Los Angeles",
+        "venue": "TBA - Downtown Los Angeles",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "$20",
+        "tags": [],
+        "sources": [
+          "https://ra.co/events/2507310",
+          {
+            "url": "https://19hz.info/eventlisting_LosAngeles.php",
+            "hidden": true
+          }
+        ],
+        "tickets": [
+          "https://ra.co/events/2507310"
+        ],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=Los%20Angeles",
+          "apple": "https://maps.apple.com/?q=Los%20Angeles"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "https://party-scout.app/img/gen/certified-groovers-3c28.jpg",
+        "image_generated": true,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-10-26-music-dillon-francis-on-halloween-ni-7ac7fe",
+        "eid": "dillon-francis-on-hallow-7805",
+        "track": "music",
+        "category": "",
+        "name": "Dillon Francis on Halloween Night",
+        "day": "Sat",
+        "date": "2026-10-31",
+        "time": "22:00-02:00",
+        "start": "22:00",
+        "end": "02:00",
+        "area": "Los Angeles",
+        "venue": "Exchange LA",
+        "address": "618 S. Spring St., Los Angeles, CA 90014",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "$20-80",
+        "tags": [],
+        "sources": [
+          "https://ra.co/events/2527792",
+          {
+            "url": "https://edmtrain.com/los-angeles-ca",
+            "hidden": true
+          },
+          "https://www.tixr.com/groups/exchangela/events/dillon-francis-205776",
+          {
+            "url": "https://19hz.info/eventlisting_LosAngeles.php",
+            "hidden": true
+          }
+        ],
+        "tickets": [
+          "https://ra.co/events/2527792"
+        ],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=Exchange%20%28Los%20Angeles%29%2C%20Los%20Angeles",
+          "apple": "https://maps.apple.com/?q=Exchange%20%28Los%20Angeles%29%2C%20Los%20Angeles"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "https://party-scout.app/img/gen/dillon-francis-1189.jpg",
+        "image_generated": true,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-10-26-music-dj-steve-skeletal-08c55b",
+        "eid": "dj-steve-skeletal-f8dd",
+        "track": "music",
+        "category": "",
+        "name": "DJ Steve Skeletal",
+        "day": "Sat",
+        "date": "2026-10-31",
+        "time": "20:00-02:00",
+        "start": null,
+        "end": null,
+        "area": "",
+        "venue": "The Redwood Bar And Grill",
+        "address": "316 W. 2nd Street, Los Angeles, CA  90012",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "",
+        "tags": [],
+        "sources": [
+          {
+            "url": "https://19hz.info/eventlisting_LosAngeles.php",
+            "hidden": true
+          },
+          "https://ra.co/events/2564261"
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=316%20W.%202nd%20Street%2C%20Los%20Angeles%2C%20CA%20%2090012",
+          "apple": "https://maps.apple.com/?q=316%20W.%202nd%20Street%2C%20Los%20Angeles%2C%20CA%20%2090012"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "https://api.party-scout.app/img/los-angeles/2026-10-26/dj-steve-skeletal-f8dd.jpg",
+        "image_generated": true,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-10-26-music-freakquencies-the-dare-frost-c-46e102",
+        "eid": "freakquencies-the-dare-f-3b20",
+        "track": "music",
+        "category": "",
+        "name": "Freakquencies: The Dare, Frost Children, Kenny Beats, Tinashe, Dorian Electra, evilgiane, Johnny Jewel, Harmony Tividad, atlgrandma, Avalon, Blaketheman1000, CFCF",
+        "day": "Sat",
+        "date": "2026-10-31",
+        "time": "8pm-2am",
+        "start": "20:00",
+        "end": "02:00",
+        "area": "",
+        "venue": "The Hollywood Roosevelt",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "$132.87-196.17",
+        "tags": [],
+        "sources": [
+          {
+            "url": "https://19hz.info/eventlisting_LosAngeles.php",
+            "hidden": true
+          }
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=The%20Hollywood%20Roosevelt",
+          "apple": "https://maps.apple.com/?q=The%20Hollywood%20Roosevelt"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-10-26-music-giegling-in-la-the-halloween-s-2a25e4",
+        "eid": "giegling-in-la-the-hallo-59fb",
+        "track": "music",
+        "category": "",
+        "name": "Giegling in LA (The Halloween Special)",
+        "day": "Sat",
+        "date": "2026-10-31",
+        "time": "23:59-07:00",
+        "start": "23:59",
+        "end": "07:00",
+        "area": "Los Angeles",
+        "venue": "TBA - Downtown Los Angeles",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "$25-50",
+        "tags": [],
+        "sources": [
+          "https://ra.co/events/2505104",
+          {
+            "url": "https://19hz.info/eventlisting_LosAngeles.php",
+            "hidden": true
+          }
+        ],
+        "tickets": [
+          "https://ra.co/events/2505104"
+        ],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=Los%20Angeles",
+          "apple": "https://maps.apple.com/?q=Los%20Angeles"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "https://party-scout.app/img/gen/giegling-b01d.jpg",
+        "image_generated": true,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-10-26-music-good-trouble-risk-e-sklusive-m-cc94a1",
+        "eid": "good-trouble-risk-e-sklu-cb8a",
+        "track": "music",
+        "category": "",
+        "name": "Good Trouble, Risk-E, Sklusive, MoonGoon - Halloween Rooftop Rave",
+        "day": "Sat",
+        "date": "2026-10-31",
+        "time": "5pm-10pm",
+        "start": "17:00",
+        "end": "22:00",
+        "area": "",
+        "venue": "TBA Koreatown",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "free w/rsvp",
+        "tags": [],
+        "sources": [
+          {
+            "url": "https://19hz.info/eventlisting_LosAngeles.php",
+            "hidden": true
+          }
+        ],
+        "tickets": [],
+        "maps": {},
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-10-26-music-h3ll-afterhours-a1229a",
+        "eid": "h3ll-afterhours-297d",
+        "track": "music",
+        "category": "",
+        "name": "H3Ll Afterhours",
+        "day": "Sat",
+        "date": "2026-10-31",
+        "time": "11:59pm",
+        "start": "23:59",
+        "end": null,
+        "area": "",
+        "venue": "TBA",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "$23+ Lickndip, Neoperreo Instagram Page",
+        "tags": [],
+        "sources": [
+          {
+            "url": "https://19hz.info/eventlisting_LosAngeles.php",
+            "hidden": true
+          }
+        ],
+        "tickets": [],
+        "maps": {},
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-10-26-music-haunt-massive-halloween-wareho-cc5532",
+        "eid": "haunt-massive-halloween-7df5",
+        "track": "music",
+        "category": "",
+        "name": "Haunt Massive: Halloween Warehouse Rave | Los Angeles",
+        "day": "Sat",
+        "date": "2026-10-31",
+        "time": "9:00 PM",
+        "start": "21:00",
+        "end": null,
+        "area": "",
+        "venue": "1926 E 7th St",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "From $0.00",
+        "tags": [],
+        "sources": [
+          {
+            "url": "https://www.eventbrite.com/d/ca--los-angeles/",
+            "hidden": true
+          }
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=1926%20E%207th%20St",
+          "apple": "https://maps.apple.com/?q=1926%20E%207th%20St"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-10-26-music-heads-will-roll-queer-indie-ha-9c23e1",
+        "eid": "heads-will-roll-queer-in-bf3f",
+        "track": "music",
+        "category": "",
+        "name": "Heads Will Roll: Queer Indie Halloween",
+        "day": "Sat",
+        "date": "2026-10-31",
+        "time": "10pm-2am",
+        "start": "22:00",
+        "end": "02:00",
+        "area": "",
+        "venue": "El Cid",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "free w/rsvp b4 10:30pm / $14 pre",
+        "tags": [],
+        "sources": [
+          {
+            "url": "https://19hz.info/eventlisting_LosAngeles.php",
+            "hidden": true
+          }
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=El%20Cid",
+          "apple": "https://maps.apple.com/?q=El%20Cid"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-10-26-music-the-herd-halloween-rave-34a181",
+        "eid": "the-herd-halloween-rave-63ef",
+        "track": "music",
+        "category": "",
+        "name": "The Herd: Halloween Rave",
+        "day": "Sat",
+        "date": "2026-10-31",
+        "time": "7pm-2am",
+        "start": "19:00",
+        "end": "02:00",
+        "area": "",
+        "venue": "Epic Icon Center",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "$28-43",
+        "tags": [],
+        "sources": [
+          {
+            "url": "https://19hz.info/eventlisting_LosAngeles.php",
+            "hidden": true
+          }
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=Epic%20Icon%20Center",
+          "apple": "https://maps.apple.com/?q=Epic%20Icon%20Center"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-10-26-music-libre-at-melody-lounge-d919b4",
+        "eid": "libre-at-melody-lounge-6e30",
+        "track": "music",
+        "category": "",
+        "name": "LIBRE at Melody Lounge",
+        "day": "Sat",
+        "date": "2026-10-31",
+        "time": "21:00-02:00",
+        "start": null,
+        "end": null,
+        "area": "",
+        "venue": "Melody Lounge",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "",
+        "tags": [],
+        "sources": [
+          "https://ra.co/events/2566348"
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=Melody%20Lounge",
+          "apple": "https://maps.apple.com/?q=Melody%20Lounge"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-10-26-music-lickndip-x-heav3n-79c26a",
+        "eid": "lickndip-x-heav3n-8e7e",
+        "track": "music",
+        "category": "",
+        "name": "Lickndip X Heav3n",
+        "day": "Sat",
+        "date": "2026-10-31",
+        "time": "",
+        "start": null,
+        "end": null,
+        "area": "",
+        "venue": "Los Angeles",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "",
+        "tags": [],
+        "sources": [
+          {
+            "url": "https://edmtrain.com/los-angeles-ca",
+            "hidden": true
+          }
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=Los%20Angeles",
+          "apple": "https://maps.apple.com/?q=Los%20Angeles"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-10-26-music-maikol-5b8986",
+        "eid": "maikol-3bca",
+        "track": "music",
+        "category": "",
+        "name": "Maikol",
+        "day": "Sat",
+        "date": "2026-10-31",
+        "time": "8:30pm-2am",
+        "start": "20:30",
+        "end": "02:00",
+        "area": "",
+        "venue": "White Rabbit Sky Lounge At The Valorian",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "$23",
+        "tags": [],
+        "sources": [
+          {
+            "url": "https://19hz.info/eventlisting_LosAngeles.php",
+            "hidden": true
+          }
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=White%20Rabbit%20Sky%20Lounge%20At%20The%20Valorian",
+          "apple": "https://maps.apple.com/?q=White%20Rabbit%20Sky%20Lounge%20At%20The%20Valorian"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-10-26-music-marsh-pit-splata-turtles-blake-7e2612",
+        "eid": "marsh-pit-splata-turtles-57da",
+        "track": "music",
+        "category": "",
+        "name": "Marsh Pit: SPLATA, TURTLES, Blake Webber, Cattle Prod, Blue Blood, Sylknet, Goodnght",
+        "day": "Sat",
+        "date": "2026-10-31",
+        "time": "",
+        "start": null,
+        "end": null,
+        "area": "",
+        "venue": "6Degrees",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "",
+        "tags": [],
+        "sources": [
+          {
+            "url": "https://edmtrain.com/los-angeles-ca",
+            "hidden": true
+          }
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=6Degrees",
+          "apple": "https://maps.apple.com/?q=6Degrees"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-10-26-music-the-maze-festival-arts-distric-c48d09",
+        "eid": "the-maze-festival-arts-d-9bb0",
+        "track": "music",
+        "category": "",
+        "name": "The Maze Festival: Arts District Block Party - Arcade Fire (DJ Set), The Blaze (Live), Claude VonStroke",
+        "day": "Sat",
+        "date": "2026-10-31",
+        "time": "5pm-12am",
+        "start": "17:00",
+        "end": "00:00",
+        "area": "",
+        "venue": "Origin",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "$70+",
+        "tags": [],
+        "sources": [
+          {
+            "url": "https://19hz.info/eventlisting_LosAngeles.php",
+            "hidden": true
+          }
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=Origin",
+          "apple": "https://maps.apple.com/?q=Origin"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-10-26-music-morten-halloween-night-b2f3b1",
+        "eid": "morten-halloween-night-e548",
+        "track": "music",
+        "category": "",
+        "name": "Morten (Halloween Night)",
+        "day": "Sat",
+        "date": "2026-10-31",
+        "time": "22:00-02:00",
+        "start": "22:00",
+        "end": "02:00",
+        "area": "Los Angeles",
+        "venue": "Academy LA",
+        "address": "6021 Hollywood Blvd.  Los Angeles, CA 90028, USA",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "$23+",
+        "tags": [],
+        "sources": [
+          "https://ra.co/events/2512858",
+          "https://www.tixr.com/groups/academy/events/morten-203206",
+          {
+            "url": "https://19hz.info/eventlisting_LosAngeles.php",
+            "hidden": true
+          },
+          {
+            "url": "https://edmtrain.com/los-angeles-ca",
+            "hidden": true
+          }
+        ],
+        "tickets": [
+          "https://ra.co/events/2512858"
+        ],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=Academy%20Nightclub%20%28Los%20Angeles%29%2C%20Los%20Angeles",
+          "apple": "https://maps.apple.com/?q=Academy%20Nightclub%20%28Los%20Angeles%29%2C%20Los%20Angeles"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "https://party-scout.app/img/gen/morten-48d6.jpg",
+        "image_generated": true,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-10-26-music-nightshift-after-hours-07f086",
+        "eid": "nightshift-after-hours-2153",
+        "track": "music",
+        "category": "",
+        "name": "Nightshift After Hours",
+        "day": "Sat",
+        "date": "2026-10-31",
+        "time": "23:00-05:00",
+        "start": null,
+        "end": null,
+        "area": "",
+        "venue": "The Lexington",
+        "address": "129 E. 3rd St, Los Angeles, Ca, 90013",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "0",
+        "tags": [],
+        "sources": [
+          {
+            "url": "https://19hz.info/eventlisting_LosAngeles.php",
+            "hidden": true
+          },
+          "https://ra.co/events/2563564"
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=129%20E.%203rd%20St%2C%20Los%20Angeles%2C%20Ca%2C%2090013",
+          "apple": "https://maps.apple.com/?q=129%20E.%203rd%20St%2C%20Los%20Angeles%2C%20Ca%2C%2090013"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "https://images.ra.co/c99512a2d2fcc364ee5e9df5ab1bfef65bdeeadf.jpg",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-10-26-music-pinche-maniaco-55d943",
+        "eid": "pinche-maniaco-cf38",
+        "track": "music",
+        "category": "",
+        "name": "Pinche Maniaco",
+        "day": "Sat",
+        "date": "2026-10-31",
+        "time": "10pm-4am",
+        "start": "22:00",
+        "end": "04:00",
+        "area": "",
+        "venue": "TBA",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "free",
+        "tags": [],
+        "sources": [
+          {
+            "url": "https://19hz.info/eventlisting_LosAngeles.php",
+            "hidden": true
+          }
+        ],
+        "tickets": [],
+        "maps": {},
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-10-26-music-serenity-link-regal86-b2b-1mor-6fb60e",
+        "eid": "serenity-link-regal86-b2-8378",
+        "track": "music",
+        "category": "",
+        "name": "Serenity Link: Regal86 b2b 1morning, Debit, Sevyn 0000, Mapamota, Stealth Angel, Gbenga, Space Master",
+        "day": "Sat",
+        "date": "2026-10-31",
+        "time": "11pm-4am",
+        "start": "23:00",
+        "end": "04:00",
+        "area": "",
+        "venue": "TBA Warehouse",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "$32-100",
+        "tags": [],
+        "sources": [
+          {
+            "url": "https://19hz.info/eventlisting_LosAngeles.php",
+            "hidden": true
+          }
+        ],
+        "tickets": [],
+        "maps": {},
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-10-26-music-shelby-jacobson-free-halloween-8927a4",
+        "eid": "shelby-jacobson-free-hal-d9f5",
+        "track": "music",
+        "category": "",
+        "name": "Shelby Jacobson - Free Halloween Dance Party",
+        "day": "Sat",
+        "date": "2026-10-31",
+        "time": "10pm-1am",
+        "start": "22:00",
+        "end": "01:00",
+        "area": "",
+        "venue": "Zebulon",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "free",
+        "tags": [],
+        "sources": [
+          {
+            "url": "https://19hz.info/eventlisting_LosAngeles.php",
+            "hidden": true
+          }
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=Zebulon",
+          "apple": "https://maps.apple.com/?q=Zebulon"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-10-26-music-soul-source-halloween-w-kaista-da625d",
+        "eid": "soul-source-halloween-w-009f",
+        "track": "music",
+        "category": "",
+        "name": "Soul Source Halloween w/ Kaistar, TOJI, and Amon",
+        "day": "Sat",
+        "date": "2026-10-31",
+        "time": "9pm-2am",
+        "start": "21:00",
+        "end": "02:00",
+        "area": "",
+        "venue": "The Airliner",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "$14 pre",
+        "tags": [],
+        "sources": [
+          {
+            "url": "https://19hz.info/eventlisting_LosAngeles.php",
+            "hidden": true
+          }
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=The%20Airliner",
+          "apple": "https://maps.apple.com/?q=The%20Airliner"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-10-26-music-spooky-link-3-hip-hop-r-b-hall-8f4435",
+        "eid": "spooky-link-3-hip-hop-r-7e5f",
+        "track": "music",
+        "category": "",
+        "name": "Spooky Link 3 : Hip Hop R&B Halloween Party",
+        "day": "Sat",
+        "date": "2026-10-31",
+        "time": "10:00 PM",
+        "start": "22:00",
+        "end": null,
+        "area": "",
+        "venue": "Lovenote",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "From $0.00",
+        "tags": [],
+        "sources": [
+          {
+            "url": "https://www.eventbrite.com/d/ca--los-angeles/",
+            "hidden": true
+          }
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=Lovenote",
+          "apple": "https://maps.apple.com/?q=Lovenote"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-10-26-music-suono-club-arigato-aj-sara-kaw-2e6c3e",
+        "eid": "suono-club-arigato-aj-sa-33a6",
+        "track": "music",
+        "category": "",
+        "name": "Suono Club: Arigato.AJ, Sara Kawai, Nick Mora, Zamythi, Shaw00p b2b Planting Seeds, Akikazu",
+        "day": "Sat",
+        "date": "2026-10-31",
+        "time": "9pm-2am",
+        "start": "21:00",
+        "end": "02:00",
+        "area": "",
+        "venue": "Melrose House",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "$10+",
+        "tags": [],
+        "sources": [
+          {
+            "url": "https://19hz.info/eventlisting_LosAngeles.php",
+            "hidden": true
+          }
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=Melrose%20House",
+          "apple": "https://maps.apple.com/?q=Melrose%20House"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-10-26-music-travis-tk-disko-dj-kerry-7fbcad",
+        "eid": "travis-tk-disko-dj-kerry-bafa",
+        "track": "music",
+        "category": "",
+        "name": "Travis TK Disko, DJ Kerry",
+        "day": "Sat",
+        "date": "2026-10-31",
+        "time": "11pm",
+        "start": "23:00",
+        "end": null,
+        "area": "",
+        "venue": "The Basement",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "",
+        "tags": [],
+        "sources": [
+          {
+            "url": "https://19hz.info/eventlisting_LosAngeles.php",
+            "hidden": true
+          }
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=The%20Basement",
+          "apple": "https://maps.apple.com/?q=The%20Basement"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-10-26-music-utopia-presents-dialed-records-719f70",
+        "eid": "utopia-presents-dialed-r-345d",
+        "track": "music",
+        "category": "",
+        "name": "Utopia presents Dialed Records: Voigtmann, Per Hammar",
+        "day": "Sat",
+        "date": "2026-10-31",
+        "time": "23:00-06:00",
+        "start": null,
+        "end": null,
+        "area": "",
+        "venue": "Utopia",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "",
+        "tags": [],
+        "sources": [
+          "https://ra.co/events/2568989"
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=Utopia",
+          "apple": "https://maps.apple.com/?q=Utopia"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-10-26-music-yoi-toki-a-future-funk-hallowe-0f03c5",
+        "eid": "yoi-toki-a-future-funk-h-a510",
+        "track": "music",
+        "category": "",
+        "name": "Yoi Toki: A Future Funk Halloween feat. Saint Pepsi B2B Vantage",
+        "day": "Sat",
+        "date": "2026-10-31",
+        "time": "22:00-02:00",
+        "start": "22:00",
+        "end": "02:00",
+        "area": "Los Angeles",
+        "venue": "Teragram Ballroom",
+        "address": "1234 W 7th St, Los Angeles, CA 90017, United States",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "$27.73",
+        "tags": [],
+        "sources": [
+          "https://ra.co/events/2518969",
+          "https://www.ticketmaster.com/event/09006514C6FDB0BE",
+          {
+            "url": "https://19hz.info/eventlisting_LosAngeles.php",
+            "hidden": true
+          }
+        ],
+        "tickets": [
+          "https://ra.co/events/2518969"
+        ],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=Teragram%20Ballroom%20%28Los%20Angeles%29%2C%20Los%20Angeles",
+          "apple": "https://maps.apple.com/?q=Teragram%20Ballroom%20%28Los%20Angeles%29%2C%20Los%20Angeles"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "https://party-scout.app/img/gen/yoi-toki-a-future-funk-h-d639.jpg",
+        "image_generated": true,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-10-26-music-afrobeats-day-party-f2e403",
+        "eid": "afrobeats-day-party-278c",
+        "track": "music",
+        "category": "",
+        "name": "Afrobeats Day Party",
+        "day": "Sun",
+        "date": "2026-11-01",
+        "time": "4pm-10pm",
+        "start": "16:00",
+        "end": "22:00",
+        "area": "",
+        "venue": "The Melrose House",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "free w/rsvp b4 5 / $15+",
+        "tags": [],
+        "sources": [
+          {
+            "url": "https://19hz.info/eventlisting_LosAngeles.php",
+            "hidden": true
+          }
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=The%20Melrose%20House",
+          "apple": "https://maps.apple.com/?q=The%20Melrose%20House"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-10-26-music-baba-yaga-wootaing-mira-mai-as-2ea5e4",
+        "eid": "baba-yaga-wootaing-mira-cb34",
+        "track": "music",
+        "category": "",
+        "name": "Baba Yaga, Wootaing, Mira Mai, Asher Martin, Otomoto, Sylknet, Master Flynn",
+        "day": "Sun",
+        "date": "2026-11-01",
+        "time": "2pm-8pm",
+        "start": "14:00",
+        "end": "20:00",
+        "area": "",
+        "venue": "TBA",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "",
+        "tags": [],
+        "sources": [
+          {
+            "url": "https://19hz.info/eventlisting_LosAngeles.php",
+            "hidden": true
+          }
+        ],
+        "tickets": [],
+        "maps": {},
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-10-26-music-krs-one-b7833d",
+        "eid": "krs-one-04ed",
+        "track": "music",
+        "category": "",
+        "name": "Krs-One",
+        "day": "Sun",
+        "date": "2026-11-01",
+        "time": "8pm",
+        "start": "20:00",
+        "end": null,
+        "area": "",
+        "venue": "The Novo",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "",
+        "tags": [],
+        "sources": [
+          {
+            "url": "https://19hz.info/eventlisting_LosAngeles.php",
+            "hidden": true
+          }
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=The%20Novo",
+          "apple": "https://maps.apple.com/?q=The%20Novo"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-10-26-music-migs-whiskey-bbc482",
+        "eid": "migs-whiskey-f25e",
+        "track": "music",
+        "category": "",
+        "name": "Migs Whiskey",
+        "day": "Sun",
+        "date": "2026-11-01",
+        "time": "20:00-02:00",
+        "start": null,
+        "end": null,
+        "area": "",
+        "venue": "The Redwood Bar And Grill",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "",
+        "tags": [],
+        "sources": [
+          "https://ra.co/events/2564262"
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=The%20Redwood%20Bar%20And%20Grill",
+          "apple": "https://maps.apple.com/?q=The%20Redwood%20Bar%20And%20Grill"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-10-26-music-nightshift-after-hours-6588f7",
+        "eid": "nightshift-after-hours-ab8c",
+        "track": "music",
+        "category": "",
+        "name": "Nightshift After Hours",
+        "day": "Sun",
+        "date": "2026-11-01",
+        "time": "23:00-05:00",
+        "start": null,
+        "end": null,
+        "area": "",
+        "venue": "The Lexington",
+        "address": "129 E. 3rd St, Los Angeles, Ca, 90013",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "0",
+        "tags": [],
+        "sources": [
+          {
+            "url": "https://19hz.info/eventlisting_LosAngeles.php",
+            "hidden": true
+          },
+          "https://ra.co/events/2563565"
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=129%20E.%203rd%20St%2C%20Los%20Angeles%2C%20Ca%2C%2090013",
+          "apple": "https://maps.apple.com/?q=129%20E.%203rd%20St%2C%20Los%20Angeles%2C%20Ca%2C%2090013"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "https://images.ra.co/6419efc940b25cf256fa72e221b8720530f4ff99.jpg",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
         "active": true
       }
     ],
@@ -7397,6 +9994,655 @@
         "image_generated": false,
         "popularity": 0,
         "enriched": 1,
+        "active": true
+      },
+      {
+        "id": "2026-10-26-sports-monday-pickleball-c2e0ff",
+        "eid": "monday-pickleball-9ee6",
+        "track": "sports",
+        "category": "",
+        "name": "Monday Pickleball",
+        "day": "Mon",
+        "date": "2026-10-26",
+        "time": "20:00",
+        "start": null,
+        "end": null,
+        "area": "",
+        "venue": "Westwood Tennis Courts, 1350 Sepulveda Blvd",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "",
+        "tags": [],
+        "sources": [
+          "https://www.meetup.com/dinksanddrinksclub/events/317056751/"
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=Westwood%20Tennis%20Courts%2C%201350%20Sepulveda%20Blvd",
+          "apple": "https://maps.apple.com/?q=Westwood%20Tennis%20Courts%2C%201350%20Sepulveda%20Blvd"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-10-26-sports-sole-sisters-hiking-group-fern-43ebcd",
+        "eid": "sole-sisters-hiking-grou-3ae6",
+        "track": "sports",
+        "category": "",
+        "name": "Sole Sisters Hiking Group: Ferndell Nature Trail Adventure 🌿🥾",
+        "day": "Mon",
+        "date": "2026-10-26",
+        "time": "10:00",
+        "start": null,
+        "end": null,
+        "area": "",
+        "venue": "Ferndell Nature Trail, Fern Dell Dr, Los Angeles, CA 90027, USA",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "",
+        "tags": [],
+        "sources": [
+          "https://www.meetup.com/sole-sisters-hiking-group/events/317141144/"
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=Ferndell%20Nature%20Trail%2C%20Fern%20Dell%20Dr%2C%20Los%20Angeles%2C%20CA%2090027%2C%20USA",
+          "apple": "https://maps.apple.com/?q=Ferndell%20Nature%20Trail%2C%20Fern%20Dell%20Dr%2C%20Los%20Angeles%2C%20CA%2090027%2C%20USA"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-10-26-sports-urban-hike-with-stairs-mt-wash-d8d4ed",
+        "eid": "urban-hike-with-stairs-m-5169",
+        "track": "sports",
+        "category": "",
+        "name": "Urban Hike with Stairs, Mt Washington, Moderate + level",
+        "day": "Mon",
+        "date": "2026-10-26",
+        "time": "18:00",
+        "start": null,
+        "end": null,
+        "area": "",
+        "venue": "Aragon Avenue elementary School, 1118 Aragon Avenue ,",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "",
+        "tags": [],
+        "sources": [
+          "https://www.meetup.com/los-angeles-hiking-group/events/317139223/"
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=Aragon%20Avenue%20elementary%20School%2C%201118%20Aragon%20Avenue%20%2C",
+          "apple": "https://maps.apple.com/?q=Aragon%20Avenue%20elementary%20School%2C%201118%20Aragon%20Avenue%20%2C"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-10-26-sports-co-ed-pickup-soccer-los-angele-5cda2a",
+        "eid": "co-ed-pickup-soccer-los-f91b",
+        "track": "sports",
+        "category": "",
+        "name": "Co-Ed Pickup Soccer Los Angeles (Koreatown)",
+        "day": "Tue",
+        "date": "2026-10-27",
+        "time": "21:15",
+        "start": null,
+        "end": null,
+        "area": "",
+        "venue": "Koreatown, Parking lot, 3250 San Marino St",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "",
+        "tags": [],
+        "sources": [
+          "https://www.meetup.com/los-angeles-soccer-meetup-group-pezo/events/316892955/"
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=Koreatown%2C%20Parking%20lot%2C%203250%20San%20Marino%20St",
+          "apple": "https://maps.apple.com/?q=Koreatown%2C%20Parking%20lot%2C%203250%20San%20Marino%20St"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-10-26-sports-the-night-skate-downtown-los-a-2b8ae9",
+        "eid": "the-night-skate-downtown-9268",
+        "track": "sports",
+        "category": "",
+        "name": "The Night Skate - Downtown Los Angeles",
+        "day": "Tue",
+        "date": "2026-10-27",
+        "time": "20:00",
+        "start": null,
+        "end": null,
+        "area": "",
+        "venue": "Weller Court, 123 Astronaut Ellison S Onizuka Street,",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "",
+        "tags": [],
+        "sources": [
+          "https://www.meetup.com/socalinline/events/316892424/"
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=Weller%20Court%2C%20123%20Astronaut%20Ellison%20S%20Onizuka%20Street%2C",
+          "apple": "https://maps.apple.com/?q=Weller%20Court%2C%20123%20Astronaut%20Ellison%20S%20Onizuka%20Street%2C"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-10-26-sports-sierra-club-griffith-park-tues-968574",
+        "eid": "sierra-club-griffith-par-0f4f",
+        "track": "sports",
+        "category": "",
+        "name": "Sierra Club Griffith Park Tuesday Evening Hikes",
+        "day": "Tue",
+        "date": "2026-10-27",
+        "time": "19:00",
+        "start": null,
+        "end": null,
+        "area": "",
+        "venue": "Merry Go Round Lot Two",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "",
+        "tags": [],
+        "sources": [
+          "https://www.meetup.com/sierra-club-griffith-park-hikes/events/316680803/"
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=Merry%20Go%20Round%20Lot%20Two",
+          "apple": "https://maps.apple.com/?q=Merry%20Go%20Round%20Lot%20Two"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-10-26-sports-sierra-club-griffith-park-thur-72fd56",
+        "eid": "sierra-club-griffith-par-5f47",
+        "track": "sports",
+        "category": "",
+        "name": "Sierra Club Griffith Park Thursday Evening Hikes",
+        "day": "Thu",
+        "date": "2026-10-29",
+        "time": "19:00",
+        "start": null,
+        "end": null,
+        "area": "",
+        "venue": "Merry Go Round Lot Two",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "",
+        "tags": [],
+        "sources": [
+          "https://www.meetup.com/sierra-club-griffith-park-hikes/events/316710228/"
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=Merry%20Go%20Round%20Lot%20Two",
+          "apple": "https://maps.apple.com/?q=Merry%20Go%20Round%20Lot%20Two"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-10-26-sports-bake-stuff-with-lindsay-live-b-cf108c",
+        "eid": "bake-stuff-with-lindsay-95ca",
+        "track": "sports",
+        "category": "",
+        "name": "Bake Stuff with Lindsay - Live Baking/Comedy Show + Dessert",
+        "day": "Fri",
+        "date": "2026-10-30",
+        "time": "19:30",
+        "start": null,
+        "end": null,
+        "area": "",
+        "venue": "Cheerio Collective, 5917 N Figueroa St, Los Angeles, CA 90042, USA",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "",
+        "tags": [],
+        "sources": [
+          "https://www.meetup.com/40plus/events/316860751/"
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=Cheerio%20Collective%2C%205917%20N%20Figueroa%20St%2C%20Los%20Angeles%2C%20CA%2090042%2C%20USA",
+          "apple": "https://maps.apple.com/?q=Cheerio%20Collective%2C%205917%20N%20Figueroa%20St%2C%20Los%20Angeles%2C%20CA%2090042%2C%20USA"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-10-26-sports-12-peak-challenge-griffith-par-4541e3",
+        "eid": "12-peak-challenge-griffi-8852",
+        "track": "sports",
+        "category": "",
+        "name": "12 Peak Challenge Griffith Park",
+        "day": "Sat",
+        "date": "2026-10-31",
+        "time": "05:30",
+        "start": null,
+        "end": null,
+        "area": "",
+        "venue": "Griffith Park un, 4730 Crystal Springs Dr, Los Angeles, CA 90027",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "",
+        "tags": [],
+        "sources": [
+          "https://www.meetup.com/runners-revolution/events/317083484/"
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=Griffith%20Park%20un%2C%204730%20Crystal%20Springs%20Dr%2C%20Los%20Angeles%2C%20CA%2090027",
+          "apple": "https://maps.apple.com/?q=Griffith%20Park%20un%2C%204730%20Crystal%20Springs%20Dr%2C%20Los%20Angeles%2C%20CA%2090027"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-10-26-sports-2026-pickleball-lovers-come-jo-55ea94",
+        "eid": "2026-pickleball-lovers-c-bffd",
+        "track": "sports",
+        "category": "",
+        "name": "2026 Pickleball Lovers!! Come Join Our \"Social Dinkers\" Pickleball Community!",
+        "day": "Sat",
+        "date": "2026-10-31",
+        "time": "08:00",
+        "start": null,
+        "end": null,
+        "area": "",
+        "venue": "6333 W 3rd St, Los Angeles, CA 90036, 6333 W 3rd St, Los Angeles, CA 90036",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "",
+        "tags": [],
+        "sources": [
+          "https://www.meetup.com/meetup-group-axugemky/events/316242348/"
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=6333%20W%203rd%20St%2C%20Los%20Angeles%2C%20CA%2090036%2C%206333%20W%203rd%20St%2C%20Los%20Angeles%2C%20CA%2090036",
+          "apple": "https://maps.apple.com/?q=6333%20W%203rd%20St%2C%20Los%20Angeles%2C%20CA%2090036%2C%206333%20W%203rd%20St%2C%20Los%20Angeles%2C%20CA%2090036"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-10-26-sports-best-saturday-pickup-max-9-x-9-a0b8c7",
+        "eid": "best-saturday-pickup-max-5957",
+        "track": "sports",
+        "category": "",
+        "name": "Best Saturday Pickup max 9 x 9- Playa Vista- Big Goals, Goalies",
+        "day": "Sat",
+        "date": "2026-10-31",
+        "time": "08:30",
+        "start": null,
+        "end": null,
+        "area": "",
+        "venue": "Playa Vista Bluff Creek Soccer Field, 12702 W. Bluff Creek Dr.   90094",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "",
+        "tags": [],
+        "sources": [
+          "https://www.meetup.com/playa-vista-pickup/events/316941456/"
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=Playa%20Vista%20Bluff%20Creek%20Soccer%20Field%2C%2012702%20W.%20Bluff%20Creek%20Dr.%20%20%2090094",
+          "apple": "https://maps.apple.com/?q=Playa%20Vista%20Bluff%20Creek%20Soccer%20Field%2C%2012702%20W.%20Bluff%20Creek%20Dr.%20%20%2090094"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-10-26-sports-best-saturday-pickup-max-9-x-9-b9bd13",
+        "eid": "best-saturday-pickup-max-0a01",
+        "track": "sports",
+        "category": "",
+        "name": "Best Saturday Pickup max 9 x 9 Turf Field Playa Vista Goalies/Big Goals",
+        "day": "Sat",
+        "date": "2026-10-31",
+        "time": "08:30",
+        "start": null,
+        "end": null,
+        "area": "",
+        "venue": "Playa Vista Bluff Creek Soccer Field, 12702 W. Bluff Creek Dr.   90094",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "",
+        "tags": [],
+        "sources": [
+          "https://www.meetup.com/playa-vista-soccer-pickup/events/316941457/"
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=Playa%20Vista%20Bluff%20Creek%20Soccer%20Field%2C%2012702%20W.%20Bluff%20Creek%20Dr.%20%20%2090094",
+          "apple": "https://maps.apple.com/?q=Playa%20Vista%20Bluff%20Creek%20Soccer%20Field%2C%2012702%20W.%20Bluff%20Creek%20Dr.%20%20%2090094"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-10-26-sports-co-ed-pickup-soccer-los-angele-f9453f",
+        "eid": "co-ed-pickup-soccer-los-284e",
+        "track": "sports",
+        "category": "",
+        "name": "Co-Ed Pickup Soccer Los Angeles (Exposition Park)",
+        "day": "Sat",
+        "date": "2026-10-31",
+        "time": "16:50",
+        "start": null,
+        "end": null,
+        "area": "",
+        "venue": "Exposition Park, 700 Exposition Park Dr",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "",
+        "tags": [],
+        "sources": [
+          "https://www.meetup.com/los-angeles-soccer-meetup-group-pezo/events/316941437/"
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=Exposition%20Park%2C%20700%20Exposition%20Park%20Dr",
+          "apple": "https://maps.apple.com/?q=Exposition%20Park%2C%20700%20Exposition%20Park%20Dr"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-10-26-sports-co-ed-pickup-soccer-los-angele-2ecd44",
+        "eid": "co-ed-pickup-soccer-los-2605",
+        "track": "sports",
+        "category": "",
+        "name": "Co-Ed Pickup Soccer Los Angeles (Playa Vista)",
+        "day": "Sat",
+        "date": "2026-10-31",
+        "time": "10:45",
+        "start": null,
+        "end": null,
+        "area": "",
+        "venue": "Playa Vista",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "",
+        "tags": [],
+        "sources": [
+          "https://www.meetup.com/los-angeles-soccer-meetup-group-pezo/events/316937864/"
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=Playa%20Vista",
+          "apple": "https://maps.apple.com/?q=Playa%20Vista"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-10-26-sports-culver-city-fall-classic-stair-7137b4",
+        "eid": "culver-city-fall-classic-1de4",
+        "track": "sports",
+        "category": "",
+        "name": "Culver City : Fall Classic Stair Hike #4 - 6 miles, 3 hours",
+        "day": "Sat",
+        "date": "2026-10-31",
+        "time": "08:00",
+        "start": null,
+        "end": null,
+        "area": "",
+        "venue": "4830 Don Alberto Pl, 4830 Don Alberto Pl, Los Angeles, CA 90008, USA",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "",
+        "tags": [],
+        "sources": [
+          "https://www.meetup.com/iwanttodothat/events/316785039/",
+          "https://www.meetup.com/wilderness-travel-course-meetup/events/316775310/"
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=4830%20Don%20Alberto%20Pl%2C%204830%20Don%20Alberto%20Pl",
+          "apple": "https://maps.apple.com/?q=4830%20Don%20Alberto%20Pl%2C%204830%20Don%20Alberto%20Pl"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-10-26-sports-explore-griffith-park-9002b1",
+        "eid": "explore-griffith-park-e26e",
+        "track": "sports",
+        "category": "",
+        "name": "Explore Griffith Park",
+        "day": "Sat",
+        "date": "2026-10-31",
+        "time": "16:00",
+        "start": null,
+        "end": null,
+        "area": "",
+        "venue": "Griffith Park Merry Go Round Lot 2, Merry Go Round Lot Two",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "",
+        "tags": [],
+        "sources": [
+          "https://www.meetup.com/los-angeles-hiking-group/events/316941120/"
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=Griffith%20Park%20Merry%20Go%20Round%20Lot%202%2C%20Merry%20Go%20Round%20Lot%20Two",
+          "apple": "https://maps.apple.com/?q=Griffith%20Park%20Merry%20Go%20Round%20Lot%202%2C%20Merry%20Go%20Round%20Lot%20Two"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-10-26-sports-cypress-park-to-the-la-river-5-d9e483",
+        "eid": "cypress-park-to-the-la-r-e020",
+        "track": "sports",
+        "category": "",
+        "name": "Cypress Park to the LA River 5K + Coffee",
+        "day": "Sun",
+        "date": "2026-11-01",
+        "time": "07:00",
+        "start": null,
+        "end": null,
+        "area": "",
+        "venue": "1802 Coffee Roasters, 1206 Cypress Avenue",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "",
+        "tags": [],
+        "sources": [
+          "https://www.meetup.com/cypress-park-mt-washington-run-club/events/316947635/"
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=1802%20Coffee%20Roasters%2C%201206%20Cypress%20Avenue",
+          "apple": "https://maps.apple.com/?q=1802%20Coffee%20Roasters%2C%201206%20Cypress%20Avenue"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-10-26-sports-pkla-tba-9262b8",
+        "eid": "pkla-tba-32ef",
+        "track": "sports",
+        "category": "",
+        "name": "PKLA ~ TBA",
+        "day": "Sun",
+        "date": "2026-11-01",
+        "time": "10:00",
+        "start": null,
+        "end": null,
+        "area": "",
+        "venue": "Los Angeles",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "",
+        "tags": [],
+        "sources": [
+          "https://www.meetup.com/parkourla/events/316950649/"
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=Los%20Angeles",
+          "apple": "https://maps.apple.com/?q=Los%20Angeles"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
         "active": true
       }
     ]
