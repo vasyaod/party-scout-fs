@@ -8188,7 +8188,7 @@
         "id": "2026-11-02-music-sha-ray-dj-haram-critical-thot-ec87ad",
         "eid": "sha-ray-dj-haram-critica-9bb7",
         "track": "music",
-        "category": "",
+        "category": "Concert",
         "name": "Sha Ray & DJ Haram: Critical Thot Live w/Discnogirl, Ari B",
         "day": "Sat",
         "date": "2026-11-07",
@@ -8197,19 +8197,28 @@
         "end": "02:00",
         "area": "San Francisco",
         "venue": "Underground",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "424 Haight St, San Francisco, CA 94117, United States",
+        "why": "To catch energetic live sets from boundary-pushing DJs and performers.",
+        "summary": "Live show on November 7, 2026 at 424 Haight St featuring Sha Ray and DJ Haram with Discnogirl and Ari B; tickets are $12–$20.",
         "promoter": "",
-        "price": "",
-        "tags": [],
+        "price": "$12–$20",
+        "tags": [
+          "live",
+          "dj",
+          "electronic",
+          "hip-hop",
+          "ticketed"
+        ],
         "sources": [
           {
             "url": "https://19hz.info/eventlisting_BayArea.php",
             "hidden": true
-          }
+          },
+          "https://ra.co/events/2562867"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://ra.co/events/2562867"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Underground%2C%20San%20Francisco",
           "apple": "https://maps.apple.com/?q=Underground%2C%20San%20Francisco"
@@ -8218,35 +8227,41 @@
         "coords_precise": false,
         "ra": {},
         "image": "https://api.party-scout.app/img/san-francisco/2026-11-02/sha-ray-dj-haram-critica-9bb7.jpg",
-        "image_generated": true,
+        "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
         "id": "2026-11-02-music-voon-54-a-studio-54-harvest-pa-2497e3",
         "eid": "voon-54-a-studio-54-harv-ab49",
         "track": "music",
-        "category": "",
+        "category": "Nightclub",
         "name": "VOON 54: A Studio 54 Harvest Party",
         "day": "Sat",
         "date": "2026-11-07",
         "time": "19:00",
-        "start": null,
-        "end": null,
+        "start": "19:00",
+        "end": "23:00",
         "area": "San Francisco",
         "venue": "W San Francisco",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "24 Willie Mays Plaza, San Francisco, CA 94107",
+        "why": "For a Studio 54–inspired disco night and vintage dance-floor vibes.",
+        "summary": "VOON 54: A Studio 54 Harvest Party is a themed dance event taking place at 24 Willie Mays Plaza in SoMa on November 7, 2026. Admission is $18.",
         "promoter": "",
-        "price": "",
-        "tags": [],
+        "price": "$18",
+        "tags": [
+          "disco",
+          "dance",
+          "party",
+          "dj"
+        ],
         "sources": [
           {
             "url": "https://dothebay.com/events/2026/11/7",
             "hidden": true
-          }
+          },
+          "https://dothebay.com/events/2026/11/7/voon-54-a-studio-54-harvest-party-with-voon-wines-tickets"
         ],
         "tickets": [],
         "maps": {
@@ -8257,9 +8272,9 @@
         "coords_precise": false,
         "ra": {},
         "image": "https://api.party-scout.app/img/san-francisco/2026-11-02/voon-54-a-studio-54-harv-ab49.jpg",
-        "image_generated": true,
+        "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
@@ -8273,14 +8288,18 @@
         "time": "Fri: 7pm-Sun: 2am",
         "start": "19:00",
         "end": "02:00",
-        "area": "San Francisco",
+        "area": "SF",
         "venue": "TBA",
         "address": "",
-        "why": "",
-        "summary": "",
+        "why": "To attend a local SF event that evening and see what unfolds.",
+        "summary": "Polar Inertia is scheduled in San Francisco on November 8, 2026; venue, time, and lineup have not been announced.",
         "promoter": "",
         "price": "",
-        "tags": [],
+        "tags": [
+          "nightlife",
+          "event",
+          "unknown"
+        ],
         "sources": [
           {
             "url": "https://19hz.info/eventlisting_BayArea.php",
@@ -8298,7 +8317,7 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
@@ -8769,26 +8788,37 @@
         "id": "2026-11-02-sports-bionic5k-1mile-50c289",
         "eid": "bionic5k-1mile-9366",
         "track": "sports",
-        "category": "",
+        "category": "Sports",
         "name": "Bionic5K & 1Mile",
         "day": "Sun",
         "date": "2026-11-08",
-        "time": "",
-        "start": null,
+        "time": "8:30am",
+        "start": "08:30",
         "end": null,
-        "area": "San Francisco",
-        "venue": "San Francisco",
-        "address": "",
-        "why": "",
-        "summary": "",
-        "promoter": "",
+        "area": "Presidio",
+        "venue": "Crissy Field",
+        "address": "1199 East Beach, San Francisco, CA",
+        "why": "Run or walk the waterfront alongside adaptive athletes in a welcoming, celebratory atmosphere.",
+        "summary": "Inclusive community race at Crissy Field with a certified 5K and a 1-mile option, co-hosted by the Challenged Athletes Foundation and the Bionic Project.",
+        "promoter": "Challenged Athletes Foundation",
         "price": "",
-        "tags": [],
+        "tags": [
+          "run",
+          "race",
+          "outdoor",
+          "5k",
+          "1-mile",
+          "adaptive",
+          "charity",
+          "family-friendly"
+        ],
         "sources": [
           {
             "url": "https://www.runguides.com/san-francisco/runs",
             "hidden": true
-          }
+          },
+          "https://www.findtherun.com/race/135877/bionic-5k-1mile",
+          "https://www.challengedathletes.org/events/norcal-bionic-mile/"
         ],
         "tickets": [],
         "maps": {
@@ -8801,7 +8831,7 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
