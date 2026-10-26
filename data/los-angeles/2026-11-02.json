@@ -4706,25 +4706,32 @@
         "id": "2026-11-02-music-a-conversation-with-boys-noize-fcc244",
         "eid": "a-conversation-with-boys-34a7",
         "track": "music",
-        "category": "",
+        "category": "Talk",
         "name": "A Conversation with Boys Noize",
         "day": "Mon",
         "date": "2026-11-02",
         "time": "19:30",
-        "start": null,
-        "end": null,
-        "area": "",
+        "start": "19:30",
+        "end": "21:00",
+        "area": "Los Angeles",
         "venue": "The Grammy Museum at L.A. Live",
         "address": "800 West Olympic Boulevard, Los Angeles, CA 90015",
-        "why": "",
-        "summary": "",
+        "why": "To hear insights into electronic music production and career stories from a leading producer.",
+        "summary": "An onstage conversation with electronic producer Boys Noize on November 2, 2026 in Los Angeles.",
         "promoter": "",
         "price": "38.24",
-        "tags": [],
+        "tags": [
+          "electronic",
+          "talk",
+          "q&a",
+          "live"
+        ],
         "sources": [
           "https://ra.co/events/2566109"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://ra.co/events/2566109"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=800%20West%20Olympic%20Boulevard%2C%20Los%20Angeles%2C%20CA%2090015",
           "apple": "https://maps.apple.com/?q=800%20West%20Olympic%20Boulevard%2C%20Los%20Angeles%2C%20CA%2090015"
@@ -4735,7 +4742,7 @@
         "image": "https://images.ra.co/bacc54f1519fe093e429ba5e10acac375c5fb5ff.png",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true,
         "lineup": [
           {
@@ -4748,24 +4755,34 @@
         "id": "2026-11-02-music-itai-535e38",
         "eid": "itai-521d",
         "track": "music",
-        "category": "",
+        "category": "Concert",
         "name": "ITAI",
         "day": "Thu",
         "date": "2026-11-05",
-        "time": "",
-        "start": null,
-        "end": null,
+        "time": "8–11pm",
+        "start": "20:00",
+        "end": "23:00",
         "area": "Los Angeles",
         "venue": "Zula Den",
         "address": "",
-        "why": "",
-        "summary": "",
+        "why": "A listening-focused Thursday night at a small Mid-City venue, with an 8–11pm window that leaves the rest of the evening free.",
+        "summary": "ITAI plays Zula Den on Thursday night as part of The Residency series (Vol. 48, A Prayer For Trust, with The Choir).",
         "promoter": "",
-        "price": "",
-        "tags": [],
+        "price": "$34–$44",
+        "tags": [
+          "live",
+          "paid",
+          "evening",
+          "electronic",
+          "thursday"
+        ],
         "sources": [
           {
             "url": "https://edmtrain.com/los-angeles-ca",
+            "hidden": true
+          },
+          {
+            "url": "https://19hz.info/eventlisting_LosAngeles.php",
             "hidden": true
           }
         ],
@@ -4780,14 +4797,14 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
         "id": "2026-11-02-music-3000thirty-dj-paypal-joe-nice-27993d",
         "eid": "3000thirty-dj-paypal-joe-1971",
         "track": "music",
-        "category": "",
+        "category": "Nightclub",
         "name": "3000thirty: DJ Paypal, Joe Nice",
         "day": "Fri",
         "date": "2026-11-06",
@@ -4797,18 +4814,25 @@
         "area": "DTLA/Los Angeles",
         "venue": "TBA",
         "address": "",
-        "why": "",
-        "summary": "",
+        "why": "For a high-energy DJ showcase in Los Angeles.",
+        "summary": "A DJ night on November 6, 2026 in Los Angeles featuring DJ Paypal and Joe Nice. Tickets are listed at $25–$40.",
         "promoter": "",
-        "price": "",
-        "tags": [],
+        "price": "$25–$40",
+        "tags": [
+          "dj",
+          "electronic",
+          "paid"
+        ],
         "sources": [
           {
             "url": "https://19hz.info/eventlisting_LosAngeles.php",
             "hidden": true
-          }
+          },
+          "https://ra.co/events/2561670"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://ra.co/events/2561670"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=DTLA/Los%20Angeles",
           "apple": "https://maps.apple.com/?q=DTLA/Los%20Angeles"
@@ -4816,17 +4840,17 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/los-angeles/2026-11-02/3000thirty-dj-paypal-joe-1971.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
         "id": "2026-11-02-music-bad-snacks-neat-tape-3-release-eff57a",
         "eid": "bad-snacks-neat-tape-3-r-1d2a",
         "track": "music",
-        "category": "",
+        "category": "Nightclub",
         "name": "Bad Snacks [Neat Tape 3 Release Party] w/Treetalking, BB Shaine & Elyse Vox, OK REZA, Smax, Surprise Set",
         "day": "Fri",
         "date": "2026-11-06",
@@ -4835,19 +4859,27 @@
         "end": "02:00",
         "area": "Los Angeles",
         "venue": "The Virgil",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "4519 Santa Monica Blvd, Los Angeles, CA 90029",
+        "why": "Hear new-release sets and a stacked multi-artist bill including an unannounced surprise performance.",
+        "summary": "Release party for Neat Tape 3 featuring Bad Snacks with Treetalking, BB Shaine & Elyse Vox, OK REZA, Smax, and a surprise set. Admission ranges from free to $20.",
         "promoter": "",
-        "price": "",
-        "tags": [],
+        "price": "Free–$20",
+        "tags": [
+          "dj",
+          "live",
+          "release",
+          "free"
+        ],
         "sources": [
           {
             "url": "https://19hz.info/eventlisting_LosAngeles.php",
             "hidden": true
-          }
+          },
+          "https://ra.co/events/2562130"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://ra.co/events/2562130"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=The%20Virgil%2C%20Los%20Angeles",
           "apple": "https://maps.apple.com/?q=The%20Virgil%2C%20Los%20Angeles"
@@ -4855,10 +4887,10 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/los-angeles/2026-11-02/bad-snacks-neat-tape-3-r-1d2a.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
@@ -5376,21 +5408,29 @@
         "id": "2026-11-02-sports-co-ed-pickup-soccer-los-angele-965a19",
         "eid": "co-ed-pickup-soccer-los-ae73",
         "track": "sports",
-        "category": "",
+        "category": "Sports",
         "name": "Co-Ed Pickup Soccer Los Angeles (Playa Vista)",
         "day": "Thu",
         "date": "2026-11-05",
         "time": "18:15",
-        "start": null,
-        "end": null,
-        "area": "",
+        "start": "18:15",
+        "end": "19:15",
+        "area": "Playa Vista",
         "venue": "Playa Vista",
         "address": "Los Angeles, CA",
-        "why": "",
-        "summary": "",
+        "why": "An easy, no-team-needed way to get a Thursday-evening game in on the Westside and meet other players.",
+        "summary": "Co-ed pickup soccer in Playa Vista, 6:15–7:15 PM, run by the LA Soccer Meetup Group, which hosts games every day on 10+ fields around LA.",
         "promoter": "",
-        "price": "",
-        "tags": [],
+        "price": "$11.99 (cash at the field)",
+        "tags": [
+          "sports",
+          "outdoor",
+          "coed",
+          "pickup",
+          "soccer",
+          "co-ed",
+          "meetup"
+        ],
         "sources": [
           "https://www.meetup.com/los-angeles-soccer-meetup-group-pezo/events/317020608/"
         ],
@@ -5405,7 +5445,7 @@
         "image": "https://secure-content.meetupstatic.com/images/classic-events/507971689/676x676.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {

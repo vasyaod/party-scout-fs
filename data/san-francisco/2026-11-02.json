@@ -7592,23 +7592,27 @@
         "time": "22:00",
         "start": null,
         "end": null,
-        "area": "San Francisco",
+        "area": "Mission",
         "venue": "The Valencia Room",
-        "address": "88 5th Street, San Francisco, CA 94103",
-        "why": "To get out for a downtown music night in SoMa.",
-        "summary": "An event titled \"So HOUSE Your Evening So Far?\" is scheduled for November 2, 2026 at 88 5th Street, San Francisco.",
+        "address": "647 Valencia St, San Francisco, CA 94110",
+        "why": "A free, no-cover house music night to start the week in the Mission.",
+        "summary": "Weekly Monday house night at The Valencia Room with free entry all night and a free RSVP guest list. Focus on community, dancing and connections.",
         "promoter": "",
-        "price": "",
+        "price": "Free",
         "tags": [
           "house",
           "dj",
-          "nightlife"
+          "nightlife",
+          "free",
+          "monday",
+          "dance"
         ],
         "sources": [
           {
             "url": "https://dothebay.com/events/2026/11/2",
             "hidden": true
-          }
+          },
+          "https://app.discotech.me/events/38112297-so-house-your-evening-so-far-at-the-valencia-room"
         ],
         "tickets": [],
         "maps": {
@@ -7628,26 +7632,31 @@
         "id": "2026-11-02-music-disco-taco-tuesday-at-underdog-d66bf4",
         "eid": "disco-taco-tuesday-at-un-d9c4",
         "track": "music",
-        "category": "",
+        "category": "Nightclub",
         "name": "Disco Taco Tuesday at Underdogs",
         "day": "Tue",
         "date": "2026-11-03",
-        "time": "",
-        "start": null,
-        "end": null,
+        "time": "7:30–10pm",
+        "start": "19:30",
+        "end": "22:00",
         "area": "San Francisco",
         "venue": "Underdogs Cantina",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "128 King St., San Francisco, CA",
+        "why": "For a relaxed weeknight of tacos and danceable disco-era music.",
+        "summary": "Disco Taco Tuesday at Underdogs is a themed Tuesday night at 128 King St., San Francisco on Nov. 3, 2026, running 7:30–10pm.",
         "promoter": "",
         "price": "FREE",
-        "tags": [],
+        "tags": [
+          "disco",
+          "dj",
+          "food"
+        ],
         "sources": [
           {
             "url": "https://sf.funcheap.com",
             "hidden": true
-          }
+          },
+          "https://sf.funcheap.com/1-margaritas-disco-taco-tuesday-at-underdogs-soma-121/"
         ],
         "tickets": [],
         "maps": {
@@ -7657,17 +7666,17 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/san-francisco/2026-11-02/disco-taco-tuesday-at-un-d9c4.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
         "id": "2026-11-02-music-climax-3rd-anniversary-w-steve-2f3007",
         "eid": "climax-3rd-anniversary-w-8cdd",
         "track": "music",
-        "category": "",
+        "category": "Nightclub",
         "name": "Climax 3rd Anniversary w/ Steve Fabus",
         "day": "Thu",
         "date": "2026-11-05",
@@ -7676,19 +7685,27 @@
         "end": "00:00",
         "area": "San Francisco",
         "venue": "Aunt Charlie's Lounge",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "133 Turk St, San Francisco, CA 94102, United States",
+        "why": "To dance at a downtown anniversary DJ night.",
+        "summary": "Climax celebrates its 3rd anniversary with Steve Fabus on November 5, 2026 at 133 Turk St in San Francisco; $10 cover.",
         "promoter": "",
-        "price": "",
-        "tags": [],
+        "price": "$10",
+        "tags": [
+          "dj",
+          "house",
+          "party",
+          "anniversary"
+        ],
         "sources": [
           {
             "url": "https://19hz.info/eventlisting_BayArea.php",
             "hidden": true
-          }
+          },
+          "https://ra.co/events/2557517"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://ra.co/events/2557517"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Aunt%20Charlie%27s%20Lounge%2C%20San%20Francisco",
           "apple": "https://maps.apple.com/?q=Aunt%20Charlie%27s%20Lounge%2C%20San%20Francisco"
@@ -7696,36 +7713,42 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/san-francisco/2026-11-02/climax-3rd-anniversary-w-8cdd.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
         "id": "2026-11-02-music-crazy-karaoke-thursday-night-p-ad1807",
         "eid": "crazy-karaoke-thursday-n-685f",
         "track": "music",
-        "category": "",
+        "category": "Nightclub",
         "name": "Crazy Karaoke Thursday Night Party",
         "day": "Thu",
         "date": "2026-11-05",
-        "time": "",
-        "start": null,
-        "end": null,
+        "time": "9pm–2am",
+        "start": "21:00",
+        "end": "02:00",
         "area": "San Francisco",
         "venue": "SF",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "1414 Market Street, San Francisco, CA",
+        "why": "To sing late-night crowd-pleasers with friends in a lively Thursday-night atmosphere.",
+        "summary": "A karaoke night called Crazy Karaoke Thursday Night Party takes place on November 5, 2026 at 1414 Market Street, San Francisco, running 9pm–2am.",
         "promoter": "",
         "price": "FREE",
-        "tags": [],
+        "tags": [
+          "karaoke",
+          "singalong",
+          "late-night",
+          "party"
+        ],
         "sources": [
           {
             "url": "https://sf.funcheap.com",
             "hidden": true
-          }
+          },
+          "https://sf.funcheap.com/crazy-karaoke-sfs-wild-new-thursday-night-party-3-shots-sf-5/"
         ],
         "tickets": [],
         "maps": {
@@ -7735,10 +7758,10 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/san-francisco/2026-11-02/crazy-karaoke-thursday-n-685f.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
@@ -8591,16 +8614,23 @@
         "day": "Wed",
         "date": "2026-11-04",
         "time": "17:30",
-        "start": null,
-        "end": null,
-        "area": "",
+        "start": "17:30",
+        "end": "19:30",
+        "area": "Golden Gate Park",
         "venue": "San Francisco Lawn Bowling Club, Bowling Green Drive",
         "address": "Bowling Green Drive, San Francisco, CA",
-        "why": "",
-        "summary": "",
+        "why": "A relaxed, beginner-friendly after-work outdoor game on a historic green with no cost to join.",
+        "summary": "Weekly Wednesday evening draw game of lawn bowling at the San Francisco Lawn Bowling Club, running 5:30–7:30 pm.",
         "promoter": "",
-        "price": "",
-        "tags": [],
+        "price": "Free",
+        "tags": [
+          "event",
+          "san-francisco",
+          "lawn bowling",
+          "outdoors",
+          "social",
+          "sports"
+        ],
         "sources": [
           "https://www.meetup.com/pimd-lawn-bowling-bay-area/events/317004390/"
         ],
@@ -8612,10 +8642,10 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "https://secure-content.meetupstatic.com/images/classic-events/535741406/676x676.jpg",
+        "image": "https://api.party-scout.app/img/san-francisco/2026-11-02/wednesday-evening-bowls-3eee.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {

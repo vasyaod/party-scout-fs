@@ -10067,14 +10067,17 @@
         "area": "DTLA",
         "venue": "The Redwood Bar And Grill",
         "address": "316 W. 2nd Street, Los Angeles, CA  90012",
-        "why": "For a downtown night out and drinks in DTLA.",
-        "summary": "Migs Whiskey is scheduled for November 1, 2026 at 316 W. 2nd Street in Downtown Los Angeles.",
+        "why": "A low-key Sunday-night set at a long-running DTLA dive bar.",
+        "summary": "Migs Whiskey plays The Redwood Bar And Grill in Downtown LA on Sunday night, 8pm to 2am.",
         "promoter": "",
         "price": "",
         "tags": [
           "21+",
           "drinks",
-          "nightlife"
+          "nightlife",
+          "live music",
+          "dtla",
+          "dive bar"
         ],
         "sources": [
           "https://ra.co/events/2564262"
@@ -10139,25 +10142,32 @@
         "id": "2026-10-26-music-vernacular-new-music-dbaf87",
         "eid": "vernacular-new-music-eff8",
         "track": "music",
-        "category": "",
+        "category": "Concert",
         "name": "Vernacular New Music",
         "day": "Mon",
         "date": "2026-10-26",
         "time": "20:00",
-        "start": null,
-        "end": null,
-        "area": "",
+        "start": "20:00",
+        "end": "23:00",
+        "area": "Los Angeles",
         "venue": "Sun Space",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "9683 Sunland blvd, Shadow Hills, 91040",
+        "why": "To hear contemporary and experimental compositions not often programmed in mainstream venues.",
+        "summary": "A ticketed new-music concert on 2026-10-26 at 9683 Sunland Blvd in Shadow Hills, Los Angeles. Admission is $15.",
         "promoter": "",
-        "price": "",
-        "tags": [],
+        "price": "$15",
+        "tags": [
+          "new-music",
+          "experimental",
+          "live",
+          "ticketed"
+        ],
         "sources": [
           "https://ra.co/events/2567300"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://ra.co/events/2567300"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Sun%20Space",
           "apple": "https://maps.apple.com/?q=Sun%20Space"
@@ -10165,31 +10175,38 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/los-angeles/2026-10-26/vernacular-new-music-eff8.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
         "id": "2026-10-26-music-dnbnl-ivy-skepsis-yetti-b48527",
         "eid": "dnbnl-ivy-skepsis-yetti-9b2e",
         "track": "music",
-        "category": "",
+        "category": "club night",
         "name": "DNBNL: [IVY], Skepsis, Yetti",
         "day": "Wed",
         "date": "2026-10-28",
         "time": "",
         "start": null,
         "end": null,
-        "area": "",
+        "area": "DTLA",
         "venue": "The Catwalk Club",
         "address": "",
-        "why": "",
-        "summary": "",
+        "why": "Three drum and bass names on one midweek bill, with [IVY] known for modern 4x4 drum and bass.",
+        "summary": "A midweek drum and bass night at The Catwalk Club in downtown Los Angeles, with [IVY], Skepsis and Yetti on the bill.",
         "promoter": "",
         "price": "",
-        "tags": [],
+        "tags": [
+          "dj",
+          "drum-and-bass",
+          "electronic",
+          "drum and bass",
+          "dnb",
+          "club night"
+        ],
         "sources": [
           {
             "url": "https://edmtrain.com/los-angeles-ca",
@@ -10207,35 +10224,46 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
-        "active": true
+        "enriched": 1,
+        "active": true,
+        "lineup": []
       },
       {
         "id": "2026-10-26-music-dia-de-los-muertos-celebration-168a0c",
         "eid": "dia-de-los-muertos-celeb-40fb",
         "track": "music",
-        "category": "",
+        "category": "Festival",
         "name": "Dia de los Muertos Celebration @ City Club Los Angeles",
         "day": "Fri",
         "date": "2026-10-30",
         "time": "18:00",
         "start": null,
         "end": null,
-        "area": "",
+        "area": "DTLA",
         "venue": "City Club LA",
         "address": "",
-        "why": "",
-        "summary": "",
+        "why": "A Friday-night Day of the Dead party downtown, right before Halloween weekend.",
+        "summary": "Dia de los Muertos night at City Club LA in downtown Los Angeles, doors around 6 PM on Friday.",
         "promoter": "",
         "price": "",
-        "tags": [],
+        "tags": [
+          "holiday",
+          "cultural",
+          "community",
+          "latin",
+          "dia-de-los-muertos",
+          "downtown",
+          "friday"
+        ],
         "sources": [
           {
             "url": "https://www.eventbrite.com/d/ca--los-angeles/events/",
             "hidden": true
           }
         ],
-        "tickets": [],
+        "tickets": [
+          "https://www.eventbrite.com/d/ca--los-angeles/events/"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=City%20Club%20LA",
           "apple": "https://maps.apple.com/?q=City%20Club%20LA"
@@ -10246,28 +10274,33 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
         "id": "2026-10-26-music-7th-annual-haunted-disco-92f04f",
         "eid": "7th-annual-haunted-disco-f369",
         "track": "music",
-        "category": "",
+        "category": "Nightclub",
         "name": "7th Annual Haunted Disco",
         "day": "Sat",
         "date": "2026-10-31",
         "time": "21:00",
-        "start": null,
-        "end": null,
+        "start": "21:00",
+        "end": "02:00",
         "area": "Long Beach",
         "venue": "Ovation",
         "address": "",
-        "why": "",
-        "summary": "",
+        "why": "For a Halloween night of costumed dancing and themed party atmosphere.",
+        "summary": "The 7th Annual Haunted Disco is scheduled for October 31, 2026; tickets are listed at $23–28+.",
         "promoter": "",
-        "price": "",
-        "tags": [],
+        "price": "$23-28+",
+        "tags": [
+          "disco",
+          "halloween",
+          "dance",
+          "party"
+        ],
         "sources": [
           {
             "url": "https://19hz.info/eventlisting_LosAngeles.php",
@@ -10285,7 +10318,7 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
