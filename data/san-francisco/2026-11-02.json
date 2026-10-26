@@ -8053,23 +8053,31 @@
         "day": "Sat",
         "date": "2026-11-07",
         "time": "21:00",
-        "start": null,
-        "end": null,
+        "start": "21:00",
+        "end": "03:00",
         "area": "San Francisco",
         "venue": "Public Works",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "161 Erie Street, San Francisco, CA 94103, United States",
+        "why": "To catch a billed live night in SoMa for a $30 ticket.",
+        "summary": "An event billed as Dr. Gabba with Narciss on November 7, 2026 at 161 Erie Street in San Francisco; tickets are $30.",
         "promoter": "",
-        "price": "",
-        "tags": [],
+        "price": "$30",
+        "tags": [
+          "live",
+          "ticketed",
+          "nightlife"
+        ],
         "sources": [
           {
             "url": "https://dothebay.com/events/2026/11/7",
             "hidden": true
-          }
+          },
+          "https://ra.co/events/2534561",
+          "https://dothebay.com/events/2026/11/7/dr-gabba-narciss-dazegxd-presented-by-public-works-strapt-flux-aeterna-tickets"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://ra.co/events/2534561"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Public%20Works%2C%20San%20Francisco",
           "apple": "https://maps.apple.com/?q=Public%20Works%2C%20San%20Francisco"
@@ -8078,16 +8086,16 @@
         "coords_precise": false,
         "ra": {},
         "image": "https://api.party-scout.app/img/san-francisco/2026-11-02/dr-gabba-w-narciss-9031.jpg",
-        "image_generated": true,
+        "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
         "id": "2026-11-02-music-halo-varga-monoclick-omna-lei-a18be0",
         "eid": "halo-varga-monoclick-omn-9e00",
         "track": "music",
-        "category": "",
+        "category": "Concert",
         "name": "Halo Varga, Monoclick, Omna & Lei",
         "day": "Sat",
         "date": "2026-11-07",
@@ -8097,18 +8105,25 @@
         "area": "San Francisco",
         "venue": "TBA Chinatown",
         "address": "",
-        "why": "",
-        "summary": "",
+        "why": "To catch multiple acts on one ticketed night.",
+        "summary": "Halo Varga, Monoclick, Omna, and Lei are billed for a ticketed show in San Francisco on November 7, 2026. Tickets are listed from $15–$25.",
         "promoter": "",
-        "price": "",
-        "tags": [],
+        "price": "$15–$25",
+        "tags": [
+          "live",
+          "paid",
+          "nightlife"
+        ],
         "sources": [
           {
             "url": "https://19hz.info/eventlisting_BayArea.php",
             "hidden": true
-          }
+          },
+          "https://ra.co/events/2563568"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://ra.co/events/2563568"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=San%20Francisco",
           "apple": "https://maps.apple.com/?q=San%20Francisco"
@@ -8117,9 +8132,9 @@
         "coords_precise": false,
         "ra": {},
         "image": "https://api.party-scout.app/img/san-francisco/2026-11-02/halo-varga-monoclick-omn-9e00.jpg",
-        "image_generated": true,
+        "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
@@ -8135,19 +8150,27 @@
         "end": "03:00",
         "area": "San Francisco",
         "venue": "Madarae",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "46 Minna St, San Francisco, CA 94105, United States",
+        "why": "Affordable early-entry pricing and a central SoMa location for a night out.",
+        "summary": "Rivo on 2026-11-07 at 46 Minna St in SoMa, San Francisco. Tickets listed at $11.50 before 10:30pm and $17–34+ thereafter.",
         "promoter": "",
-        "price": "",
-        "tags": [],
+        "price": "$11.50 b4 1030 / $17-34+",
+        "tags": [
+          "soma",
+          "sf",
+          "nightlife",
+          "tickets"
+        ],
         "sources": [
           {
             "url": "https://19hz.info/eventlisting_BayArea.php",
             "hidden": true
-          }
+          },
+          "https://ra.co/events/2559719"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://ra.co/events/2559719"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Madarae%2C%20San%20Francisco",
           "apple": "https://maps.apple.com/?q=Madarae%2C%20San%20Francisco"
@@ -8156,9 +8179,9 @@
         "coords_precise": false,
         "ra": {},
         "image": "https://api.party-scout.app/img/san-francisco/2026-11-02/rivo-cad1.jpg",
-        "image_generated": true,
+        "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
@@ -8698,26 +8721,35 @@
         "id": "2026-11-02-sports-runthrough-san-francisco-at-cr-ff63e5",
         "eid": "runthrough-san-francisco-4a13",
         "track": "sports",
-        "category": "",
+        "category": "Sports",
         "name": "RunThrough San Francisco at Crissy Field 5k 10k & Half Marathon",
         "day": "Sat",
         "date": "2026-11-07",
-        "time": "",
-        "start": null,
+        "time": "8:00 AM",
+        "start": "08:00",
         "end": null,
         "area": "San Francisco",
         "venue": "Crissy Field",
         "address": "",
-        "why": "",
-        "summary": "",
-        "promoter": "",
-        "price": "",
-        "tags": [],
+        "why": "A fast, flat course with Golden Gate Bridge, Marin Headlands and Alcatraz views, with distances for first-timers and racers.",
+        "summary": "Saturday-morning road race on the flat Crissy Field waterfront with Golden Gate Bridge views. Choose the 5k, 10k or half marathon; the half starts at 8:00 AM, the 10k at 8:35 and the 5k at 8:45.",
+        "promoter": "RunThrough",
+        "price": "$47.25–$78.75",
+        "tags": [
+          "running",
+          "outdoor",
+          "fitness",
+          "5k",
+          "10k",
+          "half marathon",
+          "outdoors"
+        ],
         "sources": [
           {
             "url": "https://www.runguides.com/san-francisco/runs",
             "hidden": true
-          }
+          },
+          "https://www.endurancegrid.com/race/runthrough-san-francisco-at-crissy-field-5k-100k-half-ca-209258"
         ],
         "tickets": [],
         "maps": {
@@ -8730,7 +8762,7 @@
         "image": "https://api.party-scout.app/img/san-francisco/2026-11-02/runthrough-san-francisco-4a13.jpg",
         "image_generated": true,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {

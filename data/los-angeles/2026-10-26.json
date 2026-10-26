@@ -10325,21 +10325,28 @@
         "id": "2026-10-26-music-muzique-fridays-1875c3",
         "eid": "muzique-fridays-7af4",
         "track": "music",
-        "category": "",
+        "category": "Nightclub",
         "name": "MUZIQUE Fridays",
         "day": "Sat",
         "date": "2026-10-31",
         "time": "",
         "start": null,
         "end": null,
-        "area": "",
+        "area": "Koreatown",
         "venue": "Kiss Kiss Bang Bang",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "3531 Wilshire Blvd, Los Angeles, CA 90010",
+        "why": "A dance-floor-first night with roller disco skaters and a speakeasy setting, easy to drop into on a Halloween weekend.",
+        "summary": "MUZIQUE Fridays is the recurring dance night at Kiss Kiss Bang Bang, a Koreatown speakeasy-style club, with disco, house and nu-disco plus high-energy remixes of pop, hip-hop and Latin.",
         "promoter": "",
         "price": "",
-        "tags": [],
+        "tags": [
+          "dj",
+          "21+",
+          "dance",
+          "disco",
+          "house",
+          "speakeasy"
+        ],
         "sources": [
           {
             "url": "https://edmtrain.com/los-angeles-ca",
@@ -10357,7 +10364,7 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
@@ -11667,28 +11674,40 @@
         "id": "2026-10-26-sports-the-long-beach-halloween-run-h-51b014",
         "eid": "the-long-beach-halloween-51e4",
         "track": "sports",
-        "category": "",
+        "category": "Sports",
         "name": "The Long Beach Halloween Run Half Marathon",
         "day": "Sat",
         "date": "2026-10-31",
-        "time": "",
-        "start": null,
+        "time": "7:00 AM",
+        "start": "07:00",
         "end": null,
         "area": "Long Beach",
-        "venue": "Long Beach",
-        "address": "",
-        "why": "",
-        "summary": "",
-        "promoter": "",
-        "price": "",
-        "tags": [],
+        "venue": "Alamitos Beach",
+        "address": "780 E Shoreline Dr, Long Beach, CA",
+        "why": "A Halloween morning race on the beach path where costumes, dogs and strollers are all welcome.",
+        "summary": "Costume-friendly half marathon along the Long Beach shoreline with the Queen Mary as backdrop; 5K, 10K and a Kids Dash run alongside.",
+        "promoter": "CaliFlow Runs",
+        "price": "From $52.99",
+        "tags": [
+          "outdoor",
+          "fitness",
+          "run",
+          "race",
+          "running",
+          "halloween",
+          "half-marathon",
+          "outdoors"
+        ],
         "sources": [
           {
             "url": "https://www.runguides.com/los-angeles/runs",
             "hidden": true
-          }
+          },
+          "https://halfruns.com/races/california/the-long-beach-halloween-run-5k-10k-half-marathon-by-califlow-runs"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://runsignup.com/Race/CA/LongBeach/TheLongBeachHalloweenRun5K10KHalfMarathonByCaliflowRuns"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Long%20Beach%2C%20Long%20Beach",
           "apple": "https://maps.apple.com/?q=Long%20Beach%2C%20Long%20Beach"
@@ -11696,10 +11715,10 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/los-angeles/2026-10-26/the-long-beach-halloween-51e4.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
@@ -11757,26 +11776,37 @@
         "id": "2026-10-26-sports-whittier-spooktacular-5k-run-w-05a703",
         "eid": "whittier-spooktacular-5k-c957",
         "track": "sports",
-        "category": "",
+        "category": "Sports",
         "name": "Whittier Spooktacular 5K Run/Walk",
         "day": "Sat",
         "date": "2026-10-31",
-        "time": "",
+        "time": "8:00 AM",
         "start": null,
         "end": null,
         "area": "Whittier",
-        "venue": "Whittier",
-        "address": "",
-        "why": "",
-        "summary": "",
-        "promoter": "",
+        "venue": "Whittier Community Center",
+        "address": "Washington Ave, Whittier, CA",
+        "why": "A family-friendly costume run with a USATF-certified course, finisher medals and a post-race party that benefits local community work.",
+        "summary": "Halloween-morning 5K run/walk starting and ending at the Whittier Community Center, with a kids Creepy Crawly half-mile dash at 7:30, DJs on course, a costume contest, pancake breakfast and a 21+ beer garden.",
+        "promoter": "Whittier Community Foundation",
         "price": "",
-        "tags": [],
+        "tags": [
+          "running",
+          "fitness",
+          "outdoor",
+          "halloween",
+          "community",
+          "5k",
+          "family",
+          "costume",
+          "fundraiser"
+        ],
         "sources": [
           {
             "url": "https://www.runguides.com/los-angeles/runs",
             "hidden": true
-          }
+          },
+          "https://business.whittierchamber.com/events/details/spooktacular-5k-run-walk-and-creepy-crawly-1-2-mile-dash-20924"
         ],
         "tickets": [],
         "maps": {
@@ -11789,7 +11819,7 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {

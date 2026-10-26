@@ -4997,11 +4997,11 @@
         "time": "18:00",
         "start": null,
         "end": null,
-        "area": "Los Angeles",
-        "venue": "Gabba Gallery, 235 S Broadway",
-        "address": "",
-        "why": "To see a free art exhibition in DTLA.",
-        "summary": "Free DTLA exhibition “Wishlist 14” at Gabba Gallery presented under the Affordable Art Show name.",
+        "area": "DTLA",
+        "venue": "Gabba Gallery",
+        "address": "235 S. Broadway, Los Angeles, CA",
+        "why": "Free to enter, easy on the wallet, and you can take a piece home the same night.",
+        "summary": "Gabba Gallery's annual affordable group show, Wishlist 14, with dozens of LA artists selling original work at accessible prices in a grab-and-go format.",
         "promoter": "",
         "price": "Free",
         "tags": [
@@ -5009,7 +5009,8 @@
           "art",
           "exhibition",
           "gallery",
-          "dtla"
+          "dtla",
+          "downtown"
         ],
         "sources": [
           {
@@ -5037,7 +5038,7 @@
         "id": "2026-11-02-music-electrik-seoul-96948f",
         "eid": "electrik-seoul-899a",
         "track": "music",
-        "category": "",
+        "category": "Nightclub",
         "name": "Electrik Seoul",
         "day": "Sat",
         "date": "2026-11-07",
@@ -5047,11 +5048,15 @@
         "area": "Los Angeles",
         "venue": "Exchange",
         "address": "",
-        "why": "",
-        "summary": "",
+        "why": "Good for an affordable night out in LA.",
+        "summary": "A ticketed Los Angeles event on November 7, 2026 with $20 admission. Venue and lineup were not listed.",
         "promoter": "",
-        "price": "",
-        "tags": [],
+        "price": "$20",
+        "tags": [
+          "ticketed",
+          "nightlife",
+          "electronic"
+        ],
         "sources": [
           {
             "url": "https://19hz.info/eventlisting_LosAngeles.php",
@@ -5069,7 +5074,7 @@
         "image": "https://api.party-scout.app/img/los-angeles/2026-11-02/electrik-seoul-899a.jpg",
         "image_generated": true,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
@@ -5086,11 +5091,18 @@
         "area": "Huntington Beach",
         "venue": "Huntington State Beach",
         "address": "",
-        "why": "",
-        "summary": "",
+        "why": "A full-day beach meetup in Orange County, with an open-air setting and a long daytime window.",
+        "summary": "Daytime Flowsgiving gathering at Huntington State Beach, Tower 2 by the Brookhurst entrance, listed 10am-9pm on Saturday.",
         "promoter": "",
         "price": "",
-        "tags": [],
+        "tags": [
+          "party",
+          "southern-california",
+          "nightlife",
+          "beach",
+          "outdoor",
+          "daytime"
+        ],
         "sources": [
           {
             "url": "https://19hz.info/eventlisting_LosAngeles.php",
@@ -5108,14 +5120,14 @@
         "image": "https://api.party-scout.app/img/los-angeles/2026-11-02/flowsgiving-socal-tower-4094.jpg",
         "image_generated": true,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
         "id": "2026-11-02-music-happily-ever-afters-avalon-10c-771422",
         "eid": "happily-ever-afters-aval-eafb",
         "track": "music",
-        "category": "",
+        "category": "Concert",
         "name": "Happily Ever Afters: Avalon, 10cust, Jasmine Johnson",
         "day": "Sat",
         "date": "2026-11-07",
@@ -5124,19 +5136,26 @@
         "end": "04:00",
         "area": "Los Angeles",
         "venue": "Los Globos",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "3040 W Sunset Blvd Los Angeles, CA 90026",
+        "why": "To catch live performances from a three-act lineup with affordable tickets.",
+        "summary": "A show on November 7, 2026 at 3040 W Sunset Blvd in Los Angeles featuring Avalon, 10cust, and Jasmine Johnson. Tickets are listed at $10–$30.",
         "promoter": "",
-        "price": "",
-        "tags": [],
+        "price": "$10–$30",
+        "tags": [
+          "live",
+          "music",
+          "ticketed"
+        ],
         "sources": [
           {
             "url": "https://19hz.info/eventlisting_LosAngeles.php",
             "hidden": true
-          }
+          },
+          "https://ra.co/events/2562906"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://ra.co/events/2562906"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Los%20Globos%2C%20Los%20Angeles",
           "apple": "https://maps.apple.com/?q=Los%20Globos%2C%20Los%20Angeles"
@@ -5145,16 +5164,16 @@
         "coords_precise": false,
         "ra": {},
         "image": "https://api.party-scout.app/img/los-angeles/2026-11-02/happily-ever-afters-aval-eafb.jpg",
-        "image_generated": true,
+        "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
         "id": "2026-11-02-music-i-hate-models-e55b60",
         "eid": "i-hate-models-cc59",
         "track": "music",
-        "category": "",
+        "category": "Concert",
         "name": "I Hate Models",
         "day": "Sat",
         "date": "2026-11-07",
@@ -5163,19 +5182,27 @@
         "end": "23:00",
         "area": "Los Angeles",
         "venue": "City Market",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "1057 San Pedro St.",
+        "why": "For an intense, late-night techno set and a rave-style dancefloor.",
+        "summary": "I Hate Models performs at 1057 San Pedro St. on 2026-11-07; tickets range from $74–$131.",
         "promoter": "",
-        "price": "",
-        "tags": [],
+        "price": "$74–$131",
+        "tags": [
+          "techno",
+          "dj",
+          "electronic",
+          "21+"
+        ],
         "sources": [
           {
             "url": "https://19hz.info/eventlisting_LosAngeles.php",
             "hidden": true
-          }
+          },
+          "https://ra.co/events/2549421"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://ra.co/events/2549421"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=City%20Market%2C%20Los%20Angeles",
           "apple": "https://maps.apple.com/?q=City%20Market%2C%20Los%20Angeles"
@@ -5184,9 +5211,9 @@
         "coords_precise": false,
         "ra": {},
         "image": "https://api.party-scout.app/img/los-angeles/2026-11-02/i-hate-models-cc59.jpg",
-        "image_generated": true,
+        "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
