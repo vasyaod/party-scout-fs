@@ -8019,13 +8019,13 @@
         "id": "2026-10-26-music-minty-boi-presents-hercules-lo-5a2d7e",
         "eid": "minty-boi-presents-hercu-59cf",
         "track": "music",
-        "category": "Concert",
+        "category": "Nightclub",
         "name": "Minty Boi Presents: Hercules & Love Affair (DJ Set)",
         "day": "Fri",
         "date": "2026-10-30",
         "time": "22:00-02:00",
-        "start": null,
-        "end": null,
+        "start": "22:00",
+        "end": "02:00",
         "area": "Los Angeles",
         "venue": "Casita Hollywood",
         "address": "1323 Highland Ave, Los Angeles, CA 90028",
@@ -8049,7 +8049,9 @@
             "hidden": true
           }
         ],
-        "tickets": [],
+        "tickets": [
+          "https://ra.co/events/2556139"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Casita%20Hollywood%20%28Los%20Angeles%29",
           "apple": "https://maps.apple.com/?q=Casita%20Hollywood%20%28Los%20Angeles%29"
@@ -8060,7 +8062,7 @@
         "image": "https://images.ra.co/d695dd10c82bc6d54d805504e2cd50acd1008fdd.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true,
         "lineup": [
           {
@@ -8073,21 +8075,24 @@
         "id": "2026-10-26-music-nightshift-after-hours-3a12cb",
         "eid": "nightshift-after-hours-cfbe",
         "track": "music",
-        "category": "",
+        "category": "Nightclub",
         "name": "Nightshift After Hours",
         "day": "Fri",
         "date": "2026-10-30",
         "time": "23:00-05:00",
-        "start": null,
-        "end": null,
-        "area": "",
+        "start": "23:00",
+        "end": "05:00",
+        "area": "Los Angeles",
         "venue": "The Lexington",
         "address": "129 E. 3rd St, Los Angeles, Ca, 90013",
-        "why": "",
-        "summary": "",
+        "why": "For a late-night outing.",
+        "summary": "An event called Nightshift After Hours taking place in Los Angeles on October 30, 2026.",
         "promoter": "",
         "price": "0",
-        "tags": [],
+        "tags": [
+          "nightlife",
+          "late-night"
+        ],
         "sources": [
           {
             "url": "https://19hz.info/eventlisting_LosAngeles.php",
@@ -8095,7 +8100,9 @@
           },
           "https://ra.co/events/2563561"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://ra.co/events/2563561"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=129%20E.%203rd%20St%2C%20Los%20Angeles%2C%20Ca%2C%2090013",
           "apple": "https://maps.apple.com/?q=129%20E.%203rd%20St%2C%20Los%20Angeles%2C%20Ca%2C%2090013"
@@ -8106,28 +8113,31 @@
         "image": "https://images.ra.co/7702c5baafbe70c36cc1075612407dc8d9747584.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
         "id": "2026-10-26-music-shroomie-jake-b-beggar-96af50",
         "eid": "shroomie-jake-b-beggar-29d0",
         "track": "music",
-        "category": "",
+        "category": "Concert",
         "name": "Shroomie, Jake B, Beggar",
         "day": "Fri",
         "date": "2026-10-30",
         "time": "21:00-02:00",
-        "start": null,
-        "end": null,
-        "area": "",
+        "start": "21:00",
+        "end": "02:00",
+        "area": "Los Angeles",
         "venue": "Bar Franca",
         "address": "438 S Main St, Los Angeles, CA 90013",
-        "why": "",
-        "summary": "",
+        "why": "To catch a multi-act live music night in LA.",
+        "summary": "A concert on 2026-10-30 in Los Angeles featuring Shroomie, Jake B, and Beggar.",
         "promoter": "",
         "price": "0",
-        "tags": [],
+        "tags": [
+          "live",
+          "music"
+        ],
         "sources": [
           {
             "url": "https://19hz.info/eventlisting_LosAngeles.php",
@@ -8135,7 +8145,9 @@
           },
           "https://ra.co/events/2566054"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://ra.co/events/2566054"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=438%20S%20Main%20St%2C%20Los%20Angeles%2C%20CA%2090013",
           "apple": "https://maps.apple.com/?q=438%20S%20Main%20St%2C%20Los%20Angeles%2C%20CA%2090013"
@@ -8146,7 +8158,7 @@
         "image": "https://images.ra.co/c3a9cbba300babff9193884d7537daeb6ff208a5.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true,
         "lineup": [
           {
@@ -8167,21 +8179,28 @@
         "id": "2026-10-26-music-sila-halloween-party-e2ae35",
         "eid": "sila-halloween-party-4cc1",
         "track": "music",
-        "category": "",
+        "category": "Nightclub",
         "name": "Sila Halloween Party",
         "day": "Fri",
         "date": "2026-10-30",
         "time": "9pm-4am",
         "start": "21:00",
         "end": "04:00",
-        "area": "",
+        "area": "DTLA",
         "venue": "Sila at 1204 San Julian St",
         "address": "",
-        "why": "",
-        "summary": "",
+        "why": "A late, free Halloween-eve dance night downtown that runs until 4am.",
+        "summary": "Halloween-weekend Friday night party at Sila in downtown LA, listed 9pm to 4am with free entry.",
         "promoter": "",
         "price": "free",
-        "tags": [],
+        "tags": [
+          "halloween",
+          "party",
+          "costumes",
+          "nightlife",
+          "late-night",
+          "free"
+        ],
         "sources": [
           {
             "url": "https://19hz.info/eventlisting_LosAngeles.php",
@@ -8199,14 +8218,14 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
         "id": "2026-10-26-music-v-sions-halloween-onur-ozer-ma-4bef14",
         "eid": "v-sions-halloween-onur-o-be12",
         "track": "music",
-        "category": "",
+        "category": "Nightclub",
         "name": "V.sions Halloween: Onur Özer, Mayell, Mesmé, Pete Jonas, Rocky, Jackson Algeo",
         "day": "Fri",
         "date": "2026-10-30",
@@ -8247,31 +8266,35 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "https://party-scout.app/img/gen/v-sions-halloween-8b14.jpg",
-        "image_generated": true,
+        "image": "https://api.party-scout.app/img/los-angeles/2026-10-26/v-sions-halloween-onur-o-be12.jpg",
+        "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
         "id": "2026-10-26-music-whiskeyweem-faded-moving-plane-6c6b0c",
         "eid": "whiskeyweem-faded-moving-b99e",
         "track": "music",
-        "category": "",
+        "category": "Concert",
         "name": "WhiskeyWeem, Faded, Moving Planets, Svilth, Gad, Prado, Sirrom",
         "day": "Fri",
         "date": "2026-10-30",
         "time": "9pm",
         "start": "21:00",
         "end": null,
-        "area": "",
+        "area": "Los Angeles",
         "venue": "TBA",
         "address": "",
-        "why": "",
-        "summary": "",
+        "why": "See a stacked bill of multiple acts in one night during Halloween weekend.",
+        "summary": "A multi-artist concert in Los Angeles on 2026-10-30 featuring WhiskeyWeem, Faded, Moving Planets, Svilth, Gad, Prado, and Sirrom.",
         "promoter": "",
         "price": "",
-        "tags": [],
+        "tags": [
+          "live",
+          "concert",
+          "multi-act"
+        ],
         "sources": [
           {
             "url": "https://19hz.info/eventlisting_LosAngeles.php",
@@ -8286,7 +8309,7 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
@@ -10520,21 +10543,25 @@
         "id": "2026-10-26-sports-12-peak-challenge-griffith-par-4541e3",
         "eid": "12-peak-challenge-griffi-8852",
         "track": "sports",
-        "category": "",
+        "category": "Sports",
         "name": "12 Peak Challenge Griffith Park",
         "day": "Sat",
         "date": "2026-10-31",
         "time": "05:30",
-        "start": null,
-        "end": null,
-        "area": "",
+        "start": "05:30",
+        "end": "08:45",
+        "area": "Los Angeles",
         "venue": "Griffith Park un, 4730 Crystal Springs Dr, Los Angeles, CA 90027",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "4730 Crystal Springs Dr, Los Angeles, CA 90027, Los Angeles, CA",
+        "why": "For an outdoor multi-peak hiking challenge and scenic views in Griffith Park.",
+        "summary": "An event called 12 Peak Challenge at Griffith Park (4730 Crystal Springs Dr) on October 31, 2026.",
         "promoter": "",
         "price": "",
-        "tags": [],
+        "tags": [
+          "outdoor",
+          "hike",
+          "fitness"
+        ],
         "sources": [
           "https://www.meetup.com/runners-revolution/events/317083484/"
         ],
@@ -10546,10 +10573,10 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/los-angeles/2026-10-26/12-peak-challenge-griffi-8852.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {

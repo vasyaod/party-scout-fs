@@ -23938,21 +23938,26 @@
         "id": "2026-10-26-music-nyx-late-night-clubbing-089-re-c68c6d",
         "eid": "nyx-late-night-clubbing-95a2",
         "track": "music",
-        "category": "",
+        "category": "Nightclub",
         "name": "NYX - Late Night Clubbing #089: Rello, JJKØ",
         "day": "Sat",
         "date": "2026-10-31",
         "time": "",
         "start": null,
         "end": null,
-        "area": "",
+        "area": "SF",
         "venue": "",
         "address": "",
-        "why": "",
-        "summary": "",
+        "why": "For late-night dancing to DJ-driven electronic sets.",
+        "summary": "A late-night clubbing event on 2026-10-31 in San Francisco featuring DJs Rello and JJKØ.",
         "promoter": "",
         "price": "",
-        "tags": [],
+        "tags": [
+          "dj",
+          "dance",
+          "electronic",
+          "late-night"
+        ],
         "sources": [
           {
             "url": "https://edmtrain.com/san-francisco-ca",
@@ -23967,35 +23972,45 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
         "id": "2026-10-26-music-public-works-safra-halloween-n-42cdd1",
         "eid": "public-works-safra-hallo-570d",
         "track": "music",
-        "category": "",
+        "category": "Nightclub",
         "name": "Public Works & Safra: Halloween Night w/ Christian Löffler",
         "day": "Sat",
         "date": "2026-10-31",
         "time": "21:00",
-        "start": null,
-        "end": null,
-        "area": "",
+        "start": "21:00",
+        "end": "03:00",
+        "area": "SoMa",
         "venue": "Public Works",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "161 Erie Street, San Francisco, CA 94103, United States",
+        "why": "To celebrate Halloween at a late-night electronic club night in SoMa.",
+        "summary": "Halloween night event on October 31, 2026 at 161 Erie Street in San Francisco featuring Christian Löffler. Tickets are listed at $45.",
         "promoter": "",
-        "price": "",
-        "tags": [],
+        "price": "$45",
+        "tags": [
+          "electronic",
+          "dj",
+          "halloween",
+          "ticketed",
+          "club"
+        ],
         "sources": [
           {
             "url": "https://dothebay.com/events/san-francisco",
             "hidden": true
-          }
+          },
+          "https://ra.co/events/2516975",
+          "https://dothebay.com/events/2026/10/31/christian-loffler-presented-by-public-works-safra-tickets"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://ra.co/events/2516975"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Public%20Works",
           "apple": "https://maps.apple.com/?q=Public%20Works"
@@ -24003,38 +24018,48 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/san-francisco/2026-10-26/public-works-safra-hallo-570d.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
         "id": "2026-10-26-music-reza-tabrizi-alkemiss-erika-i-187a23",
         "eid": "reza-tabrizi-alkemiss-er-970d",
         "track": "music",
-        "category": "",
+        "category": "Nightclub",
         "name": "Reza Tabrizi, Alkemiss Erika, I Am Shlomi, Dim The Sky, AMISS",
         "day": "Sat",
         "date": "2026-10-31",
         "time": "10pm-3am",
         "start": "22:00",
         "end": "03:00",
-        "area": "",
+        "area": "SF",
         "venue": "Ciaorigato",
         "address": "",
-        "why": "",
-        "summary": "",
+        "why": "A five-act Halloween Saturday of underground dance music running late into the night.",
+        "summary": "Halloween-night electronic bill at Ciaorigato headlined by Reza Tabrizi, with Alkemiss Erika, I Am Shlomi, Dim The Sky and AMISS. Runs 10pm to 3am.",
         "promoter": "",
         "price": "$28.75-46",
-        "tags": [],
+        "tags": [
+          "dj",
+          "electronic",
+          "club",
+          "party",
+          "halloween",
+          "late-night"
+        ],
         "sources": [
           {
             "url": "https://19hz.info/eventlisting_BayArea.php",
             "hidden": true
-          }
+          },
+          "https://ra.co/events/2565973"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://ra.co/events/2565973"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Ciaorigato",
           "apple": "https://maps.apple.com/?q=Ciaorigato"
@@ -24042,38 +24067,47 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
-        "image_generated": false,
+        "image": "https://api.party-scout.app/img/san-francisco/2026-10-26/reza-tabrizi-alkemiss-er-a8cc.jpg",
+        "image_generated": true,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
         "id": "2026-10-26-music-sf-s-epic-halloween-pub-crawl-aa7d77",
         "eid": "sf-s-epic-halloween-pub-cf80",
         "track": "music",
-        "category": "",
+        "category": "Nightclub",
         "name": "SF's Epic Halloween Pub Crawl: Crawloween 2026",
         "day": "Sat",
         "date": "2026-10-31",
         "time": "14:00",
-        "start": null,
-        "end": null,
-        "area": "",
+        "start": "14:00",
+        "end": "22:00",
+        "area": "SF",
         "venue": "SF",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "1233 Polk Street, San Francisco 94109, United States",
+        "why": "To hit multiple bars in costume and soak up SF's Halloween nightlife.",
+        "summary": "A Halloween pub crawl in San Francisco on October 31, 2026, with participants meeting at 1233 Polk Street (94109).",
         "promoter": "",
         "price": "$15",
-        "tags": [],
+        "tags": [
+          "halloween",
+          "bar-crawl",
+          "21+"
+        ],
         "sources": [
           {
             "url": "https://sf.funcheap.com/",
             "hidden": true
-          }
+          },
+          "https://ra.co/events/2520387",
+          "https://dothebay.com/events/2026/10/31/san-francisco-halloween-pub-crawl-crawloween-tickets",
+          "https://sf.funcheap.com/sfs-epic-25000-halloween-pub-crawl-is-back-crawloween-2026/"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://ra.co/events/2520387"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=SF",
           "apple": "https://maps.apple.com/?q=SF"
@@ -24082,35 +24116,40 @@
         "coords_precise": false,
         "ra": {},
         "image": "https://api.party-scout.app/img/san-francisco/2026-10-26/sf-s-epic-halloween-pub-cf80.jpg",
-        "image_generated": true,
+        "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
         "id": "2026-10-26-music-sf-symphony-elim-chan-conducts-0943fa",
         "eid": "sf-symphony-elim-chan-co-ca92",
         "track": "music",
-        "category": "",
+        "category": "Concert",
         "name": "SF Symphony: Elim Chan Conducts Adams, Mendelssohn + Brahms",
         "day": "Sat",
         "date": "2026-10-31",
         "time": "19:30",
-        "start": null,
-        "end": null,
-        "area": "",
+        "start": "19:30",
+        "end": "22:30",
+        "area": "SF",
         "venue": "Davies Symphony Hall",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "201 Van Ness Ave, San Francisco, CA 94102",
+        "why": "To hear a program that bridges contemporary and Romantic orchestral repertoire in a concert setting.",
+        "summary": "The San Francisco Symphony performs a program conducted by Elim Chan featuring works by John Adams, Felix Mendelssohn, and Johannes Brahms on October 31, 2026 at 201 Van Ness Ave.",
         "promoter": "",
         "price": "From $45",
-        "tags": [],
+        "tags": [
+          "classical",
+          "orchestra",
+          "live"
+        ],
         "sources": [
           {
             "url": "https://sf.funcheap.com/",
             "hidden": true
-          }
+          },
+          "https://sf.funcheap.com/2026-sf-symphony-elim-chan-conducts-adams-mendelssohn-brahms-oct-29-31-2/"
         ],
         "tickets": [],
         "maps": {
@@ -24121,9 +24160,9 @@
         "coords_precise": false,
         "ra": {},
         "image": "https://api.party-scout.app/img/san-francisco/2026-10-26/sf-symphony-elim-chan-co-ca92.jpg",
-        "image_generated": true,
+        "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
