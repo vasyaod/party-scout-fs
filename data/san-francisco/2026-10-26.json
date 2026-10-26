@@ -8153,7 +8153,9 @@
           "electronic",
           "outdoor",
           "dj",
-          "ticketed"
+          "ticketed",
+          "edm",
+          "party"
         ],
         "sources": [
           {
@@ -8175,12 +8177,14 @@
           {
             "url": "https://dothebay.com/events/san-francisco",
             "hidden": true
-          }
+          },
+          "https://dothebay.com/events/san-francisco",
+          "https://dothebay.com/events/2026/10/30/lost-in-dreams-block-party-tickets"
         ],
         "tickets": [],
         "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=The%20Midway",
-          "apple": "https://maps.apple.com/?q=The%20Midway"
+          "google": "https://www.google.com/maps/search/?api=1&query=900%20Marin%20St.%2C%20San%20Francisco%2C%20CA%2094124",
+          "apple": "https://maps.apple.com/?q=900%20Marin%20St.%2C%20San%20Francisco%2C%20CA%2094124"
         },
         "coords": null,
         "coords_precise": false,
@@ -22825,36 +22829,45 @@
         "id": "2026-10-26-music-lecrew-haunted-halloween-wareh-55b3b4",
         "eid": "lecrew-haunted-halloween-eb33",
         "track": "music",
-        "category": "",
+        "category": "Nightclub",
         "name": "LeCrew Haunted: Halloween Warehouse Party",
         "day": "Fri",
         "date": "2026-10-30",
         "time": "9pm-2am",
         "start": "21:00",
         "end": "02:00",
-        "area": "",
+        "area": "SoMa",
         "venue": "TBA Mission / Potrero",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "168 San Bruno Ave, San Francsco, CA 94103, USA",
+        "why": "For dancing and costume-filled late-night vibes in a warehouse setting.",
+        "summary": "A Halloween warehouse party taking place on October 30, 2026 at 168 San Bruno Ave in San Francisco.",
         "promoter": "",
         "price": "$35.69",
-        "tags": [],
+        "tags": [
+          "halloween",
+          "warehouse",
+          "dj",
+          "21+"
+        ],
         "sources": [
           {
             "url": "https://19hz.info/eventlisting_BayArea.php",
             "hidden": true
-          }
+          },
+          "https://ra.co/events/2567316",
+          "https://dothebay.com/events/2026/10/30/haus-party-halloween-tickets"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://ra.co/events/2567316"
+        ],
         "maps": {},
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/san-francisco/2026-10-26/lecrew-haunted-halloween-eb33.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
@@ -22913,26 +22926,35 @@
         "id": "2026-10-26-music-montell-fish-the-nest-tour-82380e",
         "eid": "montell-fish-the-nest-to-fbb0",
         "track": "music",
-        "category": "",
+        "category": "Concert",
         "name": "Montell Fish – The Nest Tour",
         "day": "Fri",
         "date": "2026-10-30",
         "time": "19:00",
-        "start": null,
+        "start": "19:00",
         "end": null,
-        "area": "",
+        "area": "Castro",
         "venue": "The Castro Theatre",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "429 Castro St, San Francisco, CA 94114",
+        "why": "A rare chance to catch Montell Fish in one of San Francisco's most beautiful rooms.",
+        "summary": "Montell Fish brings The Nest Tour to the historic Castro Theatre, an all-ages night of dreamy, introspective indie-pop and R&B.",
         "promoter": "",
-        "price": "",
-        "tags": [],
+        "price": "From $64 (resale)",
+        "tags": [
+          "concert",
+          "live",
+          "tour",
+          "live music",
+          "indie",
+          "all ages"
+        ],
         "sources": [
           {
             "url": "https://dothebay.com/events/san-francisco",
             "hidden": true
-          }
+          },
+          "https://dothebay.com/events/2026/10/30/montell-fish-tickets",
+          "https://www.tickpick.com/buy-montell-fish-tickets-castro-theatre-10-30-26-8pm/8227863/"
         ],
         "tickets": [],
         "maps": {
@@ -22942,36 +22964,43 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/san-francisco/2026-10-26/montell-fish-the-nest-to-fbb0.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
         "id": "2026-10-26-music-nightmare-on-front-street-free-57d749",
         "eid": "nightmare-on-front-stree-0e80",
         "track": "music",
-        "category": "",
+        "category": "Festival",
         "name": "Nightmare on Front Street: Free Halloween Block Party",
         "day": "Fri",
         "date": "2026-10-30",
         "time": "14:00",
-        "start": null,
-        "end": null,
-        "area": "",
+        "start": "14:00",
+        "end": "22:00",
+        "area": "SF",
         "venue": "Front Street, Downtown SF",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "240 Front Street, San Francisco, CA 94111",
+        "why": "For free outdoor Halloween festivities, costumes, and a neighborhood street-party atmosphere.",
+        "summary": "A free Halloween block party on Oct. 30 at 240 Front Street in San Francisco.",
         "promoter": "",
         "price": "Free",
-        "tags": [],
+        "tags": [
+          "free",
+          "outdoor",
+          "halloween",
+          "block-party"
+        ],
         "sources": [
           {
             "url": "https://sf.funcheap.com/",
             "hidden": true
-          }
+          },
+          "https://dothebay.com/events/2026/10/30/haus-party-halloween-tickets",
+          "https://sf.funcheap.com/nightmare-front-street-free-halloween-block-party-downtown-sf/"
         ],
         "tickets": [],
         "maps": {
@@ -22981,10 +23010,10 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/san-francisco/2026-10-26/nightmare-on-front-stree-0e80.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
