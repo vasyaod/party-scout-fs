@@ -8324,26 +8324,33 @@
         "id": "2026-11-02-music-sf-diwali-festival-at-yerba-bu-8adf00",
         "eid": "sf-diwali-festival-at-ye-3eaf",
         "track": "music",
-        "category": "",
+        "category": "Festival",
         "name": "SF Diwali Festival at Yerba Buena Gardens",
         "day": "Sun",
         "date": "2026-11-08",
-        "time": "",
-        "start": null,
-        "end": null,
+        "time": "1–5pm",
+        "start": "13:00",
+        "end": "17:00",
         "area": "San Francisco",
         "venue": "Yerba Buena Gardens",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "Mission St. between 3rd & 4th Sts. San Francisco, CA",
+        "why": "Family-friendly daytime celebration with food, music, and cultural activities in a public garden.",
+        "summary": "An afternoon Diwali festival at Yerba Buena Gardens on November 8, 2026, running 1–5pm.",
         "promoter": "",
         "price": "FREE",
-        "tags": [],
+        "tags": [
+          "festival",
+          "outdoor",
+          "family",
+          "cultural",
+          "afternoon"
+        ],
         "sources": [
           {
             "url": "https://sf.funcheap.com",
             "hidden": true
-          }
+          },
+          "https://sf.funcheap.com/san-francisco-diwali-festival-yerba-buena-gardens-2026/"
         ],
         "tickets": [],
         "maps": {
@@ -8353,10 +8360,10 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/san-francisco/2026-11-02/sf-diwali-festival-at-ye-3eaf.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       }
     ],
@@ -8843,16 +8850,23 @@
         "day": "Sun",
         "date": "2026-11-08",
         "time": "13:00",
-        "start": null,
-        "end": null,
-        "area": "",
+        "start": "13:00",
+        "end": "14:00",
+        "area": "SF",
         "venue": "153 Precita Ave, 153 Precita Ave",
         "address": "153 Precita Ave, San Francisco, CA",
-        "why": "",
-        "summary": "",
+        "why": "A low-pressure way to meet other gay singles from home if in-person dating events feel intimidating.",
+        "summary": "An online gay speed-dating session for beginners, hosted via Meetup on Sunday afternoon.",
         "promoter": "",
         "price": "",
-        "tags": [],
+        "tags": [
+          "lgbtq",
+          "dating",
+          "online",
+          "beginner-friendly",
+          "speed-dating",
+          "singles"
+        ],
         "sources": [
           "https://www.meetup.com/boulder-beginners-social-climb-and-chill/events/317091957/"
         ],
@@ -8867,7 +8881,7 @@
         "image": "https://secure-content.meetupstatic.com/images/classic-events/536747623/676x676.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       }
     ]

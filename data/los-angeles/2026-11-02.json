@@ -5405,7 +5405,7 @@
         "id": "2026-11-02-music-shelter-xi-julie-innersha-0c4943",
         "eid": "shelter-xi-julie-innersh-8fb5",
         "track": "music",
-        "category": "",
+        "category": "Nightclub",
         "name": "Shelter XI - Julie, Innersha",
         "day": "Sat",
         "date": "2026-11-07",
@@ -5415,18 +5415,24 @@
         "area": "DTLA/Los Angeles",
         "venue": "TBA",
         "address": "",
-        "why": "",
-        "summary": "",
+        "why": "To see sets from Julie and Innersha.",
+        "summary": "Shelter XI takes place November 7, 2026 in Los Angeles, featuring Julie and Innersha. Tickets are $22.",
         "promoter": "",
-        "price": "",
-        "tags": [],
+        "price": "$22",
+        "tags": [
+          "ticketed",
+          "dj"
+        ],
         "sources": [
           {
             "url": "https://19hz.info/eventlisting_LosAngeles.php",
             "hidden": true
-          }
+          },
+          "https://ra.co/events/2550065"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://ra.co/events/2550065"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=DTLA/Los%20Angeles",
           "apple": "https://maps.apple.com/?q=DTLA/Los%20Angeles"
@@ -5434,10 +5440,10 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/los-angeles/2026-11-02/shelter-xi-julie-innersh-8fb5.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       }
     ],
@@ -5623,16 +5629,24 @@
         "day": "Sun",
         "date": "2026-11-08",
         "time": "13:00",
-        "start": null,
-        "end": null,
-        "area": "",
+        "start": "13:00",
+        "end": "14:00",
+        "area": "Los Angeles",
         "venue": "923 Terrace 49, 923 Terrace 49",
         "address": "923 Terrace 49, Los Angeles, CA",
-        "why": "",
-        "summary": "",
+        "why": "A structured, low-pressure way to meet other queer professionals on a Sunday afternoon.",
+        "summary": "Personality-matched gay speed dating for LA queer professionals, with short one-on-one rounds. Registration is through the age-group link in the Meetup listing.",
         "promoter": "",
-        "price": "",
-        "tags": [],
+        "price": "Free to RSVP on Meetup",
+        "tags": [
+          "dating",
+          "lgbtq",
+          "social",
+          "professional",
+          "speed dating",
+          "singles",
+          "meetup"
+        ],
         "sources": [
           "https://www.meetup.com/boulder-beginners-social-climb-and-chill/events/317091891/"
         ],
@@ -5647,7 +5661,7 @@
         "image": "https://secure-content.meetupstatic.com/images/classic-events/536747607/676x676.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       }
     ]
