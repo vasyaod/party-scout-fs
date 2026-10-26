@@ -10290,10 +10290,10 @@
         "end": "02:00",
         "area": "Long Beach",
         "venue": "Ovation",
-        "address": "",
+        "address": "350 Pine Ave, Long Beach, CA 90802",
         "why": "For a Halloween night of costumed dancing and themed party atmosphere.",
         "summary": "The 7th Annual Haunted Disco is scheduled for October 31, 2026; tickets are listed at $23–28+.",
-        "promoter": "",
+        "promoter": "Secret Service LBC",
         "price": "$23-28+",
         "tags": [
           "disco",
@@ -10315,8 +10315,8 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
-        "image_generated": false,
+        "image": "https://api.party-scout.app/img/los-angeles/2026-10-26/7th-annual-haunted-disco-83cc.jpg",
+        "image_generated": true,
         "popularity": 0,
         "enriched": 1,
         "active": true
@@ -11567,28 +11567,37 @@
         "id": "2026-10-26-sports-halloween-trick-or-trot-run-5k-2bec3f",
         "eid": "halloween-trick-or-trot-0607",
         "track": "sports",
-        "category": "",
+        "category": "Sports",
         "name": "Halloween Trick or Trot Run 5K/10K/13.1 - Los Angeles",
         "day": "Sat",
         "date": "2026-10-31",
-        "time": "",
-        "start": null,
-        "end": null,
+        "time": "9pm–2am",
+        "start": "21:00",
+        "end": "02:00",
         "area": "Santa Monica",
         "venue": "Santa Monica",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "901 E 1st St, Los Angeles, CA 90012",
+        "why": "To run a night course in costume and choose from multiple distance challenges.",
+        "summary": "A Halloween running event in Los Angeles offering 5K, 10K and a half‑marathon (13.1) distances on Oct 31, held near 901 E 1st St in DTLA. Event hours are listed as 9pm–2am and tickets start at $20+.",
         "promoter": "",
-        "price": "",
-        "tags": [],
+        "price": "$20+",
+        "tags": [
+          "outdoor",
+          "fitness",
+          "race",
+          "halloween",
+          "night"
+        ],
         "sources": [
           {
             "url": "https://www.runguides.com/los-angeles/runs",
             "hidden": true
-          }
+          },
+          "https://ra.co/events/2537059"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://ra.co/events/2537059"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Santa%20Monica%2C%20Santa%20Monica",
           "apple": "https://maps.apple.com/?q=Santa%20Monica%2C%20Santa%20Monica"
@@ -11596,38 +11605,51 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/los-angeles/2026-10-26/halloween-trick-or-trot-0607.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
         "id": "2026-10-26-sports-happy-halloween-5k-10k-15k-hal-3afb8a",
         "eid": "happy-halloween-5k-10k-1-ed74",
         "track": "sports",
-        "category": "",
+        "category": "Sports",
         "name": "Happy Halloween 5k, 10k, 15k, Half Marathon",
         "day": "Sat",
         "date": "2026-10-31",
-        "time": "",
+        "time": "7:30 AM",
         "start": null,
         "end": null,
         "area": "Long Beach",
-        "venue": "Long Beach",
-        "address": "",
-        "why": "",
-        "summary": "",
-        "promoter": "",
-        "price": "",
-        "tags": [],
+        "venue": "Belmont Shore beach path",
+        "address": "5400 E. Ocean Blvd, Long Beach, CA",
+        "why": "Run the beach in costume on Halloween morning, with free photos, aid stations and a medal at the finish.",
+        "summary": "Costume-friendly Halloween morning race on the Belmont Shore beach path: 5K, 10K, 15K and half marathon on out-and-back loops, with custom finisher medals and age-group awards.",
+        "promoter": "A Better World Running",
+        "price": "$35 5K, $40 10K, $45 15K, $50 half (race-day)",
+        "tags": [
+          "run",
+          "outdoor",
+          "fitness",
+          "holiday",
+          "running",
+          "halloween",
+          "costume",
+          "beach",
+          "long-beach"
+        ],
         "sources": [
           {
             "url": "https://www.runguides.com/los-angeles/runs",
             "hidden": true
-          }
+          },
+          "https://www.abetterworldrunning.com/happy-halloween-10-31-26-lb"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://www.abetterworldrunning.com/happy-halloween-10-31-26-lb"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Long%20Beach%2C%20Long%20Beach",
           "apple": "https://maps.apple.com/?q=Long%20Beach%2C%20Long%20Beach"
@@ -11635,10 +11657,10 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
-        "image_generated": false,
+        "image": "https://api.party-scout.app/img/los-angeles/2026-10-26/happy-halloween-5k-10k-1-ddac.jpg",
+        "image_generated": true,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
@@ -11684,28 +11706,40 @@
         "id": "2026-10-26-sports-los-muertos-5k-252af4",
         "eid": "los-muertos-5k-4505",
         "track": "sports",
-        "category": "",
+        "category": "Run",
         "name": "Los Muertos 5k",
         "day": "Sat",
         "date": "2026-10-31",
-        "time": "",
-        "start": null,
+        "time": "8:00 AM",
+        "start": "08:00",
         "end": null,
-        "area": "Los Angeles",
-        "venue": "Los Angeles",
-        "address": "",
-        "why": "",
-        "summary": "",
-        "promoter": "",
-        "price": "",
-        "tags": [],
+        "area": "DTLA",
+        "venue": "Olvera Street",
+        "address": "El Pueblo de Los Ángeles Historical Monument, Los Angeles, CA",
+        "why": "One of LA's most festive morning runs: costumes, face paint and the oldest street in the city on Halloween morning.",
+        "summary": "A Día de los Muertos 5K run/walk through historic Olvera Street and lower Chinatown, with face painting, music on the course and a post-race celebration. Finishers get a medal and T-shirt.",
+        "promoter": "Los Muertos 5K",
+        "price": "$69 ($54 youth)",
+        "tags": [
+          "run",
+          "outdoor",
+          "halloween",
+          "community",
+          "5k",
+          "dia-de-los-muertos",
+          "olvera-street"
+        ],
         "sources": [
           {
             "url": "https://www.runguides.com/los-angeles/runs",
             "hidden": true
-          }
+          },
+          "https://losmuertos5k.com/los-muertos-5k/event",
+          "https://raceroster.com/events/2026/118383/los-muertos-5k"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://raceroster.com/events/2026/118383/los-muertos-5k"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Los%20Angeles%2C%20Los%20Angeles",
           "apple": "https://maps.apple.com/?q=Los%20Angeles%2C%20Los%20Angeles"
@@ -11713,10 +11747,10 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/los-angeles/2026-10-26/los-muertos-5k-4505.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {

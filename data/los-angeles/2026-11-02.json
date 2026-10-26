@@ -4906,19 +4906,26 @@
         "end": "01:00",
         "area": "Los Angeles",
         "venue": "Apotheke",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "1746 N Spring St, Los Angeles, CA 90012",
+        "why": "Because it's a free night out in central Los Angeles.",
+        "summary": "A free event called \"Potion: Glo Phase, LUPE\" takes place on November 6, 2026 at 1746 N Spring St in Los Angeles.",
         "promoter": "",
-        "price": "",
-        "tags": [],
+        "price": "Free",
+        "tags": [
+          "free",
+          "party",
+          "los-angeles"
+        ],
         "sources": [
           {
             "url": "https://19hz.info/eventlisting_LosAngeles.php",
             "hidden": true
-          }
+          },
+          "https://ra.co/events/2560379"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://ra.co/events/2560379"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Apotheke%2C%20Los%20Angeles",
           "apple": "https://maps.apple.com/?q=Apotheke%2C%20Los%20Angeles"
@@ -4926,38 +4933,46 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/los-angeles/2026-11-02/potion-glo-phase-lupe-47cd.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
         "id": "2026-11-02-music-a-strictly-30-r-b-music-and-fo-c86261",
         "eid": "a-strictly-30-r-b-music-2b13",
         "track": "music",
-        "category": "",
+        "category": "Festival",
         "name": "A Strictly 30+ R&B Music and Food Festival",
         "day": "Sat",
         "date": "2026-11-07",
         "time": "14:00",
         "start": null,
         "end": null,
-        "area": "Los Angeles",
+        "area": "DTLA",
         "venue": "The Courtyard DTLA",
         "address": "",
-        "why": "",
-        "summary": "",
+        "why": "A grown-and-sexy R&B afternoon with food, aimed at people 30 and over, in downtown LA.",
+        "summary": "An afternoon R&B music and food festival for the 30+ crowd at The Courtyard DTLA, starting at 2pm.",
         "promoter": "",
         "price": "From $0.00",
-        "tags": [],
+        "tags": [
+          "r&b",
+          "food",
+          "30+",
+          "festival",
+          "daytime"
+        ],
         "sources": [
           {
             "url": "https://www.eventbrite.com/d/ca--los-angeles/events/",
             "hidden": true
           }
         ],
-        "tickets": [],
+        "tickets": [
+          "https://www.eventbrite.com/d/ca--los-angeles/events/"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=The%20Courtyard%20DTLA%2C%20Los%20Angeles",
           "apple": "https://maps.apple.com/?q=The%20Courtyard%20DTLA%2C%20Los%20Angeles"
@@ -4965,17 +4980,17 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
-        "image_generated": false,
+        "image": "https://api.party-scout.app/img/los-angeles/2026-11-02/a-strictly-30-r-b-music-2ed9.jpg",
+        "image_generated": true,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
         "id": "2026-11-02-music-affordable-art-show-free-dtla-3eb397",
         "eid": "affordable-art-show-free-3c1b",
         "track": "music",
-        "category": "",
+        "category": "Market",
         "name": "Affordable Art Show - FREE DTLA Exhibition - Wishlist 14 at Gabba Gallery",
         "day": "Sat",
         "date": "2026-11-07",
@@ -4985,18 +5000,26 @@
         "area": "Los Angeles",
         "venue": "Gabba Gallery, 235 S Broadway",
         "address": "",
-        "why": "",
-        "summary": "",
+        "why": "To see a free art exhibition in DTLA.",
+        "summary": "Free DTLA exhibition “Wishlist 14” at Gabba Gallery presented under the Affordable Art Show name.",
         "promoter": "",
         "price": "Free",
-        "tags": [],
+        "tags": [
+          "free",
+          "art",
+          "exhibition",
+          "gallery",
+          "dtla"
+        ],
         "sources": [
           {
             "url": "https://www.eventbrite.com/d/ca--los-angeles/events/",
             "hidden": true
           }
         ],
-        "tickets": [],
+        "tickets": [
+          "https://www.eventbrite.com/d/ca--los-angeles/events/"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Gabba%20Gallery%2C%20235%20S%20Broadway%2C%20Los%20Angeles",
           "apple": "https://maps.apple.com/?q=Gabba%20Gallery%2C%20235%20S%20Broadway%2C%20Los%20Angeles"
@@ -5007,7 +5030,7 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
@@ -5452,21 +5475,27 @@
         "id": "2026-11-02-sports-swing-into-november-dance-live-ceffa2",
         "eid": "swing-into-november-danc-a1d5",
         "track": "sports",
-        "category": "",
+        "category": "Nightclub",
         "name": "🍁🎶 SWING INTO NOVEMBER: DANCE, LIVE MUSIC & A NIGHT ON YOUR FEET! 💃🕺",
         "day": "Fri",
         "date": "2026-11-06",
         "time": "19:30",
-        "start": null,
-        "end": null,
-        "area": "",
+        "start": "19:30",
+        "end": "00:00",
+        "area": "Playa Del Rey",
         "venue": "8025 W Manchester Ave, 8025 W Manchester Ave, Playa Del Rey, CA 90293, USA",
         "address": "8025 W Manchester Ave, Playa Del Rey, CA 90293, USA, Los Angeles, CA",
-        "why": "",
-        "summary": "",
+        "why": "Live band and a full dance floor make this an easy way to try swing without a partner.",
+        "summary": "Friday-night swing dance with live music in Playa Del Rey, hosted by the Santa Monica Hiking Club's Meetup group. Free parking behind the lodge.",
         "promoter": "",
-        "price": "",
-        "tags": [],
+        "price": "$23 advance / $25 door",
+        "tags": [
+          "swing",
+          "dance",
+          "live",
+          "nightlife",
+          "live-music"
+        ],
         "sources": [
           "https://www.meetup.com/santamonicahikingclub/events/317114152/"
         ],
@@ -5481,7 +5510,7 @@
         "image": "https://secure-content.meetupstatic.com/images/classic-events/536762596/676x676.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
@@ -5493,16 +5522,22 @@
         "day": "Sat",
         "date": "2026-11-07",
         "time": "16:00",
-        "start": null,
-        "end": null,
-        "area": "",
+        "start": "16:00",
+        "end": "21:00",
+        "area": "Hollywood",
         "venue": "The Hollywood Sculpture Garden, 2430 Vasanta Way, Hollywood, CA 90068, USA",
         "address": "2430 Vasanta Way, Hollywood, CA 90068, USA, Los Angeles, CA",
-        "why": "",
-        "summary": "",
+        "why": "To meet neighbors, share dishes, and kick off the holiday season in a relaxed outdoor setting.",
+        "summary": "A free holiday mixer potluck at the Hollywood Sculpture Garden on 2026-11-07, presented as the first mixer of the season.",
         "promoter": "",
-        "price": "",
-        "tags": [],
+        "price": "Free",
+        "tags": [
+          "free",
+          "potluck",
+          "outdoor",
+          "community",
+          "holiday"
+        ],
         "sources": [
           "https://www.meetup.com/hikeandwalk/events/317029205/"
         ],
@@ -5517,7 +5552,7 @@
         "image": "https://secure-content.meetupstatic.com/images/classic-events/536699500/676x676.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
