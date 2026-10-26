@@ -9374,11 +9374,15 @@
         "area": "Los Angeles",
         "venue": "Academy LA",
         "address": "6021 Hollywood Blvd.  Los Angeles, CA 90028, USA",
-        "why": "",
-        "summary": "",
+        "why": "To celebrate Halloween with a festive night out.",
+        "summary": "An event titled \"Morten (Halloween Night)\" scheduled for 2026-10-31 in Los Angeles. Venue and time are not listed.",
         "promoter": "",
         "price": "$23+",
-        "tags": [],
+        "tags": [
+          "halloween",
+          "party",
+          "nightlife"
+        ],
         "sources": [
           "https://ra.co/events/2512858",
           "https://www.tixr.com/groups/academy/events/morten-203206",
@@ -9392,7 +9396,8 @@
           }
         ],
         "tickets": [
-          "https://ra.co/events/2512858"
+          "https://ra.co/events/2512858",
+          "https://www.tixr.com/groups/academy/events/morten-203206"
         ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Academy%20Nightclub%20%28Los%20Angeles%29%2C%20Los%20Angeles",
@@ -9401,31 +9406,35 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "https://party-scout.app/img/gen/morten-48d6.jpg",
-        "image_generated": true,
+        "image": "https://api.party-scout.app/img/los-angeles/2026-10-26/morten-halloween-night-e548.jpg",
+        "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
         "id": "2026-10-26-music-nightshift-after-hours-07f086",
         "eid": "nightshift-after-hours-2153",
         "track": "music",
-        "category": "",
+        "category": "Nightclub",
         "name": "Nightshift After Hours",
         "day": "Sat",
         "date": "2026-10-31",
         "time": "23:00",
-        "start": null,
-        "end": null,
+        "start": "23:00",
+        "end": "05:00",
         "area": "Los Angeles",
         "venue": "The Lexington",
         "address": "129 E. 3rd St, Los Angeles, Ca, 90013",
-        "why": "",
-        "summary": "",
+        "why": "To extend Halloween celebrations into the early morning.",
+        "summary": "An after-hours event in Los Angeles on October 31, 2026.",
         "promoter": "",
         "price": "0",
-        "tags": [],
+        "tags": [
+          "after-hours",
+          "nightclub",
+          "21+"
+        ],
         "sources": [
           {
             "url": "https://19hz.info/eventlisting_LosAngeles.php",
@@ -9433,7 +9442,9 @@
           },
           "https://ra.co/events/2563564"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://ra.co/events/2563564"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=129%20E.%203rd%20St%2C%20Los%20Angeles%2C%20Ca%2C%2090013",
           "apple": "https://maps.apple.com/?q=129%20E.%203rd%20St%2C%20Los%20Angeles%2C%20Ca%2C%2090013"
@@ -9444,7 +9455,7 @@
         "image": "https://images.ra.co/c99512a2d2fcc364ee5e9df5ab1bfef65bdeeadf.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
@@ -9461,11 +9472,17 @@
         "area": "Los Angeles",
         "venue": "TBA",
         "address": "",
-        "why": "",
-        "summary": "",
+        "why": "Free entry and a full 10pm-4am run on Halloween night.",
+        "summary": "Late-night free party listed on 19hz for Halloween Saturday, 10pm to 4am. Venue is still to be announced.",
         "promoter": "",
         "price": "free",
-        "tags": [],
+        "tags": [
+          "party",
+          "halloween",
+          "music",
+          "late-night",
+          "free"
+        ],
         "sources": [
           {
             "url": "https://19hz.info/eventlisting_LosAngeles.php",
@@ -9480,28 +9497,37 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
         "id": "2026-10-26-music-serenity-link-regal86-b2b-1mor-6fb60e",
         "eid": "serenity-link-regal86-b2-8378",
         "track": "music",
-        "category": "",
+        "category": "Nightclub",
         "name": "Serenity Link: Regal86 b2b 1morning, Debit, Sevyn 0000, Mapamota, Stealth Angel, Gbenga, Space Master",
         "day": "Sat",
         "date": "2026-10-31",
         "time": "23:00",
         "start": "23:00",
         "end": "04:00",
-        "area": "Los Angeles",
+        "area": "DTLA",
         "venue": "TBA Warehouse",
         "address": "",
-        "why": "",
-        "summary": "",
+        "why": "A full-lineup underground electronic night on Halloween, with a deep bill and a secret-location warehouse feel.",
+        "summary": "Serenity Link throws a Halloween-night warehouse party in Downtown LA, with Regal86 b2b 1morning headlining a seven-act bill that also includes Debit, Sevyn 0000, Mapamota, Stealth Angel, Gbenga and Space Master. Runs 11pm to 4am at a TBA warehouse.",
         "promoter": "",
         "price": "$32-100",
-        "tags": [],
+        "tags": [
+          "dj",
+          "electronic",
+          "club",
+          "party",
+          "techno",
+          "warehouse",
+          "halloween",
+          "late-night"
+        ],
         "sources": [
           {
             "url": "https://19hz.info/eventlisting_LosAngeles.php",
@@ -9516,14 +9542,14 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
         "id": "2026-10-26-music-shelby-jacobson-free-halloween-8927a4",
         "eid": "shelby-jacobson-free-hal-d9f5",
         "track": "music",
-        "category": "",
+        "category": "Nightclub",
         "name": "Shelby Jacobson - Free Halloween Dance Party",
         "day": "Sat",
         "date": "2026-10-31",
@@ -9533,11 +9559,17 @@
         "area": "Los Angeles",
         "venue": "Zebulon",
         "address": "",
-        "why": "",
-        "summary": "",
+        "why": "Free entry on Halloween night at an intimate Los Angeles club venue.",
+        "summary": "A free Halloween-night dance party at Zebulon, with Shelby Jacobson, running from 10pm to 1am.",
         "promoter": "",
         "price": "free",
-        "tags": [],
+        "tags": [
+          "free",
+          "halloween",
+          "dance",
+          "party",
+          "dance party"
+        ],
         "sources": [
           {
             "url": "https://19hz.info/eventlisting_LosAngeles.php",
@@ -9555,14 +9587,14 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
         "id": "2026-10-26-music-soul-source-halloween-w-kaista-da625d",
         "eid": "soul-source-halloween-w-009f",
         "track": "music",
-        "category": "",
+        "category": "Nightclub",
         "name": "Soul Source Halloween w/ Kaistar, TOJI, and Amon",
         "day": "Sat",
         "date": "2026-10-31",
@@ -9572,11 +9604,15 @@
         "area": "Los Angeles",
         "venue": "The Airliner",
         "address": "",
-        "why": "",
-        "summary": "",
+        "why": "Go for Halloween-night sets from Kaistar, TOJI, and Amon.",
+        "summary": "Halloween night on Oct 31, 2026, featuring performances by Kaistar, TOJI, and Amon.",
         "promoter": "",
         "price": "$14 pre",
-        "tags": [],
+        "tags": [
+          "halloween",
+          "party",
+          "nightlife"
+        ],
         "sources": [
           {
             "url": "https://19hz.info/eventlisting_LosAngeles.php",
@@ -9594,7 +9630,7 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {

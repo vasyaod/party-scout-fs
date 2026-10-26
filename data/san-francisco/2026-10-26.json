@@ -9658,7 +9658,8 @@
         "price": "Free",
         "tags": [
           "free",
-          "nightlife"
+          "nightlife",
+          "music"
         ],
         "sources": [
           {
@@ -9681,12 +9682,14 @@
           {
             "url": "https://dothebay.com/events/san-francisco",
             "hidden": true
-          }
+          },
+          "https://dothebay.com/events/san-francisco",
+          "https://dothebay.com/events/2026/11/1/the-musical-box-tickets"
         ],
         "tickets": [],
         "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=The%20Regency%20Ballroom",
-          "apple": "https://maps.apple.com/?q=The%20Regency%20Ballroom"
+          "google": "https://www.google.com/maps/search/?api=1&query=1290%20Sutter%20Street%2C%20San%20Francisco%2C%20CA%2094109",
+          "apple": "https://maps.apple.com/?q=1290%20Sutter%20Street%2C%20San%20Francisco%2C%20CA%2094109"
         },
         "coords": null,
         "coords_precise": false,
@@ -24582,46 +24585,6 @@
         "coords_precise": false,
         "ra": {},
         "image": "https://api.party-scout.app/img/san-francisco/2026-10-26/stamina-presents-bryan-g-2b8d.jpg",
-        "image_generated": false,
-        "popularity": 0,
-        "enriched": 1,
-        "active": true
-      },
-      {
-        "id": "2026-10-26-music-the-musical-box-e4d1b6",
-        "eid": "the-musical-box-addc",
-        "track": "music",
-        "category": "Concert",
-        "name": "The Musical Box",
-        "day": "Sun",
-        "date": "2026-11-01",
-        "time": "",
-        "start": "19:00",
-        "end": "01:30",
-        "area": "SF",
-        "venue": "",
-        "address": "1290 Sutter Street, San Francisco, CA 94109",
-        "why": "For a free night out in central San Francisco.",
-        "summary": "The Musical Box takes place November 1, 2026 at 1290 Sutter Street in San Francisco. Admission is free.",
-        "promoter": "",
-        "price": "Free",
-        "tags": [
-          "free",
-          "music"
-        ],
-        "sources": [
-          "https://dothebay.com/events/san-francisco",
-          "https://dothebay.com/events/2026/11/1/the-musical-box-tickets"
-        ],
-        "tickets": [],
-        "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=1290%20Sutter%20Street%2C%20San%20Francisco%2C%20CA%2094109",
-          "apple": "https://maps.apple.com/?q=1290%20Sutter%20Street%2C%20San%20Francisco%2C%20CA%2094109"
-        },
-        "coords": null,
-        "coords_precise": false,
-        "ra": {},
-        "image": "https://api.party-scout.app/img/san-francisco/2026-10-26/the-musical-box-b936.jpg",
         "image_generated": false,
         "popularity": 0,
         "enriched": 1,
