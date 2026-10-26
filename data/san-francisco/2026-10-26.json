@@ -23652,28 +23652,41 @@
         "id": "2026-10-26-music-crawloween-sf-halloween-pub-cr-105de8",
         "eid": "crawloween-sf-halloween-5ec8",
         "track": "music",
-        "category": "",
+        "category": "pub crawl",
         "name": "Crawloween: SF Halloween Pub Crawl",
         "day": "Sat",
         "date": "2026-10-31",
         "time": "14:00",
-        "start": null,
-        "end": null,
-        "area": "",
+        "start": "14:00",
+        "end": "22:00",
+        "area": "Polk Gulch",
         "venue": "Mayes Oyster House",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "1233 Polk Street, San Francisco 94109, United States",
+        "why": "A big, costume-friendly daytime kickoff to Halloween night, with a low $15 entry and a bar-hopping route you set yourself.",
+        "summary": "A massive Halloween pub crawl through San Francisco's bars, running 2–10 PM on Halloween Saturday. Wear a costume and hop between venues starting around Polk Street.",
         "promoter": "",
-        "price": "",
-        "tags": [],
+        "price": "$15",
+        "tags": [
+          "halloween",
+          "bar",
+          "crawl",
+          "21+",
+          "costume",
+          "pub crawl",
+          "bars"
+        ],
         "sources": [
           {
             "url": "https://dothebay.com/events/san-francisco",
             "hidden": true
-          }
+          },
+          "https://ra.co/events/2520387",
+          "https://dothebay.com/events/2026/10/31/san-francisco-halloween-pub-crawl-crawloween-tickets",
+          "https://sf.funcheap.com/sfs-epic-25000-halloween-pub-crawl-is-back-crawloween-2026/"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://ra.co/events/2520387"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Mayes%20Oyster%20House",
           "apple": "https://maps.apple.com/?q=Mayes%20Oyster%20House"
@@ -23681,38 +23694,49 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/san-francisco/2026-10-26/crawloween-sf-halloween-5ec8.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
         "id": "2026-10-26-music-fairmont-hotel-sf-mega-hallowe-770ee8",
         "eid": "fairmont-hotel-sf-mega-h-5a48",
         "track": "music",
-        "category": "",
+        "category": "Nightclub",
         "name": "Fairmont Hotel SF MEGA HALLOWEEN Party",
         "day": "Sat",
         "date": "2026-10-31",
         "time": "21:00",
-        "start": null,
-        "end": null,
-        "area": "",
+        "start": "22:00",
+        "end": "03:00",
+        "area": "SF",
         "venue": "Fairmont Hotel San Francisco",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "111 Mason Street, San Francisco, Ca, 94102",
+        "why": "For an upscale, hotel-based Halloween night in central San Francisco.",
+        "summary": "A Halloween party at the Fairmont Hotel in San Francisco on October 31, 2026.",
         "promoter": "",
         "price": "From $79.39",
-        "tags": [],
+        "tags": [
+          "halloween",
+          "party",
+          "hotel",
+          "indoor",
+          "dance"
+        ],
         "sources": [
           {
             "url": "https://www.eventbrite.com/d/ca--san-francisco/events/",
             "hidden": true
-          }
+          },
+          "https://ra.co/events/2565973",
+          "https://dothebay.com/events/2026/10/31/gasolina-halloween-party-tickets"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://www.eventbrite.com/d/ca--san-francisco/events/",
+          "https://ra.co/events/2565973"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Fairmont%20Hotel%20San%20Francisco",
           "apple": "https://maps.apple.com/?q=Fairmont%20Hotel%20San%20Francisco"
@@ -23720,10 +23744,10 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/san-francisco/2026-10-26/fairmont-hotel-sf-mega-h-5a48.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
@@ -23737,19 +23761,23 @@
         "time": "10pm-2am",
         "start": "22:00",
         "end": "02:00",
-        "area": "",
+        "area": "SF",
         "venue": "Miami Beach Club (San Jose) tech house, hard techno, latin EDM, dubstep, bass music 21+ 2026/10/31 Sat: Oct 31 (10pm-2am) Halloween w/ DJ Knives + Axra, DJ Switch, Lucci & Zerodayz @ Hawthorn",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "230 Petaluma Ave, Sebastopol, CA 95472",
+        "why": "To dress up and enjoy a festive night out with friends.",
+        "summary": "A Halloween Bash taking place on October 31, 2026 at 230 Petaluma Ave in Sebastopol. Specific time, lineup, and ticket information were not provided.",
         "promoter": "",
         "price": "free w/rsvp b4 11pm",
-        "tags": [],
+        "tags": [
+          "holiday",
+          "party"
+        ],
         "sources": [
           {
             "url": "https://19hz.info/eventlisting_BayArea.php",
             "hidden": true
-          }
+          },
+          "https://dothebay.com/events/2026/10/31/the-mother-hips-outdoor-venue-halloween-bash-tickets"
         ],
         "tickets": [],
         "maps": {
@@ -23760,9 +23788,9 @@
         "coords_precise": false,
         "ra": {},
         "image": "https://api.party-scout.app/img/san-francisco/2026-10-26/halloween-bash-4edc.jpg",
-        "image_generated": true,
+        "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
@@ -23774,21 +23802,26 @@
         "day": "Sat",
         "date": "2026-10-31",
         "time": "22:00",
-        "start": null,
-        "end": null,
-        "area": "",
+        "start": "22:00",
+        "end": "23:30",
+        "area": "SF",
         "venue": "Secret SF Location",
         "address": "",
-        "why": "",
-        "summary": "",
+        "why": "For a Halloween-night party and costume-friendly atmosphere.",
+        "summary": "LAFS&SLAMS: Halloween Forest 2026 takes place on October 31, 2026 in San Francisco.",
         "promoter": "",
         "price": "Free",
-        "tags": [],
+        "tags": [
+          "halloween",
+          "party",
+          "costume"
+        ],
         "sources": [
           {
             "url": "https://dothebay.com/events/san-francisco",
             "hidden": true
-          }
+          },
+          "https://dothebay.com/events/2026/10/31/lafs-slams-halloween-forest-2026-tickets"
         ],
         "tickets": [],
         "maps": {
@@ -23798,38 +23831,49 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/san-francisco/2026-10-26/lafs-slams-halloween-for-e260.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
         "id": "2026-10-26-music-latinoween-latin-halloween-par-02d31c",
         "eid": "latinoween-latin-hallowe-2e16",
         "track": "music",
-        "category": "",
+        "category": "Nightclub",
         "name": "LATINOWEEN Latin Halloween Party",
         "day": "Sat",
         "date": "2026-10-31",
         "time": "22:00",
-        "start": null,
-        "end": null,
-        "area": "",
+        "start": "22:00",
+        "end": "03:00",
+        "area": "SF",
         "venue": "The EndUp",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "111 Mason Street, San Francisco, Ca, 94102",
+        "why": "To dance to Latin beats and celebrate Halloween in costume.",
+        "summary": "A Latin-themed Halloween party taking place October 31 at 111 Mason Street in San Francisco.",
         "promoter": "",
         "price": "Free",
-        "tags": [],
+        "tags": [
+          "latin",
+          "halloween",
+          "dance",
+          "21+",
+          "costume"
+        ],
         "sources": [
           {
             "url": "https://www.eventbrite.com/d/ca--san-francisco/events/",
             "hidden": true
-          }
+          },
+          "https://ra.co/events/2565973",
+          "https://dothebay.com/events/2026/10/31/gasolina-halloween-party-tickets"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://www.eventbrite.com/d/ca--san-francisco/events/",
+          "https://ra.co/events/2565973"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=The%20EndUp",
           "apple": "https://maps.apple.com/?q=The%20EndUp"
@@ -23837,36 +23881,44 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/san-francisco/2026-10-26/latinoween-latin-hallowe-2e16.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
         "id": "2026-10-26-music-midnight-carnival-block-party-cf2b32",
         "eid": "midnight-carnival-block-d397",
         "track": "music",
-        "category": "",
+        "category": "Festival",
         "name": "Midnight Carnival Block Party ft. RL Grime, NGHTMRE",
         "day": "Sat",
         "date": "2026-10-31",
         "time": "16:00",
-        "start": null,
-        "end": null,
-        "area": "",
+        "start": "16:00",
+        "end": "22:00",
+        "area": "SF",
         "venue": "The Midway",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "900 Marin St., San Francisco, CA 94124",
+        "why": "For high-energy electronic and bass DJ sets at an outdoor Halloween event.",
+        "summary": "A Halloween midnight carnival block party on October 31, 2026 at 900 Marin St., San Francisco, featuring RL Grime and NGHTMRE; tickets start at $70+.",
         "promoter": "",
-        "price": "",
-        "tags": [],
+        "price": "$70+",
+        "tags": [
+          "electronic",
+          "bass",
+          "dj",
+          "outdoor",
+          "21+",
+          "halloween"
+        ],
         "sources": [
           {
             "url": "https://dothebay.com/events/san-francisco",
             "hidden": true
-          }
+          },
+          "https://dothebay.com/events/2026/10/31/midnight-carnival-block-party-tickets"
         ],
         "tickets": [],
         "maps": {
@@ -23876,10 +23928,10 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/san-francisco/2026-10-26/midnight-carnival-block-d397.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
@@ -27083,26 +27135,32 @@
         "id": "2026-10-26-sports-halloween-sf-world-naked-bike-6bbbf3",
         "eid": "halloween-sf-world-naked-44b4",
         "track": "sports",
-        "category": "",
+        "category": "Festival",
         "name": "Halloween SF World Naked Bike Ride",
         "day": "Sat",
         "date": "2026-10-31",
         "time": "10:00",
-        "start": null,
-        "end": null,
-        "area": "",
+        "start": "10:00",
+        "end": "22:00",
+        "area": "SoMa",
         "venue": "SF",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "Folsom St. and Embarcadero Dr., San Francisco, CA",
+        "why": "To join a large, unconventional community ride and experience a memorable Halloween street event.",
+        "summary": "A World Naked Bike Ride event on October 31, 2026, assembling at Folsom St and Embarcadero Dr. in San Francisco.",
         "promoter": "",
         "price": "Free",
-        "tags": [],
+        "tags": [
+          "bike",
+          "outdoor",
+          "community",
+          "holiday"
+        ],
         "sources": [
           {
             "url": "https://sf.funcheap.com/",
             "hidden": true
-          }
+          },
+          "https://sf.funcheap.com/halloween-sf-world-naked-bike-ride-oct-2026/"
         ],
         "tickets": [],
         "maps": {
@@ -27113,9 +27171,9 @@
         "coords_precise": false,
         "ra": {},
         "image": "https://api.party-scout.app/img/san-francisco/2026-10-26/halloween-sf-world-naked-44b4.jpg",
-        "image_generated": true,
+        "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
