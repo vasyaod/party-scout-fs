@@ -5,7 +5,7 @@
   "location": "San Francisco & Bay Area",
   "city": "san-francisco",
   "city_label": "San Francisco",
-  "generated_at": "2026-10-19",
+  "generated_at": "2026-10-26",
   "tracks": {
     "music": [
       {
@@ -4542,6 +4542,10 @@
           {
             "url": "https://edmtrain.com/san-francisco-ca",
             "hidden": true
+          },
+          {
+            "url": "https://1015.com/",
+            "hidden": true
           }
         ],
         "tickets": [
@@ -4549,8 +4553,8 @@
           "https://dice.fm/event/6aac988d20b3f20001be8a55"
         ],
         "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=Halcyon%20%28San%20Francisco%29",
-          "apple": "https://maps.apple.com/?q=Halcyon%20%28San%20Francisco%29"
+          "google": "https://www.google.com/maps/search/?api=1&query=1015%20Folsom%20%28San%20Francisco%29",
+          "apple": "https://maps.apple.com/?q=1015%20Folsom%20%28San%20Francisco%29"
         },
         "coords": null,
         "coords_precise": false,
@@ -7161,52 +7165,6 @@
         "ra": {},
         "image": "https://images.ra.co/632a08b582ddd2f35066631ae2f9078e71e1874e.png",
         "image_generated": false,
-        "popularity": 0,
-        "enriched": 1,
-        "active": true
-      },
-      {
-        "id": "2026-11-02-music-fovos-04dadb",
-        "eid": "fovos-fb06",
-        "track": "music",
-        "category": "Nightclub",
-        "name": "Fovos",
-        "day": "Sat",
-        "date": "2026-11-07",
-        "time": "22:00",
-        "start": "22:00",
-        "end": "04:00",
-        "area": "SoMa",
-        "venue": "1015 Folsom (San Francisco)",
-        "address": "314 11th St, San Francisco, California, 94103",
-        "why": "A straightforward $20 night out in SoMa.",
-        "summary": "Fovos is scheduled for November 7, 2026 at 314 11th St in San Francisco; tickets are $20.",
-        "promoter": "",
-        "price": "$20",
-        "tags": [
-          "dj",
-          "dance",
-          "21+"
-        ],
-        "sources": [
-          {
-            "url": "https://1015.com/",
-            "hidden": true
-          },
-          "https://ra.co/events/2531110"
-        ],
-        "tickets": [
-          "https://ra.co/events/2531110"
-        ],
-        "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=1015%20Folsom%20%28San%20Francisco%29",
-          "apple": "https://maps.apple.com/?q=1015%20Folsom%20%28San%20Francisco%29"
-        },
-        "coords": null,
-        "coords_precise": false,
-        "ra": {},
-        "image": "https://api.party-scout.app/img/2026-11-02/fovos-fb06.jpg",
-        "image_generated": true,
         "popularity": 0,
         "enriched": 1,
         "active": true
