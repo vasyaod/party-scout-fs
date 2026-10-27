@@ -10464,25 +10464,31 @@
         "id": "2026-10-26-music-just-like-that-w-dj-adam-lucky-0a7551",
         "eid": "just-like-that-w-dj-adam-5740",
         "track": "music",
-        "category": "",
+        "category": "Nightclub",
         "name": "Just Like That W/ DJ Adam Lucky (The Numero Group)",
         "day": "Thu",
         "date": "2026-10-29",
         "time": "20:00",
-        "start": null,
-        "end": null,
-        "area": "",
+        "start": "20:00",
+        "end": "23:30",
+        "area": "Los Angeles",
         "venue": "Apotheke",
         "address": "1746 N Spring St, Los Angeles, CA 90012",
-        "why": "",
-        "summary": "",
+        "why": "To catch a DJ-led evening of dancefloor-focused music.",
+        "summary": "A DJ night featuring DJ Adam Lucky; the event title references The Numero Group.",
         "promoter": "",
         "price": "0",
-        "tags": [],
+        "tags": [
+          "dj",
+          "nightlife",
+          "record-label"
+        ],
         "sources": [
           "https://ra.co/events/2569393"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://ra.co/events/2569393"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=1746%20N%20Spring%20St%2C%20Los%20Angeles%2C%20CA%2090012",
           "apple": "https://maps.apple.com/?q=1746%20N%20Spring%20St%2C%20Los%20Angeles%2C%20CA%2090012"
@@ -10493,35 +10499,43 @@
         "image": "https://images.ra.co/273f9f17963b82ed310623fbcde5b3a352df0e4d.png",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
         "id": "2026-10-26-music-thursday-asian-night-catwalk-e-484109",
         "eid": "thursday-asian-night-cat-b2e0",
         "track": "music",
-        "category": "",
+        "category": "Nightclub",
         "name": "THURSDAY ASIAN NIGHT @ CATWALK EL REGGAETAN MONSTER FEST FREE WITH RSVP",
         "day": "Thu",
         "date": "2026-10-29",
         "time": "10:00 PM",
         "start": "22:00",
         "end": null,
-        "area": "",
+        "area": "Los Angeles",
         "venue": "The Catwalk Club",
         "address": "",
-        "why": "",
-        "summary": "",
+        "why": "A free-with-RSVP Thursday night out with a Halloween-week reggaeton twist.",
+        "summary": "Thursday Asian Night at The Catwalk Club, billed with an El Reggaetan Monster Fest theme. Free entry with RSVP; doors open around 10 PM.",
         "promoter": "",
-        "price": "",
-        "tags": [],
+        "price": "Free with RSVP",
+        "tags": [
+          "reggaeton",
+          "asian",
+          "free",
+          "dance",
+          "nightlife"
+        ],
         "sources": [
           {
             "url": "https://www.eventbrite.com/d/ca--los-angeles/",
             "hidden": true
           }
         ],
-        "tickets": [],
+        "tickets": [
+          "https://www.eventbrite.com/d/ca--los-angeles/"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=The%20Catwalk%20Club",
           "apple": "https://maps.apple.com/?q=The%20Catwalk%20Club"
@@ -10529,38 +10543,45 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
-        "image_generated": false,
+        "image": "https://api.party-scout.app/img/los-angeles/2026-10-26/thursday-asian-night-cat-fe53.jpg",
+        "image_generated": true,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
         "id": "2026-10-26-music-cancelled-minty-boi-presents-h-d49dbb",
         "eid": "cancelled-minty-boi-pres-9834",
         "track": "music",
-        "category": "",
+        "category": "Nightclub",
         "name": "[CANCELLED] Minty Boi Presents: Hercules & Love Affair (DJ Set)",
         "day": "Fri",
         "date": "2026-10-30",
         "time": "22:00",
-        "start": null,
-        "end": null,
-        "area": "",
+        "start": "22:00",
+        "end": "02:00",
+        "area": "Hollywood",
         "venue": "Casita Hollywood",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "1323 Highland Ave, Los Angeles, CA 90028",
+        "why": "For a dancefloor-focused DJ set blending disco and house.",
+        "summary": "This Hercules & Love Affair DJ set scheduled for 2026-10-30 at 1323 Highland Ave in Hollywood has been cancelled; tickets were listed at $29.",
         "promoter": "",
-        "price": "",
-        "tags": [],
+        "price": "$29",
+        "tags": [
+          "dj",
+          "house",
+          "disco",
+          "paid"
+        ],
         "sources": [
           {
             "url": "https://ra.co/events/2556139",
             "hidden": true
           }
         ],
-        "tickets": [],
+        "tickets": [
+          "https://ra.co/events/2556139"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Casita%20Hollywood",
           "apple": "https://maps.apple.com/?q=Casita%20Hollywood"
@@ -10568,10 +10589,10 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/los-angeles/2026-10-26/cancelled-minty-boi-pres-9834.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
@@ -12215,21 +12236,26 @@
         "id": "2026-10-26-sports-co-ed-pickup-soccer-los-angele-b08a86",
         "eid": "co-ed-pickup-soccer-los-14db",
         "track": "sports",
-        "category": "",
+        "category": "Sports",
         "name": "Co-Ed Pickup Soccer Los Angeles (Playa Vista)",
         "day": "Thu",
         "date": "2026-10-29",
         "time": "18:15",
-        "start": null,
-        "end": null,
-        "area": "",
+        "start": "18:15",
+        "end": "19:15",
+        "area": "Playa Vista",
         "venue": "Playa Vista",
         "address": "Los Angeles, CA",
-        "why": "",
-        "summary": "",
+        "why": "Good for getting a casual workout and meeting local players.",
+        "summary": "A co-ed pickup soccer session in Playa Vista, Los Angeles on 2026-10-29.",
         "promoter": "",
-        "price": "",
-        "tags": [],
+        "price": "$11.99 (cash at the field)",
+        "tags": [
+          "sports",
+          "outdoor",
+          "pickup",
+          "coed"
+        ],
         "sources": [
           "https://www.meetup.com/los-angeles-soccer-meetup-group-pezo/events/316919662/"
         ],
@@ -12244,7 +12270,7 @@
         "image": "https://secure-content.meetupstatic.com/images/classic-events/507971689/676x676.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
