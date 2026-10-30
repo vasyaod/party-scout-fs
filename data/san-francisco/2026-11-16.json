@@ -3623,17 +3623,19 @@
         "time": "10pm",
         "start": "22:00",
         "end": "03:00",
-        "area": "San Francisco",
+        "area": "SoMa",
         "venue": "3rd & Army",
         "address": "",
-        "why": "To catch a five‑act electronic/dance bill in one night.",
-        "summary": "An event titled \"Happy Ravesgiving\" on 2026-11-20 in San Francisco, featuring Sativanotsex, Ultraviolet, Alleyeowl, Zerowishes, and Blanketjunkee.",
+        "why": "Cheap, community-minded rave night: free with a food or toy donation, otherwise $5.",
+        "summary": "A Thanksgiving-week rave at 3rd & Army with Sativanotsex, Ultraviolet, Alleyeowl, Zerowishes and Blanketjunkee. Doors at 10pm, running until 3am.",
         "promoter": "",
         "price": "free w/ food/toy donation / $5",
         "tags": [
           "dj",
           "electronic",
-          "dance"
+          "dance",
+          "rave",
+          "donation"
         ],
         "sources": [
           {
@@ -3659,21 +3661,25 @@
         "id": "2026-11-16-music-hug-feat-gyan-riley-devendra-b-8d7b02",
         "eid": "hug-feat-gyan-riley-deve-4115",
         "track": "music",
-        "category": "",
+        "category": "Concert",
         "name": "HUG feat. Gyan Riley, Devendra Banhart, Noah Georgeson",
         "day": "Fri",
         "date": "2026-11-20",
         "time": "7:00PM",
         "start": "19:00",
         "end": null,
-        "area": "",
+        "area": "North Beach",
         "venue": "Bimbo's 365 Club",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "1025 Columbus Ave, San Francisco, CA 94133",
+        "why": "To see a billed collaboration featuring Devendra Banhart, Gyan Riley, and Noah Georgeson.",
+        "summary": "HUG features Gyan Riley, Devendra Banhart, and Noah Georgeson on November 20, 2026 at 1025 Columbus Ave in San Francisco. Tickets are listed at $55.",
         "promoter": "",
-        "price": "",
-        "tags": [],
+        "price": "$55",
+        "tags": [
+          "folk",
+          "indie",
+          "live"
+        ],
         "sources": [
           "https://dothebay.com/events/2026/11/20/hug-feat-gyan-riley-devendra-banhart-noah-georgeson-tickets"
         ],
@@ -3685,36 +3691,42 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/san-francisco/2026-11-16/hug-feat-gyan-riley-deve-4115.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
         "id": "2026-11-16-music-hug-with-devendra-banhart-8d1010",
         "eid": "hug-with-devendra-banhar-2298",
         "track": "music",
-        "category": "",
+        "category": "Concert",
         "name": "HUG with Devendra Banhart",
         "day": "Fri",
         "date": "2026-11-20",
-        "time": "",
-        "start": null,
+        "time": "7pm",
+        "start": "19:00",
         "end": null,
         "area": "San Francisco",
         "venue": "Bimbo's 365 Club",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "1111 California St., San Francisco, CA 94108",
+        "why": "For an intimate, acoustic-focused evening of indie/folk songwriting.",
+        "summary": "An evening titled \"HUG\" featuring Devendra Banhart on November 20, 2026 at 7pm in San Francisco; tickets are $55.",
         "promoter": "",
-        "price": "",
-        "tags": [],
+        "price": "$55",
+        "tags": [
+          "folk",
+          "indie",
+          "live",
+          "acoustic"
+        ],
         "sources": [
           {
             "url": "https://dothebay.com/events",
             "hidden": true
-          }
+          },
+          "https://dothebay.com/events/2026/11/20/hug-feat-gyan-riley-devendra-banhart-noah-georgeson-tickets"
         ],
         "tickets": [],
         "maps": {
@@ -3724,31 +3736,35 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/san-francisco/2026-11-16/hug-with-devendra-banhar-2298.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
         "id": "2026-11-16-music-james-hype-eba0d8",
         "eid": "james-hype-a2e6",
         "track": "music",
-        "category": "",
+        "category": "Nightclub",
         "name": "James Hype",
         "day": "Fri",
         "date": "2026-11-20",
         "time": "21:00",
-        "start": null,
-        "end": null,
+        "start": "22:00",
+        "end": "02:00",
         "area": "San Francisco",
         "venue": "The Midway",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "900 Marin St., San Francisco, CA 94124",
+        "why": "To dance to a high-energy electronic DJ set.",
+        "summary": "DJ and producer James Hype is scheduled to perform at 900 Marin St., San Francisco on November 20, 2026.",
         "promoter": "",
         "price": "free",
-        "tags": [],
+        "tags": [
+          "dj",
+          "electronic",
+          "dance"
+        ],
         "sources": [
           {
             "url": "https://19hz.info/eventlisting_BayArea.php",
@@ -3762,9 +3778,13 @@
             "url": "https://ra.co/events/us/sanfrancisco",
             "hidden": true
           },
+          "https://ra.co/events/2557507",
+          "https://dothebay.com/events/2026/11/20/james-hype-tickets"
+        ],
+        "tickets": [
+          "https://ra.co/events/us/sanfrancisco",
           "https://ra.co/events/2557507"
         ],
-        "tickets": [],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=The%20Midway%2C%20San%20Francisco",
           "apple": "https://maps.apple.com/?q=The%20Midway%2C%20San%20Francisco"
@@ -3773,9 +3793,9 @@
         "coords_precise": false,
         "ra": {},
         "image": "https://api.party-scout.app/img/san-francisco/2026-11-16/james-hype-a2e6.jpg",
-        "image_generated": true,
+        "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
@@ -3787,16 +3807,19 @@
         "day": "Fri",
         "date": "2026-11-20",
         "time": "22:00",
-        "start": null,
-        "end": null,
+        "start": "22:00",
+        "end": "04:00",
         "area": "San Francisco",
         "venue": "Halcyon",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "314 11th St, San Francisco, California, 94103",
+        "why": "For a late-night outing in SoMa.",
+        "summary": "JOA is scheduled for November 20, 2026 at 314 11th St, San Francisco (94103).",
         "promoter": "",
         "price": "$12 b4 11 / $19-30",
-        "tags": [],
+        "tags": [
+          "nightlife",
+          "event"
+        ],
         "sources": [
           {
             "url": "https://halcyon-sf.com/main/tickets/",
@@ -3812,7 +3835,9 @@
           },
           "https://ra.co/events/2571283"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://ra.co/events/2571283"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Halcyon%2C%20San%20Francisco",
           "apple": "https://maps.apple.com/?q=Halcyon%2C%20San%20Francisco"
@@ -3821,9 +3846,9 @@
         "coords_precise": false,
         "ra": {},
         "image": "https://api.party-scout.app/img/san-francisco/2026-11-16/joa-eab0.jpg",
-        "image_generated": true,
+        "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
