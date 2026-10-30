@@ -5584,18 +5584,25 @@
         "area": "Los Angeles",
         "venue": "TBA",
         "address": "",
-        "why": "",
-        "summary": "",
-        "promoter": "",
-        "price": "",
-        "tags": [],
+        "why": "A late house night from the Delinquent crew; free entry with an early RSVP.",
+        "summary": "Delinquent's house night, 10pm-4am on Saturday, Nov 7, with Dirty Filthy Paradise and Travesur.",
+        "promoter": "Delinquent",
+        "price": "Free w/ early RSVP; $17.77-23",
+        "tags": [
+          "nightlife",
+          "event",
+          "los-angeles",
+          "house"
+        ],
         "sources": [
           {
             "url": "https://19hz.info/eventlisting_LosAngeles.php",
             "hidden": true
           }
         ],
-        "tickets": [],
+        "tickets": [
+          "https://pear.us/delinquentofficial/post/delinquent001"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Los%20Angeles",
           "apple": "https://maps.apple.com/?q=Los%20Angeles"
@@ -5606,7 +5613,7 @@
         "image": "https://api.party-scout.app/img/los-angeles/2026-11-02/ammo-avenue-1c17.jpg",
         "image_generated": true,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
@@ -6362,21 +6369,26 @@
         "id": "2026-11-02-sports-2026-pickleball-lovers-come-jo-883136",
         "eid": "2026-pickleball-lovers-c-3ba4",
         "track": "sports",
-        "category": "",
+        "category": "Sports",
         "name": "2026 Pickleball Lovers!! Come Join Our \"Social Dinkers\" Pickleball Community!",
         "day": "Sat",
         "date": "2026-11-07",
         "time": "08:00",
-        "start": null,
-        "end": null,
+        "start": "08:00",
+        "end": "14:00",
         "area": "Los Angeles",
         "venue": "6333 W 3rd St, Los Angeles, CA 90036, 6333 W 3rd St, Los Angeles, CA 90036",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "6333 W 3rd St, Los Angeles, CA 90036, Los Angeles, Ca",
+        "why": "To play pickleball and meet other local players.",
+        "summary": "A community pickleball meetup on 2026-11-07 at 6333 W 3rd St in Los Angeles, promoted as a gathering for the \"Social Dinkers\" pickleball community.",
         "promoter": "",
-        "price": "",
-        "tags": [],
+        "price": "Free",
+        "tags": [
+          "pickleball",
+          "sports",
+          "community",
+          "outdoor"
+        ],
         "sources": [
           "https://www.meetup.com/meetup-group-axugemky/events/316242351/",
           {
@@ -6392,31 +6404,37 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/los-angeles/2026-11-02/2026-pickleball-lovers-c-3ba4.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
         "id": "2026-11-02-sports-best-saturday-pickup-max-9-x-9-870b40",
         "eid": "best-saturday-pickup-max-257b",
         "track": "sports",
-        "category": "",
+        "category": "Sports",
         "name": "Best Saturday Pickup max 9 x 9- Playa Vista- Big Goals, Goalies",
         "day": "Sat",
         "date": "2026-11-07",
         "time": "08:30",
-        "start": null,
-        "end": null,
-        "area": "Los Angeles",
+        "start": "08:30",
+        "end": "10:30",
+        "area": "Playa Vista",
         "venue": "Playa Vista Bluff Creek Soccer Field, 12702 W. Bluff Creek Dr.   90094",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "12702 W. Bluff Creek Dr. 90094, Los Angeles, CA",
+        "why": "A friendly, well-run weekly game for a good Saturday morning kickabout in Playa Vista.",
+        "summary": "Co-ed Saturday morning pickup soccer on a new turf field with big goals and goalies. Intermediate to advanced level, no slide tackles or rough play.",
         "promoter": "",
         "price": "",
-        "tags": [],
+        "tags": [
+          "sports",
+          "soccer",
+          "outdoor",
+          "pickup",
+          "co-ed"
+        ],
         "sources": [
           "https://www.meetup.com/playa-vista-pickup/events/317035635/",
           {
@@ -6432,10 +6450,10 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/los-angeles/2026-11-02/best-saturday-pickup-max-257b.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
