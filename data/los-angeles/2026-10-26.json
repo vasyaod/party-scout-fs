@@ -10731,11 +10731,15 @@
         "area": "Los Angeles",
         "venue": "TBA",
         "address": "",
-        "why": "",
-        "summary": "",
+        "why": "For a spontaneous, short-run LA event and the chance to discover something unexpected.",
+        "summary": "A pop-up event in Los Angeles on October 29, 2026. No venue, time, price, or lineup details were provided.",
         "promoter": "",
         "price": "",
-        "tags": [],
+        "tags": [
+          "pop-up",
+          "nightlife",
+          "los-angeles"
+        ],
         "sources": [
           "https://drop.cobrand.com/d/anotr/LApopup"
         ],
@@ -10750,7 +10754,7 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
@@ -10796,25 +10800,34 @@
         "id": "2026-10-26-music-casual-halloween-06-halloween-5a0dee",
         "eid": "casual-halloween-06-hall-2c91",
         "track": "music",
-        "category": "",
+        "category": "Nightclub",
         "name": "Casual Halloween #06: Halloween Costume Contest: Casual Affairs, Frenchfordrugs, Alessio B2B Warclaw, Thisisglitterbeach",
         "day": "Thu",
         "date": "2026-10-29",
         "time": "21:00",
-        "start": null,
-        "end": null,
+        "start": "21:00",
+        "end": "02:00",
         "area": "Los Angeles",
         "venue": "High Tide",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "605 E 4th St, Los Angeles, CA 90013",
+        "why": "For a themed costume contest and multiple DJ sets.",
+        "summary": "A Halloween party on Oct 29 featuring a costume contest and sets by Casual Affairs, Frenchfordrugs, Alessio B2B Warclaw, and Thisisglitterbeach at 605 E 4th St in Los Angeles.",
         "promoter": "",
         "price": "$25",
-        "tags": [],
-        "sources": [
-          "https://link.dice.fm/Se461e6240c0"
+        "tags": [
+          "halloween",
+          "dj",
+          "costume",
+          "party"
         ],
-        "tickets": [],
+        "sources": [
+          "https://link.dice.fm/Se461e6240c0",
+          "https://ra.co/events/2556555"
+        ],
+        "tickets": [
+          "https://link.dice.fm/Se461e6240c0",
+          "https://ra.co/events/2556555"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=High%20Tide%2C%20Los%20Angeles",
           "apple": "https://maps.apple.com/?q=High%20Tide%2C%20Los%20Angeles"
@@ -10822,17 +10835,17 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/los-angeles/2026-10-26/casual-halloween-06-hall-2c91.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
         "id": "2026-10-26-music-gag-halloween-alex-chapman-zoe-47c6f4",
         "eid": "gag-halloween-alex-chapm-2409",
         "track": "music",
-        "category": "Nightclub",
+        "category": "Comedy",
         "name": "Gag Halloween: Alex Chapman, Zoe Gitter, Puffie, Garcia Sien, Quinn Blake, Honey, Sophie Gray, Rob Aquino, Banoffee, Evan, Brenna",
         "day": "Thu",
         "date": "2026-10-29",
@@ -10873,7 +10886,7 @@
         "image": "https://images.ra.co/ce53179ce060542616b41de8581306a098f61cbe.png",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true,
         "lineup": [
           {
@@ -10910,28 +10923,34 @@
         "id": "2026-10-26-music-ikeda-blaketheman1000-angel-mo-686a30",
         "eid": "ikeda-blaketheman1000-an-a646",
         "track": "music",
-        "category": "",
+        "category": "Nightclub",
         "name": "Ikeda, Blaketheman1000, Angel Money, DJ Thank You, Mach5",
         "day": "Thu",
         "date": "2026-10-29",
         "time": "20:30",
-        "start": null,
-        "end": null,
+        "start": "20:30",
+        "end": "23:59",
         "area": "Los Angeles",
         "venue": "TBA",
         "address": "",
-        "why": "",
-        "summary": "",
+        "why": "For high-energy DJ sets and late-night dancing.",
+        "summary": "A DJ night featuring Ikeda, Blaketheman1000, Angel Money, DJ Thank You, and Mach5 on October 29, 2026 in Los Angeles. Venue and ticket details were not provided.",
         "promoter": "",
         "price": "$11.50-28.75",
-        "tags": [],
+        "tags": [
+          "dj",
+          "dance",
+          "nightlife"
+        ],
         "sources": [
           {
             "url": "https://ra.co/events/2570013",
             "hidden": true
           }
         ],
-        "tickets": [],
+        "tickets": [
+          "https://ra.co/events/2570013"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Los%20Angeles",
           "apple": "https://maps.apple.com/?q=Los%20Angeles"
@@ -10939,38 +10958,44 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/los-angeles/2026-10-26/ikeda-blaketheman1000-an-a646.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
         "id": "2026-10-26-music-label-night-gmo-twist-release-aa756d",
         "eid": "label-night-gmo-twist-re-bdc3",
         "track": "music",
-        "category": "",
+        "category": "Nightclub",
         "name": "Label Night (Gmo Twist Release): Gmo, Kucka, Danny Goliger, Xen Model",
         "day": "Thu",
         "date": "2026-10-29",
         "time": "20:00",
-        "start": null,
-        "end": null,
+        "start": "20:00",
+        "end": "00:00",
         "area": "Los Angeles",
         "venue": "TBA",
         "address": "",
-        "why": "",
-        "summary": "",
+        "why": "To hear multiple artists' sets together on a single bill.",
+        "summary": "Label Night on 2026-10-29 for the Gmo Twist release, featuring Gmo, Kucka, Danny Goliger, and Xen Model.",
         "promoter": "",
         "price": "free",
-        "tags": [],
+        "tags": [
+          "dj",
+          "release",
+          "night"
+        ],
         "sources": [
           {
             "url": "https://ra.co/events/2566226",
             "hidden": true
           }
         ],
-        "tickets": [],
+        "tickets": [
+          "https://ra.co/events/2566226"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Los%20Angeles",
           "apple": "https://maps.apple.com/?q=Los%20Angeles"
@@ -10978,10 +11003,10 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/los-angeles/2026-10-26/label-night-gmo-twist-re-bdc3.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {

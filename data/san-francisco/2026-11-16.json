@@ -3136,22 +3136,31 @@
         "time": "7:00PM",
         "start": "19:00",
         "end": null,
-        "area": "San Francisco",
+        "area": "Castro",
         "venue": "The Castro",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "1111 California St., San Francisco, CA 94108",
+        "why": "A seated, all-ages night with the rising singer in one of SF's most storied movie palaces.",
+        "summary": "An Evening with Danna at The Castro Theatre, doors 7pm and show at 8pm. All ages.",
         "promoter": "",
         "price": "",
-        "tags": [],
+        "tags": [
+          "event",
+          "san-francisco",
+          "live-music",
+          "all-ages",
+          "theater"
+        ],
         "sources": [
           {
             "url": "https://dothebay.com/events",
             "hidden": true
           },
-          "https://dothebay.com/events/2026/11/20/danna-tickets"
+          "https://dothebay.com/events/2026/11/20/danna-tickets",
+          "https://thecastro.com/events/danna-261120"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://www.ticketmaster.com/an-evening-with-danna-san-francisco-california-11-20-2026/event/1C00651CD920BD0F"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=The%20Castro%2C%20San%20Francisco",
           "apple": "https://maps.apple.com/?q=The%20Castro%2C%20San%20Francisco"
@@ -3159,17 +3168,17 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/san-francisco/2026-11-16/danna-9d43.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
         "id": "2026-11-16-music-dosem-e4d10c",
         "eid": "dosem-8354",
         "track": "music",
-        "category": "",
+        "category": "Concert",
         "name": "Dosem",
         "day": "Fri",
         "date": "2026-11-20",
@@ -3179,11 +3188,14 @@
         "area": "San Francisco",
         "venue": "Audio",
         "address": "316 11th St; San Francisco CA 94103; United States",
-        "why": "",
-        "summary": "",
+        "why": "To catch a one-artist performance in the city that night.",
+        "summary": "Dosem performs in San Francisco on 2026-11-20.",
         "promoter": "",
         "price": "$10",
-        "tags": [],
+        "tags": [
+          "dj",
+          "live"
+        ],
         "sources": [
           {
             "url": "https://edmtrain.com/san-francisco-ca",
@@ -3200,7 +3212,11 @@
           "https://ra.co/events/2534796",
           "https://ra.co/events/2532720"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://ra.co/events/us/sanfrancisco",
+          "https://ra.co/events/2534796",
+          "https://ra.co/events/2532720"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=316%2011th%20St%3B%20San%20Francisco%20CA%2094103%3B%20United%20States",
           "apple": "https://maps.apple.com/?q=316%2011th%20St%3B%20San%20Francisco%20CA%2094103%3B%20United%20States"
@@ -3211,7 +3227,7 @@
         "image": "https://images.ra.co/7ab66fc06b522bcc95bb4b5e3ba959f9aab0c22a.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true,
         "lineup": [
           {
@@ -3228,7 +3244,7 @@
         "id": "2026-11-16-music-earthless-508e7a",
         "eid": "earthless-0826",
         "track": "music",
-        "category": "",
+        "category": "Concert",
         "name": "Earthless",
         "day": "Fri",
         "date": "2026-11-20",
@@ -3237,12 +3253,15 @@
         "end": null,
         "area": "San Francisco",
         "venue": "Bottom Of The Hill",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "1111 California St., San Francisco, CA 94108",
+        "why": "For a night out in downtown San Francisco on November 20.",
+        "summary": "Event \"Earthless\" is scheduled for 2026-11-20 at 1111 California St., San Francisco.",
         "promoter": "",
-        "price": "",
-        "tags": [],
+        "price": "$30.81 advance / $30 door",
+        "tags": [
+          "live",
+          "concert"
+        ],
         "sources": [
           {
             "url": "https://dothebay.com/events",
@@ -3258,10 +3277,10 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/san-francisco/2026-11-16/earthless-0826.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
