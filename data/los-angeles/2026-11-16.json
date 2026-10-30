@@ -3112,21 +3112,24 @@
         "id": "2026-11-16-music-the-buckhenries-79e4d3",
         "eid": "the-buckhenries-2139",
         "track": "music",
-        "category": "",
+        "category": "Concert",
         "name": "The Buckhenries",
         "day": "Sat",
         "date": "2026-11-21",
         "time": "20:00-02:00",
-        "start": null,
-        "end": null,
+        "start": "20:00",
+        "end": "02:00",
         "area": "Los Angeles",
         "venue": "The Redwood Bar And Grill",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "316 W. 2nd Street, Los Angeles, CA  90012",
+        "why": "To catch a live concert in Downtown LA.",
+        "summary": "The Buckhenries are scheduled for 2026-11-21 at 316 W. 2nd Street in Downtown Los Angeles.",
         "promoter": "",
         "price": "$10",
-        "tags": [],
+        "tags": [
+          "live",
+          "concert"
+        ],
         "sources": [
           {
             "url": "https://ra.co/events/us/losangeles",
@@ -3134,7 +3137,10 @@
           },
           "https://ra.co/events/2558830"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://ra.co/events/us/losangeles",
+          "https://ra.co/events/2558830"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=The%20Redwood%20Bar%20And%20Grill%2C%20Los%20Angeles",
           "apple": "https://maps.apple.com/?q=The%20Redwood%20Bar%20And%20Grill%2C%20Los%20Angeles"
@@ -3145,7 +3151,7 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
@@ -3288,13 +3294,16 @@
         "start": "21:00",
         "end": "02:00",
         "area": "Pomona",
-        "venue": "Flyway",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "venue": "The Flyway Nightclub",
+        "address": "345 S Garey Ave, Pomona, CA 91766",
+        "why": "To check out a new nightlife event happening that evening in Los Angeles.",
+        "summary": "Haus of Shadows is an event in Los Angeles scheduled for 2026-11-21.",
         "promoter": "",
         "price": "$10 pre / $15",
-        "tags": [],
+        "tags": [
+          "nightlife",
+          "event"
+        ],
         "sources": [
           "http://restlessnites.com/events/hausofshadowsgothnightinpomona21nov2026"
         ],
@@ -3306,17 +3315,18 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/los-angeles/2026-11-16/haus-of-shadows-3d9e.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
-        "active": true
+        "enriched": 1,
+        "active": true,
+        "lineup": []
       },
       {
         "id": "2026-11-16-music-house-party-f1d0a2",
         "eid": "house-party-10cf",
         "track": "music",
-        "category": "",
+        "category": "Nightclub",
         "name": "House Party",
         "day": "Sat",
         "date": "2026-11-21",
@@ -3325,12 +3335,15 @@
         "end": "02:00",
         "area": "Los Angeles",
         "venue": "1720",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "1720 E 16th St, Los Angeles, California 90021",
+        "why": "To socialize and hang out with friends in downtown Los Angeles.",
+        "summary": "House Party is scheduled for November 21, 2026 at 1720 E 16th St in DTLA.",
         "promoter": "",
         "price": "$21.63",
-        "tags": [],
+        "tags": [
+          "party",
+          "indoor"
+        ],
         "sources": [
           {
             "url": "https://19hz.info/eventlisting_LosAngeles.php",
@@ -3338,7 +3351,9 @@
           },
           "https://dice.fm/event/6abd8c637b8ef3000188ea3e"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://dice.fm/event/6abd8c637b8ef3000188ea3e"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=1720%2C%20Los%20Angeles",
           "apple": "https://maps.apple.com/?q=1720%2C%20Los%20Angeles"
@@ -3347,9 +3362,9 @@
         "coords_precise": false,
         "ra": {},
         "image": "https://api.party-scout.app/img/los-angeles/2026-11-16/house-party-10cf.jpg",
-        "image_generated": true,
+        "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
@@ -4602,17 +4617,20 @@
         "time": "14:00",
         "start": "14:00",
         "end": "16:00",
-        "area": "Los Angeles",
+        "area": "Griffith Park",
         "venue": "Greek Theater, 2700 Vermont Canyon Road",
-        "address": "2700 Vermont Canyon Road, Los Angeles, ca",
-        "why": "For outdoor exercise and scenic city views.",
-        "summary": "A public hike meeting at 2700 Vermont Canyon Road in Griffith Park on 2026-11-21.",
+        "address": "2700 Vermont Canyon Road, Los Angeles, CA",
+        "why": "Free, social daytime hike with great LA views; bring sneakers and water.",
+        "summary": "A under-5-mile group hike through Griffith Park with some inclines, hosted by Conservative Outdoors Socials. Rain postpones.",
         "promoter": "",
-        "price": "",
+        "price": "Free",
         "tags": [
           "outdoor",
           "hike",
-          "fitness"
+          "fitness",
+          "outdoors",
+          "free",
+          "social"
         ],
         "sources": [
           {

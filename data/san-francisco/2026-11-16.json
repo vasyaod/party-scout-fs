@@ -4073,21 +4073,31 @@
         "time": "8pm",
         "start": "20:00",
         "end": null,
-        "area": "San Francisco",
+        "area": "SF",
         "venue": "Cafe Du Nord",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "2170 Market St, San Francisco, CA 94114",
+        "why": "Rising electronic act with a reputation for emotional, live-instrumentation-driven shows, in an intimate Market St room.",
+        "summary": "Memphis LK brings her high-energy electronic live set to Cafe Du Nord on Friday night, 21+. The Australian artist recently supported Sofi Tukker and sold out a warehouse tour at home.",
         "promoter": "",
         "price": "",
-        "tags": [],
+        "tags": [
+          "event",
+          "nightlife",
+          "electronica",
+          "trance",
+          "live",
+          "21+"
+        ],
         "sources": [
           {
             "url": "https://19hz.info/eventlisting_BayArea.php",
             "hidden": true
-          }
+          },
+          "https://dothebay.com/events/2026/11/20/memphis-lk-tickets"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://www.ticketweb.com/event/memphis-lk-cafe-du-nord-tickets/14259744"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Cafe%20Du%20Nord%2C%20San%20Francisco",
           "apple": "https://maps.apple.com/?q=Cafe%20Du%20Nord%2C%20San%20Francisco"
@@ -4095,10 +4105,10 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/san-francisco/2026-11-16/memphis-lk-7f9e.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
@@ -4145,7 +4155,7 @@
         "id": "2026-11-16-music-natural-child-a8c069",
         "eid": "natural-child-f1a2",
         "track": "music",
-        "category": "",
+        "category": "Concert",
         "name": "Natural Child",
         "day": "Fri",
         "date": "2026-11-20",
@@ -4154,12 +4164,16 @@
         "end": null,
         "area": "San Francisco",
         "venue": "Rickshaw Stop",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "1111 California St., San Francisco, CA 94108",
+        "why": "For an evening of live music in central San Francisco.",
+        "summary": "Natural Child is scheduled for November 20, 2026 at 1111 California St., San Francisco. Tickets are listed at $25–$30.",
         "promoter": "",
-        "price": "",
-        "tags": [],
+        "price": "$25–$30",
+        "tags": [
+          "live",
+          "ticketed",
+          "indoor"
+        ],
         "sources": [
           {
             "url": "https://dothebay.com/events",
@@ -4175,39 +4189,50 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/san-francisco/2026-11-16/natural-child-f1a2.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
         "id": "2026-11-16-music-nickcheo-the-tour-the-movie-294581",
         "eid": "nickcheo-the-tour-the-mo-ac59",
         "track": "music",
-        "category": "",
+        "category": "Film",
         "name": "NICKCHEO the *TOUR* the *MOVIE*",
         "day": "Fri",
         "date": "2026-11-20",
         "time": "21:00",
-        "start": null,
-        "end": null,
-        "area": "San Francisco",
+        "start": "21:00",
+        "end": "01:00",
+        "area": "NoPa",
         "venue": "The Independent",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "628 Divisadero Street, San Francisco, CA 94117",
+        "why": "A touring act in an intimate room, a late Friday out in NoPa.",
+        "summary": "NICKCHEO brings his Tour the Movie show to The Independent on Divisadero, 9pm to 1am.",
         "promoter": "",
-        "price": "",
-        "tags": [],
+        "price": "from $46",
+        "tags": [
+          "film",
+          "screening",
+          "night",
+          "live",
+          "nopa",
+          "friday"
+        ],
         "sources": [
           {
             "url": "https://ra.co/events/us/sanfrancisco",
             "hidden": true
           },
+          "https://ra.co/events/2523928",
+          "https://san-francisco.events/event/nick-cheo/"
+        ],
+        "tickets": [
+          "https://ra.co/events/us/sanfrancisco",
           "https://ra.co/events/2523928"
         ],
-        "tickets": [],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=The%20Independent%2C%20San%20Francisco",
           "apple": "https://maps.apple.com/?q=The%20Independent%2C%20San%20Francisco"
@@ -4215,10 +4240,10 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/san-francisco/2026-11-16/nickcheo-the-tour-the-mo-ac59.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
