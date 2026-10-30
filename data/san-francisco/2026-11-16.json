@@ -4908,15 +4908,18 @@
         "date": "2026-11-21",
         "time": "9:00PM",
         "start": "21:00",
-        "end": null,
+        "end": "03:00",
         "area": "San Francisco",
         "venue": "Public Works",
         "address": "161 Erie Street, San Francisco, CA 94103, United States",
-        "why": "",
-        "summary": "",
+        "why": "To check out whatever lineup or details get announced.",
+        "summary": "DEATHPACT is scheduled for 2026-11-21 in San Francisco; venue, time, and lineup haven't been provided.",
         "promoter": "",
         "price": "$30",
-        "tags": [],
+        "tags": [
+          "live",
+          "tbd"
+        ],
         "sources": [
           {
             "url": "https://dothebay.com/events",
@@ -4933,7 +4936,10 @@
           "https://dothebay.com/events/2026/11/21/deathpact-from-darkness-comes-light-eclipsed-presented-by-public-works-dj-dials-tickets",
           "https://ra.co/events/2504464"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://ra.co/events/us/sanfrancisco",
+          "https://ra.co/events/2504464"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=161%20Erie%20Street%2C%20San%20Francisco%2C%20CA%2094103%2C%20United%20States",
           "apple": "https://maps.apple.com/?q=161%20Erie%20Street%2C%20San%20Francisco%2C%20CA%2094103%2C%20United%20States"
@@ -4944,35 +4950,42 @@
         "image": "https://images.ra.co/f00290b3324e6e573282aba78a8669740507f8b5.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
         "id": "2026-11-16-music-freeman-713-emma-rak-midnight-2b7c07",
         "eid": "freeman-713-emma-rak-mid-f837",
         "track": "music",
-        "category": "",
+        "category": "Nightclub",
         "name": "Freeman 713, Emma Rak, Midnight Climax, 9-System, Markie",
         "day": "Sat",
         "date": "2026-11-21",
         "time": "9pm",
         "start": "21:00",
-        "end": null,
+        "end": "02:00",
         "area": "San Francisco",
         "venue": "Underground",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "424 Haight St, San Francisco, CA 94117, United States",
+        "why": "Great for dancing to a varied electronic DJ lineup.",
+        "summary": "A lineup featuring Freeman 713, Emma Rak, Midnight Climax, 9-System, and Markie at 424 Haight St in San Francisco on 2026-11-21.",
         "promoter": "",
         "price": "$15",
-        "tags": [],
+        "tags": [
+          "dj",
+          "electronic",
+          "dance"
+        ],
         "sources": [
           {
             "url": "https://19hz.info/eventlisting_BayArea.php",
             "hidden": true
-          }
+          },
+          "https://ra.co/events/2479005"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://ra.co/events/2479005"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Underground%2C%20San%20Francisco",
           "apple": "https://maps.apple.com/?q=Underground%2C%20San%20Francisco"
@@ -4981,37 +4994,45 @@
         "coords_precise": false,
         "ra": {},
         "image": "https://api.party-scout.app/img/san-francisco/2026-11-16/freeman-713-emma-rak-mid-f837.jpg",
-        "image_generated": true,
+        "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
         "id": "2026-11-16-music-from-darkness-comes-light-deat-1f310f",
         "eid": "from-darkness-comes-ligh-fadd",
         "track": "music",
-        "category": "",
+        "category": "Nightclub",
         "name": "From Darkness, Comes Light: Deathpact, DJ Dials",
         "day": "Sat",
         "date": "2026-11-21",
-        "time": "",
-        "start": null,
-        "end": null,
+        "time": "9pm–3am",
+        "start": "21:00",
+        "end": "03:00",
         "area": "San Francisco",
         "venue": "Public Works",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "161 Erie Street, San Francisco, CA 94103, United States",
+        "why": "For a late-night club experience in SoMa running until 3am.",
+        "summary": "A club night at 161 Erie Street in SoMa on November 21, 2026 featuring Deathpact and DJ Dials. Doors run 9pm–3am and tickets are $30.",
         "promoter": "",
-        "price": "",
-        "tags": [],
+        "price": "$30",
+        "tags": [
+          "dj",
+          "late-night",
+          "club"
+        ],
         "sources": [
           {
             "url": "https://edmtrain.com/san-francisco-ca",
             "hidden": true
-          }
+          },
+          "https://ra.co/events/2504464",
+          "https://dothebay.com/events/2026/11/21/deathpact-from-darkness-comes-light-eclipsed-presented-by-public-works-dj-dials-tickets"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://ra.co/events/2504464"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Public%20Works%2C%20San%20Francisco",
           "apple": "https://maps.apple.com/?q=Public%20Works%2C%20San%20Francisco"
@@ -5019,10 +5040,10 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/san-francisco/2026-11-16/from-darkness-comes-ligh-fadd.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
@@ -7251,21 +7272,26 @@
         "id": "2026-11-16-sports-harvest-hustle-5k-10k-and-half-bf1503",
         "eid": "harvest-hustle-5k-10k-an-3afa",
         "track": "sports",
-        "category": "",
+        "category": "Sports",
         "name": "Harvest Hustle 5K, 10K, and Half Marathon",
         "day": "Sat",
         "date": "2026-11-21",
         "time": "",
         "start": null,
         "end": null,
-        "area": "San Francisco",
+        "area": "SF",
         "venue": "San Francisco",
         "address": "",
-        "why": "",
-        "summary": "",
+        "why": "To challenge yourself with a fall road race and join other local runners.",
+        "summary": "A running event in San Francisco on 2026-11-21 offering 5K, 10K, and half marathon distances.",
         "promoter": "",
         "price": "",
-        "tags": [],
+        "tags": [
+          "outdoor",
+          "race",
+          "fitness",
+          "community"
+        ],
         "sources": [
           {
             "url": "https://www.runguides.com/san-francisco/runs",
@@ -7283,7 +7309,7 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
