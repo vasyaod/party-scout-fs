@@ -1768,7 +1768,7 @@
         "id": "2026-11-16-music-ninajirachi-7ade3d",
         "eid": "ninajirachi-307b",
         "track": "music",
-        "category": "",
+        "category": "Concert",
         "name": "Ninajirachi",
         "day": "Wed",
         "date": "2026-11-18",
@@ -1777,12 +1777,15 @@
         "end": null,
         "area": "San Francisco",
         "venue": "The Regency Ballroom",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "1111 California St., San Francisco, CA 94108",
+        "why": "A chance to see a visiting electronic artist in San Francisco.",
+        "summary": "Ninajirachi performs at 1111 California St., San Francisco on 2026-11-18.",
         "promoter": "",
         "price": "$146-266",
-        "tags": [],
+        "tags": [
+          "dj",
+          "live"
+        ],
         "sources": [
           {
             "url": "https://dothebay.com/events",
@@ -1811,9 +1814,9 @@
         "coords_precise": false,
         "ra": {},
         "image": "https://api.party-scout.app/img/san-francisco/2026-11-16/ninajirachi-307b.jpg",
-        "image_generated": true,
+        "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
@@ -6671,21 +6674,25 @@
         "id": "2026-11-16-sports-rise-run-w-morgan-95c36f",
         "eid": "rise-run-w-morgan-3594",
         "track": "sports",
-        "category": "",
+        "category": "Nightclub",
         "name": "RISE + RUN W/ MORGAN",
         "day": "Wed",
         "date": "2026-11-18",
         "time": "07:00",
-        "start": null,
-        "end": null,
-        "area": "",
+        "start": "07:00",
+        "end": "08:00",
+        "area": "SoMa",
         "venue": "WeWork Office Space & Coworking, 156 2nd St",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "156 2nd St, San Francisco, CA",
+        "why": "For a night out in SoMa featuring a visiting performer.",
+        "summary": "RISE + RUN W/ MORGAN is scheduled at 156 2nd St in SoMa, San Francisco on 2026-11-18.",
         "promoter": "",
         "price": "",
-        "tags": [],
+        "tags": [
+          "nightlife",
+          "party",
+          "indoor"
+        ],
         "sources": [
           "https://www.meetup.com/san-francisco-fitness-meetup-group/events/317190825/"
         ],
@@ -6697,10 +6704,10 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/san-francisco/2026-11-16/rise-run-w-morgan-3594.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {

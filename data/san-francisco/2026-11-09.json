@@ -9844,20 +9844,31 @@
         "name": "Worship",
         "day": "Sat",
         "date": "2026-11-14",
-        "time": "",
-        "start": null,
+        "time": "7pm",
+        "start": "19:00",
         "end": null,
-        "area": "",
+        "area": "Civic Center",
         "venue": "Bill Graham Civic Auditorium",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "99 Grove Street, San Francisco, CA 94102",
+        "why": "A rare stacked drum and bass bill in one of the city's biggest rooms.",
+        "summary": "Worship, the UK drum and bass act, plays Bill Graham Civic Auditorium with Sub Focus, Dimension and Culture Shock. 18+ show.",
         "promoter": "",
         "price": "",
-        "tags": [],
+        "tags": [
+          "event",
+          "evening",
+          "drum and bass",
+          "18+",
+          "live"
+        ],
         "sources": [
           "https://go.seated.com/tour-events/f3957eb3-13c0-4874-8cf7-97e56188fbcd?utm_referrer=https://www.worshipartists.uk/",
-          "https://dothebay.com/events/2026/11/14/worship-sub-focusdimensionculture-shock1991-tickets"
+          "https://dothebay.com/events/2026/11/14/worship-sub-focusdimensionculture-shock1991-tickets",
+          "https://go.seated.com/tour-events/f3957eb3-13c0-4874-8cf7-97e56188fbcd",
+          {
+            "url": "https://19hz.info/eventlisting_BayArea.php",
+            "hidden": true
+          }
         ],
         "tickets": [],
         "maps": {
@@ -9867,10 +9878,10 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/san-francisco/2026-11-09/worship-09e2.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
