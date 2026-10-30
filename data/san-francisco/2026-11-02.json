@@ -10085,21 +10085,25 @@
         "id": "2026-11-02-music-the-liminanas-rescheduled-to-m-dfb456",
         "eid": "the-liminanas-reschedule-b37f",
         "track": "music",
-        "category": "",
+        "category": "Concert",
         "name": "The Limiñanas (Rescheduled to May 15)",
         "day": "Wed",
         "date": "2026-11-04",
-        "time": "",
-        "start": null,
+        "time": "8pm",
+        "start": "20:00",
         "end": null,
-        "area": "",
+        "area": "Mission",
         "venue": "The Chapel",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "777 Valencia Street, San Francisco, CA 94110",
+        "why": "An affordable evening concert in the Mission.",
+        "summary": "The Limiñanas — noted as rescheduled to May 15 — are scheduled to play at 777 Valencia Street in San Francisco on November 4, 2026 at 8pm; tickets are $30–$35.",
         "promoter": "",
-        "price": "",
-        "tags": [],
+        "price": "$30–$35",
+        "tags": [
+          "live",
+          "ticketed",
+          "paid"
+        ],
         "sources": [
           {
             "url": "https://dothebay.com/events/2026/11/4/the-liminanas-tickets",
@@ -10114,10 +10118,10 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/san-francisco/2026-11-02/the-liminanas-reschedule-b37f.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
@@ -10168,24 +10172,32 @@
         "name": "Buy Tickets",
         "day": "Thu",
         "date": "2026-11-05",
-        "time": "",
-        "start": null,
+        "time": "8:00 PM",
+        "start": "20:00",
         "end": null,
-        "area": "",
+        "area": "Nob Hill",
         "venue": "The Regency Ballroom",
-        "address": "",
-        "why": "",
-        "summary": "",
-        "promoter": "",
+        "address": "1290 Sutter St, San Francisco, CA 94109",
+        "why": "Austin psych-rock heavyweights marking 20 years of Passover, in one of SF's best ballrooms.",
+        "summary": "The Black Angels play The Regency Ballroom, with GHOSTWOMAN supporting, on the 20th anniversary of their debut album Passover. All ages, doors at 7 PM.",
+        "promoter": "Goldenvoice Presents",
         "price": "",
-        "tags": [],
+        "tags": [
+          "tickets",
+          "info",
+          "psych rock",
+          "live music",
+          "all ages"
+        ],
         "sources": [
           {
             "url": "https://www.theregencyballroom.com/shows",
             "hidden": true
           }
         ],
-        "tickets": [],
+        "tickets": [
+          "https://www.axs.com/events/1408471/the-black-angels-tickets"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=The%20Regency%20Ballroom",
           "apple": "https://maps.apple.com/?q=The%20Regency%20Ballroom"
@@ -10193,38 +10205,45 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/san-francisco/2026-11-02/buy-tickets-a782.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
         "id": "2026-11-02-music-local-500-function-500-w-fluxi-380e18",
         "eid": "local-500-function-500-w-d93e",
         "track": "music",
-        "category": "",
+        "category": "Concert",
         "name": "Local 500 & Function 500 w/ Fluxions, Vertigo, BAD JUUJU, AGROPOL, DJ Panderer",
         "day": "Thu",
         "date": "2026-11-05",
         "time": "9pm",
         "start": "21:00",
-        "end": null,
-        "area": "",
+        "end": "02:00",
+        "area": "SoMa",
         "venue": "Public Works (San Francisco)",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "161 Erie Street, San Francisco, CA 94103, United States",
+        "why": "Low $5 cover and multiple electronic/DJ sets make it a budget-friendly night for fans of electronic music.",
+        "summary": "A multi-artist electronic night on Nov 5, 2026 at 161 Erie Street in San Francisco featuring Fluxions, Vertigo, BAD JUUJU, AGROPOL, and DJ Panderer; $5 cover.",
         "promoter": "",
-        "price": "",
-        "tags": [],
+        "price": "$5",
+        "tags": [
+          "electronic",
+          "dj",
+          "live"
+        ],
         "sources": [
           {
             "url": "https://ra.co/events/2563539",
             "hidden": true
-          }
+          },
+          "https://dothebay.com/events/2026/11/5/function-500-w-fluxions-tickets"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://ra.co/events/2563539"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Public%20Works%20%28San%20Francisco%29",
           "apple": "https://maps.apple.com/?q=Public%20Works%20%28San%20Francisco%29"
@@ -10232,10 +10251,10 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/san-francisco/2026-11-02/local-500-function-500-w-d93e.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
@@ -12381,23 +12400,30 @@
         "id": "2026-11-02-sports-sf-s-holiday-ice-skating-rink-29f0a3",
         "eid": "sf-s-holiday-ice-skating-2bde",
         "track": "sports",
-        "category": "",
-        "name": "SF’s Holiday Ice Skating Rink at Union Square: 2026 Opening Ceremony + Free Ice Skating",
+        "category": "Festival",
+        "name": "SF's Holiday Ice Skating Rink at Union Square: 2026 Opening Ceremony + Free Ice Skating",
         "day": "Wed",
         "date": "2026-11-04",
         "time": "10:00",
-        "start": null,
-        "end": null,
-        "area": "",
+        "start": "10:00",
+        "end": "23:00",
+        "area": "SF",
         "venue": "Union Square Park",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "Geary and Powell, San Francisco, CA",
+        "why": "To skate outdoors and kick off the holiday season with free downtown festivities.",
+        "summary": "Opening ceremony for the holiday ice skating rink at Union Square on November 4, 2026, offering free ice skating at the Geary and Powell site.",
         "promoter": "",
-        "price": "",
-        "tags": [],
+        "price": "Free",
+        "tags": [
+          "free",
+          "outdoor",
+          "holiday",
+          "family",
+          "rink"
+        ],
         "sources": [
-          "https://sf.funcheap.com/sfs-holiday-ice-skating-rink-at-union-square-opening-ceremony-free-ice-skating-union-square/"
+          "https://sf.funcheap.com/sfs-holiday-ice-skating-rink-at-union-square-opening-ceremony-free-ice-skating-union-square/",
+          "https://dothebay.com/events/2026/11/4/safeway-holiday-ice-rink-tickets"
         ],
         "tickets": [],
         "maps": {
@@ -12407,10 +12433,10 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/san-francisco/2026-11-02/sf-s-holiday-ice-skating-2bde.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
