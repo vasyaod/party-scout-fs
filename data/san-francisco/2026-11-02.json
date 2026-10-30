@@ -3840,14 +3840,15 @@
           {
             "url": "https://19hz.info/eventlisting_BayArea.php",
             "hidden": true
-          }
+          },
+          "https://posh.vip/f/ef913?t=19hz"
         ],
         "tickets": [
           "https://ra.co/events/2560779"
         ],
         "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=Madarae%2C%20San%20Francisco",
-          "apple": "https://maps.apple.com/?q=Madarae%2C%20San%20Francisco"
+          "google": "https://www.google.com/maps/search/?api=1&query=Madarae%20%28San%20Francisco%29",
+          "apple": "https://maps.apple.com/?q=Madarae%20%28San%20Francisco%29"
         },
         "coords": null,
         "coords_precise": false,
@@ -5399,14 +5400,18 @@
           {
             "url": "https://19hz.info/eventlisting_BayArea.php",
             "hidden": true
+          },
+          {
+            "url": "https://ra.co/events/2559719",
+            "hidden": true
           }
         ],
         "tickets": [
           "https://ra.co/events/2559719"
         ],
         "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=Madarae%2C%20San%20Francisco",
-          "apple": "https://maps.apple.com/?q=Madarae%2C%20San%20Francisco"
+          "google": "https://www.google.com/maps/search/?api=1&query=Madarae%20%28San%20Francisco%29",
+          "apple": "https://maps.apple.com/?q=Madarae%20%28San%20Francisco%29"
         },
         "coords": null,
         "coords_precise": false,
@@ -7320,11 +7325,13 @@
           "live",
           "paid"
         ],
-        "sources": [],
+        "sources": [
+          "https://dice.fm/event/nvpap9-armand-hammer-sha-ray-dj-haram-8th-nov-bottom-of-the-hill-san-francisco-tickets"
+        ],
         "tickets": [],
         "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=SF",
-          "apple": "https://maps.apple.com/?q=SF"
+          "google": "https://www.google.com/maps/search/?api=1&query=Bottom%20Of%20The%20Hill%20%28San%20Francisco%29",
+          "apple": "https://maps.apple.com/?q=Bottom%20Of%20The%20Hill%20%28San%20Francisco%29"
         },
         "coords": null,
         "coords_precise": false,
@@ -9783,21 +9790,25 @@
         "id": "2026-11-02-music-country-line-dance-d9406b",
         "eid": "country-line-dance-8869",
         "track": "music",
-        "category": "",
+        "category": "Nightclub",
         "name": "Country Line Dance",
         "day": "Mon",
         "date": "2026-11-02",
-        "time": "",
-        "start": null,
+        "time": "6pm",
+        "start": "18:00",
         "end": null,
-        "area": "",
+        "area": "SF",
         "venue": "Hopmonk Tavern - Sebastopol",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "230 Petaluma Ave, Sebastopol, CA 95472",
+        "why": "Learn or practice group country-style steps in a casual, social setting.",
+        "summary": "A country line dance evening on 2026-11-02 at 6pm at 230 Petaluma Ave in Sebastopol. Cover is $10.",
         "promoter": "",
-        "price": "",
-        "tags": [],
+        "price": "$10",
+        "tags": [
+          "country",
+          "dance",
+          "social"
+        ],
         "sources": [
           "https://dothebay.com/events/2026/11/2/country-line-dance-tickets"
         ],
@@ -9809,10 +9820,10 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/san-francisco/2026-11-02/country-line-dance-8869.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
@@ -10671,42 +10682,6 @@
         "active": true
       },
       {
-        "id": "2026-11-02-music-sasson-85e0d0",
-        "eid": "sasson-e49e",
-        "track": "music",
-        "category": "",
-        "name": "Sasson",
-        "day": "Fri",
-        "date": "2026-11-06",
-        "time": "9pm",
-        "start": "21:00",
-        "end": null,
-        "area": "",
-        "venue": "Madarae (San Francisco)",
-        "address": "",
-        "why": "",
-        "summary": "",
-        "promoter": "",
-        "price": "",
-        "tags": [],
-        "sources": [
-          "https://posh.vip/f/ef913?t=19hz"
-        ],
-        "tickets": [],
-        "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=Madarae%20%28San%20Francisco%29",
-          "apple": "https://maps.apple.com/?q=Madarae%20%28San%20Francisco%29"
-        },
-        "coords": null,
-        "coords_precise": false,
-        "ra": {},
-        "image": "",
-        "image_generated": false,
-        "popularity": 0,
-        "enriched": 0,
-        "active": true
-      },
-      {
         "id": "2026-11-02-music-table-reservations-3a5c01",
         "eid": "table-reservations-c990",
         "track": "music",
@@ -11001,45 +10976,6 @@
         "active": true
       },
       {
-        "id": "2026-11-02-music-rivo-fd9684",
-        "eid": "rivo-e3bb",
-        "track": "music",
-        "category": "",
-        "name": "Rivo",
-        "day": "Sat",
-        "date": "2026-11-07",
-        "time": "9pm",
-        "start": "21:00",
-        "end": null,
-        "area": "",
-        "venue": "Madarae (San Francisco)",
-        "address": "",
-        "why": "",
-        "summary": "",
-        "promoter": "",
-        "price": "",
-        "tags": [],
-        "sources": [
-          {
-            "url": "https://ra.co/events/2559719",
-            "hidden": true
-          }
-        ],
-        "tickets": [],
-        "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=Madarae%20%28San%20Francisco%29",
-          "apple": "https://maps.apple.com/?q=Madarae%20%28San%20Francisco%29"
-        },
-        "coords": null,
-        "coords_precise": false,
-        "ra": {},
-        "image": "",
-        "image_generated": false,
-        "popularity": 0,
-        "enriched": 0,
-        "active": true
-      },
-      {
         "id": "2026-11-02-music-voon-54-a-studio-54-harvest-pa-76f3d7",
         "eid": "voon-54-a-studio-54-harv-4929",
         "track": "music",
@@ -11284,42 +11220,6 @@
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Inner%20Sunset",
           "apple": "https://maps.apple.com/?q=Inner%20Sunset"
-        },
-        "coords": null,
-        "coords_precise": false,
-        "ra": {},
-        "image": "",
-        "image_generated": false,
-        "popularity": 0,
-        "enriched": 0,
-        "active": true
-      },
-      {
-        "id": "2026-11-02-music-sha-ray-8a700d",
-        "eid": "sha-ray-15b7",
-        "track": "music",
-        "category": "",
-        "name": "Sha Ray",
-        "day": "Sun",
-        "date": "2026-11-08",
-        "time": "7pm",
-        "start": "19:00",
-        "end": null,
-        "area": "",
-        "venue": "Bottom Of The Hill (San Francisco)",
-        "address": "",
-        "why": "",
-        "summary": "",
-        "promoter": "",
-        "price": "",
-        "tags": [],
-        "sources": [
-          "https://dice.fm/event/nvpap9-armand-hammer-sha-ray-dj-haram-8th-nov-bottom-of-the-hill-san-francisco-tickets"
-        ],
-        "tickets": [],
-        "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=Bottom%20Of%20The%20Hill%20%28San%20Francisco%29",
-          "apple": "https://maps.apple.com/?q=Bottom%20Of%20The%20Hill%20%28San%20Francisco%29"
         },
         "coords": null,
         "coords_precise": false,

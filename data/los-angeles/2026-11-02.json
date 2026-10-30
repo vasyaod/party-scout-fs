@@ -5428,21 +5428,28 @@
         "id": "2026-11-02-music-information-shakolin-98dots-ka-ef3eb7",
         "eid": "information-shakolin-98d-5b85",
         "track": "music",
-        "category": "",
+        "category": "Concert",
         "name": "Information: Shakolin + 98dots + Kana Hishiya",
         "day": "Fri",
         "date": "2026-11-06",
         "time": "22:00",
-        "start": null,
-        "end": null,
-        "area": "Los Angeles",
+        "start": "22:00",
+        "end": "05:00",
+        "area": "DTLA",
         "venue": "TBA - Secret Location DTLA",
         "address": "",
-        "why": "",
-        "summary": "",
+        "why": "A late-night underground bill with a hidden venue and a seven-hour run.",
+        "summary": "Information presents Shakolin, 98dots and Kana Hishiya for an all-night session, 10pm to 5am, at a secret DTLA location announced to ticket holders.",
         "promoter": "",
         "price": "",
-        "tags": [],
+        "tags": [
+          "live",
+          "lineup",
+          "techno",
+          "underground",
+          "secret-location",
+          "all-night"
+        ],
         "sources": [
           "https://ra.co/events/2566962",
           {
@@ -5450,7 +5457,10 @@
             "hidden": true
           }
         ],
-        "tickets": [],
+        "tickets": [
+          "https://ra.co/events/2566962",
+          "https://ra.co/events/us/losangeles"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Los%20Angeles",
           "apple": "https://maps.apple.com/?q=Los%20Angeles"
@@ -5458,17 +5468,17 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/los-angeles/2026-11-02/information-shakolin-98d-5b85.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
         "id": "2026-11-02-music-reverberation-radio-dj-night-daddb1",
         "eid": "reverberation-radio-dj-n-076f",
         "track": "music",
-        "category": "",
+        "category": "Nightclub",
         "name": "Reverberation Radio DJ Night",
         "day": "Fri",
         "date": "2026-11-06",
@@ -5478,18 +5488,27 @@
         "area": "Los Angeles",
         "venue": "Zebulon",
         "address": "",
-        "why": "",
-        "summary": "",
+        "why": "A free Friday night of boogie and disco from a radio crew that knows its records.",
+        "summary": "Reverberation Radio's DJ night at Zebulon: tropical boogie, international disco and spaced-out 70s dance floor favorites. Free entry, 21+.",
         "promoter": "",
-        "price": "",
-        "tags": [],
+        "price": "Free",
+        "tags": [
+          "dj",
+          "free",
+          "live",
+          "boogie",
+          "disco"
+        ],
         "sources": [
           {
             "url": "https://19hz.info/eventlisting_LosAngeles.php",
             "hidden": true
-          }
+          },
+          "https://dice.fm/event/6a5e955d2a3d9f000176b035"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://dice.fm/event/6a5e955d2a3d9f000176b035"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Zebulon%2C%20Los%20Angeles",
           "apple": "https://maps.apple.com/?q=Zebulon%2C%20Los%20Angeles"
@@ -5497,31 +5516,36 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/los-angeles/2026-11-02/reverberation-radio-dj-n-076f.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
         "id": "2026-11-02-music-tokyo-love-song-city-pop-night-fc7f79",
         "eid": "tokyo-love-song-city-pop-c0df",
         "track": "music",
-        "category": "",
+        "category": "Nightclub",
         "name": "Tokyo Love Song - City Pop Night In Little Tokyo",
         "day": "Fri",
         "date": "2026-11-06",
         "time": "21:00",
-        "start": null,
-        "end": null,
+        "start": "21:00",
+        "end": "01:00",
         "area": "Los Angeles",
         "venue": "Hello Stranger",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "320 East 2nd Street Los Angeles, CA 90012",
+        "why": "Good for fans of city pop looking for a themed music night in Little Tokyo.",
+        "summary": "A City Pop–themed night in Little Tokyo on November 6, 2026, at 320 East 2nd Street, Los Angeles.",
         "promoter": "",
         "price": "$7.50-$15",
-        "tags": [],
+        "tags": [
+          "city-pop",
+          "dj",
+          "dance",
+          "japanese"
+        ],
         "sources": [
           "https://ra.co/events/2566191",
           {
@@ -5529,7 +5553,10 @@
             "hidden": true
           }
         ],
-        "tickets": [],
+        "tickets": [
+          "https://ra.co/events/2566191",
+          "https://ra.co/events/us/losangeles"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Hello%20Stranger%2C%20Los%20Angeles",
           "apple": "https://maps.apple.com/?q=Hello%20Stranger%2C%20Los%20Angeles"
@@ -5537,10 +5564,10 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/los-angeles/2026-11-02/tokyo-love-song-city-pop-c0df.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
