@@ -4933,11 +4933,17 @@
         "area": "Los Angeles",
         "venue": "Zebulon",
         "address": "",
-        "why": "",
-        "summary": "",
+        "why": "A midweek live-music night at Zebulon, an intimate Frogtown room, for $24.",
+        "summary": "Green-House plays Zebulon on a Wednesday night, 8–11pm, per the 19hz LA listing.",
         "promoter": "",
-        "price": "",
-        "tags": [],
+        "price": "$24",
+        "tags": [
+          "ticketed",
+          "nightlife",
+          "live",
+          "midweek",
+          "zebulon"
+        ],
         "sources": [
           {
             "url": "https://19hz.info/eventlisting_LosAngeles.php",
@@ -4955,35 +4961,44 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
         "id": "2026-11-09-music-raps-4-n-ggas-who-read-books-v-33f7f4",
         "eid": "raps-4-n-ggas-who-read-b-56b1",
         "track": "music",
-        "category": "",
+        "category": "Concert",
         "name": "Raps 4 N*ggas Who Read Books: Vol. 1",
         "day": "Wed",
         "date": "2026-11-11",
         "time": "18:00-22:00",
-        "start": null,
-        "end": null,
+        "start": "18:00",
+        "end": "22:00",
         "area": "Los Angeles",
         "venue": "Dublab",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "1035 W 24th St",
+        "why": "To catch live rap performances at a free community event.",
+        "summary": "An event called \"Raps 4 N*ggas Who Read Books: Vol. 1\" takes place on November 11, 2026 at 1035 W 24th St in Los Angeles. Admission is free.",
         "promoter": "",
-        "price": "",
-        "tags": [],
+        "price": "Free",
+        "tags": [
+          "hip-hop",
+          "free",
+          "live",
+          "community"
+        ],
         "sources": [
           {
             "url": "https://ra.co/events/us/losangeles",
             "hidden": true
-          }
+          },
+          "https://ra.co/events/2568579"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://ra.co/events/us/losangeles",
+          "https://ra.co/events/2568579"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Dublab%2C%20Los%20Angeles",
           "apple": "https://maps.apple.com/?q=Dublab%2C%20Los%20Angeles"
@@ -4991,10 +5006,10 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/los-angeles/2026-11-09/raps-4-n-ggas-who-read-b-56b1.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
@@ -5899,21 +5914,30 @@
         "id": "2026-11-09-sports-queer-crush-stronghold-echo-pa-b6ffee",
         "eid": "queer-crush-stronghold-e-0e67",
         "track": "sports",
-        "category": "",
+        "category": "Nightclub",
         "name": "Queer Crush @ Stronghold Echo Park",
         "day": "Wed",
         "date": "2026-11-11",
         "time": "19:00",
         "start": null,
         "end": null,
-        "area": "Los Angeles",
+        "area": "Echo Park",
         "venue": "The Stronghold Climbing Gym, 1624 W Sunset Blvd",
         "address": "",
-        "why": "",
-        "summary": "",
+        "why": "A friendly, low-pressure way to meet queer people while bouldering, no experience needed.",
+        "summary": "Queer Crush hosts its Wednesday-night LGBTQ+ climbing meetup at The Stronghold Climbing Gym in Echo Park, 7–9pm.",
         "promoter": "",
         "price": "",
-        "tags": [],
+        "tags": [
+          "queer",
+          "dance",
+          "dj",
+          "21+",
+          "climbing",
+          "lgbtq",
+          "meetup",
+          "social"
+        ],
         "sources": [
           {
             "url": "https://www.meetup.com",
@@ -5931,7 +5955,7 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {

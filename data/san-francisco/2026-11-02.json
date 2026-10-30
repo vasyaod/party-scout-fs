@@ -9648,16 +9648,20 @@
         "day": "Sat",
         "date": "2026-11-07",
         "time": "21:00",
-        "start": null,
-        "end": null,
+        "start": "21:00",
+        "end": "02:00",
         "area": "San Francisco",
         "venue": "Tamarack",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "1501 Harrison Street Oakland CA 94612",
+        "why": "For a night out at an Oakland venue.",
+        "summary": "R.D.M. takes place on 2026-11-07 at 1501 Harrison Street in Oakland, CA.",
         "promoter": "",
         "price": "10",
-        "tags": [],
+        "tags": [
+          "oakland",
+          "nightlife",
+          "event"
+        ],
         "sources": [
           {
             "url": "https://ra.co/events/2562926",
@@ -9668,7 +9672,10 @@
             "hidden": true
           }
         ],
-        "tickets": [],
+        "tickets": [
+          "https://ra.co/events/2562926",
+          "https://ra.co/events/us/sanfrancisco"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Tamarack%2C%20San%20Francisco",
           "apple": "https://maps.apple.com/?q=Tamarack%2C%20San%20Francisco"
@@ -9677,9 +9684,9 @@
         "coords_precise": false,
         "ra": {},
         "image": "https://api.party-scout.app/img/san-francisco/2026-11-02/r-d-m-a640.jpg",
-        "image_generated": true,
+        "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
@@ -12065,16 +12072,24 @@
         "day": "Sat",
         "date": "2026-11-07",
         "time": "09:00",
-        "start": null,
-        "end": null,
-        "area": "San Francisco",
+        "start": "09:00",
+        "end": "11:00",
+        "area": "Mission",
         "venue": "Mission Recreation Center, 2450 Harrison St",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "2450 Harrison St, San Francisco, CA",
+        "why": "A free, friendly Saturday-morning game for squash players of any level in the heart of the Mission.",
+        "summary": "Weekly drop-in squash at the Mission Rec Center courts with the San Francisco Racquet Sports group. Free to play, near 16th and 24th St BART, with street parking all around.",
         "promoter": "",
-        "price": "",
-        "tags": [],
+        "price": "Free",
+        "tags": [
+          "saturday",
+          "nightlife",
+          "squash",
+          "sports",
+          "drop-in",
+          "free",
+          "mission"
+        ],
         "sources": [
           "https://www.meetup.com/san-francisco-racquet-sports/events/317036085/",
           {
@@ -12091,30 +12106,39 @@
         "coords_precise": false,
         "ra": {},
         "image": "https://api.party-scout.app/img/san-francisco/2026-11-02/squash-in-the-mission-sa-49b7.jpg",
-        "image_generated": true,
+        "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
         "id": "2026-11-02-sports-volleyball-training-and-playin-730003",
         "eid": "volleyball-training-and-3630",
         "track": "sports",
-        "category": "",
+        "category": "Sports",
         "name": "Volleyball. Training and Playing.",
         "day": "Sat",
         "date": "2026-11-07",
         "time": "09:00",
-        "start": null,
-        "end": null,
-        "area": "San Francisco",
+        "start": "09:00",
+        "end": "14:00",
+        "area": "Ocean Beach",
         "venue": "Ocean Beach, Stairwell 17, just across from Beach Chalet, 1000 Great Hwy",
         "address": "1000 Great Hwy, San Francisco, CA",
-        "why": "",
-        "summary": "",
+        "why": "A casual, free way to learn and play beach volleyball by the ocean on a Saturday morning.",
+        "summary": "Free beach volleyball training and pickup games at Ocean Beach, Stairwell 17, across from Beach Chalet. Equipment is provided by the organizer and donations are welcome.",
         "promoter": "",
-        "price": "",
-        "tags": [],
+        "price": "Free (donations welcome)",
+        "tags": [
+          "sports",
+          "fitness",
+          "recreational",
+          "drop-in",
+          "volleyball",
+          "beach",
+          "outdoors",
+          "free"
+        ],
         "sources": [
           "https://www.meetup.com/san-francisco-volleyball-training-playing-meetup-group/events/316999843/",
           "https://www.meetup.com/san-francisco-volleyball-training-playing-meetup-group/events/317036008/",
@@ -12134,7 +12158,7 @@
         "image": "https://secure-content.meetupstatic.com/images/classic-events/499116954/676x676.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
