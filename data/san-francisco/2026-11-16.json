@@ -3287,21 +3287,29 @@
         "id": "2026-11-16-music-eiv-r-c65c6c",
         "eid": "eiv-r-0a8d",
         "track": "music",
-        "category": "",
+        "category": "Concert",
         "name": "Eivør",
         "day": "Fri",
         "date": "2026-11-20",
         "time": "8:00PM",
         "start": "20:00",
         "end": null,
-        "area": "San Francisco",
+        "area": "SF",
         "venue": "August Hall",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "1111 California St., San Francisco, CA 94108",
+        "why": "A rare Bay Area date for one of the most distinctive voices in Nordic music — atmospheric, powerful and fully live.",
+        "summary": "Faroese singer-songwriter Eivør brings her haunting, folk-rooted art-pop and Nordic vocals to August Hall for an 8 PM show.",
         "promoter": "",
-        "price": "",
-        "tags": [],
+        "price": "From $38",
+        "tags": [
+          "live",
+          "folk",
+          "international",
+          "vocals",
+          "live music",
+          "nordic",
+          "art pop"
+        ],
         "sources": [
           {
             "url": "https://dothebay.com/events",
@@ -3317,38 +3325,46 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/san-francisco/2026-11-16/eiv-r-0a8d.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
         "id": "2026-11-16-music-endzeit-x-non-series-luigi-toz-1d958d",
         "eid": "endzeit-x-non-series-lui-7406",
         "track": "music",
-        "category": "",
+        "category": "Nightclub",
         "name": "Endzeit X Non Series: Luigi Tozzi, Psyk, Neel, Tauceti, Jin Synth, RMNA",
         "day": "Fri",
         "date": "2026-11-20",
         "time": "10pm",
         "start": "22:00",
-        "end": null,
+        "end": "06:00",
         "area": "San Francisco",
         "venue": "TBA",
         "address": "",
-        "why": "",
-        "summary": "",
+        "why": "To catch a multi-artist DJ/producer showcase in one night.",
+        "summary": "Part of the Endzeit X Non Series, this San Francisco night features Luigi Tozzi, Psyk, Neel, Tauceti, Jin Synth, and RMNA.",
         "promoter": "",
         "price": "",
-        "tags": [],
+        "tags": [
+          "dj",
+          "electronic",
+          "club",
+          "underground"
+        ],
         "sources": [
           {
             "url": "https://19hz.info/eventlisting_BayArea.php",
             "hidden": true
-          }
+          },
+          "https://ra.co/events/2568557"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://ra.co/events/2568557"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=San%20Francisco",
           "apple": "https://maps.apple.com/?q=San%20Francisco"
@@ -3356,39 +3372,53 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/san-francisco/2026-11-16/endzeit-x-non-series-lui-7406.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
         "id": "2026-11-16-music-endzeit-x-non-series-luigi-toz-703f63",
         "eid": "endzeit-x-non-series-lui-4a30",
         "track": "music",
-        "category": "",
+        "category": "Nightclub",
         "name": "Endzeit x Non Series: Luigi Tozzi // Psyk // Neel // Tauceti // more",
         "day": "Fri",
         "date": "2026-11-20",
         "time": "22:00",
-        "start": null,
-        "end": null,
-        "area": "San Francisco",
+        "start": "22:00",
+        "end": "06:00",
+        "area": "SF",
         "venue": "TBA - San Francisco",
         "address": "",
-        "why": "",
-        "summary": "",
-        "promoter": "",
+        "why": "A rare US debut from Luigi Tozzi plus Psyk going long, with serious sound and a secret-location setup.",
+        "summary": "Endzeit presents Non Series Quince: an all-night techno bill led by Luigi Tozzi's live US debut and an extended Psyk set, at a secret downtown San Francisco location. Sound by Neptune Audio, 10pm to 6am. 21+.",
+        "promoter": "Endzeit SF",
         "price": "",
-        "tags": [],
+        "tags": [
+          "techno",
+          "dj",
+          "electronic",
+          "21+",
+          "warehouse",
+          "all-night"
+        ],
         "sources": [
           {
             "url": "https://ra.co/events/us/sanfrancisco",
             "hidden": true
           },
+          "https://ra.co/events/2568557",
+          {
+            "url": "https://19hz.info/eventlisting_BayArea.php",
+            "hidden": true
+          }
+        ],
+        "tickets": [
+          "https://ra.co/events/us/sanfrancisco",
           "https://ra.co/events/2568557"
         ],
-        "tickets": [],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=San%20Francisco",
           "apple": "https://maps.apple.com/?q=San%20Francisco"
@@ -3396,11 +3426,12 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/san-francisco/2026-11-16/endzeit-x-non-series-lui-4a30.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
-        "active": true
+        "enriched": 1,
+        "active": true,
+        "lineup": []
       },
       {
         "id": "2026-11-16-music-fjaak-hiroko-yamamura-9c77d7",

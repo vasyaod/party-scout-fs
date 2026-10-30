@@ -1729,23 +1729,31 @@
         "id": "2026-11-16-music-josh-homme-friends-a-benefit-f-359beb",
         "eid": "josh-homme-friends-a-ben-3215",
         "track": "music",
-        "category": "",
+        "category": "Concert",
         "name": "Josh Homme & Friends: A Benefit for CORE & the Sweet Stuff Foundation",
         "day": "Mon",
         "date": "2026-11-16",
-        "time": "",
-        "start": null,
+        "time": "7:00 PM",
+        "start": "19:00",
         "end": null,
-        "area": "",
+        "area": "Koreatown",
         "venue": "The Wiltern",
         "address": "",
-        "why": "",
-        "summary": "",
+        "why": "A rare all-star Monday night: rock, comedy and surprise guests for two good causes.",
+        "summary": "One-night benefit at the Wiltern with Josh Homme, Weird Al Yankovic, Norah Jones, Beck, St. Vincent and The Kills, raising money for CORE disaster relief and the Sweet Stuff Foundation.",
         "promoter": "",
         "price": "",
-        "tags": [],
+        "tags": [
+          "benefit",
+          "rock",
+          "live",
+          "charity",
+          "live-music",
+          "comedy"
+        ],
         "sources": [
-          "https://www.ticketmaster.com/josh-homme-friends-a-benefit-for-los-angeles-california-11-16-2026/event/09006545F671117F"
+          "https://www.ticketmaster.com/josh-homme-friends-a-benefit-for-los-angeles-california-11-16-2026/event/09006545F671117F",
+          "https://www.livenation.com/event/vv1AaZk4AGkdUjoAT/josh-homme-friends-a-benefit-for-core-the-sweet-stuff-foundation"
         ],
         "tickets": [],
         "maps": {
@@ -1755,11 +1763,12 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/los-angeles/2026-11-16/josh-homme-friends-a-ben-3215.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
-        "active": true
+        "enriched": 1,
+        "active": true,
+        "lineup": []
       },
       {
         "id": "2026-11-16-music-vinson-presents-good-company-3e9e0e",
@@ -3691,7 +3700,7 @@
         "id": "2026-11-16-music-sunday-sessions-la-vinyl-only-911391",
         "eid": "sunday-sessions-la-vinyl-d719",
         "track": "music",
-        "category": "",
+        "category": "Concert",
         "name": "Sunday Sessions LA (Vinyl Only) Open Air",
         "day": "Sun",
         "date": "2026-11-22",
@@ -3701,11 +3710,15 @@
         "area": "Los Angeles",
         "venue": "TBA",
         "address": "",
-        "why": "",
-        "summary": "",
+        "why": "Hear DJs spinning exclusively from vinyl in a relaxed outdoor setting.",
+        "summary": "A vinyl-only, open-air DJ session in Los Angeles on Sunday, November 22, 2026.",
         "promoter": "",
         "price": "0-35",
-        "tags": [],
+        "tags": [
+          "vinyl",
+          "dj",
+          "outdoor"
+        ],
         "sources": [
           {
             "url": "https://ra.co/events/us/losangeles",
@@ -3722,7 +3735,8 @@
           "https://ra.co/events/2543421"
         ],
         "tickets": [
-          "https://ra.co/events/2543421"
+          "https://ra.co/events/2543421",
+          "https://ra.co/events/us/losangeles"
         ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Los%20Angeles%20%28Los%20Angeles%29%2C%20Los%20Angeles",
@@ -3734,7 +3748,7 @@
         "image": "https://images.ra.co/84758aaaacf13ce5a11c86fed4dcf6009b4e64a9.png",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true,
         "lineup": [
           {
@@ -3747,7 +3761,7 @@
         "id": "2026-11-16-music-work-weekender-day-3-bb-shaine-8347c0",
         "eid": "work-weekender-day-3-bb-532f",
         "track": "music",
-        "category": "",
+        "category": "Festival",
         "name": "WORK Weekender Day 3: BB Shaine, David Castellani [LIVE], & FJAAK",
         "day": "Sun",
         "date": "2026-11-22",
@@ -3757,11 +3771,16 @@
         "area": "Los Angeles",
         "venue": "TBA - Los Angeles",
         "address": "",
-        "why": "",
-        "summary": "",
+        "why": "To catch a late-weekend bill of techno and live electronic sets.",
+        "summary": "Day 3 of the WORK Weekender on 2026-11-22 featuring BB Shaine, David Castellani (LIVE), and FJAAK.",
         "promoter": "",
         "price": "$20 b4 12 / $25-38",
-        "tags": [],
+        "tags": [
+          "techno",
+          "dj",
+          "live",
+          "electronic"
+        ],
         "sources": [
           {
             "url": "https://ra.co/events/us/losangeles",
@@ -3774,11 +3793,11 @@
           {
             "url": "https://19hz.info/eventlisting_LosAngeles.php",
             "hidden": true
-          },
-          "https://ra.co/events/2537315"
+          }
         ],
         "tickets": [
-          "https://ra.co/events/2537315"
+          "https://ra.co/events/2537315",
+          "https://ra.co/events/us/losangeles"
         ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Los%20Angeles",
@@ -3788,9 +3807,9 @@
         "coords_precise": false,
         "ra": {},
         "image": "https://api.party-scout.app/img/los-angeles/2026-11-16/work-weekender-day-3-bb-532f.jpg",
-        "image_generated": true,
+        "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       }
     ],
@@ -3799,21 +3818,27 @@
         "id": "2026-11-16-sports-co-ed-pickup-soccer-los-angele-2c301a",
         "eid": "co-ed-pickup-soccer-los-a68b",
         "track": "sports",
-        "category": "",
+        "category": "Sports",
         "name": "Co-Ed Pickup Soccer Los Angeles (Downtown/Lincoln Heights)",
         "day": "Tue",
         "date": "2026-11-17",
         "time": "09:50",
-        "start": null,
-        "end": null,
-        "area": "",
+        "start": "09:50",
+        "end": "10:50",
+        "area": "Lincoln Heights",
         "venue": "Downey Recreation Center, 1772 N Spring St",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "1772 N Spring St, Los Angeles, CA",
+        "why": "For casual exercise, friendly matches, and meeting local players.",
+        "summary": "A co-ed pickup soccer session in Downtown/Lincoln Heights at 1772 N Spring St on November 17, 2026. Players organize informal matches on-site.",
         "promoter": "",
-        "price": "",
-        "tags": [],
+        "price": "$9.99 (cash at the field)",
+        "tags": [
+          "soccer",
+          "sports",
+          "outdoor",
+          "coed",
+          "drop-in"
+        ],
         "sources": [
           "https://www.meetup.com/los-angeles-soccer-meetup-group-pezo/events/317177230/"
         ],
@@ -3825,10 +3850,10 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/los-angeles/2026-11-16/co-ed-pickup-soccer-los-a68b.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
