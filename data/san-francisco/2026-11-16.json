@@ -5391,7 +5391,7 @@
         "id": "2026-11-16-music-maddy-o-neal-thought-process-484afe",
         "eid": "maddy-o-neal-thought-pro-35c4",
         "track": "music",
-        "category": "",
+        "category": "Concert",
         "name": "Maddy O'Neal, Thought Process",
         "day": "Sat",
         "date": "2026-11-21",
@@ -5401,11 +5401,14 @@
         "area": "San Francisco",
         "venue": "The Foundry SF",
         "address": "",
-        "why": "",
-        "summary": "",
+        "why": "To see two artists perform live in San Francisco.",
+        "summary": "An event on 2026-11-21 in San Francisco featuring Maddy O'Neal and Thought Process.",
         "promoter": "",
         "price": "$24.14-41.62",
-        "tags": [],
+        "tags": [
+          "live",
+          "concert"
+        ],
         "sources": [
           {
             "url": "https://edmtrain.com/san-francisco-ca",
@@ -5427,28 +5430,31 @@
         "image": "https://api.party-scout.app/img/san-francisco/2026-11-16/maddy-o-neal-thought-pro-35c4.jpg",
         "image_generated": true,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
         "id": "2026-11-16-music-mor-music-underground-8d0365",
         "eid": "mor-music-underground-0637",
         "track": "music",
-        "category": "",
+        "category": "Nightclub",
         "name": "MOR Music - Underground",
         "day": "Sat",
         "date": "2026-11-21",
         "time": "22:00",
-        "start": null,
-        "end": null,
+        "start": "22:00",
+        "end": "04:00",
         "area": "San Francisco",
         "venue": "TBA - San Francisco",
         "address": "",
-        "why": "",
-        "summary": "",
+        "why": "To experience local nightlife and discover new music.",
+        "summary": "A music night titled MOR Music - Underground scheduled for 2026-11-21 in San Francisco.",
         "promoter": "",
         "price": "$11.50 b4 11 / $17-23",
-        "tags": [],
+        "tags": [
+          "music",
+          "underground"
+        ],
         "sources": [
           {
             "url": "https://ra.co/events/us/sanfrancisco",
@@ -5460,7 +5466,10 @@
             "hidden": true
           }
         ],
-        "tickets": [],
+        "tickets": [
+          "https://ra.co/events/us/sanfrancisco",
+          "https://ra.co/events/2567997"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=San%20Francisco",
           "apple": "https://maps.apple.com/?q=San%20Francisco"
@@ -5471,7 +5480,7 @@
         "image": "https://images.ra.co/88c21dd4545250cead7c7002e9660f584ea15c97.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
@@ -5518,21 +5527,28 @@
         "id": "2026-11-16-music-noemara-001-saxton-keen-83946c",
         "eid": "noemara-001-saxton-keen-43b9",
         "track": "music",
-        "category": "",
+        "category": "Nightclub",
         "name": "Noemara 001 - Saxton, Keen",
         "day": "Sat",
         "date": "2026-11-21",
         "time": "8pm",
         "start": "20:00",
-        "end": null,
-        "area": "San Francisco",
+        "end": "00:00",
+        "area": "SF",
         "venue": "TBA",
         "address": "",
-        "why": "",
-        "summary": "",
+        "why": "Go if you want to catch the first Noemara night with Saxton and Keen at a modest door price.",
+        "summary": "Noemara 001 is a Saturday-night electronic bill in San Francisco with Saxton and Keen, starting at 8pm. The venue is not yet announced in the 19hz listing.",
         "promoter": "",
         "price": "$15 pre / $20-25",
-        "tags": [],
+        "tags": [
+          "dj",
+          "electronic",
+          "21+",
+          "debut",
+          "club",
+          "saturday"
+        ],
         "sources": [
           {
             "url": "https://19hz.info/eventlisting_BayArea.php",
@@ -5550,28 +5566,33 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
         "id": "2026-11-16-music-ookay-ce93e1",
         "eid": "ookay-98ad",
         "track": "music",
-        "category": "",
+        "category": "Concert",
         "name": "Ookay",
         "day": "Sat",
         "date": "2026-11-21",
         "time": "9pm",
         "start": "21:00",
-        "end": null,
+        "end": "02:30",
         "area": "San Francisco",
         "venue": "Madarae",
         "address": "46 Minna St, San Francisco, CA 94105, United States",
-        "why": "",
-        "summary": "",
+        "why": "Go for a high-energy electronic DJ set and dancing.",
+        "summary": "Electronic artist Ookay is scheduled to perform in San Francisco on November 21, 2026.",
         "promoter": "",
         "price": "$10 - $30",
-        "tags": [],
+        "tags": [
+          "electronic",
+          "dj",
+          "dance",
+          "live"
+        ],
         "sources": [
           {
             "url": "https://19hz.info/eventlisting_BayArea.php",
@@ -5583,7 +5604,10 @@
           },
           "https://ra.co/events/2567312"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://ra.co/events/us/sanfrancisco",
+          "https://ra.co/events/2567312"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=46%20Minna%20St%2C%20San%20Francisco%2C%20CA%2094105%2C%20United%20States",
           "apple": "https://maps.apple.com/?q=46%20Minna%20St%2C%20San%20Francisco%2C%20CA%2094105%2C%20United%20States"
@@ -5594,14 +5618,14 @@
         "image": "https://images.ra.co/0d7a7f576ac8109c044419b1dc5a525323e02efe.png",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
         "id": "2026-11-16-music-ozomatli-a12b16",
         "eid": "ozomatli-ccd5",
         "track": "music",
-        "category": "",
+        "category": "Concert",
         "name": "Ozomatli",
         "day": "Sat",
         "date": "2026-11-21",
@@ -5610,12 +5634,16 @@
         "end": null,
         "area": "San Francisco",
         "venue": "The UC Theatre",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "1111 California St., San Francisco, CA 94108",
+        "why": "Catch a high-energy live show in downtown San Francisco.",
+        "summary": "Ozomatli at 1111 California St., San Francisco on 2026-11-21; tickets are $47.",
         "promoter": "",
-        "price": "",
-        "tags": [],
+        "price": "$47",
+        "tags": [
+          "live",
+          "latin",
+          "ticketed"
+        ],
         "sources": [
           {
             "url": "https://dothebay.com/events",
@@ -5631,36 +5659,42 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/san-francisco/2026-11-16/ozomatli-ccd5.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
         "id": "2026-11-16-music-paul-collins-night-2-81b9e8",
         "eid": "paul-collins-night-2-aea8",
         "track": "music",
-        "category": "",
+        "category": "Concert",
         "name": "Paul Collins: Night 2",
         "day": "Sat",
         "date": "2026-11-21",
-        "time": "",
-        "start": null,
+        "time": "7pm",
+        "start": "19:00",
         "end": null,
         "area": "San Francisco",
         "venue": "Kilowatt",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "1111 California St., San Francisco, CA 94108",
+        "why": "For an evening ticketed live performance at a central San Francisco venue.",
+        "summary": "Paul Collins: Night 2 takes place at 7pm on November 21, 2026 at 1111 California St., San Francisco. Tickets are $30.",
         "promoter": "",
-        "price": "",
-        "tags": [],
+        "price": "$30",
+        "tags": [
+          "live",
+          "ticketed",
+          "indoor",
+          "evening"
+        ],
         "sources": [
           {
             "url": "https://dothebay.com/events",
             "hidden": true
-          }
+          },
+          "https://dothebay.com/events/2026/11/21/paul-collins-the-best-of-the-nerves-and-the-beat-and-exploding-hearts-night-2-tickets"
         ],
         "tickets": [],
         "maps": {
@@ -5670,10 +5704,10 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/san-francisco/2026-11-16/paul-collins-night-2-aea8.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
