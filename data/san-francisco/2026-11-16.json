@@ -2957,7 +2957,7 @@
         "id": "2026-11-16-music-carl-cox-with-seth-troxler-49b6ad",
         "eid": "carl-cox-with-seth-troxl-ac39",
         "track": "music",
-        "category": "",
+        "category": "Nightclub",
         "name": "Carl Cox with Seth Troxler",
         "day": "Fri",
         "date": "2026-11-20",
@@ -2966,12 +2966,16 @@
         "end": null,
         "area": "San Francisco",
         "venue": "Pier 48 Shed A",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "1111 California St., San Francisco, CA 94108",
+        "why": "To hear high-energy techno and house DJ sets.",
+        "summary": "A DJ night featuring Carl Cox with Seth Troxler on November 20, 2026 at 1111 California St., San Francisco; tickets are $80–$89.",
         "promoter": "",
-        "price": "",
-        "tags": [],
+        "price": "$80–$89",
+        "tags": [
+          "dj",
+          "techno",
+          "house"
+        ],
         "sources": [
           {
             "url": "https://dothebay.com/events",
@@ -2984,7 +2988,8 @@
           {
             "url": "https://edmtrain.com/san-francisco-ca",
             "hidden": true
-          }
+          },
+          "https://dothebay.com/events/2026/11/20/carl-cox-w-seth-troxler-b2b-william-kiss-tickets"
         ],
         "tickets": [],
         "maps": {
@@ -2995,9 +3000,9 @@
         "coords_precise": false,
         "ra": {},
         "image": "https://api.party-scout.app/img/san-francisco/2026-11-16/carl-cox-with-seth-troxl-ac39.jpg",
-        "image_generated": true,
+        "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
