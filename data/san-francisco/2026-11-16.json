@@ -6608,21 +6608,27 @@
         "id": "2026-11-16-music-jonas-brothers-9399cd",
         "eid": "jonas-brothers-bbd0",
         "track": "music",
-        "category": "",
+        "category": "Concert",
         "name": "Jonas Brothers",
         "day": "Sun",
         "date": "2026-11-22",
         "time": "7:30PM",
         "start": "19:30",
         "end": null,
-        "area": "",
+        "area": "Sacramento",
         "venue": "Golden 1 Center",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "500 David J Stern Walk, Sacramento, CA 95814",
+        "why": "A big arena pop-rock night with the Jonas Brothers' biggest hits, a quick drive from the Bay.",
+        "summary": "The Jonas Brothers bring The Burning Up Tour: All Over Again to Golden 1 Center in Sacramento, with special guests Magnus Ferrell and Deleasa. Doors 6:30 PM, show 7:30 PM.",
         "promoter": "",
-        "price": "",
-        "tags": [],
+        "price": "$66-$391",
+        "tags": [
+          "pop",
+          "live",
+          "arena",
+          "all-ages",
+          "concert"
+        ],
         "sources": [
           "https://dothebay.com/events/2026/11/22/jonas-brothers-the-burning-up-tour-all-over-again-tickets"
         ],
@@ -6634,38 +6640,47 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/san-francisco/2026-11-16/jonas-brothers-bbd0.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
         "id": "2026-11-16-music-late-night-clubbing-095-4e3ce3",
         "eid": "late-night-clubbing-095-cb0a",
         "track": "music",
-        "category": "",
+        "category": "Nightclub",
         "name": "Late Night Clubbing #095",
         "day": "Sun",
         "date": "2026-11-22",
         "time": "1am",
         "start": "01:00",
-        "end": null,
-        "area": "San Francisco",
+        "end": "06:00",
+        "area": "SF",
         "venue": "TBA",
         "address": "",
-        "why": "",
-        "summary": "",
-        "promoter": "",
+        "why": "An after-hours house and EDM session for people who want to keep dancing until sunrise.",
+        "summary": "Nyx's Late Night Clubbing #095 runs 1am to 6am on Sunday morning, with house and EDM and a surprise guest billed.",
+        "promoter": "Nyx",
         "price": "",
-        "tags": [],
+        "tags": [
+          "dj",
+          "dance",
+          "late-night",
+          "21+",
+          "house",
+          "edm"
+        ],
         "sources": [
           {
             "url": "https://19hz.info/eventlisting_BayArea.php",
             "hidden": true
           }
         ],
-        "tickets": [],
+        "tickets": [
+          "https://posh.vip/e/nyx-late-night-clubbing-095-saturday-w-surprise-guest"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=San%20Francisco",
           "apple": "https://maps.apple.com/?q=San%20Francisco"
@@ -6676,7 +6691,7 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
@@ -6690,22 +6705,33 @@
         "time": "6:00PM",
         "start": "18:00",
         "end": null,
-        "area": "San Francisco",
+        "area": "Castro",
         "venue": "The Castro",
-        "address": "",
-        "why": "",
-        "summary": "",
-        "promoter": "",
+        "address": "1111 California St., San Francisco, CA 94108",
+        "why": "A one-night civic and community celebration with honorees Mark Leno, Gael Lala-Chávez and Angel Adeyoha, plus live entertainment, in a historic Castro room.",
+        "summary": "The Academy's Legends Awards, a night of giving thanks at the Castro Theatre, hosted by Sister Roma with Nancy Pelosi as speaker and Zac Posen as key presenter.",
+        "promoter": "The Academy",
         "price": "",
-        "tags": [],
+        "tags": [
+          "awards",
+          "indoor",
+          "formal",
+          "community",
+          "castro",
+          "lgbtq",
+          "all-ages"
+        ],
         "sources": [
           {
             "url": "https://dothebay.com/events",
             "hidden": true
           },
-          "https://dothebay.com/events/2026/11/22/legends-awards-tickets"
+          "https://dothebay.com/events/2026/11/22/legends-awards-tickets",
+          "https://thecastro.com/events/legends-awards-261122"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://www.ticketweb.com/event/legends-awards-the-castro-theatre-tickets/14337194"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=The%20Castro%2C%20San%20Francisco",
           "apple": "https://maps.apple.com/?q=The%20Castro%2C%20San%20Francisco"
@@ -6713,10 +6739,10 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/san-francisco/2026-11-16/legends-awards-78de.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
