@@ -3040,13 +3040,17 @@
         "area": "Costa Mesa",
         "venue": "Time Nightclub",
         "address": "",
-        "why": "",
-        "summary": "Biscits is scheduled for 2026-11-21 in Los Angeles.",
+        "why": "A bass-and-house-leaning Orange County night with a strong support lineup — worth it if you want a proper club night south of LA.",
+        "summary": "Biscits plays Time Nightclub in Costa Mesa on Saturday, Nov 21, with GRLSKOUT and Chris Who? on the bill. Doors 10pm, 21+.",
         "promoter": "",
         "price": "$23+",
         "tags": [
           "nightlife",
-          "party"
+          "party",
+          "house",
+          "bass",
+          "club",
+          "21+"
         ],
         "sources": [
           "https://www.tixr.com/groups/timenightclub/events/biscits-209487"
@@ -3061,11 +3065,12 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/los-angeles/2026-11-16/biscits-ff82.jpg",
         "image_generated": false,
         "popularity": 0,
         "enriched": 1,
-        "active": true
+        "active": true,
+        "lineup": []
       },
       {
         "id": "2026-11-16-music-the-buckhenries-79e4d3",
@@ -3111,25 +3116,32 @@
         "id": "2026-11-16-music-commonthread-jungle-gym-a5efd2",
         "eid": "commonthread-jungle-gym-9c59",
         "track": "music",
-        "category": "",
+        "category": "Nightclub",
         "name": "COMMONTHREAD - JUNGLE GYM",
         "day": "Sat",
         "date": "2026-11-21",
         "time": "21:00-02:00",
-        "start": null,
-        "end": null,
-        "area": "",
+        "start": "21:00",
+        "end": "02:00",
+        "area": "Hollywood",
         "venue": "The Airliner",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "2419 N Broadway, Los Angeles, CA 90036",
+        "why": "For a lively night of music and dancing in Hollywood.",
+        "summary": "COMMONTHREAD - JUNGLE GYM is an event scheduled for November 21, 2026 at 2419 N Broadway in Los Angeles.",
         "promoter": "",
         "price": "15.00",
-        "tags": [],
+        "tags": [
+          "dj",
+          "dance",
+          "nightlife",
+          "21+"
+        ],
         "sources": [
           "https://ra.co/events/2571122"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://ra.co/events/2571122"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=The%20Airliner",
           "apple": "https://maps.apple.com/?q=The%20Airliner"
@@ -3137,10 +3149,10 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/los-angeles/2026-11-16/commonthread-jungle-gym-9c59.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
@@ -3153,19 +3165,24 @@
         "date": "2026-11-21",
         "time": "8pm",
         "start": "20:00",
-        "end": null,
+        "end": "00:00",
         "area": "Joshua Tree",
         "venue": "Retreat Center At The Institute Of Mentalphysics",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "59700 Twentynine Palms Highway, Joshua Tree, CA 92252",
+        "why": "To see the billed artists perform at a Joshua Tree–area location.",
+        "summary": "Gather is a show featuring Marques Wyatt and Jeremy Sole on 2026-11-21 at 59700 Twentynine Palms Highway, Joshua Tree, CA 92252.",
         "promoter": "",
         "price": "$31+",
-        "tags": [],
+        "tags": [
+          "dj",
+          "live"
+        ],
         "sources": [
           "https://link.dice.fm/r760e4b86e78"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://link.dice.fm/r760e4b86e78"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Retreat%20Center%20At%20The%20Institute%20Of%20Mentalphysics%2C%20Joshua%20Tree",
           "apple": "https://maps.apple.com/?q=Retreat%20Center%20At%20The%20Institute%20Of%20Mentalphysics%2C%20Joshua%20Tree"
@@ -3173,10 +3190,10 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/los-angeles/2026-11-16/gather-marques-wyatt-jer-1658.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
@@ -4377,16 +4394,20 @@
         "day": "Sat",
         "date": "2026-11-21",
         "time": "16:00",
-        "start": null,
-        "end": null,
-        "area": "Los Angeles",
+        "start": "16:00",
+        "end": "18:00",
+        "area": "Griffith Park",
         "venue": "Griffith Park Merry Go Round Lot 2, Merry Go Round Lot Two",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "Merry Go Round Lot Two, LOS ANGELES, CA",
+        "why": "For an outdoor outing with access to park trails and scenic views.",
+        "summary": "An event at the Merry Go Round Lot Two in Griffith Park on November 21, 2026.",
         "promoter": "",
-        "price": "",
-        "tags": [],
+        "price": "Free",
+        "tags": [
+          "outdoor",
+          "walking",
+          "park"
+        ],
         "sources": [
           {
             "url": "https://www.meetup.com",
@@ -4403,9 +4424,9 @@
         "coords_precise": false,
         "ra": {},
         "image": "https://api.party-scout.app/img/los-angeles/2026-11-16/explore-griffith-park-ae68.jpg",
-        "image_generated": true,
+        "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
