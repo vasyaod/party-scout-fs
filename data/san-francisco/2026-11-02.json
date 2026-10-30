@@ -8605,24 +8605,33 @@
         "name": "Green-House",
         "day": "Wed",
         "date": "2026-11-04",
-        "time": "",
-        "start": null,
+        "time": "8pm",
+        "start": "20:00",
         "end": null,
-        "area": "San Francisco",
+        "area": "Richmond",
         "venue": "4 Star Theater",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "88 5th Street, San Francisco, CA 94103",
+        "why": "A straightforward option for an evening out in SoMa.",
+        "summary": "Green-House is an event at 88 5th Street in San Francisco on November 4, 2026 at 8pm.",
         "promoter": "",
-        "price": "",
-        "tags": [],
+        "price": "$22.82",
+        "tags": [
+          "nightlife",
+          "san-francisco",
+          "soma",
+          "evening"
+        ],
         "sources": [
           {
             "url": "https://dothebay.com/events",
             "hidden": true
-          }
+          },
+          "https://dothebay.com/events/2026/11/4/live-music-green-house-cool-maritime-tickets",
+          "https://www.eventbrite.com/e/green-house-tickets-2001390452720"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://www.eventbrite.com/e/green-house-tickets-2001390452720"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=4%20Star%20Theater%2C%20San%20Francisco",
           "apple": "https://maps.apple.com/?q=4%20Star%20Theater%2C%20San%20Francisco"
@@ -8630,17 +8639,17 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/san-francisco/2026-11-02/green-house-1447.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
         "id": "2026-11-02-music-1st-thursdays-dj-damon-javy-l-7ec69d",
         "eid": "1st-thursdays-dj-damon-j-7118",
         "track": "music",
-        "category": "",
+        "category": "Nightclub",
         "name": "1st Thursdays: DJ Damon, Javy L",
         "day": "Thu",
         "date": "2026-11-05",
@@ -8650,11 +8659,15 @@
         "area": "San Francisco",
         "venue": "1190 Folsom St",
         "address": "",
-        "why": "",
-        "summary": "",
+        "why": "Easy, budget-friendly night out with DJ sets.",
+        "summary": "1st Thursdays is a DJ night on 2026-11-05 featuring DJ Damon and Javy L; free before 9:30pm, $5 after.",
         "promoter": "",
-        "price": "",
-        "tags": [],
+        "price": "free b4 9:30pm / $5",
+        "tags": [
+          "dj",
+          "free",
+          "nightlife"
+        ],
         "sources": [
           {
             "url": "https://19hz.info/eventlisting_BayArea.php",
@@ -8672,7 +8685,7 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
@@ -10172,16 +10185,19 @@
         "day": "Wed",
         "date": "2026-11-04",
         "time": "07:00",
-        "start": null,
-        "end": null,
+        "start": "07:00",
+        "end": "08:00",
         "area": "San Francisco",
         "venue": "WeWork Office Space & Coworking, 156 2nd St",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "156 2nd St, San Francisco, CA",
+        "why": "For a downtown San Francisco nightlife outing in SoMa.",
+        "summary": "An event titled \"RISE + RUN w/ MORGAN\" is scheduled for November 4, 2026 at 156 2nd St in San Francisco.",
         "promoter": "",
-        "price": "",
-        "tags": [],
+        "price": "$16 (cash, optional)",
+        "tags": [
+          "nightlife",
+          "soma"
+        ],
         "sources": [
           "https://www.meetup.com/san-francisco-fitness-meetup-group/events/316994823/",
           {
@@ -10197,31 +10213,39 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/san-francisco/2026-11-02/rise-run-w-morgan-5888.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
         "id": "2026-11-02-sports-sf-underwater-hockey-beginners-ab97ec",
         "eid": "sf-underwater-hockey-beg-83c0",
         "track": "sports",
-        "category": "",
+        "category": "Sports",
         "name": "SF Underwater Hockey Beginners Game",
         "day": "Wed",
         "date": "2026-11-04",
         "time": "18:00",
-        "start": null,
-        "end": null,
-        "area": "San Francisco",
+        "start": "18:00",
+        "end": "20:00",
+        "area": "Bayview",
         "venue": "Martin Luther King Pool, 5701 3rd St (At Carroll Ave, near Candlestick Park)",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "5701 3rd St (At Carroll Ave, near Candlestick Park), San Francisco, CA",
+        "why": "A first game is free and coaches teach from scratch, so it is an easy way to try an odd sport.",
+        "summary": "Coached beginner session of underwater hockey, played in the pool with fins and a snorkel. All ages and coed; a swimming background helps.",
         "promoter": "",
-        "price": "",
-        "tags": [],
+        "price": "First game free",
+        "tags": [
+          "sports",
+          "aquatic",
+          "beginner",
+          "community",
+          "underwater hockey",
+          "beginners",
+          "coed"
+        ],
         "sources": [
           "https://www.meetup.com/sf-underwater-hockey-meetup-group/events/317004335/",
           {
@@ -10237,10 +10261,10 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/san-francisco/2026-11-02/sf-underwater-hockey-beg-83c0.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
