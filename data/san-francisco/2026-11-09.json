@@ -7305,7 +7305,7 @@
         "id": "2026-11-09-music-secret-psychedelica-scorpio-20-f57263",
         "eid": "secret-psychedelica-scor-96c0",
         "track": "music",
-        "category": "",
+        "category": "Concert",
         "name": "Secret Psychedelica: Scorpio 2026 w/The Quasars, Paradigm, Omega11xx, Dropper, Michael Liu, Anthony Zmoda, DJ Clairity, Dom1, Kurtographer, Redstickman",
         "day": "Sat",
         "date": "2026-11-14",
@@ -7314,20 +7314,28 @@
         "end": "02:00",
         "area": "San Francisco",
         "venue": "DNA Lounge",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "375 Eleventh Street, San Francisco, CA 94103, United States",
+        "why": "Catch a dense lineup of psychedelic and electronic DJs and live acts in one night.",
+        "summary": "Secret Psychedelica: Scorpio 2026 is a show on 2026-11-14 at 375 Eleventh Street in San Francisco, featuring The Quasars, Paradigm, Omega11xx, Dropper, Michael Liu, Anthony Zmoda, DJ Clairity, Dom1, Kurtographer, and Redstickman. Tickets are listed at $11–$25.",
         "promoter": "",
-        "price": "",
-        "tags": [],
+        "price": "$11–$25",
+        "tags": [
+          "psychedelic",
+          "electronic",
+          "dj",
+          "live"
+        ],
         "sources": [
           {
             "url": "https://19hz.info/eventlisting_BayArea.php",
             "hidden": true
           },
-          "https://www.dnalounge.com/calendar/2026/11-14d.html"
+          "https://www.dnalounge.com/calendar/2026/11-14d.html",
+          "https://ra.co/events/2568028"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://ra.co/events/2568028"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=DNA%20Lounge%2C%20San%20Francisco",
           "apple": "https://maps.apple.com/?q=DNA%20Lounge%2C%20San%20Francisco"
@@ -7336,9 +7344,9 @@
         "coords_precise": false,
         "ra": {},
         "image": "https://api.party-scout.app/img/san-francisco/2026-11-09/secret-psychedelica-scor-96c0.jpg",
-        "image_generated": true,
+        "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
@@ -10818,16 +10826,20 @@
         "day": "Sat",
         "date": "2026-11-14",
         "time": "09:00",
-        "start": null,
-        "end": null,
+        "start": "09:00",
+        "end": "11:00",
         "area": "San Francisco",
         "venue": "Mission Recreation Center, 2450 Harrison St",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "2450 Harrison St, San Francisco, CA",
+        "why": "To attend a local Saturday activity in central SoMa.",
+        "summary": "An event titled \"Squash in the Mission (Saturday)\" is scheduled for November 14, 2026 at 2450 Harrison St in San Francisco.",
         "promoter": "",
         "price": "",
-        "tags": [],
+        "tags": [
+          "local",
+          "weekend",
+          "social"
+        ],
         "sources": [
           {
             "url": "https://www.meetup.com",
@@ -10843,10 +10855,10 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/san-francisco/2026-11-09/squash-in-the-mission-sa-900d.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {

@@ -1545,7 +1545,7 @@
         "id": "2026-11-16-music-jamila-woods-a7d377",
         "eid": "jamila-woods-897c",
         "track": "music",
-        "category": "",
+        "category": "Concert",
         "name": "Jamila Woods",
         "day": "Wed",
         "date": "2026-11-18",
@@ -1554,12 +1554,21 @@
         "end": null,
         "area": "San Francisco",
         "venue": "August Hall",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "1111 California St., San Francisco, CA 94108",
+        "why": "A rare chance to hear a landmark neo-soul debut live in an intimate Nob Hill room, ten years on.",
+        "summary": "Chicago singer-poet Jamila Woods plays August Hall on the 10th anniversary of her debut album HEAVN, blending neo-soul, R&B and spoken word.",
         "promoter": "",
         "price": "",
-        "tags": [],
+        "tags": [
+          "rnb",
+          "soul",
+          "live",
+          "poetry",
+          "neo-soul",
+          "r&b",
+          "live-music",
+          "concert"
+        ],
         "sources": [
           {
             "url": "https://dothebay.com/events",
@@ -1567,7 +1576,9 @@
           },
           "https://dothebay.com/events/2026/11/18/jamila-woods-10-years-of-heavn-tickets"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://www.ticketmaster.com/jamila-woods-10-years-of-heavn-san-francisco-california-11-18-2026/event/1C006505B4884946"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=August%20Hall%2C%20San%20Francisco",
           "apple": "https://maps.apple.com/?q=August%20Hall%2C%20San%20Francisco"
@@ -1575,10 +1586,10 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/san-francisco/2026-11-16/jamila-woods-897c.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
