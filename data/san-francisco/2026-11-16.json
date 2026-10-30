@@ -369,7 +369,7 @@
         "id": "2026-11-16-music-the-mountain-goats-0ca5c2",
         "eid": "the-mountain-goats-6c73",
         "track": "music",
-        "category": "",
+        "category": "Concert",
         "name": "The Mountain Goats",
         "day": "Mon",
         "date": "2026-11-16",
@@ -378,12 +378,18 @@
         "end": null,
         "area": "San Francisco",
         "venue": "The Fillmore",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "1111 California St., San Francisco, CA 94108",
+        "why": "John Darnielle's literate indie-folk band in a historic room, with a night-specific setlist built around this run.",
+        "summary": "The Mountain Goats play the second of their multi-night Fillmore run, billed Night Two: Alpha, on a Monday night in San Francisco.",
         "promoter": "",
-        "price": "",
-        "tags": [],
+        "price": "From ~$66 (resale; face value on Ticketmaster)",
+        "tags": [
+          "indie",
+          "folk",
+          "live",
+          "live-music",
+          "fillmore"
+        ],
         "sources": [
           {
             "url": "https://dothebay.com/events",
@@ -391,7 +397,9 @@
           },
           "https://dothebay.com/events/2026/11/16/the-mountain-goats-night-two-alpha-tickets"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://www.ticketmaster.com/the-mountain-goats-night-two-alpha-san-francisco-california-11-16-2026/event/1C0064C40B8DB3FE"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=The%20Fillmore%2C%20San%20Francisco",
           "apple": "https://maps.apple.com/?q=The%20Fillmore%2C%20San%20Francisco"
@@ -399,10 +407,10 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/san-francisco/2026-11-16/the-mountain-goats-6c73.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
@@ -814,12 +822,16 @@
         "end": null,
         "area": "San Francisco",
         "venue": "Cafe du Nord",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "1111 California St., San Francisco, CA 94108",
+        "why": "A relatively affordable ticket price for an evening event in central San Francisco.",
+        "summary": "Jammy Buffet is scheduled for November 17, 2026 at 1111 California St., San Francisco. Advance tickets are listed at $32.",
         "promoter": "",
-        "price": "",
-        "tags": [],
+        "price": "$32",
+        "tags": [
+          "paid",
+          "tickets",
+          "san-francisco"
+        ],
         "sources": [
           {
             "url": "https://dothebay.com/events",
@@ -835,10 +847,10 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/san-francisco/2026-11-16/jammy-buffet-155a.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
@@ -1083,14 +1095,20 @@
         "time": "7:30PM",
         "start": "19:30",
         "end": null,
-        "area": "",
+        "area": "Marina",
         "venue": "Palace of Fine Arts",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "3301 Lyon Street, San Francisco, CA 94123",
+        "why": "A polished, funny a cappella show in one of SF's prettiest venues, good for a group night out.",
+        "summary": "Straight No Chaser, the ten-man a cappella group, brings its pop and holiday arrangements to the Palace of Fine Arts.",
         "promoter": "",
         "price": "",
-        "tags": [],
+        "tags": [
+          "live",
+          "indoor",
+          "a cappella",
+          "vocal",
+          "concert"
+        ],
         "sources": [
           "https://dothebay.com/events/2026/11/17/straight-no-chaser-tickets"
         ],
@@ -1102,10 +1120,10 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/san-francisco/2026-11-16/straight-no-chaser-1d7e.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
@@ -7276,21 +7294,29 @@
         "id": "2026-11-16-sports-squash-in-the-mission-tuesday-77db88",
         "eid": "squash-in-the-mission-tu-9963",
         "track": "sports",
-        "category": "",
+        "category": "Sports",
         "name": "Squash in the Mission (Tuesday)",
         "day": "Tue",
         "date": "2026-11-17",
         "time": "18:30",
-        "start": null,
-        "end": null,
-        "area": "",
+        "start": "18:30",
+        "end": "20:30",
+        "area": "Mission",
         "venue": "Mission Recreation Center, 2450 Harrison St",
-        "address": "",
-        "why": "",
-        "summary": "",
-        "promoter": "",
-        "price": "",
-        "tags": [],
+        "address": "2450 Harrison St, San Francisco, CA",
+        "why": "Free, casual squash with a friendly Meetup crowd, steps from 16th and 24th St BART.",
+        "summary": "Weekly drop-in squash night at the Mission Recreation Center, open to all levels.",
+        "promoter": "SF Racquet Sports (Meetup)",
+        "price": "Free",
+        "tags": [
+          "nightlife",
+          "weeknight",
+          "social",
+          "squash",
+          "sports",
+          "drop-in",
+          "free"
+        ],
         "sources": [
           "https://www.meetup.com/san-francisco-racquet-sports/events/317184793/"
         ],
@@ -7302,10 +7328,10 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/san-francisco/2026-11-16/squash-in-the-mission-tu-9963.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
