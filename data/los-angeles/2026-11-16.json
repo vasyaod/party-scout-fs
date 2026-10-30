@@ -2822,7 +2822,7 @@
         "id": "2026-11-16-music-andre-power-c2c609",
         "eid": "andre-power-dcf3",
         "track": "music",
-        "category": "",
+        "category": "Concert",
         "name": "Andre Power",
         "day": "Sat",
         "date": "2026-11-21",
@@ -2831,12 +2831,15 @@
         "end": "02:30",
         "area": "Los Angeles",
         "venue": "The Spotlight",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "1601 North Cahuenga Boulevard, Los Angeles, California 90028",
+        "why": "To catch an intimate live music show in Hollywood's entertainment district.",
+        "summary": "Andre Power performs November 21, 2026 at 1601 North Cahuenga Boulevard in Hollywood, Los Angeles.",
         "promoter": "",
         "price": "$24.93",
-        "tags": [],
+        "tags": [
+          "live",
+          "music"
+        ],
         "sources": [
           {
             "url": "https://19hz.info/eventlisting_LosAngeles.php",
@@ -2844,7 +2847,9 @@
           },
           "https://dice.fm/event/bbq6xv-andre-power-21st-nov-the-spotlight-los-angeles-tickets"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://dice.fm/event/bbq6xv-andre-power-21st-nov-the-spotlight-los-angeles-tickets"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=The%20Spotlight%2C%20Los%20Angeles",
           "apple": "https://maps.apple.com/?q=The%20Spotlight%2C%20Los%20Angeles"
@@ -2853,30 +2858,35 @@
         "coords_precise": false,
         "ra": {},
         "image": "https://api.party-scout.app/img/los-angeles/2026-11-16/andre-power-dcf3.jpg",
-        "image_generated": true,
+        "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
         "id": "2026-11-16-music-b-side-los-angeles-presents-mi-371a41",
         "eid": "b-side-los-angeles-prese-02a6",
         "track": "music",
-        "category": "",
+        "category": "Nightclub",
         "name": "B-Side Los Angeles presents: Mirror Mode - Machinedrum Face to Face Rohaan",
         "day": "Sat",
         "date": "2026-11-21",
         "time": "21:00-02:00",
-        "start": null,
-        "end": null,
+        "start": "21:00",
+        "end": "02:00",
         "area": "Los Angeles",
         "venue": "Don Quixote",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "2811 E Olympic Blvd, Los Angeles, CA 90023",
+        "why": "To catch Machinedrum and Rohaan's electronic sets in a live club setting.",
+        "summary": "B-Side Los Angeles presents Mirror Mode on 2026-11-21 at 2811 E Olympic Blvd, featuring Machinedrum Face to Face and Rohaan; tickets start at $28+.",
         "promoter": "",
-        "price": "",
-        "tags": [],
+        "price": "$28+",
+        "tags": [
+          "electronic",
+          "dj",
+          "live",
+          "paid"
+        ],
         "sources": [
           {
             "url": "https://ra.co/events/us/losangeles",
@@ -2884,7 +2894,10 @@
           },
           "https://ra.co/events/2534764"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://ra.co/events/us/losangeles",
+          "https://ra.co/events/2534764"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Don%20Quixote%2C%20Los%20Angeles",
           "apple": "https://maps.apple.com/?q=Don%20Quixote%2C%20Los%20Angeles"
@@ -2893,9 +2906,9 @@
         "coords_precise": false,
         "ra": {},
         "image": "https://api.party-scout.app/img/los-angeles/2026-11-16/b-side-los-angeles-prese-02a6.jpg",
-        "image_generated": true,
+        "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
@@ -2913,10 +2926,13 @@
         "venue": "2220 Arts + Archives",
         "address": "",
         "why": "",
-        "summary": "",
+        "summary": "Baba Stiltz performs in Los Angeles on November 21, 2026.",
         "promoter": "",
         "price": "",
-        "tags": [],
+        "tags": [
+          "dj",
+          "live"
+        ],
         "sources": [
           {
             "url": "https://edmtrain.com/los-angeles-ca",
@@ -2934,7 +2950,7 @@
         "image": "https://api.party-scout.app/img/los-angeles/2026-11-16/baba-stiltz-d52b.jpg",
         "image_generated": true,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {

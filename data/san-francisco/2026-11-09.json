@@ -7444,21 +7444,25 @@
         "id": "2026-11-09-music-nora-en-pure-85dc43",
         "eid": "nora-en-pure-eaf3",
         "track": "music",
-        "category": "",
+        "category": "Nightclub",
         "name": "Nora En Pure",
         "day": "Sun",
         "date": "2026-11-15",
-        "time": "",
-        "start": null,
+        "time": "7pm",
+        "start": "19:00",
         "end": null,
         "area": "San Francisco",
         "venue": "Social Dayclub Rooftop",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "1111 California St., San Francisco, CA 94108",
+        "why": "For melodic house and a dance-floor evening downtown.",
+        "summary": "Nora En Pure performs in San Francisco on November 15, 2026 at 7pm at 1111 California St. Tickets start at $39 (before 3:30pm) with general admission from $49 and up.",
         "promoter": "",
-        "price": "",
-        "tags": [],
+        "price": "$39 b4 330 / $49+",
+        "tags": [
+          "dj",
+          "house",
+          "electronic"
+        ],
         "sources": [
           {
             "url": "https://dothebay.com/events",
@@ -7474,10 +7478,10 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/san-francisco/2026-11-09/nora-en-pure-eaf3.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
@@ -7489,25 +7493,35 @@
         "day": "Sun",
         "date": "2026-11-15",
         "time": "21:00-01:30",
-        "start": null,
-        "end": null,
+        "start": "21:00",
+        "end": "01:30",
         "area": "San Francisco",
         "venue": "SF Eagle",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "398 12th St, San Francisco, CA 94103, United States",
+        "why": "Because it’s a no-cover night in SoMa for an easy, low-cost evening out.",
+        "summary": "A free event called Nuclear Winter takes place on 2026-11-15 at 398 12th St in SoMa, San Francisco. No lineup or time was provided.",
         "promoter": "",
-        "price": "",
-        "tags": [],
+        "price": "Free",
+        "tags": [
+          "free",
+          "party",
+          "dance"
+        ],
         "sources": [
           {
             "url": "https://ra.co/events/us/sanfrancisco",
             "hidden": true
           },
           "https://ra.co/events/2569343",
-          "https://ra.co/events/2497234"
+          "https://ra.co/events/2497234",
+          "https://ra.co/events/2566203"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://ra.co/events/us/sanfrancisco",
+          "https://ra.co/events/2569343",
+          "https://ra.co/events/2497234",
+          "https://ra.co/events/2566203"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=SF%20Eagle%2C%20San%20Francisco",
           "apple": "https://maps.apple.com/?q=SF%20Eagle%2C%20San%20Francisco"
@@ -7516,9 +7530,9 @@
         "coords_precise": false,
         "ra": {},
         "image": "https://api.party-scout.app/img/san-francisco/2026-11-09/nuclear-winter-233e.jpg",
-        "image_generated": true,
+        "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
@@ -10016,21 +10030,27 @@
         "name": "Nuclear Winter: An Immersive Experience",
         "day": "Sun",
         "date": "2026-11-15",
-        "time": "",
-        "start": null,
-        "end": null,
-        "area": "",
+        "time": "9:30pm–1:30am",
+        "start": "21:30",
+        "end": "01:30",
+        "area": "SoMa",
         "venue": "SF Eagle",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "398 12th St, San Francisco, CA 94103, United States",
+        "why": "For a late-night immersive art event in SoMa without an entry fee.",
+        "summary": "An immersive experience titled \"Nuclear Winter\" takes place on 2026-11-15 at 398 12th St, San Francisco, running 9:30pm–1:30am with free admission.",
         "promoter": "",
-        "price": "",
-        "tags": [],
+        "price": "Free",
+        "tags": [
+          "free",
+          "immersive",
+          "art"
+        ],
         "sources": [
           "https://ra.co/events/2566203"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://ra.co/events/2566203"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=SF%20Eagle",
           "apple": "https://maps.apple.com/?q=SF%20Eagle"
@@ -10041,7 +10061,7 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
