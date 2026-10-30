@@ -2925,7 +2925,7 @@
         "area": "Los Angeles",
         "venue": "2220 Arts + Archives",
         "address": "",
-        "why": "",
+        "why": "Swedish producer and DJ Baba Stiltz in an intimate, artist-run Los Angeles arts space.",
         "summary": "Baba Stiltz performs in Los Angeles on November 21, 2026.",
         "promoter": "",
         "price": "",
@@ -2957,21 +2957,25 @@
         "id": "2026-11-16-music-beacon-of-light-jonah-sharp-lo-07b5ed",
         "eid": "beacon-of-light-jonah-sh-fe5f",
         "track": "music",
-        "category": "",
+        "category": "Nightclub",
         "name": "Beacon of Light: Jonah Sharp, Lovefingers, Felix The Dog",
         "day": "Sat",
         "date": "2026-11-21",
         "time": "22:00-06:00",
-        "start": null,
-        "end": null,
+        "start": "22:00",
+        "end": "06:00",
         "area": "Los Angeles",
         "venue": "Better Tomorrow",
         "address": "1133 Venice Blvd Los Angeles CA 90033",
-        "why": "",
-        "summary": "",
+        "why": "To catch a multi-artist DJ night in Los Angeles.",
+        "summary": "A Los Angeles DJ night on 2026-11-21 featuring Jonah Sharp, Lovefingers, and Felix The Dog.",
         "promoter": "",
         "price": "$20-40.25",
-        "tags": [],
+        "tags": [
+          "dj",
+          "electronic",
+          "house"
+        ],
         "sources": [
           {
             "url": "https://19hz.info/eventlisting_LosAngeles.php",
@@ -2983,7 +2987,10 @@
           },
           "https://ra.co/events/2560915"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://ra.co/events/us/losangeles",
+          "https://ra.co/events/2560915"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=1133%20Venice%20Blvd%20Los%20Angeles%20CA%2090033",
           "apple": "https://maps.apple.com/?q=1133%20Venice%20Blvd%20Los%20Angeles%20CA%2090033"
@@ -2994,7 +3001,7 @@
         "image": "https://images.ra.co/71d632114bd0050ea625ccc54e00a55f375cf1d5.png",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true,
         "lineup": [
           {
@@ -3034,14 +3041,19 @@
         "venue": "Time Nightclub",
         "address": "",
         "why": "",
-        "summary": "",
+        "summary": "Biscits is scheduled for 2026-11-21 in Los Angeles.",
         "promoter": "",
         "price": "$23+",
-        "tags": [],
+        "tags": [
+          "nightlife",
+          "party"
+        ],
         "sources": [
           "https://www.tixr.com/groups/timenightclub/events/biscits-209487"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://www.tixr.com/groups/timenightclub/events/biscits-209487"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Time%20Nightclub%2C%20Costa%20Mesa",
           "apple": "https://maps.apple.com/?q=Time%20Nightclub%2C%20Costa%20Mesa"
@@ -3052,7 +3064,7 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
