@@ -6782,22 +6782,30 @@
         "time": "11pm–2am",
         "start": "23:00",
         "end": "02:00",
-        "area": "San Francisco",
+        "area": "Union Square",
         "venue": "Hawthorn Lounge",
-        "address": "",
-        "why": "Go for late-night dancing and an affordable cover.",
-        "summary": "DJ Knives performs a DJ set on 2026-11-13 from 11pm–2am; tickets start at $10+.",
+        "address": "46 Geary St, San Francisco",
+        "why": "A reliable downtown Friday for dancing until 2am, with a resident-favorite DJ on the decks.",
+        "summary": "DJ Knives returns to Hawthorn, the Geary Street nightclub, for a Friday night of open-format club sets.",
         "promoter": "",
         "price": "$10+",
         "tags": [
           "dj",
           "21+",
           "late-night",
-          "dance"
+          "dance",
+          "nightclub",
+          "open-format",
+          "downtown",
+          "friday"
         ],
         "sources": [
           {
             "url": "https://edmtrain.com/san-francisco-ca",
+            "hidden": true
+          },
+          {
+            "url": "https://19hz.info/eventlisting_BayArea.php",
             "hidden": true
           }
         ],
@@ -6809,8 +6817,8 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
-        "image_generated": false,
+        "image": "https://api.party-scout.app/img/san-francisco/2026-11-09/dj-knives-1759.jpg",
+        "image_generated": true,
         "popularity": 0,
         "enriched": 1,
         "active": true
@@ -6826,14 +6834,19 @@
         "time": "8pm–2am",
         "start": "20:00",
         "end": "02:00",
-        "area": "San Francisco",
+        "area": "SF",
         "venue": "Asiento",
         "address": "",
-        "why": "",
-        "summary": "",
+        "why": "A free late-night session with a guest set, running until 2am.",
+        "summary": "Session 43 of the Fraktured & Friends series at Asiento, with guest Justin Johnson. Friday night, 8pm to 2am, free entry.",
         "promoter": "",
-        "price": "",
-        "tags": [],
+        "price": "Free",
+        "tags": [
+          "free",
+          "live",
+          "late-night",
+          "dj-night"
+        ],
         "sources": [
           {
             "url": "https://19hz.info/eventlisting_BayArea.php",
@@ -6851,7 +6864,7 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {

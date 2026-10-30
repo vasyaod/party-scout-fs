@@ -592,13 +592,17 @@
         "area": "San Francisco",
         "venue": "The Warfield",
         "address": "88 5th Street, San Francisco, CA 94103",
-        "why": "For a downtown music night in SoMa.",
-        "summary": "Boynextdoor is scheduled for November 17, 2026 at 88 5th Street in San Francisco.",
+        "why": "A rare Bay Area stop for one of K-pop's fastest-rising boy groups, in a historic Market Street theater.",
+        "summary": "K-pop sextet Boynextdoor plays The Warfield in San Francisco on a Tuesday night, doors for a 7:30PM show.",
         "promoter": "",
         "price": "",
         "tags": [
           "music",
-          "nightlife"
+          "nightlife",
+          "k-pop",
+          "live-music",
+          "concert",
+          "the-warfield"
         ],
         "sources": [
           {
@@ -607,7 +611,9 @@
           },
           "https://dothebay.com/events/2026/11/17/boynextdoor-tickets"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://www.axs.com/events/1493762/boynextdoor-tickets"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=The%20Warfield%2C%20San%20Francisco",
           "apple": "https://maps.apple.com/?q=The%20Warfield%2C%20San%20Francisco"
@@ -625,21 +631,26 @@
         "id": "2026-11-16-music-brian-culbertson-099836",
         "eid": "brian-culbertson-353f",
         "track": "music",
-        "category": "",
+        "category": "Concert",
         "name": "Brian Culbertson",
         "day": "Tue",
         "date": "2026-11-17",
         "time": "7:00PM",
         "start": "19:00",
         "end": null,
-        "area": "",
+        "area": "Oakland",
         "venue": "Yoshi's Oakland",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "510 Embarcadero West, Oakland, CA 94607",
+        "why": "For an evening of polished, ticketed live music.",
+        "summary": "Brian Culbertson performs at 510 Embarcadero West in Oakland on November 17, 2026. Tickets are $89–$139.",
         "promoter": "",
-        "price": "",
-        "tags": [],
+        "price": "$89–$139",
+        "tags": [
+          "jazz",
+          "rnb",
+          "live",
+          "paid"
+        ],
         "sources": [
           "https://dothebay.com/events/2026/11/17/brian-culbertson-tickets"
         ],
@@ -651,17 +662,17 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/san-francisco/2026-11-16/brian-culbertson-353f.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
         "id": "2026-11-16-music-brokencyde-084f3d",
         "eid": "brokencyde-2a2b",
         "track": "music",
-        "category": "",
+        "category": "Concert",
         "name": "Brokencyde",
         "day": "Tue",
         "date": "2026-11-17",
@@ -670,12 +681,16 @@
         "end": null,
         "area": "San Francisco",
         "venue": "Brick & Mortar Music Hall",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "88 5th Street, San Francisco, CA 94103",
+        "why": "An inexpensive downtown night out to catch a live show.",
+        "summary": "Brokencyde on 2026-11-17 at 88 5th Street in San Francisco. Tickets are $28.",
         "promoter": "",
-        "price": "",
-        "tags": [],
+        "price": "$28",
+        "tags": [
+          "live",
+          "alternative",
+          "hip-hop"
+        ],
         "sources": [
           {
             "url": "https://dothebay.com/events",
@@ -691,10 +706,10 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/san-francisco/2026-11-16/brokencyde-2a2b.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
