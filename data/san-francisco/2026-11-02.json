@@ -8656,7 +8656,7 @@
         "time": "9pm",
         "start": "21:00",
         "end": null,
-        "area": "San Francisco",
+        "area": "SF",
         "venue": "1190 Folsom St",
         "address": "",
         "why": "Easy, budget-friendly night out with DJ sets.",
@@ -8697,16 +8697,20 @@
         "day": "Thu",
         "date": "2026-11-05",
         "time": "21:00",
-        "start": null,
-        "end": null,
+        "start": "21:00",
+        "end": "01:00",
         "area": "San Francisco",
         "venue": "Underground SF",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "424 Haight St, San Francisco, CA 94117, United States",
+        "why": "For a night out on Haight Street in central San Francisco.",
+        "summary": "Age of Sin is scheduled for November 5, 2026 at 424 Haight St in San Francisco.",
         "promoter": "",
         "price": "$15",
-        "tags": [],
+        "tags": [
+          "music",
+          "nightlife",
+          "event"
+        ],
         "sources": [
           "https://ra.co/events/2567122",
           {
@@ -8714,7 +8718,10 @@
             "hidden": true
           }
         ],
-        "tickets": [],
+        "tickets": [
+          "https://ra.co/events/2567122",
+          "https://ra.co/events/us/sanfrancisco"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Underground%20SF%2C%20San%20Francisco",
           "apple": "https://maps.apple.com/?q=Underground%20SF%2C%20San%20Francisco"
@@ -8722,31 +8729,35 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/san-francisco/2026-11-02/age-of-sin-1cdc.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
         "id": "2026-11-02-music-downtown-first-thursdays-w-big-501fcd",
         "eid": "downtown-first-thursdays-a283",
         "track": "music",
-        "category": "",
+        "category": "Festival",
         "name": "Downtown First Thursdays w/ Big Freedia",
         "day": "Thu",
         "date": "2026-11-05",
         "time": "17:00",
-        "start": null,
-        "end": null,
+        "start": "17:00",
+        "end": "22:00",
         "area": "San Francisco",
         "venue": "Market & 2nd",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "24 Willie Mays Plaza, San Francisco, CA 94107",
+        "why": "For a high-energy live performance and downtown block-party atmosphere.",
+        "summary": "A Downtown First Thursdays event on Nov 5, 2026 at 24 Willie Mays Plaza in San Francisco featuring Big Freedia.",
         "promoter": "",
         "price": "FREE",
-        "tags": [],
+        "tags": [
+          "live",
+          "bounce",
+          "outdoor"
+        ],
         "sources": [
           {
             "url": "https://dothebay.com/events/2026/11/5",
@@ -8759,7 +8770,8 @@
           {
             "url": "https://dothebay.com/events",
             "hidden": true
-          }
+          },
+          "https://dothebay.com/events/2026/11/5/downtown-first-thursdays-big-freedia-tickets"
         ],
         "tickets": [],
         "maps": {
@@ -8769,10 +8781,10 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/san-francisco/2026-11-02/downtown-first-thursdays-a283.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
