@@ -9661,21 +9661,28 @@
         "end": null,
         "area": "Berkeley",
         "venue": "The UC Theatre",
-        "address": "2036 University Ave, Berkeley,  Berkeley, CA 94704",
-        "why": "Good for an evening live-music outing in an intimate Berkeley setting.",
-        "summary": "Rexx Life Raj performs in Berkeley on 2026-11-14 at 7pm at 2036 University Ave.",
+        "address": "2036 University Ave, Berkeley, CA 94704",
+        "why": "A rare Bay Area headline show from a cult-favorite West Coast rapper in a historic Berkeley theatre.",
+        "summary": "Rexx Life Raj, the Los Angeles rapper known for laid-back, melodic hip-hop, plays The UC Theatre in Berkeley. All ages, doors at 7pm.",
         "promoter": "",
-        "price": "",
+        "price": "$27.50+ (fees extra)",
         "tags": [
           "live",
           "music",
           "evening",
-          "berkeley"
+          "berkeley",
+          "hip-hop",
+          "rap",
+          "live-music",
+          "all-ages"
         ],
         "sources": [
-          "https://dothebay.com/events/2026/11/14/rexx-life-raj-tickets"
+          "https://dothebay.com/events/2026/11/14/rexx-life-raj-tickets",
+          "https://www.theuctheatre.org/shows/rexx-life-raj-14-nov"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://www.theuctheatre.org/shows/rexx-life-raj-14-nov#tickets"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=The%20UC%20Theatre",
           "apple": "https://maps.apple.com/?q=The%20UC%20Theatre"
@@ -9693,21 +9700,25 @@
         "id": "2026-11-09-music-rhye-5eab5e",
         "eid": "rhye-7a99",
         "track": "music",
-        "category": "",
+        "category": "Concert",
         "name": "Rhye",
         "day": "Sat",
         "date": "2026-11-14",
-        "time": "",
-        "start": null,
+        "time": "7pm",
+        "start": "19:00",
         "end": null,
-        "area": "",
+        "area": "SF",
         "venue": "The Warfield",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "982 Market St, San Francisco, CA 94102",
+        "why": "For an intimate evening of live, soulful music in downtown San Francisco.",
+        "summary": "Rhye performs in San Francisco on November 14, 2026 at 7pm at 982 Market St.",
         "promoter": "",
         "price": "",
-        "tags": [],
+        "tags": [
+          "r&b",
+          "soul",
+          "live"
+        ],
         "sources": [
           "https://dothebay.com/events/2026/11/14/rhye-tickets"
         ],
@@ -9719,10 +9730,10 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/san-francisco/2026-11-09/rhye-7a99.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
