@@ -4250,26 +4250,30 @@
         "id": "2026-11-16-music-paul-collins-night-1-7b7a83",
         "eid": "paul-collins-night-1-da07",
         "track": "music",
-        "category": "",
+        "category": "Concert",
         "name": "Paul Collins: Night 1",
         "day": "Fri",
         "date": "2026-11-20",
-        "time": "",
-        "start": null,
+        "time": "7pm",
+        "start": "19:00",
         "end": null,
         "area": "San Francisco",
         "venue": "Kilowatt",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "1111 California St., San Francisco, CA 94108",
+        "why": "Affordable, ticketed live evening in central San Francisco.",
+        "summary": "Paul Collins: Night 1 takes place on 2026-11-20 at 7pm at 1111 California St., San Francisco. Tickets are $30.",
         "promoter": "",
-        "price": "",
-        "tags": [],
+        "price": "$30",
+        "tags": [
+          "live",
+          "ticketed"
+        ],
         "sources": [
           {
             "url": "https://dothebay.com/events",
             "hidden": true
-          }
+          },
+          "https://dothebay.com/events/2026/11/20/paul-collins-the-best-of-the-nerves-and-the-beat-and-exploding-hearts-night-1-tickets"
         ],
         "tickets": [],
         "maps": {
@@ -4279,17 +4283,17 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/san-francisco/2026-11-16/paul-collins-night-1-da07.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
         "id": "2026-11-16-music-pretty-lights-ecc207",
         "eid": "pretty-lights-1111",
         "track": "music",
-        "category": "",
+        "category": "Concert",
         "name": "Pretty Lights",
         "day": "Fri",
         "date": "2026-11-20",
@@ -4298,12 +4302,16 @@
         "end": null,
         "area": "Oakland",
         "venue": "Fox Theater",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "1111 California St., San Francisco, CA 94108",
+        "why": "To catch a live electronic performance in central San Francisco.",
+        "summary": "Pretty Lights performs at 1111 California St in San Francisco on November 20, 2026.",
         "promoter": "",
         "price": "$110+",
-        "tags": [],
+        "tags": [
+          "electronic",
+          "live",
+          "indoor"
+        ],
         "sources": [
           {
             "url": "https://dothebay.com/events",
@@ -4327,31 +4335,35 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "https://api.party-scout.app/img/san-francisco/2026-11-16/pretty-lights-2b4c.jpg",
-        "image_generated": true,
+        "image": "https://api.party-scout.app/img/san-francisco/2026-11-16/pretty-lights-1111.jpg",
+        "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
         "id": "2026-11-16-music-program-audio-teqmun-4ae33e",
         "eid": "program-audio-teqmun-1305",
         "track": "music",
-        "category": "",
+        "category": "Nightclub",
         "name": "program audio: Teqmun",
         "day": "Fri",
         "date": "2026-11-20",
         "time": "22:00",
-        "start": null,
-        "end": null,
+        "start": "22:00",
+        "end": "04:00",
         "area": "San Francisco",
         "venue": "F8 1192 Folsom",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "1192 Folsom St, San Francisco, CA 94103",
+        "why": "For a late-night outing in SoMa's club scene.",
+        "summary": "An event titled \"program audio: Teqmun\" is scheduled for November 20, 2026 at 1192 Folsom St in San Francisco.",
         "promoter": "",
         "price": "$15.01 b4 11 / $20 b4 12 / $25",
-        "tags": [],
+        "tags": [
+          "electronic",
+          "dj",
+          "21+"
+        ],
         "sources": [
           {
             "url": "https://19hz.info/eventlisting_BayArea.php",
@@ -4363,7 +4375,10 @@
           },
           "https://ra.co/events/2555042"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://ra.co/events/us/sanfrancisco",
+          "https://ra.co/events/2555042"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=F8%201192%20Folsom%2C%20San%20Francisco",
           "apple": "https://maps.apple.com/?q=F8%201192%20Folsom%2C%20San%20Francisco"
@@ -4374,7 +4389,7 @@
         "image": "https://api.party-scout.app/img/san-francisco/2026-11-16/program-audio-teqmun-1305.jpg",
         "image_generated": true,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
@@ -7089,21 +7104,26 @@
         "id": "2026-11-16-sports-san-jose-bike-party-f79f7e",
         "eid": "san-jose-bike-party-e661",
         "track": "sports",
-        "category": "",
+        "category": "Sports",
         "name": "San Jose Bike Party",
         "day": "Fri",
         "date": "2026-11-20",
         "time": "8:00PM",
         "start": "20:00",
-        "end": null,
-        "area": "",
+        "end": "23:00",
+        "area": "SF",
         "venue": "Secret San Jose Location",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "San Jose, CA",
+        "why": "To join a social community ride and explore local streets with other cyclists.",
+        "summary": "A San Jose Bike Party ride scheduled for November 20, 2026 in San Jose, CA.",
         "promoter": "",
         "price": "FREE*",
-        "tags": [],
+        "tags": [
+          "outdoor",
+          "free",
+          "bike",
+          "community"
+        ],
         "sources": [
           "https://sf.funcheap.com/san-jose-bike-party-165/"
         ],
@@ -7115,10 +7135,10 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/san-francisco/2026-11-16/san-jose-bike-party-e661.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {

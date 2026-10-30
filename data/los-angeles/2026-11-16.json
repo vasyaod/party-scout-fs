@@ -3119,16 +3119,19 @@
         "time": "20:00-02:00",
         "start": "20:00",
         "end": "02:00",
-        "area": "Los Angeles",
+        "area": "DTLA",
         "venue": "The Redwood Bar And Grill",
         "address": "316 W. 2nd Street, Los Angeles, CA  90012",
-        "why": "To catch a live concert in Downtown LA.",
-        "summary": "The Buckhenries are scheduled for 2026-11-21 at 316 W. 2nd Street in Downtown Los Angeles.",
+        "why": "A cheap $10 night of live music at a classic DTLA dive bar, with the bar open late.",
+        "summary": "The Buckhenries play a Saturday-night live show at The Redwood Bar and Grill in downtown LA, with doors-to-late hours running 8pm to 2am.",
         "promoter": "",
         "price": "$10",
         "tags": [
           "live",
-          "concert"
+          "concert",
+          "live-music",
+          "dive-bar",
+          "dtla"
         ],
         "sources": [
           {
@@ -3652,7 +3655,7 @@
         "id": "2026-11-16-music-work-weekender-day-2-adrian-re-95ac3e",
         "eid": "work-weekender-day-2-adr-77e9",
         "track": "music",
-        "category": "",
+        "category": "Nightclub",
         "name": "WORK Weekender Day 2: Adrian Reyes, Luigi Tozzi [Live], & The Lady Machine",
         "day": "Sat",
         "date": "2026-11-21",
@@ -3662,11 +3665,15 @@
         "area": "Los Angeles",
         "venue": "TBA - Los Angeles",
         "address": "",
-        "why": "",
-        "summary": "",
+        "why": "For fans of electronic-focused nights mixing DJ sets and a live performance.",
+        "summary": "A music night on November 21, 2026 featuring Adrian Reyes, Luigi Tozzi (live), and The Lady Machine.",
         "promoter": "",
         "price": "$20 b4 12 / $25-38",
-        "tags": [],
+        "tags": [
+          "electronic",
+          "live",
+          "dj"
+        ],
         "sources": [
           {
             "url": "https://ra.co/events/us/losangeles",
@@ -3679,11 +3686,11 @@
           {
             "url": "https://19hz.info/eventlisting_LosAngeles.php",
             "hidden": true
-          },
-          "https://ra.co/events/2537247"
+          }
         ],
         "tickets": [
-          "https://ra.co/events/2537247"
+          "https://ra.co/events/2537247",
+          "https://ra.co/events/us/losangeles"
         ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Los%20Angeles",
@@ -3693,9 +3700,9 @@
         "coords_precise": false,
         "ra": {},
         "image": "https://api.party-scout.app/img/los-angeles/2026-11-16/work-weekender-day-2-adr-77e9.jpg",
-        "image_generated": true,
+        "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
