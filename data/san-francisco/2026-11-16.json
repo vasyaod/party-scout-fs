@@ -2679,17 +2679,21 @@
         "time": "7:30PM",
         "start": "19:30",
         "end": null,
-        "area": "San Francisco",
+        "area": "SF",
         "venue": "Bottom Of The Hill",
         "address": "1111 California St., San Francisco, CA 94108",
-        "why": "For a night of live performances from multiple featured artists.",
-        "summary": "An evening featuring Ruby Ibarra, Carl Angelo, and Amihan at 1111 California St in San Francisco on November 19, 2026.",
+        "why": "Ruby Ibarra's bilingual, Bay Area-rooted hip-hop in an intimate club room at an advance price of just $25.",
+        "summary": "Filipino-American rapper Ruby Ibarra headlines a night of rap and hip-hop at Bottom of the Hill, with Carl Angelo and Amihan on the bill. 21+, doors for a 7:30 PM show.",
         "promoter": "",
-        "price": "",
+        "price": "$25 advance / $30 door",
         "tags": [
           "live",
           "concert",
-          "local"
+          "local",
+          "hip-hop",
+          "rap",
+          "live music",
+          "21+"
         ],
         "sources": [
           {
@@ -2698,7 +2702,9 @@
           },
           "https://dothebay.com/events/2026/11/19/ruby-ibarra-carl-angelo-amihan-tickets"
         ],
-        "tickets": [],
+        "tickets": [
+          "http://www.bottomofthehill.com/dice/event20261119.html"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Bottom%20Of%20The%20Hill%2C%20San%20Francisco",
           "apple": "https://maps.apple.com/?q=Bottom%20Of%20The%20Hill%2C%20San%20Francisco"
@@ -3059,21 +3065,26 @@
         "id": "2026-11-16-music-community-mondays-open-mic-wit-53fff1",
         "eid": "community-mondays-open-m-c0ef",
         "track": "music",
-        "category": "",
+        "category": "Concert",
         "name": "Community Mondays: Open Mic with Jamey Williams",
         "day": "Fri",
         "date": "2026-11-20",
         "time": "7:30PM",
         "start": "19:30",
         "end": null,
-        "area": "",
+        "area": "Berkeley",
         "venue": "The Freight",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "2020 Addison St, Berkeley, CA 94704",
+        "why": "A low-key chance to hear or try new material among local performers.",
+        "summary": "Open-mic night featuring Jamey Williams at 2020 Addison St in Berkeley on November 20, 2026; $5 cover.",
         "promoter": "",
-        "price": "",
-        "tags": [],
+        "price": "$5",
+        "tags": [
+          "open-mic",
+          "live",
+          "community",
+          "paid"
+        ],
         "sources": [
           "https://dothebay.com/events/2026/11/20/2026-cm-fall-tickets"
         ],
@@ -3085,38 +3096,47 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/san-francisco/2026-11-16/community-mondays-open-m-c0ef.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
         "id": "2026-11-16-music-cool-customer-chris-karns-ff8b4f",
         "eid": "cool-customer-chris-karn-b597",
         "track": "music",
-        "category": "",
+        "category": "Concert",
         "name": "Cool Customer + Chris Karns",
         "day": "Fri",
         "date": "2026-11-20",
         "time": "10pm",
         "start": "22:00",
-        "end": null,
-        "area": "San Francisco",
+        "end": "03:00",
+        "area": "SoMa",
         "venue": "The Foundry",
-        "address": "",
-        "why": "",
-        "summary": "",
-        "promoter": "",
+        "address": "1425 Folsom St, San Francisco",
+        "why": "Cool Customer's New York house sets meet turntablist Chris Karns, a DMC World DJ champion, in one late night at a SoMa club.",
+        "summary": "Bicycle Day and The Foundry present a late night with Cool Customer and Chris Karns, 10pm until late at The Foundry on Folsom Street.",
+        "promoter": "Bicycle Day",
         "price": "$24.14-41.62",
-        "tags": [],
+        "tags": [
+          "live",
+          "concert",
+          "house",
+          "techno",
+          "club",
+          "turntablism"
+        ],
         "sources": [
           {
             "url": "https://19hz.info/eventlisting_BayArea.php",
             "hidden": true
           }
         ],
-        "tickets": [],
+        "tickets": [
+          "https://app.discotech.me/events/38301744-cool-customer-chris-karns-at-the-foundry-sf"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=The%20Foundry%2C%20San%20Francisco",
           "apple": "https://maps.apple.com/?q=The%20Foundry%2C%20San%20Francisco"
@@ -3124,11 +3144,12 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/san-francisco/2026-11-16/cool-customer-chris-karn-b597.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
-        "active": true
+        "enriched": 1,
+        "active": true,
+        "lineup": []
       },
       {
         "id": "2026-11-16-music-dan-whitlam-15201a",
@@ -6986,12 +7007,16 @@
         "end": null,
         "area": "San Francisco",
         "venue": "Rickshaw Stop",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "1111 California St., San Francisco, CA 94108",
+        "why": "Affordable ticketed evening in central San Francisco.",
+        "summary": "Qendresa takes place November 22, 2026 at 1111 California St., San Francisco. Tickets are $25–$28.",
         "promoter": "",
-        "price": "",
-        "tags": [],
+        "price": "$25–$28",
+        "tags": [
+          "ticketed",
+          "paid",
+          "live"
+        ],
         "sources": [
           {
             "url": "https://dothebay.com/events",
@@ -7007,10 +7032,10 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/san-francisco/2026-11-16/qendresa-fc9e.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
