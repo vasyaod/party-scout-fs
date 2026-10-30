@@ -2608,7 +2608,7 @@
         "id": "2026-11-16-music-the-one-hundred-juliet-mendoza-4d51e8",
         "eid": "the-one-hundred-juliet-m-94dd",
         "track": "music",
-        "category": "",
+        "category": "Concert",
         "name": "The One Hundred: Juliet Mendoza, SAMO\\, Yazmina",
         "day": "Fri",
         "date": "2026-11-20",
@@ -2617,12 +2617,15 @@
         "end": "02:00",
         "area": "Los Angeles",
         "venue": "The Airliner",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "2419 N Broadway, Los Angeles, CA 90036",
+        "why": "For a multi-act bill and a lively night out in Los Angeles.",
+        "summary": "The One Hundred is billed with Juliet Mendoza, SAMO, and Yazmina on November 20, 2026 in Los Angeles.",
         "promoter": "",
         "price": "$5 - $15",
-        "tags": [],
+        "tags": [
+          "live",
+          "nightlife"
+        ],
         "sources": [
           {
             "url": "https://ra.co/events/2558818",
@@ -2637,7 +2640,10 @@
             "hidden": true
           }
         ],
-        "tickets": [],
+        "tickets": [
+          "https://ra.co/events/2558818",
+          "https://ra.co/events/us/losangeles"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=The%20Airliner%2C%20Los%20Angeles",
           "apple": "https://maps.apple.com/?q=The%20Airliner%2C%20Los%20Angeles"
@@ -2645,10 +2651,10 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "https://api.party-scout.app/img/los-angeles/2026-11-16/the-one-hundred-ddb2.jpg",
-        "image_generated": true,
+        "image": "https://api.party-scout.app/img/los-angeles/2026-11-16/the-one-hundred-juliet-m-94dd.jpg",
+        "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
@@ -3230,7 +3236,7 @@
         "id": "2026-11-16-music-grandma-rave-97b177",
         "eid": "grandma-rave-a23d",
         "track": "music",
-        "category": "",
+        "category": "Nightclub",
         "name": "GRANDMA RAVE",
         "day": "Sat",
         "date": "2026-11-21",
@@ -3239,12 +3245,16 @@
         "end": "22:30",
         "area": "North Hollywood",
         "venue": "TBA",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "undefined undefined, Los Angeles, California 91601",
+        "why": "To check out a notable nightlife event happening that night.",
+        "summary": "GRANDMA RAVE is scheduled for November 21, 2026 in Los Angeles. Venue and start time were not provided.",
         "promoter": "",
         "price": "free",
-        "tags": [],
+        "tags": [
+          "dj",
+          "21+",
+          "dance"
+        ],
         "sources": [
           {
             "url": "https://19hz.info/eventlisting_LosAngeles.php",
@@ -3260,10 +3270,10 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "https://api.party-scout.app/img/los-angeles/2026-11-16/grandma-rave-09e2.jpg",
-        "image_generated": true,
+        "image": "https://api.party-scout.app/img/los-angeles/2026-11-16/grandma-rave-a23d.jpg",
+        "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
@@ -4330,7 +4340,7 @@
         "why": "For fresh-air exercise and scenic woodland trails at dusk.",
         "summary": "An evening group hike in Griffith Park hosted by the Sierra Club on Thursday, November 19, 2026.",
         "promoter": "",
-        "price": "",
+        "price": "Free",
         "tags": [
           "outdoor",
           "hike",
@@ -4585,21 +4595,25 @@
         "id": "2026-11-16-sports-griffith-park-hike-d2537f",
         "eid": "griffith-park-hike-2a04",
         "track": "sports",
-        "category": "",
+        "category": "Sports",
         "name": "Griffith Park Hike",
         "day": "Sat",
         "date": "2026-11-21",
         "time": "14:00",
-        "start": null,
-        "end": null,
+        "start": "14:00",
+        "end": "16:00",
         "area": "Los Angeles",
         "venue": "Greek Theater, 2700 Vermont Canyon Road",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "2700 Vermont Canyon Road, Los Angeles, ca",
+        "why": "For outdoor exercise and scenic city views.",
+        "summary": "A public hike meeting at 2700 Vermont Canyon Road in Griffith Park on 2026-11-21.",
         "promoter": "",
         "price": "",
-        "tags": [],
+        "tags": [
+          "outdoor",
+          "hike",
+          "fitness"
+        ],
         "sources": [
           {
             "url": "https://www.meetup.com",
@@ -4616,9 +4630,9 @@
         "coords_precise": false,
         "ra": {},
         "image": "https://api.party-scout.app/img/los-angeles/2026-11-16/griffith-park-hike-2a04.jpg",
-        "image_generated": true,
+        "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
