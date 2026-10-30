@@ -4709,16 +4709,19 @@
         "day": "Sat",
         "date": "2026-11-21",
         "time": "20:00",
-        "start": null,
-        "end": null,
-        "area": "San Francisco",
+        "start": "20:00",
+        "end": "23:00",
+        "area": "SoMa",
         "venue": "The Warfield",
         "address": "982 Market Street; San Francisco, CA 94102; United States",
-        "why": "",
-        "summary": "",
+        "why": "For a night out in San Francisco on November 21.",
+        "summary": "Brutalismus 3000 is scheduled in San Francisco on November 21, 2026.",
         "promoter": "",
         "price": "",
-        "tags": [],
+        "tags": [
+          "dj",
+          "21+"
+        ],
         "sources": [
           {
             "url": "https://dothebay.com/events",
@@ -4739,7 +4742,11 @@
           "https://dothebay.com/events/2026/11/21/brutalismus-3000-with-eurohead-ali-rq-debasement-techno-pagan-tickets",
           "https://ra.co/events/2524000"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://ra.co/events/us/sanfrancisco",
+          "https://ra.co/events/2524000",
+          "https://www.axs.com/events/1554506/brutalismus-3000-tickets"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=982%20Market%20Street%3B%20San%20Francisco%2C%20CA%2094102%3B%20United%20States",
           "apple": "https://maps.apple.com/?q=982%20Market%20Street%3B%20San%20Francisco%2C%20CA%2094102%3B%20United%20States"
@@ -4750,7 +4757,7 @@
         "image": "https://images.ra.co/0fae78ff3399e8bb9234223f197321726bc7496f.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true,
         "lineup": [
           {
@@ -4775,21 +4782,24 @@
         "id": "2026-11-16-music-club-triste-dj-paypal-cakedog-f614a2",
         "eid": "club-triste-dj-paypal-ca-ac33",
         "track": "music",
-        "category": "",
+        "category": "Nightclub",
         "name": "Club Triste: DJ Paypal & Cakedog",
         "day": "Sat",
         "date": "2026-11-21",
         "time": "22:00",
-        "start": null,
-        "end": null,
+        "start": "22:00",
+        "end": "03:00",
         "area": "San Francisco",
         "venue": "F8 1192 Folsom",
         "address": "1192 Folsom St, San Francisco, CA 94103",
-        "why": "",
-        "summary": "",
+        "why": "For back-to-back sets from the billed DJs.",
+        "summary": "Club Triste: DJ Paypal & Cakedog is scheduled for 2026-11-21 in SF.",
         "promoter": "",
         "price": "$20-28.75",
-        "tags": [],
+        "tags": [
+          "dj",
+          "club"
+        ],
         "sources": [
           {
             "url": "https://ra.co/events/us/sanfrancisco",
@@ -4801,7 +4811,10 @@
             "hidden": true
           }
         ],
-        "tickets": [],
+        "tickets": [
+          "https://ra.co/events/us/sanfrancisco",
+          "https://ra.co/events/2565137"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=1192%20Folsom%20St%2C%20San%20Francisco%2C%20CA%2094103",
           "apple": "https://maps.apple.com/?q=1192%20Folsom%20St%2C%20San%20Francisco%2C%20CA%2094103"
@@ -4812,7 +4825,7 @@
         "image": "https://api.party-scout.app/img/san-francisco/2026-11-16/club-triste-dj-paypal-ca-ac33.jpg",
         "image_generated": true,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true,
         "lineup": [
           {
@@ -4845,21 +4858,26 @@
         "id": "2026-11-16-music-cup-rave-ketamineprincess-sati-832131",
         "eid": "cup-rave-ketamineprinces-8816",
         "track": "music",
-        "category": "",
+        "category": "Nightclub",
         "name": "Cup Rave: Ketamineprincess, Sativanotsex, Ultraviolet, Zerowishes, Alleyeowl, DJMalice, Yuba",
         "day": "Sat",
         "date": "2026-11-21",
         "time": "9pm",
         "start": "21:00",
-        "end": null,
+        "end": "04:00",
         "area": "San Francisco",
         "venue": "3rd & Army",
         "address": "",
-        "why": "",
-        "summary": "",
+        "why": "For high-energy electronic sets and a late-night dance atmosphere.",
+        "summary": "A rave on 2026-11-21 in San Francisco featuring Ketamineprincess, Sativanotsex, Ultraviolet, Zerowishes, Alleyeowl, DJMalice, and Yuba.",
         "promoter": "",
         "price": "$10",
-        "tags": [],
+        "tags": [
+          "rave",
+          "electronic",
+          "dj",
+          "dance"
+        ],
         "sources": [
           {
             "url": "https://19hz.info/eventlisting_BayArea.php",
@@ -4877,7 +4895,7 @@
         "image": "https://api.party-scout.app/img/san-francisco/2026-11-16/cup-rave-ketamineprinces-8816.jpg",
         "image_generated": true,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
@@ -7186,28 +7204,36 @@
         "id": "2026-11-16-sports-charity-boxing-event-police-vs-39aaa2",
         "eid": "charity-boxing-event-pol-a6bf",
         "track": "sports",
-        "category": "",
+        "category": "Sports",
         "name": "Charity Boxing Event: Police vs. Firefighters 2026",
         "day": "Sat",
         "date": "2026-11-21",
         "time": "5:00PM",
         "start": "17:00",
         "end": null,
-        "area": "San Francisco",
+        "area": "Sunset",
         "venue": "United Irish Cultural Center",
         "address": "",
-        "why": "",
-        "summary": "",
+        "why": "A rare chance to watch SFPD and SFFD settle the rivalry in an intimate 700-person boxing room, with the proceeds going to local kids.",
+        "summary": "San Francisco police officers and firefighters trade punches in amateur charity bouts at the United Irish Cultural Center, the annual Fights in the Fog tradition that raises money for youth sports.",
         "promoter": "",
         "price": "From $161.90",
-        "tags": [],
+        "tags": [
+          "boxing",
+          "charity",
+          "community",
+          "sports",
+          "fundraiser"
+        ],
         "sources": [
           {
             "url": "https://www.eventbrite.com/d/ca--san-francisco/",
             "hidden": true
           }
         ],
-        "tickets": [],
+        "tickets": [
+          "https://www.eventbrite.com/d/ca--san-francisco/"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=United%20Irish%20Cultural%20Center%2C%20San%20Francisco",
           "apple": "https://maps.apple.com/?q=United%20Irish%20Cultural%20Center%2C%20San%20Francisco"
@@ -7218,7 +7244,7 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
