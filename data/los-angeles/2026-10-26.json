@@ -11638,21 +11638,27 @@
         "id": "2026-10-26-music-bleood-aidan-corcoran-472ede",
         "eid": "bleood-aidan-corcoran-81d1",
         "track": "music",
-        "category": "",
+        "category": "Concert",
         "name": "Bleood, Aidan Corcoran",
         "day": "Sat",
         "date": "2026-10-31",
         "time": "20:00",
-        "start": null,
+        "start": "20:00",
         "end": null,
-        "area": "Los Angeles",
+        "area": "Hollywood",
         "venue": "Fonda Theatre",
         "address": "",
-        "why": "",
-        "summary": "",
+        "why": "A Halloween-night live show at one of Hollywood's classic mid-size rooms.",
+        "summary": "Bleood and Aidan Corcoran play the Fonda Theatre in Hollywood on Halloween night, Saturday Oct 31, with doors-era 8pm timing and tickets from $37 on AXS.",
         "promoter": "",
         "price": "$37-43",
-        "tags": [],
+        "tags": [
+          "live",
+          "concert",
+          "music",
+          "halloween",
+          "hollywood"
+        ],
         "sources": [
           "https://www.axs.com/events/1566103/bleood-tickets?cid=afffboea"
         ],
@@ -11664,10 +11670,10 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
-        "image_generated": false,
+        "image": "https://api.party-scout.app/img/los-angeles/2026-10-26/bleood-aidan-corcoran-def9.jpg",
+        "image_generated": true,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
@@ -11710,28 +11716,34 @@
         "id": "2026-10-26-music-cancelled-utopia-presents-dial-887512",
         "eid": "cancelled-utopia-present-ba9f",
         "track": "music",
-        "category": "",
+        "category": "Nightclub",
         "name": "[CANCELLED] Utopia presents Dialed Records: Voigtmann, Per Hammar",
         "day": "Sat",
         "date": "2026-10-31",
         "time": "23:00",
         "start": null,
         "end": null,
-        "area": "",
+        "area": "Los Angeles",
         "venue": "Utopia",
         "address": "",
-        "why": "",
-        "summary": "",
+        "why": "Cancelled — check the venue before heading out.",
+        "summary": "Dialed Records night at Utopia with Voigtmann and Per Hammar, listed as cancelled.",
         "promoter": "",
         "price": "",
-        "tags": [],
+        "tags": [
+          "techno",
+          "dj",
+          "cancelled"
+        ],
         "sources": [
           {
             "url": "https://ra.co/events/2568989",
             "hidden": true
           }
         ],
-        "tickets": [],
+        "tickets": [
+          "https://ra.co/events/2568989"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Utopia",
           "apple": "https://maps.apple.com/?q=Utopia"
@@ -11742,7 +11754,7 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
