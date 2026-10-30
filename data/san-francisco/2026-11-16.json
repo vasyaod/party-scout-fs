@@ -953,12 +953,15 @@
         "end": null,
         "area": "San Francisco",
         "venue": "The Independent",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "1111 California St., San Francisco, CA 94108",
+        "why": "For a ticketed evening out in central San Francisco.",
+        "summary": "Silverada takes place November 17, 2026 at 1111 California St in San Francisco. Tickets are $32.",
         "promoter": "",
-        "price": "",
-        "tags": [],
+        "price": "$32",
+        "tags": [
+          "ticketed",
+          "nightlife"
+        ],
         "sources": [
           {
             "url": "https://dothebay.com/events",
@@ -974,36 +977,41 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/san-francisco/2026-11-16/silverada-412c.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
         "id": "2026-11-16-music-soft-vein-topographies-still-r-19081a",
         "eid": "soft-vein-topographies-s-98a7",
         "track": "music",
-        "category": "",
+        "category": "Concert",
         "name": "Soft Vein + Topographies + Still Ruins",
         "day": "Tue",
         "date": "2026-11-17",
         "time": "7pm",
         "start": "19:00",
-        "end": null,
+        "end": "19:30",
         "area": "San Francisco",
         "venue": "DNA Lounge",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "375 Eleventh Street, San Francisco, CA 94103",
+        "why": "For a concentrated three-band live bill in an intimate SoMa setting.",
+        "summary": "A live show on November 17, 2026 featuring Soft Vein, Topographies, and Still Ruins at 375 Eleventh Street in San Francisco.",
         "promoter": "",
         "price": "$20 pre / $28",
-        "tags": [],
+        "tags": [
+          "live",
+          "experimental",
+          "indie"
+        ],
         "sources": [
           {
             "url": "https://19hz.info/eventlisting_BayArea.php",
             "hidden": true
-          }
+          },
+          "https://dothebay.com/events/2026/11/17/soft-vein-tickets"
         ],
         "tickets": [],
         "maps": {
@@ -1013,17 +1021,17 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/san-francisco/2026-11-16/soft-vein-topographies-s-98a7.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
         "id": "2026-11-16-music-son-volt-12cecd",
         "eid": "son-volt-eae2",
         "track": "music",
-        "category": "",
+        "category": "Concert",
         "name": "Son Volt",
         "day": "Tue",
         "date": "2026-11-17",
@@ -1032,12 +1040,17 @@
         "end": null,
         "area": "San Francisco",
         "venue": "August Hall",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "1111 California St., San Francisco, CA 94108",
+        "why": "To catch a touring alt-country/rock act live in San Francisco.",
+        "summary": "Son Volt performs on 2026-11-17 at 1111 California St., San Francisco.",
         "promoter": "",
         "price": "",
-        "tags": [],
+        "tags": [
+          "live",
+          "concert",
+          "alt-country",
+          "rock"
+        ],
         "sources": [
           {
             "url": "https://dothebay.com/events",
@@ -1053,10 +1066,10 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/san-francisco/2026-11-16/son-volt-eae2.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {

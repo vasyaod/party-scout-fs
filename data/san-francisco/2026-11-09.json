@@ -9327,17 +9327,21 @@
         "name": "Bob Marley",
         "day": "Sat",
         "date": "2026-11-14",
-        "time": "",
-        "start": null,
+        "time": "2pm",
+        "start": "14:00",
         "end": null,
-        "area": "",
+        "area": "SF",
         "venue": "The Studio",
         "address": "",
-        "why": "",
-        "summary": "",
+        "why": "An afternoon Bob Marley show at The Studio — an easy daytime plan for a Saturday in the Bay Area.",
+        "summary": "Bob Marley at The Studio in San Francisco, Saturday afternoon, Nov 14 starting at 2pm. Check the listing for ticket details.",
         "promoter": "",
         "price": "",
-        "tags": [],
+        "tags": [
+          "afternoon",
+          "event",
+          "live"
+        ],
         "sources": [
           "https://dothebay.com/events/2026/11/14/bob-marley-tickets",
           "https://dothebay.com/events/2026/11/14/bob-marley-tickets-b98ejkm"
@@ -9350,10 +9354,10 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/san-francisco/2026-11-09/bob-marley-cee5.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
