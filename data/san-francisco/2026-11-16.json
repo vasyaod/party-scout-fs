@@ -6110,21 +6110,29 @@
         "id": "2026-11-16-music-tocadisco-w-dj-garth-bef6a5",
         "eid": "tocadisco-w-dj-garth-fb90",
         "track": "music",
-        "category": "",
+        "category": "Nightclub",
         "name": "Tocadisco w/ DJ Garth",
         "day": "Sat",
         "date": "2026-11-21",
         "time": "4pm",
         "start": "16:00",
-        "end": null,
+        "end": "23:00",
         "area": "Oakland",
         "venue": "Mad Oak Bar +N+ Yard",
         "address": "",
-        "why": "",
-        "summary": "",
+        "why": "Two house heavyweights, one outdoor-yard afternoon: Tocadisco's big-room energy meets Garth's San Francisco house heritage.",
+        "summary": "Afternoon house session at Mad Oak Bar 'n' Yard in Oakland, with German producer Tocadisco joined by Bay Area house pioneer DJ Garth.",
         "promoter": "",
         "price": "$12.51-23.18",
-        "tags": [],
+        "tags": [
+          "dj",
+          "electronic",
+          "dance",
+          "house",
+          "afternoon",
+          "outdoor",
+          "dj-set"
+        ],
         "sources": [
           {
             "url": "https://19hz.info/eventlisting_BayArea.php",
@@ -6139,17 +6147,17 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
-        "image_generated": false,
+        "image": "https://api.party-scout.app/img/san-francisco/2026-11-16/tocadisco-w-dj-garth-1537.jpg",
+        "image_generated": true,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
         "id": "2026-11-16-music-veggi-j-jaxx-tripleset-417782",
         "eid": "veggi-j-jaxx-tripleset-2027",
         "track": "music",
-        "category": "",
+        "category": "Concert",
         "name": "Veggi + J. Jaxx + Tripleset",
         "day": "Sat",
         "date": "2026-11-21",
@@ -6158,17 +6166,22 @@
         "end": null,
         "area": "San Francisco",
         "venue": "Brick And Mortar Music Hall",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "1710 Mission Street, San Francisco, CA 94103",
+        "why": "To see multiple live acts in one night in the Mission neighborhood.",
+        "summary": "A show billed as Veggi + J. Jaxx + Tripleset at 1710 Mission Street in San Francisco on November 21, 2026.",
         "promoter": "",
         "price": "$28.08",
-        "tags": [],
+        "tags": [
+          "live",
+          "music",
+          "nightlife"
+        ],
         "sources": [
           {
             "url": "https://19hz.info/eventlisting_BayArea.php",
             "hidden": true
-          }
+          },
+          "https://dothebay.com/events/2026/11/21/veggi-tickets"
         ],
         "tickets": [],
         "maps": {
@@ -6178,31 +6191,36 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/san-francisco/2026-11-16/veggi-j-jaxx-tripleset-2027.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
         "id": "2026-11-16-music-wuki-beats-i-can-t-release-mix-acfebd",
         "eid": "wuki-beats-i-can-t-relea-2780",
         "track": "music",
-        "category": "",
+        "category": "Nightclub",
         "name": "Wuki - Beats I Can't Release: Mixtape Vol. 3",
         "day": "Sat",
         "date": "2026-11-21",
         "time": "21:00",
-        "start": null,
-        "end": null,
+        "start": "21:00",
+        "end": "02:00",
         "area": "San Francisco",
         "venue": "The Midway",
         "address": "900 Marin Street, San Francisco, CA 94124",
-        "why": "",
-        "summary": "",
+        "why": "To hear exclusive unreleased mixes and a high-energy DJ set.",
+        "summary": "Wuki brings Beats I Can't Release: Mixtape Vol. 3 to San Francisco on November 21, 2026.",
         "promoter": "",
         "price": "$16.17-1,000",
-        "tags": [],
+        "tags": [
+          "dj",
+          "electronic",
+          "mixtape",
+          "dance"
+        ],
         "sources": [
           {
             "url": "https://19hz.info/eventlisting_BayArea.php",
@@ -6214,7 +6232,10 @@
           },
           "https://ra.co/events/2557509"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://ra.co/events/us/sanfrancisco",
+          "https://ra.co/events/2557509"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=900%20Marin%20Street%2C%20San%20Francisco%2C%20CA%2094124",
           "apple": "https://maps.apple.com/?q=900%20Marin%20Street%2C%20San%20Francisco%2C%20CA%2094124"
@@ -6225,7 +6246,7 @@
         "image": "https://images.ra.co/f587f9e3f36cc8aeac73cf7f496c0da973a31337.png",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true,
         "lineup": [
           {
@@ -6238,26 +6259,31 @@
         "id": "2026-11-16-music-wuki-jake-shore-9b49-ceb9af",
         "eid": "wuki-jake-shore-9b49-c018",
         "track": "music",
-        "category": "",
+        "category": "Nightclub",
         "name": "Wuki, Jake Shore, 9B49",
         "day": "Sat",
         "date": "2026-11-21",
-        "time": "",
-        "start": null,
+        "time": "9:00 PM",
+        "start": "21:00",
         "end": null,
-        "area": "San Francisco",
+        "area": "Bayview",
         "venue": "The Midway",
         "address": "",
-        "why": "",
-        "summary": "",
+        "why": "For high-energy, bass-forward electronic dancefloor sets.",
+        "summary": "A DJ night in San Francisco on 2026-11-21 featuring Wuki, Jake Shore, and 9B49.",
         "promoter": "",
-        "price": "",
-        "tags": [],
+        "price": "From $30",
+        "tags": [
+          "dj",
+          "electronic",
+          "dance"
+        ],
         "sources": [
           {
             "url": "https://edmtrain.com/san-francisco-ca",
             "hidden": true
-          }
+          },
+          "https://san-francisco.events/concerts/wuki/"
         ],
         "tickets": [],
         "maps": {
@@ -6270,7 +6296,7 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
@@ -7482,21 +7508,27 @@
         "id": "2026-11-16-sports-volleyball-training-and-playin-8cfa25",
         "eid": "volleyball-training-and-9ec0",
         "track": "sports",
-        "category": "",
+        "category": "Sports",
         "name": "Volleyball. Training and Playing.",
         "day": "Sat",
         "date": "2026-11-21",
         "time": "09:00",
-        "start": null,
-        "end": null,
+        "start": "09:00",
+        "end": "14:00",
         "area": "San Francisco",
         "venue": "Ocean Beach, Stairwell 17, just across from Beach Chalet, 1000 Great Hwy",
         "address": "1000 Great Hwy, San Francisco, CA",
-        "why": "",
-        "summary": "",
+        "why": "Get active, sharpen skills, and meet other local players.",
+        "summary": "A session of volleyball training and playing in San Francisco on November 21, 2026.",
         "promoter": "",
-        "price": "",
-        "tags": [],
+        "price": "Free (donations welcome)",
+        "tags": [
+          "sports",
+          "fitness",
+          "drop-in",
+          "all-levels",
+          "community"
+        ],
         "sources": [
           {
             "url": "https://www.meetup.com",
@@ -7516,7 +7548,7 @@
         "image": "https://secure-content.meetupstatic.com/images/classic-events/499116954/676x676.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
