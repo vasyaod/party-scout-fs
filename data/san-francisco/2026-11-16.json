@@ -845,7 +845,7 @@
         "id": "2026-11-16-music-las-migas-14a1a7",
         "eid": "las-migas-486a",
         "track": "music",
-        "category": "",
+        "category": "Concert",
         "name": "Las Migas",
         "day": "Tue",
         "date": "2026-11-17",
@@ -854,12 +854,16 @@
         "end": null,
         "area": "San Francisco",
         "venue": "The Freight",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "1111 California St., San Francisco, CA 94108",
+        "why": "For a ticketed live-music evening in central San Francisco.",
+        "summary": "Las Migas at 1111 California St., San Francisco on November 17, 2026; tickets are $44–$49.",
         "promoter": "",
-        "price": "",
-        "tags": [],
+        "price": "$44–$49",
+        "tags": [
+          "live",
+          "music",
+          "ticketed"
+        ],
         "sources": [
           {
             "url": "https://dothebay.com/events",
@@ -875,17 +879,17 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/san-francisco/2026-11-16/las-migas-486a.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
         "id": "2026-11-16-music-ninajirachi-6a99ca",
         "eid": "ninajirachi-dba3",
         "track": "music",
-        "category": "",
+        "category": "Concert",
         "name": "Ninajirachi",
         "day": "Tue",
         "date": "2026-11-17",
@@ -894,12 +898,15 @@
         "end": null,
         "area": "San Francisco",
         "venue": "The Regency Ballroom",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "1111 California St., San Francisco, CA 94108",
+        "why": "To catch a live show in San Francisco on November 17.",
+        "summary": "Ninajirachi performs at 1111 California St., San Francisco on November 17, 2026.",
         "promoter": "",
         "price": "$213-314",
-        "tags": [],
+        "tags": [
+          "live",
+          "dj"
+        ],
         "sources": [
           {
             "url": "https://dothebay.com/events",
@@ -928,9 +935,9 @@
         "coords_precise": false,
         "ra": {},
         "image": "https://api.party-scout.app/img/san-francisco/2026-11-16/ninajirachi-dba3.jpg",
-        "image_generated": true,
+        "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
