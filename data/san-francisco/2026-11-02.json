@@ -10480,14 +10480,17 @@
         "time": "",
         "start": null,
         "end": null,
-        "area": "",
+        "area": "Van Ness",
         "venue": "The Regency Ballroom",
         "address": "",
-        "why": "",
-        "summary": "",
+        "why": "To attend an event in San Francisco on that date.",
+        "summary": "An event titled \"Buy Tickets\" is scheduled for November 6, 2026 in San Francisco.",
         "promoter": "",
         "price": "",
-        "tags": [],
+        "tags": [
+          "tickets",
+          "event"
+        ],
         "sources": [
           {
             "url": "https://www.theregencyballroom.com/shows",
@@ -10505,7 +10508,7 @@
         "image": "https://api.party-scout.app/img/san-francisco/2026-11-02/buy-tickets-dbc6.jpg",
         "image_generated": true,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
@@ -10549,7 +10552,7 @@
         "eid": "dirtybird-night-market-d-1641",
         "track": "music",
         "category": "Market",
-        "name": "Dirtybird Night Market: DJ Sets, Games & Cocktails at SF’s Thrive City",
+        "name": "Dirtybird Night Market: DJ Sets, Games & Cocktails at SF's Thrive City",
         "day": "Fri",
         "date": "2026-11-06",
         "time": "17:00",
@@ -10576,9 +10579,13 @@
           },
           "https://www.eventbrite.com/e/dirtybird-x-thrive-city-dirtybird-night-market-tickets-2002666865505",
           "https://dothebay.com/events/2026/11/6/dirtybird-x-thrive-city-dirtybird-night-market-tickets",
-          "https://sf.funcheap.com/pleasant-hills-new-night-market-13/"
+          "https://sf.funcheap.com/pleasant-hills-new-night-market-13/",
+          "https://ra.co/events/2553733"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://www.eventbrite.com/e/dirtybird-x-thrive-city-dirtybird-night-market-tickets-2002666865505",
+          "https://ra.co/events/2553733"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Thrive%20City%20%28San%20Francisco%29",
           "apple": "https://maps.apple.com/?q=Thrive%20City%20%28San%20Francisco%29"
@@ -10589,28 +10596,33 @@
         "image": "https://cdn.funcheap.com/wp-content/uploads/2026/10/TC_BM_20260903_Dirtybird_DIGITAL_Generic_1005x600-80x80.avif",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
         "id": "2026-11-02-music-jam-session-with-creativity-ex-4a323b",
         "eid": "jam-session-with-creativ-4f33",
         "track": "music",
-        "category": "",
+        "category": "Concert",
         "name": "Jam Session with Creativity Explored",
         "day": "Fri",
         "date": "2026-11-06",
         "time": "12:00",
-        "start": null,
-        "end": null,
-        "area": "",
+        "start": "12:00",
+        "end": "15:00",
+        "area": "SoMa",
         "venue": "Yerba Buena Center for the Arts",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "701 Mission St, San Francisco, CA",
+        "why": "To play or listen to live, improvised music with local artists in a welcoming, community-oriented setting.",
+        "summary": "A free jam session with Creativity Explored on November 6, 2026 at 701 Mission St in San Francisco.",
         "promoter": "",
-        "price": "",
-        "tags": [],
+        "price": "Free",
+        "tags": [
+          "free",
+          "live",
+          "music",
+          "community"
+        ],
         "sources": [
           "https://sf.funcheap.com/jam-session-creativity-explored/"
         ],
@@ -10622,10 +10634,10 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/san-francisco/2026-11-02/jam-session-with-creativ-4f33.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {

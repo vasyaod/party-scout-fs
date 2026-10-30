@@ -5653,7 +5653,7 @@
         "id": "2026-11-09-music-sneak-s-birthday-beats-7d8e67",
         "eid": "sneak-s-birthday-beats-d1e0",
         "track": "music",
-        "category": "",
+        "category": "Nightclub",
         "name": "Sneak's Birthday Beats",
         "day": "Sun",
         "date": "2026-11-15",
@@ -5663,18 +5663,26 @@
         "area": "Los Angeles",
         "venue": "2341 East Olympic Boulevard",
         "address": "",
-        "why": "",
-        "summary": "",
+        "why": "To celebrate with friends and enjoy a night out.",
+        "summary": "A birthday music party for Sneak taking place in Los Angeles on 2026-11-15. Venue, time, price and lineup details were not provided.",
         "promoter": "",
         "price": "",
-        "tags": [],
+        "tags": [
+          "party",
+          "dance",
+          "birthday",
+          "dj"
+        ],
         "sources": [
           {
             "url": "https://edmtrain.com/los-angeles-ca",
             "hidden": true
-          }
+          },
+          "https://ra.co/events/2499458"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://ra.co/events/2499458"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=2341%20East%20Olympic%20Boulevard%2C%20Los%20Angeles",
           "apple": "https://maps.apple.com/?q=2341%20East%20Olympic%20Boulevard%2C%20Los%20Angeles"
@@ -5682,10 +5690,10 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/los-angeles/2026-11-09/sneak-s-birthday-beats-d1e0.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
@@ -6522,7 +6530,7 @@
         "id": "2026-11-09-sports-sunday-underwater-hockey-fitne-578a61",
         "eid": "sunday-underwater-hockey-e4cb",
         "track": "sports",
-        "category": "",
+        "category": "Sports",
         "name": "Sunday Underwater Hockey Fitness Meetup & Scrimmage",
         "day": "Sun",
         "date": "2026-11-15",
@@ -6532,11 +6540,16 @@
         "area": "Los Angeles",
         "venue": "Echo Park Pool, 1419 Colton Street,",
         "address": "",
-        "why": "",
-        "summary": "",
+        "why": "For a group aquatic workout, skills practice and a casual scrimmage with other players.",
+        "summary": "A fitness-focused underwater hockey meetup and scrimmage taking place Sunday, November 15, 2026 in Los Angeles.",
         "promoter": "",
         "price": "",
-        "tags": [],
+        "tags": [
+          "sports",
+          "fitness",
+          "meetup",
+          "aquatic"
+        ],
         "sources": [
           {
             "url": "https://www.meetup.com",
@@ -6554,7 +6567,7 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       }
     ]
