@@ -6104,21 +6104,29 @@
         "id": "2026-11-09-sports-2026-pickleball-lovers-come-jo-396ffd",
         "eid": "2026-pickleball-lovers-c-76fb",
         "track": "sports",
-        "category": "",
+        "category": "Sports",
         "name": "2026 Pickleball Lovers!! Come Join Our \"Social Dinkers\" Pickleball Community!",
         "day": "Sat",
         "date": "2026-11-14",
         "time": "08:00",
         "start": null,
         "end": null,
-        "area": "Los Angeles",
+        "area": "Fairfax",
         "venue": "6333 W 3rd St, Los Angeles, CA 90036, 6333 W 3rd St, Los Angeles, CA 90036",
         "address": "",
-        "why": "",
-        "summary": "",
-        "promoter": "",
+        "why": "Pickleball used as an easy icebreaker: good for meeting people in LA without any pressure to be good at it.",
+        "summary": "A beginner-friendly social pickleball meetup run by the LA Societal \"Mix & Mingle\" group, with partner and court rotation so everyone meets new people. All skill levels welcome, equipment available.",
+        "promoter": "LA Societal",
         "price": "",
-        "tags": [],
+        "tags": [
+          "sports",
+          "social",
+          "community",
+          "outdoor",
+          "pickleball",
+          "meetup",
+          "beginner-friendly"
+        ],
         "sources": [
           {
             "url": "https://www.meetup.com",
@@ -6136,28 +6144,35 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
         "id": "2026-11-09-sports-best-saturday-pickup-max-9-x-9-fe5fc4",
         "eid": "best-saturday-pickup-max-e243",
         "track": "sports",
-        "category": "",
+        "category": "Sports",
         "name": "Best Saturday Pickup max 9 x 9- Playa Vista- Big Goals, Goalies",
         "day": "Sat",
         "date": "2026-11-14",
         "time": "08:30",
         "start": null,
         "end": null,
-        "area": "Los Angeles",
+        "area": "Playa Vista",
         "venue": "Playa Vista Bluff Creek Soccer Field, 12702 W. Bluff Creek Dr.   90094",
         "address": "",
-        "why": "",
-        "summary": "",
+        "why": "A friendly, well-run weekly pickup game on a proper turf field with real goals and keepers — an easy way to get a competitive run in and meet local players.",
+        "summary": "Saturday morning pickup soccer on turf at the Playa Vista Bluff Creek field, 9v9 with big goals and goalies. Warm-up starts at 8:30 and the game kicks off about 30 minutes later.",
         "promoter": "",
         "price": "",
-        "tags": [],
+        "tags": [
+          "sports",
+          "soccer",
+          "outdoor",
+          "pickup",
+          "outdoors",
+          "playa-vista"
+        ],
         "sources": [
           {
             "url": "https://www.meetup.com",
@@ -6175,35 +6190,45 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
         "id": "2026-11-09-sports-best-saturday-pickup-max-9-x-9-2c5254",
         "eid": "best-saturday-pickup-max-bbf3",
         "track": "sports",
-        "category": "",
+        "category": "Sports",
         "name": "Best Saturday Pickup max 9 x 9 Turf Field Playa Vista Goalies/Big Goals",
         "day": "Sat",
         "date": "2026-11-14",
         "time": "08:30",
         "start": null,
-        "end": null,
-        "area": "Los Angeles",
+        "end": "10:30",
+        "area": "Playa Vista",
         "venue": "Playa Vista Bluff Creek Soccer Field, 12702 W. Bluff Creek Dr.   90094",
         "address": "",
-        "why": "",
-        "summary": "",
-        "promoter": "",
+        "why": "A friendly, well-run Saturday-morning game with real goals and keepers, no slide tackles or rough play.",
+        "summary": "Co-ed intermediate-to-advanced pickup soccer on a new turf field with big goals and goalies, 9v9 max. Fees cover the field rental; RSVP is held only with payment.",
+        "promoter": "Playa Vista Soccer Pickup (Meetup)",
         "price": "",
-        "tags": [],
+        "tags": [
+          "soccer",
+          "pickup",
+          "outdoor",
+          "turf",
+          "playa-vista",
+          "co-ed"
+        ],
         "sources": [
           {
             "url": "https://www.meetup.com",
             "hidden": true
-          }
+          },
+          "https://www.meetup.com/playa-vista-soccer-pickup/events/317132150/"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://www.meetup.com/playa-vista-soccer-pickup/events/317132150/"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Playa%20Vista%20Bluff%20Creek%20Soccer%20Field%2C%2012702%20W.%20Bluff%20Creek%20Dr.%20%20%2090094%2C%20Los%20Angeles",
           "apple": "https://maps.apple.com/?q=Playa%20Vista%20Bluff%20Creek%20Soccer%20Field%2C%2012702%20W.%20Bluff%20Creek%20Dr.%20%20%2090094%2C%20Los%20Angeles"
@@ -6211,17 +6236,17 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/los-angeles/2026-11-09/best-saturday-pickup-max-bbf3.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
         "id": "2026-11-09-sports-co-ed-pickup-soccer-los-angele-1dd2fe",
         "eid": "co-ed-pickup-soccer-los-5216",
         "track": "sports",
-        "category": "",
+        "category": "Sports",
         "name": "Co-Ed Pickup Soccer Los Angeles (Exposition Park)",
         "day": "Sat",
         "date": "2026-11-14",
@@ -6231,11 +6256,16 @@
         "area": "Los Angeles",
         "venue": "Exposition Park, 700 Exposition Park Dr",
         "address": "",
-        "why": "",
-        "summary": "",
+        "why": "To get some casual outdoor exercise and play mixed-gender recreational soccer with local players.",
+        "summary": "A co-ed pickup soccer session taking place at Exposition Park in Los Angeles on 2026-11-14.",
         "promoter": "",
         "price": "",
-        "tags": [],
+        "tags": [
+          "sports",
+          "outdoor",
+          "pickup",
+          "coed"
+        ],
         "sources": [
           {
             "url": "https://www.meetup.com",
@@ -6253,7 +6283,7 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
