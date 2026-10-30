@@ -10748,28 +10748,36 @@
         "id": "2026-10-26-music-boo-ba-rave-party-presented-by-49abe4",
         "eid": "boo-ba-rave-party-presen-b317",
         "track": "music",
-        "category": "",
+        "category": "Nightclub",
         "name": "BOO-BA RAVE! - Party presented by Formosa Aroma & SPOON presents",
         "day": "Sat",
         "date": "2026-10-31",
         "time": "17:00",
-        "start": null,
-        "end": null,
-        "area": "",
+        "start": "17:00",
+        "end": "22:00",
+        "area": "Los Angeles",
         "venue": "Formosa Aroma",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "560 W Main St Ste B Alhambra, CA  91801",
+        "why": "To dance and celebrate Halloween at a late-night rave-style party in Alhambra.",
+        "summary": "BOO-BA RAVE! is a Halloween-themed rave/party taking place on October 31, 2026 at 560 W Main St Ste B in Alhambra.",
         "promoter": "",
         "price": "5p3c141, mabaton",
-        "tags": [],
+        "tags": [
+          "halloween",
+          "rave",
+          "party"
+        ],
         "sources": [
           {
             "url": "https://ra.co/events/us/losangeles",
             "hidden": true
-          }
+          },
+          "https://ra.co/events/2569316"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://ra.co/events/us/losangeles",
+          "https://ra.co/events/2569316"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Formosa%20Aroma",
           "apple": "https://maps.apple.com/?q=Formosa%20Aroma"
@@ -10777,10 +10785,10 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/los-angeles/2026-10-26/boo-ba-rave-party-presen-b317.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       }
     ],
