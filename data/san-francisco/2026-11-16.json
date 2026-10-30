@@ -2304,7 +2304,7 @@
         "id": "2026-11-16-music-ninajirachi-703d9f",
         "eid": "ninajirachi-0fd8",
         "track": "music",
-        "category": "",
+        "category": "Concert",
         "name": "Ninajirachi",
         "day": "Thu",
         "date": "2026-11-19",
@@ -2313,12 +2313,15 @@
         "end": null,
         "area": "San Francisco",
         "venue": "The Regency Ballroom",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "1111 California St., San Francisco, CA 94108",
+        "why": "To catch a live set from a touring artist in the city.",
+        "summary": "Ninajirachi performs at 1111 California St., San Francisco on November 19, 2026.",
         "promoter": "",
         "price": "$100+",
-        "tags": [],
+        "tags": [
+          "live",
+          "music"
+        ],
         "sources": [
           {
             "url": "https://dothebay.com/events",
@@ -2347,30 +2350,34 @@
         "coords_precise": false,
         "ra": {},
         "image": "https://api.party-scout.app/img/san-francisco/2026-11-16/ninajirachi-0fd8.jpg",
-        "image_generated": true,
+        "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
         "id": "2026-11-16-music-out-loud-queer-concert-feat-mi-9c7f70",
         "eid": "out-loud-queer-concert-f-caa6",
         "track": "music",
-        "category": "",
+        "category": "Concert",
         "name": "Out Loud: Queer Concert feat. MicahTron, Hugo De La Lune + more",
         "day": "Thu",
         "date": "2026-11-19",
         "time": "7:00PM",
         "start": "19:00",
         "end": null,
-        "area": "",
+        "area": "Oakland",
         "venue": "Oakstop (Broadway)",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "2323 Broadway, Oakland, CA 94612",
+        "why": "To catch high-energy queer performances and a varied live lineup in Oakland.",
+        "summary": "A queer-focused concert on Nov. 19, 2026 at 2323 Broadway in Oakland, featuring MicahTron, Hugo De La Lune, and additional performers. Tickets are listed at $18–$30.",
         "promoter": "",
-        "price": "",
-        "tags": [],
+        "price": "$18–$30",
+        "tags": [
+          "queer",
+          "live",
+          "concert"
+        ],
         "sources": [
           "https://dothebay.com/events/2026/11/19/out-loud-queer-concert-feat-micahtron-hugo-de-la-lune-and-more-tickets"
         ],
@@ -2382,10 +2389,10 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/san-francisco/2026-11-16/out-loud-queer-concert-f-caa6.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
@@ -2401,12 +2408,17 @@
         "end": null,
         "area": "San Francisco",
         "venue": "Public Works",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "161 Erie Street, San Francisco, CA 94103",
+        "why": "For an affordable, ticketed evening in SoMa featuring food and drinks.",
+        "summary": "Pancakes & Booze is scheduled for November 19, 2026 at 161 Erie Street in San Francisco; tickets are listed at $17–$23.",
         "promoter": "",
-        "price": "",
-        "tags": [],
+        "price": "$17–$23",
+        "tags": [
+          "food",
+          "drinks",
+          "21+",
+          "ticketed"
+        ],
         "sources": [
           {
             "url": "https://dothebay.com/events",
@@ -2422,10 +2434,10 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/san-francisco/2026-11-16/pancakes-booze-7df4.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
@@ -6827,24 +6839,29 @@
         "time": "6:00PM",
         "start": "18:00",
         "end": null,
-        "area": "San Francisco",
+        "area": "Golden Gate Park",
         "venue": "California Academy of Sciences",
         "address": "1111 California St., San Francisco, CA 94108",
-        "why": "To attend an evening event in central San Francisco.",
-        "summary": "NightLife is scheduled for November 19, 2026 at 1111 California St., San Francisco.",
+        "why": "A weekly Thursday classic — wander the aquarium and rainforest with a drink in hand and a DJ on.",
+        "summary": "Thursday after-hours at the California Academy of Sciences: the museum turns into a 21+ party with music, drinks and exhibits open late.",
         "promoter": "",
-        "price": "",
+        "price": "$26",
         "tags": [
           "nightlife",
           "event",
-          "evening"
+          "evening",
+          "museum",
+          "21+",
+          "after-hours",
+          "thursday"
         ],
         "sources": [
           {
             "url": "https://dothebay.com/events",
             "hidden": true
           },
-          "https://dothebay.com/events/2026/11/19/nightlife-november-19-tickets"
+          "https://dothebay.com/events/2026/11/19/nightlife-november-19-tickets",
+          "https://www.calacademy.org/nightlife"
         ],
         "tickets": [],
         "maps": {
