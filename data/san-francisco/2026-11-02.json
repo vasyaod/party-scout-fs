@@ -8791,28 +8791,37 @@
         "id": "2026-11-02-music-function-500-w-fluxions-740fd5",
         "eid": "function-500-w-fluxions-403a",
         "track": "music",
-        "category": "",
+        "category": "Nightclub",
         "name": "Function 500 w/ FLUXIONS",
         "day": "Thu",
         "date": "2026-11-05",
-        "time": "",
-        "start": null,
-        "end": null,
+        "time": "9pm–2am",
+        "start": "21:00",
+        "end": "02:00",
         "area": "San Francisco",
         "venue": "Public Works",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "161 Erie Street, San Francisco, CA 94103, United States",
+        "why": "A cheap late-night chance to catch an electronic set in SoMa.",
+        "summary": "An event on Nov 5 at 161 Erie Street in SoMa featuring FLUXIONS, running 9pm–2am with $5 cover.",
         "promoter": "",
-        "price": "",
-        "tags": [],
+        "price": "$5",
+        "tags": [
+          "electronic",
+          "dj",
+          "cheap",
+          "late-night"
+        ],
         "sources": [
           {
             "url": "https://dothebay.com/events",
             "hidden": true
-          }
+          },
+          "https://ra.co/events/2563539",
+          "https://dothebay.com/events/2026/11/5/local-500-public-works-present-function-500-w-fluxions-tickets"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://ra.co/events/2563539"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Public%20Works%2C%20San%20Francisco",
           "apple": "https://maps.apple.com/?q=Public%20Works%2C%20San%20Francisco"
@@ -8820,39 +8829,48 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/san-francisco/2026-11-02/function-500-w-fluxions-403a.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
         "id": "2026-11-02-music-local-500-public-works-present-5b213e",
         "eid": "local-500-public-works-p-2437",
         "track": "music",
-        "category": "",
+        "category": "Nightclub",
         "name": "Local 500 & Public Works present: Function 500 with FLUXIONS",
         "day": "Thu",
         "date": "2026-11-05",
         "time": "21:00",
-        "start": null,
-        "end": null,
+        "start": "21:00",
+        "end": "02:00",
         "area": "San Francisco",
         "venue": "Public Works",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "161 Erie Street, San Francisco, CA 94103, United States",
+        "why": "To catch FLUXIONS' electronic set in a SoMa club setting.",
+        "summary": "Presented by Local 500 and Public Works at 161 Erie Street in San Francisco on November 5, 2026, this club night features FLUXIONS.",
         "promoter": "",
         "price": "$5",
-        "tags": [],
+        "tags": [
+          "electronic",
+          "techno",
+          "dj",
+          "live"
+        ],
         "sources": [
           "https://ra.co/events/2563539",
           {
             "url": "https://ra.co/events/us/sanfrancisco",
             "hidden": true
-          }
+          },
+          "https://dothebay.com/events/2026/11/5/local-500-public-works-present-function-500-w-fluxions-tickets"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://ra.co/events/2563539",
+          "https://ra.co/events/us/sanfrancisco"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Public%20Works%2C%20San%20Francisco",
           "apple": "https://maps.apple.com/?q=Public%20Works%2C%20San%20Francisco"
@@ -8860,31 +8878,36 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/san-francisco/2026-11-02/local-500-public-works-p-2437.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
         "id": "2026-11-02-music-music-is-the-answer-s-first-th-a6fedd",
         "eid": "music-is-the-answer-s-fi-2aa9",
         "track": "music",
-        "category": "",
+        "category": "Nightclub",
         "name": "Music Is The Answer's First Thursdays presents Navii's Bday Takeover",
         "day": "Thu",
         "date": "2026-11-05",
         "time": "21:00",
-        "start": null,
-        "end": null,
+        "start": "21:00",
+        "end": "02:00",
         "area": "San Francisco",
         "venue": "F8 1192 Folsom",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "1192 Folsom St, San Francisco, CA 94103",
+        "why": "Go to celebrate a local birthday party and enjoy a lively night out with friends.",
+        "summary": "A First Thursdays birthday takeover celebrating Navii on 2026-11-05 at 1192 Folsom St in San Francisco.",
         "promoter": "",
         "price": "10",
-        "tags": [],
+        "tags": [
+          "party",
+          "birthday",
+          "nightlife",
+          "first-thursdays"
+        ],
         "sources": [
           "https://ra.co/events/2568971",
           {
@@ -8892,7 +8915,10 @@
             "hidden": true
           }
         ],
-        "tickets": [],
+        "tickets": [
+          "https://ra.co/events/2568971",
+          "https://ra.co/events/us/sanfrancisco"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=F8%201192%20Folsom%2C%20San%20Francisco",
           "apple": "https://maps.apple.com/?q=F8%201192%20Folsom%2C%20San%20Francisco"
@@ -8900,10 +8926,10 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/san-francisco/2026-11-02/music-is-the-answer-s-fi-2aa9.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {

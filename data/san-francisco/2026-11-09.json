@@ -6672,26 +6672,34 @@
         "id": "2026-11-09-music-band-of-horses-5e4cd3",
         "eid": "band-of-horses-e1a9",
         "track": "music",
-        "category": "",
+        "category": "Concert",
         "name": "Band of Horses",
         "day": "Thu",
         "date": "2026-11-12",
-        "time": "",
-        "start": null,
+        "time": "7pm",
+        "start": "19:00",
         "end": null,
-        "area": "San Francisco",
+        "area": "SoMa",
         "venue": "The Regency Ballroom",
-        "address": "",
-        "why": "",
-        "summary": "",
-        "promoter": "",
+        "address": "88 5th Street, San Francisco, CA 94103",
+        "why": "A rare headline night from a decade-plus indie-rock mainstay with Grammy-nominated albums, in one of SF's best ballrooms.",
+        "summary": "An Evening With Band of Horses: the indie-rock band behind \"Everything All The Time\" plays The Regency Ballroom, presented by Goldenvoice. All ages.",
+        "promoter": "Goldenvoice",
         "price": "",
-        "tags": [],
+        "tags": [
+          "indie",
+          "rock",
+          "live",
+          "indie rock",
+          "live music",
+          "all ages"
+        ],
         "sources": [
           {
             "url": "https://dothebay.com/events",
             "hidden": true
-          }
+          },
+          "https://dothebay.com/events/2026/11/12/an-evening-with-band-of-horses-tickets"
         ],
         "tickets": [],
         "maps": {
@@ -6701,10 +6709,10 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/san-francisco/2026-11-09/band-of-horses-e1a9.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
@@ -7792,14 +7800,22 @@
         "time": "17:30",
         "start": null,
         "end": null,
-        "area": "San Francisco",
+        "area": "Golden Gate Park",
         "venue": "San Francisco Lawn Bowling Club, Bowling Green Drive",
         "address": "",
-        "why": "",
-        "summary": "",
+        "why": "A relaxed, social way to spend a midweek evening outdoors at the oldest municipal lawn bowling club in the US.",
+        "summary": "Weekly evening lawn bowls at the San Francisco Lawn Bowling Club, on the greens beside Robin Williams Meadow in Golden Gate Park.",
         "promoter": "",
         "price": "",
-        "tags": [],
+        "tags": [
+          "community",
+          "midweek",
+          "evening",
+          "lawn bowling",
+          "outdoors",
+          "social",
+          "golden gate park"
+        ],
         "sources": [
           {
             "url": "https://www.meetup.com",
@@ -7817,7 +7833,7 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
