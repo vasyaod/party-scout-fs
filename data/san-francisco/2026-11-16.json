@@ -6967,21 +6967,29 @@
         "id": "2026-11-16-music-the-residents-eskimo-live-8671ed",
         "eid": "the-residents-eskimo-liv-bff8",
         "track": "music",
-        "category": "",
+        "category": "Concert",
         "name": "The Residents   Eskimo Live",
         "day": "Sun",
         "date": "2026-11-22",
         "time": "8:00PM",
         "start": "20:00",
         "end": null,
-        "area": "",
+        "area": "Napa",
         "venue": "Uptown Theatre - Napa",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "1350 3rd St., Napa, CA 94559",
+        "why": "A rare live staging of one of the Residents' most famous conceptual albums, just a short drive from the Bay.",
+        "summary": "The Residents, the anonymous eyeball-masked avant-garde collective, perform their Eskimo album live at Napa's Uptown Theatre.",
         "promoter": "",
         "price": "",
-        "tags": [],
+        "tags": [
+          "live",
+          "concert",
+          "nightlife",
+          "event",
+          "avant-garde",
+          "experimental",
+          "live-music"
+        ],
         "sources": [
           "https://dothebay.com/events/2026/11/22/the-residents-eskimo-live-tickets"
         ],
@@ -6993,31 +7001,39 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/san-francisco/2026-11-16/the-residents-eskimo-liv-bff8.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
         "id": "2026-11-16-music-uc-jazz-ensembles-72c3cd",
         "eid": "uc-jazz-ensembles-af6d",
         "track": "music",
-        "category": "",
+        "category": "Concert",
         "name": "UC Jazz Ensembles",
         "day": "Sun",
         "date": "2026-11-22",
         "time": "7:00PM",
         "start": "19:00",
         "end": null,
-        "area": "San Francisco",
+        "area": "Berkeley",
         "venue": "The Freight",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "2020 Addison St, Berkeley, CA 94704",
+        "why": "A low-key Sunday night of live jazz in one of the East Bay's best listening rooms.",
+        "summary": "UC Berkeley's jazz ensembles take the stage at The Freight in Berkeley for a Sunday evening of student-led jazz.",
         "promoter": "",
         "price": "",
-        "tags": [],
+        "tags": [
+          "jazz",
+          "live",
+          "college",
+          "concert",
+          "live-music",
+          "berkeley",
+          "student"
+        ],
         "sources": [
           {
             "url": "https://dothebay.com/events",
@@ -7025,7 +7041,9 @@
           },
           "https://dothebay.com/events/2026/11/22/uc-jazz-ensembles-tickets"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://secure.thefreight.org/16245/16246-uc-jazz-ensembles-261122"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=The%20Freight%2C%20San%20Francisco",
           "apple": "https://maps.apple.com/?q=The%20Freight%2C%20San%20Francisco"
@@ -7033,10 +7051,10 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/san-francisco/2026-11-16/uc-jazz-ensembles-af6d.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
@@ -7052,12 +7070,16 @@
         "end": null,
         "area": "San Francisco",
         "venue": "Bottom Of The Hill",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "1111 California St., San Francisco, CA 94108",
+        "why": "To attend a downtown San Francisco event at a central address.",
+        "summary": "Verst takes place on November 22, 2026 at 1111 California St., San Francisco.",
         "promoter": "",
         "price": "",
-        "tags": [],
+        "tags": [
+          "nightlife",
+          "event",
+          "san-francisco"
+        ],
         "sources": [
           {
             "url": "https://dothebay.com/events",
@@ -7073,10 +7095,10 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/san-francisco/2026-11-16/verst-5ae6.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       }
     ],
@@ -7910,18 +7932,22 @@
         "time": "10:00",
         "start": "10:00",
         "end": "12:00",
-        "area": "San Francisco",
+        "area": "Haight / Panhandle",
         "venue": "Panhandle",
         "address": "San Francisco, CA",
-        "why": "For outdoor exercise and to meet local runners.",
-        "summary": "A community running event in San Francisco on November 22, 2026.",
-        "promoter": "",
-        "price": "",
+        "why": "A friendly, no-pressure way to start Sunday and meet other runners.",
+        "summary": "Weekly Sunday run club that goes your pace, meeting at the southeast corner of the Panhandle at 10am.",
+        "promoter": "Slow Runners SF",
+        "price": "Free",
         "tags": [
           "outdoor",
           "fitness",
           "community",
-          "morning"
+          "morning",
+          "run club",
+          "running",
+          "outdoors",
+          "free"
         ],
         "sources": [
           {
