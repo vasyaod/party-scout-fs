@@ -2729,12 +2729,16 @@
         "end": "02:00",
         "area": "Los Angeles",
         "venue": "Boardner's By La Belle (Los Angeles) (Los Angeles)",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "1652 North Cherokee Avenue, Los Angeles, CA 90028",
+        "why": "For a themed night out in Hollywood.",
+        "summary": "Trainspotting Night takes place on November 20, 2026 at 1652 North Cherokee Avenue in Hollywood.",
         "promoter": "",
         "price": "$18.91-29.57",
-        "tags": [],
+        "tags": [
+          "themed",
+          "party",
+          "nightlife"
+        ],
         "sources": [
           {
             "url": "https://19hz.info/eventlisting_LosAngeles.php",
@@ -2742,7 +2746,9 @@
           },
           "https://www.eventbrite.com/e/trainspotting-night-tickets-1993653040913"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://www.eventbrite.com/e/trainspotting-night-tickets-1993653040913"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Boardner%27s%20By%20La%20Belle%20%28Los%20Angeles%29%20%28Los%20Angeles%29%2C%20Los%20Angeles",
           "apple": "https://maps.apple.com/?q=Boardner%27s%20By%20La%20Belle%20%28Los%20Angeles%29%20%28Los%20Angeles%29%2C%20Los%20Angeles"
@@ -2750,31 +2756,36 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/los-angeles/2026-11-16/trainspotting-night-cd66.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
         "id": "2026-11-16-music-work-weekender-fadi-mohem-fjaa-975794",
         "eid": "work-weekender-fadi-mohe-49d3",
         "track": "music",
-        "category": "",
+        "category": "Nightclub",
         "name": "WORK Weekender: Fadi Mohem, FJAAK, Lindsey Herbert, Luigi Tozzi, The Lady Machine & More",
         "day": "Fri",
         "date": "2026-11-20",
         "time": "23:00-22:00",
-        "start": null,
-        "end": null,
+        "start": "23:00",
+        "end": "11:00",
         "area": "Los Angeles",
         "venue": "TBA - Los Angeles",
         "address": "",
-        "why": "",
-        "summary": "",
+        "why": "For fans of high-energy techno and underground electronic sets.",
+        "summary": "An electronic music event on November 20, 2026 featuring Fadi Mohem, FJAAK, Lindsey Herbert, Luigi Tozzi, The Lady Machine and more.",
         "promoter": "",
         "price": "20-75",
-        "tags": [],
+        "tags": [
+          "techno",
+          "electronic",
+          "dj",
+          "dance"
+        ],
         "sources": [
           {
             "url": "https://ra.co/events/us/losangeles",
@@ -2789,7 +2800,11 @@
             "hidden": true
           }
         ],
-        "tickets": [],
+        "tickets": [
+          "https://ra.co/events/us/losangeles",
+          "https://ra.co/events/2526746",
+          "https://ra.co/events/2537990"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Los%20Angeles",
           "apple": "https://maps.apple.com/?q=Los%20Angeles"
@@ -2798,9 +2813,9 @@
         "coords_precise": false,
         "ra": {},
         "image": "https://api.party-scout.app/img/los-angeles/2026-11-16/work-weekender-fadi-mohe-49d3.jpg",
-        "image_generated": true,
+        "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
