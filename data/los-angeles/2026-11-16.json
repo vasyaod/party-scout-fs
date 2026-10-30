@@ -2253,7 +2253,7 @@
         "time": "20:00-02:00",
         "start": "20:00",
         "end": "02:00",
-        "area": "Los Angeles",
+        "area": "DTLA",
         "venue": "The Redwood Bar And Grill",
         "address": "316 W. 2nd Street, Los Angeles, CA  90012",
         "why": "For a neon-lit, performance-driven night out in downtown LA.",
@@ -2299,16 +2299,20 @@
         "day": "Fri",
         "date": "2026-11-20",
         "time": "22:00-05:00",
-        "start": null,
-        "end": null,
+        "start": "22:00",
+        "end": "05:00",
         "area": "Los Angeles",
         "venue": "TBA - DTLA",
         "address": "",
-        "why": "",
-        "summary": "",
+        "why": "To see the billed artists perform in Los Angeles.",
+        "summary": "A Los Angeles event titled \"Grotto - Hewan Aman, Matas\" scheduled for 2026-11-20.",
         "promoter": "",
         "price": "$25 - $40",
-        "tags": [],
+        "tags": [
+          "live",
+          "music",
+          "night"
+        ],
         "sources": [
           {
             "url": "https://ra.co/events/us/losangeles",
@@ -2316,7 +2320,10 @@
           },
           "https://ra.co/events/2558154"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://ra.co/events/us/losangeles",
+          "https://ra.co/events/2558154"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Los%20Angeles",
           "apple": "https://maps.apple.com/?q=Los%20Angeles"
@@ -2324,33 +2331,40 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/los-angeles/2026-11-16/grotto-hewan-aman-matas-f070.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
         "id": "2026-11-16-music-houndmouth-1e9d40",
         "eid": "houndmouth-65da",
         "track": "music",
-        "category": "",
+        "category": "Concert",
         "name": "Houndmouth",
         "day": "Fri",
         "date": "2026-11-20",
-        "time": "",
+        "time": "8:00 PM",
         "start": null,
         "end": null,
-        "area": "",
+        "area": "Koreatown",
         "venue": "The Wiltern",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "3790 Wilshire Blvd, Los Angeles, CA 90010",
+        "why": "Harmony-heavy Americana rock in a grand art-deco theatre — a strong Friday-night live-music pick.",
+        "summary": "Indiana indie-folk-rock band Houndmouth plays The Wiltern on The Lordy Tour, with special guest Dogpark.",
         "promoter": "",
-        "price": "",
-        "tags": [],
+        "price": "From $45",
+        "tags": [
+          "concert",
+          "live",
+          "indie",
+          "folk-rock",
+          "live-band"
+        ],
         "sources": [
-          "https://www.ticketmaster.com/houndmouth-los-angeles-california-11-20-2026/event/090064EFE52CF86A"
+          "https://www.ticketmaster.com/houndmouth-los-angeles-california-11-20-2026/event/090064EFE52CF86A",
+          "https://www.tickpick.com/buy-houndmouth-tickets-the-wiltern-11-20-26-8pm/8144408/"
         ],
         "tickets": [],
         "maps": {
@@ -2360,10 +2374,10 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/los-angeles/2026-11-16/houndmouth-65da.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
