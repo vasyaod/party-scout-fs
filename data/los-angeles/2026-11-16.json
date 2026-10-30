@@ -1779,16 +1779,20 @@
         "day": "Tue",
         "date": "2026-11-17",
         "time": "20:00-00:00",
-        "start": null,
-        "end": null,
+        "start": "20:00",
+        "end": "00:00",
         "area": "Los Angeles",
         "venue": "The Airliner",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "2419 N Broadway, Los Angeles, CA 90036",
+        "why": "For a night out at a local Los Angeles event space.",
+        "summary": "VINSON presents: Good Company is scheduled for November 17, 2026 at 2419 N Broadway in Los Angeles.",
         "promoter": "",
         "price": "$10",
-        "tags": [],
+        "tags": [
+          "nightlife",
+          "event",
+          "los-angeles"
+        ],
         "sources": [
           {
             "url": "https://ra.co/events/us/losangeles",
@@ -1796,7 +1800,10 @@
           },
           "https://ra.co/events/2560978"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://ra.co/events/us/losangeles",
+          "https://ra.co/events/2560978"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=The%20Airliner%2C%20Los%20Angeles",
           "apple": "https://maps.apple.com/?q=The%20Airliner%2C%20Los%20Angeles"
@@ -1804,10 +1811,10 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/los-angeles/2026-11-16/vinson-presents-good-com-12cd.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
@@ -3860,21 +3867,27 @@
         "id": "2026-11-16-sports-co-ed-pickup-soccer-los-angele-885385",
         "eid": "co-ed-pickup-soccer-los-b5af",
         "track": "sports",
-        "category": "",
+        "category": "Sports",
         "name": "Co-Ed Pickup Soccer Los Angeles (Pico-Union Futsal)",
         "day": "Tue",
         "date": "2026-11-17",
         "time": "18:45",
-        "start": null,
-        "end": null,
-        "area": "",
+        "start": "18:45",
+        "end": "20:15",
+        "area": "Torrance",
         "venue": "Torrance, 22400 Halldale Ave",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "22400 Halldale Ave, Torrance, CA",
+        "why": "An easy way to get a game in midweek and meet new people without joining a league.",
+        "summary": "Casual co-ed pickup soccer from the Los Angeles Soccer Meetup group, played on Tuesday evening in a 90-minute slot. Pay-in-cash at the field; all levels welcome.",
         "promoter": "",
-        "price": "",
-        "tags": [],
+        "price": "$9.99",
+        "tags": [
+          "soccer",
+          "futsal",
+          "pickup",
+          "co-ed",
+          "meetup"
+        ],
         "sources": [
           "https://www.meetup.com/los-angeles-soccer-meetup-group-pezo/events/317184818/"
         ],
@@ -3886,10 +3899,10 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/los-angeles/2026-11-16/co-ed-pickup-soccer-los-b5af.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
@@ -4160,21 +4173,28 @@
         "id": "2026-11-16-sports-adult-4-v-4-indoor-co-ed-pick-7fa3f3",
         "eid": "adult-4-v-4-indoor-co-ed-d522",
         "track": "sports",
-        "category": "",
+        "category": "Sports",
         "name": "Adult 4 v 4 indoor Co-ed pick up",
         "day": "Wed",
         "date": "2026-11-18",
         "time": "20:00",
-        "start": null,
-        "end": null,
-        "area": "",
+        "start": "20:00",
+        "end": "22:00",
+        "area": "Glassell Park",
         "venue": "Evolve Project LA, 1921 Blake Avenue",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "1921 Blake Avenue, Los Angeles, CA",
+        "why": "A easy way to get a competitive-but-friendly game in midweek without organizing a team.",
+        "summary": "Weekly co-ed indoor 4v4 pick-up soccer at Evolve Project LA, 8–10pm. Drop in, get put on a team and play short games on an indoor court.",
         "promoter": "",
-        "price": "",
-        "tags": [],
+        "price": "$12 cash",
+        "tags": [
+          "sports",
+          "indoor",
+          "co-ed",
+          "pickup",
+          "adult",
+          "soccer"
+        ],
         "sources": [
           "https://www.meetup.com/los-angeles-pick-up-soccer-meetup/events/317201191/"
         ],
@@ -4186,10 +4206,10 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/los-angeles/2026-11-16/adult-4-v-4-indoor-co-ed-d522.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {

@@ -3342,18 +3342,21 @@
         "time": "10pm",
         "start": "22:00",
         "end": "06:00",
-        "area": "San Francisco",
+        "area": "SF",
         "venue": "TBA",
         "address": "",
-        "why": "To catch a multi-artist DJ/producer showcase in one night.",
-        "summary": "Part of the Endzeit X Non Series, this San Francisco night features Luigi Tozzi, Psyk, Neel, Tauceti, Jin Synth, and RMNA.",
-        "promoter": "",
+        "why": "A deep, six-act techno lineup running until dawn, with Psyk and Luigi Tozzi as the draw.",
+        "summary": "Endzeit SF and Non Series team up for an all-night techno bill led by Luigi Tozzi and Psyk, with Neel, Tauceti, Jin Synth and RMNA. 10pm to 6am, 21+.",
+        "promoter": "Endzeit SF",
         "price": "",
         "tags": [
           "dj",
           "electronic",
           "club",
-          "underground"
+          "underground",
+          "techno",
+          "21+",
+          "all-night"
         ],
         "sources": [
           {
@@ -3437,21 +3440,24 @@
         "id": "2026-11-16-music-fjaak-hiroko-yamamura-9c77d7",
         "eid": "fjaak-hiroko-yamamura-f812",
         "track": "music",
-        "category": "",
+        "category": "Nightclub",
         "name": "FJAAK & HIROKO YAMAMURA",
         "day": "Fri",
         "date": "2026-11-20",
         "time": "9:00PM",
         "start": "21:00",
-        "end": null,
+        "end": "03:00",
         "area": "San Francisco",
         "venue": "Public Works",
         "address": "161 Erie Street, San Francisco, CA 94103, United States",
-        "why": "",
-        "summary": "",
+        "why": "To catch a rare pairing of two acclaimed international artists performing in town.",
+        "summary": "A show featuring FJAAK and Hiroko Yamamura in San Francisco on November 20, 2026.",
         "promoter": "",
         "price": "$30",
-        "tags": [],
+        "tags": [
+          "dj",
+          "live"
+        ],
         "sources": [
           {
             "url": "https://19hz.info/eventlisting_BayArea.php",
@@ -3472,7 +3478,10 @@
           "https://dothebay.com/events/2026/11/20/fjaak-hiroko-yamamura-presented-by-public-works-tickets",
           "https://ra.co/events/2536919"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://ra.co/events/us/sanfrancisco",
+          "https://ra.co/events/2536919"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=161%20Erie%20Street%2C%20San%20Francisco%2C%20CA%2094103%2C%20United%20States",
           "apple": "https://maps.apple.com/?q=161%20Erie%20Street%2C%20San%20Francisco%2C%20CA%2094103%2C%20United%20States"
@@ -3483,7 +3492,7 @@
         "image": "https://images.ra.co/9cc2ccccb516dd889ec1b319539c15071e683f36.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true,
         "lineup": [
           {
@@ -3508,7 +3517,7 @@
         "id": "2026-11-16-music-haley-heynderickx-5497ab",
         "eid": "haley-heynderickx-7a14",
         "track": "music",
-        "category": "",
+        "category": "Concert",
         "name": "Haley Heynderickx",
         "day": "Fri",
         "date": "2026-11-20",
@@ -3517,12 +3526,16 @@
         "end": null,
         "area": "San Francisco",
         "venue": "The Freight",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "1111 California St., San Francisco, CA 94108",
+        "why": "For an intimate evening of delicate, folk‑inflected singer‑songwriter music.",
+        "summary": "Haley Heynderickx performs on November 20, 2026, at 1111 California St., San Francisco. Tickets are listed at $44–$49.",
         "promoter": "",
-        "price": "",
-        "tags": [],
+        "price": "$44–$49",
+        "tags": [
+          "indie",
+          "folk",
+          "live"
+        ],
         "sources": [
           {
             "url": "https://dothebay.com/events",
@@ -3538,31 +3551,34 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/san-francisco/2026-11-16/haley-heynderickx-7a14.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
         "id": "2026-11-16-music-hans-glader-afc8c5",
         "eid": "hans-glader-257e",
         "track": "music",
-        "category": "",
+        "category": "Concert",
         "name": "Hans Glader",
         "day": "Fri",
         "date": "2026-11-20",
         "time": "21:00",
-        "start": null,
-        "end": null,
+        "start": "21:00",
+        "end": "02:00",
         "area": "San Francisco",
         "venue": "The Midway",
         "address": "900 Marin Street, San Francisco, CA 94124",
-        "why": "",
-        "summary": "",
+        "why": "To catch a live music performance in the city.",
+        "summary": "A show listed as \"Hans Glader\" scheduled in San Francisco on November 20, 2026; venue and start time are not provided.",
         "promoter": "",
         "price": "free",
-        "tags": [],
+        "tags": [
+          "live",
+          "music"
+        ],
         "sources": [
           {
             "url": "https://19hz.info/eventlisting_BayArea.php",
@@ -3576,9 +3592,13 @@
             "url": "https://edmtrain.com/san-francisco-ca",
             "hidden": true
           },
+          "https://ra.co/events/2557370",
+          "https://dothebay.com/events/2026/11/20/hans-glader-tickets"
+        ],
+        "tickets": [
+          "https://ra.co/events/us/sanfrancisco",
           "https://ra.co/events/2557370"
         ],
-        "tickets": [],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=900%20Marin%20Street%2C%20San%20Francisco%2C%20CA%2094124",
           "apple": "https://maps.apple.com/?q=900%20Marin%20Street%2C%20San%20Francisco%2C%20CA%2094124"
@@ -3589,28 +3609,32 @@
         "image": "https://images.ra.co/44a61e1f4e792e6d12f0c7b74870f52a3cdae850.png",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
         "id": "2026-11-16-music-happy-ravesgiving-sativanotsex-337b18",
         "eid": "happy-ravesgiving-sativa-1c96",
         "track": "music",
-        "category": "",
+        "category": "Nightclub",
         "name": "Happy Ravesgiving: Sativanotsex, Ultraviolet, Alleyeowl, Zerowishes, Blanketjunkee",
         "day": "Fri",
         "date": "2026-11-20",
         "time": "10pm",
         "start": "22:00",
-        "end": null,
+        "end": "03:00",
         "area": "San Francisco",
         "venue": "3rd & Army",
         "address": "",
-        "why": "",
-        "summary": "",
+        "why": "To catch a five‑act electronic/dance bill in one night.",
+        "summary": "An event titled \"Happy Ravesgiving\" on 2026-11-20 in San Francisco, featuring Sativanotsex, Ultraviolet, Alleyeowl, Zerowishes, and Blanketjunkee.",
         "promoter": "",
         "price": "free w/ food/toy donation / $5",
-        "tags": [],
+        "tags": [
+          "dj",
+          "electronic",
+          "dance"
+        ],
         "sources": [
           {
             "url": "https://19hz.info/eventlisting_BayArea.php",
@@ -3628,7 +3652,7 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
