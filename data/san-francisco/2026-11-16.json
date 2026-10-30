@@ -6750,20 +6750,25 @@
         "eid": "lindy-in-the-park-swing-c0e9",
         "track": "music",
         "category": "",
-        "name": "“Lindy in the Park” Swing Dance Party (Golden Gate Park)",
+        "name": "\"Lindy in the Park\" Swing Dance Party (Golden Gate Park)",
         "day": "Sun",
         "date": "2026-11-22",
         "time": "11:00AM",
         "start": "11:00",
-        "end": null,
-        "area": "",
+        "end": "14:00",
+        "area": "SF",
         "venue": "JFK Drive Lindy Hop Spot",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "JFK Dr. & Music Concourse Dr, San Francisco, CA",
+        "why": "Dance Lindy-hop and vintage swing in a park setting with other social dancers.",
+        "summary": "An outdoor swing dance gathering at Golden Gate Park (JFK Dr. & Music Concourse Dr.) on November 22, 2026.",
         "promoter": "",
         "price": "FREE*",
-        "tags": [],
+        "tags": [
+          "lindy",
+          "swing",
+          "dance",
+          "outdoor"
+        ],
         "sources": [
           "https://sf.funcheap.com/lindy-in-the-park-swing-dance-party-golden-gate-park-280/"
         ],
@@ -6775,36 +6780,42 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/san-francisco/2026-11-16/lindy-in-the-park-swing-c0e9.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
         "id": "2026-11-16-music-lindy-in-the-park-49fc41",
         "eid": "lindy-in-the-park-a296",
         "track": "music",
-        "category": "",
+        "category": "Festival",
         "name": "Lindy in the Park",
         "day": "Sun",
         "date": "2026-11-22",
-        "time": "",
-        "start": null,
-        "end": null,
+        "time": "11am–2pm",
+        "start": "11:00",
+        "end": "14:00",
         "area": "San Francisco",
         "venue": "Golden Gate Park",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "JFK Dr. & Music Concourse Dr, San Francisco, CA",
+        "why": "To join outdoor swing dancing and social dance practice in a scenic park setting.",
+        "summary": "Free daytime Lindy Hop social in Golden Gate Park’s Music Concourse on Nov 22, 2026, 11am–2pm.",
         "promoter": "",
-        "price": "",
-        "tags": [],
+        "price": "Free",
+        "tags": [
+          "swing",
+          "dance",
+          "free",
+          "outdoor"
+        ],
         "sources": [
           {
             "url": "https://sf.funcheap.com",
             "hidden": true
-          }
+          },
+          "https://sf.funcheap.com/lindy-in-the-park-swing-dance-party-golden-gate-park-280/"
         ],
         "tickets": [],
         "maps": {
@@ -6814,10 +6825,10 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/san-francisco/2026-11-16/lindy-in-the-park-a296.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
@@ -6831,14 +6842,21 @@
         "time": "8:00PM",
         "start": "20:00",
         "end": null,
-        "area": "San Francisco",
+        "area": "Lower Haight",
         "venue": "The Independent",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "628 Divisadero Street, San Francisco, CA 94117",
+        "why": "A relaxed Sunday-night live show in one of San Francisco's best mid-size rooms.",
+        "summary": "Mark William Lewis plays a Sunday-night show at The Independent, the 500-cap Divisadero room known for its sightlines and sound. Doors for an 8 PM start.",
         "promoter": "",
         "price": "",
-        "tags": [],
+        "tags": [
+          "event",
+          "sf",
+          "indoor",
+          "live-music",
+          "concert",
+          "sunday"
+        ],
         "sources": [
           {
             "url": "https://dothebay.com/events",
@@ -6846,7 +6864,9 @@
           },
           "https://dothebay.com/events/2026/11/22/mark-william-lewis-tickets"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://www.ticketweb.com/event/mark-william-lewis-the-independent-tickets/14271174"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=The%20Independent%2C%20San%20Francisco",
           "apple": "https://maps.apple.com/?q=The%20Independent%2C%20San%20Francisco"
@@ -6854,36 +6874,40 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/san-francisco/2026-11-16/mark-william-lewis-0209.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
         "id": "2026-11-16-music-punksgiving-c49b7c",
         "eid": "punksgiving-2ec4",
         "track": "music",
-        "category": "",
+        "category": "Concert",
         "name": "Punksgiving",
         "day": "Sun",
         "date": "2026-11-22",
-        "time": "",
-        "start": null,
+        "time": "7pm",
+        "start": "19:00",
         "end": null,
         "area": "San Francisco",
         "venue": "Kilowatt",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "1111 California St., San Francisco, CA 94108",
+        "why": "Free entry and an evening start make it an easy, low-cost night out.",
+        "summary": "Punksgiving takes place on 2026-11-22 at 7pm at 1111 California St., San Francisco; admission is free.",
         "promoter": "",
-        "price": "",
-        "tags": [],
+        "price": "Free",
+        "tags": [
+          "punk",
+          "free"
+        ],
         "sources": [
           {
             "url": "https://dothebay.com/events",
             "hidden": true
-          }
+          },
+          "https://dothebay.com/events/2026/11/22/punksgiving-janky-band-sparkle-plenty-and-plaq-tickets"
         ],
         "tickets": [],
         "maps": {
@@ -6893,10 +6917,10 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/san-francisco/2026-11-16/punksgiving-2ec4.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
@@ -7746,21 +7770,31 @@
         "id": "2026-11-16-sports-new-friends-20s-30s-niners-wat-66e9ca",
         "eid": "new-friends-20s-30s-nine-3fa2",
         "track": "sports",
-        "category": "",
+        "category": "Sports",
         "name": "New Friends 20s & 30s Niners WatchParty! @ Mad Dog in the Fog",
         "day": "Sun",
         "date": "2026-11-22",
         "time": "16:00",
-        "start": null,
-        "end": null,
-        "area": "San Francisco",
+        "start": "16:00",
+        "end": "18:00",
+        "area": "SF",
         "venue": "San Francisco San Francisco, CA, San Francisco San Francisco, CA",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "San Francisco San Francisco, CA, San Francisco, CA",
+        "why": "A easy way to meet at least 10 new people while watching the Niners with a lively crowd.",
+        "summary": "A Gist IRL meetup for 20s and 30s to watch the 49ers take on the Vikings at Mad Dog in the Fog, starting with quick 1-1 intros before kickoff.",
         "promoter": "",
         "price": "",
-        "tags": [],
+        "tags": [
+          "sports",
+          "bar",
+          "21+",
+          "social",
+          "49ers",
+          "watch party",
+          "meetup",
+          "sports bar",
+          "20s-30s"
+        ],
         "sources": [
           {
             "url": "https://www.meetup.com",
@@ -7776,10 +7810,10 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/san-francisco/2026-11-16/new-friends-20s-30s-nine-3fa2.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
