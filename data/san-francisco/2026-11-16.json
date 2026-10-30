@@ -5714,7 +5714,7 @@
         "id": "2026-11-16-music-poi-dog-pondering-42f0b9",
         "eid": "poi-dog-pondering-bb9d",
         "track": "music",
-        "category": "",
+        "category": "Concert",
         "name": "Poi Dog Pondering",
         "day": "Sat",
         "date": "2026-11-21",
@@ -5723,12 +5723,15 @@
         "end": null,
         "area": "San Francisco",
         "venue": "The Chapel",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "1111 California St., San Francisco, CA 94108",
+        "why": "Affordable tickets under $35 for an evening live show in central San Francisco.",
+        "summary": "Poi Dog Pondering plays at 1111 California St., San Francisco on 2026-11-21; tickets are $28–$33.",
         "promoter": "",
-        "price": "",
-        "tags": [],
+        "price": "$28–$33",
+        "tags": [
+          "live",
+          "ticketed"
+        ],
         "sources": [
           {
             "url": "https://dothebay.com/events",
@@ -5744,17 +5747,17 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/san-francisco/2026-11-16/poi-dog-pondering-bb9d.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
         "id": "2026-11-16-music-pretty-lights-4715ea",
         "eid": "pretty-lights-93c0",
         "track": "music",
-        "category": "",
+        "category": "Concert",
         "name": "Pretty Lights",
         "day": "Sat",
         "date": "2026-11-21",
@@ -5764,11 +5767,15 @@
         "area": "Oakland",
         "venue": "Fox Theater",
         "address": "1807 Telegraph Ave, Oakland, CA 94612",
-        "why": "",
-        "summary": "",
+        "why": "To catch a live electronic-music concert in the city.",
+        "summary": "Pretty Lights performs in San Francisco on November 21, 2026.",
         "promoter": "",
         "price": "$110+",
-        "tags": [],
+        "tags": [
+          "electronic",
+          "live",
+          "concert"
+        ],
         "sources": [
           {
             "url": "https://dothebay.com/events",
@@ -5791,14 +5798,14 @@
         "image": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/33088439/aa88b8b9-8fff-428a-98ff-1ef131edcdd8.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
         "id": "2026-11-16-music-pura-saturdays-8a12bd",
         "eid": "pura-saturdays-6f79",
         "track": "music",
-        "category": "",
+        "category": "Nightclub",
         "name": "PURA Saturdays",
         "day": "Sat",
         "date": "2026-11-21",
@@ -5807,12 +5814,17 @@
         "end": null,
         "area": "San Francisco",
         "venue": "1015 Folsom",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "1111 California St., San Francisco, CA 94108",
+        "why": "For a weekend night out in central San Francisco with ticketed entry.",
+        "summary": "PURA Saturdays is a ticketed Saturday night event on November 21, 2026 at 1111 California St., San Francisco. Tickets are priced $20–$35.",
         "promoter": "",
-        "price": "",
-        "tags": [],
+        "price": "$20–$35",
+        "tags": [
+          "nightclub",
+          "paid",
+          "weekend",
+          "downtown"
+        ],
         "sources": [
           {
             "url": "https://dothebay.com/events",
@@ -5828,10 +5840,10 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/san-francisco/2026-11-16/pura-saturdays-6f79.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
@@ -5847,12 +5859,15 @@
         "end": null,
         "area": "San Francisco",
         "venue": "The Independent",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "1111 California St., San Francisco, CA 94108",
+        "why": "For an evening event in central San Francisco.",
+        "summary": "Q Marsden is scheduled at 1111 California St in San Francisco on November 21, 2026.",
         "promoter": "",
         "price": "",
-        "tags": [],
+        "tags": [
+          "live",
+          "music"
+        ],
         "sources": [
           {
             "url": "https://dothebay.com/events",
@@ -5868,10 +5883,10 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/san-francisco/2026-11-16/q-marsden-4417.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
@@ -5923,16 +5938,19 @@
         "day": "Sat",
         "date": "2026-11-21",
         "time": "21:30",
-        "start": null,
-        "end": null,
+        "start": "21:30",
+        "end": "02:00",
         "area": "San Francisco",
         "venue": "Monarch",
         "address": "101 6th Street, San Francisco, CA 94103, United States",
-        "why": "",
-        "summary": "",
+        "why": "To discover the lineup and see who's playing.",
+        "summary": "An event titled Revolutions: Staxx of Wax is scheduled for 2026-11-21 in San Francisco; venue, time, and lineup details are not provided.",
         "promoter": "",
         "price": "free",
-        "tags": [],
+        "tags": [
+          "dj",
+          "vinyl"
+        ],
         "sources": [
           {
             "url": "https://ra.co/events/us/sanfrancisco",
@@ -5942,9 +5960,13 @@
           {
             "url": "https://19hz.info/eventlisting_BayArea.php",
             "hidden": true
-          }
+          },
+          "https://dothebay.com/events/2026/11/21/revolutions-staxx-of-wax-tickets"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://ra.co/events/us/sanfrancisco",
+          "https://ra.co/events/2566123"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=101%206th%20Street%2C%20San%20Francisco%2C%20CA%2094103%2C%20United%20States",
           "apple": "https://maps.apple.com/?q=101%206th%20Street%2C%20San%20Francisco%2C%20CA%2094103%2C%20United%20States"
@@ -5955,7 +5977,7 @@
         "image": "https://images.ra.co/4d7991f250ea7adf3c65732c7f073a668c57a3e3.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true,
         "lineup": [
           {
@@ -7391,21 +7413,26 @@
         "id": "2026-11-16-sports-san-francisco-s-49-hills-chall-0f329f",
         "eid": "san-francisco-s-49-hills-64be",
         "track": "sports",
-        "category": "",
-        "name": "San Francisco’s 49 Hills Challenge — Walk 2: Pacific Heights to the Richmond",
+        "category": "Sports",
+        "name": "San Francisco's 49 Hills Challenge — Walk 2: Pacific Heights to the Richmond",
         "day": "Sat",
         "date": "2026-11-21",
         "time": "12:00",
-        "start": null,
-        "end": null,
-        "area": "",
+        "start": "12:00",
+        "end": "17:00",
+        "area": "SF",
         "venue": "Lafayette Park, Gough and Sacramento",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "Gough and Sacramento, San Francisco, CA",
+        "why": "For a scenic, hilly outdoor walk through classic San Francisco neighborhoods.",
+        "summary": "A community walking event on 2026-11-21 that routes from Pacific Heights to the Richmond, meeting at Gough and Sacramento in San Francisco.",
         "promoter": "",
         "price": "",
-        "tags": [],
+        "tags": [
+          "outdoor",
+          "walking",
+          "community",
+          "fitness"
+        ],
         "sources": [
           "https://www.meetup.com/san-francisco-urban-explorers/events/317148549/"
         ],
@@ -7417,10 +7444,10 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/san-francisco/2026-11-16/san-francisco-s-49-hills-64be.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
