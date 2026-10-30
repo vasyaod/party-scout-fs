@@ -3321,16 +3321,19 @@
         "day": "Sat",
         "date": "2026-11-21",
         "time": "22:00-02:00",
-        "start": null,
-        "end": null,
+        "start": "22:00",
+        "end": "02:00",
         "area": "Los Angeles",
         "venue": "TBA",
         "address": "",
-        "why": "",
-        "summary": "",
+        "why": "To attend the rescheduled date once new details are announced.",
+        "summary": "An event titled HYPER-MUSE scheduled for 2026-11-21 has been postponed. No venue, time, or lineup details are provided.",
         "promoter": "",
         "price": "free w/rsvp",
-        "tags": [],
+        "tags": [
+          "postponed",
+          "tba"
+        ],
         "sources": [
           {
             "url": "https://ra.co/events/2420095",
@@ -3345,7 +3348,10 @@
             "hidden": true
           }
         ],
-        "tickets": [],
+        "tickets": [
+          "https://ra.co/events/2420095",
+          "https://ra.co/events/us/losangeles"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Los%20Angeles",
           "apple": "https://maps.apple.com/?q=Los%20Angeles"
@@ -3353,31 +3359,36 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "https://api.party-scout.app/img/los-angeles/2026-11-16/hyper-muse-d032.jpg",
-        "image_generated": true,
+        "image": "https://api.party-scout.app/img/los-angeles/2026-11-16/hyper-muse-postponed-febd.jpg",
+        "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
         "id": "2026-11-16-music-lights-down-low-x-warp-mode-fe-abe331",
         "eid": "lights-down-low-x-warp-m-2784",
         "track": "music",
-        "category": "",
+        "category": "Nightclub",
         "name": "Lights Down Low x WARP MODE feat. Baauer + umru",
         "day": "Sat",
         "date": "2026-11-21",
         "time": "23:00-05:00",
-        "start": null,
-        "end": null,
+        "start": "23:00",
+        "end": "05:00",
         "area": "Los Angeles",
         "venue": "TBA - Downtown Los Angeles",
         "address": "",
-        "why": "",
-        "summary": "",
+        "why": "For fans of high-energy electronic and trap-influenced DJ sets.",
+        "summary": "A nightclub event on 2026-11-21 billed as Lights Down Low x WARP MODE that features Baauer and umru.",
         "promoter": "",
         "price": "20-40",
-        "tags": [],
+        "tags": [
+          "electronic",
+          "dj",
+          "dance",
+          "trap"
+        ],
         "sources": [
           {
             "url": "https://ra.co/events/us/losangeles",
@@ -3388,7 +3399,10 @@
             "hidden": true
           }
         ],
-        "tickets": [],
+        "tickets": [
+          "https://ra.co/events/us/losangeles",
+          "https://ra.co/events/2539243"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Los%20Angeles",
           "apple": "https://maps.apple.com/?q=Los%20Angeles"
@@ -3396,31 +3410,34 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/los-angeles/2026-11-16/lights-down-low-x-warp-m-2784.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
         "id": "2026-11-16-music-midnight-lovers-with-cinthie-a-f277b2",
         "eid": "midnight-lovers-with-cin-09fa",
         "track": "music",
-        "category": "",
+        "category": "Nightclub",
         "name": "Midnight Lovers with Cinthie (All Night Long)",
         "day": "Sat",
         "date": "2026-11-21",
         "time": "23:59-05:00",
-        "start": null,
-        "end": null,
+        "start": "23:59",
+        "end": "05:00",
         "area": "Los Angeles",
         "venue": "TBA - Downtown Los Angeles",
         "address": "",
-        "why": "",
-        "summary": "",
+        "why": "For an extended late-night DJ set and dancing.",
+        "summary": "An all-night DJ set by Cinthie on November 21, 2026.",
         "promoter": "",
         "price": "$25-40",
-        "tags": [],
+        "tags": [
+          "dj",
+          "all-night"
+        ],
         "sources": [
           {
             "url": "https://ra.co/events/us/losangeles",
@@ -3431,7 +3448,10 @@
             "hidden": true
           }
         ],
-        "tickets": [],
+        "tickets": [
+          "https://ra.co/events/us/losangeles",
+          "https://ra.co/events/2467713"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Los%20Angeles",
           "apple": "https://maps.apple.com/?q=Los%20Angeles"
@@ -3439,10 +3459,10 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/los-angeles/2026-11-16/midnight-lovers-with-cin-09fa.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
@@ -3454,20 +3474,25 @@
         "day": "Sat",
         "date": "2026-11-21",
         "time": "23:00-05:00",
-        "start": null,
-        "end": null,
-        "area": "",
+        "start": "23:00",
+        "end": "05:00",
+        "area": "Los Angeles",
         "venue": "TBA",
         "address": "",
-        "why": "",
-        "summary": "",
+        "why": "To see the yet-to-be-announced lineup.",
+        "summary": "An event presented by MILLK in Los Angeles on 2026-11-21; lineup is TBA.",
         "promoter": "",
         "price": "",
-        "tags": [],
+        "tags": [
+          "tba",
+          "nightlife"
+        ],
         "sources": [
           "https://ra.co/events/2570154"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://ra.co/events/2570154"
+        ],
         "maps": {},
         "coords": null,
         "coords_precise": false,
@@ -3475,7 +3500,7 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {

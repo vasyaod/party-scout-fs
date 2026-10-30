@@ -2264,21 +2264,29 @@
         "id": "2026-11-16-music-the-mountain-goats-night-four-f71f8b",
         "eid": "the-mountain-goats-night-c744",
         "track": "music",
-        "category": "",
+        "category": "Indie rock",
         "name": "The Mountain Goats: Night Four",
         "day": "Thu",
         "date": "2026-11-19",
         "time": "8:00PM",
         "start": "20:00",
         "end": null,
-        "area": "San Francisco",
+        "area": "SF",
         "venue": "The Fillmore",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "1111 California St., San Francisco, CA 94108",
+        "why": "A rare chance to catch a multi-night Mountain Goats stand in one of SF's best rooms, with a set built around long-form songs.",
+        "summary": "The Mountain Goats play night four of their Fillmore run, billed as \"Six Long Songs\", with John Darnielle's literate, narrative songwriting.",
         "promoter": "",
         "price": "",
-        "tags": [],
+        "tags": [
+          "indie",
+          "folk",
+          "live",
+          "concert",
+          "folk-rock",
+          "live-band",
+          "residency"
+        ],
         "sources": [
           {
             "url": "https://dothebay.com/events",
@@ -2294,10 +2302,10 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/san-francisco/2026-11-16/the-mountain-goats-night-c744.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
@@ -2658,29 +2666,38 @@
         "id": "2026-11-16-music-throttle-dj-stingray-873df3",
         "eid": "throttle-dj-stingray-7526",
         "track": "music",
-        "category": "",
+        "category": "Nightclub",
         "name": "THROTTLE: DJ Stingray",
         "day": "Thu",
         "date": "2026-11-19",
         "time": "21:00",
-        "start": null,
-        "end": null,
+        "start": "21:00",
+        "end": "02:00",
         "area": "San Francisco",
         "venue": "1015 Folsom",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "1015 Folsom Street; San Francisco, CA 94103; United States",
+        "why": "For a focused late‑night DJ set and dancing.",
+        "summary": "THROTTLE: DJ Stingray is a DJ night on November 19, 2026 at 1015 Folsom Street in San Francisco.",
         "promoter": "",
         "price": "15-25",
-        "tags": [],
+        "tags": [
+          "dj",
+          "electronic",
+          "nightlife",
+          "dance"
+        ],
         "sources": [
           {
             "url": "https://ra.co/events/us/sanfrancisco",
             "hidden": true
           },
+          "https://ra.co/events/2533575",
+          "https://dothebay.com/events/2026/11/19/throttle-techno-dj-stingray-tickets"
+        ],
+        "tickets": [
+          "https://ra.co/events/us/sanfrancisco",
           "https://ra.co/events/2533575"
         ],
-        "tickets": [],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=1015%20Folsom%2C%20San%20Francisco",
           "apple": "https://maps.apple.com/?q=1015%20Folsom%2C%20San%20Francisco"
@@ -2688,31 +2705,37 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/san-francisco/2026-11-16/throttle-dj-stingray-7526.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
         "id": "2026-11-16-music-throttle-techno-dj-stingray-8cece7",
         "eid": "throttle-techno-dj-sting-8353",
         "track": "music",
-        "category": "",
+        "category": "Nightclub",
         "name": "THROTTLE TECHNO: DJ Stingray",
         "day": "Thu",
         "date": "2026-11-19",
         "time": "9:00PM",
         "start": "21:00",
-        "end": null,
+        "end": "02:00",
         "area": "San Francisco",
         "venue": "1015 Folsom",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "1015 Folsom Street; San Francisco, CA 94103; United States",
+        "why": "To catch a headline techno DJ in a dedicated club setting.",
+        "summary": "A techno night featuring DJ Stingray at 1015 Folsom Street in SoMa, San Francisco on November 19, 2026.",
         "promoter": "",
         "price": "$19.97-23.62",
-        "tags": [],
+        "tags": [
+          "techno",
+          "dj",
+          "electronic",
+          "21+",
+          "club"
+        ],
         "sources": [
           {
             "url": "https://1015.com/",
@@ -2730,9 +2753,12 @@
             "url": "https://1015.com/calendar",
             "hidden": true
           },
-          "https://dothebay.com/events/2026/11/19/throttle-techno-dj-stingray-tickets"
+          "https://dothebay.com/events/2026/11/19/throttle-techno-dj-stingray-tickets",
+          "https://ra.co/events/2533575"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://ra.co/events/2533575"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=1015%20Folsom%2C%20San%20Francisco",
           "apple": "https://maps.apple.com/?q=1015%20Folsom%2C%20San%20Francisco"
@@ -2741,9 +2767,9 @@
         "coords_precise": false,
         "ra": {},
         "image": "https://api.party-scout.app/img/san-francisco/2026-11-16/throttle-techno-dj-sting-8353.jpg",
-        "image_generated": true,
+        "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
