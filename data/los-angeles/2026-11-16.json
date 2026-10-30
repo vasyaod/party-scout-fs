@@ -1851,21 +1851,25 @@
         "id": "2026-11-16-music-jonas-brothers-all-time-low-ma-190eaa",
         "eid": "jonas-brothers-all-time-137e",
         "track": "music",
-        "category": "",
+        "category": "Concert",
         "name": "Jonas Brothers, All Time Low, Magnus Ferrell",
         "day": "Wed",
         "date": "2026-11-18",
         "time": "7:30pm",
         "start": "19:30",
         "end": null,
-        "area": "Los Angeles",
+        "area": "Hollywood",
         "venue": "Hollywood Bowl",
         "address": "",
-        "why": "",
-        "summary": "",
+        "why": "For high-energy pop and pop-punk singalongs and crowd-pleasing hits.",
+        "summary": "A concert in Los Angeles on 2026-11-18 featuring Jonas Brothers, All Time Low, and Magnus Ferrell.",
         "promoter": "",
         "price": "",
-        "tags": [],
+        "tags": [
+          "pop",
+          "pop-punk",
+          "live"
+        ],
         "sources": [
           {
             "url": "https://www.hollywoodbowl.com/events/performances",
@@ -1873,7 +1877,9 @@
           },
           "https://www.hollywoodbowl.com/events/performances/4902/2026-11-18/jonas-brothers"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://www.hollywoodbowl.com/events/performances/4902/2026-11-18/jonas-brothers"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Hollywood%20Bowl%2C%20Los%20Angeles",
           "apple": "https://maps.apple.com/?q=Hollywood%20Bowl%2C%20Los%20Angeles"
@@ -1881,10 +1887,10 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/los-angeles/2026-11-16/jonas-brothers-all-time-137e.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
@@ -1901,15 +1907,23 @@
         "area": "Santa Ana",
         "venue": "Yost Theater",
         "address": "",
-        "why": "",
-        "summary": "",
+        "why": "A midweek heavy-bass night in a historic Orange County theater, with tickets from about $38.",
+        "summary": "Omnom plays the Yost Theater in Santa Ana as part of the Monster Energy Up & Up Festival series, a Wednesday-night bass music show.",
         "promoter": "",
         "price": "$38-47",
-        "tags": [],
+        "tags": [
+          "nightlife",
+          "event",
+          "bass",
+          "dubstep",
+          "electronic"
+        ],
         "sources": [
           "https://www.tixr.com/groups/upandupfestival/events/monster-energy-up-up-festival-presents-omnom-209500"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://www.tixr.com/groups/upandupfestival/events/monster-energy-up-up-festival-presents-omnom-209500"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Yost%20Theater%2C%20Santa%20Ana",
           "apple": "https://maps.apple.com/?q=Yost%20Theater%2C%20Santa%20Ana"
@@ -1920,7 +1934,7 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {

@@ -6469,14 +6469,19 @@
         "time": "17:00",
         "start": null,
         "end": null,
-        "area": "San Francisco",
+        "area": "SF",
         "venue": "CANOPY Jackson Square, 595 Pacific Ave 4th floor, San Francisco, CA 94133, USA",
         "address": "",
-        "why": "",
-        "summary": "",
+        "why": "To learn about columnar databases and network with fellow data engineers.",
+        "summary": "A data engineering meetup in San Francisco featuring ClickHouse on November 17, 2026.",
         "promoter": "",
         "price": "",
-        "tags": [],
+        "tags": [
+          "tech",
+          "meetup",
+          "data-engineering",
+          "networking"
+        ],
         "sources": [
           {
             "url": "https://www.meetup.com",
@@ -6494,33 +6499,38 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
         "id": "2026-11-16-sports-san-jose-sharks-game-244dae",
         "eid": "san-jose-sharks-game-4077",
         "track": "sports",
-        "category": "",
+        "category": "Sports",
         "name": "San Jose Sharks game",
         "day": "Tue",
         "date": "2026-11-17",
-        "time": "",
-        "start": null,
+        "time": "7pm",
+        "start": "19:00",
         "end": null,
-        "area": "San Francisco",
+        "area": "SF",
         "venue": "SAP Center",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "1111 California St., San Francisco, CA 94108",
+        "why": "For live NHL action and the arena atmosphere.",
+        "summary": "San Jose Sharks game at 7pm on 2026-11-17 at 1111 California St., San Francisco.",
         "promoter": "",
         "price": "",
-        "tags": [],
+        "tags": [
+          "sports",
+          "live",
+          "indoor"
+        ],
         "sources": [
           {
             "url": "https://dothebay.com/events",
             "hidden": true
-          }
+          },
+          "https://dothebay.com/events/2026/11/17/san-jose-sharks-vs-calgary-flames-tickets"
         ],
         "tickets": [],
         "maps": {
@@ -6530,10 +6540,10 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/san-francisco/2026-11-16/san-jose-sharks-game-4077.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
