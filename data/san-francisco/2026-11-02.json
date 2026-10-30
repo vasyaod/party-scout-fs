@@ -418,7 +418,7 @@
         "start": "20:00",
         "end": null,
         "area": "San Francisco",
-        "venue": "Guild Theatre",
+        "venue": "The Guild Theatre",
         "address": "949 El Camino Real, Menlo Park, CA 94025",
         "why": "Catch the 'Pretty in Pink' and 'Love My Way' band live in an intimate Peninsula room on a Monday night.",
         "summary": "British post-punk icons The Psychedelic Furs play The Guild Theatre in Menlo Park, with We Are Scientists supporting. Doors 7pm, show 8pm.",
@@ -820,7 +820,7 @@
         "start": "19:30",
         "end": null,
         "area": "San Francisco",
-        "venue": "Bottom of the Hill",
+        "venue": "Bottom Of The Hill",
         "address": "1233 17th Street, San Francisco, CA 94107",
         "why": "For a lively evening out in SoMa near downtown.",
         "summary": "Sex Mex is scheduled for November 3, 2026 at 7:30pm at 1233 17th Street in San Francisco.",
@@ -1265,7 +1265,7 @@
         "start": "21:00",
         "end": "02:00",
         "area": "San Francisco",
-        "venue": "F8 1192 Folsom",
+        "venue": "F8 1192 Folsom (San Francisco)",
         "address": "1192 Folsom St, San Francisco, CA 94103",
         "why": "Easy $10 cover for a late-night SoMa show.",
         "summary": "Lee Reynolds is scheduled at 1192 Folsom St in SoMa on November 4, 2026, 9pm–2am. There is a $10 cover.",
@@ -1277,7 +1277,10 @@
           "late-night"
         ],
         "sources": [
-          "https://ra.co/events/2559586",
+          {
+            "url": "https://ra.co/events/2559586",
+            "hidden": true
+          },
           {
             "url": "https://19hz.info/eventlisting_BayArea.php",
             "hidden": true
@@ -1738,7 +1741,7 @@
         "start": "20:00",
         "end": "23:00",
         "area": "San Francisco",
-        "venue": "Regency Ballroom",
+        "venue": "The Regency Ballroom",
         "address": "1300 Van Ness Avenue, San Francisco, CA",
         "why": "To catch a full ticketed live concert in downtown San Francisco.",
         "summary": "The Black Angels play at 1300 Van Ness Avenue in San Francisco on November 5, 2026, from 8–11pm; tickets are $49.",
@@ -1839,7 +1842,7 @@
         "name": "Crazy Karaoke: SF's Wild New Thursday Night Party + $3 Shots (SF)",
         "day": "Thu",
         "date": "2026-11-05",
-        "time": "9pm–2am",
+        "time": "21:00",
         "start": "21:00",
         "end": "02:00",
         "area": "SF",
@@ -1880,11 +1883,11 @@
         "name": "Danny L Harle",
         "day": "Thu",
         "date": "2026-11-05",
-        "time": "20:00",
+        "time": "8pm",
         "start": "20:00",
         "end": "23:45",
         "area": "San Francisco",
-        "venue": "Great American Music Hall",
+        "venue": "Great American Music Hall (San Francisco)",
         "address": "859 O&#x27;farrell Street, San Francisco, CA 94109",
         "why": "For high-energy, dance-friendly electronic pop and club-ready production.",
         "summary": "Danny L Harle performs in San Francisco on 2026-11-05 at 8pm; tickets are listed at $30–$35.",
@@ -1912,7 +1915,8 @@
           {
             "url": "https://dothebay.com/events",
             "hidden": true
-          }
+          },
+          "https://wl.eventim.us/event/danny-l-harle/703827?afflky=GreatAmericanMusicHall"
         ],
         "tickets": [],
         "maps": {
@@ -2247,11 +2251,11 @@
         "name": "Moby",
         "day": "Thu",
         "date": "2026-11-05",
-        "time": "19:00",
+        "time": "7pm",
         "start": "19:00",
         "end": null,
         "area": "San Francisco",
-        "venue": "Bill Graham Civic Auditorium",
+        "venue": "Bill Graham Civic Auditorium (San Francisco)",
         "address": "99 Grove Street, San Francisco, CA 94102",
         "why": "See a major touring solo artist live in the city.",
         "summary": "Moby performs at 99 Grove Street in San Francisco on 2026-11-05 at 7pm.",
@@ -2275,7 +2279,8 @@
           {
             "url": "https://dothebay.com/events",
             "hidden": true
-          }
+          },
+          "https://www.ticketmaster.com/event/1C006515F9551DE3"
         ],
         "tickets": [],
         "maps": {
@@ -2299,11 +2304,11 @@
         "name": "Mystery Skulls & Fox Stevenson",
         "day": "Thu",
         "date": "2026-11-05",
-        "time": "19:00",
+        "time": "8pm",
         "start": "19:00",
         "end": null,
         "area": "San Francisco",
-        "venue": "Bimbo's 365 Club",
+        "venue": "Bimbo's 365 Club (San Francisco)",
         "address": "1025 Columbus Ave, San Francisco, CA 94133",
         "why": "For a high-energy electronic and dance-oriented live show.",
         "summary": "A concert on November 5, 2026 at 7pm in San Francisco featuring Mystery Skulls and Fox Stevenson; tickets are $46.",
@@ -2331,7 +2336,8 @@
           {
             "url": "https://dothebay.com/events",
             "hidden": true
-          }
+          },
+          "https://www.ticketweb.com/event/id/14287464"
         ],
         "tickets": [],
         "maps": {
@@ -2355,10 +2361,10 @@
         "name": "Oksional: Tyler Ross, Sher1E",
         "day": "Thu",
         "date": "2026-11-05",
-        "time": "20:00",
+        "time": "8pm",
         "start": "20:00",
         "end": "00:00",
-        "area": "Mission",
+        "area": "San Francisco",
         "venue": "Mothership Bar (San Francisco)",
         "address": "3152 Mission Street San Francisco, CA 94110",
         "why": "Free entry and an evening set make it an easy drop-in.",
@@ -2371,13 +2377,20 @@
           "night"
         ],
         "sources": [
-          "https://ra.co/events/2543686",
+          {
+            "url": "https://ra.co/events/2543686",
+            "hidden": true
+          },
           {
             "url": "https://19hz.info/eventlisting_BayArea.php",
             "hidden": true
           },
           {
             "url": "https://edmtrain.com/san-francisco-ca",
+            "hidden": true
+          },
+          {
+            "url": "https://ra.co/events/us/sanfrancisco",
             "hidden": true
           }
         ],
@@ -2497,7 +2510,7 @@
         "name": "SF's Free DFT Monthly Block Party: \"Downtown First Thursdays\" (2026)",
         "day": "Thu",
         "date": "2026-11-05",
-        "time": "5–10pm",
+        "time": "17:00",
         "start": "17:00",
         "end": "22:00",
         "area": "SF",
@@ -2670,7 +2683,7 @@
         "name": "$1 Drink Fridays: \"Battle of the Decades\" DJ Party (North Beach)",
         "day": "Fri",
         "date": "2026-11-06",
-        "time": "5–11pm",
+        "time": "17:00",
         "start": "17:00",
         "end": "23:00",
         "area": "SF",
@@ -2697,7 +2710,7 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "https://party-scout.app/img/gen/1-drink-fridays-battle-o-8888.jpg",
+        "image": "https://cdn.funcheap.com/wp-content/uploads/2013/01/battle-e1633451739789.jpg",
         "image_generated": false,
         "popularity": 0,
         "enriched": 1,
@@ -2751,10 +2764,10 @@
         "name": "Ar/Co, Gru.Di",
         "day": "Fri",
         "date": "2026-11-06",
-        "time": "21:30",
+        "time": "9:30pm",
         "start": "21:30",
         "end": "02:00",
-        "area": "SoMa",
+        "area": "San Francisco",
         "venue": "Audio (San Francisco)",
         "address": "316 11th St; San Francisco CA 94103; United States",
         "why": "A Friday at Audio, one of SF's best sound systems, with two names from the underground dance scene.",
@@ -2771,7 +2784,10 @@
           "friday"
         ],
         "sources": [
-          "https://ra.co/events/2516212",
+          {
+            "url": "https://ra.co/events/2516212",
+            "hidden": true
+          },
           "https://www.audiosf.com/event/arco-11-06/",
           {
             "url": "https://19hz.info/eventlisting_BayArea.php",
@@ -2780,7 +2796,12 @@
           {
             "url": "https://edmtrain.com/san-francisco-ca",
             "hidden": true
-          }
+          },
+          {
+            "url": "https://ra.co/events/us/sanfrancisco",
+            "hidden": true
+          },
+          "https://wl.eventim.us/event/arco/702867?afflky=AudioSF"
         ],
         "tickets": [
           "https://ra.co/events/2516212"
@@ -2792,7 +2813,7 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "https://api.party-scout.app/img/2026-11-02/ar-co-gru-di-a3e0.jpg",
+        "image": "https://api.party-scout.app/img/san-francisco/2026-11-02/ar-co-gru-di-b19c.jpg",
         "image_generated": true,
         "popularity": 0,
         "enriched": 1,
@@ -2993,12 +3014,12 @@
         "name": "Cyberworld: Free Your Mind",
         "day": "Fri",
         "date": "2026-11-06",
-        "time": "20:00",
+        "time": "8pm",
         "start": "20:00",
         "end": "02:00",
         "area": "Berkeley",
         "venue": "2367 Telegraph Ave (Berkeley)",
-        "address": "",
+        "address": "2367 Telegraph Ave, Berkeley, CA 94704",
         "why": "A cyber-themed Friday on Telegraph Ave that mixes latin EDM with house and techno — a rare Berkeley dance night for a Bay-wide crowd.",
         "summary": "Rager Magazine's Cyberworld night in Berkeley: latin EDM, house, techno and hip-hop from 8pm to 2am. 21+, tickets via Partiful.",
         "promoter": "Rager Magazine",
@@ -3019,7 +3040,8 @@
           {
             "url": "https://19hz.info/eventlisting_BayArea.php",
             "hidden": true
-          }
+          },
+          "https://partiful.com/e/JWElAm4B9jhM4aJfsHRZ?c=fRS8q2wI"
         ],
         "tickets": [
           "https://partiful.com/e/JWElAm4B9jhM4aJfsHRZ"
@@ -3031,7 +3053,7 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "https://party-scout.app/img/gen/cyberworld-free-your-min-76bc.jpg",
+        "image": "https://partiful.imgix.net/external/user/0dL7ZY4JlTQtR7KNFSKCWAUbVv82/BB1-g-7reFwxqTC06tiV1?w=1000&h=1250&fit=clip",
         "image_generated": false,
         "popularity": 0,
         "enriched": 1,
@@ -3181,10 +3203,10 @@
         "name": "Fieldtest: DJ Koolt, Naone, Milli Meng",
         "day": "Fri",
         "date": "2026-11-06",
-        "time": "21:00",
+        "time": "9pm",
         "start": "21:00",
         "end": "03:00",
-        "area": "SoMa",
+        "area": "San Francisco",
         "venue": "Public Works (San Francisco)",
         "address": "161 Erie Street, San Francisco, CA 94103, United States",
         "why": "For a long late-night dance floor with multiple DJ sets.",
@@ -3197,11 +3219,19 @@
           "paid"
         ],
         "sources": [
-          "https://ra.co/events/2544477",
+          {
+            "url": "https://ra.co/events/2544477",
+            "hidden": true
+          },
           {
             "url": "https://19hz.info/eventlisting_BayArea.php",
             "hidden": true
-          }
+          },
+          {
+            "url": "https://ra.co/events/us/sanfrancisco",
+            "hidden": true
+          },
+          "https://www.tixr.com/groups/publicsf/events/fieldtest-dj-koolt-naone-208426"
         ],
         "tickets": [
           "https://ra.co/events/2544477"
@@ -3213,8 +3243,8 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "https://images.ra.co/11f51891e81a7b8e5d2f5b10dcba2603d4bafcdc.png",
-        "image_generated": false,
+        "image": "https://api.party-scout.app/img/san-francisco/2026-11-02/fieldtest-dj-koolt-naone-2634.jpg",
+        "image_generated": true,
         "popularity": 0,
         "enriched": 1,
         "active": true,
@@ -3639,16 +3669,16 @@
         "name": "Party For No Reason: InHeat, DOPAMINO, Pak2Pak, Mawk, Sandtraps, Unico",
         "day": "Fri",
         "date": "2026-11-06",
-        "time": "21:00",
+        "time": "9pm",
         "start": "21:00",
         "end": "02:00",
-        "area": "SF",
+        "area": "San Francisco",
         "venue": "Underground (San Francisco)",
         "address": "424 Haight St, San Francisco, CA 94117, United States",
         "why": "Low cover and a multi-artist DJ lineup for a late-night dance session.",
         "summary": "A $5 party on 2026-11-06 at 424 Haight St in San Francisco running 9pm–2am and featuring InHeat, DOPAMINO, Pak2Pak, Mawk, Sandtraps, and Unico.",
         "promoter": "",
-        "price": "$5",
+        "price": "5",
         "tags": [
           "dj",
           "dance",
@@ -3656,9 +3686,16 @@
           "cheap"
         ],
         "sources": [
-          "https://ra.co/events/2546587",
+          {
+            "url": "https://ra.co/events/2546587",
+            "hidden": true
+          },
           {
             "url": "https://19hz.info/eventlisting_BayArea.php",
+            "hidden": true
+          },
+          {
+            "url": "https://ra.co/events/us/sanfrancisco",
             "hidden": true
           }
         ],
@@ -3690,7 +3727,7 @@
         "start": "18:00",
         "end": null,
         "area": "San Francisco",
-        "venue": "UC Theatre",
+        "venue": "The UC Theatre",
         "address": "2036 University Ave, Berkeley,  Berkeley, CA 94704",
         "why": "Technical, melodic instrumental prog-metal from one of the genre's most admired guitarists, in a classic Berkeley theatre.",
         "summary": "Australian instrumental prog guitarist Plini brings his An Unnameable Desire North American tour to The UC Theatre in Berkeley. All ages.",
@@ -3834,16 +3871,16 @@
         "name": "Skyler Ultraviolet Tour w/Camillionaire, Burner.Bby, Devyn B2B Yanebun, Sardonix, Xilenyia, Amayita, DJ Cait, DJ Ell, Hoochi, Jae Coca, Snoflakez",
         "day": "Fri",
         "date": "2026-11-06",
-        "time": "21:00",
+        "time": "9pm",
         "start": "21:00",
         "end": "03:00",
-        "area": "SoMa",
+        "area": "San Francisco",
         "venue": "F8 1192 Folsom (San Francisco)",
         "address": "1192 Folsom St, San Francisco, CA 94103",
         "why": "For a long late-night run of varied DJs and hip-hop-influenced performances in an intimate club setting.",
         "summary": "Skyler Ultraviolet is touring with Camillionaire and a stacked lineup of performers and DJs including Burner.Bby, Devyn B2B Yanebun, Sardonix, Xilenyia, Amayita, DJ Cait, DJ Ell, Hoochi, Jae Coca, and Snoflakez. The show is at 1192 Folsom St in SoMa on Nov 6, 2026, 9pm–3am; $10 cover.",
         "promoter": "",
-        "price": "$10",
+        "price": "10",
         "tags": [
           "dj",
           "live",
@@ -3852,9 +3889,16 @@
           "late-night"
         ],
         "sources": [
-          "https://ra.co/events/2534916",
+          {
+            "url": "https://ra.co/events/2534916",
+            "hidden": true
+          },
           {
             "url": "https://19hz.info/eventlisting_BayArea.php",
+            "hidden": true
+          },
+          {
+            "url": "https://ra.co/events/us/sanfrancisco",
             "hidden": true
           }
         ],
@@ -4155,7 +4199,7 @@
         "name": "Baseck, Lil Kevo, Xanopticon, gl00m13, DJ No Frogs",
         "day": "Sat",
         "date": "2026-11-07",
-        "time": "22:00",
+        "time": "10pm",
         "start": "22:00",
         "end": "04:00",
         "area": "SF",
@@ -4175,6 +4219,10 @@
           "https://ra.co/events/2555254",
           {
             "url": "https://19hz.info/eventlisting_BayArea.php",
+            "hidden": true
+          },
+          {
+            "url": "https://nice-ones-x-na-sound-2026.secretparty.io/",
             "hidden": true
           }
         ],
@@ -4293,16 +4341,16 @@
         "name": "Chai Rave SF: Diwali On The Bay",
         "day": "Sat",
         "date": "2026-11-07",
-        "time": "14:00",
+        "time": "2pm",
         "start": "14:00",
         "end": "21:00",
-        "area": "Sausalito",
+        "area": "San Francisco",
         "venue": "Eria (Sausalito)",
         "address": "",
         "why": "A Bay-side Diwali day party from the Chai Rave SF crew, with a low $12 entry.",
         "summary": "Chai Rave SF's Diwali daytimer on the Sausalito waterfront, 2–9pm, with desi dance music.",
         "promoter": "",
-        "price": "$12.24",
+        "price": "From $12.24",
         "tags": [
           "diwali",
           "daytime",
@@ -4315,7 +4363,12 @@
           {
             "url": "https://19hz.info/eventlisting_BayArea.php",
             "hidden": true
-          }
+          },
+          {
+            "url": "https://www.eventbrite.com/d/ca--san-francisco/",
+            "hidden": true
+          },
+          "https://www.eventbrite.com/e/chai-rave-sf-diwali-on-the-bay-eria-on-nov-7th-waterfront-experience-tickets-2001611643307"
         ],
         "tickets": [],
         "maps": {
@@ -4382,10 +4435,10 @@
         "name": "Derrick Carter, Jimmy B, Dilation",
         "day": "Sat",
         "date": "2026-11-07",
-        "time": "21:30",
+        "time": "9:30pm",
         "start": "21:30",
         "end": "02:00",
-        "area": "SoMa",
+        "area": "San Francisco",
         "venue": "Audio (San Francisco)",
         "address": "316 11th St; San Francisco CA 94103; United States",
         "why": "Rare chance to catch one of Chicago house's foundational DJs in an intimate SF club.",
@@ -4401,7 +4454,10 @@
           "21+"
         ],
         "sources": [
-          "https://ra.co/events/2532718",
+          {
+            "url": "https://ra.co/events/2532718",
+            "hidden": true
+          },
           "https://audiosf.com/event/derrick-carter-11-07/",
           {
             "url": "https://19hz.info/eventlisting_BayArea.php",
@@ -4409,6 +4465,10 @@
           },
           {
             "url": "https://edmtrain.com/san-francisco-ca",
+            "hidden": true
+          },
+          {
+            "url": "https://ra.co/events/us/sanfrancisco",
             "hidden": true
           }
         ],
@@ -4422,7 +4482,7 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "https://api.party-scout.app/img/2026-11-02/derrick-carter-jimmy-b-d-620d.jpg",
+        "image": "https://api.party-scout.app/img/san-francisco/2026-11-02/derrick-carter-jimmy-b-d-83f1.jpg",
         "image_generated": true,
         "popularity": 0,
         "enriched": 1,
@@ -4502,7 +4562,10 @@
           "electronic",
           "club",
           "late-night",
-          "paid"
+          "paid",
+          "live",
+          "ticketed",
+          "nightlife"
         ],
         "sources": [
           "https://ra.co/events/2534561",
@@ -4522,14 +4585,18 @@
           {
             "url": "https://dothebay.com/events",
             "hidden": true
+          },
+          {
+            "url": "https://dothebay.com/events/2026/11/7",
+            "hidden": true
           }
         ],
         "tickets": [
           "https://ra.co/events/2534561"
         ],
         "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=Public%20Works",
-          "apple": "https://maps.apple.com/?q=Public%20Works"
+          "google": "https://www.google.com/maps/search/?api=1&query=Public%20Works%2C%20San%20Francisco",
+          "apple": "https://maps.apple.com/?q=Public%20Works%2C%20San%20Francisco"
         },
         "coords": null,
         "coords_precise": false,
@@ -4602,16 +4669,16 @@
         "name": "Fovos, Derek Vo, HK",
         "day": "Sat",
         "date": "2026-11-07",
-        "time": "22:00",
+        "time": "10pm",
         "start": "22:00",
         "end": "04:00",
-        "area": "SoMa",
+        "area": "San Francisco",
         "venue": "Halcyon (San Francisco)",
         "address": "314 11th St, San Francisco, California, 94103",
         "why": "A rare Bay Area stop for a fast-rising techno duo in one of SF's best-sounding rooms.",
         "summary": "New Zealand duo FOVOS bring their North America tour to Halcyon, blending techno, hard techno and tech-house, with Derek Vo and HK on the bill.",
         "promoter": "",
-        "price": "$20",
+        "price": "20",
         "tags": [
           "dj",
           "21+",
@@ -4622,7 +4689,10 @@
           "tech house"
         ],
         "sources": [
-          "https://ra.co/events/2531110",
+          {
+            "url": "https://ra.co/events/2531110",
+            "hidden": true
+          },
           "https://dice.fm/event/6aac988d20b3f20001be8a55",
           {
             "url": "https://19hz.info/eventlisting_BayArea.php",
@@ -4639,6 +4709,14 @@
           {
             "url": "https://1015.com/",
             "hidden": true
+          },
+          {
+            "url": "https://halcyon-sf.com/main/tickets/",
+            "hidden": true
+          },
+          {
+            "url": "https://ra.co/events/us/sanfrancisco",
+            "hidden": true
           }
         ],
         "tickets": [
@@ -4652,7 +4730,7 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "https://api.party-scout.app/img/2026-11-02/fovos-derek-vo-hk-1d31.jpg",
+        "image": "https://api.party-scout.app/img/2026-11-02/fovos-fb06.jpg",
         "image_generated": true,
         "popularity": 0,
         "enriched": 1,
@@ -5352,7 +5430,7 @@
         "name": "SF's Free Día de los Muertos + Diwali Celebration w/ Fire Ceremony (Presido Tunnel Tops)",
         "day": "Sat",
         "date": "2026-11-07",
-        "time": "10am–3pm",
+        "time": "10:00",
         "start": "10:00",
         "end": "15:00",
         "area": "SF",
@@ -5378,7 +5456,7 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "https://party-scout.app/img/gen/sf-s-free-dia-de-los-mue-eb11.jpg",
+        "image": "https://cdn.funcheap.com/wp-content/uploads/2026/10/Dia-los-muertos.jpg",
         "image_generated": false,
         "popularity": 0,
         "enriched": 1,
@@ -5431,7 +5509,7 @@
         "name": "Sigala",
         "day": "Sat",
         "date": "2026-11-07",
-        "time": "22:00",
+        "time": "10pm",
         "start": "22:00",
         "end": null,
         "area": "Sunnyvale",
@@ -5453,7 +5531,8 @@
           {
             "url": "https://19hz.info/eventlisting_BayArea.php",
             "hidden": true
-          }
+          },
+          "https://www.tixr.com/groups/purenightclub/events/sigala-197541"
         ],
         "tickets": [
           "https://www.tixr.com/groups/purenightclub/events/sigala-197541"
@@ -5572,7 +5651,7 @@
         "start": "19:00",
         "end": null,
         "area": "San Francisco",
-        "venue": "Bottom of the Hill",
+        "venue": "Bottom Of The Hill",
         "address": "1233 17th Street, San Francisco, CA 94107",
         "why": "Left-field, lyric-dense underground hip-hop in an intimate club room.",
         "summary": "Armand Hammer, the NYC rap duo of billy woods and Elucid, play Bottom of the Hill. All ages.",
@@ -5600,7 +5679,7 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "https://party-scout.app/img/gen/armand-hammer-e0dc.jpg",
+        "image": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/29505577/ab8d04a6-9ef5-4c0b-8b09-5e7b7c20eebf.jpg",
         "image_generated": false,
         "popularity": 0,
         "enriched": 1,
@@ -5789,7 +5868,7 @@
         "name": "Eelke Kleijn, Elegie, Dane",
         "day": "Sun",
         "date": "2026-11-08",
-        "time": "16:00",
+        "time": "4pm",
         "start": "16:00",
         "end": "20:00",
         "area": "SF",
@@ -5813,7 +5892,8 @@
           {
             "url": "https://edmtrain.com/san-francisco-ca",
             "hidden": true
-          }
+          },
+          "https://www.tixr.com/groups/alldayallnight/events/eelke-kleijn-live-at-eria-sausalito-206726"
         ],
         "tickets": [],
         "maps": {
@@ -6068,16 +6148,16 @@
         "name": "\"Lindy in the Park\" Swing Dance Party (Golden Gate Park)",
         "day": "Sun",
         "date": "2026-11-08",
-        "time": "11am–2pm",
+        "time": "11:00",
         "start": "11:00",
         "end": "14:00",
-        "area": "SF",
+        "area": "San Francisco",
         "venue": "JFK Drive Lindy Hop Spot",
         "address": "JFK Dr. & Music Concourse Dr, San Francisco, CA",
         "why": "A free outdoor opportunity to dance and socialize in the park.",
         "summary": "A free daytime swing dance party in Golden Gate Park on November 8, 2026, running 11am–2pm at JFK Dr. & Music Concourse Dr.",
         "promoter": "",
-        "price": "Free",
+        "price": "FREE",
         "tags": [
           "swing",
           "free",
@@ -6086,7 +6166,11 @@
           "daytime"
         ],
         "sources": [
-          "https://sf.funcheap.com/lindy-in-the-park-swing-dance-party-golden-gate-park-278/"
+          "https://sf.funcheap.com/lindy-in-the-park-swing-dance-party-golden-gate-park-278/",
+          {
+            "url": "https://sf.funcheap.com",
+            "hidden": true
+          }
         ],
         "tickets": [],
         "maps": {
@@ -6096,7 +6180,7 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "https://party-scout.app/img/gen/lindy-in-the-park-swing-03fb.jpg",
+        "image": "https://cdn.funcheap.com/wp-content/uploads/2013/09/20160821-LITP20TH-321.jpg",
         "image_generated": false,
         "popularity": 0,
         "enriched": 1,
@@ -6323,16 +6407,16 @@
         "name": "Unwrapped 2026: Queer Tattoo Punk Rock Party + Holiday Mart at El Rio (SF)",
         "day": "Sun",
         "date": "2026-11-08",
-        "time": "1–8pm",
+        "time": "13:00",
         "start": "13:00",
         "end": "20:00",
-        "area": "Mission",
+        "area": "San Francisco",
         "venue": "El Rio",
         "address": "3158 Mission St, San Francisco, CA 94110",
         "why": "Shop queer-made goods and take in energetic daytime music and tattoo culture at a community venue.",
         "summary": "Queer tattoo and punk rock party plus a holiday mart at El Rio in the Mission on Nov 8, 2026; runs 1–8pm and is free to attend.",
         "promoter": "",
-        "price": "Free",
+        "price": "FREE",
         "tags": [
           "punk",
           "queer",
@@ -6341,7 +6425,11 @@
           "tattoo"
         ],
         "sources": [
-          "https://sf.funcheap.com/unwrapped-2026-queer-tattoo-party-holiday-mart-el-rio-sf/"
+          "https://sf.funcheap.com/unwrapped-2026-queer-tattoo-party-holiday-mart-el-rio-sf/",
+          {
+            "url": "https://sf.funcheap.com",
+            "hidden": true
+          }
         ],
         "tickets": [],
         "maps": {
@@ -6351,7 +6439,7 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "https://party-scout.app/img/gen/unwrapped-2026-queer-tat-6650.jpg",
+        "image": "https://cdn.funcheap.com/wp-content/uploads/2026/10/839334386_18593872612064761_5336250422954848958_n.jpg",
         "image_generated": false,
         "popularity": 0,
         "enriched": 1,
@@ -6476,11 +6564,11 @@
         "name": "Main Phase",
         "day": "Fri",
         "date": "2026-11-06",
-        "time": "22:00",
+        "time": "10pm",
         "start": "22:00",
         "end": "02:00",
         "area": "San Francisco",
-        "venue": "1015 Folsom",
+        "venue": "1015 Folsom (San Francisco)",
         "address": "1015 Folsom Street; San Francisco, CA 94103; United States",
         "why": "Go for a late-night dance outing in a central SoMa spot with a modest cover.",
         "summary": "A late-night event on November 6, 2026 at 1015 Folsom Street in SoMa, running 10pm–2am with $20–$30 admission.",
@@ -6522,7 +6610,9 @@
           {
             "url": "https://ra.co/events/us/sanfrancisco",
             "hidden": true
-          }
+          },
+          "https://1015.com/events/main-phase-2026-11-06/",
+          "https://wl.eventim.us/event/main-phase/705629?afflky=1015Folsom&nts_trk=d4ed15f5-9cee-427f-9e3d-3f1a0603fb21"
         ],
         "tickets": [
           "https://ra.co/events/2538155"
@@ -6580,7 +6670,10 @@
             "url": "https://ra.co/events/2536790",
             "hidden": true
           },
-          "https://dothebay.com/events/2026/11/6/mira-tickets",
+          {
+            "url": "https://dothebay.com/events/2026/11/6/mira-tickets",
+            "hidden": true
+          },
           {
             "url": "https://19hz.info/eventlisting_BayArea.php",
             "hidden": true
@@ -6671,16 +6764,16 @@
         "name": "Pete Tong",
         "day": "Fri",
         "date": "2026-11-06",
-        "time": "22:00",
+        "time": "10pm",
         "start": "22:00",
         "end": "04:00",
-        "area": "SoMa",
+        "area": "San Francisco",
         "venue": "Halcyon (San Francisco)",
         "address": "314 11th St, San Francisco, California, 94103",
         "why": "To dance through an extended late-night DJ set.",
         "summary": "Pete Tong headlines a DJ night at 314 11th St in San Francisco on November 6, 2026; 10pm–4am, $25.",
         "promoter": "",
-        "price": "$25",
+        "price": "25",
         "tags": [
           "dj",
           "electronic",
@@ -6689,7 +6782,10 @@
           "ticketed"
         ],
         "sources": [
-          "https://ra.co/events/2531107",
+          {
+            "url": "https://ra.co/events/2531107",
+            "hidden": true
+          },
           {
             "url": "https://1015.com/",
             "hidden": true
@@ -6705,6 +6801,14 @@
           {
             "url": "https://edmtrain.com/san-francisco-ca",
             "hidden": true
+          },
+          {
+            "url": "https://halcyon-sf.com/main/tickets/",
+            "hidden": true
+          },
+          {
+            "url": "https://ra.co/events/us/sanfrancisco",
+            "hidden": true
           }
         ],
         "tickets": [
@@ -6717,7 +6821,7 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "https://party-scout.app/img/gen/pete-tong-5c6b.jpg",
+        "image": "https://api.party-scout.app/img/san-francisco/2026-11-02/pete-tong-c3f0.jpg",
         "image_generated": true,
         "popularity": 0,
         "enriched": 1,
@@ -6736,11 +6840,11 @@
         "name": "yaego",
         "day": "Fri",
         "date": "2026-11-06",
-        "time": "22:00",
+        "time": "10pm",
         "start": "22:00",
         "end": "02:00",
         "area": "San Francisco",
-        "venue": "1015 Folsom",
+        "venue": "1015 Folsom (San Francisco)",
         "address": "1015 Folsom Street; San Francisco, CA 94103; United States",
         "why": "Good for late-night dancing in a central SoMa venue with an affordable cover.",
         "summary": "yaego takes place on November 6, 2026 at 1015 Folsom Street in SoMa, San Francisco, running 10pm–2am with a $20–$25 cover.",
@@ -6753,7 +6857,10 @@
           "paid"
         ],
         "sources": [
-          "https://ra.co/events/2552895",
+          {
+            "url": "https://ra.co/events/2552895",
+            "hidden": true
+          },
           {
             "url": "https://1015.com/calendar/",
             "hidden": true
@@ -6943,11 +7050,11 @@
         "name": "HUGEL",
         "day": "Sat",
         "date": "2026-11-07",
-        "time": "6–11pm",
+        "time": "6pm",
         "start": "18:00",
         "end": "23:00",
         "area": "Berkeley",
-        "venue": "Greek Theatre",
+        "venue": "Greek Theatre (Berkeley)",
         "address": "2001 Gayley Rd, Berkeley, CA 94720",
         "why": "For a ticketed evening show in Berkeley.",
         "summary": "HUGEL performs at 2001 Gayley Rd in Berkeley on November 7, 2026; the event runs 6–11pm with tickets priced $78–$234.",
@@ -6959,7 +7066,8 @@
         ],
         "sources": [
           "https://ra.co/events/2557363",
-          "https://dothebay.com/events/2026/11/7/hugel-tickets-6z7oeep"
+          "https://dothebay.com/events/2026/11/7/hugel-tickets-6z7oeep",
+          "https://www.ticketmaster.com/event/1C0064BD20241F9B"
         ],
         "tickets": [
           "https://ra.co/events/2557363"
@@ -7076,11 +7184,11 @@
         "name": "Adriatique, Fahlberg",
         "day": "Fri",
         "date": "2026-11-06",
-        "time": "9pm-2am",
+        "time": "9pm",
         "start": "22:00",
         "end": "02:00",
         "area": "San Francisco",
-        "venue": "The Midway",
+        "venue": "The Midway (San Francisco)",
         "address": "900 Marin Street, San Francisco, CA 94124",
         "why": "Adriatique are among the biggest names in melodic techno, and The Midway's big room suits their long, building sets.",
         "summary": "Swiss duo Adriatique and Fahlberg bring melodic house and techno to The Midway for a 21+ Friday night, 10pm to 2am.",
@@ -7113,7 +7221,8 @@
           {
             "url": "https://ra.co/events/us/sanfrancisco",
             "hidden": true
-          }
+          },
+          "https://tixr.com/e/200572"
         ],
         "tickets": [
           "https://ra.co/events/2557336"
@@ -7151,7 +7260,7 @@
         "start": "21:00",
         "end": null,
         "area": "SF",
-        "venue": "Brick & Mortar Music Hall",
+        "venue": "Brick & Mortar Music Hall (San Francisco)",
         "address": "1710 Mission St, San Francisco, CA",
         "why": "For an evening out in the city with a set ticket price.",
         "summary": "A ticketed San Francisco event on 2026-11-07 at 9pm titled \"Supertaste, 3kelves\" with $28 admission.",
@@ -7165,7 +7274,8 @@
           "live music"
         ],
         "sources": [
-          "https://www.brickandmortarmusic.com/tm-event/supertaste/"
+          "https://www.brickandmortarmusic.com/tm-event/supertaste/",
+          "https://www.ticketweb.com/event/supertaste-brick-and-mortar-music-hall-tickets/14244524?REFERRAL_ID=twfb"
         ],
         "tickets": [
           "https://www.ticketweb.com/event/supertaste-3kelves-brick-and-mortar-music-hall-tickets/14244524"
@@ -7233,11 +7343,11 @@
         "name": "Dark Sparkle",
         "day": "Fri",
         "date": "2026-11-06",
-        "time": "9:30pm-2:#0am",
+        "time": "9:30pm",
         "start": "21:30",
         "end": "02:30",
         "area": "San Francisco",
-        "venue": "DNA Lounge",
+        "venue": "DNA Lounge (San Francisco)",
         "address": "375 Eleventh Street, San Francisco, CA 94103",
         "why": "To check out a nightlife event in SoMa.",
         "summary": "Dark Sparkle is scheduled for November 6, 2026 at 375 Eleventh Street in San Francisco.",
@@ -7253,7 +7363,8 @@
             "url": "https://19hz.info/eventlisting_BayArea.php",
             "hidden": true
           },
-          "https://dothebay.com/events/2026/11/6/dark-sparkle-tickets"
+          "https://dothebay.com/events/2026/11/6/dark-sparkle-tickets",
+          "https://www.dnalounge.com/calendar/2026/11-06d.html"
         ],
         "tickets": [],
         "maps": {
@@ -7263,54 +7374,8 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "https://api.party-scout.app/img/san-francisco/2026-11-02/dark-sparkle-044d.jpg",
-        "image_generated": false,
-        "popularity": 0,
-        "enriched": 1,
-        "active": true
-      },
-      {
-        "id": "2026-11-02-music-dirtybird-night-market-7bc334",
-        "eid": "dirtybird-night-market-aeec",
-        "track": "music",
-        "category": "Market",
-        "name": "Dirtybird Night Market",
-        "day": "Fri",
-        "date": "2026-11-06",
-        "time": "5pm-10pm",
-        "start": "17:00",
-        "end": "21:00",
-        "area": "San Francisco",
-        "venue": "Thrive City",
-        "address": "200 Golf Club Rd, Pleasant Hill, CA",
-        "why": "For an evening of food, local vendors, and lively nighttime atmosphere.",
-        "summary": "Dirtybird Night Market is scheduled for November 6, 2026 at 200 Golf Club Rd in Pleasant Hill.",
-        "promoter": "",
-        "price": "free",
-        "tags": [
-          "market",
-          "outdoor",
-          "food",
-          "night"
-        ],
-        "sources": [
-          {
-            "url": "https://19hz.info/eventlisting_BayArea.php",
-            "hidden": true
-          },
-          "https://dothebay.com/events/2026/11/6/dirtybird-x-thrive-city-dirtybird-night-market-tickets",
-          "https://sf.funcheap.com/pleasant-hills-new-night-market-13/"
-        ],
-        "tickets": [],
-        "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=Thrive%20City%20%28San%20Francisco%29",
-          "apple": "https://maps.apple.com/?q=Thrive%20City%20%28San%20Francisco%29"
-        },
-        "coords": null,
-        "coords_precise": false,
-        "ra": {},
-        "image": "https://api.party-scout.app/img/san-francisco/2026-11-02/dirtybird-night-market-aeec.jpg",
-        "image_generated": false,
+        "image": "https://api.party-scout.app/img/san-francisco/2026-11-02/dark-sparkle-8a7a.jpg",
+        "image_generated": true,
         "popularity": 0,
         "enriched": 1,
         "active": true
@@ -7323,7 +7388,7 @@
         "name": "Dubvision",
         "day": "Fri",
         "date": "2026-11-06",
-        "time": "22:00",
+        "time": "10pm",
         "start": "22:00",
         "end": "02:00",
         "area": "Sunnyvale",
@@ -7345,7 +7410,8 @@
             "url": "https://19hz.info/eventlisting_BayArea.php",
             "hidden": true
           },
-          "https://app.discotech.me/events/38272868-dubvision-at-pure"
+          "https://app.discotech.me/events/38272868-dubvision-at-pure",
+          "https://www.tixr.com/groups/purenightclub/events/dubvision-206145"
         ],
         "tickets": [
           "https://www.tixr.com/groups/purenightclub/events/dubvision-206145"
@@ -7358,7 +7424,7 @@
         "coords_precise": false,
         "ra": {},
         "image": "https://api.party-scout.app/img/san-francisco/2026-11-02/dubvision-e282.jpg",
-        "image_generated": false,
+        "image_generated": true,
         "popularity": 0,
         "enriched": 1,
         "active": true
@@ -7419,7 +7485,7 @@
         "name": "Glitter Goth: Stanley Vanagan, Armagidon, DJ Nadie, 5Th Dimension, Malice, Nailbunny, Ladyhd, Black Lipstick",
         "day": "Sat",
         "date": "2026-11-07",
-        "time": "19:00",
+        "time": "7pm",
         "start": "19:00",
         "end": "23:00",
         "area": "Santa Rosa",
@@ -7440,7 +7506,8 @@
           {
             "url": "https://19hz.info/eventlisting_BayArea.php",
             "hidden": true
-          }
+          },
+          "https://www.instagram.com/glittergothclub/p/DeZ1hVePKBY/"
         ],
         "tickets": [],
         "maps": {
@@ -7450,8 +7517,8 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
-        "image_generated": false,
+        "image": "https://api.party-scout.app/img/san-francisco/2026-11-02/glitter-goth-stanley-van-bee5.jpg",
+        "image_generated": true,
         "popularity": 0,
         "enriched": 1,
         "active": true
@@ -7464,7 +7531,7 @@
         "name": "Lalaloopsy Rave: Plasmic, Rogue777, Estellita, Queermom, Bunnybexxx, Estrella, Lythsetty",
         "day": "Sat",
         "date": "2026-11-07",
-        "time": "22:00",
+        "time": "10pm",
         "start": "22:00",
         "end": null,
         "area": "Oakland",
@@ -7489,7 +7556,8 @@
           {
             "url": "https://19hz.info/eventlisting_BayArea.php",
             "hidden": true
-          }
+          },
+          "https://www.instagram.com/peace._.treaty/p/DegNYOByRDw/"
         ],
         "tickets": [],
         "maps": {},
@@ -7497,7 +7565,7 @@
         "coords_precise": false,
         "ra": {},
         "image": "https://api.party-scout.app/img/san-francisco/2026-11-02/lalaloopsy-rave-plasmic-2431.jpg",
-        "image_generated": false,
+        "image_generated": true,
         "popularity": 0,
         "enriched": 1,
         "active": true
@@ -8183,53 +8251,6 @@
         "active": true
       },
       {
-        "id": "2026-11-02-music-dr-gabba-w-narciss-1e9a57",
-        "eid": "dr-gabba-w-narciss-9031",
-        "track": "music",
-        "category": "",
-        "name": "Dr. Gabba w/ Narciss",
-        "day": "Sat",
-        "date": "2026-11-07",
-        "time": "21:00",
-        "start": "21:00",
-        "end": "03:00",
-        "area": "San Francisco",
-        "venue": "Public Works",
-        "address": "161 Erie Street, San Francisco, CA 94103, United States",
-        "why": "To catch a billed live night in SoMa for a $30 ticket.",
-        "summary": "An event billed as Dr. Gabba with Narciss on November 7, 2026 at 161 Erie Street in San Francisco; tickets are $30.",
-        "promoter": "",
-        "price": "$30",
-        "tags": [
-          "live",
-          "ticketed",
-          "nightlife"
-        ],
-        "sources": [
-          {
-            "url": "https://dothebay.com/events/2026/11/7",
-            "hidden": true
-          },
-          "https://ra.co/events/2534561",
-          "https://dothebay.com/events/2026/11/7/dr-gabba-narciss-dazegxd-presented-by-public-works-strapt-flux-aeterna-tickets"
-        ],
-        "tickets": [
-          "https://ra.co/events/2534561"
-        ],
-        "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=Public%20Works%2C%20San%20Francisco",
-          "apple": "https://maps.apple.com/?q=Public%20Works%2C%20San%20Francisco"
-        },
-        "coords": null,
-        "coords_precise": false,
-        "ra": {},
-        "image": "https://api.party-scout.app/img/san-francisco/2026-11-02/dr-gabba-w-narciss-9031.jpg",
-        "image_generated": false,
-        "popularity": 0,
-        "enriched": 1,
-        "active": true
-      },
-      {
         "id": "2026-11-02-music-halo-varga-monoclick-omna-lei-a18be0",
         "eid": "halo-varga-monoclick-omn-9e00",
         "track": "music",
@@ -8237,11 +8258,11 @@
         "name": "Halo Varga, Monoclick, Omna & Lei",
         "day": "Sat",
         "date": "2026-11-07",
-        "time": "5pm-2am",
+        "time": "5pm",
         "start": "17:00",
         "end": "02:00",
         "area": "San Francisco",
-        "venue": "TBA Chinatown",
+        "venue": "TBA Chinatown (San Francisco)",
         "address": "",
         "why": "To catch multiple acts on one ticketed night.",
         "summary": "Halo Varga, Monoclick, Omna, and Lei are billed for a ticketed show in San Francisco on November 7, 2026. Tickets are listed from $15–$25.",
@@ -8257,7 +8278,10 @@
             "url": "https://19hz.info/eventlisting_BayArea.php",
             "hidden": true
           },
-          "https://ra.co/events/2563568"
+          {
+            "url": "https://ra.co/events/2563568",
+            "hidden": true
+          }
         ],
         "tickets": [
           "https://ra.co/events/2563568"
@@ -8269,8 +8293,8 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "https://api.party-scout.app/img/san-francisco/2026-11-02/halo-varga-monoclick-omn-9e00.jpg",
-        "image_generated": false,
+        "image": "https://api.party-scout.app/img/san-francisco/2026-11-02/halo-varga-monoclick-omn-69ad.jpg",
+        "image_generated": true,
         "popularity": 0,
         "enriched": 1,
         "active": true
@@ -8376,11 +8400,11 @@
         "name": "Polar Inertia",
         "day": "Sun",
         "date": "2026-11-08",
-        "time": "Fri: 7pm-Sun: 2am",
+        "time": "Fri: 7pm",
         "start": "19:00",
         "end": "02:00",
         "area": "SF",
-        "venue": "TBA",
+        "venue": "TBA (San Francisco)",
         "address": "",
         "why": "To attend a local SF event that evening and see what unfolds.",
         "summary": "Polar Inertia is scheduled in San Francisco on November 8, 2026; venue, time, and lineup have not been announced.",
@@ -8394,6 +8418,10 @@
         "sources": [
           {
             "url": "https://19hz.info/eventlisting_BayArea.php",
+            "hidden": true
+          },
+          {
+            "url": "https://ra.co/events/2494673",
             "hidden": true
           }
         ],
@@ -8657,7 +8685,7 @@
         "start": "21:00",
         "end": null,
         "area": "SF",
-        "venue": "1190 Folsom St",
+        "venue": "1190 Folsom St (San Francisco)",
         "address": "",
         "why": "Easy, budget-friendly night out with DJ sets.",
         "summary": "1st Thursdays is a DJ night on 2026-11-05 featuring DJ Damon and Javy L; free before 9:30pm, $5 after.",
@@ -8672,7 +8700,8 @@
           {
             "url": "https://19hz.info/eventlisting_BayArea.php",
             "hidden": true
-          }
+          },
+          "https://www.facebook.com/events/2531775904000071/"
         ],
         "tickets": [],
         "maps": {
@@ -8817,7 +8846,8 @@
             "hidden": true
           },
           "https://ra.co/events/2563539",
-          "https://dothebay.com/events/2026/11/5/local-500-public-works-present-function-500-w-fluxions-tickets"
+          "https://dothebay.com/events/2026/11/5/local-500-public-works-present-function-500-w-fluxions-tickets",
+          "https://dothebay.com/events/2026/11/5/function-500-w-fluxions-tickets"
         ],
         "tickets": [
           "https://ra.co/events/2563539"
@@ -8985,11 +9015,11 @@
         "name": "Bongo 1 Year Anniversary: Jim Hopkins, Buck Wilson, Golem, mind2motion",
         "day": "Fri",
         "date": "2026-11-06",
-        "time": "9pm-2am",
+        "time": "9pm",
         "start": "21:00",
         "end": "02:00",
         "area": "San Francisco",
-        "venue": "Mothership",
+        "venue": "Mothership (San Francisco)",
         "address": "3152 Mission Street San Francisco, CA 94110",
         "why": "For a free night of DJs and local talent celebrating a venue anniversary.",
         "summary": "A free one-year anniversary party for Bongo on November 6, 2026, featuring Jim Hopkins, Buck Wilson, Golem, and mind2motion at 3152 Mission Street.",
@@ -9007,7 +9037,8 @@
             "url": "https://19hz.info/eventlisting_BayArea.php",
             "hidden": true
           },
-          "https://ra.co/events/2568986"
+          "https://ra.co/events/2568986",
+          "https://www.instagram.com/mind2motion.music/p/DetBbm4yx49/"
         ],
         "tickets": [
           "https://ra.co/events/2568986"
@@ -9080,11 +9111,11 @@
         "name": "Bounce SF: Ueberrest, Flash Gea, dj try",
         "day": "Fri",
         "date": "2026-11-06",
-        "time": "21:00",
+        "time": "9pm",
         "start": "21:00",
         "end": "03:00",
         "area": "San Francisco",
-        "venue": "Public Works",
+        "venue": "Public Works (San Francisco)",
         "address": "161 Erie Street, San Francisco, CA 94103, United States",
         "why": "To catch a billed trio of artists performing in one night.",
         "summary": "A ticketed event on Nov 6, 2026 at 161 Erie Street in SoMa featuring Ueberrest, Flash Gea, and dj try. Tickets are listed at $35.",
@@ -9105,7 +9136,8 @@
             "hidden": true
           },
           "https://ra.co/events/2491096",
-          "https://dothebay.com/events/2026/11/6/bounce-sf-ueberrest-flash-gea-dj-try-tickets"
+          "https://dothebay.com/events/2026/11/6/bounce-sf-ueberrest-flash-gea-dj-try-tickets",
+          "https://www.tixr.com/groups/publicsf/events/bounce-sf-ueberrest-flash-gea-dj-try-199018"
         ],
         "tickets": [
           "https://ra.co/events/2491096"
@@ -9178,11 +9210,11 @@
         "name": "Hawthorn Feat. Kromatic + Young Kid Speed, DJ The DJ & Will Masters",
         "day": "Fri",
         "date": "2026-11-06",
-        "time": "10pm-2am",
+        "time": "10pm",
         "start": "22:00",
         "end": "02:00",
         "area": "SoMa",
-        "venue": "Hawthorn",
+        "venue": "Hawthorn (San Francisco)",
         "address": "",
         "why": "A free-before-11 Friday with a hip-hop-to-house lineup, good for a loose late night out in SF.",
         "summary": "Friday night at Hawthorn with Kromatic, Young Kid Speed, DJ The DJ and Will Masters, mixing hip-hop, top 40, house, tech house and EDM. Free with RSVP before 11pm, otherwise $15; 21+.",
@@ -9202,7 +9234,8 @@
           {
             "url": "https://19hz.info/eventlisting_BayArea.php",
             "hidden": true
-          }
+          },
+          "https://www.eventbrite.com/e/hawthorn-feat-kromatic-young-kid-speed-dj-the-dj-will-masters-tickets-2003558766204"
         ],
         "tickets": [
           "https://www.eventbrite.com/e/hawthorn-feat-kromatic-young-kid-speed-dj-the-dj-will-masters-tickets-2003558766204"
@@ -9228,11 +9261,11 @@
         "name": "Honey Channel w/ Miel Beton, Hard Shiny Plastic and Bstone",
         "day": "Fri",
         "date": "2026-11-06",
-        "time": "10pm-2am",
+        "time": "10pm",
         "start": "22:00",
         "end": "02:00",
         "area": "San Francisco",
-        "venue": "Kilowatt Bar",
+        "venue": "Kilowatt Bar (San Francisco)",
         "address": "3160 16th Street, San Francisco, California, 94103",
         "why": "To attend a free late-night party in the Mission.",
         "summary": "Free late-night event on November 6, 2026, running 10pm–2am at 3160 16th Street in the Mission District of San Francisco.",
@@ -9255,7 +9288,8 @@
           {
             "url": "https://ra.co/events/us/sanfrancisco",
             "hidden": true
-          }
+          },
+          "https://link.dice.fm/K55dd95a5d49"
         ],
         "tickets": [
           "https://ra.co/events/2556491",
@@ -9329,12 +9363,12 @@
         "name": "Bruxie's B-Day Party w/Chis Lake Tribute - DJ Manks, DJ Jes-E",
         "day": "Sat",
         "date": "2026-11-07",
-        "time": "9pm-2am",
+        "time": "9pm",
         "start": "21:00",
         "end": "02:00",
         "area": "San Francisco",
-        "venue": "Buzzworks",
-        "address": "",
+        "venue": "Buzzworks (San Francisco)",
+        "address": "365 11th St, San Francisco, California 94103",
         "why": "Great for dancing to DJ sets and hearing a dedicated Chis Lake tribute.",
         "summary": "Birthday party for Bruxie on 2026-11-07 featuring a Chis Lake tribute and DJs Manks and Jes-E; entry is free with RSVP.",
         "promoter": "",
@@ -9350,7 +9384,8 @@
           {
             "url": "https://19hz.info/eventlisting_BayArea.php",
             "hidden": true
-          }
+          },
+          "https://partiful.com/e/TQCWbWJzMzBJ4LKvPSh6?c=1DKNycTu"
         ],
         "tickets": [],
         "maps": {
@@ -9360,8 +9395,8 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "https://api.party-scout.app/img/san-francisco/2026-11-02/bruxie-s-b-day-party-w-c-3ddf.jpg",
-        "image_generated": true,
+        "image": "https://partiful.imgix.net/external/user/8buoKUV7lrVjMIrOEhkLgSs8yrC2/72I2gySOUKupnRMZMqVfa?w=1000&h=1254&fit=clip",
+        "image_generated": false,
         "popularity": 0,
         "enriched": 1,
         "active": true
@@ -9374,11 +9409,11 @@
         "name": "Daydream: Mxxdy, Knives, Macmillan, Austin Freeman, MKM",
         "day": "Sat",
         "date": "2026-11-07",
-        "time": "2pm-8pm",
+        "time": "2pm",
         "start": "14:00",
         "end": "20:00",
         "area": "San Francisco",
-        "venue": "620 Jones",
+        "venue": "620 Jones (San Francisco)",
         "address": "620 Jones Street, San Francisco, CA 94102, USA",
         "why": "Affordable afternoon-to-evening outing in central San Francisco.",
         "summary": "Daydream is on 2026-11-07 at 620 Jones Street in San Francisco, running 2–8pm with $12 admission.",
@@ -9401,6 +9436,10 @@
           },
           {
             "url": "https://ra.co/events/us/sanfrancisco",
+            "hidden": true
+          },
+          {
+            "url": "https://www.tixr.com/groups/midwaysf/events/local-governance-presents-day-dream-204620",
             "hidden": true
           }
         ],
@@ -9430,16 +9469,19 @@
         "day": "Sat",
         "date": "2026-11-07",
         "time": "22:00",
-        "start": null,
-        "end": null,
+        "start": "22:00",
+        "end": "02:00",
         "area": "San Francisco",
         "venue": "The Stud",
         "address": "1123 Folsom St, San Francisco, CA 94103",
-        "why": "",
-        "summary": "",
+        "why": "For a ticketed night out to catch a billed performer.",
+        "summary": "Gemini with Chris Cruse takes place on 2026-11-07; tickets are listed at $15–$20.",
         "promoter": "",
-        "price": "",
-        "tags": [],
+        "price": "$15–$20",
+        "tags": [
+          "ticketed",
+          "nightlife"
+        ],
         "sources": [
           "https://ra.co/events/2567321",
           {
@@ -9451,7 +9493,10 @@
             "hidden": true
           }
         ],
-        "tickets": [],
+        "tickets": [
+          "https://ra.co/events/2567321",
+          "https://ra.co/events/us/sanfrancisco"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=1123%20Folsom%20St%2C%20San%20Francisco%2C%20CA%2094103",
           "apple": "https://maps.apple.com/?q=1123%20Folsom%20St%2C%20San%20Francisco%2C%20CA%2094103"
@@ -9462,7 +9507,7 @@
         "image": "https://images.ra.co/9d33c6bf68a537575fb4c1ee1570afdd604dcfbe.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true,
         "lineup": [
           {
@@ -9487,15 +9532,15 @@
         "id": "2026-11-02-music-harder-sf-sterling-juan-diaz-r-f4a557",
         "eid": "harder-sf-sterling-juan-7691",
         "track": "music",
-        "category": "",
+        "category": "Nightclub",
         "name": "Harder SF: Sterling Juan Diaz, Riccardo Tavarez, Sergi(ooh)",
         "day": "Sat",
         "date": "2026-11-07",
-        "time": "10pm-4am",
+        "time": "10pm",
         "start": "22:00",
         "end": "04:00",
         "area": "San Francisco",
-        "venue": "Club Six",
+        "venue": "Club Six (San Francisco)",
         "address": "60 6th St, San Francisco, CA 94103, United States",
         "why": "For a big-city night out in San Francisco.",
         "summary": "HARDER SF is an event scheduled in San Francisco on November 7, 2026.",
@@ -9517,11 +9562,11 @@
           {
             "url": "https://ra.co/events/us/sanfrancisco",
             "hidden": true
-          },
-          "https://ra.co/events/2562540"
+          }
         ],
         "tickets": [
-          "https://ra.co/events/2562540"
+          "https://ra.co/events/2562540",
+          "https://ra.co/events/us/sanfrancisco"
         ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=60%206th%20St%2C%20San%20Francisco%2C%20CA%2094103%2C%20United%20States",
@@ -9533,7 +9578,7 @@
         "image": "https://images.ra.co/0762e4fb0dc8035f57eac4f0fdcf21fe0af3b4f3.png",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true,
         "lineup": [
           {
@@ -9545,21 +9590,26 @@
         "id": "2026-11-02-music-pura-saturdays-cacbfe",
         "eid": "pura-saturdays-5050",
         "track": "music",
-        "category": "",
+        "category": "Nightclub",
         "name": "PURA Saturdays",
         "day": "Sat",
         "date": "2026-11-07",
         "time": "22:00",
-        "start": null,
+        "start": "22:00",
         "end": null,
         "area": "San Francisco",
         "venue": "1015 Folsom",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "24 Willie Mays Plaza, San Francisco, CA 94107",
+        "why": "For a late-night dance outing in SoMa with moderate cover.",
+        "summary": "PURA Saturdays is a club night on November 7, 2026 at 24 Willie Mays Plaza in San Francisco; tickets are listed at $20–$35.",
         "promoter": "",
-        "price": "",
-        "tags": [],
+        "price": "$20–$35",
+        "tags": [
+          "21+",
+          "dj",
+          "dance",
+          "nightlife"
+        ],
         "sources": [
           {
             "url": "https://1015.com/",
@@ -9572,7 +9622,8 @@
           {
             "url": "https://dothebay.com/events",
             "hidden": true
-          }
+          },
+          "https://dothebay.com/events/2026/11/7/pura-saturdays-tickets"
         ],
         "tickets": [],
         "maps": {
@@ -9583,9 +9634,9 @@
         "coords_precise": false,
         "ra": {},
         "image": "https://api.party-scout.app/img/san-francisco/2026-11-02/pura-saturdays-5050.jpg",
-        "image_generated": true,
+        "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
@@ -9699,6 +9750,1557 @@
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Golden%20Gate%20Park%2C%20San%20Francisco",
           "apple": "https://maps.apple.com/?q=Golden%20Gate%20Park%2C%20San%20Francisco"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-11-02-music-country-line-dance-d9406b",
+        "eid": "country-line-dance-8869",
+        "track": "music",
+        "category": "",
+        "name": "Country Line Dance",
+        "day": "Mon",
+        "date": "2026-11-02",
+        "time": "",
+        "start": null,
+        "end": null,
+        "area": "",
+        "venue": "Hopmonk Tavern - Sebastopol",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "",
+        "tags": [],
+        "sources": [
+          "https://dothebay.com/events/2026/11/2/country-line-dance-tickets"
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=Hopmonk%20Tavern%20-%20Sebastopol",
+          "apple": "https://maps.apple.com/?q=Hopmonk%20Tavern%20-%20Sebastopol"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-11-02-music-taste-the-first-monday-of-the-fb4b54",
+        "eid": "taste-the-first-monday-o-9c4d",
+        "track": "music",
+        "category": "",
+        "name": "Taste- the first Monday of the month at Ivy",
+        "day": "Mon",
+        "date": "2026-11-02",
+        "time": "",
+        "start": null,
+        "end": null,
+        "area": "",
+        "venue": "Ivy Room",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "",
+        "tags": [],
+        "sources": [
+          "https://dothebay.com/events/2026/11/2/taste-the-first-monday-of-the-month-at-ivy-tickets"
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=Ivy%20Room",
+          "apple": "https://maps.apple.com/?q=Ivy%20Room"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-11-02-music-1-margaritas-disco-taco-tuesda-5cadc3",
+        "eid": "1-margaritas-disco-taco-06b5",
+        "track": "music",
+        "category": "",
+        "name": "$1 Margaritas & “Disco Taco Tuesday” at Underdogs (SoMa)",
+        "day": "Tue",
+        "date": "2026-11-03",
+        "time": "19:30",
+        "start": null,
+        "end": null,
+        "area": "",
+        "venue": "Underdogs Cantina",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "",
+        "tags": [],
+        "sources": [
+          "https://sf.funcheap.com/1-margaritas-disco-taco-tuesday-at-underdogs-soma-121/"
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=Underdogs%20Cantina",
+          "apple": "https://maps.apple.com/?q=Underdogs%20Cantina"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-11-02-music-election-night-watch-party-hos-6f29eb",
+        "eid": "election-night-watch-par-60ee",
+        "track": "music",
+        "category": "",
+        "name": "Election Night Watch Party: Hosted by Kochina Rude!",
+        "day": "Tue",
+        "date": "2026-11-03",
+        "time": "",
+        "start": null,
+        "end": null,
+        "area": "",
+        "venue": "The Chapel",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "",
+        "tags": [],
+        "sources": [
+          "https://dothebay.com/events/2026/11/3/election-night-watch-party-hosted-by-kochina-rude-tickets"
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=The%20Chapel",
+          "apple": "https://maps.apple.com/?q=The%20Chapel"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-11-02-music-thunder-clap-comedy-show-d894a4",
+        "eid": "thunder-clap-comedy-show-c461",
+        "track": "music",
+        "category": "",
+        "name": "Thunder Clap: Comedy Show",
+        "day": "Tue",
+        "date": "2026-11-03",
+        "time": "",
+        "start": null,
+        "end": null,
+        "area": "",
+        "venue": "Kilowatt",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "",
+        "tags": [],
+        "sources": [
+          "https://dothebay.com/events/2026/11/3/thunder-clap-comedy-show-tickets"
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=Kilowatt",
+          "apple": "https://maps.apple.com/?q=Kilowatt"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-11-02-music-1-wing-wednesdays-at-underdogs-660aa6",
+        "eid": "1-wing-wednesdays-at-und-2691",
+        "track": "music",
+        "category": "",
+        "name": "$1 Wing Wednesdays at Underdogs Cantina (SoMa)",
+        "day": "Wed",
+        "date": "2026-11-04",
+        "time": "16:30",
+        "start": null,
+        "end": null,
+        "area": "",
+        "venue": "Underdogs Cantina",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "",
+        "tags": [],
+        "sources": [
+          "https://sf.funcheap.com/1-wing-wednesdays-at-underdogs-cantina-soma-71/"
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=Underdogs%20Cantina",
+          "apple": "https://maps.apple.com/?q=Underdogs%20Cantina"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-11-02-music-blue-light-with-sassy-009-swor-940b23",
+        "eid": "blue-light-with-sassy-00-7122",
+        "track": "music",
+        "category": "",
+        "name": "Blue Light with Sassy 009, Swordes, & Tricky FM",
+        "day": "Wed",
+        "date": "2026-11-04",
+        "time": "",
+        "start": null,
+        "end": null,
+        "area": "",
+        "venue": "Brick & Mortar Music Hall",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "",
+        "tags": [],
+        "sources": [
+          {
+            "url": "https://dothebay.com/events/2026/11/4/sassy-009-tickets",
+            "hidden": true
+          }
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=Brick%20%26%20Mortar%20Music%20Hall",
+          "apple": "https://maps.apple.com/?q=Brick%20%26%20Mortar%20Music%20Hall"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-11-02-music-the-liminanas-rescheduled-to-m-dfb456",
+        "eid": "the-liminanas-reschedule-b37f",
+        "track": "music",
+        "category": "",
+        "name": "The Limiñanas (Rescheduled to May 15)",
+        "day": "Wed",
+        "date": "2026-11-04",
+        "time": "",
+        "start": null,
+        "end": null,
+        "area": "",
+        "venue": "The Chapel",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "",
+        "tags": [],
+        "sources": [
+          {
+            "url": "https://dothebay.com/events/2026/11/4/the-liminanas-tickets",
+            "hidden": true
+          }
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=The%20Chapel",
+          "apple": "https://maps.apple.com/?q=The%20Chapel"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-11-02-music-movie-night-the-big-lebowski-ce1933",
+        "eid": "movie-night-the-big-lebo-2e06",
+        "track": "music",
+        "category": "",
+        "name": "Movie Night   The Big Lebowski",
+        "day": "Wed",
+        "date": "2026-11-04",
+        "time": "",
+        "start": null,
+        "end": null,
+        "area": "",
+        "venue": "Uptown Theatre - Napa",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "",
+        "tags": [],
+        "sources": [
+          "https://dothebay.com/events/2026/11/4/movie-night-the-big-lebowski-tickets"
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=Uptown%20Theatre%20-%20Napa",
+          "apple": "https://maps.apple.com/?q=Uptown%20Theatre%20-%20Napa"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-11-02-music-buy-tickets-1cf5a8",
+        "eid": "buy-tickets-a782",
+        "track": "music",
+        "category": "",
+        "name": "Buy Tickets",
+        "day": "Thu",
+        "date": "2026-11-05",
+        "time": "",
+        "start": null,
+        "end": null,
+        "area": "",
+        "venue": "The Regency Ballroom",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "",
+        "tags": [],
+        "sources": [
+          {
+            "url": "https://www.theregencyballroom.com/shows",
+            "hidden": true
+          }
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=The%20Regency%20Ballroom",
+          "apple": "https://maps.apple.com/?q=The%20Regency%20Ballroom"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-11-02-music-local-500-function-500-w-fluxi-380e18",
+        "eid": "local-500-function-500-w-d93e",
+        "track": "music",
+        "category": "",
+        "name": "Local 500 & Function 500 w/ Fluxions, Vertigo, BAD JUUJU, AGROPOL, DJ Panderer",
+        "day": "Thu",
+        "date": "2026-11-05",
+        "time": "9pm",
+        "start": "21:00",
+        "end": null,
+        "area": "",
+        "venue": "Public Works (San Francisco)",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "",
+        "tags": [],
+        "sources": [
+          {
+            "url": "https://ra.co/events/2563539",
+            "hidden": true
+          }
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=Public%20Works%20%28San%20Francisco%29",
+          "apple": "https://maps.apple.com/?q=Public%20Works%20%28San%20Francisco%29"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-11-02-music-mixcraft-monthly-fb714c",
+        "eid": "mixcraft-monthly-2cd7",
+        "track": "music",
+        "category": "",
+        "name": "MixCraft Monthly",
+        "day": "Thu",
+        "date": "2026-11-05",
+        "time": "17:00",
+        "start": null,
+        "end": null,
+        "area": "",
+        "venue": "7th West",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "",
+        "tags": [],
+        "sources": [
+          "https://ra.co/events/2573111"
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=7th%20West",
+          "apple": "https://maps.apple.com/?q=7th%20West"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-11-02-music-music-is-the-answer-s-first-th-763e1c",
+        "eid": "music-is-the-answer-s-fi-d4a8",
+        "track": "music",
+        "category": "",
+        "name": "Music Is The Answer's First Thursdays: Navii's Bday Takeover - Navii, Techdelic, Lee Jones, IKKI, El Pa, Dr Gonzo, Okokye, Abesowavvy",
+        "day": "Thu",
+        "date": "2026-11-05",
+        "time": "9pm",
+        "start": "21:00",
+        "end": null,
+        "area": "",
+        "venue": "F8 1192 Folsom (San Francisco)",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "",
+        "tags": [],
+        "sources": [
+          {
+            "url": "https://ra.co/events/2568971",
+            "hidden": true
+          }
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=F8%201192%20Folsom%20%28San%20Francisco%29",
+          "apple": "https://maps.apple.com/?q=F8%201192%20Folsom%20%28San%20Francisco%29"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-11-02-music-shwayze-e990af",
+        "eid": "shwayze-1061",
+        "track": "music",
+        "category": "",
+        "name": "Shwayze",
+        "day": "Thu",
+        "date": "2026-11-05",
+        "time": "7pm",
+        "start": "19:00",
+        "end": null,
+        "area": "",
+        "venue": "Cornerstone (Berkeley)",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "",
+        "tags": [],
+        "sources": [
+          "https://www.prekindle.com/promo/id/-2852527949074266007"
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=Cornerstone%20%28Berkeley%29",
+          "apple": "https://maps.apple.com/?q=Cornerstone%20%28Berkeley%29"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-11-02-music-together-jeff-straw-spooki-bla-d78bfe",
+        "eid": "together-jeff-straw-spoo-fd75",
+        "track": "music",
+        "category": "",
+        "name": "Together: Jeff Straw, Spooki, Black Panda, Nile Santino, Taking Back Sundance, Baba MC, Dean Samaras, ISA",
+        "day": "Thu",
+        "date": "2026-11-05",
+        "time": "8pm",
+        "start": "20:00",
+        "end": null,
+        "area": "",
+        "venue": "Hawthorn (San Francisco)",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "",
+        "tags": [],
+        "sources": [
+          "https://www.eventbrite.com/e/together-new-monthly-first-thursdays-tickets-2003743844779"
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=Hawthorn%20%28San%20Francisco%29",
+          "apple": "https://maps.apple.com/?q=Hawthorn%20%28San%20Francisco%29"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-11-02-music-big-happy-presents-kon-amir-a84cd7",
+        "eid": "big-happy-presents-kon-a-60e2",
+        "track": "music",
+        "category": "",
+        "name": "Big Happy presents Kon & Amir",
+        "day": "Fri",
+        "date": "2026-11-06",
+        "time": "20:30",
+        "start": null,
+        "end": null,
+        "area": "",
+        "venue": "Arcana",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "",
+        "tags": [],
+        "sources": [
+          "https://ra.co/events/2572336"
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=Arcana",
+          "apple": "https://maps.apple.com/?q=Arcana"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-11-02-music-buy-tickets-1a61ec",
+        "eid": "buy-tickets-dbc6",
+        "track": "music",
+        "category": "",
+        "name": "Buy Tickets",
+        "day": "Fri",
+        "date": "2026-11-06",
+        "time": "",
+        "start": null,
+        "end": null,
+        "area": "",
+        "venue": "The Regency Ballroom",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "",
+        "tags": [],
+        "sources": [
+          {
+            "url": "https://www.theregencyballroom.com/shows",
+            "hidden": true
+          }
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=The%20Regency%20Ballroom",
+          "apple": "https://maps.apple.com/?q=The%20Regency%20Ballroom"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "https://api.party-scout.app/img/san-francisco/2026-11-02/buy-tickets-dbc6.jpg",
+        "image_generated": true,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-11-02-music-the-cut-up-psyched-radio-prese-92886d",
+        "eid": "the-cut-up-psyched-radio-67db",
+        "track": "music",
+        "category": "",
+        "name": "THE CUT UP & PSYCHED! RADIO PRESENT: DJ LOBOTTOMY ALL NIGHT LONG",
+        "day": "Fri",
+        "date": "2026-11-06",
+        "time": "22:00",
+        "start": null,
+        "end": null,
+        "area": "",
+        "venue": "Delirium San Francisco",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "",
+        "tags": [],
+        "sources": [
+          "https://ra.co/events/2572191"
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=Delirium%20San%20Francisco",
+          "apple": "https://maps.apple.com/?q=Delirium%20San%20Francisco"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-11-02-music-dirtybird-night-market-dj-sets-ba6a44",
+        "eid": "dirtybird-night-market-d-1641",
+        "track": "music",
+        "category": "Market",
+        "name": "Dirtybird Night Market: DJ Sets, Games & Cocktails at SF’s Thrive City",
+        "day": "Fri",
+        "date": "2026-11-06",
+        "time": "17:00",
+        "start": "17:00",
+        "end": "21:00",
+        "area": "San Francisco",
+        "venue": "Thrive City (San Francisco)",
+        "address": "1725 3rd St, San Francisco, CA",
+        "why": "For an evening of food, local vendors, and lively nighttime atmosphere.",
+        "summary": "Dirtybird Night Market is scheduled for November 6, 2026 at 200 Golf Club Rd in Pleasant Hill.",
+        "promoter": "",
+        "price": "free",
+        "tags": [
+          "market",
+          "outdoor",
+          "food",
+          "night"
+        ],
+        "sources": [
+          "https://sf.funcheap.com/dirtybird-night-market-dj-sets-games-cocktails-sfs-thrive-city/",
+          {
+            "url": "https://19hz.info/eventlisting_BayArea.php",
+            "hidden": true
+          },
+          "https://www.eventbrite.com/e/dirtybird-x-thrive-city-dirtybird-night-market-tickets-2002666865505",
+          "https://dothebay.com/events/2026/11/6/dirtybird-x-thrive-city-dirtybird-night-market-tickets",
+          "https://sf.funcheap.com/pleasant-hills-new-night-market-13/"
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=Thrive%20City%20%28San%20Francisco%29",
+          "apple": "https://maps.apple.com/?q=Thrive%20City%20%28San%20Francisco%29"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "https://cdn.funcheap.com/wp-content/uploads/2026/10/TC_BM_20260903_Dirtybird_DIGITAL_Generic_1005x600-80x80.avif",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-11-02-music-jam-session-with-creativity-ex-4a323b",
+        "eid": "jam-session-with-creativ-4f33",
+        "track": "music",
+        "category": "",
+        "name": "Jam Session with Creativity Explored",
+        "day": "Fri",
+        "date": "2026-11-06",
+        "time": "12:00",
+        "start": null,
+        "end": null,
+        "area": "",
+        "venue": "Yerba Buena Center for the Arts",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "",
+        "tags": [],
+        "sources": [
+          "https://sf.funcheap.com/jam-session-creativity-explored/"
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=Yerba%20Buena%20Center%20for%20the%20Arts",
+          "apple": "https://maps.apple.com/?q=Yerba%20Buena%20Center%20for%20the%20Arts"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-11-02-music-marin-arts-crafts-show-san-raf-d1e832",
+        "eid": "marin-arts-crafts-show-s-84bf",
+        "track": "music",
+        "category": "",
+        "name": "Marin Arts & Crafts Show (San Rafael)",
+        "day": "Fri",
+        "date": "2026-11-06",
+        "time": "10:00",
+        "start": null,
+        "end": null,
+        "area": "",
+        "venue": "Marin Center Fairgrounds",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "",
+        "tags": [],
+        "sources": [
+          "https://sf.funcheap.com/marin-arts-crafts-show-san-rafael/"
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=Marin%20Center%20Fairgrounds",
+          "apple": "https://maps.apple.com/?q=Marin%20Center%20Fairgrounds"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-11-02-music-nene-g-mediina-36fbdd",
+        "eid": "nene-g-mediina-2f03",
+        "track": "music",
+        "category": "",
+        "name": "Nene G + Mediina",
+        "day": "Fri",
+        "date": "2026-11-06",
+        "time": "21:00",
+        "start": null,
+        "end": null,
+        "area": "",
+        "venue": "Beauty Bar",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "",
+        "tags": [],
+        "sources": [
+          "https://ra.co/events/2572105"
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=Beauty%20Bar",
+          "apple": "https://maps.apple.com/?q=Beauty%20Bar"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-11-02-music-party-for-no-reason-inheat-dop-9c8c06",
+        "eid": "party-for-no-reason-inhe-902e",
+        "track": "music",
+        "category": "",
+        "name": "Party For No Reason: InHeat, Dopamino, Mawk, Pak2Pak, Sandtraps, Unico",
+        "day": "Fri",
+        "date": "2026-11-06",
+        "time": "9pm",
+        "start": "21:00",
+        "end": null,
+        "area": "",
+        "venue": "Underground (San Francisco)",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "",
+        "tags": [],
+        "sources": [
+          "https://partiful.com/e/GH2NdicAKY550tWEwi0H"
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=Underground%20%28San%20Francisco%29",
+          "apple": "https://maps.apple.com/?q=Underground%20%28San%20Francisco%29"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-11-02-music-pleasant-hill-night-market-foo-aad9a9",
+        "eid": "pleasant-hill-night-mark-a992",
+        "track": "music",
+        "category": "",
+        "name": "Pleasant Hill Night Market: Food, Music & Performances",
+        "day": "Fri",
+        "date": "2026-11-06",
+        "time": "17:00",
+        "start": null,
+        "end": null,
+        "area": "",
+        "venue": "",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "",
+        "tags": [],
+        "sources": [
+          "https://sf.funcheap.com/pleasant-hills-new-night-market-13/"
+        ],
+        "tickets": [],
+        "maps": {},
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-11-02-music-sasson-85e0d0",
+        "eid": "sasson-e49e",
+        "track": "music",
+        "category": "",
+        "name": "Sasson",
+        "day": "Fri",
+        "date": "2026-11-06",
+        "time": "9pm",
+        "start": "21:00",
+        "end": null,
+        "area": "",
+        "venue": "Madarae (San Francisco)",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "",
+        "tags": [],
+        "sources": [
+          "https://posh.vip/f/ef913?t=19hz"
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=Madarae%20%28San%20Francisco%29",
+          "apple": "https://maps.apple.com/?q=Madarae%20%28San%20Francisco%29"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-11-02-music-table-reservations-3a5c01",
+        "eid": "table-reservations-c990",
+        "track": "music",
+        "category": "",
+        "name": "Table Reservations",
+        "day": "Fri",
+        "date": "2026-11-06",
+        "time": "10:00pm",
+        "start": "22:00",
+        "end": null,
+        "area": "",
+        "venue": "Halcyon",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "",
+        "tags": [],
+        "sources": [
+          "https://halcyon-sf.com/main/table-reservations/"
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=Halcyon",
+          "apple": "https://maps.apple.com/?q=Halcyon"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-11-02-music-2026-san-francisco-fall-cider-bce36c",
+        "eid": "2026-san-francisco-fall-c48d",
+        "track": "music",
+        "category": "",
+        "name": "2026 San Francisco Fall Cider Fest (Unlimited Tastings of 30+ Ciders)",
+        "day": "Sat",
+        "date": "2026-11-07",
+        "time": "12:00",
+        "start": null,
+        "end": null,
+        "area": "",
+        "venue": "SPARK Social SF",
+        "address": "601 Mission Bay Blvd, San Francisco, CA",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "$45",
+        "tags": [],
+        "sources": [
+          "https://sf.funcheap.com/2026-san-francisco-fall-cider-fest-unlimited-tastings-of-30-ciders/"
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=601%20Mission%20Bay%20Blvd%2C%20San%20Francisco%2C%20CA",
+          "apple": "https://maps.apple.com/?q=601%20Mission%20Bay%20Blvd%2C%20San%20Francisco%2C%20CA"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "https://cdn.funcheap.com/wp-content/uploads/2025/10/Fall-Cider-Fest.webp",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-11-02-music-buy-now-6d98b8",
+        "eid": "buy-now-31b7",
+        "track": "music",
+        "category": "",
+        "name": "Buy Now",
+        "day": "Sat",
+        "date": "2026-11-07",
+        "time": "10:00pm",
+        "start": "22:00",
+        "end": null,
+        "area": "",
+        "venue": "Halcyon",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "",
+        "tags": [],
+        "sources": [
+          {
+            "url": "https://halcyon-sf.com/main/tickets/",
+            "hidden": true
+          }
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=Halcyon",
+          "apple": "https://maps.apple.com/?q=Halcyon"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-11-02-music-buy-tickets-68cb0d",
+        "eid": "buy-tickets-956e",
+        "track": "music",
+        "category": "",
+        "name": "Buy Tickets",
+        "day": "Sat",
+        "date": "2026-11-07",
+        "time": "",
+        "start": null,
+        "end": null,
+        "area": "",
+        "venue": "The Regency Ballroom",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "",
+        "tags": [],
+        "sources": [
+          {
+            "url": "https://www.theregencyballroom.com/shows",
+            "hidden": true
+          }
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=The%20Regency%20Ballroom",
+          "apple": "https://maps.apple.com/?q=The%20Regency%20Ballroom"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "https://api.party-scout.app/img/san-francisco/2026-11-02/buy-tickets-956e.jpg",
+        "image_generated": true,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-11-02-music-calling-all-scorpios-with-mphd-82ba63",
+        "eid": "calling-all-scorpios-wit-3e73",
+        "track": "music",
+        "category": "",
+        "name": "Calling All Scorpios with MPHD, Ceci G, and Jaysea",
+        "day": "Sat",
+        "date": "2026-11-07",
+        "time": "21:00",
+        "start": null,
+        "end": null,
+        "area": "",
+        "venue": "Monarch",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "",
+        "tags": [],
+        "sources": [
+          "https://ra.co/events/2572151"
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=Monarch",
+          "apple": "https://maps.apple.com/?q=Monarch"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-11-02-music-dr-gabba-narciss-dazegxd-4897ed",
+        "eid": "dr-gabba-narciss-dazegxd-c7fd",
+        "track": "music",
+        "category": "",
+        "name": "Dr. Gabba, Narciss, Dazegxd",
+        "day": "Sat",
+        "date": "2026-11-07",
+        "time": "9pm",
+        "start": "21:00",
+        "end": null,
+        "area": "",
+        "venue": "Public Works (San Francisco)",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "",
+        "tags": [],
+        "sources": [
+          "https://www.tixr.com/groups/publicsf/events/dr-gabba-narciss-dazegxd-presented-by-public-works-strapt-flux-aeterna-203290"
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=Public%20Works%20%28San%20Francisco%29",
+          "apple": "https://maps.apple.com/?q=Public%20Works%20%28San%20Francisco%29"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "https://api.party-scout.app/img/san-francisco/2026-11-02/dr-gabba-narciss-dazegxd-c7fd.jpg",
+        "image_generated": true,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-11-02-music-history-in-motion-free-grand-o-b9bdba",
+        "eid": "history-in-motion-free-g-e3a0",
+        "track": "music",
+        "category": "",
+        "name": "“History in Motion” Free Grand Opening Celebration (San Mateo County History Museum)",
+        "day": "Sat",
+        "date": "2026-11-07",
+        "time": "10:00",
+        "start": null,
+        "end": null,
+        "area": "",
+        "venue": "San Mateo County History Museum",
+        "address": "2200 Broadway Street, Redwood City, CA",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "",
+        "tags": [],
+        "sources": [
+          "https://sf.funcheap.com/history-motion-free-grand-opening-celebration-san-mateo-county-history-museum/"
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=2200%20Broadway%20Street%2C%20Redwood%20City%2C%20CA",
+          "apple": "https://maps.apple.com/?q=2200%20Broadway%20Street%2C%20Redwood%20City%2C%20CA"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "https://cdn.funcheap.com/wp-content/uploads/2026/09/Screenshot-2026-09-14-at-2.41.31-PM.png",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-11-02-music-mighty-real-w-special-guest-da-423952",
+        "eid": "mighty-real-w-special-gu-c9aa",
+        "track": "music",
+        "category": "",
+        "name": "Mighty Real w/ Special Guest Danny Krivit & David Harness",
+        "day": "Sat",
+        "date": "2026-11-07",
+        "time": "4pm",
+        "start": "16:00",
+        "end": null,
+        "area": "",
+        "venue": "Audio (San Francisco)",
+        "address": "316 11th St., San Francisco, CA 94103",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "$14.07-25.39",
+        "tags": [],
+        "sources": [
+          "https://www.eventbrite.com/e/mighty-real-w-special-guest-danny-krivit-david-harness-tickets-2002157626357"
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=316%2011th%20St.%2C%20San%20Francisco%2C%20CA%2094103",
+          "apple": "https://maps.apple.com/?q=316%2011th%20St.%2C%20San%20Francisco%2C%20CA%2094103"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1194211209%2F289015354170%2F1%2Foriginal.20260923-171217?crop=focalpoint&fit=crop&w=940&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=fb742c7a91a79b197cb2803ade5c72fd",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-11-02-music-rivo-fd9684",
+        "eid": "rivo-e3bb",
+        "track": "music",
+        "category": "",
+        "name": "Rivo",
+        "day": "Sat",
+        "date": "2026-11-07",
+        "time": "9pm",
+        "start": "21:00",
+        "end": null,
+        "area": "",
+        "venue": "Madarae (San Francisco)",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "",
+        "tags": [],
+        "sources": [
+          {
+            "url": "https://ra.co/events/2559719",
+            "hidden": true
+          }
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=Madarae%20%28San%20Francisco%29",
+          "apple": "https://maps.apple.com/?q=Madarae%20%28San%20Francisco%29"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-11-02-music-voon-54-a-studio-54-harvest-pa-76f3d7",
+        "eid": "voon-54-a-studio-54-harv-4929",
+        "track": "music",
+        "category": "",
+        "name": "VOON 54: A Studio 54 Harvest Party with VOON Wines",
+        "day": "Sat",
+        "date": "2026-11-07",
+        "time": "7–11pm",
+        "start": "19:00",
+        "end": "23:00",
+        "area": "",
+        "venue": "W San Francisco",
+        "address": "181 3rd St., San Francisco, CA 94103",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "",
+        "tags": [],
+        "sources": [
+          "https://dothebay.com/events/2026/11/7/voon-54-a-studio-54-harvest-party-with-voon-wines-tickets"
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=181%203rd%20St.%2C%20San%20Francisco%2C%20CA%2094103",
+          "apple": "https://maps.apple.com/?q=181%203rd%20St.%2C%20San%20Francisco%2C%20CA%2094103"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/34788649/589865e9-c8d4-403d-997f-d20ee2df3a36.jpg",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-11-02-music-buy-tickets-329560",
+        "eid": "buy-tickets-a54e",
+        "track": "music",
+        "category": "",
+        "name": "Buy Tickets",
+        "day": "Sun",
+        "date": "2026-11-08",
+        "time": "",
+        "start": null,
+        "end": null,
+        "area": "",
+        "venue": "The Regency Ballroom",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "",
+        "tags": [],
+        "sources": [
+          {
+            "url": "https://www.theregencyballroom.com/shows",
+            "hidden": true
+          }
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=The%20Regency%20Ballroom",
+          "apple": "https://maps.apple.com/?q=The%20Regency%20Ballroom"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "https://api.party-scout.app/img/san-francisco/2026-11-02/buy-tickets-a54e.jpg",
+        "image_generated": true,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-11-02-music-edward-said-between-worlds-20e5d2",
+        "eid": "edward-said-between-worl-b382",
+        "track": "music",
+        "category": "",
+        "name": "Edward Said: Between Worlds",
+        "day": "Sun",
+        "date": "2026-11-08",
+        "time": "",
+        "start": null,
+        "end": null,
+        "area": "",
+        "venue": "The Castro",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "",
+        "tags": [],
+        "sources": [
+          "https://dothebay.com/events/2026/11/8/edward-said-between-worlds-tickets"
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=The%20Castro",
+          "apple": "https://maps.apple.com/?q=The%20Castro"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-11-02-music-nia-archives-320963",
+        "eid": "nia-archives-78c9",
+        "track": "music",
+        "category": "",
+        "name": "Nia Archives",
+        "day": "Sun",
+        "date": "2026-11-08",
+        "time": "8pm",
+        "start": "20:00",
+        "end": null,
+        "area": "",
+        "venue": "The Regency Ballroom (San Francisco)",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "",
+        "tags": [],
+        "sources": [
+          "https://www.axs.com/events/1581521"
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=The%20Regency%20Ballroom%20%28San%20Francisco%29",
+          "apple": "https://maps.apple.com/?q=The%20Regency%20Ballroom%20%28San%20Francisco%29"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-11-02-music-pure-joy-1a52e4",
+        "eid": "pure-joy-d78f",
+        "track": "music",
+        "category": "",
+        "name": "[pure joy.]",
+        "day": "Sun",
+        "date": "2026-11-08",
+        "time": "14:00",
+        "start": null,
+        "end": null,
+        "area": "",
+        "venue": "The Faight",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "",
+        "tags": [],
+        "sources": [
+          "https://ra.co/events/2572869"
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=The%20Faight",
+          "apple": "https://maps.apple.com/?q=The%20Faight"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-11-02-music-san-francisco-diwali-festival-533a33",
+        "eid": "san-francisco-diwali-fes-8f10",
+        "track": "music",
+        "category": "",
+        "name": "San Francisco Diwali Festival at Yerba Buena Gardens 2026",
+        "day": "Sun",
+        "date": "2026-11-08",
+        "time": "13:00",
+        "start": null,
+        "end": null,
+        "area": "",
+        "venue": "Great Lawn, Yerba Buena Gardens",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "",
+        "tags": [],
+        "sources": [
+          "https://sf.funcheap.com/san-francisco-diwali-festival-yerba-buena-gardens-2026/"
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=Great%20Lawn%2C%20Yerba%20Buena%20Gardens",
+          "apple": "https://maps.apple.com/?q=Great%20Lawn%2C%20Yerba%20Buena%20Gardens"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-11-02-music-sf-s-inner-sunset-flea-market-953eb4",
+        "eid": "sf-s-inner-sunset-flea-m-d708",
+        "track": "music",
+        "category": "",
+        "name": "SF’s “Inner Sunset Flea Market” 2026 w/ Sunset Mercantile (Season Finale)",
+        "day": "Sun",
+        "date": "2026-11-08",
+        "time": "10:00",
+        "start": null,
+        "end": null,
+        "area": "",
+        "venue": "Inner Sunset",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "",
+        "tags": [],
+        "sources": [
+          "https://sf.funcheap.com/sfs-inner-sunset-flea-market-2026-w-sunset-mercantile-every-2nd-sunday-7/"
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=Inner%20Sunset",
+          "apple": "https://maps.apple.com/?q=Inner%20Sunset"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-11-02-music-sha-ray-8a700d",
+        "eid": "sha-ray-15b7",
+        "track": "music",
+        "category": "",
+        "name": "Sha Ray",
+        "day": "Sun",
+        "date": "2026-11-08",
+        "time": "7pm",
+        "start": "19:00",
+        "end": null,
+        "area": "",
+        "venue": "Bottom Of The Hill (San Francisco)",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "",
+        "tags": [],
+        "sources": [
+          "https://dice.fm/event/nvpap9-armand-hammer-sha-ray-dj-haram-8th-nov-bottom-of-the-hill-san-francisco-tickets"
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=Bottom%20Of%20The%20Hill%20%28San%20Francisco%29",
+          "apple": "https://maps.apple.com/?q=Bottom%20Of%20The%20Hill%20%28San%20Francisco%29"
         },
         "coords": null,
         "coords_precise": false,
@@ -9850,7 +11452,7 @@
         "name": "Flight Club: Adult Flight Night for Ages 18+ at \"House of Air\" Trampoline Park (SF)",
         "day": "Thu",
         "date": "2026-11-05",
-        "time": "7–9pm",
+        "time": "19:00",
         "start": "19:00",
         "end": "21:00",
         "area": "SF",
@@ -10010,7 +11612,7 @@
         "name": "Golden Gate Park Sunday Roller Disco Party (SF)",
         "day": "Sun",
         "date": "2026-11-08",
-        "time": "1–5pm",
+        "time": "13:00",
         "start": "13:00",
         "end": "17:00",
         "area": "Golden Gate Park",
@@ -10037,7 +11639,7 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "https://party-scout.app/img/gen/golden-gate-park-sunday-f121.jpg",
+        "image": "https://cdn.funcheap.com/wp-content/uploads/2013/07/13731811_736276556514976_6246483368894903244_o1.jpg",
         "image_generated": false,
         "popularity": 0,
         "enriched": 1,
@@ -10410,7 +12012,7 @@
         "id": "2026-11-02-sports-founders-running-club-easy-5-1-e4e403",
         "eid": "founders-running-club-ea-36f2",
         "track": "sports",
-        "category": "",
+        "category": "Sports",
         "name": "Founders Running Club :: Easy 5-10km Run + Talks",
         "day": "Sat",
         "date": "2026-11-07",
@@ -10419,17 +12021,26 @@
         "end": null,
         "area": "San Francisco",
         "venue": "William McKinley Monument, San Francisco, CA 94117, USA",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "San Francisco, CA 94117, USA, San Francisco, CA",
+        "why": "A friendly, no-pressure way to meet the SF startup crowd while getting a morning run in.",
+        "summary": "Weekly Saturday easy run for founders, investors and creators from the William McKinley Monument. 5K and 10K groups at conversational pace, short talks first, then coffee together.",
         "promoter": "",
-        "price": "",
-        "tags": [],
+        "price": "Free",
+        "tags": [
+          "running",
+          "outdoor",
+          "community",
+          "networking",
+          "founders",
+          "free"
+        ],
         "sources": [
           {
             "url": "https://www.meetup.com",
             "hidden": true
-          }
+          },
+          "https://www.meetup.com/founders-running-club/events/317036615",
+          "https://www.meetup.com/founders-running-club/events/317036615/"
         ],
         "tickets": [],
         "maps": {
@@ -10439,10 +12050,10 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://secure-content.meetupstatic.com/images/classic-events/536403724/676x676.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
@@ -10596,6 +12207,291 @@
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Marina%20Green%2C%20San%20Francisco%2C%20CA%2094123%2C%20USA%2C%20San%20Francisco",
           "apple": "https://maps.apple.com/?q=Marina%20Green%2C%20San%20Francisco%2C%20CA%2094123%2C%20USA%2C%20San%20Francisco"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-11-02-sports-free-ice-skating-lessons-at-un-2c43c0",
+        "eid": "free-ice-skating-lessons-2b11",
+        "track": "sports",
+        "category": "",
+        "name": "Free Ice Skating Lessons at Union Square Holiday Rink (Registration Opens)",
+        "day": "Mon",
+        "date": "2026-11-02",
+        "time": "10:00",
+        "start": null,
+        "end": null,
+        "area": "",
+        "venue": "",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "",
+        "tags": [],
+        "sources": [
+          "https://sf.funcheap.com/free-ice-skating-lessons-at-union-square-holiday-rink-registration-opens/"
+        ],
+        "tickets": [],
+        "maps": {},
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-11-02-sports-lake-to-ocean-a-nature-walk-25eafe",
+        "eid": "lake-to-ocean-a-nature-w-6e2d",
+        "track": "sports",
+        "category": "",
+        "name": "Lake to Ocean: A Nature Walk",
+        "day": "Mon",
+        "date": "2026-11-02",
+        "time": "17:00",
+        "start": null,
+        "end": null,
+        "area": "",
+        "venue": "1 Harding Road, 1 Harding Rd, San Francisco, CA 94132, USA",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "",
+        "tags": [],
+        "sources": [
+          "https://www.meetup.com/lakemerced/events/316969928/"
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=1%20Harding%20Road%2C%201%20Harding%20Rd%2C%20San%20Francisco%2C%20CA%2094132%2C%20USA",
+          "apple": "https://maps.apple.com/?q=1%20Harding%20Road%2C%201%20Harding%20Rd%2C%20San%20Francisco%2C%20CA%2094132%2C%20USA"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-11-02-sports-elevate-your-life-campfire-e924d3",
+        "eid": "elevate-your-life-campfi-6429",
+        "track": "sports",
+        "category": "",
+        "name": "Elevate Your Life: Campfire",
+        "day": "Tue",
+        "date": "2026-11-03",
+        "time": "19:30",
+        "start": null,
+        "end": null,
+        "area": "",
+        "venue": "2075 Burrows St, 2075 Burrows St",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "",
+        "tags": [],
+        "sources": [
+          "https://www.meetup.com/westbaymen/events/315635548/"
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=2075%20Burrows%20St%2C%202075%20Burrows%20St",
+          "apple": "https://maps.apple.com/?q=2075%20Burrows%20St%2C%202075%20Burrows%20St"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-11-02-sports-open-air-club-e338f2",
+        "eid": "open-air-club-c768",
+        "track": "sports",
+        "category": "",
+        "name": "Open Air Club",
+        "day": "Tue",
+        "date": "2026-11-03",
+        "time": "18:30",
+        "start": null,
+        "end": null,
+        "area": "",
+        "venue": "San Francisco Community Walk",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "",
+        "tags": [],
+        "sources": [
+          "https://www.meetup.com/san-francisco-walking-biking-camping-meetup-group/events/317059658/"
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=San%20Francisco%20Community%20Walk",
+          "apple": "https://maps.apple.com/?q=San%20Francisco%20Community%20Walk"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "https://api.party-scout.app/img/san-francisco/2026-11-02/open-air-club-c768.jpg",
+        "image_generated": true,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-11-02-sports-sf-s-holiday-ice-skating-rink-29f0a3",
+        "eid": "sf-s-holiday-ice-skating-2bde",
+        "track": "sports",
+        "category": "",
+        "name": "SF’s Holiday Ice Skating Rink at Union Square: 2026 Opening Ceremony + Free Ice Skating",
+        "day": "Wed",
+        "date": "2026-11-04",
+        "time": "10:00",
+        "start": null,
+        "end": null,
+        "area": "",
+        "venue": "Union Square Park",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "",
+        "tags": [],
+        "sources": [
+          "https://sf.funcheap.com/sfs-holiday-ice-skating-rink-at-union-square-opening-ceremony-free-ice-skating-union-square/"
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=Union%20Square%20Park",
+          "apple": "https://maps.apple.com/?q=Union%20Square%20Park"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-11-02-sports-when-was-the-last-time-you-pla-c9ed02",
+        "eid": "when-was-the-last-time-y-76dc",
+        "track": "sports",
+        "category": "",
+        "name": "When was the last time you played catch?",
+        "day": "Fri",
+        "date": "2026-11-06",
+        "time": "17:00",
+        "start": null,
+        "end": null,
+        "area": "",
+        "venue": "Philz Coffee Truck, 500 Marina Blvd",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "",
+        "tags": [],
+        "sources": [
+          "https://www.meetup.com/join-catchup/events/317029653/"
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=Philz%20Coffee%20Truck%2C%20500%20Marina%20Blvd",
+          "apple": "https://maps.apple.com/?q=Philz%20Coffee%20Truck%2C%20500%20Marina%20Blvd"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-11-02-sports-coastal-trail-lands-end-sutro-9a2009",
+        "eid": "coastal-trail-lands-end-f612",
+        "track": "sports",
+        "category": "",
+        "name": "Coastal Trail: Lands End, Sutro Baths & Cozy Brunch",
+        "day": "Sat",
+        "date": "2026-11-07",
+        "time": "09:00",
+        "start": null,
+        "end": null,
+        "area": "",
+        "venue": "The Holocaust Memorial, 100 34th Ave,",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "",
+        "tags": [],
+        "sources": [
+          "https://www.meetup.com/finding-your-people-in-sf-from-scenic-hikes-to-opera-dates/events/317201501/"
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=The%20Holocaust%20Memorial%2C%20100%2034th%20Ave%2C",
+          "apple": "https://maps.apple.com/?q=The%20Holocaust%20Memorial%2C%20100%2034th%20Ave%2C"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-11-02-sports-hike-one-of-the-bay-s-newest-t-819257",
+        "eid": "hike-one-of-the-bay-s-ne-3cc7",
+        "track": "sports",
+        "category": "",
+        "name": "Hike One of the Bay’s Newest Trails w/ Peninsula & Pacific Ocean Views (Redwood City)",
+        "day": "Sun",
+        "date": "2026-11-08",
+        "time": "11:00",
+        "start": null,
+        "end": null,
+        "area": "",
+        "venue": "Skyline Watershed Ridge Trail Parking Area",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "",
+        "tags": [],
+        "sources": [
+          "https://sf.funcheap.com/free-watershed-hike-peninsula-pacific-ocean-views-redwood-city/"
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=Skyline%20Watershed%20Ridge%20Trail%20Parking%20Area",
+          "apple": "https://maps.apple.com/?q=Skyline%20Watershed%20Ridge%20Trail%20Parking%20Area"
         },
         "coords": null,
         "coords_precise": false,
