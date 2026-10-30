@@ -2581,12 +2581,15 @@
         "end": null,
         "area": "San Francisco",
         "venue": "The Warfield",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "1111 California St., San Francisco, CA 94108",
+        "why": "To attend an evening event in central San Francisco on Nov 19.",
+        "summary": "An event titled “Roz” is scheduled for November 19, 2026 at 1111 California St., San Francisco, CA 94108.",
         "promoter": "",
         "price": "$43+",
-        "tags": [],
+        "tags": [
+          "event",
+          "nightlife"
+        ],
         "sources": [
           {
             "url": "https://19hz.info/eventlisting_BayArea.php",
@@ -2605,10 +2608,10 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/san-francisco/2026-11-16/roz-65a4.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
