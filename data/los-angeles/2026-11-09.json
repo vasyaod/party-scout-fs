@@ -5563,28 +5563,37 @@
         "id": "2026-11-09-music-sacro-after-party-sainte-vie-s-31714c",
         "eid": "sacro-after-party-sainte-d087",
         "track": "music",
-        "category": "",
+        "category": "Nightclub",
         "name": "Sacro After Party: Sainte Vie + Special Guests",
         "day": "Sat",
         "date": "2026-11-14",
         "time": "22:00-03:00",
-        "start": null,
-        "end": null,
+        "start": "22:00",
+        "end": "03:00",
         "area": "Los Angeles",
         "venue": "ORIGIN",
         "address": "",
-        "why": "",
-        "summary": "",
+        "why": "For late-night dancing and guest DJ sets.",
+        "summary": "After-party featuring Sainte Vie and special guests on November 14, 2026; $30 admission.",
         "promoter": "",
-        "price": "",
-        "tags": [],
+        "price": "$30",
+        "tags": [
+          "dj",
+          "party",
+          "late-night",
+          "paid"
+        ],
         "sources": [
           {
             "url": "https://ra.co/events/us/losangeles",
             "hidden": true
-          }
+          },
+          "https://ra.co/events/2565003"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://ra.co/events/us/losangeles",
+          "https://ra.co/events/2565003"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=ORIGIN%2C%20Los%20Angeles",
           "apple": "https://maps.apple.com/?q=ORIGIN%2C%20Los%20Angeles"
@@ -5592,10 +5601,10 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/los-angeles/2026-11-09/sacro-after-party-sainte-d087.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
@@ -5613,10 +5622,13 @@
         "venue": "Regent Theater",
         "address": "",
         "why": "",
-        "summary": "",
+        "summary": "Rich Medina appears in Los Angeles on 2026-11-15.",
         "promoter": "",
         "price": "",
-        "tags": [],
+        "tags": [
+          "dj",
+          "live"
+        ],
         "sources": [
           {
             "url": "https://edmtrain.com/los-angeles-ca",
@@ -5634,7 +5646,7 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
@@ -6317,28 +6329,36 @@
         "id": "2026-11-09-sports-the-doggie-run-4k-5k-dd1866",
         "eid": "the-doggie-run-4k-5k-4eb3",
         "track": "sports",
-        "category": "",
+        "category": "Sports",
         "name": "The Doggie Run 4K/5k",
         "day": "Sat",
         "date": "2026-11-14",
-        "time": "08:00",
+        "time": "8:00 AM",
         "start": null,
         "end": null,
-        "area": "Los Angeles",
-        "venue": "Griffith Park, Griffith Park",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "area": "Griffith Park",
+        "venue": "Griffith Park",
+        "address": "4800 Griffith Park Dr, Los Angeles, CA 90027",
+        "why": "Exercise with your dog and connect with other pet owners.",
+        "summary": "A 4K/5K running event for dog owners and their pets on November 14, 2026 in Los Angeles.",
         "promoter": "",
-        "price": "",
-        "tags": [],
+        "price": "$64.60–$79.44",
+        "tags": [
+          "outdoor",
+          "dogs",
+          "fitness",
+          "community"
+        ],
         "sources": [
           {
             "url": "https://www.meetup.com",
             "hidden": true
-          }
+          },
+          "https://runsignup.com/Race/CA/LosAngeles/DoggieRun3k"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://runsignup.com/Race/CA/LosAngeles/DoggieRun3k"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Griffith%20Park%2C%20Griffith%20Park%2C%20Los%20Angeles",
           "apple": "https://maps.apple.com/?q=Griffith%20Park%2C%20Griffith%20Park%2C%20Los%20Angeles"
@@ -6346,10 +6366,10 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/los-angeles/2026-11-09/the-doggie-run-4k-5k-4eb3.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
@@ -6453,7 +6473,7 @@
         "id": "2026-11-09-sports-gamers-get-gains-group-workout-b0fee5",
         "eid": "gamers-get-gains-group-w-4a07",
         "track": "sports",
-        "category": "",
+        "category": "Sports",
         "name": "Gamers Get GAINS (Group Workout)",
         "day": "Sun",
         "date": "2026-11-15",
@@ -6463,16 +6483,26 @@
         "area": "Los Angeles",
         "venue": "226 N Lake St, 226 N Lake St",
         "address": "",
-        "why": "",
-        "summary": "",
-        "promoter": "",
-        "price": "",
-        "tags": [],
+        "why": "Free, beginner-friendly and capped at 10 people, so you actually meet the crew while getting a workout in.",
+        "summary": "A gamified group workout from A Flock of Gamers: draw two cards from each deck and the cards set the routine you all do together, then cool off on the rooftop.",
+        "promoter": "A Flock of Gamers",
+        "price": "Free",
+        "tags": [
+          "fitness",
+          "gaming",
+          "group",
+          "community",
+          "gamers",
+          "meetup",
+          "free",
+          "rooftop"
+        ],
         "sources": [
           {
             "url": "https://www.meetup.com",
             "hidden": true
-          }
+          },
+          "https://www.meetup.com/aflockofgamers/events/316277323/"
         ],
         "tickets": [],
         "maps": {
@@ -6482,10 +6512,10 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/los-angeles/2026-11-09/gamers-get-gains-group-w-4a07.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {

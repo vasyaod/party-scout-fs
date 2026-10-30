@@ -5765,14 +5765,19 @@
         "area": "Los Angeles",
         "venue": "TBA",
         "address": "",
-        "why": "For a single evening that brings several artists together.",
-        "summary": "A night on 2026-11-08 in Los Angeles featuring Sol, Lix, Phumas, Smalliebigz, Otomoto, Sylknet, and Master Flynn.",
-        "promoter": "",
+        "why": "A sunny Sunday afternoon rave with a deep local lineup and open decks, location revealed only to those in the know.",
+        "summary": "Helipad Society's HPS091 daytime pop-up: a seven-act house and EDM lineup plus open decks, held at a secret LA location.",
+        "promoter": "Helipad Society",
         "price": "",
         "tags": [
           "dj",
           "live",
-          "night"
+          "night",
+          "house",
+          "EDM",
+          "open decks",
+          "day party",
+          "pop-up"
         ],
         "sources": [
           {
@@ -5788,11 +5793,12 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/los-angeles/2026-11-02/sol-lix-phumas-smalliebi-707d.jpg",
         "image_generated": false,
         "popularity": 0,
         "enriched": 1,
-        "active": true
+        "active": true,
+        "lineup": []
       }
     ],
     "sports": [
@@ -6769,16 +6775,19 @@
         "day": "Sun",
         "date": "2026-11-08",
         "time": "08:00",
-        "start": null,
-        "end": null,
+        "start": "08:00",
+        "end": "13:00",
         "area": "Los Angeles",
         "venue": "tbd, west Los Angeles restaurant",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "west Los Angeles restaurant, los Angeles, CA",
+        "why": "For a local restaurant night in West Los Angeles.",
+        "summary": "An event titled \"Strawberry Peak 🍓 via Redbox Canyon\" is scheduled for 2026-11-08 at a west Los Angeles restaurant.",
         "promoter": "",
-        "price": "",
-        "tags": [],
+        "price": "Free",
+        "tags": [
+          "restaurant",
+          "indoor"
+        ],
         "sources": [
           "https://www.meetup.com/yoprohikes/events/316520629/",
           {
@@ -6794,10 +6803,10 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/los-angeles/2026-11-02/strawberry-peak-via-redb-f11c.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       }
     ]
