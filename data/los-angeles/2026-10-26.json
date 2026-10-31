@@ -12517,7 +12517,7 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/los-angeles/2026-10-26/chubby-mart-pop-up-hallo-ebeb.jpg",
         "image_generated": false,
         "popularity": 0,
         "enriched": 1,
@@ -12533,19 +12533,24 @@
         "date": "2026-10-30",
         "time": "9pm",
         "start": "21:00",
-        "end": null,
+        "end": "01:00",
         "area": "Irvine",
         "venue": "Dave & Buster's",
-        "address": "",
+        "address": "661 Spectrum Center Drive, Irvine, California 92618",
         "why": "",
-        "summary": "",
+        "summary": "Dnbnl is scheduled for October 30, 2026 at 661 Spectrum Center Drive in Irvine, CA.",
         "promoter": "",
         "price": "$50+",
-        "tags": [],
+        "tags": [
+          "dj",
+          "nightlife"
+        ],
         "sources": [
           "https://dice.fm/partner/tickets/event/pynxml-bl-presents-rave-busters-irvine-30th-oct-dave-busters-irvine-irvine-tickets"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://dice.fm/partner/tickets/event/pynxml-bl-presents-rave-busters-irvine-30th-oct-dave-busters-irvine-irvine-tickets"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Dave%20%26%20Buster%27s%2C%20Irvine",
           "apple": "https://maps.apple.com/?q=Dave%20%26%20Buster%27s%2C%20Irvine"
@@ -12553,35 +12558,42 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/los-angeles/2026-10-26/dnbnl-be93.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
         "id": "2026-10-26-music-freakquencies-x-the-hollywood-d7fa09",
         "eid": "freakquencies-x-the-holl-416f",
         "track": "music",
-        "category": "",
+        "category": "Nightclub",
         "name": "Freakquencies X The Hollywood Roosevelt present Halloween",
         "day": "Fri",
         "date": "2026-10-30",
         "time": "8:00 PM",
         "start": "20:00",
         "end": null,
-        "area": "",
+        "area": "Hollywood",
         "venue": "The Hollywood Roosevelt",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "7000 Hollywood Boulevard, Los Angeles, CA 90028",
+        "why": "For a lively Halloween night out with costumes and dancing.",
+        "summary": "A Halloween event presented by Freakquencies and The Hollywood Roosevelt on October 30, 2026, at 7000 Hollywood Boulevard in Hollywood.",
         "promoter": "",
         "price": "from $132.87",
-        "tags": [],
+        "tags": [
+          "halloween",
+          "party",
+          "costume",
+          "21+"
+        ],
         "sources": [
           "https://www.eventbrite.com/e/freakquencies-x-the-hollywood-roosevelt-present-halloween-tickets-2002320030111"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://www.eventbrite.com/e/freakquencies-x-the-hollywood-roosevelt-present-halloween-tickets-2002320030111"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=The%20Hollywood%20Roosevelt",
           "apple": "https://maps.apple.com/?q=The%20Hollywood%20Roosevelt"
@@ -12589,31 +12601,39 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/los-angeles/2026-10-26/freakquencies-x-the-holl-416f.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
         "id": "2026-10-26-music-freaks-night-out-hard-techno-7213a8",
         "eid": "freaks-night-out-hard-te-8386",
         "track": "music",
-        "category": "",
+        "category": "Nightclub",
         "name": "FREAKS NIGHT OUT | HARD TECHNO",
         "day": "Fri",
         "date": "2026-10-30",
-        "time": "",
-        "start": null,
-        "end": null,
-        "area": "",
+        "time": "11:59pm–6am",
+        "start": "23:59",
+        "end": "06:00",
+        "area": "Los Angeles",
         "venue": "Los Angeles",
         "address": "",
-        "why": "",
-        "summary": "",
+        "why": "Hard techno night with a stacked local and touring lineup; free before 2am makes it an easy way in.",
+        "summary": "Freaks Night Out brings a hard techno lineup to Los Angeles with Julia Kova, Ariadna Sanjuan, Inner Demonz, Zayphoria and Kitty Logic, running late into the morning.",
         "promoter": "",
-        "price": "",
-        "tags": [],
+        "price": "free b4 2am / $10-22",
+        "tags": [
+          "hard-techno",
+          "dj",
+          "late-night",
+          "free-before-2am",
+          "hard techno",
+          "techno",
+          "late night"
+        ],
         "sources": [
           "https://edmtrain.com/los-angeles-ca",
           "https://edmtrain.com/los-angeles-ca/freaks-night-out-hard-techno-548670"
@@ -12629,32 +12649,40 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
-        "active": true
+        "enriched": 1,
+        "active": true,
+        "lineup": []
       },
       {
         "id": "2026-10-26-music-free-event-chencho-corleone-y-76aaf6",
         "eid": "free-event-chencho-corle-3239",
         "track": "music",
-        "category": "",
+        "category": "Concert",
         "name": "FREE EVENT! Chencho Corleone y Mas! GRATIS!",
         "day": "Fri",
         "date": "2026-10-30",
         "time": "5:00 PM",
         "start": "17:00",
         "end": null,
-        "area": "",
+        "area": "DTLA",
         "venue": "Pershing Square",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "532 S Olive St, Los Angeles, CA 90013",
+        "why": "To catch a free, high-energy Latin urban performance in downtown LA.",
+        "summary": "Free event on 2026-10-30 at 532 S Olive St in Downtown Los Angeles listed as featuring Chencho Corleone.",
         "promoter": "",
         "price": "Free",
-        "tags": [],
+        "tags": [
+          "free",
+          "latin",
+          "reggaeton",
+          "live"
+        ],
         "sources": [
           "https://www.eventbrite.com/e/free-event-chencho-corleone-y-mas-gratis-tickets-2002957014348"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://www.eventbrite.com/e/free-event-chencho-corleone-y-mas-gratis-tickets-2002957014348"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Pershing%20Square",
           "apple": "https://maps.apple.com/?q=Pershing%20Square"
@@ -12662,17 +12690,17 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/los-angeles/2026-10-26/free-event-chencho-corle-3239.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
         "id": "2026-10-26-music-grand-opening-at-community-lou-edb30d",
         "eid": "grand-opening-at-communi-841b",
         "track": "music",
-        "category": "",
+        "category": "Nightclub",
         "name": "Grand Opening at Community Lounge: Rob Moskavi & Friends",
         "day": "Fri",
         "date": "2026-10-30",
@@ -12682,11 +12710,19 @@
         "area": "Costa Mesa",
         "venue": "2968 Randolph Avenue",
         "address": "",
-        "why": "",
-        "summary": "",
+        "why": "A fresh Costa Mesa dance room opening its doors on a Friday night, with a full 9pm–2am run and an affordable ticket.",
+        "summary": "Community Lounge in Costa Mesa celebrates its grand opening with Rob Moskavi and friends on the decks, 9pm to 2am. Tickets run $10-23 via Shotgun.",
         "promoter": "",
         "price": "$10-23",
-        "tags": [],
+        "tags": [
+          "live",
+          "party",
+          "community",
+          "house",
+          "disco",
+          "grand-opening",
+          "costa-mesa"
+        ],
         "sources": [
           "https://shotgun.live/en/events/loco-disco-presents-grand-opening-community-lounge"
         ],
@@ -12698,10 +12734,10 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
-        "image_generated": false,
+        "image": "https://api.party-scout.app/img/los-angeles/2026-10-26/grand-opening-at-communi-c5cb.jpg",
+        "image_generated": true,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
