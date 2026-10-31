@@ -6837,17 +6837,20 @@
         "time": "9pm–3am",
         "start": "21:00",
         "end": "03:00",
-        "area": "Los Angeles",
+        "area": "DTLA",
         "venue": "6 Degrees Studio",
-        "address": "",
-        "why": "For a late-night club night with a featured performer.",
-        "summary": "Marsh Pit Featuring Splata takes place November 14, 2026 in Los Angeles from 9pm–3am.",
+        "address": "664 S Anderson St, Los Angeles, CA",
+        "why": "A full swamp-bass lineup on a proper Lantern sound system, 9pm to 3am.",
+        "summary": "Swampy bass music all night long at 6 Degrees Studio, headlined by Splata with Blake Webber, Cattle Prod and more, on Lantern Sound Design.",
         "promoter": "",
         "price": "$46",
         "tags": [
           "dj",
           "late-night",
-          "club"
+          "club",
+          "bass",
+          "dubstep",
+          "warehouse"
         ],
         "sources": [
           "https://posh.vip/e/splata"
@@ -6860,31 +6863,36 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/los-angeles/2026-11-09/marsh-pit-featuring-spla-7ceb.jpg",
         "image_generated": false,
         "popularity": 0,
         "enriched": 1,
-        "active": true
+        "active": true,
+        "lineup": []
       },
       {
         "id": "2026-11-09-music-minty-boi-presents-suzy-sheer-515ee0",
         "eid": "minty-boi-presents-suzy-e64d",
         "track": "music",
-        "category": "",
+        "category": "Concert",
         "name": "Minty Boi Presents: Suzy Sheer",
         "day": "Sat",
         "date": "2026-11-14",
-        "time": "",
-        "start": null,
-        "end": null,
+        "time": "6–10:30pm",
+        "start": "18:00",
+        "end": "22:30",
         "area": "Los Angeles, CA",
         "venue": "1720",
         "address": "",
-        "why": "",
-        "summary": "",
+        "why": "For an affordable evening event with a live set on a Saturday night.",
+        "summary": "Minty Boi presents Suzy Sheer in Los Angeles on November 14, 2026; the event runs 6–10:30pm and tickets are $29.",
         "promoter": "",
-        "price": "",
-        "tags": [],
+        "price": "$29",
+        "tags": [
+          "live",
+          "ticketed",
+          "evening"
+        ],
         "sources": [
           "https://edmtrain.com/los-angeles-ca/minty-boi-presents-suzy-sheer-529897"
         ],
@@ -6899,32 +6907,39 @@
         "image": "https://api.party-scout.app/img/los-angeles/2026-11-09/minty-boi-presents-suzy-e64d.jpg",
         "image_generated": true,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
         "id": "2026-11-09-music-nachturnal-events-presents-dom-c7cd4e",
         "eid": "nachturnal-events-presen-08d0",
         "track": "music",
-        "category": "",
+        "category": "Nightclub",
         "name": "Nachturnal Events Presents ' Domination'",
         "day": "Sat",
         "date": "2026-11-14",
-        "time": "",
+        "time": "11:30pm–5am",
         "start": "23:30",
-        "end": null,
+        "end": "05:00",
         "area": "Los Angeles",
         "venue": "Drachaus",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "1625 Trinity St, Los Angeles, CA 90015",
+        "why": "For an all-night dance party and late-hours vibes in downtown LA.",
+        "summary": "Late-night club event presented by Nachturnal Events at 1625 Trinity St in DTLA on November 14, 2026, running 11:30pm–5am.",
         "promoter": "",
         "price": "$33.85-44.52",
-        "tags": [],
+        "tags": [
+          "nightclub",
+          "late-night",
+          "21+",
+          "dj"
+        ],
         "sources": [
           "https://www.eventbrite.com/e/nachturnal-events-presents-domination-tickets-2003844099644"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://www.eventbrite.com/e/nachturnal-events-presents-domination-tickets-2003844099644"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Drachaus%2C%20Los%20Angeles",
           "apple": "https://maps.apple.com/?q=Drachaus%2C%20Los%20Angeles"
@@ -6932,38 +6947,45 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/los-angeles/2026-11-09/nachturnal-events-presen-08d0.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
         "id": "2026-11-09-music-observe-24-year-anniversary-ch-15e14a",
         "eid": "observe-24-year-annivers-6976",
         "track": "music",
-        "category": "",
+        "category": "Nightclub",
         "name": "Observe 24 Year Anniversary // Chris Liebing, Truncate",
         "day": "Sat",
         "date": "2026-11-14",
-        "time": "",
+        "time": "11pm–6am",
         "start": "23:00",
-        "end": null,
+        "end": "06:00",
         "area": "DTLA/Los Angeles",
         "venue": "TBA",
         "address": "",
-        "why": "",
-        "summary": "",
+        "why": "For an extended late-night techno set from veteran DJs.",
+        "summary": "A 24-year anniversary party for Observe featuring techno artists Chris Liebing and Truncate, running 11pm–6am.",
         "promoter": "",
         "price": "$35 b4 12 / $52-63",
-        "tags": [],
+        "tags": [
+          "techno",
+          "dj",
+          "21+",
+          "late-night"
+        ],
         "sources": [
           {
             "url": "https://ra.co/events/2515135",
             "hidden": true
           }
         ],
-        "tickets": [],
+        "tickets": [
+          "https://ra.co/events/2515135"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=DTLA/Los%20Angeles",
           "apple": "https://maps.apple.com/?q=DTLA/Los%20Angeles"
@@ -6972,9 +6994,9 @@
         "coords_precise": false,
         "ra": {},
         "image": "https://api.party-scout.app/img/los-angeles/2026-11-09/observe-24-year-annivers-6976.jpg",
-        "image_generated": true,
+        "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
@@ -6988,14 +7010,17 @@
         "time": "",
         "start": null,
         "end": null,
-        "area": "Los Angeles, CA",
+        "area": "Los Angeles",
         "venue": "Grand Park",
         "address": "",
-        "why": "",
-        "summary": "",
+        "why": "To attend a nightlife event in Los Angeles on that date.",
+        "summary": "SACRO: MËSTIZA is an event scheduled for 2026-11-14 in Los Angeles; venue and lineup details have not been provided.",
         "promoter": "",
         "price": "",
-        "tags": [],
+        "tags": [
+          "nightlife",
+          "event"
+        ],
         "sources": [
           "https://edmtrain.com/los-angeles-ca/sacro-mestiza-528887"
         ],
@@ -7010,68 +7035,82 @@
         "image": "https://api.party-scout.app/img/los-angeles/2026-11-09/sacro-mestiza-b860.jpg",
         "image_generated": true,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
         "id": "2026-11-09-music-sneak-s-birthday-beats-2026-426907",
         "eid": "sneak-s-birthday-beats-2-e939",
         "track": "music",
-        "category": "",
+        "category": "Nightclub",
         "name": "SNEAK'S BIRTHDAY BEATS 2026",
         "day": "Sat",
         "date": "2026-11-14",
-        "time": "",
+        "time": "4pm–2am",
         "start": "16:00",
-        "end": null,
-        "area": "",
+        "end": "02:00",
+        "area": "Los Angeles",
         "venue": "TBA - 2341 E Olympic Blvd Los Angeles, CA  90021",
         "address": "",
-        "why": "",
-        "summary": "",
+        "why": "For an all-day into late-night celebration with flexible ticket options.",
+        "summary": "A birthday-themed music event on November 14, 2026, running 4pm–2am. Tickets are $30 for one day and $50–$90 for two-day passes.",
         "promoter": "",
-        "price": "",
-        "tags": [],
+        "price": "$30 1 day / $50-90 2 days",
+        "tags": [
+          "party",
+          "birthday",
+          "ticketed",
+          "evening"
+        ],
         "sources": [
           {
             "url": "https://ra.co/events/2499458",
             "hidden": true
           }
         ],
-        "tickets": [],
+        "tickets": [
+          "https://ra.co/events/2499458"
+        ],
         "maps": {},
         "coords": null,
         "coords_precise": false,
         "ra": {},
         "image": "https://api.party-scout.app/img/los-angeles/2026-11-09/sneak-s-birthday-beats-2-e939.jpg",
-        "image_generated": true,
+        "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
         "id": "2026-11-09-music-spacious-textural-ep-release-p-1f7bae",
         "eid": "spacious-textural-ep-rel-da69",
         "track": "music",
-        "category": "",
+        "category": "Nightclub",
         "name": "Spacious - Textural EP Release Party",
         "day": "Sat",
         "date": "2026-11-14",
-        "time": "",
+        "time": "9pm–2am",
         "start": "21:00",
-        "end": null,
-        "area": "",
+        "end": "02:00",
+        "area": "DTLA",
         "venue": "Bar Franca",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "438 S Main St, Los Angeles, CA 90013",
+        "why": "Free late-night DTLA event for new music and dancing.",
+        "summary": "Spacious — Textural EP release party is scheduled for 2026-11-14 at 438 S Main St, Los Angeles, running 9pm–2am. Admission is free.",
         "promoter": "",
-        "price": "",
-        "tags": [],
+        "price": "Free",
+        "tags": [
+          "free",
+          "music",
+          "dance",
+          "late-night"
+        ],
         "sources": [
           "https://ra.co/events/2570302"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://ra.co/events/2570302"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Bar%20Franca",
           "apple": "https://maps.apple.com/?q=Bar%20Franca"
@@ -7079,10 +7118,10 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/los-angeles/2026-11-09/spacious-textural-ep-rel-da69.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
