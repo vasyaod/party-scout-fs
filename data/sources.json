@@ -268,9 +268,9 @@
       "track": ["sports"],
       "focus": "cycling",
       "fetch": ["web_search"],
-      "status": "active",
+      "status": "documented",
       "aliases": ["sfbike.org"],
-      "notes": "Group rides, Critical Mass."
+      "notes": "Group rides, Critical Mass. PARKED 2026-10-31 (party-scout-agent#318): sfbike.org refuses every read the scanner may make: plain HTTP is a 403 on /events/, /events/?ical=1, /feed/ and /wp-json/tribe/events/v1/events, and a real Chrome in the Remote Browser Service stays on Cloudflare's \"Performing security verification\" page. Its only route was the scan model's web search, which found 0 rows in 39 of 55 harvests and 20 rows in total. Parking it frees an SF collect budget slot for runningintheusa. Re-check 2026-12-31; re-activate when the site, or a feed of its calendar, answers a plain GET or RBS."
     },
 
     {
