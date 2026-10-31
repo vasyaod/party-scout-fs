@@ -5,7 +5,7 @@
   "location": "Los Angeles & SoCal",
   "city": "los-angeles",
   "city_label": "Los Angeles",
-  "generated_at": "2026-10-09",
+  "generated_at": "2026-10-31",
   "tracks": {
     "music": [
       {
@@ -259,53 +259,6 @@
         "active": true
       },
       {
-        "id": "2026-09-14-music-axel-boman-f4dd5c",
-        "eid": "axel-boman-2eec",
-        "track": "music",
-        "category": "House",
-        "name": "Axel Boman",
-        "day": "Wed",
-        "date": "2026-09-16",
-        "time": "7pm-12am",
-        "start": "19:00",
-        "end": "00:00",
-        "area": "DTLA",
-        "venue": "Bar Franca",
-        "address": "438 S Main St, Los Angeles, CA 90013",
-        "why": "A rare mid-week, all-night open-to-close set from Swedish house heavyweight Axel Boman with no cover",
-        "summary": "Midnight Lovers presents Axel Boman taking over Bar Franca's sound room from open to close, a free RSVP mid-week session in DTLA.",
-        "promoter": "",
-        "price": "Free",
-        "tags": [
-          "house",
-          "electronica",
-          "free",
-          "midweek"
-        ],
-        "sources": [
-          "https://ra.co/events/2532519"
-        ],
-        "tickets": [],
-        "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=Bar%20Franca%2C%20Los%20Angeles%2C%20CA",
-          "apple": "https://maps.apple.com/?q=Bar%20Franca%2C%20Los%20Angeles%2C%20CA"
-        },
-        "coords": null,
-        "coords_precise": false,
-        "ra": {},
-        "image": "",
-        "image_generated": false,
-        "popularity": 0,
-        "enriched": 1,
-        "active": true,
-        "lineup": [
-          {
-            "name": "Axel Boman",
-            "instagram": null
-          }
-        ]
-      },
-      {
         "id": "2026-09-14-music-midnight-lovers-axel-boman-a945a6",
         "eid": "midnight-lovers-axel-bom-aad0",
         "track": "music",
@@ -327,7 +280,8 @@
           "house",
           "free",
           "residency",
-          "midweek"
+          "midweek",
+          "electronica"
         ],
         "sources": [
           "https://ra.co/events/2532519",
@@ -438,49 +392,6 @@
         "active": true
       },
       {
-        "id": "2026-09-14-music-daniel-avery-touching-ice-draa-a4fa4f",
-        "eid": "daniel-avery-touching-ic-69a2",
-        "track": "music",
-        "category": "Electronic",
-        "name": "Daniel Avery, Touching Ice, Draag",
-        "day": "Thu",
-        "date": "2026-09-17",
-        "time": "9pm",
-        "start": "21:00",
-        "end": null,
-        "area": "Mid-Wilshire",
-        "venue": "El Rey Theatre LA",
-        "address": "5515 Wilshire Blvd, Los Angeles, CA 90036",
-        "why": "A rare LA live set from acclaimed techno/electronic producer Daniel Avery.",
-        "summary": "UK electronic producer Daniel Avery brings his live show to the El Rey Theatre, with support from Touching Ice and Draag.",
-        "promoter": "",
-        "price": "$46",
-        "tags": [
-          "electronic",
-          "techno",
-          "live"
-        ],
-        "sources": [
-          "https://www.songkick.com/concerts/43287583-daniel-avery-at-el-rey-theatre",
-          "https://www.eventticketscenter.com/daniel-avery-los-angeles-09-17-2026/8098707/t"
-        ],
-        "tickets": [
-          "https://www.axs.com/events/1485526/daniel-avery-tickets"
-        ],
-        "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=El%20Rey%20Theatre%20LA%2C%20Los%20Angeles%2C%20CA",
-          "apple": "https://maps.apple.com/?q=El%20Rey%20Theatre%20LA%2C%20Los%20Angeles%2C%20CA"
-        },
-        "coords": null,
-        "coords_precise": false,
-        "ra": {},
-        "image": "",
-        "image_generated": false,
-        "popularity": 0,
-        "enriched": 1,
-        "active": true
-      },
-      {
         "id": "2026-09-14-music-daniel-avery-362168",
         "eid": "daniel-avery-efef",
         "track": "music",
@@ -497,22 +408,26 @@
         "why": "A rare intimate LA club date from the acclaimed Drone Logic and Ultra Truth producer.",
         "summary": "UK producer Daniel Avery brings his atmospheric techno and driving electronic soundscapes to the El Rey Theatre.",
         "promoter": "",
-        "price": "",
+        "price": "$46",
         "tags": [
           "electronic",
           "dj",
-          "live"
+          "live",
+          "techno"
         ],
         "sources": [
           "https://songkick.com/concerts/43287583-daniel-avery-at-el-rey-theatre",
-          "https://ra.co/events/2479840"
+          "https://ra.co/events/2479840",
+          "https://www.songkick.com/concerts/43287583-daniel-avery-at-el-rey-theatre",
+          "https://www.eventticketscenter.com/daniel-avery-los-angeles-09-17-2026/8098707/t"
         ],
         "tickets": [
-          "https://ra.co/events/2479840"
+          "https://ra.co/events/2479840",
+          "https://www.axs.com/events/1485526/daniel-avery-tickets"
         ],
         "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=El%20Rey%2C%20Los%20Angeles%2C%20CA",
-          "apple": "https://maps.apple.com/?q=El%20Rey%2C%20Los%20Angeles%2C%20CA"
+          "google": "https://www.google.com/maps/search/?api=1&query=El%20Rey%20Theatre%20LA%2C%20Los%20Angeles%2C%20CA",
+          "apple": "https://maps.apple.com/?q=El%20Rey%20Theatre%20LA%2C%20Los%20Angeles%2C%20CA"
         },
         "coords": null,
         "coords_precise": false,
@@ -623,7 +538,8 @@
         "price": "Free",
         "tags": [
           "free",
-          "late-night"
+          "late-night",
+          "party"
         ],
         "sources": [
           "https://ra.co/events/2528994"
@@ -632,8 +548,8 @@
           "https://ra.co/events/2528994"
         ],
         "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=Zero%20Lounge%2C%20Los%20Angeles%2C%20CA",
-          "apple": "https://maps.apple.com/?q=Zero%20Lounge%2C%20Los%20Angeles%2C%20CA"
+          "google": "https://www.google.com/maps/search/?api=1&query=Zero%20Lounge%2C%20Los%20Angeles",
+          "apple": "https://maps.apple.com/?q=Zero%20Lounge%2C%20Los%20Angeles"
         },
         "coords": null,
         "coords_precise": false,
@@ -660,10 +576,12 @@
         "address": "1923 E 7th St, Long Beach, CA 90813",
         "why": "A small curated techno night in Long Beach with a stated sound concept, not just a generic listing.",
         "summary": "MUSEO 003 is the third installment of a curated techno series by Shay De Castro blending nature and machine soundscapes.",
-        "promoter": "",
+        "promoter": "Shay De Castro",
         "price": "$10",
         "tags": [
-          "techno"
+          "techno",
+          "underground",
+          "21+"
         ],
         "sources": [
           "https://ra.co/events/2520080"
@@ -809,49 +727,6 @@
         "active": true
       },
       {
-        "id": "2026-09-14-music-shay-de-castro-tattoopudge-ba2924",
-        "eid": "shay-de-castro-tattoopud-7409",
-        "track": "music",
-        "category": "Concert",
-        "name": "Shay De Castro, Tattoopudge",
-        "day": "Thu",
-        "date": "2026-09-17",
-        "time": "21:00-02:00",
-        "start": "21:00",
-        "end": "02:00",
-        "area": "Long Beach",
-        "venue": "Que Sera",
-        "address": "1923 E 7th St, Long Beach, CA 90813",
-        "why": "Third installment of Shay De Castro's own MUSEO techno series in Que Sera's small dive-bar room.",
-        "summary": "MUSEO 003, a curated techno night by Shay De Castro at Que Sera, immersing the room in a soundscape converging nature and machines, with support from Tattoopudge.",
-        "promoter": "Shay De Castro",
-        "price": "$10",
-        "tags": [
-          "techno",
-          "underground",
-          "21+"
-        ],
-        "sources": [
-          "https://ra.co/events/2520080"
-        ],
-        "tickets": [
-          "https://ra.co/events/2520080"
-        ],
-        "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=Que%20Sera%2C%20Long%20Beach%2C%20CA",
-          "apple": "https://maps.apple.com/?q=Que%20Sera%2C%20Long%20Beach%2C%20CA"
-        },
-        "coords": null,
-        "coords_precise": false,
-        "ra": {},
-        "image": "https://party-scout.app/img/gen/shay-de-castro-tattoopud-7409.jpg",
-        "image_generated": false,
-        "popularity": 0,
-        "enriched": 2,
-        "active": true,
-        "lineup": []
-      },
-      {
         "id": "2026-09-14-music-soulwax-d389b8",
         "eid": "soulwax-7928",
         "track": "music",
@@ -975,71 +850,6 @@
         "active": true
       },
       {
-        "id": "2026-09-14-music-baile-world-ft-jyoty-cquestt-m-289cf6",
-        "eid": "baile-world-ft-jyoty-cqu-3ba7",
-        "track": "music",
-        "category": "Nightclub",
-        "name": "Baile World Ft Jyoty, Cquestt, Mango & Ginger",
-        "day": "Fri",
-        "date": "2026-09-18",
-        "time": "10pm-3am",
-        "start": "22:00",
-        "end": "03:00",
-        "area": "DTLA/Los Angeles, CA",
-        "venue": "TBA",
-        "address": "",
-        "why": "A secret-location Baile World edition led by DJ Jyoty in a very limited-capacity warehouse.",
-        "summary": "Baile World returns to a private DTLA warehouse with special guest JYOTY, joined by Mango & Ginger, Cquestt and DJ Nico for a 21+ night of global club sounds.",
-        "promoter": "Baile World",
-        "price": "$10–$40",
-        "tags": [
-          "global-bass",
-          "club",
-          "warehouse",
-          "21+",
-          "late-night",
-          "baile-funk"
-        ],
-        "sources": [
-          "https://ra.co/events/2514413",
-          "https://events.musicofourdesire.com/event/bwhe-baile-world-event-los-angeles-united-states"
-        ],
-        "tickets": [
-          "https://ra.co/events/2514413",
-          "https://events.musicofourdesire.com/event/bwhe-baile-world-event-los-angeles-united-states"
-        ],
-        "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=Los%20Angeles%2C%20Los%20Angeles%2C%20CA",
-          "apple": "https://maps.apple.com/?q=Los%20Angeles%2C%20Los%20Angeles%2C%20CA"
-        },
-        "coords": null,
-        "coords_precise": false,
-        "ra": {},
-        "image": "https://party-scout.app/img/gen/baile-world-ft-jyoty-cqu-3ba7.jpg",
-        "image_generated": false,
-        "popularity": 0,
-        "enriched": 2,
-        "active": true,
-        "lineup": [
-          {
-            "name": "Jyoty",
-            "instagram": null
-          },
-          {
-            "name": "Cquestt",
-            "instagram": null
-          },
-          {
-            "name": "Mango & Ginger",
-            "instagram": null
-          },
-          {
-            "name": "DJ Nico",
-            "instagram": null
-          }
-        ]
-      },
-      {
         "id": "2026-09-14-music-bayroom-the-orange-coast-kp-mi-25b8d3",
         "eid": "bayroom-the-orange-coast-ea3e",
         "track": "music",
@@ -1060,43 +870,7 @@
         "tags": [
           "live",
           "nightlife",
-          "indoor"
-        ],
-        "sources": [],
-        "tickets": [],
-        "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=Top%20Lounge%2C%20Westminster%2C%20CA",
-          "apple": "https://maps.apple.com/?q=Top%20Lounge%2C%20Westminster%2C%20CA"
-        },
-        "coords": null,
-        "coords_precise": false,
-        "ra": {},
-        "image": "",
-        "image_generated": false,
-        "popularity": 0,
-        "enriched": 2,
-        "active": true
-      },
-      {
-        "id": "2026-09-14-music-bayroom-the-orange-coast-751f65",
-        "eid": "bayroom-the-orange-coast-ffe3",
-        "track": "music",
-        "category": "Nightclub",
-        "name": "Bayroom: The Orange Coast",
-        "day": "Fri",
-        "date": "2026-09-18",
-        "time": "",
-        "start": null,
-        "end": null,
-        "area": "Westminster, CA",
-        "venue": "Top Lounge",
-        "address": "",
-        "why": "For a night out in Los Angeles.",
-        "summary": "An event titled \"Bayroom: The Orange Coast\" is scheduled in Los Angeles on September 18, 2026.",
-        "promoter": "",
-        "price": "",
-        "tags": [
-          "nightlife",
+          "indoor",
           "party",
           "21+"
         ],
@@ -1110,7 +884,7 @@
         "coords_precise": false,
         "ra": {},
         "image": "https://party-scout.app/img/gen/bayroom-the-orange-coast-4076.jpg",
-        "image_generated": true,
+        "image_generated": false,
         "popularity": 0,
         "enriched": 2,
         "active": true
@@ -1181,7 +955,9 @@
           "dub-techno",
           "dj",
           "ticketed",
-          "21+"
+          "21+",
+          "live",
+          "ambient"
         ],
         "sources": [
           "https://ra.co/events/2516063"
@@ -1200,49 +976,6 @@
         "image_generated": false,
         "popularity": 0,
         "enriched": 3,
-        "active": true
-      },
-      {
-        "id": "2026-09-14-music-deepchord-live-photay-live-f216ca",
-        "eid": "deepchord-live-photay-li-3d3a",
-        "track": "music",
-        "category": "Concert",
-        "name": "Deepchord (Live) + Photay (Live)",
-        "day": "Fri",
-        "date": "2026-09-18",
-        "time": "8pm–1am",
-        "start": "20:00",
-        "end": "01:00",
-        "area": "Los Angeles, CA",
-        "venue": "Agora Records",
-        "address": "1022 S Santa Fe Ave, Los Angeles, CA, 90021, USA",
-        "why": "For immersive, textural live electronic sets and deep, hypnotic soundscapes.",
-        "summary": "Live electronic performances from Deepchord and Photay on September 18, 2026 at 1022 S Santa Fe Ave in DTLA, 8pm–1am; tickets are $30.",
-        "promoter": "",
-        "price": "$30",
-        "tags": [
-          "electronic",
-          "live",
-          "ambient",
-          "ticketed"
-        ],
-        "sources": [
-          "https://ra.co/events/2516063"
-        ],
-        "tickets": [
-          "https://ra.co/events/2516063"
-        ],
-        "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=Agora%20Records%2C%20Los%20Angeles%2C%20CA",
-          "apple": "https://maps.apple.com/?q=Agora%20Records%2C%20Los%20Angeles%2C%20CA"
-        },
-        "coords": null,
-        "coords_precise": false,
-        "ra": {},
-        "image": "https://party-scout.app/img/gen/deepchord-live-photay-li-3d3a.jpg",
-        "image_generated": false,
-        "popularity": 0,
-        "enriched": 2,
         "active": true
       },
       {
@@ -1344,10 +1077,14 @@
           "dj",
           "electronic",
           "dance",
-          "party"
+          "party",
+          "live",
+          "nightlife",
+          "local"
         ],
         "sources": [
-          "https://www.songkick.com/concerts/43379389-sentimento-at-el-cid"
+          "https://www.songkick.com/concerts/43379389-sentimento-at-el-cid",
+          "https://www.songkick.com/venues/31275-el-cid"
         ],
         "tickets": [],
         "maps": {
@@ -1624,68 +1361,6 @@
         ]
       },
       {
-        "id": "2026-09-14-music-lights-down-low-2manydjs-corey-4f1eda",
-        "eid": "lights-down-low-2manydjs-c233",
-        "track": "music",
-        "category": "Nightclub",
-        "name": "Lights Down Low: 2ManyDJs, Corey Sizemore, Richie Panic",
-        "day": "Fri",
-        "date": "2026-09-18",
-        "time": "11pm–4:30am",
-        "start": "23:00",
-        "end": "04:30",
-        "area": "Los Angeles, CA",
-        "venue": "Downtown Los Angeles",
-        "address": "",
-        "why": "2ManyDJs' indie-sleaze mashup sets rarely play LA, and the warehouse location stays secret until doors.",
-        "summary": "Lights Down Low brings electroclash pioneers 2ManyDJs to a Downtown LA warehouse alongside resident founders Corey Sizemore and Richie Panic, with support from Andi.",
-        "promoter": "Lights Down Low",
-        "price": "$20–$40",
-        "tags": [
-          "warehouse",
-          "electroclash",
-          "late-night",
-          "21+",
-          "cocktail-attire"
-        ],
-        "sources": [
-          "https://ra.co/events/2521036"
-        ],
-        "tickets": [
-          "https://ra.co/events/2521036"
-        ],
-        "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=Downtown%20Los%20Angeles%2C%20Los%20Angeles%2C%20CA",
-          "apple": "https://maps.apple.com/?q=Downtown%20Los%20Angeles%2C%20Los%20Angeles%2C%20CA"
-        },
-        "coords": null,
-        "coords_precise": false,
-        "ra": {},
-        "image": "https://party-scout.app/img/gen/lights-down-low-2manydjs-c233.jpg",
-        "image_generated": false,
-        "popularity": 0,
-        "enriched": 3,
-        "active": true,
-        "lineup": [
-          {
-            "name": "2ManyDJs",
-            "instagram": null
-          },
-          {
-            "name": "Corey Sizemore",
-            "instagram": null
-          },
-          {
-            "name": "Richie Panic",
-            "instagram": null
-          },
-          {
-            "name": "Andi",
-            "instagram": null
-          }
-        ]
-      },
-      {
         "id": "2026-09-14-music-malaa-matt-faulk-pitchblack-e8c800",
         "eid": "malaa-matt-faulk-pitchbl-9ed0",
         "track": "music",
@@ -1739,46 +1414,6 @@
             "instagram": null
           }
         ]
-      },
-      {
-        "id": "2026-09-14-music-martha-maad-west-dvnk-505212",
-        "eid": "martha-maad-west-dvnk-38ac",
-        "track": "music",
-        "category": "Concert",
-        "name": "MARTHA, MAAD WEST, DVNK",
-        "day": "Fri",
-        "date": "2026-09-18",
-        "time": "10pm",
-        "start": "22:00",
-        "end": null,
-        "area": "Los Angeles, CA",
-        "venue": "El Cid",
-        "address": "4212 W Sunset Blvd, Los Angeles, CA 90029",
-        "why": "Maad West and DVNK share a Friday night bill at Silver Lake staple El Cid.",
-        "summary": "A Friday night bill at El Cid in Silver Lake headlined by Maad West with DVNK.",
-        "promoter": "",
-        "price": "",
-        "tags": [
-          "live",
-          "nightlife",
-          "local"
-        ],
-        "sources": [
-          "https://www.songkick.com/venues/31275-el-cid"
-        ],
-        "tickets": [],
-        "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=El%20Cid%2C%20Los%20Angeles%2C%20CA",
-          "apple": "https://maps.apple.com/?q=El%20Cid%2C%20Los%20Angeles%2C%20CA"
-        },
-        "coords": null,
-        "coords_precise": false,
-        "ra": {},
-        "image": "https://party-scout.app/img/gen/martha-maad-west-dvnk-897b.jpg",
-        "image_generated": true,
-        "popularity": 0,
-        "enriched": 2,
-        "active": true
       },
       {
         "id": "2026-09-14-music-nandu-hbb-4dff09",
@@ -2468,48 +2103,6 @@
         "active": true
       },
       {
-        "id": "2026-09-14-music-derrick-carter-jt-donaldson-2c9c99",
-        "eid": "derrick-carter-jt-donald-cc8e",
-        "track": "music",
-        "category": "Nightclub",
-        "name": "Derrick Carter & JT Donaldson",
-        "day": "Sat",
-        "date": "2026-09-19",
-        "time": "10pm–7am",
-        "start": "22:00",
-        "end": "07:00",
-        "area": "Los Angeles, CA",
-        "venue": "TBA",
-        "address": "",
-        "why": "For an extended all-night dance session with headline DJs.",
-        "summary": "A late-night DJ event featuring Derrick Carter & JT Donaldson on September 19, 2026; 10pm–7am, tickets $30.",
-        "promoter": "",
-        "price": "$30",
-        "tags": [
-          "dj",
-          "late-night",
-          "paid"
-        ],
-        "sources": [
-          "https://ra.co/events/2480137"
-        ],
-        "tickets": [
-          "https://ra.co/events/2480137"
-        ],
-        "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=Los%20Angeles%2C%20CA",
-          "apple": "https://maps.apple.com/?q=Los%20Angeles%2C%20CA"
-        },
-        "coords": null,
-        "coords_precise": false,
-        "ra": {},
-        "image": "https://party-scout.app/img/gen/derrick-carter-jt-donald-cc8e.jpg",
-        "image_generated": false,
-        "popularity": 0,
-        "enriched": 2,
-        "active": true
-      },
-      {
         "id": "2026-09-14-music-florida-rave-598278",
         "eid": "florida-rave-e6b2",
         "track": "music",
@@ -2606,40 +2199,6 @@
             "instagram": null
           }
         ]
-      },
-      {
-        "id": "2026-09-14-music-jon-hassell-listening-party-f2bea1",
-        "eid": "jon-hassell-listening-pa-c9b8",
-        "track": "music",
-        "category": "",
-        "name": "Jon Hassell Listening Party",
-        "day": "Sat",
-        "date": "2026-09-19",
-        "time": "",
-        "start": null,
-        "end": null,
-        "area": "Los Angeles, CA",
-        "venue": "The Airliner",
-        "address": "",
-        "why": "",
-        "summary": "",
-        "promoter": "",
-        "price": "",
-        "tags": [],
-        "sources": [],
-        "tickets": [],
-        "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=The%20Airliner%2C%20Los%20Angeles%2C%20CA",
-          "apple": "https://maps.apple.com/?q=The%20Airliner%2C%20Los%20Angeles%2C%20CA"
-        },
-        "coords": null,
-        "coords_precise": false,
-        "ra": {},
-        "image": "",
-        "image_generated": false,
-        "popularity": 0,
-        "enriched": 1,
-        "active": true
       },
       {
         "id": "2026-09-14-music-paradisco-scotty-boy-880877",
@@ -3145,16 +2704,20 @@
         "start": "23:00",
         "end": "04:30",
         "area": "Los Angeles",
-        "venue": "TBA DTLA",
+        "venue": "Downtown Los Angeles",
         "address": "",
         "why": "To dance through a marathon late-night DJ set.",
         "summary": "2manydjs performs in Los Angeles on 2026-09-18. The event runs 11pm–4:30am.",
-        "promoter": "",
+        "promoter": "Lights Down Low",
         "price": "$20-44",
         "tags": [
           "dj",
           "electronic",
-          "late-night"
+          "late-night",
+          "warehouse",
+          "electroclash",
+          "21+",
+          "cocktail-attire"
         ],
         "sources": [
           "https://ra.co/events/2521036"
@@ -3163,8 +2726,8 @@
           "https://ra.co/events/2521036"
         ],
         "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=DTLA/Los%20Angeles%2C%20CA",
-          "apple": "https://maps.apple.com/?q=DTLA/Los%20Angeles%2C%20CA"
+          "google": "https://www.google.com/maps/search/?api=1&query=Downtown%20Los%20Angeles%2C%20Los%20Angeles%2C%20CA",
+          "apple": "https://maps.apple.com/?q=Downtown%20Los%20Angeles%2C%20Los%20Angeles%2C%20CA"
         },
         "coords": null,
         "coords_precise": false,
@@ -3173,7 +2736,25 @@
         "image_generated": false,
         "popularity": 0,
         "enriched": 4,
-        "active": true
+        "active": true,
+        "lineup": [
+          {
+            "name": "2ManyDJs",
+            "instagram": null
+          },
+          {
+            "name": "Corey Sizemore",
+            "instagram": null
+          },
+          {
+            "name": "Richie Panic",
+            "instagram": null
+          },
+          {
+            "name": "Andi",
+            "instagram": null
+          }
+        ]
       },
       {
         "id": "2026-09-14-music-dragonflies-ec49fd",
@@ -3572,47 +3153,6 @@
         "active": true
       },
       {
-        "id": "2026-09-14-music-loadinga-heaven-exe-1c26ed",
-        "eid": "loadinga-heaven-exe-d0fd",
-        "track": "music",
-        "category": "",
-        "name": "Loadinga Heaven.Exe",
-        "day": "Thu",
-        "date": "2026-09-17",
-        "time": "10pm–1am",
-        "start": "22:00",
-        "end": "01:00",
-        "area": "Hollywood",
-        "venue": "Zero Lounge",
-        "address": "1710 N Hudson Ave, Los Angeles, CA 90028",
-        "why": "For a late-night party atmosphere and socializing.",
-        "summary": "A late-night event called Loadinga Heaven.Exe in Los Angeles on September 17, 2026, running 10pm–1am.",
-        "promoter": "",
-        "price": "free",
-        "tags": [
-          "late-night",
-          "party"
-        ],
-        "sources": [
-          "https://ra.co/events/2528994"
-        ],
-        "tickets": [
-          "https://ra.co/events/2528994"
-        ],
-        "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=Zero%20Lounge%2C%20Los%20Angeles",
-          "apple": "https://maps.apple.com/?q=Zero%20Lounge%2C%20Los%20Angeles"
-        },
-        "coords": null,
-        "coords_precise": false,
-        "ra": {},
-        "image": "https://party-scout.app/img/gen/loadinga-heaven-exe-d0fd.jpg",
-        "image_generated": false,
-        "popularity": 0,
-        "enriched": 2,
-        "active": true
-      },
-      {
         "id": "2026-09-14-music-rave-god-rich-run-that-crvsh-01e43b",
         "eid": "rave-god-rich-run-that-c-55e9",
         "track": "music",
@@ -3750,7 +3290,9 @@
           "dj",
           "house",
           "disco",
-          "all-night"
+          "all-night",
+          "late-night",
+          "paid"
         ],
         "sources": [
           "https://ra.co/events/2480137"
@@ -3759,8 +3301,8 @@
           "https://ra.co/events/2480137"
         ],
         "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=Los%20Angeles",
-          "apple": "https://maps.apple.com/?q=Los%20Angeles"
+          "google": "https://www.google.com/maps/search/?api=1&query=Los%20Angeles%2C%20CA",
+          "apple": "https://maps.apple.com/?q=Los%20Angeles%2C%20CA"
         },
         "coords": null,
         "coords_precise": false,
@@ -3874,8 +3416,8 @@
         "sources": [],
         "tickets": [],
         "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=The%20Airliner%2C%20Los%20Angeles",
-          "apple": "https://maps.apple.com/?q=The%20Airliner%2C%20Los%20Angeles"
+          "google": "https://www.google.com/maps/search/?api=1&query=The%20Airliner%2C%20Los%20Angeles%2C%20CA",
+          "apple": "https://maps.apple.com/?q=The%20Airliner%2C%20Los%20Angeles%2C%20CA"
         },
         "coords": null,
         "coords_precise": false,
@@ -4019,23 +3561,30 @@
         "address": "",
         "why": "To catch multiple DJs and producers across one late-night set.",
         "summary": "A late-night club night on September 18, 2026 featuring Jyoty, Cquestt, Mango & Ginger, and DJ Nico, running 9pm–2am in Los Angeles.",
-        "promoter": "",
+        "promoter": "Baile World",
         "price": "$22-45",
         "tags": [
           "dj",
           "dance",
           "latin",
-          "late-night"
+          "late-night",
+          "global-bass",
+          "club",
+          "warehouse",
+          "21+",
+          "baile-funk"
         ],
         "sources": [
-          "https://ra.co/events/2514413"
+          "https://ra.co/events/2514413",
+          "https://events.musicofourdesire.com/event/bwhe-baile-world-event-los-angeles-united-states"
         ],
         "tickets": [
-          "https://ra.co/events/2514413"
+          "https://ra.co/events/2514413",
+          "https://events.musicofourdesire.com/event/bwhe-baile-world-event-los-angeles-united-states"
         ],
         "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=Los%20Angeles",
-          "apple": "https://maps.apple.com/?q=Los%20Angeles"
+          "google": "https://www.google.com/maps/search/?api=1&query=Los%20Angeles%2C%20Los%20Angeles%2C%20CA",
+          "apple": "https://maps.apple.com/?q=Los%20Angeles%2C%20Los%20Angeles%2C%20CA"
         },
         "coords": null,
         "coords_precise": false,
@@ -4044,7 +3593,25 @@
         "image_generated": false,
         "popularity": 0,
         "enriched": 3,
-        "active": true
+        "active": true,
+        "lineup": [
+          {
+            "name": "Jyoty",
+            "instagram": null
+          },
+          {
+            "name": "Cquestt",
+            "instagram": null
+          },
+          {
+            "name": "Mango & Ginger",
+            "instagram": null
+          },
+          {
+            "name": "DJ Nico",
+            "instagram": null
+          }
+        ]
       }
     ],
     "sports": []

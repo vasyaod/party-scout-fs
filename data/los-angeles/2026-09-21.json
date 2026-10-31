@@ -5,7 +5,7 @@
   "location": "Los Angeles & SoCal",
   "city": "los-angeles",
   "city_label": "Los Angeles",
-  "generated_at": "2026-10-23",
+  "generated_at": "2026-10-31",
   "tracks": {
     "music": [
       {
@@ -1102,12 +1102,13 @@
         "address": "2419 N Broadway, Los Angeles, CA 90036",
         "why": "Catch a stacked multi-artist night for an affordable $10 cover.",
         "summary": "Affect Radio's 16-year anniversary party takes place September 24, 2026 at 2419 N Broadway in Los Angeles, with performances by Wheez-ie, Freeman 713, Yessi, Songco, Codiac, and Infinity Edge. Admission is $10.",
-        "promoter": "",
+        "promoter": "ÆFFECT RADIO",
         "price": "$10",
         "tags": [
           "dj",
           "party",
-          "live"
+          "live",
+          "music"
         ],
         "sources": [
           "https://ra.co/events/2522433"
@@ -1400,49 +1401,6 @@
         "lineup": []
       },
       {
-        "id": "2026-09-21-music-ffect-radio-16-year-anniversar-f7f235",
-        "eid": "ffect-radio-16-year-anni-4c6b",
-        "track": "music",
-        "category": "Nightclub",
-        "name": "ÆFFECT RADIO 16-Year Anniversary Party",
-        "day": "Thu",
-        "date": "2026-09-24",
-        "time": "7:00 PM–1:00 AM",
-        "start": "19:00",
-        "end": "01:00",
-        "area": "Los Angeles",
-        "venue": "The Airliner",
-        "address": "2419 N Broadway, Los Angeles, CA 90036",
-        "why": "To celebrate a long-running local radio project with a night of music and community.",
-        "summary": "ÆFFECT RADIO, an LA community station for the city's underground, celebrates 16 years at The Airliner, long tied to Low End Theory, now with a new space and hi-fi sound system.",
-        "promoter": "ÆFFECT RADIO",
-        "price": "$10",
-        "tags": [
-          "dj",
-          "party",
-          "music"
-        ],
-        "sources": [
-          "https://ra.co/events/2522433"
-        ],
-        "tickets": [
-          "https://ra.co/events/2522433"
-        ],
-        "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=The%20Airliner%2C%20Los%20Angeles",
-          "apple": "https://maps.apple.com/?q=The%20Airliner%2C%20Los%20Angeles"
-        },
-        "coords": null,
-        "coords_precise": false,
-        "ra": {},
-        "image": "https://api.party-scout.app/img/los-angeles/2026-09-21/ffect-radio-16-year-anni-4c6b.jpg",
-        "image_generated": false,
-        "popularity": 0,
-        "enriched": 2,
-        "active": true,
-        "lineup": []
-      },
-      {
         "id": "2026-09-21-music-gu3st-liste-kale-myyon-marchan-2e25a5",
         "eid": "gu3st-liste-kale-myyon-m-d4bd",
         "track": "music",
@@ -1548,16 +1506,20 @@
           "trip-hop",
           "live",
           "all-ages",
-          "kcrw"
+          "kcrw",
+          "concert",
+          "ticketed"
         ],
         "sources": [
           "https://thebellwetherla.com/events/tricky-260924",
           "https://www.livenation.com/event/vvG10Z_16_bEO2/kcrw-presents-tricky",
-          "https://ra.co/events/2486069"
+          "https://ra.co/events/2486069",
+          "https://www.axs.com/events/1446526/tricky-tickets"
         ],
         "tickets": [
           "https://www.livenation.com/event/vvG10Z_16_bEO2/kcrw-presents-tricky",
-          "https://ra.co/events/2486069"
+          "https://ra.co/events/2486069",
+          "https://www.axs.com/events/1446526/tricky-tickets"
         ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=The%20Bellwether%2C%20Los%20Angeles",
@@ -2141,50 +2103,6 @@
         "lineup": []
       },
       {
-        "id": "2026-09-21-music-tricky-3b4455",
-        "eid": "tricky-2630",
-        "track": "music",
-        "category": "Concert",
-        "name": "Tricky",
-        "day": "Thu",
-        "date": "2026-09-24",
-        "time": "7–11pm",
-        "start": "20:00",
-        "end": "23:00",
-        "area": "Los Angeles",
-        "venue": "The Bellwether",
-        "address": "333 S Boylston St, Los Angeles, CA 90017",
-        "why": "To attend an evening live performance in Los Angeles at a set ticket price.",
-        "summary": "A concert titled \"Tricky\" scheduled for 2026-09-24 from 7–11pm in Los Angeles; tickets are $49.",
-        "promoter": "",
-        "price": "$49",
-        "tags": [
-          "concert",
-          "live",
-          "ticketed"
-        ],
-        "sources": [
-          "https://www.axs.com/events/1446526/tricky-tickets",
-          "https://ra.co/events/2486069"
-        ],
-        "tickets": [
-          "https://www.axs.com/events/1446526/tricky-tickets",
-          "https://ra.co/events/2486069"
-        ],
-        "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=The%20Bellwether%2C%20Los%20Angeles",
-          "apple": "https://maps.apple.com/?q=The%20Bellwether%2C%20Los%20Angeles"
-        },
-        "coords": null,
-        "coords_precise": false,
-        "ra": {},
-        "image": "https://api.party-scout.app/img/los-angeles/2026-09-21/tricky-2630.jpg",
-        "image_generated": false,
-        "popularity": 0,
-        "enriched": 2,
-        "active": true
-      },
-      {
         "id": "2026-09-21-music-y2k-scene-night-221c12",
         "eid": "y2k-scene-night-4c35",
         "track": "music",
@@ -2461,72 +2379,6 @@
         "active": true
       },
       {
-        "id": "2026-09-21-music-ascetic-house-presents-thresho-fb144d",
-        "eid": "ascetic-house-presents-t-bc7e",
-        "track": "music",
-        "category": "Concert",
-        "name": "Ascetic House presents THRESHOLD L.A. n.09: RHR, Aaron Dilloway, Provoker + Freeman713, Rabit",
-        "day": "Fri",
-        "date": "2026-09-25",
-        "time": "doors 7pm",
-        "start": "19:00",
-        "end": "02:30",
-        "area": "Los Angeles",
-        "venue": "Milkys",
-        "address": "5240 Alhambra Ave, Los Angeles, CA 90032",
-        "why": "A rare LA stop for noise legend Aaron Dilloway in an intimate room with Ascetic House's curatorial pedigree",
-        "summary": "Ascetic House's Threshold noise/experimental series returns to Milkys with a lineup led by tape-music pioneer Aaron Dilloway alongside RHR, Provoker, Freeman713 and Rabit.",
-        "promoter": "Ascetic House",
-        "price": "$43",
-        "tags": [
-          "noise",
-          "experimental",
-          "industrial",
-          "underground"
-        ],
-        "sources": [
-          "https://www.songkick.com/concerts/43393576-rhr-at-milkys",
-          "https://ra.co/events/2512667"
-        ],
-        "tickets": [
-          "https://ra.co/events/2512667"
-        ],
-        "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=Milkys%2C%20Los%20Angeles",
-          "apple": "https://maps.apple.com/?q=Milkys%2C%20Los%20Angeles"
-        },
-        "coords": null,
-        "coords_precise": false,
-        "ra": {},
-        "image": "https://api.party-scout.app/img/los-angeles/2026-09-21/ascetic-house-presents-t-bc7e.jpg",
-        "image_generated": false,
-        "popularity": 0,
-        "enriched": 2,
-        "active": true,
-        "lineup": [
-          {
-            "name": "RHR",
-            "instagram": null
-          },
-          {
-            "name": "Aaron Dilloway",
-            "instagram": null
-          },
-          {
-            "name": "Provoker",
-            "instagram": null
-          },
-          {
-            "name": "Freeman713",
-            "instagram": null
-          },
-          {
-            "name": "Rabit",
-            "instagram": null
-          }
-        ]
-      },
-      {
         "id": "2026-09-21-music-bad-josh-peace-masc-fish-f5e4af",
         "eid": "bad-josh-peace-masc-fish-2dd2",
         "track": "music",
@@ -2798,49 +2650,6 @@
         "coords_precise": false,
         "ra": {},
         "image": "https://api.party-scout.app/img/los-angeles/2026-09-21/caleb-calloway-663b.jpg",
-        "image_generated": false,
-        "popularity": 0,
-        "enriched": 2,
-        "active": true
-      },
-      {
-        "id": "2026-09-21-music-certified-groovers-gene-on-ear-d0c834",
-        "eid": "certified-groovers-gene-6ec8",
-        "track": "music",
-        "category": "Nightclub",
-        "name": "Certified Groovers: Gene On Earth in LA",
-        "day": "Fri",
-        "date": "2026-09-25",
-        "time": "11pm–8am",
-        "start": "23:00",
-        "end": "08:00",
-        "area": "DTLA",
-        "venue": "TBA - Downtown Los Angeles",
-        "address": "2346 Porter Street, Los Angeles, CA 90021",
-        "why": "Certified Groovers' recurring DTLA warehouse hosts house selector Gene On Earth.",
-        "summary": "Gene On Earth headlines a Certified Groovers house party at the series' regular Downtown LA warehouse venue on Friday, September 25.",
-        "promoter": "Certified Groovers",
-        "price": "",
-        "tags": [
-          "house",
-          "warehouse",
-          "dtla"
-        ],
-        "sources": [
-          "https://ra.co/events/2457514",
-          "https://edmtrain.com/los-angeles-ca/gene-on-earth-509292"
-        ],
-        "tickets": [
-          "https://ra.co/events/2457514"
-        ],
-        "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=Los%20Angeles",
-          "apple": "https://maps.apple.com/?q=Los%20Angeles"
-        },
-        "coords": null,
-        "coords_precise": false,
-        "ra": {},
-        "image": "https://api.party-scout.app/img/los-angeles/2026-09-21/certified-groovers-gene-6ec8.jpg",
         "image_generated": false,
         "popularity": 0,
         "enriched": 2,
@@ -3339,7 +3148,7 @@
         "end": "08:00",
         "area": "DTLA/Los Angeles",
         "venue": "TBA",
-        "address": "",
+        "address": "2346 Porter Street, Los Angeles, CA 90021",
         "why": "A Limousine Dream founder headlining an underground, address-drops-day-of DTLA warehouse night",
         "summary": "Certified Groovers brings Limousine Dream founder Gene On Earth to a TBA Downtown LA location for a night of deep, record-digger house and minimal, alongside a stacked local lineup.",
         "promoter": "Certified Groovers",
@@ -3353,14 +3162,15 @@
         ],
         "sources": [
           "https://ra.co/events/2457514",
-          "https://www.instagram.com/p/DZDvIPlScvq/"
+          "https://www.instagram.com/p/DZDvIPlScvq/",
+          "https://edmtrain.com/los-angeles-ca/gene-on-earth-509292"
         ],
         "tickets": [
           "https://ra.co/events/2457514"
         ],
         "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=DTLA/Los%20Angeles",
-          "apple": "https://maps.apple.com/?q=DTLA/Los%20Angeles"
+          "google": "https://www.google.com/maps/search/?api=1&query=Los%20Angeles",
+          "apple": "https://maps.apple.com/?q=Los%20Angeles"
         },
         "coords": null,
         "coords_precise": false,
@@ -3425,7 +3235,13 @@
           "electro",
           "breaks",
           "free",
-          "basement"
+          "basement",
+          "nightlife",
+          "live",
+          "dj",
+          "live music",
+          "indie",
+          "intimate venue"
         ],
         "sources": [
           "https://partiful.com/e/OpROGuaOXYjIOddmwvif",
@@ -3435,8 +3251,8 @@
           "https://ra.co/events/2525734"
         ],
         "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=Baby%20Battista%20%40%20Nico%27s%2C%20Los%20Angeles",
-          "apple": "https://maps.apple.com/?q=Baby%20Battista%20%40%20Nico%27s%2C%20Los%20Angeles"
+          "google": "https://www.google.com/maps/search/?api=1&query=Baby%20Battista%20at%20Nico%27s%2C%20Los%20Angeles",
+          "apple": "https://maps.apple.com/?q=Baby%20Battista%20at%20Nico%27s%2C%20Los%20Angeles"
         },
         "coords": null,
         "coords_precise": false,
@@ -3460,47 +3276,6 @@
             "instagram": null
           }
         ]
-      },
-      {
-        "id": "2026-09-21-music-good-evening-krasner-geotheos-25de7a",
-        "eid": "good-evening-krasner-geo-f768",
-        "track": "music",
-        "category": "Nightclub",
-        "name": "Good Evening: Krasner, geotheos, GOMEZ",
-        "day": "Fri",
-        "date": "2026-09-25",
-        "time": "",
-        "start": null,
-        "end": null,
-        "area": "Los Angeles",
-        "venue": "Baby Battista at Nico's",
-        "address": "3111 Glendale Blvd #2, Los Angeles, CA 90039",
-        "why": "A small-room bill of three acts at an intimate neighborhood venue; check the venue's socials for set times and door price.",
-        "summary": "Good Evening is a Friday-night live music bill at Baby Battista at Nico's in Glendale Blvd, Atwater/Silver Lake side of LA, with Krasner, geotheos and GOMEZ.",
-        "promoter": "",
-        "price": "",
-        "tags": [
-          "nightlife",
-          "live",
-          "dj",
-          "live music",
-          "indie",
-          "intimate venue"
-        ],
-        "sources": [],
-        "tickets": [],
-        "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=Baby%20Battista%20at%20Nico%27s%2C%20Los%20Angeles",
-          "apple": "https://maps.apple.com/?q=Baby%20Battista%20at%20Nico%27s%2C%20Los%20Angeles"
-        },
-        "coords": null,
-        "coords_precise": false,
-        "ra": {},
-        "image": "",
-        "image_generated": false,
-        "popularity": 0,
-        "enriched": 2,
-        "active": true
       },
       {
         "id": "2026-09-21-music-grace-bones-presents-house-of-457553",
@@ -4086,56 +3861,13 @@
           "https://ra.co/events/2538242"
         ],
         "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=7056%20Sunset%20Boulevard%2C%20Los%20Angeles",
-          "apple": "https://maps.apple.com/?q=7056%20Sunset%20Boulevard%2C%20Los%20Angeles"
-        },
-        "coords": null,
-        "coords_precise": false,
-        "ra": {},
-        "image": "https://api.party-scout.app/img/los-angeles/2026-09-21/massar-present-zone-cena-54fd.jpg",
-        "image_generated": false,
-        "popularity": 0,
-        "enriched": 2,
-        "active": true
-      },
-      {
-        "id": "2026-09-21-music-massar-presents-zone-cena-b2b-1e0984",
-        "eid": "massar-presents-zone-cen-725b",
-        "track": "music",
-        "category": "Nightclub",
-        "name": "MASSAR presents Zone+ // Cena b2b Elwan // Zolo",
-        "day": "Fri",
-        "date": "2026-09-25",
-        "time": "9pm–2am",
-        "start": "21:00",
-        "end": "02:00",
-        "area": "Los Angeles",
-        "venue": "TBA",
-        "address": "",
-        "why": "For late-night DJ-driven dance energy and back-to-back sets.",
-        "summary": "MASSAR presents Zone+ featuring Cena b2b Elwan and Zolo on September 25 in Los Angeles; event runs 9pm–2am and tickets are $25.",
-        "promoter": "",
-        "price": "$25",
-        "tags": [
-          "dj",
-          "electronic",
-          "dance",
-          "paid"
-        ],
-        "sources": [
-          "https://ra.co/events/2538242"
-        ],
-        "tickets": [
-          "https://ra.co/events/2538242"
-        ],
-        "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Los%20Angeles",
           "apple": "https://maps.apple.com/?q=Los%20Angeles"
         },
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "https://api.party-scout.app/img/los-angeles/2026-09-21/massar-presents-zone-cen-725b.jpg",
+        "image": "https://api.party-scout.app/img/los-angeles/2026-09-21/massar-present-zone-cena-54fd.jpg",
         "image_generated": false,
         "popularity": 0,
         "enriched": 2,
@@ -4512,46 +4244,7 @@
           "live",
           "dj",
           "21+",
-          "multi-artist"
-        ],
-        "sources": [
-          "https://ra.co/events/2535852"
-        ],
-        "tickets": [
-          "https://ra.co/events/2535852"
-        ],
-        "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=Los%20Angeles",
-          "apple": "https://maps.apple.com/?q=Los%20Angeles"
-        },
-        "coords": null,
-        "coords_precise": false,
-        "ra": {},
-        "image": "https://api.party-scout.app/img/los-angeles/2026-09-21/rhythm-2-revolt-weekend-fe5f.jpg",
-        "image_generated": false,
-        "popularity": 0,
-        "enriched": 2,
-        "active": true
-      },
-      {
-        "id": "2026-09-21-music-rhythm2revolt-weekend-1-2d60e3",
-        "eid": "rhythm2revolt-weekend-1-0b79",
-        "track": "music",
-        "category": "",
-        "name": "Rhythm2Revolt Weekend 1",
-        "day": "Fri",
-        "date": "2026-09-25",
-        "time": "9pm–4:30am",
-        "start": "21:00",
-        "end": "04:30",
-        "area": "Los Angeles",
-        "venue": "TBA",
-        "address": "",
-        "why": "A full-night Friday session that runs until 4:30am, for people who want a long night out rather than an early one.",
-        "summary": "Rhythm2Revolt Weekend 1 is a late-night music event in Los Angeles on Friday, September 25, running 9pm to 4:30am. Venue and ticket details are on the Resident Advisor listing.",
-        "promoter": "",
-        "price": "",
-        "tags": [
+          "multi-artist",
           "late-night",
           "party",
           "dance",
@@ -4571,7 +4264,7 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "https://api.party-scout.app/img/los-angeles/2026-09-21/rhythm2revolt-weekend-1-0b79.jpg",
+        "image": "https://api.party-scout.app/img/los-angeles/2026-09-21/rhythm-2-revolt-weekend-fe5f.jpg",
         "image_generated": false,
         "popularity": 0,
         "enriched": 2,
@@ -5105,13 +4798,15 @@
           "experimental",
           "industrial",
           "bass",
-          "post-punk"
+          "post-punk",
+          "underground"
         ],
         "sources": [
           "https://milkysla.com/events/",
           "https://www.instagram.com/p/DcwJYbwt4le/",
           "https://dice.fm/event/mxn7yp-ascetic-house-presents-threshold-los-angeles-n09-25th-sep-milkys-los-angeles-tickets",
-          "https://ra.co/events/2512667"
+          "https://ra.co/events/2512667",
+          "https://www.songkick.com/concerts/43393576-rhr-at-milkys"
         ],
         "tickets": [
           "https://dice.fm/event/mxn7yp-ascetic-house-presents-threshold-los-angeles-n09-25th-sep-milkys-los-angeles-tickets",
@@ -5179,50 +4874,8 @@
           "electronic",
           "dance",
           "late-night",
-          "21+"
-        ],
-        "sources": [
-          "https://ra.co/events/2430098"
-        ],
-        "tickets": [
-          "https://ra.co/events/2430098"
-        ],
-        "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=Los%20Angeles",
-          "apple": "https://maps.apple.com/?q=Los%20Angeles"
-        },
-        "coords": null,
-        "coords_precise": false,
-        "ra": {},
-        "image": "https://api.party-scout.app/img/los-angeles/2026-09-21/tunnel-x-herrensauna-003-546b.jpg",
-        "image_generated": false,
-        "popularity": 0,
-        "enriched": 2,
-        "active": true
-      },
-      {
-        "id": "2026-09-21-music-tunnel-x-herrensauna-mcmlxxxv-d7f8b9",
-        "eid": "tunnel-x-herrensauna-mcm-3a42",
-        "track": "music",
-        "category": "Nightclub",
-        "name": "Tunnel X Herrensauna: Mcmlxxxv, Cem, Salome, Oza, Sevyn 0000",
-        "day": "Fri",
-        "date": "2026-09-25",
-        "time": "11pm–6am",
-        "start": "23:00",
-        "end": "06:00",
-        "area": "Los Angeles",
-        "venue": "TBA",
-        "address": "",
-        "why": "To dance through the night to electronic DJs in an extended-hours club setting.",
-        "summary": "Late-night Tunnel X Herrensauna event on September 25, 2026, running 11pm–6am and featuring the billed acts Mcmlxxxv, Cem, Salome, Oza, and Sevyn 0000; tickets $35–$50.",
-        "promoter": "",
-        "price": "$35–$50",
-        "tags": [
-          "dj",
-          "techno",
-          "late-night",
           "21+",
+          "techno",
           "underground"
         ],
         "sources": [
@@ -5238,7 +4891,7 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "https://api.party-scout.app/img/los-angeles/2026-09-21/tunnel-x-herrensauna-mcm-3a42.jpg",
+        "image": "https://api.party-scout.app/img/los-angeles/2026-09-21/tunnel-x-herrensauna-003-546b.jpg",
         "image_generated": false,
         "popularity": 0,
         "enriched": 2,
@@ -5362,7 +5015,8 @@
           "techno",
           "after-hours",
           "secret-location",
-          "all-night"
+          "all-night",
+          "warehouse"
         ],
         "sources": [
           "https://ra.co/events/2428630",
@@ -5412,137 +5066,9 @@
           {
             "name": "Wata Igarashi",
             "instagram": null
-          }
-        ]
-      },
-      {
-        "id": "2026-09-21-music-work-over-time-day-1-nekter-rr-6fc588",
-        "eid": "work-over-time-day-1-nek-9805",
-        "track": "music",
-        "category": "Nightclub",
-        "name": "WORK OVER/TIME Day 1: NEKTER, Rrose, & Wata Igarashi",
-        "day": "Fri",
-        "date": "2026-09-25",
-        "time": "11pm–7am",
-        "start": "23:00",
-        "end": "07:00",
-        "area": "Los Angeles",
-        "venue": "TBA - Los Angeles",
-        "address": "",
-        "why": "A one-night techno bill built around long-form sets from Rrose and Wata Igarashi, kicking off a two-night after-hours run",
-        "summary": "WORK OVER/TIME opens its two-night run on Friday Sept 25 with NEKTER, Rrose, and Wata Igarashi at a secret Los Angeles location revealed to ticket holders 2 hours before doors, running 11pm to 7am.",
-        "promoter": "WORK",
-        "price": "$60–$100",
-        "tags": [
-          "techno",
-          "after-hours",
-          "secret-location",
-          "all-night"
-        ],
-        "sources": [
-          "https://ra.co/events/2428630",
-          "https://ra.co/events/2506637"
-        ],
-        "tickets": [
-          "https://ra.co/events/2428630",
-          "https://ra.co/events/2506637"
-        ],
-        "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=Los%20Angeles",
-          "apple": "https://maps.apple.com/?q=Los%20Angeles"
-        },
-        "coords": null,
-        "coords_precise": false,
-        "ra": {},
-        "image": "https://api.party-scout.app/img/los-angeles/2026-09-21/work-over-time-day-1-nek-9805.jpg",
-        "image_generated": false,
-        "popularity": 0,
-        "enriched": 2,
-        "active": true,
-        "lineup": [
-          {
-            "name": "NEKTER",
-            "instagram": null
-          },
-          {
-            "name": "Rrose",
-            "instagram": null
-          },
-          {
-            "name": "Wata Igarashi",
-            "instagram": null
-          }
-        ]
-      },
-      {
-        "id": "2026-09-21-music-work-over-time-jia-marr-n-nekt-bfa23c",
-        "eid": "work-over-time-jia-marr-e5c6",
-        "track": "music",
-        "category": "Nightclub",
-        "name": "WORK OVER/TIME: JIA, MARRØN, NEKTER, Rene Wise, Rrose, Sarah Wreath [Live], & Wata Igarashi",
-        "day": "Fri",
-        "date": "2026-09-25",
-        "time": "11pm–7am",
-        "start": "23:00",
-        "end": "07:00",
-        "area": "Los Angeles",
-        "venue": "TBA - Los Angeles",
-        "address": "",
-        "why": "An all-night techno bill anchored by Rrose and Wata Igarashi at WORK's secret-location warehouse series.",
-        "summary": "WORK OVER/TIME brings JIA, MARRØN, NEKTER, Rene Wise, Rrose, Sarah Wreath (live), and Wata Igarashi for an all-night techno set at a secret LA location, revealed to ticket holders the day of the event.",
-        "promoter": "WORK",
-        "price": "$60–$100",
-        "tags": [
-          "techno",
-          "all-night",
-          "secret-location",
-          "warehouse"
-        ],
-        "sources": [
-          "https://ra.co/events/2428630"
-        ],
-        "tickets": [
-          "https://ra.co/events/2428630"
-        ],
-        "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=Los%20Angeles",
-          "apple": "https://maps.apple.com/?q=Los%20Angeles"
-        },
-        "coords": null,
-        "coords_precise": false,
-        "ra": {},
-        "image": "https://api.party-scout.app/img/los-angeles/2026-09-21/work-over-time-jia-marr-e5c6.jpg",
-        "image_generated": false,
-        "popularity": 0,
-        "enriched": 2,
-        "active": true,
-        "lineup": [
-          {
-            "name": "JIA",
-            "instagram": null
-          },
-          {
-            "name": "MARRØN",
-            "instagram": null
-          },
-          {
-            "name": "NEKTER",
-            "instagram": null
-          },
-          {
-            "name": "Rene Wise",
-            "instagram": null
-          },
-          {
-            "name": "Rrose",
-            "instagram": null
           },
           {
             "name": "Sarah Wreath",
-            "instagram": null
-          },
-          {
-            "name": "Wata Igarashi",
             "instagram": null
           }
         ]
@@ -5789,49 +5315,6 @@
         "active": true
       },
       {
-        "id": "2026-09-21-music-the-bird-house-001-migration-s-27860f",
-        "eid": "the-bird-house-001-migra-b9e7",
-        "track": "music",
-        "category": "Nightclub",
-        "name": "The Bird House: 001 Migration - Sans Nom, Thee-O, Matty Be, Bret Wallace, Bird Lady",
-        "day": "Sat",
-        "date": "2026-09-26",
-        "time": "6pm–2am",
-        "start": "18:00",
-        "end": "02:00",
-        "area": "East Ventura",
-        "venue": "TBA",
-        "address": "",
-        "why": "Go for a late-night, no-cover showcase of multiple acts.",
-        "summary": "The Bird House: 001 Migration is a free event on 2026-09-26 running 6pm–2am, featuring Sans Nom, Thee-O, Matty Be, Bret Wallace, and Bird Lady.",
-        "promoter": "",
-        "price": "Free",
-        "tags": [
-          "free",
-          "dj",
-          "party",
-          "late-night"
-        ],
-        "sources": [
-          "https://ra.co/events/2520327"
-        ],
-        "tickets": [
-          "https://ra.co/events/2520327"
-        ],
-        "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=East%20Ventura",
-          "apple": "https://maps.apple.com/?q=East%20Ventura"
-        },
-        "coords": null,
-        "coords_precise": false,
-        "ra": {},
-        "image": "https://api.party-scout.app/img/los-angeles/2026-09-21/the-bird-house-001-migra-b9e7.jpg",
-        "image_generated": false,
-        "popularity": 0,
-        "enriched": 2,
-        "active": true
-      },
-      {
         "id": "2026-09-21-music-the-birdhouse-migration-001-7eed35",
         "eid": "the-birdhouse-migration-56f7",
         "track": "music",
@@ -5853,7 +5336,11 @@
           "house",
           "805",
           "secret-location",
-          "charity"
+          "charity",
+          "free",
+          "dj",
+          "party",
+          "late-night"
         ],
         "sources": [
           "https://events.humanitix.com/the-bird-house-001-migration",
@@ -5864,8 +5351,8 @@
           "https://ra.co/events/2520327"
         ],
         "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=Los%20Angeles",
-          "apple": "https://maps.apple.com/?q=Los%20Angeles"
+          "google": "https://www.google.com/maps/search/?api=1&query=East%20Ventura",
+          "apple": "https://maps.apple.com/?q=East%20Ventura"
         },
         "coords": null,
         "coords_precise": false,
@@ -5940,46 +5427,6 @@
         "active": true
       },
       {
-        "id": "2026-09-21-music-boiler-room-bb-trickz-benny-th-093089",
-        "eid": "boiler-room-bb-trickz-be-6aaa",
-        "track": "music",
-        "category": "Nightclub",
-        "name": "Boiler Room: Bb trickz, Benny The Butcher, Bladee, BNYX (DJ set), Danny Brown, DJ Sliink, DJ Smokey, ESPRIT, evilgiane, hopper100, Ms Nina (DJ set), Neggy Gemmy (DJ set), Nick Cheo, Princess Nokia, SEES00000, Sematary (DJ set), SKY JETTA, Somewhere Special (DJ/hybrid), Thaiboy Digital, The Glitch Mob, Two Shell, WONDAGURL",
-        "day": "Sat",
-        "date": "2026-09-26",
-        "time": "3:00 PM",
-        "start": null,
-        "end": null,
-        "area": "Los Angeles",
-        "venue": "TBA",
-        "address": "",
-        "why": "To catch a rare, stacked night of hip-hop and electronic artists across both live and DJ sets.",
-        "summary": "Boiler Room presents a multi-artist event on 2026-09-26 in Los Angeles featuring a sprawling lineup that includes Bb trickz, Benny The Butcher, Bladee, Danny Brown, Princess Nokia, Thaiboy Digital, WONDAGURL and numerous DJ sets. The bill blends headline acts and DJs/producers across hip-hop and electronic scenes.",
-        "promoter": "",
-        "price": "From $59.99",
-        "tags": [
-          "dj",
-          "live",
-          "hip-hop",
-          "electronic",
-          "experimental"
-        ],
-        "sources": [],
-        "tickets": [],
-        "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=Los%20Angeles",
-          "apple": "https://maps.apple.com/?q=Los%20Angeles"
-        },
-        "coords": null,
-        "coords_precise": false,
-        "ra": {},
-        "image": "https://party-scout.app/img/gen/boiler-room-bb-trickz-be-6aaa.jpg",
-        "image_generated": true,
-        "popularity": 0,
-        "enriched": 2,
-        "active": true
-      },
-      {
         "id": "2026-09-21-music-boiler-room-la-saturday-6c1622",
         "eid": "boiler-room-la-saturday-58c4",
         "track": "music",
@@ -6001,7 +5448,12 @@
           "boiler-room",
           "open-air",
           "multi-genre",
-          "outdoor"
+          "outdoor",
+          "dj",
+          "live",
+          "hip-hop",
+          "electronic",
+          "experimental"
         ],
         "sources": [
           "https://boilerroom.tv/session/la-saturday-26/",
@@ -6285,7 +5737,8 @@
           "techno",
           "vinyl",
           "secret-location",
-          "underground"
+          "underground",
+          "minimal"
         ],
         "sources": [
           "https://edmtrain.com/los-angeles-ca/if-you-know-you-know-dj-masda-514848",
@@ -6771,69 +6224,6 @@
         "popularity": 0,
         "enriched": 2,
         "active": true
-      },
-      {
-        "id": "2026-09-21-music-if-you-know-you-know-with-dj-m-bcd44e",
-        "eid": "if-you-know-you-know-wit-a940",
-        "track": "music",
-        "category": "Nightclub",
-        "name": "If You Know You Know with DJ Masda, Mesmé, Etari, & Chemtrail Johnny",
-        "day": "Sat",
-        "date": "2026-09-26",
-        "time": "10pm–8am",
-        "start": "22:00",
-        "end": "08:00",
-        "area": "Los Angeles",
-        "venue": "TBA - IYKYK ",
-        "address": "",
-        "why": "Secret-venue minimal/techno night prized for curation over spectacle, not a fixed club room",
-        "summary": "IYKYK is a recurring LA underground night built around stripped-back minimal, progressive and techno programming; this edition brings together DJ Masda, Mesmé, Etari and Chemtrail Johnny at a secret venue revealed to ticket holders.",
-        "promoter": "If You Know You Know (IYKYK)",
-        "price": "",
-        "tags": [
-          "underground",
-          "techno",
-          "minimal",
-          "house",
-          "secret-location"
-        ],
-        "sources": [
-          "https://edmtrain.com/los-angeles-ca/if-you-know-you-know-dj-masda-514848",
-          "https://ra.co/events/2472541"
-        ],
-        "tickets": [
-          "https://ra.co/events/2472541"
-        ],
-        "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=Los%20Angeles",
-          "apple": "https://maps.apple.com/?q=Los%20Angeles"
-        },
-        "coords": null,
-        "coords_precise": false,
-        "ra": {},
-        "image": "https://api.party-scout.app/img/los-angeles/2026-09-21/if-you-know-you-know-wit-a940.jpg",
-        "image_generated": false,
-        "popularity": 0,
-        "enriched": 2,
-        "active": true,
-        "lineup": [
-          {
-            "name": "DJ Masda",
-            "instagram": null
-          },
-          {
-            "name": "Mesmé",
-            "instagram": null
-          },
-          {
-            "name": "Etari",
-            "instagram": null
-          },
-          {
-            "name": "Chemtrail Johnny",
-            "instagram": null
-          }
-        ]
       },
       {
         "id": "2026-09-21-music-iku-veiled-eye-junior-grimez-h-6a392e",
@@ -8306,52 +7696,6 @@
         ]
       },
       {
-        "id": "2026-09-21-music-boiler-room-la-sunday-2a76e3",
-        "eid": "boiler-room-la-sunday-fa0d",
-        "track": "music",
-        "category": "Nightclub",
-        "name": "Boiler Room: LA | Sunday",
-        "day": "Sun",
-        "date": "2026-09-27",
-        "time": "3pm–11pm",
-        "start": "15:00",
-        "end": "23:00",
-        "area": "DTLA",
-        "venue": "TBA",
-        "address": "125 Paseo De La Plaza, Los Angeles, CA 90012",
-        "why": "Boiler Room's marquee LA broadcast, spread across multiple stages at a historic downtown venue.",
-        "summary": "Boiler Room returns to LA's El Pueblo Historical Monument for a multi-stage techno and house takeover, streamed live to its global audience.",
-        "promoter": "Boiler Room",
-        "price": "$60",
-        "tags": [
-          "techno",
-          "house",
-          "multi-stage",
-          "boiler-room"
-        ],
-        "sources": [
-          "https://boilerroom.tv/session/la-26/",
-          "https://dice.fm/event/q2w9m9-boiler-room-la-sunday-27th-sep-venue-tba-los-angeles-los-angeles-tickets",
-          "https://ra.co/events/2404470"
-        ],
-        "tickets": [
-          "https://dice.fm/event/q2w9m9-boiler-room-la-sunday-27th-sep-venue-tba-los-angeles-los-angeles-tickets",
-          "https://ra.co/events/2404470"
-        ],
-        "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=Los%20Angeles",
-          "apple": "https://maps.apple.com/?q=Los%20Angeles"
-        },
-        "coords": null,
-        "coords_precise": false,
-        "ra": {},
-        "image": "https://api.party-scout.app/img/los-angeles/2026-09-21/boiler-room-la-sunday-fa0d.jpg",
-        "image_generated": false,
-        "popularity": 0,
-        "enriched": 2,
-        "active": true
-      },
-      {
         "id": "2026-09-21-music-boiler-room-teletech-50ad75",
         "eid": "boiler-room-teletech-2642",
         "track": "music",
@@ -8378,11 +7722,13 @@
         "sources": [
           "https://boilerroom.tv/session/la-26/",
           "https://dice.fm/event/q2w9m9-boiler-room-la-teletech-27th-sep-venue-tba-los-angeles-los-angeles-tickets",
-          "https://ra.co/events/2404470"
+          "https://ra.co/events/2404470",
+          "https://dice.fm/event/q2w9m9-boiler-room-la-sunday-27th-sep-venue-tba-los-angeles-los-angeles-tickets"
         ],
         "tickets": [
           "https://dice.fm/event/q2w9m9-boiler-room-la-teletech-27th-sep-venue-tba-los-angeles-los-angeles-tickets",
-          "https://ra.co/events/2404470"
+          "https://ra.co/events/2404470",
+          "https://dice.fm/event/q2w9m9-boiler-room-la-sunday-27th-sep-venue-tba-los-angeles-los-angeles-tickets"
         ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Los%20Angeles",

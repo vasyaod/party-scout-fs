@@ -5,7 +5,7 @@
   "location": "Los Angeles & SoCal",
   "city": "los-angeles",
   "city_label": "Los Angeles",
-  "generated_at": "2026-10-09",
+  "generated_at": "2026-10-31",
   "tracks": {
     "music": [
       {
@@ -151,7 +151,10 @@
           "headliner",
           "amphitheater",
           "outdoor",
-          "all-ages"
+          "all-ages",
+          "electronic",
+          "dance",
+          "live"
         ],
         "sources": [
           "https://www.ticketmaster.com/event/0B006465E365551D",
@@ -163,8 +166,8 @@
           "https://www.hollywoodbowl.com/events/performances/4537/2026-10-08/empire-of-the-sun"
         ],
         "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=Hollywood%20Bowl%2C%20Hollywood",
-          "apple": "https://maps.apple.com/?q=Hollywood%20Bowl%2C%20Hollywood"
+          "google": "https://www.google.com/maps/search/?api=1&query=Hollywood%20Bowl%2C%20Los%20Angeles",
+          "apple": "https://maps.apple.com/?q=Hollywood%20Bowl%2C%20Los%20Angeles"
         },
         "coords": null,
         "coords_precise": false,
@@ -422,7 +425,11 @@
         "tags": [
           "techno",
           "warehouse",
-          "underground"
+          "underground",
+          "dj",
+          "21+",
+          "club",
+          "dance"
         ],
         "sources": [
           "https://ra.co/events/2504787",
@@ -432,8 +439,8 @@
           "https://ra.co/events/2504787"
         ],
         "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=LA",
-          "apple": "https://maps.apple.com/?q=LA"
+          "google": "https://www.google.com/maps/search/?api=1&query=Los%20Angeles",
+          "apple": "https://maps.apple.com/?q=Los%20Angeles"
         },
         "coords": null,
         "coords_precise": false,
@@ -520,7 +527,8 @@
           "house",
           "jazz-house",
           "rooftop",
-          "21+"
+          "21+",
+          "outdoor"
         ],
         "sources": [
           "https://www.eventbrite.com/e/dublon-rooftop-party-tickets-1990141419559",
@@ -531,8 +539,8 @@
           "https://ra.co/events/2455911"
         ],
         "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=Harbor%20House%20Rooftop%2C%20LA",
-          "apple": "https://maps.apple.com/?q=Harbor%20House%20Rooftop%2C%20LA"
+          "google": "https://www.google.com/maps/search/?api=1&query=Level%208%20DTLA%2C%20Los%20Angeles",
+          "apple": "https://maps.apple.com/?q=Level%208%20DTLA%2C%20Los%20Angeles"
         },
         "coords": null,
         "coords_precise": false,
@@ -690,7 +698,7 @@
         "start": "21:00",
         "end": "04:00",
         "area": "DTLA/Los Angeles",
-        "venue": "TBA",
+        "venue": "Downtown Los Angeles",
         "address": "",
         "why": "For marathon late-night DJ sets and dancing into the early morning.",
         "summary": "A late-night dance event in Los Angeles on Oct 9, 2026, featuring Roman Flugel, Josh Caffe, and Jane Margarette, running 10pm–5am.",
@@ -699,7 +707,10 @@
         "tags": [
           "dj",
           "dance",
-          "late-night"
+          "late-night",
+          "electronic",
+          "techno",
+          "21+"
         ],
         "sources": [
           "https://ra.co/events/2526488"
@@ -708,8 +719,8 @@
           "https://ra.co/events/2526488"
         ],
         "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=DTLA",
-          "apple": "https://maps.apple.com/?q=DTLA"
+          "google": "https://www.google.com/maps/search/?api=1&query=Downtown%20Los%20Angeles%2C%20Los%20Angeles",
+          "apple": "https://maps.apple.com/?q=Downtown%20Los%20Angeles%2C%20Los%20Angeles"
         },
         "coords": null,
         "coords_precise": false,
@@ -804,20 +815,27 @@
         "tags": [
           "house",
           "tech house",
-          "21+"
+          "21+",
+          "dj",
+          "electronic",
+          "dance",
+          "paid",
+          "late-night"
         ],
         "sources": [
           "https://www.tixr.com/groups/exchangela/events/kyle-watson-360-200843",
           "https://exchangela.com/event/kyle-watson-house-dj-music-concert-show-tonight-tomorrow-2026-october-9-best-night-club-near-me-los-angeles/",
-          "https://www.ticketweb.com/event/kyle-watson-360-exchange-la-tickets/14991793"
+          "https://www.ticketweb.com/event/kyle-watson-360-exchange-la-tickets/14991793",
+          "https://app.discotech.me/events/38247347-kyle-watson-360deg-at-exchange-la",
+          "https://19hz.info/eventlisting_LosAngeles.php"
         ],
         "tickets": [
           "https://www.ticketweb.com/event/kyle-watson-360-exchange-la-tickets/14991793",
           "https://www.tixr.com/groups/exchangela/events/kyle-watson-360-200843"
         ],
         "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=Exchange%2C%20LA",
-          "apple": "https://maps.apple.com/?q=Exchange%2C%20LA"
+          "google": "https://www.google.com/maps/search/?api=1&query=Exchange%20LA%2C%20Los%20Angeles",
+          "apple": "https://maps.apple.com/?q=Exchange%20LA%2C%20Los%20Angeles"
         },
         "coords": null,
         "coords_precise": false,
@@ -1146,7 +1164,7 @@
         "start": "22:00",
         "end": "04:00",
         "area": "DTLA/Los Angeles",
-        "venue": "TBA",
+        "venue": "Los Angeles (Warehouse)",
         "address": "",
         "why": "California's first all-female riddim lineup, with proceeds benefiting breast cancer research",
         "summary": "Riddim Reign is a two-day riddim/dubstep showcase billed as California's first all-female riddim lineup, presented by Secret Tunnel with XIHILO and JDM. A portion of profits goes to The Breast Cancer Research Foundation; the venue is a secret warehouse location revealed to ticket holders closer to the date.",
@@ -1159,7 +1177,11 @@
           "all-female-lineup",
           "charity",
           "warehouse",
-          "21+"
+          "21+",
+          "nightlife",
+          "late-night",
+          "paid",
+          "cover"
         ],
         "sources": [
           "https://www.secrettunnel.app/event/6a8fdfc34f31858645cfd3c3/selectTickets",
@@ -1169,8 +1191,8 @@
           "https://www.secrettunnel.app/event/6a8fdfc34f31858645cfd3c3/selectTickets"
         ],
         "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=DTLA",
-          "apple": "https://maps.apple.com/?q=DTLA"
+          "google": "https://www.google.com/maps/search/?api=1&query=Los%20Angeles%20%28Warehouse%29%2C%20Los%20Angeles",
+          "apple": "https://maps.apple.com/?q=Los%20Angeles%20%28Warehouse%29%2C%20Los%20Angeles"
         },
         "coords": null,
         "coords_precise": false,
@@ -1354,7 +1376,12 @@
         "tags": [
           "21+",
           "club",
-          "dance"
+          "dance",
+          "dj",
+          "electronic",
+          "free",
+          "party",
+          "late-night"
         ],
         "sources": [
           "https://www.ticketweb.com/event/tobehonest-gabss-b2b-moontalk-inntraw-academy-la-tickets/14299534",
@@ -1367,8 +1394,8 @@
           "https://ra.co/events/2527935"
         ],
         "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=Academy%20LA%2C%20LA",
-          "apple": "https://maps.apple.com/?q=Academy%20LA%2C%20LA"
+          "google": "https://www.google.com/maps/search/?api=1&query=Academy%20LA%2C%20Los%20Angeles",
+          "apple": "https://maps.apple.com/?q=Academy%20LA%2C%20Los%20Angeles"
         },
         "coords": null,
         "coords_precise": false,
@@ -1378,7 +1405,12 @@
         "popularity": 0,
         "enriched": 2,
         "active": true,
-        "lineup": []
+        "lineup": [
+          {
+            "name": "TOBEHONEST",
+            "instagram": null
+          }
+        ]
       },
       {
         "id": "2026-10-05-music-woo-york-live-01e8ec",
@@ -1401,7 +1433,8 @@
         "tags": [
           "techno",
           "live",
-          "underground"
+          "underground",
+          "electronic"
         ],
         "sources": [
           "https://www.eventbrite.com/e/set-with-woo-york-live-los-angeles-tickets-1998306373155",
@@ -1412,8 +1445,8 @@
           "https://ra.co/events/2520138"
         ],
         "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=Community%20Berlin%2C%20LA",
-          "apple": "https://maps.apple.com/?q=Community%20Berlin%2C%20LA"
+          "google": "https://www.google.com/maps/search/?api=1&query=11819%20Sherman%20Way%2C%20North%20Hollywood%2C%20CA%2C%2091605%2C%20USA",
+          "apple": "https://maps.apple.com/?q=11819%20Sherman%20Way%2C%20North%20Hollywood%2C%20CA%2C%2091605%2C%20USA"
         },
         "coords": null,
         "coords_precise": false,
@@ -2743,20 +2776,22 @@
           "late-night",
           "party",
           "club",
-          "21+"
+          "21+",
+          "dj",
+          "dance"
         ],
         "sources": [
           "https://stageglo.me/events/afters-tooneyverse-free-cocktail-w-entry-2026-10-09/hz20261009"
         ],
         "tickets": [],
         "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=1253%20S%20Los%20Angeles%20St%20Ste%20C%2C%20Los%20Angeles",
-          "apple": "https://maps.apple.com/?q=1253%20S%20Los%20Angeles%20St%20Ste%20C%2C%20Los%20Angeles"
+          "google": "https://www.google.com/maps/search/?api=1&query=Tooneyverse%20%40%201253%20S%20Los%20Angeles%20St%20Ste%20C%2C%20Los%20Angeles",
+          "apple": "https://maps.apple.com/?q=Tooneyverse%20%40%201253%20S%20Los%20Angeles%20St%20Ste%20C%2C%20Los%20Angeles"
         },
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://party-scout.app/img/gen/afters-fa6b.jpg",
         "image_generated": false,
         "popularity": 0,
         "enriched": 1,
@@ -3753,7 +3788,10 @@
           "house",
           "outdoor",
           "daytime",
-          "b2b"
+          "b2b",
+          "dj",
+          "21+",
+          "club"
         ],
         "sources": [
           "https://ra.co/events/2457752",
@@ -3763,8 +3801,8 @@
           "https://ra.co/events/2457752"
         ],
         "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=California%20Plaza%2C%20DTLA",
-          "apple": "https://maps.apple.com/?q=California%20Plaza%2C%20DTLA"
+          "google": "https://www.google.com/maps/search/?api=1&query=340%20S%20Grand%20Ave%2C%20Los%20Angeles%2C%20CA%2090071%2C%20USA",
+          "apple": "https://maps.apple.com/?q=340%20S%20Grand%20Ave%2C%20Los%20Angeles%2C%20CA%2090071%2C%20USA"
         },
         "coords": null,
         "coords_precise": false,
@@ -3944,7 +3982,9 @@
         "tags": [
           "live",
           "music",
-          "concert"
+          "concert",
+          "dj",
+          "nightclub"
         ],
         "sources": [
           "https://ra.co/events/2542279"
@@ -3953,8 +3993,8 @@
           "https://ra.co/events/2542279"
         ],
         "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=DTLA/Los%20Angeles",
-          "apple": "https://maps.apple.com/?q=DTLA/Los%20Angeles"
+          "google": "https://www.google.com/maps/search/?api=1&query=Los%20Angeles",
+          "apple": "https://maps.apple.com/?q=Los%20Angeles"
         },
         "coords": null,
         "coords_precise": false,
@@ -4286,7 +4326,10 @@
         "tags": [
           "disco",
           "halloween",
-          "free"
+          "free",
+          "dance",
+          "dj",
+          "party"
         ],
         "sources": [
           "https://dice.fm/event/2wq9x7-misfits-la-disco-luau-spooky-edition-10th-oct-high-tide-los-angeles-tickets",
@@ -4297,8 +4340,8 @@
           "https://ra.co/events/2530204"
         ],
         "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=High%20Tide%2C%20LA",
-          "apple": "https://maps.apple.com/?q=High%20Tide%2C%20LA"
+          "google": "https://www.google.com/maps/search/?api=1&query=605%20E%204th%20St%2C%20Los%20Angeles%2C%20CA%2090013",
+          "apple": "https://maps.apple.com/?q=605%20E%204th%20St%2C%20Los%20Angeles%2C%20CA%2090013"
         },
         "coords": null,
         "coords_precise": false,
@@ -4307,7 +4350,13 @@
         "image_generated": false,
         "popularity": 0,
         "enriched": 1,
-        "active": true
+        "active": true,
+        "lineup": [
+          {
+            "name": "Kyrxmi",
+            "instagram": null
+          }
+        ]
       },
       {
         "id": "2026-10-05-music-telykast-a0c255",
@@ -4372,15 +4421,16 @@
         "tags": [
           "dj",
           "21+",
-          "late-night"
+          "late-night",
+          "afterhours"
         ],
         "sources": [
           "https://stageglo.me/events/afters-tooneyverse-free-cocktail-w-entry-2026-10-11/hz20261011"
         ],
         "tickets": [],
         "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=1253%20S%20Los%20Angeles%20St%20Ste%20C%2C%20Los%20Angeles",
-          "apple": "https://maps.apple.com/?q=1253%20S%20Los%20Angeles%20St%20Ste%20C%2C%20Los%20Angeles"
+          "google": "https://www.google.com/maps/search/?api=1&query=Tooneyverse%20%40%201253%20S%20Los%20Angeles%20St%20Ste%20C%2C%20Los%20Angeles",
+          "apple": "https://maps.apple.com/?q=Tooneyverse%20%40%201253%20S%20Los%20Angeles%20St%20Ste%20C%2C%20Los%20Angeles"
         },
         "coords": null,
         "coords_precise": false,
@@ -4914,49 +4964,6 @@
         "active": true
       },
       {
-        "id": "2026-10-05-music-muah-9e63c6",
-        "eid": "muah-93e2",
-        "track": "music",
-        "category": "Nightclub",
-        "name": "MUAH",
-        "day": "Fri",
-        "date": "2026-10-09",
-        "time": "22:00",
-        "start": "22:00",
-        "end": "02:00",
-        "area": "Los Angeles",
-        "venue": "Fountain LA",
-        "address": "2889 W Olympic Blvd, Los Angeles CA 90006",
-        "why": "A free, late-night outing for dancing and socializing.",
-        "summary": "MUAH is a free event on 2026-10-09 at 2889 W Olympic Blvd in Los Angeles, running 10pm–2am.",
-        "promoter": "",
-        "price": "Free",
-        "tags": [
-          "free",
-          "late-night",
-          "dance",
-          "nightlife"
-        ],
-        "sources": [
-          "https://ra.co/events/2552103"
-        ],
-        "tickets": [
-          "https://ra.co/events/2552103"
-        ],
-        "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=Fountain%20LA%2C%20Los%20Angeles",
-          "apple": "https://maps.apple.com/?q=Fountain%20LA%2C%20Los%20Angeles"
-        },
-        "coords": null,
-        "coords_precise": false,
-        "ra": {},
-        "image": "https://party-scout.app/img/gen/muah-93e2.jpg",
-        "image_generated": false,
-        "popularity": 0,
-        "enriched": 1,
-        "active": true
-      },
-      {
         "id": "2026-10-05-music-sikeen-07a3ef",
         "eid": "sikeen-24b4",
         "track": "music",
@@ -4999,59 +5006,6 @@
         "active": true
       },
       {
-        "id": "2026-10-05-music-work-presents-bart-skils-4-hou-52aa38",
-        "eid": "work-presents-bart-skils-94c9",
-        "track": "music",
-        "category": "Nightclub",
-        "name": "WORK presents: Bart Skils [4 Hour Set] & fun2bjane",
-        "day": "Fri",
-        "date": "2026-10-09",
-        "time": "23:00",
-        "start": "23:00",
-        "end": "05:00",
-        "area": "Los Angeles",
-        "venue": "TBA - Los Angeles",
-        "address": "",
-        "why": "To dance through the night to an extended DJ set and high-energy club vibe.",
-        "summary": "A late-night club event on October 9, 2026, presented by WORK featuring Bart Skils (four-hour set) and fun2bjane, running 11pm–5am with tickets $25–$45.",
-        "promoter": "",
-        "price": "$25-45",
-        "tags": [
-          "dj",
-          "21+",
-          "club",
-          "dance"
-        ],
-        "sources": [
-          "https://ra.co/events/2504787"
-        ],
-        "tickets": [
-          "https://ra.co/events/2504787"
-        ],
-        "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=Los%20Angeles",
-          "apple": "https://maps.apple.com/?q=Los%20Angeles"
-        },
-        "coords": null,
-        "coords_precise": false,
-        "ra": {},
-        "image": "https://images.ra.co/038a90333f84759aaf07c5093dc84d00a6fbb889.png",
-        "image_generated": false,
-        "popularity": 0,
-        "enriched": 1,
-        "active": true,
-        "lineup": [
-          {
-            "name": "Bart Skils",
-            "instagram": null
-          },
-          {
-            "name": "fun2bjane",
-            "instagram": null
-          }
-        ]
-      },
-      {
         "id": "2026-10-05-music-afters-tooneyverse-48778f",
         "eid": "afters-tooneyverse-59b3",
         "track": "music",
@@ -5072,15 +5026,17 @@
         "tags": [
           "afterparty",
           "late-night",
-          "party"
+          "party",
+          "after-hours",
+          "dance"
         ],
         "sources": [
           "https://stageglo.me/events/afters-tooneyverse-free-cocktail-w-entry-2026-10-10/hz20261010"
         ],
         "tickets": [],
         "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=1253%20S%20Los%20Angeles%20St%20Ste%20C%2C%20Los%20Angeles",
-          "apple": "https://maps.apple.com/?q=1253%20S%20Los%20Angeles%20St%20Ste%20C%2C%20Los%20Angeles"
+          "google": "https://www.google.com/maps/search/?api=1&query=Tooneyverse%20%40%201253%20S%20Los%20Angeles%20St%20Ste%20C%2C%20Los%20Angeles",
+          "apple": "https://maps.apple.com/?q=Tooneyverse%20%40%201253%20S%20Los%20Angeles%20St%20Ste%20C%2C%20Los%20Angeles"
         },
         "coords": null,
         "coords_precise": false,
@@ -5133,71 +5089,6 @@
         "popularity": 0,
         "enriched": 1,
         "active": true
-      },
-      {
-        "id": "2026-10-05-music-cancelled-marques-wyatt-b2b-do-5e5470",
-        "eid": "cancelled-marques-wyatt-8345",
-        "track": "music",
-        "category": "Nightclub",
-        "name": "[CANCELLED] Marques Wyatt B2B Doc Martin - Imagine Luv presents: A Celebration of House Music",
-        "day": "Sat",
-        "date": "2026-10-10",
-        "time": "13:00",
-        "start": "13:00",
-        "end": "21:00",
-        "area": "Los Angeles",
-        "venue": "California Plaza",
-        "address": "340 S Grand Ave, Los Angeles, CA 90071, USA",
-        "why": "Because it promised an extended b2b house DJ experience from respected selectors.",
-        "summary": "Cancelled — a planned back-to-back set by Marques Wyatt and Doc Martin billed as a celebration of house music.",
-        "promoter": "",
-        "price": "$20",
-        "tags": [
-          "house",
-          "dj",
-          "21+",
-          "club"
-        ],
-        "sources": [
-          "https://ra.co/events/2457752"
-        ],
-        "tickets": [
-          "https://ra.co/events/2457752"
-        ],
-        "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=340%20S%20Grand%20Ave%2C%20Los%20Angeles%2C%20CA%2090071%2C%20USA",
-          "apple": "https://maps.apple.com/?q=340%20S%20Grand%20Ave%2C%20Los%20Angeles%2C%20CA%2090071%2C%20USA"
-        },
-        "coords": null,
-        "coords_precise": false,
-        "ra": {},
-        "image": "https://images.ra.co/5ec2196935f2455b8b54dbdb49516887a139c0c1.png",
-        "image_generated": false,
-        "popularity": 0,
-        "enriched": 1,
-        "active": true,
-        "lineup": [
-          {
-            "name": "Marques Wyatt",
-            "instagram": null
-          },
-          {
-            "name": "Doc Martin",
-            "instagram": null
-          },
-          {
-            "name": "David Harness",
-            "instagram": null
-          },
-          {
-            "name": "Big Cee",
-            "instagram": null
-          },
-          {
-            "name": "SEEPS",
-            "instagram": null
-          }
-        ]
       },
       {
         "id": "2026-10-05-music-deep-tech-on-the-bay-38-emanat-1d81b7",
@@ -5339,11 +5230,12 @@
         "why": "To dance through the late-night hours in central Los Angeles.",
         "summary": "Late-night event at 3680 Wilshire Blvd #503 in Los Angeles on October 10, 2026, running 10pm–2am.",
         "promoter": "",
-        "price": "",
+        "price": "free w/rsvp b4 11pm/ $10",
         "tags": [
           "dj",
           "21+",
-          "late-night"
+          "late-night",
+          "electronic"
         ],
         "sources": [
           "https://ra.co/events/2551366"
@@ -5352,8 +5244,8 @@
           "https://ra.co/events/2551366"
         ],
         "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=Matriarch%20LA%2C%20Los%20Angeles",
-          "apple": "https://maps.apple.com/?q=Matriarch%20LA%2C%20Los%20Angeles"
+          "google": "https://www.google.com/maps/search/?api=1&query=Matriarch%2C%20Los%20Angeles",
+          "apple": "https://maps.apple.com/?q=Matriarch%2C%20Los%20Angeles"
         },
         "coords": null,
         "coords_precise": false,
@@ -5374,104 +5266,6 @@
           },
           {
             "name": "GESHAY",
-            "instagram": null
-          }
-        ]
-      },
-      {
-        "id": "2026-10-05-music-misfits-la-x-vibe-junkies-pres-de9a13",
-        "eid": "misfits-la-x-vibe-junkie-4fdb",
-        "track": "music",
-        "category": "Nightclub",
-        "name": "Misfits LA x Vibe Junkies present: Spooky Disco Luau",
-        "day": "Sat",
-        "date": "2026-10-10",
-        "time": "21:00",
-        "start": "21:00",
-        "end": "02:00",
-        "area": "Los Angeles",
-        "venue": "High Tide",
-        "address": "605 E 4th St, Los Angeles, CA 90013",
-        "why": "Because it's a disco-focused, costume-friendly dance night with a spooky seasonal vibe.",
-        "summary": "Misfits LA and Vibe Junkies present “Spooky Disco Luau” on October 10, 2026 in Los Angeles.",
-        "promoter": "",
-        "price": "$10",
-        "tags": [
-          "disco",
-          "dance",
-          "dj",
-          "halloween",
-          "party"
-        ],
-        "sources": [
-          "https://ra.co/events/2530204"
-        ],
-        "tickets": [
-          "https://ra.co/events/2530204"
-        ],
-        "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=605%20E%204th%20St%2C%20Los%20Angeles%2C%20CA%2090013",
-          "apple": "https://maps.apple.com/?q=605%20E%204th%20St%2C%20Los%20Angeles%2C%20CA%2090013"
-        },
-        "coords": null,
-        "coords_precise": false,
-        "ra": {},
-        "image": "https://images.ra.co/93b41aa074e83eef740094aab0a14bd5958cc2fa.png",
-        "image_generated": false,
-        "popularity": 0,
-        "enriched": 1,
-        "active": true,
-        "lineup": [
-          {
-            "name": "Kyrxmi",
-            "instagram": null
-          }
-        ]
-      },
-      {
-        "id": "2026-10-05-music-night-trip-la-tobehonest-gabss-2912a6",
-        "eid": "night-trip-la-tobehonest-7097",
-        "track": "music",
-        "category": "Nightclub",
-        "name": "Night Trip LA: TOBEHONEST, Gabss B2B Moontalk, InntRaw",
-        "day": "Sat",
-        "date": "2026-10-10",
-        "time": "22:00",
-        "start": "22:00",
-        "end": "02:00",
-        "area": "Los Angeles",
-        "venue": "Academy LA",
-        "address": "6021 Hollywood Blvd.  Los Angeles, CA 90028, USA",
-        "why": "For multiple DJ sets and a back-to-back performance in one night.",
-        "summary": "Night Trip LA on 2026-10-10 in Los Angeles features TOBEHONEST, Gabss B2B Moontalk, and InntRaw.",
-        "promoter": "",
-        "price": "Free",
-        "tags": [
-          "dj",
-          "electronic",
-          "dance"
-        ],
-        "sources": [
-          "https://ra.co/events/2527935"
-        ],
-        "tickets": [
-          "https://ra.co/events/2527935"
-        ],
-        "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=6021%20Hollywood%20Blvd.%20%20Los%20Angeles%2C%20CA%2090028%2C%20USA",
-          "apple": "https://maps.apple.com/?q=6021%20Hollywood%20Blvd.%20%20Los%20Angeles%2C%20CA%2090028%2C%20USA"
-        },
-        "coords": null,
-        "coords_precise": false,
-        "ra": {},
-        "image": "https://images.ra.co/bc2fe0c35a9feca428721636f4c33340918aaf76.jpg",
-        "image_generated": false,
-        "popularity": 0,
-        "enriched": 1,
-        "active": true,
-        "lineup": [
-          {
-            "name": "TOBEHONEST",
             "instagram": null
           }
         ]
@@ -5559,104 +5353,6 @@
         "popularity": 0,
         "enriched": 1,
         "active": true
-      },
-      {
-        "id": "2026-10-05-music-set-with-woo-york-live-7997a6",
-        "eid": "set-with-woo-york-live-944a",
-        "track": "music",
-        "category": "Concert",
-        "name": "SET with Woo York [Live]",
-        "day": "Sat",
-        "date": "2026-10-10",
-        "time": "22:00",
-        "start": "22:00",
-        "end": "03:00",
-        "area": "Los Angeles",
-        "venue": "Community Berlin",
-        "address": "11819 Sherman Way, North Hollywood, CA, 91605, USA",
-        "why": "To see a live music performance in Los Angeles on October 10.",
-        "summary": "Live performance by Woo York on October 10, 2026 in Los Angeles.",
-        "promoter": "",
-        "price": "$25-$50",
-        "tags": [
-          "live",
-          "electronic"
-        ],
-        "sources": [
-          "https://ra.co/events/2520138"
-        ],
-        "tickets": [
-          "https://ra.co/events/2520138"
-        ],
-        "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=11819%20Sherman%20Way%2C%20North%20Hollywood%2C%20CA%2C%2091605%2C%20USA",
-          "apple": "https://maps.apple.com/?q=11819%20Sherman%20Way%2C%20North%20Hollywood%2C%20CA%2C%2091605%2C%20USA"
-        },
-        "coords": null,
-        "coords_precise": false,
-        "ra": {},
-        "image": "https://images.ra.co/0ebd351ac701ebfcd76e8f0db92bc82851269941.jpg",
-        "image_generated": false,
-        "popularity": 0,
-        "enriched": 1,
-        "active": true,
-        "lineup": [
-          {
-            "name": "Woo York",
-            "instagram": null
-          }
-        ]
-      },
-      {
-        "id": "2026-10-05-music-smd-pablo-bozzi-jorkes-4de02e",
-        "eid": "smd-pablo-bozzi-jorkes-f085",
-        "track": "music",
-        "category": "Nightclub",
-        "name": "SMD - Pablo Bozzi & Jorkes",
-        "day": "Sat",
-        "date": "2026-10-10",
-        "time": "23:00",
-        "start": "23:00",
-        "end": "05:00",
-        "area": "Los Angeles",
-        "venue": "TBA - Downtown LA",
-        "address": "",
-        "why": "For fans of artist-led nights and guest sets.",
-        "summary": "An event on 2026-10-10 in Los Angeles featuring Pablo Bozzi and Jorkes.",
-        "promoter": "",
-        "price": "$20-45",
-        "tags": [
-          "dj",
-          "nightclub"
-        ],
-        "sources": [
-          "https://ra.co/events/2542279"
-        ],
-        "tickets": [
-          "https://ra.co/events/2542279"
-        ],
-        "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=Los%20Angeles",
-          "apple": "https://maps.apple.com/?q=Los%20Angeles"
-        },
-        "coords": null,
-        "coords_precise": false,
-        "ra": {},
-        "image": "https://images.ra.co/ddea5689066f4f9c6b0b76a1c97e425126cfc8fd.png",
-        "image_generated": false,
-        "popularity": 0,
-        "enriched": 1,
-        "active": true,
-        "lineup": [
-          {
-            "name": "Pablo Bozzi",
-            "instagram": null
-          },
-          {
-            "name": "Jorkes",
-            "instagram": null
-          }
-        ]
       },
       {
         "id": "2026-10-05-music-that-other-social-chapter-1-xi-3b9d8b",
@@ -5980,7 +5676,8 @@
           "electronic",
           "wellness",
           "daytime",
-          "live"
+          "live",
+          "meditation"
         ],
         "sources": [
           "https://www.eventbrite.com/e/synthesizer-soundbath-12pm-130pm-feat-alex-pelly-tickets-2001094123391",
@@ -5991,56 +5688,14 @@
           "https://ra.co/events/2547764"
         ],
         "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=1200%20N%20Ave%2054%2C%20Los%20Angeles%2C%20CA%2090042%2C%20USA",
-          "apple": "https://maps.apple.com/?q=1200%20N%20Ave%2054%2C%20Los%20Angeles%2C%20CA%2090042%2C%20USA"
+          "google": "https://www.google.com/maps/search/?api=1&query=Vintage%20Synthesizer%20Museum%2C%20Los%20Angeles",
+          "apple": "https://maps.apple.com/?q=Vintage%20Synthesizer%20Museum%2C%20Los%20Angeles"
         },
         "coords": null,
         "coords_precise": false,
         "ra": {},
         "image": "https://images.ra.co/2f78e8cf256591530ab8fafd5c9af1ff13852d02.jpg",
         "image_generated": false,
-        "popularity": 0,
-        "enriched": 1,
-        "active": true
-      },
-      {
-        "id": "2026-10-05-music-colin-stauber-live-dj-set-62fafb",
-        "eid": "colin-stauber-live-dj-se-3217",
-        "track": "music",
-        "category": "Nightclub",
-        "name": "Colin Stauber Live DJ Set",
-        "day": "Sat",
-        "date": "2026-10-10",
-        "time": "19:00",
-        "start": "19:00",
-        "end": "22:00",
-        "area": "Los Angeles",
-        "venue": "TBA",
-        "address": "",
-        "why": "To experience a focused live DJ performance and dance to a curated set.",
-        "summary": "Colin Stauber performs a live DJ set in Los Angeles on 2026-10-10.",
-        "promoter": "",
-        "price": "$25.00",
-        "tags": [
-          "dj",
-          "live",
-          "dance"
-        ],
-        "sources": [
-          "https://ra.co/events/2548336"
-        ],
-        "tickets": [
-          "https://ra.co/events/2548336"
-        ],
-        "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=Los%20Angeles",
-          "apple": "https://maps.apple.com/?q=Los%20Angeles"
-        },
-        "coords": null,
-        "coords_precise": false,
-        "ra": {},
-        "image": "https://party-scout.app/img/gen/colin-stauber-live-dj-se-3217.jpg",
-        "image_generated": true,
         "popularity": 0,
         "enriched": 1,
         "active": true
@@ -6252,47 +5907,6 @@
         "active": true
       },
       {
-        "id": "2026-10-05-music-sons-of-legion-soul-to-s-l-wor-8d2a73",
-        "eid": "sons-of-legion-soul-to-s-85bd",
-        "track": "music",
-        "category": "",
-        "name": "Sons of Legion - Soul to SØL World Tour 2026",
-        "day": "Sun",
-        "date": "2026-10-11",
-        "time": "18:30",
-        "start": null,
-        "end": null,
-        "area": "Los Angeles",
-        "venue": "The Wiltern",
-        "address": "",
-        "why": "A rootsy, soulful Sunday-night concert in one of LA's most beautiful historic theaters.",
-        "summary": "Sons of Legion bring their Soul to SØL World Tour to the art deco Wiltern Theatre for a Sunday-evening show, doors around 6:30 pm.",
-        "promoter": "",
-        "price": "",
-        "tags": [
-          "live-music",
-          "soul",
-          "folk",
-          "concert"
-        ],
-        "sources": [
-          "https://app.discotech.me/events/38229022-sons-of-legion-soul-to-sol-world-tour-2026-at-the-wiltern"
-        ],
-        "tickets": [],
-        "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=The%20Wiltern%2C%20Los%20Angeles",
-          "apple": "https://maps.apple.com/?q=The%20Wiltern%2C%20Los%20Angeles"
-        },
-        "coords": null,
-        "coords_precise": false,
-        "ra": {},
-        "image": "https://party-scout.app/img/gen/sons-of-legion-soul-to-s-85bd.jpg",
-        "image_generated": false,
-        "popularity": 0,
-        "enriched": 1,
-        "active": true
-      },
-      {
         "id": "2026-10-05-music-big-gay-heaven-rave-crux-my-he-dfb760",
         "eid": "big-gay-heaven-rave-crux-9dc4",
         "track": "music",
@@ -6413,46 +6027,6 @@
         "active": true
       },
       {
-        "id": "2026-10-05-music-empire-of-the-sun-polo-pan-mid-30859a",
-        "eid": "empire-of-the-sun-polo-p-56db",
-        "track": "music",
-        "category": "Concert",
-        "name": "Empire of the Sun, Polo & Pan, Midnight Generation",
-        "day": "Thu",
-        "date": "2026-10-08",
-        "time": "19:30",
-        "start": "19:30",
-        "end": null,
-        "area": "Los Angeles",
-        "venue": "Hollywood Bowl",
-        "address": "",
-        "why": "For a high-energy night of electronic/dance music and live performance.",
-        "summary": "A Los Angeles concert on 2026-10-08 featuring Empire of the Sun, Polo & Pan, and Midnight Generation. Tickets are listed from $65+.",
-        "promoter": "",
-        "price": "$65+",
-        "tags": [
-          "electronic",
-          "dance",
-          "live"
-        ],
-        "sources": [],
-        "tickets": [
-          "https://www.livenation.com/event/vvG1iZ_k9N_4fq/empire-of-the-sun-ask-that-god-afterlife-north-american-tour"
-        ],
-        "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=Hollywood%20Bowl%2C%20Los%20Angeles",
-          "apple": "https://maps.apple.com/?q=Hollywood%20Bowl%2C%20Los%20Angeles"
-        },
-        "coords": null,
-        "coords_precise": false,
-        "ra": {},
-        "image": "https://party-scout.app/img/gen/empire-of-the-sun-polo-p-56db.jpg",
-        "image_generated": true,
-        "popularity": 0,
-        "enriched": 1,
-        "active": true
-      },
-      {
         "id": "2026-10-05-music-house-of-utopia-jaden-bojsen-r-e35341",
         "eid": "house-of-utopia-jaden-bo-8649",
         "track": "music",
@@ -6568,51 +6142,6 @@
         "active": true
       },
       {
-        "id": "2026-10-05-music-kyle-watson-trace-no-static-nc-a7bc9d",
-        "eid": "kyle-watson-trace-no-sta-74e7",
-        "track": "music",
-        "category": "Nightclub",
-        "name": "Kyle Watson, Trace, No Static (NC), Miller",
-        "day": "Fri",
-        "date": "2026-10-09",
-        "time": "10pm–3am",
-        "start": "22:00",
-        "end": "03:00",
-        "area": "Los Angeles",
-        "venue": "Exchange LA",
-        "address": "618 S Spring St, Los Angeles, CA",
-        "why": "For a late-night dancefloor of electronic DJs and a budget-friendly $15 cover.",
-        "summary": "A DJ night in Los Angeles on Oct 9, 2026 featuring Kyle Watson, Trace, No Static (NC), and Miller; runs 10pm–3am with a $15 cover.",
-        "promoter": "",
-        "price": "$15",
-        "tags": [
-          "dj",
-          "electronic",
-          "dance",
-          "paid",
-          "late-night"
-        ],
-        "sources": [
-          "https://app.discotech.me/events/38247347-kyle-watson-360deg-at-exchange-la",
-          "https://19hz.info/eventlisting_LosAngeles.php"
-        ],
-        "tickets": [
-          "https://www.tixr.com/groups/exchangela/events/kyle-watson-360-200843"
-        ],
-        "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=Exchange%20LA%2C%20Los%20Angeles",
-          "apple": "https://maps.apple.com/?q=Exchange%20LA%2C%20Los%20Angeles"
-        },
-        "coords": null,
-        "coords_precise": false,
-        "ra": {},
-        "image": "https://party-scout.app/img/gen/kyle-watson-trace-no-sta-74e7.jpg",
-        "image_generated": true,
-        "popularity": 0,
-        "enriched": 1,
-        "active": true
-      },
-      {
         "id": "2026-10-05-music-love-in-this-club-an-r-b-exper-5366a8",
         "eid": "love-in-this-club-an-r-b-a8e4",
         "track": "music",
@@ -6693,45 +6222,6 @@
         "active": true
       },
       {
-        "id": "2026-10-05-music-3rd-street-promenade-music-fes-a71959",
-        "eid": "3rd-street-promenade-mus-1af2",
-        "track": "music",
-        "category": "Festival",
-        "name": "3rd Street Promenade Music Festival: Laidback Luke, Slang Dogs, Moceans, Seduza, Osyris",
-        "day": "Sat",
-        "date": "2026-10-10",
-        "time": "",
-        "start": null,
-        "end": null,
-        "area": "Santa Monica",
-        "venue": "3rd Street Promenade",
-        "address": "",
-        "why": "For high-energy DJ and electronic sets from international and local acts.",
-        "summary": "A music festival on 3rd Street Promenade on October 10, 2026, featuring Laidback Luke, Slang Dogs, Moceans, Seduza, and Osyris.",
-        "promoter": "",
-        "price": "Free",
-        "tags": [
-          "dj",
-          "electronic",
-          "festival",
-          "outdoor"
-        ],
-        "sources": [],
-        "tickets": [],
-        "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=3rd%20Street%20Promenade%2C%20Santa%20Monica",
-          "apple": "https://maps.apple.com/?q=3rd%20Street%20Promenade%2C%20Santa%20Monica"
-        },
-        "coords": null,
-        "coords_precise": false,
-        "ra": {},
-        "image": "",
-        "image_generated": false,
-        "popularity": 0,
-        "enriched": 1,
-        "active": true
-      },
-      {
         "id": "2026-10-05-music-lickndip-928c71",
         "eid": "lickndip-b761",
         "track": "music",
@@ -6763,49 +6253,6 @@
         "coords_precise": false,
         "ra": {},
         "image": "https://party-scout.app/img/gen/lickndip-43bf.jpg",
-        "image_generated": true,
-        "popularity": 0,
-        "enriched": 1,
-        "active": true
-      },
-      {
-        "id": "2026-10-05-music-night-trip-tobehonest-gabss-mo-1f3d97",
-        "eid": "night-trip-tobehonest-ga-bbb1",
-        "track": "music",
-        "category": "Nightclub",
-        "name": "Night Trip: TOBEHONEST, Gabss, Moontalk, InntRaw",
-        "day": "Sat",
-        "date": "2026-10-10",
-        "time": "10pm–2am",
-        "start": "22:00",
-        "end": "02:00",
-        "area": "Los Angeles",
-        "venue": "Academy LA",
-        "address": "6021 Hollywood Blvd.  Los Angeles, CA 90028, USA",
-        "why": "Go for a free late-night party with multiple acts on Hollywood Boulevard.",
-        "summary": "A free late-night event on October 10 (10pm–2am) in Hollywood featuring TOBEHONEST, Gabss, Moontalk and InntRaw.",
-        "promoter": "",
-        "price": "Free",
-        "tags": [
-          "free",
-          "dj",
-          "party",
-          "late-night"
-        ],
-        "sources": [
-          "https://ra.co/events/2527935"
-        ],
-        "tickets": [
-          "https://ra.co/events/2527935"
-        ],
-        "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=Academy%20LA%2C%20Los%20Angeles",
-          "apple": "https://maps.apple.com/?q=Academy%20LA%2C%20Los%20Angeles"
-        },
-        "coords": null,
-        "coords_precise": false,
-        "ra": {},
-        "image": "https://party-scout.app/img/gen/night-trip-tobehonest-ga-bbb1.jpg",
         "image_generated": true,
         "popularity": 0,
         "enriched": 1,
@@ -6952,7 +6399,10 @@
         "tags": [
           "live",
           "tour",
-          "concert"
+          "concert",
+          "live-music",
+          "soul",
+          "folk"
         ],
         "sources": [
           "https://app.discotech.me/events/38229022-sons-of-legion-soul-to-sol-world-tour-2026-at-the-wiltern"
@@ -7867,50 +7317,6 @@
         "active": true
       },
       {
-        "id": "2026-10-05-music-roman-flugel-josh-caffe-jane-m-a45880",
-        "eid": "roman-flugel-josh-caffe-09c5",
-        "track": "music",
-        "category": "Nightclub",
-        "name": "Roman Flügel, Josh Caffé, Jane Margarette",
-        "day": "Fri",
-        "date": "2026-10-09",
-        "time": "10pm–4:30am",
-        "start": "22:00",
-        "end": "04:30",
-        "area": "Los Angeles",
-        "venue": "Downtown Los Angeles",
-        "address": "",
-        "why": "For an extended late-night dance session that runs into the early morning.",
-        "summary": "A late-night DJ event on 2026-10-09 featuring Roman Flügel, Josh Caffé, and Jane Margarette, running 10pm–4:30am with tickets priced $20–$40.",
-        "promoter": "",
-        "price": "$20–$40",
-        "tags": [
-          "dj",
-          "electronic",
-          "techno",
-          "late-night",
-          "21+"
-        ],
-        "sources": [
-          "https://ra.co/events/2526488"
-        ],
-        "tickets": [
-          "https://ra.co/events/2526488"
-        ],
-        "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=Downtown%20Los%20Angeles%2C%20Los%20Angeles",
-          "apple": "https://maps.apple.com/?q=Downtown%20Los%20Angeles%2C%20Los%20Angeles"
-        },
-        "coords": null,
-        "coords_precise": false,
-        "ra": {},
-        "image": "https://party-scout.app/img/gen/roman-flugel-josh-caffe-09c5.jpg",
-        "image_generated": false,
-        "popularity": 0,
-        "enriched": 1,
-        "active": true
-      },
-      {
         "id": "2026-10-05-music-sunset-sessions-reloaded-cat-m-f27ecb",
         "eid": "sunset-sessions-reloaded-ebe8",
         "track": "music",
@@ -8129,45 +7535,6 @@
         "active": true
       },
       {
-        "id": "2026-10-05-music-riddim-reign-224feb",
-        "eid": "riddim-reign-c926",
-        "track": "music",
-        "category": "",
-        "name": "RIDDIM REIGN",
-        "day": "Sat",
-        "date": "2026-10-10",
-        "time": "10pm–4am",
-        "start": "22:00",
-        "end": "04:00",
-        "area": "Los Angeles",
-        "venue": "Los Angeles (Warehouse)",
-        "address": "",
-        "why": "For an affordable late-night night out with extended hours.",
-        "summary": "Late-night event in Los Angeles on 2026-10-10, running 10pm–4am with a $10–$20 cover.",
-        "promoter": "",
-        "price": "$10–$20",
-        "tags": [
-          "nightlife",
-          "late-night",
-          "paid",
-          "cover"
-        ],
-        "sources": [],
-        "tickets": [],
-        "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=Los%20Angeles%20%28Warehouse%29%2C%20Los%20Angeles",
-          "apple": "https://maps.apple.com/?q=Los%20Angeles%20%28Warehouse%29%2C%20Los%20Angeles"
-        },
-        "coords": null,
-        "coords_precise": false,
-        "ra": {},
-        "image": "https://party-scout.app/img/gen/riddim-reign-c926.jpg",
-        "image_generated": true,
-        "popularity": 0,
-        "enriched": 1,
-        "active": true
-      },
-      {
         "id": "2026-10-05-music-work-presents-dvs1-4-hour-set-cc3b35",
         "eid": "work-presents-dvs1-4-hou-50ca",
         "track": "music",
@@ -8248,45 +7615,6 @@
         "active": true
       },
       {
-        "id": "2026-10-05-music-deep-house-brunch-sundays-scot-3b2295",
-        "eid": "deep-house-brunch-sunday-1eda",
-        "track": "music",
-        "category": "Nightclub",
-        "name": "Deep House Brunch Sundays: Scotty Boy, Charles Feelgood, House Zaddy",
-        "day": "Sun",
-        "date": "2026-10-11",
-        "time": "",
-        "start": null,
-        "end": null,
-        "area": "Los Angeles",
-        "venue": "The Bungalow Huntington Beach",
-        "address": "",
-        "why": "Go for daytime dancing and feel‑good deep‑house sets over brunch.",
-        "summary": "A deep-house brunch on Sunday, October 11, 2026, featuring DJs Scotty Boy, Charles Feelgood, and House Zaddy.",
-        "promoter": "",
-        "price": "",
-        "tags": [
-          "house",
-          "dj",
-          "brunch",
-          "daytime"
-        ],
-        "sources": [],
-        "tickets": [],
-        "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=The%20Bungalow%20Huntington%20Beach%2C%20Los%20Angeles",
-          "apple": "https://maps.apple.com/?q=The%20Bungalow%20Huntington%20Beach%2C%20Los%20Angeles"
-        },
-        "coords": null,
-        "coords_precise": false,
-        "ra": {},
-        "image": "",
-        "image_generated": false,
-        "popularity": 0,
-        "enriched": 1,
-        "active": true
-      },
-      {
         "id": "2026-10-05-music-oskar-med-k-me-n-u-c93c38",
         "eid": "oskar-med-k-me-n-u-04fd",
         "track": "music",
@@ -8361,15 +7689,17 @@
           "bass",
           "free",
           "outdoor",
-          "dj"
+          "dj",
+          "festival",
+          "electronic"
         ],
         "sources": [
           "https://www.santamonica.gov/press/2026/09/11/santa-monica-block-fest-returns-september-12-with-20-000-expected-as-monthly-series-extends-through-december"
         ],
         "tickets": [],
         "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=Santa%20Monica%203rd%20Street%20Promenade%2C%20Los%20Angeles",
-          "apple": "https://maps.apple.com/?q=Santa%20Monica%203rd%20Street%20Promenade%2C%20Los%20Angeles"
+          "google": "https://www.google.com/maps/search/?api=1&query=3rd%20Street%20Promenade%2C%20Santa%20Monica",
+          "apple": "https://maps.apple.com/?q=3rd%20Street%20Promenade%2C%20Santa%20Monica"
         },
         "coords": null,
         "coords_precise": false,
@@ -8577,46 +7907,6 @@
         "active": true
       },
       {
-        "id": "2026-10-05-music-3rd-street-promenade-music-fes-fea74c",
-        "eid": "3rd-street-promenade-mus-a4ab",
-        "track": "music",
-        "category": "Festival",
-        "name": "3rd Street Promenade Music Festival [House + Bass]: Laidback Luke, Slang Dogs, Moceans, Seduza, Osyris",
-        "day": "Sat",
-        "date": "2026-10-10",
-        "time": "",
-        "start": null,
-        "end": null,
-        "area": "Santa Monica",
-        "venue": "Santa Monica 3rd Street Promenade",
-        "address": "",
-        "why": "For high-energy house and bass sets from established and emerging DJs.",
-        "summary": "A house-and-bass music festival at 3rd Street Promenade on 2026-10-10 featuring Laidback Luke, Slang Dogs, Moceans, Seduza, and Osyris.",
-        "promoter": "",
-        "price": "Free",
-        "tags": [
-          "house",
-          "bass",
-          "festival",
-          "outdoor",
-          "dj"
-        ],
-        "sources": [],
-        "tickets": [],
-        "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=Santa%20Monica%203rd%20Street%20Promenade%2C%20Santa%20Monica",
-          "apple": "https://maps.apple.com/?q=Santa%20Monica%203rd%20Street%20Promenade%2C%20Santa%20Monica"
-        },
-        "coords": null,
-        "coords_precise": false,
-        "ra": {},
-        "image": "https://party-scout.app/img/gen/3rd-street-promenade-mus-9224.jpg",
-        "image_generated": true,
-        "popularity": 0,
-        "enriched": 1,
-        "active": true
-      },
-      {
         "id": "2026-10-05-music-santa-monica-block-fest-vol-vi-fb5d8b",
         "eid": "santa-monica-block-fest-1815",
         "track": "music",
@@ -8759,13 +8049,14 @@
           "deep-house",
           "brunch",
           "dj",
-          "daytime"
+          "daytime",
+          "house"
         ],
         "sources": [],
         "tickets": [],
         "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=The%20Bungalow%2C%20Huntington%20Beach",
-          "apple": "https://maps.apple.com/?q=The%20Bungalow%2C%20Huntington%20Beach"
+          "google": "https://www.google.com/maps/search/?api=1&query=The%20Bungalow%20Huntington%20Beach%2C%20Los%20Angeles",
+          "apple": "https://maps.apple.com/?q=The%20Bungalow%20Huntington%20Beach%2C%20Los%20Angeles"
         },
         "coords": null,
         "coords_precise": false,
@@ -9034,7 +8325,9 @@
         "tags": [
           "dj",
           "dance",
-          "nightlife"
+          "nightlife",
+          "free",
+          "late-night"
         ],
         "sources": [
           "https://ra.co/events/2552103"
@@ -9043,8 +8336,8 @@
           "https://ra.co/events/2552103"
         ],
         "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=Fountain%20La%2C%20Los%20Angeles",
-          "apple": "https://maps.apple.com/?q=Fountain%20La%2C%20Los%20Angeles"
+          "google": "https://www.google.com/maps/search/?api=1&query=Fountain%20LA%2C%20Los%20Angeles",
+          "apple": "https://maps.apple.com/?q=Fountain%20LA%2C%20Los%20Angeles"
         },
         "coords": null,
         "coords_precise": false,
@@ -9344,7 +8637,9 @@
         "price": "$25",
         "tags": [
           "live",
-          "solo"
+          "solo",
+          "dj",
+          "dance"
         ],
         "sources": [
           "https://ra.co/events/2548336"
@@ -9403,49 +8698,6 @@
         "coords_precise": false,
         "ra": {},
         "image": "https://party-scout.app/img/gen/gay-night-at-footsies-12f0.jpg",
-        "image_generated": false,
-        "popularity": 0,
-        "enriched": 1,
-        "active": true
-      },
-      {
-        "id": "2026-10-05-music-midnight-society-alice-km-akiv-494914",
-        "eid": "midnight-society-alice-k-2879",
-        "track": "music",
-        "category": "Nightclub",
-        "name": "Midnight Society: Alice.km, Akiva, Geshay",
-        "day": "Sat",
-        "date": "2026-10-10",
-        "time": "10pm–2am",
-        "start": "22:00",
-        "end": "02:00",
-        "area": "Los Angeles",
-        "venue": "Matriarch",
-        "address": "3680 Wilshire Blvd #503, Los Angeles, CA 90010",
-        "why": "To catch late-night electronic DJ sets and dance into the early morning.",
-        "summary": "A late-night club event on 2026-10-10 at 3680 Wilshire Blvd #503, running 10pm–2am and featuring Alice.km, Akiva, and Geshay.",
-        "promoter": "",
-        "price": "free w/rsvp b4 11pm/ $10",
-        "tags": [
-          "electronic",
-          "dj",
-          "21+",
-          "late-night"
-        ],
-        "sources": [
-          "https://ra.co/events/2551366"
-        ],
-        "tickets": [
-          "https://ra.co/events/2551366"
-        ],
-        "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=Matriarch%2C%20Los%20Angeles",
-          "apple": "https://maps.apple.com/?q=Matriarch%2C%20Los%20Angeles"
-        },
-        "coords": null,
-        "coords_precise": false,
-        "ra": {},
-        "image": "https://party-scout.app/img/gen/midnight-society-alice-k-2879.jpg",
         "image_generated": false,
         "popularity": 0,
         "enriched": 1,
@@ -9535,45 +8787,6 @@
         "active": true
       },
       {
-        "id": "2026-10-05-music-afters-55b0f4",
-        "eid": "afters-bb37",
-        "track": "music",
-        "category": "Nightclub",
-        "name": "Afters",
-        "day": "Sun",
-        "date": "2026-10-11",
-        "time": "4–11am",
-        "start": "04:00",
-        "end": "11:00",
-        "area": "DTLA",
-        "venue": "Tooneyverse @ 1253 S Los Angeles St Ste C",
-        "address": "",
-        "why": "Go for extended after-hours dancing and late-night energy.",
-        "summary": "Late-night event in Los Angeles on October 11, 2026 running 4–11am called Afters.",
-        "promoter": "",
-        "price": "$15",
-        "tags": [
-          "late-night",
-          "afterhours",
-          "dj",
-          "21+"
-        ],
-        "sources": [],
-        "tickets": [],
-        "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=Tooneyverse%20%40%201253%20S%20Los%20Angeles%20St%20Ste%20C%2C%20Los%20Angeles",
-          "apple": "https://maps.apple.com/?q=Tooneyverse%20%40%201253%20S%20Los%20Angeles%20St%20Ste%20C%2C%20Los%20Angeles"
-        },
-        "coords": null,
-        "coords_precise": false,
-        "ra": {},
-        "image": "",
-        "image_generated": false,
-        "popularity": 0,
-        "enriched": 1,
-        "active": true
-      },
-      {
         "id": "2026-10-05-music-niteharts-day-3-c08c29",
         "eid": "niteharts-day-3-8bb1",
         "track": "music",
@@ -9614,171 +8827,6 @@
         "popularity": 0,
         "enriched": 1,
         "active": true
-      },
-      {
-        "id": "2026-10-05-music-synthesizer-soundbath-feat-ale-3296d3",
-        "eid": "synthesizer-soundbath-fe-4f7b",
-        "track": "music",
-        "category": "Concert",
-        "name": "Synthesizer Soundbath Feat. Alex Pelly",
-        "day": "Sun",
-        "date": "2026-10-11",
-        "time": "12–1:30pm",
-        "start": "12:00",
-        "end": "13:30",
-        "area": "Los Angeles",
-        "venue": "Vintage Synthesizer Museum",
-        "address": "1200 N Ave 54, Los Angeles, CA 90042, USA",
-        "why": "For a relaxing, meditative session of immersive electronic textures.",
-        "summary": "A 90-minute synthesizer soundbath featuring Alex Pelly on October 11, 2026, held at 1200 N Ave 54 in Los Angeles, running 12–1:30pm.",
-        "promoter": "",
-        "price": "$15",
-        "tags": [
-          "ambient",
-          "electronic",
-          "live",
-          "meditation",
-          "daytime"
-        ],
-        "sources": [
-          "https://ra.co/events/2547764"
-        ],
-        "tickets": [
-          "https://ra.co/events/2547764"
-        ],
-        "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=Vintage%20Synthesizer%20Museum%2C%20Los%20Angeles",
-          "apple": "https://maps.apple.com/?q=Vintage%20Synthesizer%20Museum%2C%20Los%20Angeles"
-        },
-        "coords": null,
-        "coords_precise": false,
-        "ra": {},
-        "image": "https://party-scout.app/img/gen/synthesizer-soundbath-fe-4f7b.jpg",
-        "image_generated": false,
-        "popularity": 0,
-        "enriched": 1,
-        "active": true
-      },
-      {
-        "id": "2026-10-05-music-afters-2200c1",
-        "eid": "afters-fa6b",
-        "track": "music",
-        "category": "Nightclub",
-        "name": "Afters",
-        "day": "Fri",
-        "date": "2026-10-09",
-        "time": "4–11am",
-        "start": "04:00",
-        "end": "11:00",
-        "area": "Los Angeles",
-        "venue": "Tooneyverse @ 1253 S Los Angeles St Ste C",
-        "address": "",
-        "why": "For late-night dancing and extended party hours.",
-        "summary": "After-hours dance event in Los Angeles on October 9, 2026, running 4–11am.",
-        "promoter": "",
-        "price": "$15",
-        "tags": [
-          "21+",
-          "dj",
-          "late-night",
-          "dance",
-          "party"
-        ],
-        "sources": [],
-        "tickets": [],
-        "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=Tooneyverse%20%40%201253%20S%20Los%20Angeles%20St%20Ste%20C%2C%20Los%20Angeles",
-          "apple": "https://maps.apple.com/?q=Tooneyverse%20%40%201253%20S%20Los%20Angeles%20St%20Ste%20C%2C%20Los%20Angeles"
-        },
-        "coords": null,
-        "coords_precise": false,
-        "ra": {},
-        "image": "https://party-scout.app/img/gen/afters-fa6b.jpg",
-        "image_generated": true,
-        "popularity": 0,
-        "enriched": 1,
-        "active": true
-      },
-      {
-        "id": "2026-10-05-music-dublon-rooftop-party-at-level-308db2",
-        "eid": "dublon-rooftop-party-at-459a",
-        "track": "music",
-        "category": "Nightclub",
-        "name": "Dublon [rooftop party] at Level 8",
-        "day": "Fri",
-        "date": "2026-10-09",
-        "time": "5–9pm",
-        "start": "17:00",
-        "end": "21:00",
-        "area": "Los Angeles",
-        "venue": "Level 8 DTLA",
-        "address": "1254 S Figueroa St, Los Angeles, CA 90015",
-        "why": "For sunset views over downtown LA and early-evening rooftop vibes.",
-        "summary": "Rooftop party at Level 8 in DTLA on 2026-10-09, running 5–9pm with tickets starting at $30+.",
-        "promoter": "",
-        "price": "$30+",
-        "tags": [
-          "rooftop",
-          "outdoor",
-          "21+"
-        ],
-        "sources": [
-          "https://ra.co/events/2455911"
-        ],
-        "tickets": [
-          "https://ra.co/events/2455911"
-        ],
-        "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=Level%208%20DTLA%2C%20Los%20Angeles",
-          "apple": "https://maps.apple.com/?q=Level%208%20DTLA%2C%20Los%20Angeles"
-        },
-        "coords": null,
-        "coords_precise": false,
-        "ra": {},
-        "image": "https://party-scout.app/img/gen/dublon-rooftop-party-at-459a.jpg",
-        "image_generated": false,
-        "popularity": 0,
-        "enriched": 1,
-        "active": true
-      },
-      {
-        "id": "2026-10-05-music-afters-4321a1",
-        "eid": "afters-3768",
-        "track": "music",
-        "category": "Nightclub",
-        "name": "Afters",
-        "day": "Sat",
-        "date": "2026-10-10",
-        "time": "4–11am",
-        "start": "04:00",
-        "end": "11:00",
-        "area": "Los Angeles",
-        "venue": "Tooneyverse @ 1253 S Los Angeles St Ste C",
-        "address": "",
-        "why": "For late-night dancing and post-club hours.",
-        "summary": "An after-hours party on 2026-10-10 in Los Angeles running 4–11am.",
-        "promoter": "",
-        "price": "$15",
-        "tags": [
-          "after-hours",
-          "late-night",
-          "dance",
-          "party"
-        ],
-        "sources": [],
-        "tickets": [],
-        "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=Tooneyverse%20%40%201253%20S%20Los%20Angeles%20St%20Ste%20C%2C%20Los%20Angeles",
-          "apple": "https://maps.apple.com/?q=Tooneyverse%20%40%201253%20S%20Los%20Angeles%20St%20Ste%20C%2C%20Los%20Angeles"
-        },
-        "coords": null,
-        "coords_precise": false,
-        "ra": {},
-        "image": "https://party-scout.app/img/gen/afters-3768.jpg",
-        "image_generated": true,
-        "popularity": 0,
-        "enriched": 1,
-        "active": true
       }
     ],
     "sports": [
@@ -9790,9 +8838,9 @@
         "name": "Long Beach Marathon",
         "day": "Sat",
         "date": "2026-10-10",
-        "time": "",
-        "start": null,
-        "end": null,
+        "time": "05:30",
+        "start": "05:30",
+        "end": "12:30",
         "area": "Long Beach",
         "venue": "Long Beach",
         "address": "Long Beach, CA",
@@ -9805,21 +8853,24 @@
           "marathon",
           "half-marathon",
           "5k",
-          "outdoor"
+          "outdoor",
+          "race",
+          "fitness"
         ],
         "sources": [
           "https://www.runguides.com/los-angeles/runs/marathon/all",
           "https://www.runlongbeach.com/marathon",
           "https://www.visitlongbeach.com/blog/long-beach-marathon/",
           "https://www.runlongbeach.com/",
-          "https://www.letsdothis.com/us/running-events/in-los-angeles-california"
+          "https://www.letsdothis.com/us/running-events/in-los-angeles-california",
+          "https://www.meetup.com/a-snails-pace-running-shop-social-runs/events/316361620/"
         ],
         "tickets": [
           "https://www.runlongbeach.com/"
         ],
         "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=Long%20Beach",
-          "apple": "https://maps.apple.com/?q=Long%20Beach"
+          "google": "https://www.google.com/maps/search/?api=1&query=Long%20Beach%20Marathon%20Start%2C%20Los%20Angeles",
+          "apple": "https://maps.apple.com/?q=Long%20Beach%20Marathon%20Start%2C%20Los%20Angeles"
         },
         "coords": null,
         "coords_precise": false,
@@ -9853,13 +8904,18 @@
           "fitness",
           "outdoor",
           "race",
-          "community"
+          "community",
+          "5k",
+          "10k",
+          "half-marathon"
         ],
         "sources": [
           "https://www.letsdothis.com/us/running-events/in-los-angeles-california",
           "https://sweatpals.com/event/bagel-run-5k10k131-los-angeles-6854f3/2026-10-10"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://sweatpals.com/event/bagel-run-5k10k131-los-angeles-6854f3/2026-10-10"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Santa%20Monica%2C%20Santa%20Monica",
           "apple": "https://maps.apple.com/?q=Santa%20Monica%2C%20Santa%20Monica"
@@ -9882,7 +8938,7 @@
         "day": "Sat",
         "date": "2026-10-10",
         "time": "7:30 AM",
-        "start": null,
+        "start": "07:30",
         "end": null,
         "area": "Santa Monica",
         "venue": "Palisades Park",
@@ -9890,16 +8946,18 @@
         "why": "To challenge yourself at a chosen distance and celebrate coffee culture with fellow runners.",
         "summary": "A running event offering 5K, 10K and half‑marathon (13.1) distances on October 10, 2026 in Los Angeles.",
         "promoter": "",
-        "price": "",
+        "price": "$32.80–$48.70",
         "tags": [
           "running",
           "outdoor",
           "fitness",
-          "community"
+          "community",
+          "race"
         ],
         "sources": [
           "https://www.letsdothis.com/us/running-events/in-los-angeles-california",
-          "https://runsignup.com/Race/CA/LosAngeles/CoffeeLoversRun5K10KLOSANGELES"
+          "https://runsignup.com/Race/CA/LosAngeles/CoffeeLoversRun5K10KLOSANGELES",
+          "https://findarace.com/us/events/coffee-lovers-run-5k-10k-13-1-los-angeles-6"
         ],
         "tickets": [],
         "maps": {
@@ -10413,47 +9471,6 @@
         "active": true
       },
       {
-        "id": "2026-10-05-sports-long-beach-marathon-half-club-a0398e",
-        "eid": "long-beach-marathon-half-7ae0",
-        "track": "sports",
-        "category": "Sports",
-        "name": "Long Beach Marathon/Half Club Race & Pacing",
-        "day": "Sun",
-        "date": "2026-10-11",
-        "time": "05:30",
-        "start": "05:30",
-        "end": "12:30",
-        "area": "Los Angeles",
-        "venue": "Long Beach Marathon Start",
-        "address": "Shoreline Dr & Shoreline Village Dr, Long Beach, CA",
-        "why": "Great for running with a paced group to train or target a time",
-        "summary": "A club race and pacing event for marathon and half-marathon distances on October 11, 2026 at Shoreline Dr & Shoreline Village Dr in Long Beach, CA.",
-        "promoter": "",
-        "price": "Free",
-        "tags": [
-          "running",
-          "outdoor",
-          "race",
-          "fitness"
-        ],
-        "sources": [
-          "https://www.meetup.com/a-snails-pace-running-shop-social-runs/events/316361620/"
-        ],
-        "tickets": [],
-        "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=Long%20Beach%20Marathon%20Start%2C%20Los%20Angeles",
-          "apple": "https://maps.apple.com/?q=Long%20Beach%20Marathon%20Start%2C%20Los%20Angeles"
-        },
-        "coords": null,
-        "coords_precise": false,
-        "ra": {},
-        "image": "https://party-scout.app/img/gen/long-beach-marathon-half-7ae0.jpg",
-        "image_generated": false,
-        "popularity": 0,
-        "enriched": 1,
-        "active": true
-      },
-      {
         "id": "2026-10-05-sports-pkla-tba-8162bb",
         "eid": "pkla-tba-bc7d",
         "track": "sports",
@@ -10528,91 +9545,6 @@
         "coords_precise": false,
         "ra": {},
         "image": "https://party-scout.app/img/gen/sessions-ciclavia-hofla-b1aa.jpg",
-        "image_generated": false,
-        "popularity": 0,
-        "enriched": 1,
-        "active": true
-      },
-      {
-        "id": "2026-10-05-sports-bagel-run-5k-10k-13-1-los-ange-6fd861",
-        "eid": "bagel-run-5k-10k-13-1-lo-84b4",
-        "track": "sports",
-        "category": "Sports",
-        "name": "Bagel Run 5K/10K/13.1 - Los Angeles",
-        "day": "Sat",
-        "date": "2026-10-10",
-        "time": "7:30 AM - 10:30 AM",
-        "start": "07:30",
-        "end": "10:30",
-        "area": "Santa Monica",
-        "venue": "Palisades Park",
-        "address": "Ocean Avenue, Santa Monica, CA",
-        "why": "To take on a timed race at your preferred distance and join a community running event.",
-        "summary": "A road race in Los Angeles on 2026-10-10 offering 5K, 10K and half‑marathon (13.1) distance options.",
-        "promoter": "",
-        "price": "$32.80 - $48.70",
-        "tags": [
-          "running",
-          "outdoor",
-          "5k",
-          "10k",
-          "half-marathon"
-        ],
-        "sources": [
-          "https://sweatpals.com/event/bagel-run-5k10k131-los-angeles-6854f3/2026-10-10"
-        ],
-        "tickets": [
-          "https://sweatpals.com/event/bagel-run-5k10k131-los-angeles-6854f3/2026-10-10"
-        ],
-        "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=Santa%20Monica%2C%20Santa%20Monica",
-          "apple": "https://maps.apple.com/?q=Santa%20Monica%2C%20Santa%20Monica"
-        },
-        "coords": null,
-        "coords_precise": false,
-        "ra": {},
-        "image": "",
-        "image_generated": false,
-        "popularity": 0,
-        "enriched": 1,
-        "active": true
-      },
-      {
-        "id": "2026-10-05-sports-coffee-lovers-run-5k-10k-13-1-017ceb",
-        "eid": "coffee-lovers-run-5k-10k-fae9",
-        "track": "sports",
-        "category": "Sports",
-        "name": "Coffee Lovers Run 5K/10K/13.1 Los Angeles",
-        "day": "Sat",
-        "date": "2026-10-10",
-        "time": "7:30 AM",
-        "start": "07:30",
-        "end": null,
-        "area": "Santa Monica",
-        "venue": "Santa Monica",
-        "address": "",
-        "why": "Great for testing your fitness at different distances and joining a community race.",
-        "summary": "A running event in Los Angeles on 2026-10-10 offering 5K, 10K, and 13.1-mile (half marathon) distance options.",
-        "promoter": "",
-        "price": "$32.80–$48.70",
-        "tags": [
-          "running",
-          "outdoor",
-          "race",
-          "fitness"
-        ],
-        "sources": [
-          "https://findarace.com/us/events/coffee-lovers-run-5k-10k-13-1-los-angeles-6"
-        ],
-        "tickets": [],
-        "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=Santa%20Monica%2C%20Santa%20Monica",
-          "apple": "https://maps.apple.com/?q=Santa%20Monica%2C%20Santa%20Monica"
-        },
-        "coords": null,
-        "coords_precise": false,
-        "ra": {},
-        "image": "",
         "image_generated": false,
         "popularity": 0,
         "enriched": 1,

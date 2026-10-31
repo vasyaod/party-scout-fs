@@ -5,7 +5,7 @@
   "location": "San Francisco & Bay Area",
   "city": "san-francisco",
   "city_label": "San Francisco",
-  "generated_at": "2026-10-11",
+  "generated_at": "2026-10-31",
   "tracks": {
     "music": [
       {
@@ -165,49 +165,6 @@
         "active": true
       },
       {
-        "id": "2026-09-14-music-jamie-3-26-3124b1",
-        "eid": "jamie-3-26-abcb",
-        "track": "music",
-        "category": "House",
-        "name": "Jamie 3:26",
-        "day": "Wed",
-        "date": "2026-09-16",
-        "time": "9:00 PM - 3:00 AM",
-        "start": "21:00",
-        "end": "03:00",
-        "area": "SoMa",
-        "venue": "F8 1192 Folsom",
-        "address": "1192 Folsom St, San Francisco, CA",
-        "why": "Chicago house legend Jamie 3:26 headlines a free-before-11pm two-room night at F8, backed by a deep local house and techno lineup.",
-        "summary": "Strut SF and F8 present Chicago house selector Jamie 3:26 in the main room with DJ Mes, Matthew Brian, Sharon Buck, and Elz, plus a Room 2 techno takeover with a JustJovani birthday set.",
-        "promoter": "Strut SF",
-        "price": "free before 11pm / $10",
-        "tags": [
-          "house",
-          "techno",
-          "two-room"
-        ],
-        "sources": [
-          "https://www.eventbrite.com/e/strut-sf-f8-present-jamie-326-tickets-1998494007374"
-        ],
-        "tickets": [
-          "https://www.eventbrite.com/e/strut-sf-f8-present-jamie-326-tickets-1998494007374"
-        ],
-        "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=F8%201192%20Folsom%2C%20San%20Francisco",
-          "apple": "https://maps.apple.com/?q=F8%201192%20Folsom%2C%20San%20Francisco"
-        },
-        "coords": null,
-        "coords_precise": false,
-        "ra": {},
-        "image": "",
-        "image_generated": false,
-        "popularity": 0,
-        "enriched": 1,
-        "active": true,
-        "lineup": []
-      },
-      {
         "id": "2026-09-14-music-lymph-001-leafar-legov-live-am-5cc82c",
         "eid": "lymph-001-leafar-legov-l-1cf1",
         "track": "music",
@@ -325,10 +282,14 @@
           "goth",
           "industrial",
           "dark-electro",
-          "weekly"
+          "weekly",
+          "fetish",
+          "kink",
+          "21+"
         ],
         "sources": [
-          "https://www.sfcatclub.com/calendar/sgzbsw3ltzjngjx-8yj6x-hzsr2-8tx5a-bh2wx"
+          "https://www.sfcatclub.com/calendar/sgzbsw3ltzjngjx-8yj6x-hzsr2-8tx5a-bh2wx",
+          "https://www.sfcatclub.com/"
         ],
         "tickets": [],
         "maps": {
@@ -363,50 +324,6 @@
         ]
       },
       {
-        "id": "2026-09-14-music-play-x-land-54559f",
-        "eid": "play-x-land-17cc",
-        "track": "music",
-        "category": "Goth/Industrial",
-        "name": "PLAY-X-LAND",
-        "day": "Wed",
-        "date": "2026-09-16",
-        "time": "9:00 PM - 2:00 AM",
-        "start": "21:00",
-        "end": "02:00",
-        "area": "SoMa",
-        "venue": "Cat Club",
-        "address": "1190 Folsom St, San Francisco, CA 94103",
-        "why": "A long-running Wednesday fixture for the goth/industrial and kink community, with a dungeon area, go-go dancers, and a strict consent policy.",
-        "summary": "SF's weekly Goth/Industrial/Dark Electro fetish social and dance party at Cat Club, hosted with Wicked Grounds and the Leather Alliance.",
-        "promoter": "Cat Club",
-        "price": "$10 in fetishwear / $20 in street clothes",
-        "tags": [
-          "goth",
-          "industrial",
-          "fetish",
-          "kink",
-          "21+"
-        ],
-        "sources": [
-          "https://www.sfcatclub.com/",
-          "https://www.sfcatclub.com/calendar/sgzbsw3ltzjngjx-8yj6x-hzsr2-8tx5a-bh2wx"
-        ],
-        "tickets": [],
-        "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=Cat%20Club%2C%20San%20Francisco",
-          "apple": "https://maps.apple.com/?q=Cat%20Club%2C%20San%20Francisco"
-        },
-        "coords": null,
-        "coords_precise": false,
-        "ra": {},
-        "image": "",
-        "image_generated": false,
-        "popularity": 0,
-        "enriched": 1,
-        "active": true,
-        "lineup": []
-      },
-      {
         "id": "2026-09-14-music-strut-sf-and-f8-present-jamie-6d8492",
         "eid": "strut-sf-and-f8-present-40f9",
         "track": "music",
@@ -428,7 +345,8 @@
           "house",
           "techno",
           "free",
-          "two-rooms"
+          "two-rooms",
+          "two-room"
         ],
         "sources": [
           "https://ra.co/events/2529235",
@@ -2394,40 +2312,6 @@
         "active": true
       },
       {
-        "id": "2026-09-14-music-hardcore-bba838",
-        "eid": "hardcore-c48d",
-        "track": "music",
-        "category": "",
-        "name": "Hardcore!",
-        "day": "Sat",
-        "date": "2026-09-19",
-        "time": "",
-        "start": null,
-        "end": null,
-        "area": "San Francisco",
-        "venue": "F8 1192 Folsom",
-        "address": "",
-        "why": "",
-        "summary": "",
-        "promoter": "",
-        "price": "$15",
-        "tags": [],
-        "sources": [],
-        "tickets": [],
-        "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=F8%201192%20Folsom%2C%20San%20Francisco",
-          "apple": "https://maps.apple.com/?q=F8%201192%20Folsom%2C%20San%20Francisco"
-        },
-        "coords": null,
-        "coords_precise": false,
-        "ra": {},
-        "image": "https://party-scout.app/img/gen/hardcore-c48d.jpg",
-        "image_generated": true,
-        "popularity": 0,
-        "enriched": 1,
-        "active": true
-      },
-      {
         "id": "2026-09-14-music-hello-gatita-perreo-b1e439",
         "eid": "hello-gatita-perreo-619b",
         "track": "music",
@@ -3093,40 +2977,6 @@
           "lon": -122.398145
         },
         "coords_precise": true,
-        "ra": {},
-        "image": "",
-        "image_generated": false,
-        "popularity": 0,
-        "enriched": 1,
-        "active": true
-      },
-      {
-        "id": "2026-09-14-music-wax-candy-at-arcana-e6d05b",
-        "eid": "wax-candy-at-arcana-5384",
-        "track": "music",
-        "category": "",
-        "name": "WAX CANDY at Arcana",
-        "day": "Sat",
-        "date": "2026-09-19",
-        "time": "",
-        "start": null,
-        "end": null,
-        "area": "San Francisco",
-        "venue": "Arcana",
-        "address": "",
-        "why": "",
-        "summary": "",
-        "promoter": "",
-        "price": "",
-        "tags": [],
-        "sources": [],
-        "tickets": [],
-        "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=Arcana%2C%20San%20Francisco",
-          "apple": "https://maps.apple.com/?q=Arcana%2C%20San%20Francisco"
-        },
-        "coords": null,
-        "coords_precise": false,
         "ra": {},
         "image": "",
         "image_generated": false,
@@ -4175,8 +4025,8 @@
         ],
         "tickets": [],
         "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=1192%20Folsom%20St%2C%20San%20Francisco%2C%20CA%2094103",
-          "apple": "https://maps.apple.com/?q=1192%20Folsom%20St%2C%20San%20Francisco%2C%20CA%2094103"
+          "google": "https://www.google.com/maps/search/?api=1&query=F8%201192%20Folsom%2C%20San%20Francisco",
+          "apple": "https://maps.apple.com/?q=F8%201192%20Folsom%2C%20San%20Francisco"
         },
         "coords": {
           "lat": 37.7752814,
@@ -4350,8 +4200,8 @@
           "https://ra.co/events/2525664"
         ],
         "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=2512%20Mission%20St%2C%20San%20Francisco%2C%20CA%2094110",
-          "apple": "https://maps.apple.com/?q=2512%20Mission%20St%2C%20San%20Francisco%2C%20CA%2094110"
+          "google": "https://www.google.com/maps/search/?api=1&query=Arcana%2C%20San%20Francisco",
+          "apple": "https://maps.apple.com/?q=Arcana%2C%20San%20Francisco"
         },
         "coords": {
           "lat": 37.7567304,

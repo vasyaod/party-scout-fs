@@ -5,7 +5,7 @@
   "location": "San Francisco & Bay Area",
   "city": "san-francisco",
   "city_label": "San Francisco",
-  "generated_at": "2026-10-11",
+  "generated_at": "2026-10-31",
   "tracks": {
     "music": [
       {
@@ -246,49 +246,6 @@
         ]
       },
       {
-        "id": "2026-08-10-music-salty-residency-seth-finkin-napa-music-hall-a1c3e2",
-        "eid": "salty-residency-seth-finkin-a1c3",
-        "track": "music",
-        "category": "House/Techno",
-        "name": "Salty Residency: Seth Finkin",
-        "day": "Fri",
-        "date": "2026-08-14",
-        "time": "6PM-Late",
-        "start": "18:00",
-        "end": null,
-        "area": "Napa",
-        "venue": "Napa Music Hall",
-        "address": "1030 Main St, Napa, CA 94558",
-        "why": "SF beach-party and pop-up renegade DJ Seth Finkin headlines a residency night with free happy-hour plaza set before the paid club room",
-        "summary": "Salty Sundays Productions residency night at Napa Music Hall: San Francisco DJ Seth Finkin (disco, house, world percussion) with residents Mark G and Tamer. Outdoor plaza happy hour 6-9PM is free; club room 9PM-late is $25.",
-        "promoter": "Salty Sundays Productions",
-        "price": "$25 (free happy hour 6-9PM)",
-        "tags": [
-          "house",
-          "disco",
-          "techno",
-          "residency"
-        ],
-        "sources": [
-          "https://www.instagram.com/p/DbwcAudvIac/",
-          "https://www.instagram.com/p/DbyU1YYGwng/",
-          "https://www.instagram.com/sethfinkin/"
-        ],
-        "tickets": [],
-        "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=Napa%20Music%20Hall%2C%20Napa%2C%20CA",
-          "apple": "https://maps.apple.com/?q=Napa%20Music%20Hall%2C%20Napa%2C%20CA"
-        },
-        "coords": null,
-        "coords_precise": false,
-        "ra": {},
-        "image": "",
-        "image_generated": false,
-        "popularity": 3,
-        "active": true,
-        "enriched": 1
-      },
-      {
         "id": "2026-08-10-music-hypenyte-monty-bar-1b1ac0",
         "eid": "hypenyte-monty-1b1a",
         "track": "music",
@@ -349,17 +306,22 @@
         "tags": [
           "baile-funk",
           "techno",
-          "latin-club"
+          "latin-club",
+          "baile funk",
+          "latin club",
+          "bass"
         ],
         "sources": [
-          "https://ra.co/events/2492444"
+          "https://ra.co/events/2492444",
+          "https://www.sfstation.com/mostly-cloudy-x-keep-hush-badsista-bae-bae-more-e15772597"
         ],
         "tickets": [
-          "https://ra.co/events/2492444"
+          "https://ra.co/events/2492444",
+          "https://www.beatportal.com/events/t8tjjoz-keep-hush-live-x-mostly-cloudy"
         ],
         "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=119%20Utah%20St%2C%20San%20Francisco%2C%20CA%2094103",
-          "apple": "https://maps.apple.com/?q=119%20Utah%20St%2C%20San%20Francisco%2C%20CA%2094103"
+          "google": "https://www.google.com/maps/search/?api=1&query=The%20Great%20Northern%2C%20San%20Francisco",
+          "apple": "https://maps.apple.com/?q=The%20Great%20Northern%2C%20San%20Francisco"
         },
         "coords": {
           "lat": 37.7676612,
@@ -400,6 +362,14 @@
           },
           {
             "name": "QUEENIE (US)",
+            "instagram": null
+          },
+          {
+            "name": "QUEENIE",
+            "instagram": null
+          },
+          {
+            "name": "Profesito",
             "instagram": null
           }
         ]
@@ -489,8 +459,8 @@
           "https://ra.co/events/2500175"
         ],
         "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=7650%20Hawley%20St%2C%20Oakland%2C%20CA",
-          "apple": "https://maps.apple.com/?q=7650%20Hawley%20St%2C%20Oakland%2C%20CA"
+          "google": "https://www.google.com/maps/search/?api=1&query=9Lives%2C%20Oakland",
+          "apple": "https://maps.apple.com/?q=9Lives%2C%20Oakland"
         },
         "coords": {
           "lat": 37.75282,
@@ -530,7 +500,9 @@
         "tags": [
           "techno",
           "club",
-          "day-party"
+          "day-party",
+          "house",
+          "day party"
         ],
         "sources": [
           "https://ra.co/events/2474822",
@@ -540,8 +512,8 @@
           "https://ra.co/events/2474822"
         ],
         "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=1192%20Folsom%20St%2C%20San%20Francisco%2C%20CA%2094103",
-          "apple": "https://maps.apple.com/?q=1192%20Folsom%20St%2C%20San%20Francisco%2C%20CA%2094103"
+          "google": "https://www.google.com/maps/search/?api=1&query=F8%201192%20Folsom%2C%20San%20Francisco",
+          "apple": "https://maps.apple.com/?q=F8%201192%20Folsom%2C%20San%20Francisco"
         },
         "coords": {
           "lat": 37.7752814,
@@ -610,6 +582,14 @@
           },
           {
             "name": "Javi",
+            "instagram": null
+          },
+          {
+            "name": "Dance Maniacs",
+            "instagram": null
+          },
+          {
+            "name": "Jcore",
             "instagram": null
           }
         ]
@@ -760,55 +740,6 @@
         ]
       },
       {
-        "id": "2026-08-10-music-2000s-rave-f944c6",
-        "eid": "2000s-rave-579b",
-        "track": "music",
-        "category": "EDM / Pop",
-        "name": "2000s Rave",
-        "day": "Sat",
-        "date": "2026-08-15",
-        "time": "9pm–close",
-        "start": "21:00",
-        "end": null,
-        "area": "San Francisco",
-        "venue": "The Midway",
-        "address": "900 Marin St, San Francisco, CA",
-        "why": "A nostalgia-themed 2000s pop/EDM throwback night at one of SF's biggest warehouse clubs",
-        "summary": "The Midway's 2000s Rave spins early-2000s EDM, pop and dubstep/house/techno remixes for a nostalgia-themed night.",
-        "promoter": "",
-        "price": "$24-27",
-        "tags": [
-          "nostalgia",
-          "edm",
-          "pop",
-          "EDM",
-          "dubstep",
-          "house",
-          "techno"
-        ],
-        "sources": [
-          "https://www.tixr.com/groups/midwaysf/events/2000-s-rave-187874"
-        ],
-        "tickets": [
-          "https://www.tixr.com/groups/midwaysf/events/2000-s-rave-187874"
-        ],
-        "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=900%20Marin%20St%2C%20San%20Francisco%2C%20CA",
-          "apple": "https://maps.apple.com/?q=900%20Marin%20St%2C%20San%20Francisco%2C%20CA"
-        },
-        "coords": {
-          "lat": 37.7495304,
-          "lon": -122.3860944
-        },
-        "coords_precise": true,
-        "ra": {},
-        "image": "",
-        "image_generated": false,
-        "popularity": 0,
-        "active": true,
-        "enriched": 1
-      },
-      {
         "id": "2026-08-10-music-bass-runch-wub-zero-5am-trio-e-acc3e8",
         "eid": "bass-runch-wub-zero-5am-df20",
         "track": "music",
@@ -882,18 +813,36 @@
           "hard-dance",
           "trap",
           "novelty",
-          "techno"
+          "techno",
+          "hard dance",
+          "hard techno",
+          "wrestling",
+          "18+",
+          "nostalgia",
+          "edm",
+          "pop",
+          "EDM",
+          "dubstep",
+          "house",
+          "pop EDM",
+          "remixes"
         ],
         "sources": [
           "https://www.tixr.com/groups/midwaysf/events/fight-night-live-wrestling-rave-198643",
-          "https://ma.to/event/cave-rave-fight-night-16-aug-2026"
+          "https://ma.to/event/cave-rave-fight-night-16-aug-2026",
+          "https://app.discotech.me/events/38241115-fight-night-live-wrestling-rave-at-the-midway",
+          "https://www.tixr.com/groups/midwaysf/events/fight-night-live-wrestling-rave-by-cave-rave-175492",
+          "https://www.tixr.com/groups/midwaysf/events/2000-s-rave-187874",
+          "https://dothebay.com/events/2026/8/15/2000-s-rave-tickets"
         ],
         "tickets": [
-          "https://www.tixr.com/groups/midwaysf/events/fight-night-live-wrestling-rave-198643"
+          "https://www.tixr.com/groups/midwaysf/events/fight-night-live-wrestling-rave-198643",
+          "https://www.tixr.com/groups/midwaysf/events/fight-night-live-wrestling-rave-by-cave-rave-175492",
+          "https://www.tixr.com/groups/midwaysf/events/2000-s-rave-187874"
         ],
         "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=900%20Marin%20St%2C%20San%20Francisco%2C%20CA",
-          "apple": "https://maps.apple.com/?q=900%20Marin%20St%2C%20San%20Francisco%2C%20CA"
+          "google": "https://www.google.com/maps/search/?api=1&query=The%20Midway%20Gods%20and%20Monsters%2C%20San%20Francisco",
+          "apple": "https://maps.apple.com/?q=The%20Midway%20Gods%20and%20Monsters%2C%20San%20Francisco"
         },
         "coords": {
           "lat": 37.7495304,
@@ -925,6 +874,10 @@
           },
           {
             "name": "Lily Kush",
+            "instagram": null
+          },
+          {
+            "name": "Lily Ku$h",
             "instagram": null
           }
         ]
@@ -988,50 +941,6 @@
             "instagram": null
           }
         ]
-      },
-      {
-        "id": "2026-08-10-music-get-milked-18d771",
-        "eid": "get-milked-92eb",
-        "track": "music",
-        "category": "House / Disco",
-        "name": "Get Milked",
-        "day": "Sat",
-        "date": "2026-08-15",
-        "time": "evening",
-        "start": null,
-        "end": null,
-        "area": "SF",
-        "venue": "Public Works",
-        "address": "161 Erie St, San Francisco, CA 94103",
-        "why": "House/disco night at one of SF's premier multi-room club venues",
-        "summary": "Get Milked brings house and disco to Public Works' multi-room Mission District venue.",
-        "promoter": "",
-        "price": "$15–26",
-        "tags": [
-          "house",
-          "disco"
-        ],
-        "sources": [
-          "https://www.tixr.com/groups/publicsf/events/texture-summit-x-roam-x-sirens-ft-juan-maclean-dj-perception-and-more-195615"
-        ],
-        "tickets": [
-          "https://www.tixr.com/groups/publicsf/events/texture-summit-x-roam-x-sirens-ft-juan-maclean-dj-perception-and-more-195615"
-        ],
-        "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=161%20Erie%20St%2C%20San%20Francisco%2C%20CA%2094103",
-          "apple": "https://maps.apple.com/?q=161%20Erie%20St%2C%20San%20Francisco%2C%20CA%2094103"
-        },
-        "coords": {
-          "lat": 37.7688931,
-          "lon": -122.4192651
-        },
-        "coords_precise": true,
-        "ra": {},
-        "image": "",
-        "image_generated": false,
-        "popularity": 4,
-        "active": true,
-        "enriched": 1
       },
       {
         "id": "2026-08-10-music-crusy-sebastian-fox-trovato-7d1f20",
@@ -1163,7 +1072,9 @@
           "south-asian",
           "bollywood",
           "edm",
-          "rooftop"
+          "rooftop",
+          "house",
+          "uk garage"
         ],
         "sources": [
           "https://posh.vip/e/dil-se-rave-outdoor-edition",
@@ -1174,8 +1085,8 @@
           "https://posh.vip/e/dil-se-rave-outdoor-edition"
         ],
         "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=620%20Jones%20St%2C%20San%20Francisco%2C%20CA%2094102",
-          "apple": "https://maps.apple.com/?q=620%20Jones%20St%2C%20San%20Francisco%2C%20CA%2094102"
+          "google": "https://www.google.com/maps/search/?api=1&query=620%20Jones%2C%20San%20Francisco",
+          "apple": "https://maps.apple.com/?q=620%20Jones%2C%20San%20Francisco"
         },
         "coords": {
           "lat": 37.7871812,
@@ -1194,58 +1105,6 @@
             "instagram": null
           }
         ]
-      },
-      {
-        "id": "2026-08-10-music-cherry-vic-vankman-digital-kit-9ac8c8",
-        "eid": "cherry-vic-vankman-digit-075e",
-        "track": "music",
-        "category": "Freestyle / Electro",
-        "name": "Cherry, Vic Vankman, Digital Kit Kat, Guerrilla Pump",
-        "day": "Sat",
-        "date": "2026-08-15",
-        "time": "9pm-close",
-        "start": "21:00",
-        "end": null,
-        "area": "San Francisco",
-        "venue": "The Knockout",
-        "address": "3223 Mission St, San Francisco, CA 94110",
-        "why": "A $5 door dive-bar night of freestyle, Miami bass and baile funk — the cheapest ticket on the bill",
-        "summary": "Freakstyle Posse's Saturday Night Funk-tion at The Knockout, a $5 dive-bar dance party of electro, freestyle, hi-NRG and baile funk with Cherry, Vic Vankman, Digital Kit Kat and Guerrilla Pump.",
-        "promoter": "Freakstyle Posse",
-        "price": "$5",
-        "tags": [
-          "freestyle",
-          "miami-bass",
-          "dive-bar",
-          "cheap",
-          "hi-nrg",
-          "miami bass",
-          "baile funk",
-          "electro",
-          "21-plus"
-        ],
-        "sources": [
-          "https://www.instagram.com/p/DbtINkAKDfo/",
-          "https://dice.fm/event/l87o7w-freakstyle-posse-dance-party-a-saturday-night-funk-tion-15th-aug-the-knockout-san-francisco-tickets"
-        ],
-        "tickets": [
-          "https://dice.fm/event/l87o7w-freakstyle-posse-dance-party-a-saturday-night-funk-tion-15th-aug-the-knockout-san-francisco-tickets"
-        ],
-        "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=3223%20Mission%20St%2C%20San%20Francisco%2C%20CA%2094110",
-          "apple": "https://maps.apple.com/?q=3223%20Mission%20St%2C%20San%20Francisco%2C%20CA%2094110"
-        },
-        "coords": {
-          "lat": 37.7451841,
-          "lon": -122.4199903
-        },
-        "coords_precise": true,
-        "ra": {},
-        "image": "",
-        "image_generated": false,
-        "popularity": 0,
-        "active": true,
-        "enriched": 1
       },
       {
         "id": "2026-08-10-music-denham-audio-bianca-oblivion-d-8dbeaf",
@@ -1271,7 +1130,10 @@
           "uk-garage",
           "footwork",
           "hip-hop",
-          "trap"
+          "trap",
+          "drum and bass",
+          "club music",
+          "uk garage"
         ],
         "sources": [
           "https://ra.co/events/2487097",
@@ -1282,8 +1144,8 @@
           "https://www.eventbrite.com/e/denham-audio-bianca-oblivion-dj-manny-presented-by-fatcap-public-works-tickets-1993633693043"
         ],
         "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=161%20Erie%20Street%2C%20San%20Francisco%2C%20CA%2094103",
-          "apple": "https://maps.apple.com/?q=161%20Erie%20Street%2C%20San%20Francisco%2C%20CA%2094103"
+          "google": "https://www.google.com/maps/search/?api=1&query=Public%20Works%2C%20San%20Francisco",
+          "apple": "https://maps.apple.com/?q=Public%20Works%2C%20San%20Francisco"
         },
         "coords": {
           "lat": 37.7688931,
@@ -1347,8 +1209,8 @@
           "https://ra.co/events/2474822"
         ],
         "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=1192%20Folsom%20St%2C%20San%20Francisco%2C%20CA%2094103",
-          "apple": "https://maps.apple.com/?q=1192%20Folsom%20St%2C%20San%20Francisco%2C%20CA%2094103"
+          "google": "https://www.google.com/maps/search/?api=1&query=F8%201192%20Folsom%2C%20San%20Francisco",
+          "apple": "https://maps.apple.com/?q=F8%201192%20Folsom%2C%20San%20Francisco"
         },
         "coords": {
           "lat": 37.7752814,
@@ -1418,18 +1280,22 @@
         "tags": [
           "tech-house",
           "minimal",
-          "house"
+          "house",
+          "tech house"
         ],
         "sources": [
           "https://ra.co/events/2441807",
-          "https://m.audiosf.com/event/jamback-08-14/"
+          "https://m.audiosf.com/event/jamback-08-14/",
+          "https://www.eventbrite.com/e/jamback-tickets-1991019469831"
         ],
         "tickets": [
-          "https://ra.co/events/2441807"
+          "https://ra.co/events/2441807",
+          "https://www.eventbrite.com/e/jamback-tickets-1991019469831",
+          "https://m.audiosf.com/event/jamback-08-14/"
         ],
         "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=316%2011th%20St%2C%20San%20Francisco%2C%20CA%2094103",
-          "apple": "https://maps.apple.com/?q=316%2011th%20St%2C%20San%20Francisco%2C%20CA%2094103"
+          "google": "https://www.google.com/maps/search/?api=1&query=Audio%2C%20San%20Francisco",
+          "apple": "https://maps.apple.com/?q=Audio%2C%20San%20Francisco"
         },
         "coords": {
           "lat": 37.7713709,
@@ -1551,19 +1417,22 @@
         "tags": [
           "house",
           "melodic-house",
-          "progressive-house"
+          "progressive-house",
+          "progressive house",
+          "techno"
         ],
         "sources": [
           "https://www.tixr.com/groups/publicsf/events/shan-nash-roderic-presented-by-lut-project-and-safra-196024",
           "https://www.thelut.com/showcases",
-          "https://ra.co/events/2476716"
+          "https://ra.co/events/2476716",
+          "https://ma.to/event/lut-project-public-works-14-aug-2026"
         ],
         "tickets": [
           "https://www.tixr.com/groups/publicsf/events/shan-nash-roderic-presented-by-lut-project-and-safra-196024"
         ],
         "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=161%20Erie%20Street%2C%20San%20Francisco%2C%20CA%2094103",
-          "apple": "https://maps.apple.com/?q=161%20Erie%20Street%2C%20San%20Francisco%2C%20CA%2094103"
+          "google": "https://www.google.com/maps/search/?api=1&query=Public%20Works%20Loft%2C%20San%20Francisco",
+          "apple": "https://maps.apple.com/?q=Public%20Works%20Loft%2C%20San%20Francisco"
         },
         "coords": {
           "lat": 37.7688931,
@@ -1656,7 +1525,9 @@
         "price": "$13.39",
         "tags": [
           "electro",
-          "synthpop"
+          "synthpop",
+          "indie-pop",
+          "live-band"
         ],
         "sources": [
           "https://dice.fm/event/eo6gm2-prxzm-juliet-daniel-and-tasha-malan-14th-aug-kilowatt-san-francisco-tickets",
@@ -1667,8 +1538,8 @@
           "https://dice.fm/event/eo6gm2-prxzm-juliet-daniel-and-tasha-malan-14th-aug-kilowatt-san-francisco-tickets"
         ],
         "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=3160%2016th%20St%2C%20San%20Francisco%2C%20CA%2094103",
-          "apple": "https://maps.apple.com/?q=3160%2016th%20St%2C%20San%20Francisco%2C%20CA%2094103"
+          "google": "https://www.google.com/maps/search/?api=1&query=Kilowatt%2C%20San%20Francisco",
+          "apple": "https://maps.apple.com/?q=Kilowatt%2C%20San%20Francisco"
         },
         "coords": {
           "lat": 37.7649743,
@@ -1725,8 +1596,8 @@
           "https://www.eventbrite.com/e/iz-diz-chicago-tickets-1993873545448"
         ],
         "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=101%206th%20Street%2C%20San%20Francisco%2C%20CA%2094103",
-          "apple": "https://maps.apple.com/?q=101%206th%20Street%2C%20San%20Francisco%2C%20CA%2094103"
+          "google": "https://www.google.com/maps/search/?api=1&query=Monarch%2C%20San%20Francisco",
+          "apple": "https://maps.apple.com/?q=Monarch%2C%20San%20Francisco"
         },
         "coords": {
           "lat": 37.7809714,
@@ -1763,69 +1634,6 @@
         ]
       },
       {
-        "id": "2026-08-10-music-monstercat-15-year-feat-what-s-3d03ad",
-        "eid": "monstercat-15-year-feat-43c6",
-        "track": "music",
-        "category": "Trap/Dubstep/EDM",
-        "name": "Monstercat 15 Year feat. What So Not",
-        "day": "Fri",
-        "date": "2026-08-14",
-        "time": "10pm-2am",
-        "start": "22:00",
-        "end": "02:00",
-        "area": "SF",
-        "venue": "The Midway",
-        "address": "900 Marin St, San Francisco, CA 94124",
-        "why": "A touring headliner (What So Not) and a label-anniversary production make this the biggest pure-EDM show of the night, spanning the Midway's indoor and outdoor Terrace stages.",
-        "summary": "Monstercat celebrates its 15th anniversary with headliner What So Not across The Midway's indoor Gods & Monsters room and outdoor Terrace stage.",
-        "promoter": "Monstercat",
-        "price": "$20.22-32.35",
-        "tags": [
-          "trap",
-          "dubstep",
-          "pop-edm"
-        ],
-        "sources": [
-          "https://tixr.com/groups/midwaysf/events/monstercat-15-year-198021"
-        ],
-        "tickets": [
-          "https://tixr.com/groups/midwaysf/events/monstercat-15-year-198021"
-        ],
-        "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=900%20Marin%20St%2C%20San%20Francisco%2C%20CA%2094124",
-          "apple": "https://maps.apple.com/?q=900%20Marin%20St%2C%20San%20Francisco%2C%20CA%2094124"
-        },
-        "coords": {
-          "lat": 37.7495304,
-          "lon": -122.3860944
-        },
-        "coords_precise": true,
-        "ra": {},
-        "image": "",
-        "image_generated": false,
-        "popularity": 0,
-        "active": true,
-        "enriched": 1,
-        "lineup": [
-          {
-            "name": "What So Not",
-            "instagram": "whatsonot"
-          },
-          {
-            "name": "Sportmode",
-            "instagram": "sportmodemusic"
-          },
-          {
-            "name": "Z3LLA",
-            "instagram": "z3llamusic"
-          },
-          {
-            "name": "Zondo",
-            "instagram": null
-          }
-        ]
-      },
-      {
         "id": "2026-08-10-music-love-supreme-summer-day-party-d022e4",
         "eid": "love-supreme-summer-day-a83e",
         "track": "music",
@@ -1835,7 +1643,7 @@
         "date": "2026-08-16",
         "time": "2pm",
         "start": "14:00",
-        "end": null,
+        "end": "20:00",
         "area": "Mission",
         "venue": "The Chapel (Outdoor Stage)",
         "address": "777 Valencia St, San Francisco, CA 94110",
@@ -1850,17 +1658,25 @@
           "amapiano",
           "house",
           "reggaeton",
-          "day-party"
+          "day-party",
+          "baile funk",
+          "dancehall",
+          "latin house",
+          "r&b",
+          "rap",
+          "club",
+          "21+"
         ],
         "sources": [
-          "https://thechapelsf.com/calendar/"
+          "https://thechapelsf.com/calendar/",
+          "https://www.fusicology.com/events/love-supreme-summer-day-party-series-at-the-chapel-sf-aug-17-2025/"
         ],
         "tickets": [
           "https://wl.seetickets.us/event/LOVE-SUPREME-Summer-Day-Party-Series/697819?afflky=TheChapel"
         ],
         "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=777%20Valencia%20St%2C%20San%20Francisco%2C%20CA%2094110",
-          "apple": "https://maps.apple.com/?q=777%20Valencia%20St%2C%20San%20Francisco%2C%20CA%2094110"
+          "google": "https://www.google.com/maps/search/?api=1&query=The%20Chapel%2C%20San%20Francisco",
+          "apple": "https://maps.apple.com/?q=The%20Chapel%2C%20San%20Francisco"
         },
         "coords": {
           "lat": 37.7597,
@@ -1910,7 +1726,10 @@
           "afro-house",
           "afro-tech",
           "weeknight",
-          "21+"
+          "21+",
+          "afrobeats",
+          "house",
+          "free-before-11"
         ],
         "sources": [
           "http://www.feightsf.com/",
@@ -1929,7 +1748,12 @@
           "lon": -122.4099546
         },
         "coords_precise": true,
-        "ra": {},
+        "ra": {
+          "event_id": "2502596",
+          "url": "https://ra.co/events/2502596",
+          "interested": 29,
+          "attending": 29
+        },
         "image": "",
         "image_generated": false,
         "popularity": 3,
@@ -2152,56 +1976,6 @@
             "instagram": null
           }
         ]
-      },
-      {
-        "id": "2026-08-10-music-teego-presents-afro-thursdays-ab5723",
-        "eid": "teego-presents-afro-thur-4870",
-        "track": "music",
-        "category": "Afrobeats/House",
-        "name": "Teego presents Afro Thursdays",
-        "day": "Thu",
-        "date": "2026-08-13",
-        "time": "9pm–2am",
-        "start": "21:00",
-        "end": "02:00",
-        "area": "SF",
-        "venue": "F8 1192 Folsom",
-        "address": "1192 Folsom St, San Francisco, CA 94103",
-        "why": "Free-before-11 Afrobeats/house night for a weeknight that's usually dead",
-        "summary": "Teego SF's Afro Thursdays brings HIDRA, Mode Leeloo, Irona and Camillionaire to F8's Folsom Street room, with free entry before 11pm on RSVP for the 21+ night.",
-        "promoter": "Teego SF",
-        "price": "Free–$10",
-        "tags": [
-          "afrobeats",
-          "house",
-          "free-before-11"
-        ],
-        "sources": [
-          "https://ra.co/events/2502596"
-        ],
-        "tickets": [
-          "https://ra.co/events/2502596"
-        ],
-        "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=1192%20Folsom%20St%2C%20San%20Francisco%2C%20CA%2094103",
-          "apple": "https://maps.apple.com/?q=1192%20Folsom%20St%2C%20San%20Francisco%2C%20CA%2094103"
-        },
-        "coords": {
-          "lat": 37.7752814,
-          "lon": -122.4099546
-        },
-        "coords_precise": true,
-        "ra": {
-          "event_id": "2502596",
-          "url": "https://ra.co/events/2502596",
-          "interested": 29,
-          "attending": 29
-        },
-        "image": "",
-        "image_generated": false,
-        "popularity": 0,
-        "active": true,
-        "enriched": 1
       },
       {
         "id": "2026-08-10-music-lyny-villager-a51a8f",
@@ -2859,67 +2633,6 @@
         ]
       },
       {
-        "id": "2026-08-10-music-denham-audio-bianca-oblivion-d-dff4e6",
-        "eid": "denham-audio-bianca-obli-f1d9",
-        "track": "music",
-        "category": "Drum & Bass",
-        "name": "Denham Audio, Bianca Oblivion, DJ Manny",
-        "day": "Fri",
-        "date": "2026-08-14",
-        "time": "9pm–3am",
-        "start": "21:00",
-        "end": "03:00",
-        "area": "SF",
-        "venue": "Public Works",
-        "address": "161 Erie St, San Francisco, CA 94103",
-        "why": "Denham Audio's hardcore-rooted 140-160 BPM sound headlines a genre-crossing bill with jungle, garage, and footwork.",
-        "summary": "FATCAP and Public Works present Denham Audio alongside Bianca Oblivion and DJ Manny for a night spanning UK hardcore-rooted drum & bass, jungle, and footwork/juke.",
-        "promoter": "FATCAP & Public Works",
-        "price": "$26-37",
-        "tags": [
-          "drum and bass",
-          "jungle",
-          "club music",
-          "uk garage",
-          "footwork",
-          "hip-hop",
-          "trap"
-        ],
-        "sources": [
-          "https://ra.co/events/2487097",
-          "https://www.eventbrite.com/e/denham-audio-bianca-oblivion-dj-manny-presented-by-fatcap-public-works-tickets-1993633693043"
-        ],
-        "tickets": [
-          "https://www.eventbrite.com/e/denham-audio-bianca-oblivion-dj-manny-presented-by-fatcap-public-works-tickets-1993633693043"
-        ],
-        "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=Public%20Works%2C%20San%20Francisco",
-          "apple": "https://maps.apple.com/?q=Public%20Works%2C%20San%20Francisco"
-        },
-        "coords": null,
-        "coords_precise": false,
-        "ra": {},
-        "image": "",
-        "image_generated": false,
-        "popularity": 0,
-        "active": true,
-        "enriched": 1,
-        "lineup": [
-          {
-            "name": "Denham Audio",
-            "instagram": null
-          },
-          {
-            "name": "Bianca Oblivion",
-            "instagram": null
-          },
-          {
-            "name": "DJ Manny",
-            "instagram": null
-          }
-        ]
-      },
-      {
         "id": "2026-08-10-music-dj-brown-buoy-special-guest-0f8568",
         "eid": "dj-brown-buoy-special-gu-16c6",
         "track": "music",
@@ -3095,100 +2808,6 @@
         "popularity": 0,
         "active": true,
         "enriched": 1
-      },
-      {
-        "id": "2026-08-10-music-iz-diz-a36590",
-        "eid": "iz-diz-0a09",
-        "track": "music",
-        "category": "House",
-        "name": "Iz & Diz",
-        "day": "Fri",
-        "date": "2026-08-14",
-        "time": "9pm-2:30am",
-        "start": "21:00",
-        "end": "02:30",
-        "area": "SoMa",
-        "venue": "Monarch",
-        "address": "101 6th Street, San Francisco, CA 94103",
-        "why": "A straight house-only bill in Monarch's two-level SoMa room, lighter and cheaper than the night's bigger techno tickets.",
-        "summary": "Chicago house duo Iz & Diz play Monarch's two-level SoMa room, upstairs lounge and downstairs club floor.",
-        "promoter": "",
-        "price": "$11.28-25.55",
-        "tags": [
-          "house"
-        ],
-        "sources": [
-          "https://www.eventbrite.com/e/iz-diz-chicago-tickets-1993873545448"
-        ],
-        "tickets": [
-          "https://www.eventbrite.com/e/iz-diz-chicago-tickets-1993873545448"
-        ],
-        "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=Monarch%2C%20San%20Francisco",
-          "apple": "https://maps.apple.com/?q=Monarch%2C%20San%20Francisco"
-        },
-        "coords": null,
-        "coords_precise": false,
-        "ra": {},
-        "image": "",
-        "image_generated": false,
-        "popularity": 0,
-        "active": true,
-        "enriched": 1
-      },
-      {
-        "id": "2026-08-10-music-jamback-emilio-3471b8",
-        "eid": "jamback-emilio-f8dd",
-        "track": "music",
-        "category": "Tech House",
-        "name": "Jamback, Emilio",
-        "day": "Fri",
-        "date": "2026-08-14",
-        "time": "9:30pm–2am",
-        "start": "21:30",
-        "end": "02:00",
-        "area": "SoMa",
-        "venue": "Audio",
-        "address": "316 11th St, San Francisco, CA 94103",
-        "why": "Jamback's first-ever Audio SF set, backed by support act Emilio.",
-        "summary": "Jamback makes his Audio SF debut on Friday, August 14, with support from Emilio, bringing tech house and minimal sounds to the club's SoMa dance floor.",
-        "promoter": "Audio SF",
-        "price": "$35+",
-        "tags": [
-          "tech house",
-          "minimal"
-        ],
-        "sources": [
-          "https://m.audiosf.com/event/jamback-08-14/",
-          "https://ra.co/events/2441807",
-          "https://www.eventbrite.com/e/jamback-tickets-1991019469831"
-        ],
-        "tickets": [
-          "https://www.eventbrite.com/e/jamback-tickets-1991019469831",
-          "https://m.audiosf.com/event/jamback-08-14/"
-        ],
-        "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=Audio%2C%20San%20Francisco",
-          "apple": "https://maps.apple.com/?q=Audio%2C%20San%20Francisco"
-        },
-        "coords": null,
-        "coords_precise": false,
-        "ra": {},
-        "image": "",
-        "image_generated": false,
-        "popularity": 0,
-        "active": true,
-        "enriched": 1,
-        "lineup": [
-          {
-            "name": "Jamback",
-            "instagram": null
-          },
-          {
-            "name": "Emilio",
-            "instagram": null
-          }
-        ]
       },
       {
         "id": "2026-08-10-music-julius-papp-19a084",
@@ -3442,21 +3061,27 @@
           "dubstep",
           "pop EDM",
           "label showcase",
-          "two-stage"
+          "two-stage",
+          "pop-edm"
         ],
         "sources": [
           "https://www.tixr.com/groups/midwaysf/events/monstercat-15-year-198021",
           "https://www.jambase.com/show/what-so-not-the-midway-20260814",
-          "https://edmtrain.com/san-francisco-ca/monstercat-15-year-what-so-not-520737"
+          "https://edmtrain.com/san-francisco-ca/monstercat-15-year-what-so-not-520737",
+          "https://tixr.com/groups/midwaysf/events/monstercat-15-year-198021"
         ],
         "tickets": [
-          "https://www.tixr.com/groups/midwaysf/events/monstercat-15-year-198021"
+          "https://www.tixr.com/groups/midwaysf/events/monstercat-15-year-198021",
+          "https://tixr.com/groups/midwaysf/events/monstercat-15-year-198021"
         ],
         "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=The%20Midway%2C%20San%20Francisco",
-          "apple": "https://maps.apple.com/?q=The%20Midway%2C%20San%20Francisco"
+          "google": "https://www.google.com/maps/search/?api=1&query=900%20Marin%20St%2C%20San%20Francisco%2C%20CA%2094124",
+          "apple": "https://maps.apple.com/?q=900%20Marin%20St%2C%20San%20Francisco%2C%20CA%2094124"
         },
-        "coords": null,
+        "coords": {
+          "lat": 37.7495304,
+          "lon": -122.3860944
+        },
         "coords_precise": false,
         "ra": {},
         "image": "",
@@ -3796,124 +3421,6 @@
         ]
       },
       {
-        "id": "2026-08-10-music-program-audio-innerspeak-r-246703",
-        "eid": "program-audio-innerspeak-b179",
-        "track": "music",
-        "category": "Techno",
-        "name": "Program Audio: Innerspeak:R",
-        "day": "Fri",
-        "date": "2026-08-14",
-        "time": "10pm-4am",
-        "start": "22:00",
-        "end": "04:00",
-        "area": "SF",
-        "venue": "F8 1192 Folsom",
-        "address": "1192 Folsom St, San Francisco, CA 94103",
-        "why": "A 6-hour deep local-talent techno night opening a full two-day program audio weekend.",
-        "summary": "Program audio's Friday night at F8 runs a stacked local lineup -- djfix, Chloe Battelle, sfcowboy, Oso Feo b2b M66 and more -- from 10pm to 4am, the first of three sets in the 'innerspeak:r' weekend.",
-        "promoter": "program audio",
-        "price": "$44.05-55.05",
-        "tags": [
-          "techno",
-          "club",
-          "late-night"
-        ],
-        "sources": [
-          "https://ra.co/events/2474822",
-          "http://www.feightsf.com/new-events/program-audio-innerspeakr"
-        ],
-        "tickets": [
-          "https://ra.co/events/2474822"
-        ],
-        "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=F8%201192%20Folsom%2C%20San%20Francisco",
-          "apple": "https://maps.apple.com/?q=F8%201192%20Folsom%2C%20San%20Francisco"
-        },
-        "coords": null,
-        "coords_precise": false,
-        "ra": {},
-        "image": "",
-        "image_generated": false,
-        "popularity": 0,
-        "active": true,
-        "enriched": 1,
-        "lineup": [
-          {
-            "name": "djfix",
-            "instagram": null
-          },
-          {
-            "name": "Chloe Battelle",
-            "instagram": null
-          },
-          {
-            "name": "sfcowboy",
-            "instagram": null
-          },
-          {
-            "name": "Oso Feo b2b M66",
-            "instagram": null
-          }
-        ]
-      },
-      {
-        "id": "2026-08-10-music-prxzm-juliet-daniel-and-tasha-7d1412",
-        "eid": "prxzm-juliet-daniel-and-7b2a",
-        "track": "music",
-        "category": "Synth-Pop",
-        "name": "PRXZM, Juliet Daniel and Tasha Malan",
-        "day": "Fri",
-        "date": "2026-08-14",
-        "time": "",
-        "start": null,
-        "end": null,
-        "area": "Mission",
-        "venue": "Kilowatt",
-        "address": "3160 16th St, San Francisco, CA 94103",
-        "why": "Synth-pop night at the Mission's Kilowatt with three rising acts on one bill",
-        "summary": "PRXZM headlines a synth-pop bill at Kilowatt with support from Juliet Daniel and Tasha Malan.",
-        "promoter": "",
-        "price": "$13.39",
-        "tags": [
-          "electro",
-          "synthpop",
-          "indie-pop",
-          "live-band"
-        ],
-        "sources": [
-          "https://dice.fm/event/eo6gm2-prxzm-juliet-daniel-and-tasha-malan-14th-aug-kilowatt-san-francisco-tickets"
-        ],
-        "tickets": [
-          "https://dice.fm/event/eo6gm2-prxzm-juliet-daniel-and-tasha-malan-14th-aug-kilowatt-san-francisco-tickets"
-        ],
-        "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=Kilowatt%2C%20San%20Francisco",
-          "apple": "https://maps.apple.com/?q=Kilowatt%2C%20San%20Francisco"
-        },
-        "coords": null,
-        "coords_precise": false,
-        "ra": {},
-        "image": "",
-        "image_generated": false,
-        "popularity": 0,
-        "active": true,
-        "enriched": 1,
-        "lineup": [
-          {
-            "name": "PRXZM",
-            "instagram": null
-          },
-          {
-            "name": "Juliet Daniel",
-            "instagram": null
-          },
-          {
-            "name": "Tasha Malan",
-            "instagram": null
-          }
-        ]
-      },
-      {
         "id": "2026-08-10-music-reggaeton-rave-324013",
         "eid": "reggaeton-rave-e3e9",
         "track": "music",
@@ -4066,7 +3573,11 @@
         "tags": [
           "tech house",
           "nu-disco",
-          "progressive house"
+          "progressive house",
+          "house",
+          "disco",
+          "techno",
+          "residency"
         ],
         "sources": [
           "https://www.instagram.com/p/DbwcAudvIac/",
@@ -4075,8 +3586,8 @@
         ],
         "tickets": [],
         "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=Napa%20Music%20Hall%2C%20Napa",
-          "apple": "https://maps.apple.com/?q=Napa%20Music%20Hall%2C%20Napa"
+          "google": "https://www.google.com/maps/search/?api=1&query=Napa%20Music%20Hall%2C%20Napa%2C%20CA",
+          "apple": "https://maps.apple.com/?q=Napa%20Music%20Hall%2C%20Napa%2C%20CA"
         },
         "coords": null,
         "coords_precise": false,
@@ -4097,63 +3608,6 @@
           },
           {
             "name": "Tamer",
-            "instagram": null
-          }
-        ]
-      },
-      {
-        "id": "2026-08-10-music-shan-nash-roderic-hoolia-a85886",
-        "eid": "shan-nash-roderic-hoolia-73bc",
-        "track": "music",
-        "category": "House",
-        "name": "Shan Nash, Roderic, Hoolia",
-        "day": "Fri",
-        "date": "2026-08-14",
-        "time": "9pm-2am",
-        "start": "21:00",
-        "end": "02:00",
-        "area": "SF",
-        "venue": "Public Works Loft",
-        "address": "161 Erie St, San Francisco, CA 94103",
-        "why": "Intimate loft showcase from LUT Project's own founder, not the venue's usual main-room bill",
-        "summary": "An intimate showcase in the Public Works Loft presented by LUT Project and Safra, featuring LUT founder Shan Nash alongside Mexico's Roderic and local support Hoolia.",
-        "promoter": "LUT Project x Safra",
-        "price": "$32+",
-        "tags": [
-          "house",
-          "progressive house",
-          "techno"
-        ],
-        "sources": [
-          "https://www.tixr.com/groups/publicsf/events/shan-nash-roderic-presented-by-lut-project-and-safra-196024",
-          "https://ma.to/event/lut-project-public-works-14-aug-2026"
-        ],
-        "tickets": [
-          "https://www.tixr.com/groups/publicsf/events/shan-nash-roderic-presented-by-lut-project-and-safra-196024"
-        ],
-        "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=Public%20Works%20Loft%2C%20San%20Francisco",
-          "apple": "https://maps.apple.com/?q=Public%20Works%20Loft%2C%20San%20Francisco"
-        },
-        "coords": null,
-        "coords_precise": false,
-        "ra": {},
-        "image": "",
-        "image_generated": false,
-        "popularity": 0,
-        "active": true,
-        "enriched": 1,
-        "lineup": [
-          {
-            "name": "Shan Nash",
-            "instagram": null
-          },
-          {
-            "name": "Roderic",
-            "instagram": null
-          },
-          {
-            "name": "Hoolia",
             "instagram": null
           }
         ]
@@ -4311,45 +3765,6 @@
         "enriched": 1
       },
       {
-        "id": "2026-08-10-music-2000-s-rave-fba675",
-        "eid": "2000-s-rave-325c",
-        "track": "music",
-        "category": "",
-        "name": "2000's Rave",
-        "day": "Sat",
-        "date": "2026-08-15",
-        "time": "9pm",
-        "start": "21:00",
-        "end": null,
-        "area": "Dogpatch",
-        "venue": "The Midway Gods and Monsters",
-        "address": "900 Marin St, San Francisco, CA 94124",
-        "why": "Nostalgic Y2K-era dance night for fans of 2000s pop and EDM remixes.",
-        "summary": "A 2000s-throwback dance party at The Midway's Gods and Monsters room in Dogpatch, spinning pop/EDM remixes and hits from the early-2000s era.",
-        "promoter": "",
-        "price": "$27+",
-        "tags": [
-          "pop EDM",
-          "remixes"
-        ],
-        "sources": [
-          "https://dothebay.com/events/2026/8/15/2000-s-rave-tickets"
-        ],
-        "tickets": [],
-        "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=The%20Midway%20Gods%20and%20Monsters%2C%20San%20Francisco",
-          "apple": "https://maps.apple.com/?q=The%20Midway%20Gods%20and%20Monsters%2C%20San%20Francisco"
-        },
-        "coords": null,
-        "coords_precise": false,
-        "ra": {},
-        "image": "",
-        "image_generated": false,
-        "popularity": 0,
-        "active": true,
-        "enriched": 1
-      },
-      {
         "id": "2026-08-10-music-afrobashment-2b9388",
         "eid": "afrobashment-a0b1",
         "track": "music",
@@ -4393,80 +3808,6 @@
         "popularity": 0,
         "active": true,
         "enriched": 1
-      },
-      {
-        "id": "2026-08-10-music-badsista-bae-bae-queenie-felip-a99e58",
-        "eid": "badsista-bae-bae-queenie-8f16",
-        "track": "music",
-        "category": "Baile Funk/Techno",
-        "name": "BADSISTA, BAE BAE, QUEENIE, felipe d, Profesito, Femme Jatale, ANDYLAND",
-        "day": "Sat",
-        "date": "2026-08-15",
-        "time": "9pm-4am",
-        "start": "21:00",
-        "end": "04:00",
-        "area": "SF",
-        "venue": "The Great Northern",
-        "address": "119 Utah St, San Francisco, CA 94103",
-        "why": "Seven-hour baile funk/techno/latin club marathon pulling touring Brazilian and LA DJs into one SF night",
-        "summary": "Keep Hush returns to San Francisco with Mostly Cloudy at The Great Northern, hosting DJs from Brazil, Los Angeles and the Bay Area for 7 hours of baile funk, techno and latin club variations.",
-        "promoter": "Keep Hush x Mostly Cloudy",
-        "price": "$23 b4 10 / $28-40",
-        "tags": [
-          "baile funk",
-          "latin club",
-          "techno",
-          "bass"
-        ],
-        "sources": [
-          "https://ra.co/events/2492444",
-          "https://www.sfstation.com/mostly-cloudy-x-keep-hush-badsista-bae-bae-more-e15772597"
-        ],
-        "tickets": [
-          "https://www.beatportal.com/events/t8tjjoz-keep-hush-live-x-mostly-cloudy"
-        ],
-        "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=The%20Great%20Northern%2C%20San%20Francisco",
-          "apple": "https://maps.apple.com/?q=The%20Great%20Northern%2C%20San%20Francisco"
-        },
-        "coords": null,
-        "coords_precise": false,
-        "ra": {},
-        "image": "",
-        "image_generated": false,
-        "popularity": 0,
-        "active": true,
-        "enriched": 1,
-        "lineup": [
-          {
-            "name": "BADSISTA",
-            "instagram": null
-          },
-          {
-            "name": "BAE BAE",
-            "instagram": null
-          },
-          {
-            "name": "QUEENIE",
-            "instagram": null
-          },
-          {
-            "name": "felipe d",
-            "instagram": null
-          },
-          {
-            "name": "Profesito",
-            "instagram": null
-          },
-          {
-            "name": "Femme Jatale",
-            "instagram": null
-          },
-          {
-            "name": "ANDYLAND",
-            "instagram": null
-          }
-        ]
       },
       {
         "id": "2026-08-10-music-basement-bounce-745ca8",
@@ -4801,49 +4142,6 @@
         "enriched": 1
       },
       {
-        "id": "2026-08-10-music-dil-se-rave-a-south-asian-edm-9f4cda",
-        "eid": "dil-se-rave-a-south-asia-6f65",
-        "track": "music",
-        "category": "South Asian EDM",
-        "name": "Dil Se Rave - A South Asian Edm Rave: Lychy Jelly, Qaotiq",
-        "day": "Sat",
-        "date": "2026-08-15",
-        "time": "",
-        "start": null,
-        "end": null,
-        "area": "Tenderloin",
-        "venue": "620 Jones",
-        "address": "620 Jones St, San Francisco, CA 94102",
-        "why": "A recurring desi rave brand known for reimagining Bollywood and pop hits as house and UK garage sets, on 620 Jones's outdoor terrace.",
-        "summary": "Dil se Rave's Terrace Edition brings its South Asian EDM day-into-night party to the 620 Jones rooftop terrace, with Lychy Jelly and Qaotiq blending Bollywood and pop anthems with house and UK garage.",
-        "promoter": "Lychy Jelly",
-        "price": "$14 b4 3 / $17",
-        "tags": [
-          "house",
-          "uk garage",
-          "bollywood"
-        ],
-        "sources": [
-          "https://posh.vip/e/dil-se-rave-outdoor-edition",
-          "https://www.facebook.com/620Jones/posts/your-favorite-desi-rave-is-taking-over-the-620-jones-terrace-on-815-experience-y/1047906680962945/"
-        ],
-        "tickets": [
-          "https://posh.vip/e/dil-se-rave-outdoor-edition"
-        ],
-        "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=620%20Jones%2C%20San%20Francisco",
-          "apple": "https://maps.apple.com/?q=620%20Jones%2C%20San%20Francisco"
-        },
-        "coords": null,
-        "coords_precise": false,
-        "ra": {},
-        "image": "",
-        "image_generated": false,
-        "popularity": 0,
-        "active": true,
-        "enriched": 1
-      },
-      {
         "id": "2026-08-10-music-dj-soda-9ed1f6",
         "eid": "dj-soda-739b",
         "track": "music",
@@ -5153,73 +4451,6 @@
         ]
       },
       {
-        "id": "2026-08-10-music-fight-night-live-wrestling-rav-5c2907",
-        "eid": "fight-night-live-wrestli-f442",
-        "track": "music",
-        "category": "Hard Dance",
-        "name": "Fight Night: Live Wrestling Rave - Flosstradamus, Gg Magree, Beebo, Apaki, Lily Ku$H",
-        "day": "Sat",
-        "date": "2026-08-15",
-        "time": "9pm–2am",
-        "start": "21:00",
-        "end": "02:00",
-        "area": "SoMa",
-        "venue": "The Midway",
-        "address": "900 Marin St, San Francisco, CA 94124",
-        "why": "Live wrestling matches staged between DJ sets on the same rave floor",
-        "summary": "Cave Rave brings a cage-match-themed live wrestling card to The Midway paired with a hard dance/trap rave headlined by Flosstradamus.",
-        "promoter": "Cave Rave Presents",
-        "price": "$48+",
-        "tags": [
-          "hard dance",
-          "trap",
-          "hard techno",
-          "wrestling",
-          "18+"
-        ],
-        "sources": [
-          "https://app.discotech.me/events/38241115-fight-night-live-wrestling-rave-at-the-midway",
-          "https://www.tixr.com/groups/midwaysf/events/fight-night-live-wrestling-rave-by-cave-rave-175492"
-        ],
-        "tickets": [
-          "https://www.tixr.com/groups/midwaysf/events/fight-night-live-wrestling-rave-by-cave-rave-175492"
-        ],
-        "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=The%20Midway%2C%20San%20Francisco",
-          "apple": "https://maps.apple.com/?q=The%20Midway%2C%20San%20Francisco"
-        },
-        "coords": null,
-        "coords_precise": false,
-        "ra": {},
-        "image": "",
-        "image_generated": false,
-        "popularity": 0,
-        "active": true,
-        "enriched": 1,
-        "lineup": [
-          {
-            "name": "Flosstradamus",
-            "instagram": null
-          },
-          {
-            "name": "GG Magree",
-            "instagram": null
-          },
-          {
-            "name": "Beebo",
-            "instagram": null
-          },
-          {
-            "name": "Apaki",
-            "instagram": null
-          },
-          {
-            "name": "Lily Ku$h",
-            "instagram": null
-          }
-        ]
-      },
-      {
         "id": "2026-08-10-music-freakstyle-posse-victor-vankme-de8be8",
         "eid": "freakstyle-posse-victor-246c",
         "track": "music",
@@ -5244,20 +4475,28 @@
           "baile funk",
           "electro",
           "booty bass",
-          "21+"
+          "21+",
+          "miami-bass",
+          "dive-bar",
+          "cheap",
+          "21-plus"
         ],
         "sources": [
           "https://dice.fm/event/l87o7w-freakstyle-posse-dance-party-a-saturday-night-funk-tion-15th-aug-the-knockout-san-francisco-tickets",
-          "https://www.instagram.com/freakstyleposse/"
+          "https://www.instagram.com/freakstyleposse/",
+          "https://www.instagram.com/p/DbtINkAKDfo/"
         ],
         "tickets": [
           "https://dice.fm/event/l87o7w-freakstyle-posse-dance-party-a-saturday-night-funk-tion-15th-aug-the-knockout-san-francisco-tickets"
         ],
         "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=The%20Knockout%2C%20San%20Francisco",
-          "apple": "https://maps.apple.com/?q=The%20Knockout%2C%20San%20Francisco"
+          "google": "https://www.google.com/maps/search/?api=1&query=3223%20Mission%20St%2C%20San%20Francisco%2C%20CA%2094110",
+          "apple": "https://maps.apple.com/?q=3223%20Mission%20St%2C%20San%20Francisco%2C%20CA%2094110"
         },
-        "coords": null,
+        "coords": {
+          "lat": 37.7451841,
+          "lon": -122.4199903
+        },
         "coords_precise": false,
         "ra": {},
         "image": "",
@@ -5406,7 +4645,8 @@
           "deep house",
           "disco",
           "techno",
-          "21+"
+          "21+",
+          "electronic"
         ],
         "sources": [
           "https://www.eventbrite.com/e/texture-summit-x-roam-x-sirens-ft-juan-maclean-dj-perception-and-more-tickets-1992584789745",
@@ -5417,10 +4657,13 @@
           "https://www.tixr.com/groups/publicsf/events/texture-summit-x-roam-x-sirens-ft-juan-maclean-dj-perception-and-more-195615"
         ],
         "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=Public%20Works%2C%20San%20Francisco",
-          "apple": "https://maps.apple.com/?q=Public%20Works%2C%20San%20Francisco"
+          "google": "https://www.google.com/maps/search/?api=1&query=161%20Erie%20St%2C%20San%20Francisco%2C%20CA%2094103",
+          "apple": "https://maps.apple.com/?q=161%20Erie%20St%2C%20San%20Francisco%2C%20CA%2094103"
         },
-        "coords": null,
+        "coords": {
+          "lat": 37.7688931,
+          "lon": -122.4192651
+        },
         "coords_precise": false,
         "ra": {},
         "image": "",
@@ -6023,45 +5266,6 @@
         ]
       },
       {
-        "id": "2026-08-10-music-over-easy-mars-kasei-nikes-hea-21fc99",
-        "eid": "over-easy-mars-kasei-nik-0cfe",
-        "track": "music",
-        "category": "Jungle / Footwork",
-        "name": "Over Easy: Mars Kasei, Nikes, Heavee, Lonald J Bands, Rivs",
-        "day": "Sat",
-        "date": "2026-08-15",
-        "time": "",
-        "start": null,
-        "end": null,
-        "area": "Oakland",
-        "venue": "9Lives",
-        "address": "1035 22nd Ave, Oakland, CA 94606",
-        "why": "",
-        "summary": "",
-        "promoter": "",
-        "price": "$15 notaflof",
-        "tags": [
-          "jungle",
-          "juke",
-          "hardcore",
-          "footwork"
-        ],
-        "sources": [],
-        "tickets": [],
-        "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=9Lives%2C%20Oakland",
-          "apple": "https://maps.apple.com/?q=9Lives%2C%20Oakland"
-        },
-        "coords": null,
-        "coords_precise": false,
-        "ra": {},
-        "image": "",
-        "image_generated": false,
-        "popularity": 0,
-        "active": true,
-        "enriched": 1
-      },
-      {
         "id": "2026-08-10-music-pajama-party-c13f4a",
         "eid": "pajama-party-f2be",
         "track": "music",
@@ -6106,92 +5310,6 @@
         "popularity": 0,
         "active": true,
         "enriched": 1
-      },
-      {
-        "id": "2026-08-10-music-program-audio-innerspeak-r-ad7fa5",
-        "eid": "program-audio-innerspeak-3871",
-        "track": "music",
-        "category": "",
-        "name": "Program Audio: Innerspeak:R",
-        "day": "Sat",
-        "date": "2026-08-15",
-        "time": "4pm–4am (day + night sessions)",
-        "start": "16:00",
-        "end": "04:00",
-        "area": "SoMa",
-        "venue": "F8",
-        "address": "1192 Folsom St, San Francisco, CA 94103",
-        "why": "A rare day-into-night double session from the viral online-radio collective, streamed live from the booth.",
-        "summary": "Program audio takes over F8 for a multi-session weekend of house and techno, with a Saturday day party from 4-9pm followed by a Saturday-night session from 10pm to 4am.",
-        "promoter": "program audio",
-        "price": "$44.05-55.05",
-        "tags": [
-          "techno",
-          "club",
-          "house",
-          "day party"
-        ],
-        "sources": [
-          "http://www.feightsf.com/new-events/program-audio-innerspeakr",
-          "https://ra.co/events/2474822"
-        ],
-        "tickets": [
-          "https://ra.co/events/2474822"
-        ],
-        "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=F8%201192%20Folsom%2C%20San%20Francisco",
-          "apple": "https://maps.apple.com/?q=F8%201192%20Folsom%2C%20San%20Francisco"
-        },
-        "coords": null,
-        "coords_precise": false,
-        "ra": {},
-        "image": "",
-        "image_generated": false,
-        "popularity": 0,
-        "active": true,
-        "enriched": 1,
-        "lineup": [
-          {
-            "name": "Dance Maniacs",
-            "instagram": null
-          },
-          {
-            "name": "Soulox",
-            "instagram": null
-          },
-          {
-            "name": "Lonald J Bandz",
-            "instagram": null
-          },
-          {
-            "name": "Kimosabe",
-            "instagram": null
-          },
-          {
-            "name": "Finishher",
-            "instagram": null
-          },
-          {
-            "name": "QRTR",
-            "instagram": null
-          },
-          {
-            "name": "PSL",
-            "instagram": null
-          },
-          {
-            "name": "Moonpie",
-            "instagram": null
-          },
-          {
-            "name": "Jcore",
-            "instagram": null
-          },
-          {
-            "name": "Javi",
-            "instagram": null
-          }
-        ]
       },
       {
         "id": "2026-08-10-music-revolutions-staxx-of-wax-w-dus-269a12",
@@ -6426,60 +5544,6 @@
         "popularity": 0,
         "active": true,
         "enriched": 1
-      },
-      {
-        "id": "2026-08-10-music-texture-summit-x-roam-x-sirens-792a0e",
-        "eid": "texture-summit-x-roam-x-5246",
-        "track": "music",
-        "category": "House",
-        "name": "Texture Summit x Roam x Sirens: Juan Maclean, DJ Perception",
-        "day": "Sat",
-        "date": "2026-08-15",
-        "time": "9pm–2am",
-        "start": "21:00",
-        "end": "02:00",
-        "area": "Mission District",
-        "venue": "Public Works",
-        "address": "161 Erie St, San Francisco, CA 94103",
-        "why": "Three Public Works series combining for one night, headlined by Juan Maclean's live house/disco set",
-        "summary": "A joint night from three of Public Works' resident series — Texture Summit, Roam, and Sirens — bringing Juan Maclean and DJ Perception together across the venue's spaces.",
-        "promoter": "Public Works SF",
-        "price": "",
-        "tags": [
-          "house",
-          "electronic",
-          "disco"
-        ],
-        "sources": [
-          "https://www.eventbrite.com/e/texture-summit-x-roam-x-sirens-ft-juan-maclean-dj-perception-and-more-tickets-1992584789745",
-          "https://www.tixr.com/groups/publicsf/events/texture-summit-x-roam-x-sirens-ft-juan-maclean-dj-perception-and-more-195615"
-        ],
-        "tickets": [
-          "https://www.eventbrite.com/e/texture-summit-x-roam-x-sirens-ft-juan-maclean-dj-perception-and-more-tickets-1992584789745",
-          "https://www.tixr.com/groups/publicsf/events/texture-summit-x-roam-x-sirens-ft-juan-maclean-dj-perception-and-more-195615"
-        ],
-        "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=Public%20Works%2C%20San%20Francisco",
-          "apple": "https://maps.apple.com/?q=Public%20Works%2C%20San%20Francisco"
-        },
-        "coords": null,
-        "coords_precise": false,
-        "ra": {},
-        "image": "",
-        "image_generated": false,
-        "popularity": 0,
-        "active": true,
-        "enriched": 1,
-        "lineup": [
-          {
-            "name": "Juan Maclean",
-            "instagram": null
-          },
-          {
-            "name": "DJ Perception",
-            "instagram": null
-          }
-        ]
       },
       {
         "id": "2026-08-10-music-tommy-phillips-35cb1b",
@@ -7380,56 +6444,6 @@
             "instagram": null
           }
         ]
-      },
-      {
-        "id": "2026-08-10-music-summer-day-party-series-travie-929252",
-        "eid": "summer-day-party-series-76fe",
-        "track": "music",
-        "category": "Global Club",
-        "name": "Summer Day Party Series: Travie Bobbito, King Most, Bella D, & Friends",
-        "day": "Sun",
-        "date": "2026-08-16",
-        "time": "2–8pm",
-        "start": "14:00",
-        "end": "20:00",
-        "area": "SF",
-        "venue": "The Chapel",
-        "address": "777 Valencia St, San Francisco, CA 94110",
-        "why": "LOVE SUPREME's outdoor daytime session brings afrobeats, amapiano, and reggaeton to The Chapel's backyard stage",
-        "summary": "LOVE SUPREME's recurring Summer Day Party Series returns to The Chapel's outdoor stage with LS Sound System (Travie Bobbito, King Most, Bella D.) & Friends spinning afrobeats, amapiano, baile funk, dancehall, house, latin, R&B, rap, and reggaeton. 21+.",
-        "promoter": "LOVE SUPREME",
-        "price": "$14.84-27.22",
-        "tags": [
-          "afrobeats",
-          "amapiano",
-          "baile funk",
-          "dancehall",
-          "house",
-          "latin house",
-          "r&b",
-          "rap",
-          "reggaeton",
-          "club",
-          "outdoor",
-          "daytime",
-          "21+"
-        ],
-        "sources": [
-          "https://www.fusicology.com/events/love-supreme-summer-day-party-series-at-the-chapel-sf-aug-17-2025/"
-        ],
-        "tickets": [],
-        "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=The%20Chapel%2C%20San%20Francisco",
-          "apple": "https://maps.apple.com/?q=The%20Chapel%2C%20San%20Francisco"
-        },
-        "coords": null,
-        "coords_precise": false,
-        "ra": {},
-        "image": "",
-        "image_generated": false,
-        "popularity": 0,
-        "active": true,
-        "enriched": 1
       },
       {
         "id": "2026-08-10-music-super-wave-sunday-with-dj-x-mo-25deb7",

@@ -5,7 +5,7 @@
   "location": "Los Angeles & SoCal",
   "city": "los-angeles",
   "city_label": "Los Angeles",
-  "generated_at": "2026-10-09",
+  "generated_at": "2026-10-31",
   "tracks": {
     "music": [
       {
@@ -896,45 +896,6 @@
         "active": true
       },
       {
-        "id": "2026-09-07-music-bass-bridge-003-warehouse-part-bfc919",
-        "eid": "bass-bridge-003-warehous-181e",
-        "track": "music",
-        "category": "Bass",
-        "name": "Bass Bridge 003 Warehouse Party",
-        "day": "Sat",
-        "date": "2026-09-12",
-        "time": "",
-        "start": null,
-        "end": null,
-        "area": "DTLA/Los Angeles",
-        "venue": "TBA - DTLA",
-        "address": "",
-        "why": "A warehouse-scale bass night from a crew with a track record, for anyone who wants the boat party's energy on land.",
-        "summary": "Bass Bridge 003 is a DTLA warehouse party from the same Good Society crew behind the Bass Boat series.",
-        "promoter": "",
-        "price": "$34+, 21+",
-        "tags": [
-          "dubstep",
-          "bass music"
-        ],
-        "sources": [],
-        "tickets": [
-          "https://pear.us/good-society/post/return-to-shore-003"
-        ],
-        "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=DTLA/Los%20Angeles",
-          "apple": "https://maps.apple.com/?q=DTLA/Los%20Angeles"
-        },
-        "coords": null,
-        "coords_precise": false,
-        "ra": {},
-        "image": "",
-        "image_generated": false,
-        "popularity": 0,
-        "enriched": 1,
-        "active": true
-      },
-      {
         "id": "2026-09-07-music-big-gigantic-360-w-steller-a98d9a",
         "eid": "big-gigantic-360-w-stell-c60a",
         "track": "music",
@@ -1533,7 +1494,10 @@
           "breakbeat",
           "dnb",
           "idm",
-          "free"
+          "free",
+          "live electronic",
+          "techno",
+          "acid"
         ],
         "sources": [
           "https://ra.co/events/2513682"
@@ -1585,7 +1549,8 @@
           "underground",
           "progressive house",
           "uk garage",
-          "deep house"
+          "deep house",
+          "lgbtq"
         ],
         "sources": [
           "https://ra.co/events/2505779"
@@ -1611,51 +1576,6 @@
         "image_generated": false,
         "popularity": 0,
         "enriched": 2,
-        "active": true
-      },
-      {
-        "id": "2026-09-07-music-planet-x-29e5f0",
-        "eid": "planet-x-3953",
-        "track": "music",
-        "category": "Tech House",
-        "name": "Planet X",
-        "day": "Sat",
-        "date": "2026-09-12",
-        "time": "17:00–00:00",
-        "start": "17:00",
-        "end": "00:00",
-        "area": "Los Angeles",
-        "venue": "California Plaza",
-        "address": "340 S Grand Ave, Los Angeles, CA 90071, USA",
-        "why": "An open-air tech-house lineup on DTLA's landmark plaza, starting in daylight.",
-        "summary": "Planet X returns to California Plaza in DTLA with Ben Sterling, Rafael and Dean Turnley, presented by Framework.",
-        "promoter": "",
-        "price": "$80",
-        "tags": [
-          "tech house"
-        ],
-        "sources": [
-          "https://ra.co/events/2453761"
-        ],
-        "tickets": [
-          "https://dice.fm/event/mxd97v-planet-x-12th-sep-california-plaza-los-angeles-tickets",
-          "https://ra.co/events/2453761"
-        ],
-        "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=340%20S%20Grand%20Ave%2C%20Los%20Angeles%2C%20CA%2090071%2C%20USA",
-          "apple": "https://maps.apple.com/?q=340%20S%20Grand%20Ave%2C%20Los%20Angeles%2C%20CA%2090071%2C%20USA"
-        },
-        "coords": null,
-        "coords_precise": false,
-        "ra": {
-          "event_id": "2453761",
-          "url": "https://ra.co/events/2453761",
-          "interested": 29
-        },
-        "image": "",
-        "image_generated": false,
-        "popularity": 0,
-        "enriched": 1,
         "active": true
       },
       {
@@ -1712,14 +1632,14 @@
         "day": "Sat",
         "date": "2026-09-12",
         "time": "23:45-05:00",
-        "start": null,
-        "end": null,
+        "start": "23:59",
+        "end": "05:00",
         "area": "Los Angeles",
         "venue": "TBA - Secret DTLA Warehouse",
         "address": "",
         "why": "A cheap true afters slot (11:45pm-5am) for people leaving an earlier show.",
         "summary": "The LA Raver's Rip Tide afters party runs an after-hours house and techno set at a secret DTLA warehouse into the early morning.",
-        "promoter": "",
+        "promoter": "The LA Raver",
         "price": "$5-20",
         "tags": [
           "house",
@@ -1737,8 +1657,8 @@
           "https://ra.co/events/2522962"
         ],
         "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=Los%20Angeles",
-          "apple": "https://maps.apple.com/?q=Los%20Angeles"
+          "google": "https://www.google.com/maps/search/?api=1&query=DTLA/Los%20Angeles",
+          "apple": "https://maps.apple.com/?q=DTLA/Los%20Angeles"
         },
         "coords": {
           "lat": 34.053691,
@@ -1754,52 +1674,13 @@
         "image_generated": false,
         "popularity": 0,
         "enriched": 1,
-        "active": true
-      },
-      {
-        "id": "2026-09-07-music-soundwave-presents-kidz-deez-d-acc62d",
-        "eid": "soundwave-presents-kidz-5f26",
-        "track": "music",
-        "category": "House",
-        "name": "SOUNDWAVE PRESENTS KIDZ DEEZ DAZE",
-        "day": "Sat",
-        "date": "2026-09-12",
-        "time": "22:00-05:00",
-        "start": null,
-        "end": null,
-        "area": "Los Angeles",
-        "venue": "TBA - Community Berlin (11819 Sherman Way, North Hollywood, CA, 91605, USA)",
-        "address": "11819 Sherman Way, North Hollywood, CA 91605",
-        "why": "One of the few 21+ house nights running a full five hours past midnight this weekend.",
-        "summary": "Late-night underground house party at Community Berlin in North Hollywood built around deep, hypnotic grooves through to 5am.",
-        "promoter": "",
-        "price": "$30",
-        "tags": [
-          "house",
-          "underground"
-        ],
-        "sources": [
-          "https://ra.co/events/2492058"
-        ],
-        "tickets": [
-          "https://ra.co/events/2492058"
-        ],
-        "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=11819%20Sherman%20Way%2C%20North%20Hollywood%2C%20CA%2091605",
-          "apple": "https://maps.apple.com/?q=11819%20Sherman%20Way%2C%20North%20Hollywood%2C%20CA%2091605"
-        },
-        "coords": null,
-        "coords_precise": false,
-        "ra": {
-          "event_id": "2492058",
-          "url": "https://ra.co/events/2492058",
-          "interested": 26
-        },
-        "image": "",
-        "image_generated": false,
-        "popularity": 0,
-        "enriched": 1,
-        "active": true
+        "active": true,
+        "lineup": [
+          {
+            "name": "Adam Auburn",
+            "instagram": null
+          }
+        ]
       },
       {
         "id": "2026-09-07-music-steam-long-beach-mark-kanemura-8f8a5f",
@@ -2046,17 +1927,23 @@
           "progressive house",
           "neo trance"
         ],
-        "sources": [],
+        "sources": [
+          "https://ra.co/events/2513078"
+        ],
         "tickets": [
           "https://ra.co/events/2513078"
         ],
         "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=Strange%20House%2C%20Los%20Angeles",
-          "apple": "https://maps.apple.com/?q=Strange%20House%2C%20Los%20Angeles"
+          "google": "https://www.google.com/maps/search/?api=1&query=Los%20Angeles",
+          "apple": "https://maps.apple.com/?q=Los%20Angeles"
         },
         "coords": null,
         "coords_precise": false,
-        "ra": {},
+        "ra": {
+          "event_id": "2513078",
+          "url": "https://ra.co/events/2513078",
+          "interested": 9
+        },
         "image": "https://party-scout.app/img/gen/echonomist-55f3.jpg",
         "image_generated": true,
         "popularity": 0,
@@ -2206,11 +2093,11 @@
         "active": true
       },
       {
-        "id": "2026-09-07-music-b-l-w-by-ykw-feat-aiden-ramos-24b644",
-        "eid": "b-l-w-by-ykw-feat-aiden-6447",
+        "id": "2026-09-07-music-b-low-feat-aiden-ramos-enzo-mu-7eef39",
+        "eid": "b-low-feat-aiden-ramos-e-0fa0",
         "track": "music",
         "category": "House",
-        "name": "B.LØW by YKW feat. Aiden Ramos",
+        "name": "B.Low Feat. Aiden Ramos, Enzo Muro",
         "day": "Fri",
         "date": "2026-09-11",
         "time": "21:00–02:00",
@@ -2244,47 +2131,6 @@
           "url": "https://ra.co/events/2527959",
           "interested": 11
         },
-        "image": "https://images.ra.co/1302caedee7eeb20b3453e3d21ae34336d31d2f6.jpg",
-        "image_generated": false,
-        "popularity": 0,
-        "enriched": 1,
-        "active": true
-      },
-      {
-        "id": "2026-09-07-music-b-low-feat-aiden-ramos-enzo-mu-7eef39",
-        "eid": "b-low-feat-aiden-ramos-e-0fa0",
-        "track": "music",
-        "category": "House",
-        "name": "B.Low Feat. Aiden Ramos, Enzo Muro",
-        "day": "Fri",
-        "date": "2026-09-11",
-        "time": "21:00–02:00",
-        "start": null,
-        "end": null,
-        "area": "Los Angeles",
-        "venue": "Bar Franca",
-        "address": "438 S Main St, Los Angeles, CA 90013",
-        "why": "Free entry at an intimate DTLA bar, a low-commitment way to catch two local selectors.",
-        "summary": "YKW's B.LOW night welcomes Aiden Ramos and Enzo Muro to Bar Franca for a free DTLA bar set.",
-        "promoter": "",
-        "price": "Free",
-        "tags": [
-          "house",
-          "free"
-        ],
-        "sources": [
-          "https://ra.co/events/2527959"
-        ],
-        "tickets": [
-          "https://ra.co/events/2527959"
-        ],
-        "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=Bar%20Franca%2C%20Los%20Angeles",
-          "apple": "https://maps.apple.com/?q=Bar%20Franca%2C%20Los%20Angeles"
-        },
-        "coords": null,
-        "coords_precise": false,
-        "ra": {},
         "image": "https://images.ra.co/1302caedee7eeb20b3453e3d21ae34336d31d2f6.jpg",
         "image_generated": true,
         "popularity": 0,
@@ -3396,12 +3242,16 @@
           "https://ra.co/events/2530578"
         ],
         "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=129%20E.%203rd%20St%2C%20Los%20Angeles%2C%20CA%2090013",
-          "apple": "https://maps.apple.com/?q=129%20E.%203rd%20St%2C%20Los%20Angeles%2C%20CA%2090013"
+          "google": "https://www.google.com/maps/search/?api=1&query=The%20Lexington%2C%20Los%20Angeles",
+          "apple": "https://maps.apple.com/?q=The%20Lexington%2C%20Los%20Angeles"
         },
         "coords": null,
         "coords_precise": false,
-        "ra": {},
+        "ra": {
+          "event_id": "2530578",
+          "url": "https://ra.co/events/2530578",
+          "interested": 5
+        },
         "image": "https://images.ra.co/fe1904e42b438dd30c3981f5c4983649bd3c73e2.jpg",
         "image_generated": false,
         "popularity": 0,
@@ -3498,8 +3348,12 @@
         },
         "coords": null,
         "coords_precise": false,
-        "ra": {},
-        "image": "",
+        "ra": {
+          "event_id": "2529047",
+          "url": "https://ra.co/events/2529047",
+          "interested": 66
+        },
+        "image": "https://party-scout.app/img/gen/one-for-nepal-la-s-music-3f0f.jpg",
         "image_generated": false,
         "popularity": 0,
         "enriched": 1,
@@ -4732,7 +4586,7 @@
         "start": null,
         "end": null,
         "area": "DTLA/Los Angeles",
-        "venue": "",
+        "venue": "TBA - DTLA",
         "address": "",
         "why": "Good Society's underground warehouse series, known for secret venues and surprise lineups",
         "summary": "Good Society's After Dark Warehouse Party series returns with a secret-location DTLA warehouse night and an undisclosed lineup, revealed to ticket holders closer to the date.",
@@ -4743,7 +4597,9 @@
           "secret-location",
           "bass",
           "underground",
-          "21+"
+          "21+",
+          "dubstep",
+          "bass music"
         ],
         "sources": [
           "https://pear.us/good-society/post/return-to-shore-003"
@@ -5204,48 +5060,6 @@
         "active": true
       },
       {
-        "id": "2026-09-07-music-planet-love-w-fafi-abdel-nour-535f5b",
-        "eid": "planet-love-w-fafi-abdel-5651",
-        "track": "music",
-        "category": "House",
-        "name": "Planet Love w/ Fafi Abdel Nour, Ketia, James Axon, Craigie Knowes",
-        "day": "Sat",
-        "date": "2026-09-12",
-        "time": "22:00–06:00",
-        "start": null,
-        "end": null,
-        "area": "Los Angeles",
-        "venue": "",
-        "address": "",
-        "why": "A queer, inclusive dancefloor with two international LA-debut DJs and a mystery big-name guest.",
-        "summary": "Planet Love's first triple-header brings LA debuts from Amsterdam's Fafi Abdel Nour and Lisbon's ketia alongside resident James Axon and an unannounced secret guest, at a secret LA location.",
-        "promoter": "",
-        "price": "$22-50",
-        "tags": [
-          "house",
-          "queer",
-          "lgbtq"
-        ],
-        "sources": [
-          "https://ra.co/events/2505779"
-        ],
-        "tickets": [
-          "https://ra.co/events/2505779"
-        ],
-        "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=Los%20Angeles",
-          "apple": "https://maps.apple.com/?q=Los%20Angeles"
-        },
-        "coords": null,
-        "coords_precise": false,
-        "ra": {},
-        "image": "https://images.ra.co/e4e04b9a54aec4a57d30f894a9d35d931ba35600.png",
-        "image_generated": false,
-        "popularity": 0,
-        "enriched": 2,
-        "active": true
-      },
-      {
         "id": "2026-09-07-music-planet-x-ben-sterling-dean-tur-97c014",
         "eid": "planet-x-ben-sterling-de-4a85",
         "track": "music",
@@ -5268,7 +5082,8 @@
           "outdoor",
           "21+",
           "downtown",
-          "cashless"
+          "cashless",
+          "tech house"
         ],
         "sources": [
           "https://thisisframework.com/event/planet-x-la/",
@@ -5276,15 +5091,20 @@
         ],
         "tickets": [
           "https://dice.fm/event/mxd97v-planet-x-12th-sep-california-plaza-los-angeles-tickets",
-          "https://dice.fm/event/mxd97v-planet-x-ft-ben-sterling-12th-sep-california-plaza-los-angeles-tickets"
+          "https://dice.fm/event/mxd97v-planet-x-ft-ben-sterling-12th-sep-california-plaza-los-angeles-tickets",
+          "https://ra.co/events/2453761"
         ],
         "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=California%20Plaza%2C%20Los%20Angeles",
-          "apple": "https://maps.apple.com/?q=California%20Plaza%2C%20Los%20Angeles"
+          "google": "https://www.google.com/maps/search/?api=1&query=340%20S%20Grand%20Ave%2C%20Los%20Angeles%2C%20CA%2090071%2C%20USA",
+          "apple": "https://maps.apple.com/?q=340%20S%20Grand%20Ave%2C%20Los%20Angeles%2C%20CA%2090071%2C%20USA"
         },
         "coords": null,
         "coords_precise": false,
-        "ra": {},
+        "ra": {
+          "event_id": "2453761",
+          "url": "https://ra.co/events/2453761",
+          "interested": 29
+        },
         "image": "",
         "image_generated": false,
         "popularity": 0,
@@ -5304,46 +5124,6 @@
             "instagram": null
           }
         ]
-      },
-      {
-        "id": "2026-09-07-music-plastics-dept-620aa7",
-        "eid": "plastics-dept-d989",
-        "track": "music",
-        "category": "",
-        "name": "Plastics Dept.",
-        "day": "Sat",
-        "date": "2026-09-12",
-        "time": "",
-        "start": null,
-        "end": null,
-        "area": "Los Angeles",
-        "venue": "Boomtown Brewery",
-        "address": "",
-        "why": "",
-        "summary": "",
-        "promoter": "",
-        "price": "Free",
-        "tags": [
-          "live electronic",
-          "breaks",
-          "techno",
-          "acid",
-          "IDM"
-        ],
-        "sources": [],
-        "tickets": [],
-        "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=Boomtown%20Brewery%2C%20Los%20Angeles",
-          "apple": "https://maps.apple.com/?q=Boomtown%20Brewery%2C%20Los%20Angeles"
-        },
-        "coords": null,
-        "coords_precise": false,
-        "ra": {},
-        "image": "https://party-scout.app/img/gen/plastics-dept-d989.jpg",
-        "image_generated": true,
-        "popularity": 0,
-        "enriched": 1,
-        "active": true
       },
       {
         "id": "2026-09-07-music-rayray-naij-xoxo-denkai-ava-ja-7b6d9a",
@@ -5380,55 +5160,6 @@
         "popularity": 0,
         "enriched": 1,
         "active": true
-      },
-      {
-        "id": "2026-09-07-music-rip-tide-adam-auburn-f05250",
-        "eid": "rip-tide-adam-auburn-b3bc",
-        "track": "music",
-        "category": "House",
-        "name": "Rip Tide: Adam Auburn",
-        "day": "Sat",
-        "date": "2026-09-12",
-        "time": "11:59pm–5am",
-        "start": "23:59",
-        "end": "05:00",
-        "area": "DTLA",
-        "venue": "",
-        "address": "",
-        "why": "Adam Auburn has spent nearly three decades pushing house music in LA, including a stint as resident DJ at Disneyland's ElecTRONica; this is an intimate afters-style warehouse set.",
-        "summary": "Late-night house and techno afters headlined by veteran LA DJ/promoter Adam Auburn at a TBA DTLA warehouse location.",
-        "promoter": "The LA Raver",
-        "price": "$5-20, 21+",
-        "tags": [
-          "house",
-          "techno",
-          "afters",
-          "warehouse"
-        ],
-        "sources": [
-          "https://ra.co/events/2522962"
-        ],
-        "tickets": [
-          "https://posh.vip/e/rip-tide-house-techno-afters-featuring-adam-auburn"
-        ],
-        "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=DTLA/Los%20Angeles",
-          "apple": "https://maps.apple.com/?q=DTLA/Los%20Angeles"
-        },
-        "coords": null,
-        "coords_precise": false,
-        "ra": {},
-        "image": "",
-        "image_generated": false,
-        "popularity": 0,
-        "enriched": 1,
-        "active": true,
-        "lineup": [
-          {
-            "name": "Adam Auburn",
-            "instagram": null
-          }
-        ]
       },
       {
         "id": "2026-09-07-music-simon-says-josh-peace-georgi-254aae",
@@ -5487,34 +5218,42 @@
         "id": "2026-09-07-music-soundwave-kidz-deez-daze-ff4b88",
         "eid": "soundwave-kidz-deez-daze-fcf0",
         "track": "music",
-        "category": "",
+        "category": "House",
         "name": "Soundwave: Kidz Deez Daze",
         "day": "Sat",
         "date": "2026-09-12",
-        "time": "",
+        "time": "22:00-05:00",
         "start": null,
         "end": null,
         "area": "Los Angeles",
         "venue": "Community Berlin",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "11819 Sherman Way, North Hollywood, CA 91605",
+        "why": "One of the few 21+ house nights running a full five hours past midnight this weekend.",
+        "summary": "Late-night underground house party at Community Berlin in North Hollywood built around deep, hypnotic grooves through to 5am.",
         "promoter": "",
         "price": "$30.55-45.20, 21+",
         "tags": [
-          "tech house"
+          "tech house",
+          "house",
+          "underground"
         ],
-        "sources": [],
+        "sources": [
+          "https://ra.co/events/2492058"
+        ],
         "tickets": [
           "https://ra.co/events/2492058"
         ],
         "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=Community%20Berlin%2C%20Los%20Angeles",
-          "apple": "https://maps.apple.com/?q=Community%20Berlin%2C%20Los%20Angeles"
+          "google": "https://www.google.com/maps/search/?api=1&query=11819%20Sherman%20Way%2C%20North%20Hollywood%2C%20CA%2091605",
+          "apple": "https://maps.apple.com/?q=11819%20Sherman%20Way%2C%20North%20Hollywood%2C%20CA%2091605"
         },
         "coords": null,
         "coords_precise": false,
-        "ra": {},
+        "ra": {
+          "event_id": "2492058",
+          "url": "https://ra.co/events/2492058",
+          "interested": 26
+        },
         "image": "https://party-scout.app/img/gen/soundwave-kidz-deez-daze-fcf0.jpg",
         "image_generated": true,
         "popularity": 0,
@@ -6182,48 +5921,6 @@
         "active": true
       },
       {
-        "id": "2026-09-07-music-stranger-than-echonomist-stran-b3c5eb",
-        "eid": "stranger-than-echonomist-ac13",
-        "track": "music",
-        "category": "",
-        "name": "STRANGER THAN; Echonomist - Strange House",
-        "day": "Sun",
-        "date": "2026-09-13",
-        "time": "",
-        "start": null,
-        "end": null,
-        "area": "Los Angeles",
-        "venue": "TBA - Strange House (1717 N Bronson Ave, Los Angeles, CA)",
-        "address": "",
-        "why": "",
-        "summary": "",
-        "promoter": "",
-        "price": "$",
-        "tags": [],
-        "sources": [
-          "https://ra.co/events/2513078"
-        ],
-        "tickets": [
-          "https://ra.co/events/2513078"
-        ],
-        "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=Los%20Angeles",
-          "apple": "https://maps.apple.com/?q=Los%20Angeles"
-        },
-        "coords": null,
-        "coords_precise": false,
-        "ra": {
-          "event_id": "2513078",
-          "url": "https://ra.co/events/2513078",
-          "interested": 9
-        },
-        "image": "https://party-scout.app/img/gen/stranger-than-echonomist-6c12.jpg",
-        "image_generated": true,
-        "popularity": 0,
-        "enriched": 1,
-        "active": true
-      },
-      {
         "id": "2026-09-07-music-sungay-brunch-victor-rodriguez-fe2908",
         "eid": "sungay-brunch-victor-rod-dba2",
         "track": "music",
@@ -6255,13 +5952,17 @@
           "https://ra.co/events/2526819"
         ],
         "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=The%20Hoxton%20Hotel%2C%20Los%20Angeles",
-          "apple": "https://maps.apple.com/?q=The%20Hoxton%20Hotel%2C%20Los%20Angeles"
+          "google": "https://www.google.com/maps/search/?api=1&query=The%20Hoxton%20Hotel%20-%20LA%2C%20Los%20Angeles",
+          "apple": "https://maps.apple.com/?q=The%20Hoxton%20Hotel%20-%20LA%2C%20Los%20Angeles"
         },
         "coords": null,
         "coords_precise": false,
-        "ra": {},
-        "image": "",
+        "ra": {
+          "event_id": "2526819",
+          "url": "https://ra.co/events/2526819",
+          "interested": 6
+        },
+        "image": "https://party-scout.app/img/gen/sungay-brunch-los-angele-3809.jpg",
         "image_generated": false,
         "popularity": 0,
         "enriched": 1,
@@ -6284,86 +5985,6 @@
             "instagram": null
           }
         ]
-      },
-      {
-        "id": "2026-09-07-music-nightshift-after-houirs-4b99bc",
-        "eid": "nightshift-after-houirs-b5ee",
-        "track": "music",
-        "category": "",
-        "name": "NIGHTSHIFT AFTER HOUIRS",
-        "day": "Fri",
-        "date": "2026-09-11",
-        "time": "",
-        "start": null,
-        "end": null,
-        "area": "Los Angeles",
-        "venue": "The Lexington",
-        "address": "",
-        "why": "",
-        "summary": "",
-        "promoter": "",
-        "price": "Free",
-        "tags": [],
-        "sources": [],
-        "tickets": [
-          "https://ra.co/events/2530578"
-        ],
-        "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=The%20Lexington%2C%20Los%20Angeles",
-          "apple": "https://maps.apple.com/?q=The%20Lexington%2C%20Los%20Angeles"
-        },
-        "coords": null,
-        "coords_precise": false,
-        "ra": {
-          "event_id": "2530578",
-          "url": "https://ra.co/events/2530578",
-          "interested": 5
-        },
-        "image": "https://party-scout.app/img/gen/nightshift-after-houirs-b5ee.jpg",
-        "image_generated": true,
-        "popularity": 0,
-        "enriched": 1,
-        "active": true
-      },
-      {
-        "id": "2026-09-07-music-one-for-nepal-la-s-music-commu-c0d553",
-        "eid": "one-for-nepal-la-s-music-3f0f",
-        "track": "music",
-        "category": "",
-        "name": "ONE FOR NEPAL - LA's Music Community Unites",
-        "day": "Fri",
-        "date": "2026-09-11",
-        "time": "",
-        "start": null,
-        "end": null,
-        "area": "Los Angeles",
-        "venue": "The Airliner",
-        "address": "",
-        "why": "",
-        "summary": "",
-        "promoter": "",
-        "price": "$15",
-        "tags": [],
-        "sources": [],
-        "tickets": [
-          "https://ra.co/events/2529047"
-        ],
-        "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=The%20Airliner%2C%20Los%20Angeles",
-          "apple": "https://maps.apple.com/?q=The%20Airliner%2C%20Los%20Angeles"
-        },
-        "coords": null,
-        "coords_precise": false,
-        "ra": {
-          "event_id": "2529047",
-          "url": "https://ra.co/events/2529047",
-          "interested": 66
-        },
-        "image": "https://party-scout.app/img/gen/one-for-nepal-la-s-music-3f0f.jpg",
-        "image_generated": true,
-        "popularity": 0,
-        "enriched": 1,
-        "active": true
       },
       {
         "id": "2026-09-07-music-raving-101-23eb68",
@@ -6436,46 +6057,6 @@
         "coords_precise": false,
         "ra": {},
         "image": "https://party-scout.app/img/gen/city-pop-waves-casiopea-bd8f.jpg",
-        "image_generated": true,
-        "popularity": 0,
-        "enriched": 1,
-        "active": true
-      },
-      {
-        "id": "2026-09-07-music-sungay-brunch-los-angeles-with-b22fcf",
-        "eid": "sungay-brunch-los-angele-3809",
-        "track": "music",
-        "category": "",
-        "name": "SUNGAY BRUNCH - Los Angeles with Victor Rodriguez",
-        "day": "Sun",
-        "date": "2026-09-13",
-        "time": "",
-        "start": null,
-        "end": null,
-        "area": "Los Angeles",
-        "venue": "The Hoxton Hotel - LA",
-        "address": "",
-        "why": "",
-        "summary": "",
-        "promoter": "",
-        "price": "$15",
-        "tags": [],
-        "sources": [],
-        "tickets": [
-          "https://ra.co/events/2526819"
-        ],
-        "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=The%20Hoxton%20Hotel%20-%20LA%2C%20Los%20Angeles",
-          "apple": "https://maps.apple.com/?q=The%20Hoxton%20Hotel%20-%20LA%2C%20Los%20Angeles"
-        },
-        "coords": null,
-        "coords_precise": false,
-        "ra": {
-          "event_id": "2526819",
-          "url": "https://ra.co/events/2526819",
-          "interested": 6
-        },
-        "image": "https://party-scout.app/img/gen/sungay-brunch-los-angele-3809.jpg",
         "image_generated": true,
         "popularity": 0,
         "enriched": 1,

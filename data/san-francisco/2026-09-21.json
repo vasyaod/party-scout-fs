@@ -5,7 +5,7 @@
   "location": "San Francisco & Bay Area",
   "city": "san-francisco",
   "city_label": "San Francisco",
-  "generated_at": "2026-10-11",
+  "generated_at": "2026-10-31",
   "tracks": {
     "music": [
       {
@@ -390,48 +390,6 @@
         ]
       },
       {
-        "id": "2026-09-21-music-140-event-6150c8",
-        "eid": "140-event-3685",
-        "track": "music",
-        "category": "Techno / DnB",
-        "name": "140 event",
-        "day": "Thu",
-        "date": "2026-09-24",
-        "time": "9pm–2am",
-        "start": "21:00",
-        "end": "02:00",
-        "area": "San Francisco",
-        "venue": "The Stud",
-        "address": "1123 Folsom St, San Francisco, CA",
-        "why": "A $5 door for a night that swings from techno into drum & bass and experimental club cuts",
-        "summary": "140 is a late-night dance party at The Stud spanning sexy techno, drum & bass, and experimental club sounds across multiple DJs.",
-        "promoter": "",
-        "price": "$5",
-        "tags": [
-          "techno",
-          "drum-and-bass",
-          "experimental",
-          "club",
-          "late-night"
-        ],
-        "sources": [
-          "https://www.studsf.com/calendar"
-        ],
-        "tickets": [],
-        "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=The%20Stud%2C%20San%20Francisco",
-          "apple": "https://maps.apple.com/?q=The%20Stud%2C%20San%20Francisco"
-        },
-        "coords": null,
-        "coords_precise": false,
-        "ra": {},
-        "image": "https://party-scout.app/img/gen/140-event-3685.jpg",
-        "image_generated": false,
-        "popularity": 0,
-        "enriched": 2,
-        "active": true
-      },
-      {
         "id": "2026-09-21-music-140-folsom-kickoff-0fa03e",
         "eid": "140-folsom-kickoff-4279",
         "track": "music",
@@ -455,7 +413,10 @@
           "experimental",
           "club",
           "folsom",
-          "late-night"
+          "late-night",
+          "dj",
+          "electronic",
+          "dance"
         ],
         "sources": [
           "https://ra.co/events/2534861",
@@ -690,65 +651,6 @@
         ]
       },
       {
-        "id": "2026-09-21-music-bone-event-09c086",
-        "eid": "bone-event-9fd0",
-        "track": "music",
-        "category": "Fetish/Pup Play",
-        "name": "Bone event",
-        "day": "Thu",
-        "date": "2026-09-24",
-        "time": "9pm-2am",
-        "start": "21:00",
-        "end": "02:00",
-        "area": "San Francisco",
-        "venue": "Underground",
-        "address": "424 Haight St, San Francisco, CA 94117",
-        "why": "A Folsom-weekend kickoff dance party built for the pup/pet play fetish community, 21+.",
-        "summary": "BONE is SF K9 Unit's Folsom Thursday dance party for the pup/pet play community, marking the group's 20th anniversary and kicking off Folsom weekend at Underground SF.",
-        "promoter": "SF K9 Unit",
-        "price": "",
-        "tags": [
-          "fetish",
-          "pup-play",
-          "folsom",
-          "21+"
-        ],
-        "sources": [
-          "https://ra.co/dj/djbone/tour-dates",
-          "https://www.eventbrite.com/e/bone-tickets-1994916119816"
-        ],
-        "tickets": [
-          "https://www.eventbrite.com/e/bone-tickets-1994916119816",
-          "https://ra.co/dj/djbone/tour-dates"
-        ],
-        "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=Underground%2C%20San%20Francisco",
-          "apple": "https://maps.apple.com/?q=Underground%2C%20San%20Francisco"
-        },
-        "coords": null,
-        "coords_precise": false,
-        "ra": {},
-        "image": "https://party-scout.app/img/gen/bone-event-9fd0.jpg",
-        "image_generated": false,
-        "popularity": 0,
-        "enriched": 2,
-        "active": true,
-        "lineup": [
-          {
-            "name": "Zander Woodz",
-            "instagram": null
-          },
-          {
-            "name": "Sam the Tattoo Puppy",
-            "instagram": null
-          },
-          {
-            "name": "Handler Yogen",
-            "instagram": null
-          }
-        ]
-      },
-      {
         "id": "2026-09-21-music-dj-caro-at-moonglow-e2f0be",
         "eid": "dj-caro-at-moonglow-c063",
         "track": "music",
@@ -948,7 +850,9 @@
           "free",
           "weekly",
           "bar",
-          "dogpatch"
+          "dogpatch",
+          "dj",
+          "dance"
         ],
         "sources": [
           "https://ra.co/events/2540662"
@@ -957,8 +861,8 @@
           "https://ra.co/events/2540662"
         ],
         "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=The%20Sea%20Star%2C%20San%20Francisco",
-          "apple": "https://maps.apple.com/?q=The%20Sea%20Star%2C%20San%20Francisco"
+          "google": "https://www.google.com/maps/search/?api=1&query=The%20Sea%20Star%20Bar%2C%20San%20Francisco",
+          "apple": "https://maps.apple.com/?q=The%20Sea%20Star%20Bar%2C%20San%20Francisco"
         },
         "coords": null,
         "coords_precise": false,
@@ -1036,10 +940,14 @@
           "free",
           "rsvp",
           "house",
-          "dance"
+          "dance",
+          "weekly",
+          "thursday"
         ],
         "sources": [
-          "https://partiful.com/e/llf2h7a0NoTEWwh2waUN"
+          "https://partiful.com/e/llf2h7a0NoTEWwh2waUN",
+          "https://sf.funcheap.com/event-series/inner-circle-thursdays-white-rabbit/",
+          "https://www.whiterabbitsf.com/about-us"
         ],
         "tickets": [],
         "maps": {
@@ -1095,7 +1003,11 @@
           "house",
           "bass",
           "dirtybird",
-          "two-room"
+          "two-room",
+          "dj",
+          "electronic",
+          "dance",
+          "nightlife"
         ],
         "sources": [
           "https://catalystclub.com/event/live-in-the-atrium-justin-martin/the-catalyst-atrium/santa-cruz-california/",
@@ -1464,17 +1376,20 @@
           "experimental",
           "electronic",
           "noise",
-          "avant-garde"
+          "avant-garde",
+          "sound-art"
         ],
         "sources": [
           "https://ra.co/events/2536370",
           "https://www.thelab.org/projects/2026/9/24/san-francisco-electronic-music-festival-night-1-rrose-idhaz-and-emily-bouton-blevin-blectum",
           "https://www.sfemf.org/",
-          "https://link.dice.fm/b599a420a2f8"
+          "https://link.dice.fm/b599a420a2f8",
+          "https://dice.fm/event/pywo2p-san-francisco-electronic-music-festival-night-1-rrose-idhaz-and-emily-bouton-blevin-blectum-24th-sep-the-lab-san-francisco-tickets"
         ],
         "tickets": [
           "https://link.dice.fm/b599a420a2f8",
-          "https://ra.co/events/2536370"
+          "https://ra.co/events/2536370",
+          "https://dice.fm/event/pywo2p-san-francisco-electronic-music-festival-night-1-rrose-idhaz-and-emily-bouton-blevin-blectum-24th-sep-the-lab-san-francisco-tickets"
         ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=The%20Lab%2C%20San%20Francisco",
@@ -1660,48 +1575,6 @@
         ]
       },
       {
-        "id": "2026-09-21-music-soundproof-takeover-inner-circ-b76a17",
-        "eid": "soundproof-takeover-inne-14a9",
-        "track": "music",
-        "category": "",
-        "name": "Soundproof Takeover (Inner Circle)",
-        "day": "Thu",
-        "date": "2026-09-24",
-        "time": "9pm–late",
-        "start": "21:00",
-        "end": null,
-        "area": "San Francisco",
-        "venue": "White Rabbit",
-        "address": "3138 Fillmore St, San Francisco, CA 94123",
-        "why": "Free weekly Thursday dance night with a different guest DJ each week",
-        "summary": "Inner Circle is a long-running weekly Thursday night dance party at White Rabbit in San Francisco's Marina district, featuring a rotating guest DJ each week and free entry.",
-        "promoter": "Inner Circle SF",
-        "price": "Free",
-        "tags": [
-          "free",
-          "weekly",
-          "dance",
-          "thursday"
-        ],
-        "sources": [
-          "https://sf.funcheap.com/event-series/inner-circle-thursdays-white-rabbit/",
-          "https://www.whiterabbitsf.com/about-us"
-        ],
-        "tickets": [],
-        "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=White%20Rabbit%2C%20San%20Francisco",
-          "apple": "https://maps.apple.com/?q=White%20Rabbit%2C%20San%20Francisco"
-        },
-        "coords": null,
-        "coords_precise": false,
-        "ra": {},
-        "image": "https://party-scout.app/img/gen/soundproof-takeover-inne-14a9.jpg",
-        "image_generated": false,
-        "popularity": 0,
-        "enriched": 2,
-        "active": true
-      },
-      {
         "id": "2026-09-21-music-teego-sf-presents-afro-thursda-c66f92",
         "eid": "teego-sf-presents-afro-t-8743",
         "track": "music",
@@ -1782,144 +1655,6 @@
         "coords_precise": false,
         "ra": {},
         "image": "https://party-scout.app/img/gen/thots-not-cops-dj-ari-b-0425.jpg",
-        "image_generated": false,
-        "popularity": 0,
-        "enriched": 2,
-        "active": true
-      },
-      {
-        "id": "2026-09-21-music-thursday-house-music-31923b",
-        "eid": "thursday-house-music-7d99",
-        "track": "music",
-        "category": "Nightclub",
-        "name": "Thursday House Music",
-        "day": "Thu",
-        "date": "2026-09-24",
-        "time": "7–10pm",
-        "start": "19:00",
-        "end": "22:00",
-        "area": "San Francisco",
-        "venue": "The Sea Star Bar",
-        "address": "2289 3rd St, San Francisco, CA 94107",
-        "why": "Dance to upbeat house and DJ sets without a cover charge.",
-        "summary": "Free house-music night at 2289 3rd St in San Francisco on 2026-09-24, running 7–10pm.",
-        "promoter": "",
-        "price": "Free",
-        "tags": [
-          "house",
-          "free",
-          "dj",
-          "dance"
-        ],
-        "sources": [
-          "https://ra.co/events/2540662"
-        ],
-        "tickets": [
-          "https://ra.co/events/2540662"
-        ],
-        "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=The%20Sea%20Star%20Bar%2C%20San%20Francisco",
-          "apple": "https://maps.apple.com/?q=The%20Sea%20Star%20Bar%2C%20San%20Francisco"
-        },
-        "coords": null,
-        "coords_precise": false,
-        "ra": {},
-        "image": "https://party-scout.app/img/gen/thursday-house-music-7d99.jpg",
-        "image_generated": false,
-        "popularity": 0,
-        "enriched": 2,
-        "active": true
-      },
-      {
-        "id": "2026-09-21-music-tuff-sf-folsom-kick-off-04ad3e",
-        "eid": "tuff-sf-folsom-kick-off-b930",
-        "track": "music",
-        "category": "Nightclub",
-        "name": "Tuff SF: Folsom Kick Off",
-        "day": "Thu",
-        "date": "2026-09-24",
-        "time": "9pm–2am",
-        "start": "21:00",
-        "end": "02:00",
-        "area": "San Francisco",
-        "venue": "1015 Folsom",
-        "address": "1015 Folsom Street; San Francisco, CA 94103; United States",
-        "why": "For a late-night night out in SoMa from 9pm–2am.",
-        "summary": "Tuff SF: Folsom Kick Off takes place September 24, 2026, running 9pm–2am at 1015 Folsom Street in SoMa, San Francisco.",
-        "promoter": "",
-        "price": "$25-33",
-        "tags": [
-          "nightlife",
-          "party"
-        ],
-        "sources": [
-          "https://1015.com/events/tuff-sf-folsom-kick-off-party-2026-09-24/",
-          "https://wl.eventim.us/event/tuff-sf-folsom-kick-off/702588?afflky=1015Folsom",
-          "https://ra.co/events/2543742",
-          "https://dothebay.com/events/2026/9/24/tuff-sf-folsom-kick-off-tickets"
-        ],
-        "tickets": [
-          "https://ra.co/events/2543742"
-        ],
-        "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=1015%20Folsom%2C%20San%20Francisco",
-          "apple": "https://maps.apple.com/?q=1015%20Folsom%2C%20San%20Francisco"
-        },
-        "coords": null,
-        "coords_precise": false,
-        "ra": {},
-        "image": "https://party-scout.app/img/gen/tuff-sf-folsom-kick-off-b930.jpg",
-        "image_generated": false,
-        "popularity": 0,
-        "enriched": 2,
-        "active": true
-      },
-      {
-        "id": "2026-09-21-music-tuff-sf-folsom-street-kick-off-1b252c",
-        "eid": "tuff-sf-folsom-street-ki-e79f",
-        "track": "music",
-        "category": "Festival",
-        "name": "TUFF SF: Folsom Street Kick Off",
-        "day": "Thu",
-        "date": "2026-09-24",
-        "time": "9pm",
-        "start": "21:00",
-        "end": "02:00",
-        "area": "SF",
-        "venue": "1015 Folsom",
-        "address": "1015 Folsom St, San Francisco, CA 94103",
-        "why": "A queer leather party honoring Folsom's underground dance-floor legacy at a marquee SF nightclub",
-        "summary": "TUFF returns to 1015 Folsom for a leather-and-boots queer dance party inspired by Tom of Finland artwork and NYC leather-bar history, pairing dark, adventurous dance music with world-class production.",
-        "promoter": "TUFF SF",
-        "price": "$25-33",
-        "tags": [
-          "queer",
-          "leather",
-          "nightlife",
-          "21+"
-        ],
-        "sources": [
-          "https://ra.co/events/2516844",
-          "https://1015.com/events/tuff-sf-folsom-kick-off-party-2026-09-24/",
-          "https://www.eventbrite.com/e/tuff-sf-folsom-street-kick-off-tickets-1998431910641",
-          "https://wl.eventim.us/event/tuff-sf-folsom-kick-off/702588?afflky=1015Folsom",
-          "https://ra.co/events/2543742",
-          "https://dothebay.com/events/2026/9/24/tuff-sf-folsom-kick-off-tickets"
-        ],
-        "tickets": [
-          "https://wl.eventim.us/event/tuff-sf-folsom-kick-off/702588?afflky=1015Folsom",
-          "https://www.eventbrite.com/e/tuff-sf-folsom-street-kick-off-tickets-1998431910641",
-          "https://ra.co/events/2516844",
-          "https://ra.co/events/2543742"
-        ],
-        "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=1015%20Folsom%2C%20San%20Francisco",
-          "apple": "https://maps.apple.com/?q=1015%20Folsom%2C%20San%20Francisco"
-        },
-        "coords": null,
-        "coords_precise": false,
-        "ra": {},
-        "image": "https://party-scout.app/img/gen/tuff-sf-folsom-street-ki-e79f.jpg",
         "image_generated": false,
         "popularity": 0,
         "enriched": 2,
@@ -3396,7 +3131,9 @@
         "tags": [
           "tech house",
           "portola week",
-          "21+"
+          "21+",
+          "tech-house",
+          "portola"
         ],
         "sources": [
           "https://www.eventbrite.com/e/ranger-trucco-the-great-northern-tickets-1998380185931",
@@ -3418,52 +3155,6 @@
         "image_generated": false,
         "popularity": 0,
         "enriched": 3,
-        "active": true,
-        "lineup": []
-      },
-      {
-        "id": "2026-09-21-music-ranger-trucco-the-great-northe-4a9aa0",
-        "eid": "ranger-trucco-the-great-3189",
-        "track": "music",
-        "category": "Concert",
-        "name": "Ranger Trucco - The Great Northern",
-        "day": "Fri",
-        "date": "2026-09-25",
-        "time": "10pm-2am",
-        "start": "22:00",
-        "end": "02:00",
-        "area": "SF",
-        "venue": "The Great Northern",
-        "address": "119 Utah St, San Francisco, CA 94103",
-        "why": "Kicks off Portola Weekend with a tech-house headline set at The Great Northern",
-        "summary": "Ranger Trucco headlines this Portola Weekend kickoff show at The Great Northern, with support from Nate Katz, running from 10pm to 2am.",
-        "promoter": "Goldenvoice",
-        "price": "$59",
-        "tags": [
-          "tech-house",
-          "portola",
-          "21+"
-        ],
-        "sources": [
-          "https://ra.co/events/2516959",
-          "https://www.eventbrite.com/e/ranger-trucco-the-great-northern-tickets-1998380185931",
-          "https://dothebay.com/events/2026/9/25/ranger-trucco-tickets"
-        ],
-        "tickets": [
-          "https://www.eventbrite.com/e/ranger-trucco-the-great-northern-tickets-1998380185931",
-          "https://ra.co/events/2516959"
-        ],
-        "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=The%20Great%20Northern%2C%20San%20Francisco",
-          "apple": "https://maps.apple.com/?q=The%20Great%20Northern%2C%20San%20Francisco"
-        },
-        "coords": null,
-        "coords_precise": false,
-        "ra": {},
-        "image": "https://party-scout.app/img/gen/ranger-trucco-the-great-3189.jpg",
-        "image_generated": false,
-        "popularity": 0,
-        "enriched": 2,
         "active": true,
         "lineup": [
           {
@@ -3685,7 +3376,8 @@
         "tags": [
           "electronic",
           "experimental",
-          "electroacoustic"
+          "electroacoustic",
+          "live"
         ],
         "sources": [
           "https://dice.fm/event/mxnbr9-san-francisco-electronic-music-festival-night-2-stefano-pilia-albert-yeh-the-gleaners-paul-demarinis-25th-sep-the-lab-san-francisco-tickets",
@@ -3933,7 +3625,12 @@
           "techno",
           "folsom",
           "afterhours",
-          "multi-room"
+          "multi-room",
+          "electronic",
+          "dj",
+          "club",
+          "21+",
+          "dance"
         ],
         "sources": [
           "https://ra.co/events/2492391",
@@ -4699,50 +4396,6 @@
         "active": true
       },
       {
-        "id": "2026-09-21-music-grunt-folsom-tix-avail-at-door-43896a",
-        "eid": "grunt-folsom-tix-avail-a-b490",
-        "track": "music",
-        "category": "Fetish",
-        "name": "GRUNT- FOLSOM- TIX AVAIL. AT DOOR",
-        "day": "Sat",
-        "date": "2026-09-26",
-        "time": "9pm-2am",
-        "start": "21:00",
-        "end": "02:00",
-        "area": "SoMa",
-        "venue": "The Stud",
-        "address": "1123 Folsom St, San Francisco, CA",
-        "why": "Folsom Fair-weekend fetish party at SF's iconic queer venue The Stud, doors-only ticketing.",
-        "summary": "GRUNT throws a fetish-forward dance party at The Stud during Folsom Street Fair weekend, with tickets available at the door.",
-        "promoter": "GRUNT",
-        "price": "$20",
-        "tags": [
-          "fetish",
-          "leather",
-          "queer",
-          "dance",
-          "folsom"
-        ],
-        "sources": [
-          "https://ra.co/events/2447663"
-        ],
-        "tickets": [
-          "https://ra.co/events/2447663"
-        ],
-        "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=The%20Stud%2C%20San%20Francisco",
-          "apple": "https://maps.apple.com/?q=The%20Stud%2C%20San%20Francisco"
-        },
-        "coords": null,
-        "coords_precise": false,
-        "ra": {},
-        "image": "https://party-scout.app/img/gen/grunt-folsom-tix-avail-a-b490.jpg",
-        "image_generated": false,
-        "popularity": 0,
-        "enriched": 2,
-        "active": true
-      },
-      {
         "id": "2026-09-21-music-grunt-mozhgan-del-264c30",
         "eid": "grunt-mozhgan-del-a4a4",
         "track": "music",
@@ -4912,142 +4565,6 @@
           },
           {
             "name": "Clearcast",
-            "instagram": null
-          }
-        ]
-      },
-      {
-        "id": "2026-09-21-music-juke-wrld-fdad75",
-        "eid": "juke-wrld-357c",
-        "track": "music",
-        "category": "Nightclub",
-        "name": "JUKE WRLD",
-        "day": "Sat",
-        "date": "2026-09-26",
-        "time": "9pm–2am",
-        "start": "21:00",
-        "end": "02:00",
-        "area": "SF",
-        "venue": "El Rio",
-        "address": "3158 Mission St, San Francisco, CA 94110",
-        "why": "A rare Bay Area lineup dedicated to juke, ghettotech and club music from across the US",
-        "summary": "JUKE WRLD takes over El Rio for a night of regional American club sounds, with Twoseven, Mars Kasei, Tha Nxxt Step, New Juicy and DJ Ari B spinning Jersey and Baltimore club, Detroit ghettotech and Chicago footwork.",
-        "promoter": "",
-        "price": "$5",
-        "tags": [
-          "juke",
-          "footwork",
-          "ghettotech",
-          "club",
-          "jersey-club",
-          "baltimore-club"
-        ],
-        "sources": [
-          "https://ra.co/events/2534453",
-          "https://www.kqed.org/arts/13994137/portola-week-san-francisco-oakland-electronic-music-parties-events"
-        ],
-        "tickets": [
-          "https://ra.co/events/2534453"
-        ],
-        "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=El%20Rio%2C%20San%20Francisco",
-          "apple": "https://maps.apple.com/?q=El%20Rio%2C%20San%20Francisco"
-        },
-        "coords": null,
-        "coords_precise": false,
-        "ra": {},
-        "image": "https://party-scout.app/img/gen/juke-wrld-357c.jpg",
-        "image_generated": false,
-        "popularity": 0,
-        "enriched": 2,
-        "active": true,
-        "lineup": [
-          {
-            "name": "Twoseven",
-            "instagram": null
-          },
-          {
-            "name": "Mars Kasei",
-            "instagram": null
-          },
-          {
-            "name": "Tha Nxxt Step",
-            "instagram": null
-          },
-          {
-            "name": "New Juicy",
-            "instagram": null
-          },
-          {
-            "name": "DJ Ari B",
-            "instagram": null
-          }
-        ]
-      },
-      {
-        "id": "2026-09-21-music-jukewrld-event-8a1810",
-        "eid": "jukewrld-event-5567",
-        "track": "music",
-        "category": "Nightclub",
-        "name": "JUKEWRLD event",
-        "day": "Sat",
-        "date": "2026-09-26",
-        "time": "9pm–2am",
-        "start": "21:00",
-        "end": "02:00",
-        "area": "SF",
-        "venue": "El Rio",
-        "address": "3158 Mission St, San Francisco, CA 94110",
-        "why": "A rare Bay Area lineup dedicated to juke, ghettotech and club music from across the US",
-        "summary": "JUKEWRLD takes over El Rio for a night of regional American club sounds, with Twoseven, Mars Kasei, Tha Nxxt Step, New Juicy and DJ Ari B spinning Jersey and Baltimore club, Detroit ghettotech and Chicago footwork.",
-        "promoter": "",
-        "price": "$5",
-        "tags": [
-          "juke",
-          "footwork",
-          "ghettotech",
-          "club",
-          "jersey-club",
-          "baltimore-club"
-        ],
-        "sources": [
-          "https://ra.co/events/2534453",
-          "https://www.kqed.org/arts/13994137/portola-week-san-francisco-oakland-electronic-music-parties-events"
-        ],
-        "tickets": [
-          "https://ra.co/events/2534453"
-        ],
-        "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=El%20Rio%2C%20San%20Francisco",
-          "apple": "https://maps.apple.com/?q=El%20Rio%2C%20San%20Francisco"
-        },
-        "coords": null,
-        "coords_precise": false,
-        "ra": {},
-        "image": "https://party-scout.app/img/gen/jukewrld-event-5567.jpg",
-        "image_generated": false,
-        "popularity": 0,
-        "enriched": 2,
-        "active": true,
-        "lineup": [
-          {
-            "name": "Twoseven",
-            "instagram": null
-          },
-          {
-            "name": "Mars Kasei",
-            "instagram": null
-          },
-          {
-            "name": "Tha Nxxt Step",
-            "instagram": null
-          },
-          {
-            "name": "New Juicy",
-            "instagram": null
-          },
-          {
-            "name": "DJ Ari B",
             "instagram": null
           }
         ]
@@ -5288,42 +4805,6 @@
         "image_generated": false,
         "popularity": 0,
         "enriched": 2,
-        "active": true
-      },
-      {
-        "id": "2026-09-21-music-monoclick-5f7819",
-        "eid": "monoclick-a196",
-        "track": "music",
-        "category": "",
-        "name": "Monoclick",
-        "day": "Sat",
-        "date": "2026-09-26",
-        "time": "",
-        "start": null,
-        "end": null,
-        "area": "SF",
-        "venue": "Phonobar",
-        "address": "",
-        "why": "",
-        "summary": "",
-        "promoter": "",
-        "price": "",
-        "tags": [],
-        "sources": [
-          "https://www.instagram.com/p/Dc0IobgAZRB/"
-        ],
-        "tickets": [],
-        "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=Phonobar%2C%20San%20Francisco",
-          "apple": "https://maps.apple.com/?q=Phonobar%2C%20San%20Francisco"
-        },
-        "coords": null,
-        "coords_precise": false,
-        "ra": {},
-        "image": "",
-        "image_generated": false,
-        "popularity": 0,
-        "enriched": 1,
         "active": true
       },
       {
@@ -5602,64 +5083,6 @@
         "popularity": 0,
         "enriched": 2,
         "active": true
-      },
-      {
-        "id": "2026-09-21-music-san-francisco-electronic-music-56747c",
-        "eid": "san-francisco-electronic-e27a",
-        "track": "music",
-        "category": "Experimental",
-        "name": "San Francisco Electronic Music Festival Night 3",
-        "day": "Sat",
-        "date": "2026-09-26",
-        "time": "7:30pm doors, 8–11pm",
-        "start": "20:00",
-        "end": "23:00",
-        "area": "SF",
-        "venue": "The Lab",
-        "address": "2948 16th St, San Francisco, CA 94103",
-        "why": "Closing night of SFEMF's 25th anniversary with Moor Mother's Afrofuturist noise-jazz-poetry",
-        "summary": "The 25th Annual San Francisco Electronic Music Festival closes with Philadelphia poet/musician Moor Mother fusing noise, free jazz and Afrofuturism, alongside immersive soundscape sets from Seth Cluett and Thomas Carnacki.",
-        "promoter": "San Francisco Electronic Music Festival",
-        "price": "$23",
-        "tags": [
-          "experimental",
-          "electronic",
-          "noise",
-          "avant-garde"
-        ],
-        "sources": [
-          "https://dice.fm/event/3orql8-san-francisco-electronic-music-festival-night-3-moor-mother-seth-cluett-thomas-carnacki-26th-sep-the-lab-san-francisco-tickets",
-          "https://www.thelab.org/projects/2026/9/26/san-francisco-electronic-music-festival-night-3-moor-mother-seth-cluett-thomas-carnacki"
-        ],
-        "tickets": [
-          "https://dice.fm/event/3orql8-san-francisco-electronic-music-festival-night-3-moor-mother-seth-cluett-thomas-carnacki-26th-sep-the-lab-san-francisco-tickets"
-        ],
-        "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=The%20Lab%2C%20San%20Francisco",
-          "apple": "https://maps.apple.com/?q=The%20Lab%2C%20San%20Francisco"
-        },
-        "coords": null,
-        "coords_precise": false,
-        "ra": {},
-        "image": "",
-        "image_generated": false,
-        "popularity": 0,
-        "enriched": 1,
-        "active": true,
-        "lineup": [
-          {
-            "name": "Moor Mother",
-            "instagram": null
-          },
-          {
-            "name": "Seth Cluett",
-            "instagram": null
-          },
-          {
-            "name": "Thomas Carnacki",
-            "instagram": null
-          }
-        ]
       },
       {
         "id": "2026-09-21-music-san-frandisco-243e49",
@@ -6594,49 +6017,8 @@
           "dance",
           "music",
           "afternoon",
-          "tickets"
-        ],
-        "sources": [
-          "https://ra.co/events/2520298"
-        ],
-        "tickets": [
-          "https://ra.co/events/2520298"
-        ],
-        "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=7th%20West%2C%20San%20Francisco",
-          "apple": "https://maps.apple.com/?q=7th%20West%2C%20San%20Francisco"
-        },
-        "coords": null,
-        "coords_precise": false,
-        "ra": {},
-        "image": "https://party-scout.app/img/gen/five-finger-disco-summer-0ad8.jpg",
-        "image_generated": false,
-        "popularity": 0,
-        "enriched": 2,
-        "active": true
-      },
-      {
-        "id": "2026-09-21-music-five-finger-disco-summer-serie-b79ae2",
-        "eid": "five-finger-disco-summer-9596",
-        "track": "music",
-        "category": "Festival",
-        "name": "Five Finger Disco: Summer Series Vol 3 Closer",
-        "day": "Sun",
-        "date": "2026-09-27",
-        "time": "3–9pm",
-        "start": "15:00",
-        "end": "21:00",
-        "area": "Oakland",
-        "venue": "7th West",
-        "address": "1255 7th St Oakland, CA 94607",
-        "why": "To dance to disco-forward music and catch sunset vibes in Oakland.",
-        "summary": "An afternoon-to-evening event titled \"Five Finger Disco: Summer Series Vol 3 Closer\" at 1255 7th St in Oakland on September 27, 2026, running 3–9pm.",
-        "promoter": "",
-        "price": "$17-28",
-        "tags": [
+          "tickets",
           "disco",
-          "dance",
-          "afternoon",
           "oakland"
         ],
         "sources": [
@@ -6652,7 +6034,7 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "https://party-scout.app/img/gen/five-finger-disco-summer-9596.jpg",
+        "image": "https://party-scout.app/img/gen/five-finger-disco-summer-0ad8.jpg",
         "image_generated": false,
         "popularity": 0,
         "enriched": 2,
@@ -7669,7 +7051,8 @@
           "dance"
         ],
         "sources": [
-          "https://ra.co/events/2526395"
+          "https://ra.co/events/2526395",
+          "https://www.instagram.com/p/Dc0IobgAZRB/"
         ],
         "tickets": [
           "https://ra.co/events/2526395"
@@ -7834,49 +7217,6 @@
         ]
       },
       {
-        "id": "2026-09-21-music-140-miss-crafty-arktoi-olivia-0ddc11",
-        "eid": "140-miss-crafty-arktoi-o-632e",
-        "track": "music",
-        "category": "Nightclub",
-        "name": "140: Miss Crafty, arktoi, Olivia Lauren, DJ Lobottomy, JACKI",
-        "day": "Thu",
-        "date": "2026-09-24",
-        "time": "10pm–2am",
-        "start": "22:00",
-        "end": "02:00",
-        "area": "San Francisco",
-        "venue": "The Stud",
-        "address": "1123 Folsom St, San Francisco, CA 94103",
-        "why": "For a late-night mix of DJ and live electronic sets.",
-        "summary": "A late-night party on 2026-09-24 from 10pm–2am at 1123 Folsom St in San Francisco featuring Miss Crafty, arktoi, Olivia Lauren, DJ Lobottomy, and JACKI.",
-        "promoter": "",
-        "price": "$5.50-11.50",
-        "tags": [
-          "dj",
-          "electronic",
-          "dance",
-          "late-night"
-        ],
-        "sources": [
-          "https://ra.co/events/2534861"
-        ],
-        "tickets": [
-          "https://ra.co/events/2534861"
-        ],
-        "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=The%20Stud%2C%20SF",
-          "apple": "https://maps.apple.com/?q=The%20Stud%2C%20SF"
-        },
-        "coords": null,
-        "coords_precise": false,
-        "ra": {},
-        "image": "https://party-scout.app/img/gen/140-miss-crafty-arktoi-o-632e.jpg",
-        "image_generated": false,
-        "popularity": 0,
-        "enriched": 2,
-        "active": true
-      },
-      {
         "id": "2026-09-21-music-bone-zander-woodz-sam-the-tatt-38bf97",
         "eid": "bone-zander-woodz-sam-th-4ce2",
         "track": "music",
@@ -7899,18 +7239,21 @@
           "puppy-play",
           "lgbtq",
           "folsom",
-          "21+"
+          "21+",
+          "pup-play"
         ],
         "sources": [
           "https://www.eventbrite.com/e/bone-tickets-1994916119816",
-          "https://www.sfk9unit.org/home"
+          "https://www.sfk9unit.org/home",
+          "https://ra.co/dj/djbone/tour-dates"
         ],
         "tickets": [
-          "https://www.eventbrite.com/e/bone-tickets-1994916119816"
+          "https://www.eventbrite.com/e/bone-tickets-1994916119816",
+          "https://ra.co/dj/djbone/tour-dates"
         ],
         "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=Underground%2C%20SF",
-          "apple": "https://maps.apple.com/?q=Underground%2C%20SF"
+          "google": "https://www.google.com/maps/search/?api=1&query=Underground%2C%20San%20Francisco",
+          "apple": "https://maps.apple.com/?q=Underground%2C%20San%20Francisco"
         },
         "coords": null,
         "coords_precise": false,
@@ -7960,21 +7303,29 @@
           "disco",
           "folsom",
           "21+",
-          "late-night"
+          "late-night",
+          "leather",
+          "nightlife",
+          "party"
         ],
         "sources": [
           "https://ra.co/events/2543742",
           "https://www.eventbrite.com/e/tuff-sf-folsom-street-kick-off-tickets-1998431910641",
           "https://1015.com/calendar/",
-          "https://dothebay.com/events/2026/9/24/tuff-sf-folsom-kick-off-tickets"
+          "https://dothebay.com/events/2026/9/24/tuff-sf-folsom-kick-off-tickets",
+          "https://ra.co/events/2516844",
+          "https://1015.com/events/tuff-sf-folsom-kick-off-party-2026-09-24/",
+          "https://wl.eventim.us/event/tuff-sf-folsom-kick-off/702588?afflky=1015Folsom"
         ],
         "tickets": [
           "https://www.eventbrite.com/e/tuff-sf-folsom-street-kick-off-tickets-1998431910641",
-          "https://ra.co/events/2543742"
+          "https://ra.co/events/2543742",
+          "https://wl.eventim.us/event/tuff-sf-folsom-kick-off/702588?afflky=1015Folsom",
+          "https://ra.co/events/2516844"
         ],
         "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=1015%20Folsom%2C%20SF",
-          "apple": "https://maps.apple.com/?q=1015%20Folsom%2C%20SF"
+          "google": "https://www.google.com/maps/search/?api=1&query=1015%20Folsom%2C%20San%20Francisco",
+          "apple": "https://maps.apple.com/?q=1015%20Folsom%2C%20San%20Francisco"
         },
         "coords": null,
         "coords_precise": false,
@@ -8229,8 +7580,8 @@
           "https://ra.co/events/2534453"
         ],
         "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=El%20Rio%2C%20SF",
-          "apple": "https://maps.apple.com/?q=El%20Rio%2C%20SF"
+          "google": "https://www.google.com/maps/search/?api=1&query=El%20Rio%2C%20San%20Francisco",
+          "apple": "https://maps.apple.com/?q=El%20Rio%2C%20San%20Francisco"
         },
         "coords": null,
         "coords_precise": false,
@@ -8349,64 +7700,6 @@
         "popularity": 0,
         "enriched": 2,
         "active": true
-      },
-      {
-        "id": "2026-09-21-music-san-francisco-electronic-music-117592",
-        "eid": "san-francisco-electronic-ebdd",
-        "track": "music",
-        "category": "Experimental Electronic",
-        "name": "San Francisco Electronic Music Festival Night 1: Rrose, Idhaz and Emily Bouton, Blevin Blectum",
-        "day": "Thu",
-        "date": "2026-09-24",
-        "time": "7:30pm–11pm",
-        "start": "19:30",
-        "end": "23:00",
-        "area": "San Francisco",
-        "venue": "The Lab",
-        "address": "2948 16th St, San Francisco, CA 94103",
-        "why": "A 25th-anniversary opener built around The Lab's multichannel sound system, not a typical club night",
-        "summary": "Opening night of SFEMF's 25th anniversary features Rrose debuting a new piece for The Lab's multichannel sound array, alongside a collaborative electronics-and-violin set from IDHAZ & Emily Bouton and a solo set from Blevin Blectum of Blectum from Blechdom.",
-        "promoter": "San Francisco Electronic Music Festival",
-        "price": "$23",
-        "tags": [
-          "experimental",
-          "electronic",
-          "avant-garde",
-          "sound-art"
-        ],
-        "sources": [
-          "https://dice.fm/event/pywo2p-san-francisco-electronic-music-festival-night-1-rrose-idhaz-and-emily-bouton-blevin-blectum-24th-sep-the-lab-san-francisco-tickets",
-          "https://www.thelab.org/projects/2026/9/24/san-francisco-electronic-music-festival-night-1-rrose-idhaz-and-emily-bouton-blevin-blectum"
-        ],
-        "tickets": [
-          "https://dice.fm/event/pywo2p-san-francisco-electronic-music-festival-night-1-rrose-idhaz-and-emily-bouton-blevin-blectum-24th-sep-the-lab-san-francisco-tickets"
-        ],
-        "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=The%20Lab%2C%20San%20Francisco",
-          "apple": "https://maps.apple.com/?q=The%20Lab%2C%20San%20Francisco"
-        },
-        "coords": null,
-        "coords_precise": false,
-        "ra": {},
-        "image": "",
-        "image_generated": false,
-        "popularity": 0,
-        "enriched": 1,
-        "active": true,
-        "lineup": [
-          {
-            "name": "Rrose",
-            "instagram": null
-          },
-          {
-            "name": "IDHAZ & Emily Bouton",
-            "instagram": null
-          },
-          {
-            "name": "Blevin Blectum",
-            "instagram": null
-          }
-        ]
       },
       {
         "id": "2026-09-21-music-nate-rioz-bri-el-scuba-no-one-9ed2d6",
@@ -8688,48 +7981,6 @@
         "active": true
       },
       {
-        "id": "2026-09-21-music-d-tiffany-tygapaw-cashu-ehua-d-5158e6",
-        "eid": "d-tiffany-tygapaw-cashu-8900",
-        "track": "music",
-        "category": "Nightclub",
-        "name": "D. Tiffany, Tygapaw, Cashu, Ehua, DJ Miss Parker",
-        "day": "Fri",
-        "date": "2026-09-25",
-        "time": "",
-        "start": null,
-        "end": null,
-        "area": "SF",
-        "venue": "The San Francisco Mint",
-        "address": "",
-        "why": "For an evening of energetic, forward-thinking electronic and club DJ sets.",
-        "summary": "A lineup of electronic DJs — D. Tiffany, Tygapaw, Cashu, Ehua, and DJ Miss Parker — is scheduled in San Francisco on 2026-09-25.",
-        "promoter": "",
-        "price": "",
-        "tags": [
-          "electronic",
-          "dj",
-          "club",
-          "21+",
-          "dance"
-        ],
-        "sources": [
-          "https://shotgun.live/en/events/boof-folsom-2026"
-        ],
-        "tickets": [],
-        "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=The%20San%20Francisco%20Mint%2C%20San%20Francisco",
-          "apple": "https://maps.apple.com/?q=The%20San%20Francisco%20Mint%2C%20San%20Francisco"
-        },
-        "coords": null,
-        "coords_precise": false,
-        "ra": {},
-        "image": "https://party-scout.app/img/gen/d-tiffany-tygapaw-cashu-8900.jpg",
-        "image_generated": true,
-        "popularity": 0,
-        "enriched": 2,
-        "active": true
-      },
-      {
         "id": "2026-09-21-music-disco-plastique-dj-2shy-shy-dj-de7bf9",
         "eid": "disco-plastique-dj-2shy-5b71",
         "track": "music",
@@ -8895,24 +8146,29 @@
         "date": "2026-09-26",
         "time": "8pm (doors 7:30pm)",
         "start": "20:00",
-        "end": null,
+        "end": "23:00",
         "area": "San Francisco",
         "venue": "The Lab",
         "address": "2948 16th St, San Francisco, CA 94103",
         "why": "To hear boundary-pushing electronic and experimental performances in one concise evening.",
         "summary": "Part of the San Francisco Electronic Music Festival, Night 3 presents Moor Mother, Seth Cluett, and Thomas Carnacki.",
-        "promoter": "",
+        "promoter": "San Francisco Electronic Music Festival",
         "price": "$23",
         "tags": [
           "electronic",
           "experimental",
           "live",
-          "festival"
+          "festival",
+          "noise",
+          "avant-garde"
         ],
         "sources": [
-          "https://www.thelab.org/projects/2026/9/26/san-francisco-electronic-music-festival-night-3-moor-mother-seth-cluett-thomas-carnacki"
+          "https://www.thelab.org/projects/2026/9/26/san-francisco-electronic-music-festival-night-3-moor-mother-seth-cluett-thomas-carnacki",
+          "https://dice.fm/event/3orql8-san-francisco-electronic-music-festival-night-3-moor-mother-seth-cluett-thomas-carnacki-26th-sep-the-lab-san-francisco-tickets"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://dice.fm/event/3orql8-san-francisco-electronic-music-festival-night-3-moor-mother-seth-cluett-thomas-carnacki-26th-sep-the-lab-san-francisco-tickets"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=The%20Lab%2C%20San%20Francisco",
           "apple": "https://maps.apple.com/?q=The%20Lab%2C%20San%20Francisco"
@@ -8924,84 +8180,21 @@
         "image_generated": true,
         "popularity": 0,
         "enriched": 2,
-        "active": true
-      },
-      {
-        "id": "2026-09-21-music-justin-martin-denver-drake-low-f7fb69",
-        "eid": "justin-martin-denver-dra-bdfd",
-        "track": "music",
-        "category": "Nightclub",
-        "name": "Justin Martin: Denver Drake, Lowdeka, Lucho, Shamoon, Dancing Mandy, eudamonik, Father Taj, Little John, Logan Conners, Scottino, Papa T, The Arturian, where's aaron?",
-        "day": "Thu",
-        "date": "2026-09-24",
-        "time": "",
-        "start": null,
-        "end": null,
-        "area": "Santa Cruz",
-        "venue": "Cat Alley Street",
-        "address": "",
-        "why": "For an extended electronic DJ lineup and high-energy dancefloor sets.",
-        "summary": "A multi-artist DJ night on 2026-09-24 in San Francisco featuring Justin Martin alongside Denver Drake, Lowdeka, Lucho, Shamoon, Dancing Mandy, eudamonik, Father Taj, Little John, Logan Conners, Scottino, Papa T, The Arturian, and where's aaron?.",
-        "promoter": "",
-        "price": "$35",
-        "tags": [
-          "dj",
-          "electronic",
-          "dance",
-          "nightlife"
-        ],
-        "sources": [],
-        "tickets": [],
-        "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=Cat%20Alley%20Street%2C%20Santa%20Cruz",
-          "apple": "https://maps.apple.com/?q=Cat%20Alley%20Street%2C%20Santa%20Cruz"
-        },
-        "coords": null,
-        "coords_precise": false,
-        "ra": {},
-        "image": "https://party-scout.app/img/gen/justin-martin-denver-dra-bdfd.jpg",
-        "image_generated": true,
-        "popularity": 0,
-        "enriched": 2,
-        "active": true
-      },
-      {
-        "id": "2026-09-21-music-san-francisco-electronic-music-29a527",
-        "eid": "san-francisco-electronic-09d4",
-        "track": "music",
-        "category": "Festival",
-        "name": "San Francisco Electronic Music Festival Night 2: Stefano Pilia, Albert Yeh, The Gleaners, Paul DeMarinis",
-        "day": "Fri",
-        "date": "2026-09-25",
-        "time": "",
-        "start": null,
-        "end": null,
-        "area": "San Francisco",
-        "venue": "The Lab",
-        "address": "",
-        "why": "To catch a lineup of electronic and experimental performers in one evening.",
-        "summary": "Second night of the San Francisco Electronic Music Festival on 2026-09-25 featuring Stefano Pilia, Albert Yeh, The Gleaners, and Paul DeMarinis.",
-        "promoter": "",
-        "price": "$23",
-        "tags": [
-          "electronic",
-          "experimental",
-          "live"
-        ],
-        "sources": [],
-        "tickets": [],
-        "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=The%20Lab%2C%20San%20Francisco",
-          "apple": "https://maps.apple.com/?q=The%20Lab%2C%20San%20Francisco"
-        },
-        "coords": null,
-        "coords_precise": false,
-        "ra": {},
-        "image": "https://party-scout.app/img/gen/san-francisco-electronic-09d4.jpg",
-        "image_generated": true,
-        "popularity": 0,
-        "enriched": 2,
-        "active": true
+        "active": true,
+        "lineup": [
+          {
+            "name": "Moor Mother",
+            "instagram": null
+          },
+          {
+            "name": "Seth Cluett",
+            "instagram": null
+          },
+          {
+            "name": "Thomas Carnacki",
+            "instagram": null
+          }
+        ]
       }
     ],
     "sports": [

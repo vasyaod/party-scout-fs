@@ -5,7 +5,7 @@
   "location": "San Francisco & Bay Area",
   "city": "san-francisco",
   "city_label": "San Francisco",
-  "generated_at": "2026-09-28",
+  "generated_at": "2026-10-31",
   "tracks": {
     "music": [
       {
@@ -23,13 +23,16 @@
         "promoter": "SQUISH / Program Audio",
         "why": "SQUISH links with Program Audio for a Miami-flavored club-and-bass night — INVT and Jubilee headlining an underground collective's F8 takeover, not the usual house/techno bill.",
         "summary": "SQUISH and Program Audio present Miami Night at F8 (1192 Folsom St) on Friday August 7, 10pm-4am, 21+. Club, bass and Miami-bass sounds from INVT, Jubilee, and Coffintexts b2b Jonny From Space, plus deejayzzz, yuca frita, erika, and nonsuit b2b likeholywine.",
-        "price": null,
+        "price": "$20–$40",
         "tags": [
           "club",
           "bass",
           "miami-bass",
           "squish",
-          "warehouse"
+          "warehouse",
+          "techno",
+          "breaks",
+          "drum-and-bass"
         ],
         "lineup": [
           {
@@ -75,8 +78,8 @@
           "https://ra.co/events/2416127"
         ],
         "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=F8%2C+1192+Folsom+St%2C+San+Francisco%2C+CA+94103",
-          "apple": "https://maps.apple.com/?q=F8%2C+1192+Folsom+St%2C+San+Francisco%2C+CA+94103"
+          "google": "https://www.google.com/maps/search/?api=1&query=1192%20Folsom%20St%2C%20San%20Francisco%2C%20CA%2094103",
+          "apple": "https://maps.apple.com/?q=1192%20Folsom%20St%2C%20San%20Francisco%2C%20CA%2094103"
         },
         "coords": {
           "lat": 37.7745,
@@ -85,7 +88,12 @@
         "coords_precise": false,
         "image": "https://party-scout.app/img/gen/squish-program-audio-miami-night-96f4.jpg",
         "image_generated": false,
-        "ra": {},
+        "ra": {
+          "event_id": "2416127",
+          "url": "https://ra.co/events/2416127",
+          "interested": 147,
+          "attending": 147
+        },
         "active": true,
         "popularity": 6,
         "id": "2026-08-03-music-squish-program-audio-miami-night-19df29",
@@ -1630,85 +1638,6 @@
         "lineup": [
           {
             "name": "OMNOM",
-            "instagram": null
-          }
-        ]
-      },
-      {
-        "id": "2026-08-03-music-squish-x-program-audio-invt-ju-993c08",
-        "eid": "squish-x-program-audio-i-0d29",
-        "track": "music",
-        "category": "Techno/Breaks",
-        "name": "SQUISH x program audio: INVT, Jubilee, Coffintexts b2b Jonny From Space",
-        "day": "Fri",
-        "date": "2026-08-07",
-        "time": "10pm–4am",
-        "start": "22:00",
-        "end": "04:00",
-        "area": "SoMa",
-        "venue": "F8",
-        "address": "1192 Folsom St, San Francisco, CA 94103",
-        "why": "SQUISH's stacked 'Miami Special' bill is the deepest lineup of the night, already 147 interested",
-        "summary": "SF party collective SQUISH teams with program audio for a Miami-themed night at F8 with a deep techno/breaks/club lineup led by Jubilee and Coffintexts b2b Jonny From Space.",
-        "promoter": "SQUISH & program audio",
-        "price": "$20–$40",
-        "tags": [
-          "techno",
-          "breaks",
-          "club",
-          "drum-and-bass"
-        ],
-        "sources": [
-          "https://ra.co/events/2416127",
-          "https://ma.to/event/miami-night-f8-07-aug-2026"
-        ],
-        "tickets": [
-          "https://ra.co/events/2416127"
-        ],
-        "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=1192%20Folsom%20St%2C%20San%20Francisco%2C%20CA%2094103",
-          "apple": "https://maps.apple.com/?q=1192%20Folsom%20St%2C%20San%20Francisco%2C%20CA%2094103"
-        },
-        "coords": null,
-        "coords_precise": false,
-        "ra": {
-          "event_id": "2416127",
-          "url": "https://ra.co/events/2416127",
-          "interested": 147,
-          "attending": 147
-        },
-        "image": "https://images.ra.co/fddd29a2931f8fcfe2ca6c2920c5c7fcd8fea5b9.png",
-        "image_generated": false,
-        "popularity": 0,
-        "active": true,
-        "enriched": 1,
-        "lineup": [
-          {
-            "name": "INVT",
-            "instagram": null
-          },
-          {
-            "name": "Jubilee",
-            "instagram": null
-          },
-          {
-            "name": "Coffintexts",
-            "instagram": null
-          },
-          {
-            "name": "Jonny From Space",
-            "instagram": null
-          },
-          {
-            "name": "Yuca Frita",
-            "instagram": null
-          },
-          {
-            "name": "nonsuit",
-            "instagram": null
-          },
-          {
-            "name": "likeholywine",
             "instagram": null
           }
         ]

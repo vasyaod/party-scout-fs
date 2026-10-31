@@ -5,7 +5,7 @@
   "location": "San Francisco & Bay Area",
   "city": "san-francisco",
   "city_label": "San Francisco",
-  "generated_at": "2026-10-30",
+  "generated_at": "2026-10-31",
   "tracks": {
     "music": [
       {
@@ -31,7 +31,8 @@
           "acoustic",
           "live",
           "community",
-          "jam"
+          "jam",
+          "country"
         ],
         "sources": [
           {
@@ -42,55 +43,13 @@
         ],
         "tickets": [],
         "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=The%20Freight%2C%20San%20Francisco",
-          "apple": "https://maps.apple.com/?q=The%20Freight%2C%20San%20Francisco"
-        },
-        "coords": null,
-        "coords_precise": false,
-        "ra": {},
-        "image": "https://api.party-scout.app/img/san-francisco/2026-11-16/community-mondays-bluegr-b605.jpg",
-        "image_generated": false,
-        "popularity": 0,
-        "enriched": 1,
-        "active": true
-      },
-      {
-        "id": "2026-11-16-music-community-mondays-country-blue-957323",
-        "eid": "community-mondays-countr-6bb8",
-        "track": "music",
-        "category": "Concert",
-        "name": "Community Mondays: Country Bluegrass Jam with Richard Brandenburg",
-        "day": "Mon",
-        "date": "2026-11-16",
-        "time": "7:30PM",
-        "start": "19:30",
-        "end": null,
-        "area": "Berkeley",
-        "venue": "The Freight",
-        "address": "2020 Addison St, Berkeley, CA 94704",
-        "why": "To join or listen to informal country and bluegrass pick-up sessions with other players.",
-        "summary": "A community country and bluegrass jam led by Richard Brandenburg on 2026-11-16 at 2020 Addison St in Berkeley; $5 cover.",
-        "promoter": "",
-        "price": "$5",
-        "tags": [
-          "bluegrass",
-          "country",
-          "community",
-          "live",
-          "jam"
-        ],
-        "sources": [
-          "https://dothebay.com/events/2026/11/16/community-mondays-country-bluegrass-jam-with-richard-brandenburg-tickets"
-        ],
-        "tickets": [],
-        "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=The%20Freight",
           "apple": "https://maps.apple.com/?q=The%20Freight"
         },
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "https://api.party-scout.app/img/san-francisco/2026-11-16/community-mondays-countr-6bb8.jpg",
+        "image": "https://api.party-scout.app/img/san-francisco/2026-11-16/community-mondays-bluegr-b605.jpg",
         "image_generated": false,
         "popularity": 0,
         "enriched": 1,
@@ -2040,54 +1999,6 @@
         "active": true
       },
       {
-        "id": "2026-11-16-music-dj-stingray-313-9bdeb5",
-        "eid": "dj-stingray-313-49cd",
-        "track": "music",
-        "category": "Nightclub",
-        "name": "DJ Stingray 313",
-        "day": "Thu",
-        "date": "2026-11-19",
-        "time": "9pm–2am",
-        "start": "21:00",
-        "end": "02:00",
-        "area": "San Francisco",
-        "venue": "1015 Folsom",
-        "address": "1015 Folsom Street; San Francisco, CA 94103; United States",
-        "why": "For a late-night electronic DJ set and dance-floor energy.",
-        "summary": "DJ Stingray 313 is scheduled for 2026-11-19 at 1015 Folsom Street in San Francisco. Doors 9pm–2am; tickets $15–$25.",
-        "promoter": "",
-        "price": "$15–$25",
-        "tags": [
-          "dj",
-          "electronic",
-          "club",
-          "late-night"
-        ],
-        "sources": [
-          {
-            "url": "https://edmtrain.com/san-francisco-ca",
-            "hidden": true
-          },
-          "https://ra.co/events/2533575",
-          "https://dothebay.com/events/2026/11/19/throttle-techno-dj-stingray-tickets"
-        ],
-        "tickets": [
-          "https://ra.co/events/2533575"
-        ],
-        "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=1015%20Folsom%2C%20San%20Francisco",
-          "apple": "https://maps.apple.com/?q=1015%20Folsom%2C%20San%20Francisco"
-        },
-        "coords": null,
-        "coords_precise": false,
-        "ra": {},
-        "image": "https://api.party-scout.app/img/san-francisco/2026-11-16/dj-stingray-313-49cd.jpg",
-        "image_generated": false,
-        "popularity": 0,
-        "enriched": 1,
-        "active": true
-      },
-      {
         "id": "2026-11-16-music-every-thursday-inner-circle-da-156f39",
         "eid": "every-thursday-inner-cir-62c5",
         "track": "music",
@@ -2719,55 +2630,6 @@
         "active": true
       },
       {
-        "id": "2026-11-16-music-throttle-dj-stingray-873df3",
-        "eid": "throttle-dj-stingray-7526",
-        "track": "music",
-        "category": "Nightclub",
-        "name": "THROTTLE: DJ Stingray",
-        "day": "Thu",
-        "date": "2026-11-19",
-        "time": "21:00",
-        "start": "21:00",
-        "end": "02:00",
-        "area": "San Francisco",
-        "venue": "1015 Folsom",
-        "address": "1015 Folsom Street; San Francisco, CA 94103; United States",
-        "why": "For a focused late‑night DJ set and dancing.",
-        "summary": "THROTTLE: DJ Stingray is a DJ night on November 19, 2026 at 1015 Folsom Street in San Francisco.",
-        "promoter": "",
-        "price": "15-25",
-        "tags": [
-          "dj",
-          "electronic",
-          "nightlife",
-          "dance"
-        ],
-        "sources": [
-          {
-            "url": "https://ra.co/events/us/sanfrancisco",
-            "hidden": true
-          },
-          "https://ra.co/events/2533575",
-          "https://dothebay.com/events/2026/11/19/throttle-techno-dj-stingray-tickets"
-        ],
-        "tickets": [
-          "https://ra.co/events/us/sanfrancisco",
-          "https://ra.co/events/2533575"
-        ],
-        "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=1015%20Folsom%2C%20San%20Francisco",
-          "apple": "https://maps.apple.com/?q=1015%20Folsom%2C%20San%20Francisco"
-        },
-        "coords": null,
-        "coords_precise": false,
-        "ra": {},
-        "image": "https://api.party-scout.app/img/san-francisco/2026-11-16/throttle-dj-stingray-7526.jpg",
-        "image_generated": false,
-        "popularity": 0,
-        "enriched": 1,
-        "active": true
-      },
-      {
         "id": "2026-11-16-music-throttle-techno-dj-stingray-8cece7",
         "eid": "throttle-techno-dj-sting-8353",
         "track": "music",
@@ -2790,7 +2652,10 @@
           "dj",
           "electronic",
           "21+",
-          "club"
+          "club",
+          "nightlife",
+          "dance",
+          "late-night"
         ],
         "sources": [
           {
@@ -2810,10 +2675,19 @@
             "hidden": true
           },
           "https://dothebay.com/events/2026/11/19/throttle-techno-dj-stingray-tickets",
-          "https://ra.co/events/2533575"
+          "https://ra.co/events/2533575",
+          {
+            "url": "https://ra.co/events/us/sanfrancisco",
+            "hidden": true
+          },
+          {
+            "url": "https://edmtrain.com/san-francisco-ca",
+            "hidden": true
+          }
         ],
         "tickets": [
-          "https://ra.co/events/2533575"
+          "https://ra.co/events/2533575",
+          "https://ra.co/events/us/sanfrancisco"
         ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=1015%20Folsom%2C%20San%20Francisco",
@@ -2962,54 +2836,6 @@
         "active": true
       },
       {
-        "id": "2026-11-16-music-carl-cox-w-seth-troxler-willia-d32eaf",
-        "eid": "carl-cox-w-seth-troxler-fce9",
-        "track": "music",
-        "category": "Nightclub",
-        "name": "Carl Cox w/ Seth Troxler, William Kiss",
-        "day": "Fri",
-        "date": "2026-11-20",
-        "time": "8pm",
-        "start": "20:00",
-        "end": null,
-        "area": "San Francisco",
-        "venue": "Shed A At Pier 48",
-        "address": "",
-        "why": "For high-energy techno and house DJ sets from top international artists.",
-        "summary": "DJ night on 2026-11-20 in San Francisco featuring Carl Cox with Seth Troxler and William Kiss.",
-        "promoter": "",
-        "price": "$80-89",
-        "tags": [
-          "dj",
-          "techno",
-          "house"
-        ],
-        "sources": [
-          {
-            "url": "https://19hz.info/eventlisting_BayArea.php",
-            "hidden": true
-          },
-          "https://dothebay.com/events/2026/11/20/carl-cox-w-seth-troxler-b2b-william-kiss-tickets",
-          {
-            "url": "https://edmtrain.com/san-francisco-ca",
-            "hidden": true
-          }
-        ],
-        "tickets": [],
-        "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=Shed%20A%20At%20Pier%2048%2C%20San%20Francisco",
-          "apple": "https://maps.apple.com/?q=Shed%20A%20At%20Pier%2048%2C%20San%20Francisco"
-        },
-        "coords": null,
-        "coords_precise": false,
-        "ra": {},
-        "image": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/34888899/452ae467-61d0-4f06-a6bc-51bebf75157e.jpg",
-        "image_generated": false,
-        "popularity": 0,
-        "enriched": 1,
-        "active": true
-      },
-      {
         "id": "2026-11-16-music-carl-cox-with-seth-troxler-49b6ad",
         "eid": "carl-cox-with-seth-troxl-ac39",
         "track": "music",
@@ -3049,8 +2875,8 @@
         ],
         "tickets": [],
         "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=Pier%2048%20Shed%20A%2C%20San%20Francisco",
-          "apple": "https://maps.apple.com/?q=Pier%2048%20Shed%20A%2C%20San%20Francisco"
+          "google": "https://www.google.com/maps/search/?api=1&query=Shed%20A%20At%20Pier%2048%2C%20San%20Francisco",
+          "apple": "https://maps.apple.com/?q=Shed%20A%20At%20Pier%2048%2C%20San%20Francisco"
         },
         "coords": null,
         "coords_precise": false,
@@ -3403,56 +3229,6 @@
         "active": true
       },
       {
-        "id": "2026-11-16-music-endzeit-x-non-series-luigi-toz-1d958d",
-        "eid": "endzeit-x-non-series-lui-7406",
-        "track": "music",
-        "category": "Nightclub",
-        "name": "Endzeit X Non Series: Luigi Tozzi, Psyk, Neel, Tauceti, Jin Synth, RMNA",
-        "day": "Fri",
-        "date": "2026-11-20",
-        "time": "10pm",
-        "start": "22:00",
-        "end": "06:00",
-        "area": "SF",
-        "venue": "TBA",
-        "address": "",
-        "why": "A deep, six-act techno lineup running until dawn, with Psyk and Luigi Tozzi as the draw.",
-        "summary": "Endzeit SF and Non Series team up for an all-night techno bill led by Luigi Tozzi and Psyk, with Neel, Tauceti, Jin Synth and RMNA. 10pm to 6am, 21+.",
-        "promoter": "Endzeit SF",
-        "price": "",
-        "tags": [
-          "dj",
-          "electronic",
-          "club",
-          "underground",
-          "techno",
-          "21+",
-          "all-night"
-        ],
-        "sources": [
-          {
-            "url": "https://19hz.info/eventlisting_BayArea.php",
-            "hidden": true
-          },
-          "https://ra.co/events/2568557"
-        ],
-        "tickets": [
-          "https://ra.co/events/2568557"
-        ],
-        "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=San%20Francisco",
-          "apple": "https://maps.apple.com/?q=San%20Francisco"
-        },
-        "coords": null,
-        "coords_precise": false,
-        "ra": {},
-        "image": "https://api.party-scout.app/img/san-francisco/2026-11-16/endzeit-x-non-series-lui-7406.jpg",
-        "image_generated": false,
-        "popularity": 0,
-        "enriched": 1,
-        "active": true
-      },
-      {
         "id": "2026-11-16-music-endzeit-x-non-series-luigi-toz-703f63",
         "eid": "endzeit-x-non-series-lui-4a30",
         "track": "music",
@@ -3476,7 +3252,9 @@
           "electronic",
           "21+",
           "warehouse",
-          "all-night"
+          "all-night",
+          "club",
+          "underground"
         ],
         "sources": [
           {
@@ -3729,46 +3507,6 @@
         "active": true
       },
       {
-        "id": "2026-11-16-music-hug-feat-gyan-riley-devendra-b-8d7b02",
-        "eid": "hug-feat-gyan-riley-deve-4115",
-        "track": "music",
-        "category": "Concert",
-        "name": "HUG feat. Gyan Riley, Devendra Banhart, Noah Georgeson",
-        "day": "Fri",
-        "date": "2026-11-20",
-        "time": "7:00PM",
-        "start": "19:00",
-        "end": null,
-        "area": "North Beach",
-        "venue": "Bimbo's 365 Club",
-        "address": "1025 Columbus Ave, San Francisco, CA 94133",
-        "why": "To see a billed collaboration featuring Devendra Banhart, Gyan Riley, and Noah Georgeson.",
-        "summary": "HUG features Gyan Riley, Devendra Banhart, and Noah Georgeson on November 20, 2026 at 1025 Columbus Ave in San Francisco. Tickets are listed at $55.",
-        "promoter": "",
-        "price": "$55",
-        "tags": [
-          "folk",
-          "indie",
-          "live"
-        ],
-        "sources": [
-          "https://dothebay.com/events/2026/11/20/hug-feat-gyan-riley-devendra-banhart-noah-georgeson-tickets"
-        ],
-        "tickets": [],
-        "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=Bimbo%27s%20365%20Club",
-          "apple": "https://maps.apple.com/?q=Bimbo%27s%20365%20Club"
-        },
-        "coords": null,
-        "coords_precise": false,
-        "ra": {},
-        "image": "https://api.party-scout.app/img/san-francisco/2026-11-16/hug-feat-gyan-riley-deve-4115.jpg",
-        "image_generated": false,
-        "popularity": 0,
-        "enriched": 1,
-        "active": true
-      },
-      {
         "id": "2026-11-16-music-hug-with-devendra-banhart-8d1010",
         "eid": "hug-with-devendra-banhar-2298",
         "track": "music",
@@ -3801,8 +3539,8 @@
         ],
         "tickets": [],
         "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=Bimbo%27s%20365%20Club%2C%20San%20Francisco",
-          "apple": "https://maps.apple.com/?q=Bimbo%27s%20365%20Club%2C%20San%20Francisco"
+          "google": "https://www.google.com/maps/search/?api=1&query=Bimbo%27s%20365%20Club",
+          "apple": "https://maps.apple.com/?q=Bimbo%27s%20365%20Club"
         },
         "coords": null,
         "coords_precise": false,
@@ -4973,7 +4711,7 @@
         "id": "2026-11-16-music-deathpact-08c4fa",
         "eid": "deathpact-f944",
         "track": "music",
-        "category": "",
+        "category": "Nightclub",
         "name": "DEATHPACT",
         "day": "Sat",
         "date": "2026-11-21",
@@ -4989,7 +4727,10 @@
         "price": "$30",
         "tags": [
           "live",
-          "tbd"
+          "tbd",
+          "dj",
+          "late-night",
+          "club"
         ],
         "sources": [
           {
@@ -5005,103 +4746,14 @@
             "hidden": true
           },
           "https://dothebay.com/events/2026/11/21/deathpact-from-darkness-comes-light-eclipsed-presented-by-public-works-dj-dials-tickets",
-          "https://ra.co/events/2504464"
-        ],
-        "tickets": [
-          "https://ra.co/events/us/sanfrancisco",
-          "https://ra.co/events/2504464"
-        ],
-        "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=161%20Erie%20Street%2C%20San%20Francisco%2C%20CA%2094103%2C%20United%20States",
-          "apple": "https://maps.apple.com/?q=161%20Erie%20Street%2C%20San%20Francisco%2C%20CA%2094103%2C%20United%20States"
-        },
-        "coords": null,
-        "coords_precise": false,
-        "ra": {},
-        "image": "https://images.ra.co/f00290b3324e6e573282aba78a8669740507f8b5.jpg",
-        "image_generated": false,
-        "popularity": 0,
-        "enriched": 1,
-        "active": true
-      },
-      {
-        "id": "2026-11-16-music-freeman-713-emma-rak-midnight-2b7c07",
-        "eid": "freeman-713-emma-rak-mid-f837",
-        "track": "music",
-        "category": "Nightclub",
-        "name": "Freeman 713, Emma Rak, Midnight Climax, 9-System, Markie",
-        "day": "Sat",
-        "date": "2026-11-21",
-        "time": "9pm",
-        "start": "21:00",
-        "end": "02:00",
-        "area": "San Francisco",
-        "venue": "Underground",
-        "address": "424 Haight St, San Francisco, CA 94117, United States",
-        "why": "Great for dancing to a varied electronic DJ lineup.",
-        "summary": "A lineup featuring Freeman 713, Emma Rak, Midnight Climax, 9-System, and Markie at 424 Haight St in San Francisco on 2026-11-21.",
-        "promoter": "",
-        "price": "$15",
-        "tags": [
-          "dj",
-          "electronic",
-          "dance"
-        ],
-        "sources": [
-          {
-            "url": "https://19hz.info/eventlisting_BayArea.php",
-            "hidden": true
-          },
-          "https://ra.co/events/2479005"
-        ],
-        "tickets": [
-          "https://ra.co/events/2479005"
-        ],
-        "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=Underground%2C%20San%20Francisco",
-          "apple": "https://maps.apple.com/?q=Underground%2C%20San%20Francisco"
-        },
-        "coords": null,
-        "coords_precise": false,
-        "ra": {},
-        "image": "https://api.party-scout.app/img/san-francisco/2026-11-16/freeman-713-emma-rak-mid-f837.jpg",
-        "image_generated": false,
-        "popularity": 0,
-        "enriched": 1,
-        "active": true
-      },
-      {
-        "id": "2026-11-16-music-from-darkness-comes-light-deat-1f310f",
-        "eid": "from-darkness-comes-ligh-fadd",
-        "track": "music",
-        "category": "Nightclub",
-        "name": "From Darkness, Comes Light: Deathpact, DJ Dials",
-        "day": "Sat",
-        "date": "2026-11-21",
-        "time": "9pm–3am",
-        "start": "21:00",
-        "end": "03:00",
-        "area": "San Francisco",
-        "venue": "Public Works",
-        "address": "161 Erie Street, San Francisco, CA 94103, United States",
-        "why": "For a late-night club experience in SoMa running until 3am.",
-        "summary": "A club night at 161 Erie Street in SoMa on November 21, 2026 featuring Deathpact and DJ Dials. Doors run 9pm–3am and tickets are $30.",
-        "promoter": "",
-        "price": "$30",
-        "tags": [
-          "dj",
-          "late-night",
-          "club"
-        ],
-        "sources": [
+          "https://ra.co/events/2504464",
           {
             "url": "https://edmtrain.com/san-francisco-ca",
             "hidden": true
-          },
-          "https://ra.co/events/2504464",
-          "https://dothebay.com/events/2026/11/21/deathpact-from-darkness-comes-light-eclipsed-presented-by-public-works-dj-dials-tickets"
+          }
         ],
         "tickets": [
+          "https://ra.co/events/us/sanfrancisco",
           "https://ra.co/events/2504464"
         ],
         "maps": {
@@ -5111,7 +4763,7 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "https://api.party-scout.app/img/san-francisco/2026-11-16/from-darkness-comes-ligh-fadd.jpg",
+        "image": "https://images.ra.co/f00290b3324e6e573282aba78a8669740507f8b5.jpg",
         "image_generated": false,
         "popularity": 0,
         "enriched": 1,
@@ -5139,22 +4791,27 @@
           "electronic",
           "dj",
           "underground",
-          "indoor"
+          "indoor",
+          "dance"
         ],
         "sources": [
           {
             "url": "https://ra.co/events/us/sanfrancisco",
             "hidden": true
           },
-          "https://ra.co/events/2479005"
+          "https://ra.co/events/2479005",
+          {
+            "url": "https://19hz.info/eventlisting_BayArea.php",
+            "hidden": true
+          }
         ],
         "tickets": [
           "https://ra.co/events/us/sanfrancisco",
           "https://ra.co/events/2479005"
         ],
         "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=Underground%20SF%2C%20San%20Francisco",
-          "apple": "https://maps.apple.com/?q=Underground%20SF%2C%20San%20Francisco"
+          "google": "https://www.google.com/maps/search/?api=1&query=Underground%2C%20San%20Francisco",
+          "apple": "https://maps.apple.com/?q=Underground%2C%20San%20Francisco"
         },
         "coords": null,
         "coords_precise": false,
@@ -6391,7 +6048,8 @@
         "tags": [
           "jazz",
           "tribute",
-          "live"
+          "live",
+          "ticketed"
         ],
         "sources": [
           {
@@ -6402,8 +6060,8 @@
         ],
         "tickets": [],
         "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=Great%20American%20Music%20Hall%2C%20San%20Francisco",
-          "apple": "https://maps.apple.com/?q=Great%20American%20Music%20Hall%2C%20San%20Francisco"
+          "google": "https://www.google.com/maps/search/?api=1&query=Great%20American%20Music%20Hall",
+          "apple": "https://maps.apple.com/?q=Great%20American%20Music%20Hall"
         },
         "coords": null,
         "coords_precise": false,
@@ -6584,47 +6242,6 @@
         "coords_precise": false,
         "ra": {},
         "image": "https://api.party-scout.app/img/san-francisco/2026-11-16/crucial-reggae-sundays-s-3c8b.jpg",
-        "image_generated": false,
-        "popularity": 0,
-        "enriched": 1,
-        "active": true
-      },
-      {
-        "id": "2026-11-16-music-divine-offering-celebrating-th-e9bfc8",
-        "eid": "divine-offering-celebrat-063d",
-        "track": "music",
-        "category": "Concert",
-        "name": "Divine Offering: Celebrating the Legacy of Alice Coltrane",
-        "day": "Sun",
-        "date": "2026-11-22",
-        "time": "8:00PM",
-        "start": "20:00",
-        "end": null,
-        "area": "SF",
-        "venue": "Great American Music Hall",
-        "address": "859 O&#x27;farrell Street, San Francisco, CA 94109",
-        "why": "To experience spiritual jazz and meditative, genre-blending performance.",
-        "summary": "A concert honoring the music and legacy of Alice Coltrane on November 22, 2026, at 859 O'Farrell Street in San Francisco. Tickets are $40–$45.",
-        "promoter": "",
-        "price": "$40–$45",
-        "tags": [
-          "jazz",
-          "live",
-          "tribute",
-          "ticketed"
-        ],
-        "sources": [
-          "https://dothebay.com/events/2026/11/22/divine-offering-celebrating-the-legacy-of-alice-coltrane-tickets"
-        ],
-        "tickets": [],
-        "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=Great%20American%20Music%20Hall",
-          "apple": "https://maps.apple.com/?q=Great%20American%20Music%20Hall"
-        },
-        "coords": null,
-        "coords_precise": false,
-        "ra": {},
-        "image": "https://api.party-scout.app/img/san-francisco/2026-11-16/divine-offering-celebrat-063d.jpg",
         "image_generated": false,
         "popularity": 0,
         "enriched": 1,
@@ -6817,47 +6434,6 @@
         "active": true
       },
       {
-        "id": "2026-11-16-music-lindy-in-the-park-swing-dance-b88f7d",
-        "eid": "lindy-in-the-park-swing-c0e9",
-        "track": "music",
-        "category": "",
-        "name": "\"Lindy in the Park\" Swing Dance Party (Golden Gate Park)",
-        "day": "Sun",
-        "date": "2026-11-22",
-        "time": "11:00AM",
-        "start": "11:00",
-        "end": "14:00",
-        "area": "SF",
-        "venue": "JFK Drive Lindy Hop Spot",
-        "address": "JFK Dr. & Music Concourse Dr, San Francisco, CA",
-        "why": "Dance Lindy-hop and vintage swing in a park setting with other social dancers.",
-        "summary": "An outdoor swing dance gathering at Golden Gate Park (JFK Dr. & Music Concourse Dr.) on November 22, 2026.",
-        "promoter": "",
-        "price": "FREE*",
-        "tags": [
-          "lindy",
-          "swing",
-          "dance",
-          "outdoor"
-        ],
-        "sources": [
-          "https://sf.funcheap.com/lindy-in-the-park-swing-dance-party-golden-gate-park-280/"
-        ],
-        "tickets": [],
-        "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=JFK%20Drive%20Lindy%20Hop%20Spot",
-          "apple": "https://maps.apple.com/?q=JFK%20Drive%20Lindy%20Hop%20Spot"
-        },
-        "coords": null,
-        "coords_precise": false,
-        "ra": {},
-        "image": "https://api.party-scout.app/img/san-francisco/2026-11-16/lindy-in-the-park-swing-c0e9.jpg",
-        "image_generated": false,
-        "popularity": 0,
-        "enriched": 1,
-        "active": true
-      },
-      {
         "id": "2026-11-16-music-lindy-in-the-park-49fc41",
         "eid": "lindy-in-the-park-a296",
         "track": "music",
@@ -6879,7 +6455,8 @@
           "swing",
           "dance",
           "free",
-          "outdoor"
+          "outdoor",
+          "lindy"
         ],
         "sources": [
           {
@@ -6890,8 +6467,8 @@
         ],
         "tickets": [],
         "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=Golden%20Gate%20Park%2C%20San%20Francisco",
-          "apple": "https://maps.apple.com/?q=Golden%20Gate%20Park%2C%20San%20Francisco"
+          "google": "https://www.google.com/maps/search/?api=1&query=JFK%20Drive%20Lindy%20Hop%20Spot",
+          "apple": "https://maps.apple.com/?q=JFK%20Drive%20Lindy%20Hop%20Spot"
         },
         "coords": null,
         "coords_precise": false,
@@ -7742,44 +7319,6 @@
         "active": true
       },
       {
-        "id": "2026-11-16-sports-golden-gate-park-sunday-roller-f6327b",
-        "eid": "golden-gate-park-sunday-2732",
-        "track": "sports",
-        "category": "Nightclub",
-        "name": "Golden Gate Park Sunday Roller Disco Party (SF)",
-        "day": "Sun",
-        "date": "2026-11-22",
-        "time": "1:00PM",
-        "start": "13:00",
-        "end": "17:00",
-        "area": "SF",
-        "venue": "Skatin’ Place",
-        "address": "6th Ave. and Kennedy Drive, San Francisco, CA",
-        "why": "To skate outdoors with a lively crowd in the park.",
-        "summary": "A free Sunday roller disco party at Skatin’ Place in Golden Gate Park on November 22, 2026.",
-        "promoter": "",
-        "price": "Free",
-        "tags": [
-          "free",
-          "outdoor",
-          "skating",
-          "dance"
-        ],
-        "sources": [
-          "https://sf.funcheap.com/golden-gate-park-sunday-roller-disco-party-sf-305/"
-        ],
-        "tickets": [],
-        "maps": {},
-        "coords": null,
-        "coords_precise": false,
-        "ra": {},
-        "image": "https://api.party-scout.app/img/san-francisco/2026-11-16/golden-gate-park-sunday-2732.jpg",
-        "image_generated": false,
-        "popularity": 0,
-        "enriched": 1,
-        "active": true
-      },
-      {
         "id": "2026-11-16-sports-golden-gate-park-sunday-roller-7b53b3",
         "eid": "golden-gate-park-sunday-4482",
         "track": "sports",
@@ -7801,7 +7340,8 @@
           "outdoor",
           "free",
           "skating",
-          "daytime"
+          "daytime",
+          "dance"
         ],
         "sources": [
           {

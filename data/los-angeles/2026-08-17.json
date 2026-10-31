@@ -5,7 +5,7 @@
   "location": "Los Angeles & SoCal",
   "city": "los-angeles",
   "city_label": "Los Angeles",
-  "generated_at": "2026-09-28",
+  "generated_at": "2026-10-31",
   "tracks": {
     "music": [
       {
@@ -2049,7 +2049,7 @@
         "date": "2026-08-21",
         "time": "9pm–3am",
         "start": "21:00",
-        "end": null,
+        "end": "03:00",
         "area": "DTLA",
         "venue": "The Bridge",
         "address": "To Be Announced - DTLA",
@@ -2060,20 +2060,28 @@
         "tags": [
           "deep-house",
           "afro-house",
-          "outdoor"
+          "outdoor",
+          "underground",
+          "house",
+          "techno",
+          "21+"
         ],
         "sources": [
           "https://ra.co/events/2502179",
-          "https://www.eventbrite.com/e/road-to-brc-w-monkey-safari-marques-wyatt-under-the-6th-st-bridge-la-tickets-1995829981200"
+          "https://www.eventbrite.com/e/road-to-brc-w-monkey-safari-marques-wyatt-under-the-6th-st-bridge-la-tickets-1995829981200",
+          "https://www.instagram.com/p/DcPjEHSRQCz/"
         ],
         "tickets": [
           "https://ra.co/events/2502179"
         ],
         "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=The%20Bridge",
-          "apple": "https://maps.apple.com/?q=The%20Bridge"
+          "google": "https://www.google.com/maps/search/?api=1&query=630+S+Anderson+St%2C+Los+Angeles%2C+CA",
+          "apple": "https://maps.apple.com/?q=630+S+Anderson+St%2C+Los+Angeles%2C+CA"
         },
-        "coords": null,
+        "coords": {
+          "lat": 34.0331,
+          "lon": -118.2266
+        },
         "coords_precise": false,
         "ra": {
           "event_id": "2502179",
@@ -2093,6 +2101,14 @@
           {
             "name": "Marques Wyatt",
             "instagram": null
+          },
+          {
+            "name": "DJ Zach Walker",
+            "instagram": "djzachwalker"
+          },
+          {
+            "name": "Aidin ESK",
+            "instagram": "aidin_esk"
           }
         ]
       },
@@ -3182,69 +3198,6 @@
             "instagram": null
           }
         ]
-      },
-      {
-        "id": "2026-08-17-music-road-to-black-rock-city-6ab3f1",
-        "eid": "road-to-black-rock-city-6ab3",
-        "track": "music",
-        "category": "House / Underground",
-        "name": "Road to Black Rock City",
-        "day": "Fri",
-        "date": "2026-08-21",
-        "time": "9pm-3am",
-        "start": "21:00",
-        "end": "03:00",
-        "area": "Los Angeles",
-        "venue": "Under the 6th Street Bridge",
-        "address": "630 S Anderson St, Los Angeles, CA",
-        "why": "Six-hour open-air set under the 6th Street Bridge as a Burning Man warm-up, not a club room.",
-        "summary": "An outdoor underground dance party staged beneath LA's 6th Street Bridge as a warm-up on the road to Black Rock City, with Monkey Safari, Marques Wyatt, DJ Zach Walker and Aidin ESK playing 9pm to 3am.",
-        "promoter": "",
-        "price": "",
-        "tags": [
-          "outdoor",
-          "underground",
-          "house",
-          "techno",
-          "21+"
-        ],
-        "sources": [
-          "https://www.instagram.com/p/DcPjEHSRQCz/"
-        ],
-        "tickets": [],
-        "lineup": [
-          {
-            "name": "Monkey Safari",
-            "instagram": "monkeysafari.ofc"
-          },
-          {
-            "name": "Marques Wyatt",
-            "instagram": "marqueswyatt"
-          },
-          {
-            "name": "DJ Zach Walker",
-            "instagram": "djzachwalker"
-          },
-          {
-            "name": "Aidin ESK",
-            "instagram": "aidin_esk"
-          }
-        ],
-        "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=630+S+Anderson+St%2C+Los+Angeles%2C+CA",
-          "apple": "https://maps.apple.com/?q=630+S+Anderson+St%2C+Los+Angeles%2C+CA"
-        },
-        "coords": {
-          "lat": 34.0331,
-          "lon": -118.2266
-        },
-        "coords_precise": true,
-        "ra": {},
-        "image": "https://party-scout.app/stub.jpg",
-        "image_generated": false,
-        "popularity": 5,
-        "enriched": 1,
-        "active": true
       },
       {
         "track": "music",

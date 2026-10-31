@@ -288,50 +288,6 @@
         "active": true
       },
       {
-        "id": "2026-11-09-music-obscene-industria-nova-damascu-22b46e",
-        "eid": "obscene-industria-nova-d-128f",
-        "track": "music",
-        "category": "Concert",
-        "name": "Obscene: Industria, Nova Damascus, Knives",
-        "day": "Thu",
-        "date": "2026-11-12",
-        "time": "9pm-2am",
-        "start": "21:00",
-        "end": "02:00",
-        "area": "Los Angeles",
-        "venue": "The Slipper Clutch (Los Angeles)",
-        "address": "",
-        "why": "Free entry makes it easy to see multiple acts in one night.",
-        "summary": "Free show on November 12, 2026 in Los Angeles featuring Industria, Nova Damascus, and Knives.",
-        "promoter": "",
-        "price": "free",
-        "tags": [
-          "free",
-          "live",
-          "music"
-        ],
-        "sources": [
-          {
-            "url": "https://19hz.info/eventlisting_LosAngeles.php",
-            "hidden": true
-          },
-          "https://ra.co/events/2348304"
-        ],
-        "tickets": [],
-        "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=The%20Slipper%20Clutch%20%28Los%20Angeles%29%2C%20Los%20Angeles",
-          "apple": "https://maps.apple.com/?q=The%20Slipper%20Clutch%20%28Los%20Angeles%29%2C%20Los%20Angeles"
-        },
-        "coords": null,
-        "coords_precise": false,
-        "ra": {},
-        "image": "",
-        "image_generated": false,
-        "popularity": 0,
-        "enriched": 1,
-        "active": true
-      },
-      {
         "id": "2026-11-09-music-rave-jesus-rave-revival-fall-t-ec990e",
         "eid": "rave-jesus-rave-revival-9ce4",
         "track": "music",
@@ -1339,25 +1295,36 @@
         "area": "Los Angeles",
         "venue": "100 Aquarium Way (Long Beach)",
         "address": "1825 W. Pier D. Street Long Beach, CA 90802",
-        "why": "",
-        "summary": "",
+        "why": "For a waterfront night out in Long Beach on November 14.",
+        "summary": "An event called Creatures At Sea takes place on November 14, 2026, at 1825 W. Pier D. Street in Long Beach, CA 90802.",
         "promoter": "",
         "price": "65+",
-        "tags": [],
+        "tags": [
+          "outdoor",
+          "nightlife",
+          "pier"
+        ],
         "sources": [
-          "https://ra.co/events/2540980",
+          {
+            "url": "https://ra.co/events/2540980",
+            "hidden": true
+          },
           {
             "url": "https://19hz.info/eventlisting_LosAngeles.php",
             "hidden": true
           },
-          "https://www.tickettailor.com/events/toasteaentertainment/2351164/r/toastea"
+          "https://www.tickettailor.com/events/toasteaentertainment/2351164/r/toastea",
+          {
+            "url": "https://ra.co/events/us/losangeles",
+            "hidden": true
+          }
         ],
         "tickets": [
           "https://ra.co/events/2540980"
         ],
         "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=100%20Aquarium%20Way%20%28Long%20Beach%29%2C%20Los%20Angeles",
-          "apple": "https://maps.apple.com/?q=100%20Aquarium%20Way%20%28Long%20Beach%29%2C%20Los%20Angeles"
+          "google": "https://www.google.com/maps/search/?api=1&query=Catalina%20Classic%20Cruises%2C%20Los%20Angeles",
+          "apple": "https://maps.apple.com/?q=Catalina%20Classic%20Cruises%2C%20Los%20Angeles"
         },
         "coords": null,
         "coords_precise": false,
@@ -1403,12 +1370,21 @@
         "tags": [
           "electronic",
           "dj",
-          "ticketed"
+          "ticketed",
+          "dance",
+          "late-night"
         ],
         "sources": [
-          "https://ra.co/events/2467725",
+          {
+            "url": "https://ra.co/events/2467725",
+            "hidden": true
+          },
           {
             "url": "https://19hz.info/eventlisting_LosAngeles.php",
+            "hidden": true
+          },
+          {
+            "url": "https://ra.co/events/us/losangeles",
             "hidden": true
           }
         ],
@@ -1876,7 +1852,10 @@
         "price": "20-40",
         "tags": [
           "live",
-          "dj"
+          "dj",
+          "21+",
+          "dance",
+          "nightlife"
         ],
         "sources": [
           {
@@ -1947,96 +1926,6 @@
         "coords_precise": false,
         "ra": {},
         "image": "https://images.ra.co/8bf92e66811947999e90be09eb9ced328fbfe18c.png",
-        "image_generated": false,
-        "popularity": 0,
-        "enriched": 1,
-        "active": true
-      },
-      {
-        "id": "2026-11-09-music-mestiza-sacro-44b195",
-        "eid": "mestiza-sacro-b998",
-        "track": "music",
-        "category": "",
-        "name": "Mestiza - Sacro",
-        "day": "Sat",
-        "date": "2026-11-14",
-        "time": "5pm-11pm",
-        "start": "17:00",
-        "end": "23:00",
-        "area": "Los Angeles",
-        "venue": "Gloria Molina Grand Park (Los Angeles)",
-        "address": "200 North Grand Avenue, Los Angeles, CA 90012",
-        "why": "To attend a ticketed LA night with a wide range of price options.",
-        "summary": "An event titled 'Mestiza - Sacro' in Los Angeles on November 14, 2026; tickets are listed from $61 to $527.",
-        "promoter": "",
-        "price": "$61.45-527.24",
-        "tags": [
-          "ticketed",
-          "live"
-        ],
-        "sources": [
-          {
-            "url": "https://19hz.info/eventlisting_LosAngeles.php",
-            "hidden": true
-          },
-          "https://www.eventbrite.com/e/mestiza-presents-sacro-tickets-1994603720421"
-        ],
-        "tickets": [],
-        "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=Gloria%20Molina%20Grand%20Park%20%28Los%20Angeles%29%2C%20Los%20Angeles",
-          "apple": "https://maps.apple.com/?q=Gloria%20Molina%20Grand%20Park%20%28Los%20Angeles%29%2C%20Los%20Angeles"
-        },
-        "coords": null,
-        "coords_precise": false,
-        "ra": {},
-        "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1190745457%2F223003723843%2F1%2Foriginal.20260810-205615?crop=focalpoint&fit=crop&w=940&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=73d8a0cafbc253c9dc62b7c9ab46a36b",
-        "image_generated": false,
-        "popularity": 0,
-        "enriched": 1,
-        "active": true
-      },
-      {
-        "id": "2026-11-09-music-moondance-pnk-party-0a7b81",
-        "eid": "moondance-pnk-party-e2d0",
-        "track": "music",
-        "category": "Nightclub",
-        "name": "Moondance: Pnk Party",
-        "day": "Sat",
-        "date": "2026-11-14",
-        "time": "10pm-5am",
-        "start": "22:00",
-        "end": "05:00",
-        "area": "Los Angeles",
-        "venue": "TBA (DTLA/Los Angeles)",
-        "address": "",
-        "why": "For a lively, ticketed dance night and chance to socialize.",
-        "summary": "Moondance: Pnk Party is a ticketed event on 2026-11-14 in Los Angeles; tickets are listed at $28–$72.",
-        "promoter": "",
-        "price": "$27.80-72.25",
-        "tags": [
-          "dance",
-          "party",
-          "21+",
-          "ticketed"
-        ],
-        "sources": [
-          "https://ra.co/events/2547893",
-          {
-            "url": "https://19hz.info/eventlisting_LosAngeles.php",
-            "hidden": true
-          }
-        ],
-        "tickets": [
-          "https://ra.co/events/2547893"
-        ],
-        "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=Los%20Angeles",
-          "apple": "https://maps.apple.com/?q=Los%20Angeles"
-        },
-        "coords": null,
-        "coords_precise": false,
-        "ra": {},
-        "image": "https://images.ra.co/e2601d9d770d2aece50ef674cfecc3c885ea0fcd.png",
         "image_generated": false,
         "popularity": 0,
         "enriched": 1,
@@ -2145,10 +2034,16 @@
           "dj",
           "house",
           "techno",
-          "ticketed"
+          "ticketed",
+          "party",
+          "birthday",
+          "evening"
         ],
         "sources": [
-          "https://ra.co/events/2499458"
+          {
+            "url": "https://ra.co/events/2499458",
+            "hidden": true
+          }
         ],
         "tickets": [
           "https://ra.co/events/2499458"
@@ -2170,7 +2065,7 @@
         "id": "2026-11-09-music-suzy-sheer-patch-5a62b7",
         "eid": "suzy-sheer-patch-9f77",
         "track": "music",
-        "category": "",
+        "category": "Concert",
         "name": "Suzy Sheer, Patch+",
         "day": "Sat",
         "date": "2026-11-14",
@@ -2188,21 +2083,25 @@
           "electropop",
           "synthpop",
           "electroclash",
-          "all-ages"
+          "all-ages",
+          "live",
+          "ticketed",
+          "evening"
         ],
         "sources": [
           "https://dice.fm/event/53mlwy-minty-boi-presents-suzy-sheer-live-in-los-angeles-with-patch-14th-nov-1720-los-angeles-tickets",
           {
             "url": "https://19hz.info/eventlisting_LosAngeles.php",
             "hidden": true
-          }
+          },
+          "https://edmtrain.com/los-angeles-ca/minty-boi-presents-suzy-sheer-529897"
         ],
         "tickets": [
           "https://dice.fm/event/53mlwy-minty-boi-presents-suzy-sheer-live-in-los-angeles-with-patch-14th-nov-1720-los-angeles-tickets"
         ],
         "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=1720%20%28Los%20Angeles%29%2C%20Los%20Angeles",
-          "apple": "https://maps.apple.com/?q=1720%20%28Los%20Angeles%29%2C%20Los%20Angeles"
+          "google": "https://www.google.com/maps/search/?api=1&query=1720%2C%20Los%20Angeles%2C%20CA",
+          "apple": "https://maps.apple.com/?q=1720%2C%20Los%20Angeles%2C%20CA"
         },
         "coords": null,
         "coords_precise": false,
@@ -2436,49 +2335,6 @@
         "active": true
       },
       {
-        "id": "2026-11-09-music-green-life-ent-15yr-anniversar-a802db",
-        "eid": "green-life-ent-15yr-anni-6c64",
-        "track": "music",
-        "category": "",
-        "name": "Green Life Ent. 15yr Anniversary ft Jesse Saunders, Colette, Charles Feelgood, Donald Glaude, Thee-O, Holly Adams, Bret Wallace, Apx-1, Orlando",
-        "day": "Sun",
-        "date": "2026-11-15",
-        "time": "3pm-11:59pm",
-        "start": "15:00",
-        "end": "03:00",
-        "area": "Los Angeles",
-        "venue": "Soulwerks Studio (Los Angeles)",
-        "address": "5168 valley blvd",
-        "why": "",
-        "summary": "",
-        "promoter": "",
-        "price": "$12-18",
-        "tags": [],
-        "sources": [
-          "https://ra.co/events/2541022",
-          {
-            "url": "https://19hz.info/eventlisting_LosAngeles.php",
-            "hidden": true
-          },
-          "https://www.eventbrite.com/e/green-life-ent-15yr-anniversary-tickets-2001673532419"
-        ],
-        "tickets": [
-          "https://ra.co/events/2541022"
-        ],
-        "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=Soulwerks%20Studio%20%28Los%20Angeles%29%2C%20Los%20Angeles",
-          "apple": "https://maps.apple.com/?q=Soulwerks%20Studio%20%28Los%20Angeles%29%2C%20Los%20Angeles"
-        },
-        "coords": null,
-        "coords_precise": false,
-        "ra": {},
-        "image": "https://party-scout.app/img/gen/green-life-ent-15yr-anni-6c64.jpg",
-        "image_generated": false,
-        "popularity": 0,
-        "enriched": 1,
-        "active": true
-      },
-      {
         "id": "2026-11-09-music-leonid-friends-e5b545",
         "eid": "leonid-friends-1ba9",
         "track": "music",
@@ -2534,7 +2390,7 @@
         "id": "2026-11-09-music-sunday-sessions-la-vinyl-only-ca9ec2",
         "eid": "sunday-sessions-la-vinyl-93e2",
         "track": "music",
-        "category": "",
+        "category": "Nightclub",
         "name": "Sunday Sessions La (Vinyl Only) Open Air: Eric Louis, Craig Joyce, Julian",
         "day": "Sun",
         "date": "2026-11-15",
@@ -2544,13 +2400,22 @@
         "area": "Los Angeles",
         "venue": "TBA (Los Angeles)",
         "address": "",
-        "why": "",
-        "summary": "",
+        "why": "For a laid-back outdoor evening of vinyl DJ sets and social vibes.",
+        "summary": "An open-air, vinyl-only DJ night in Los Angeles on November 15, 2026, running 6pm–12am with admission listed from free to $35.",
         "promoter": "",
         "price": "0-35",
-        "tags": [],
+        "tags": [
+          "vinyl",
+          "outdoor",
+          "dj",
+          "free",
+          "ticketed"
+        ],
         "sources": [
-          "https://ra.co/events/2543415",
+          {
+            "url": "https://ra.co/events/2543415",
+            "hidden": true
+          },
           {
             "url": "https://19hz.info/eventlisting_LosAngeles.php",
             "hidden": true
@@ -2793,7 +2658,10 @@
           "industrial",
           "ebm",
           "darkwave",
-          "club"
+          "club",
+          "free",
+          "live",
+          "music"
         ],
         "sources": [
           {
@@ -2803,72 +2671,23 @@
           {
             "url": "https://ra.co/events/us/losangeles",
             "hidden": true
+          },
+          {
+            "url": "https://19hz.info/eventlisting_LosAngeles.php",
+            "hidden": true
           }
         ],
         "tickets": [
           "https://ra.co/events/2348304"
         ],
         "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=The%20Slipper%20Clutch%2C%20Los%20Angeles",
-          "apple": "https://maps.apple.com/?q=The%20Slipper%20Clutch%2C%20Los%20Angeles"
+          "google": "https://www.google.com/maps/search/?api=1&query=The%20Slipper%20Clutch%20%28Los%20Angeles%29%2C%20Los%20Angeles",
+          "apple": "https://maps.apple.com/?q=The%20Slipper%20Clutch%20%28Los%20Angeles%29%2C%20Los%20Angeles"
         },
         "coords": null,
         "coords_precise": false,
         "ra": {},
         "image": "https://api.party-scout.app/img/los-angeles/2026-11-09/obscene-goth-industrial-496d.jpg",
-        "image_generated": true,
-        "popularity": 0,
-        "enriched": 1,
-        "active": true
-      },
-      {
-        "id": "2026-11-09-music-sina-bathaie-white-lotus-world-9e598e",
-        "eid": "sina-bathaie-white-lotus-a927",
-        "track": "music",
-        "category": "Concert",
-        "name": "Sina Bathaie — White Lotus World Tour: Back Together",
-        "day": "Thu",
-        "date": "2026-11-12",
-        "time": "19:30-22:00",
-        "start": "19:30",
-        "end": "22:00",
-        "area": "Los Angeles",
-        "venue": "Los Angeles",
-        "address": "1020 N Vermont Ave, Los Angeles, CA 90029, United States",
-        "why": "To attend a ticketed live performance in Los Angeles.",
-        "summary": "Sina Bathaie performs at 1020 N Vermont Ave in Los Angeles on November 12, 2026. Tickets are $69.",
-        "promoter": "",
-        "price": "Sina Bathaie",
-        "tags": [
-          "live",
-          "ticketed",
-          "paid"
-        ],
-        "sources": [
-          {
-            "url": "https://ra.co/events/2514122",
-            "hidden": true
-          },
-          {
-            "url": "https://19hz.info/eventlisting_LosAngeles.php",
-            "hidden": true
-          },
-          {
-            "url": "https://ra.co/events/us/losangeles",
-            "hidden": true
-          }
-        ],
-        "tickets": [
-          "https://ra.co/events/2514122"
-        ],
-        "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=The%20Vermont%20%28Hollywood/Los%20Angeles%29%2C%20Los%20Angeles",
-          "apple": "https://maps.apple.com/?q=The%20Vermont%20%28Hollywood/Los%20Angeles%29%2C%20Los%20Angeles"
-        },
-        "coords": null,
-        "coords_precise": false,
-        "ra": {},
-        "image": "https://api.party-scout.app/img/los-angeles/2026-11-09/sina-bathaie-white-lotus-9d66.jpg",
         "image_generated": true,
         "popularity": 0,
         "enriched": 1,
@@ -3054,21 +2873,31 @@
           "dj",
           "electronic",
           "21+",
-          "club"
+          "club",
+          "all-night",
+          "dance",
+          "late-night"
         ],
         "sources": [
           {
             "url": "https://edmtrain.com/los-angeles-ca",
             "hidden": true
           },
-          "https://ra.co/events/2559598"
+          {
+            "url": "https://ra.co/events/2559598",
+            "hidden": true
+          },
+          {
+            "url": "https://ra.co/events/us/losangeles",
+            "hidden": true
+          }
         ],
         "tickets": [
           "https://ra.co/events/2559598"
         ],
         "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=Downtown%20Los%20Angeles%2C%20Los%20Angeles",
-          "apple": "https://maps.apple.com/?q=Downtown%20Los%20Angeles%2C%20Los%20Angeles"
+          "google": "https://www.google.com/maps/search/?api=1&query=DTLA/Los%20Angeles",
+          "apple": "https://maps.apple.com/?q=DTLA/Los%20Angeles"
         },
         "coords": null,
         "coords_precise": false,
@@ -3077,7 +2906,17 @@
         "image_generated": false,
         "popularity": 0,
         "enriched": 1,
-        "active": true
+        "active": true,
+        "lineup": [
+          {
+            "name": "Aurora Halal",
+            "instagram": null
+          },
+          {
+            "name": "Laurel Halo",
+            "instagram": null
+          }
+        ]
       },
       {
         "id": "2026-11-09-music-bees-trees-water-music-festiva-e08487",
@@ -3144,62 +2983,6 @@
         ]
       },
       {
-        "id": "2026-11-09-music-csw-aurora-halal-b2b-laurel-ha-4c1950",
-        "eid": "csw-aurora-halal-b2b-lau-59cc",
-        "track": "music",
-        "category": "Nightclub",
-        "name": "CSW - Aurora Halal b2b Laurel Halo All Night",
-        "day": "Fri",
-        "date": "2026-11-13",
-        "time": "22:00-04:00",
-        "start": "22:00",
-        "end": "04:00",
-        "area": "Los Angeles",
-        "venue": "TBA - Downtown",
-        "address": "",
-        "why": "For an extended back-to-back DJ set.",
-        "summary": "An all-night back-to-back DJ set at CSW featuring Aurora Halal b2b Laurel Halo.",
-        "promoter": "",
-        "price": "15 / 25 / 30 / 35",
-        "tags": [
-          "dj",
-          "all-night",
-          "electronic"
-        ],
-        "sources": [
-          "https://ra.co/events/2559598",
-          {
-            "url": "https://ra.co/events/us/losangeles",
-            "hidden": true
-          }
-        ],
-        "tickets": [
-          "https://ra.co/events/2559598"
-        ],
-        "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=Los%20Angeles",
-          "apple": "https://maps.apple.com/?q=Los%20Angeles"
-        },
-        "coords": null,
-        "coords_precise": false,
-        "ra": {},
-        "image": "https://images.ra.co/39171a2d58c3a737ee635c181aebe8f02faef677.jpg",
-        "image_generated": false,
-        "popularity": 0,
-        "enriched": 1,
-        "active": true,
-        "lineup": [
-          {
-            "name": "Aurora Halal",
-            "instagram": null
-          },
-          {
-            "name": "Laurel Halo",
-            "instagram": null
-          }
-        ]
-      },
-      {
         "id": "2026-11-09-music-dale-howard-01df1a",
         "eid": "dale-howard-5899",
         "track": "music",
@@ -3241,63 +3024,6 @@
         "coords_precise": false,
         "ra": {},
         "image": "https://api.party-scout.app/img/los-angeles/2026-11-09/dale-howard-ecf6.jpg",
-        "image_generated": true,
-        "popularity": 0,
-        "enriched": 1,
-        "active": true
-      },
-      {
-        "id": "2026-11-09-music-dirty-epic-presents-aerea-live-1fc4b7",
-        "eid": "dirty-epic-presents-aere-b49a",
-        "track": "music",
-        "category": "Concert",
-        "name": "Dirty Epic presents: AEREA live (LA debut), Orly Gal, V0rtic & heelbite316",
-        "day": "Fri",
-        "date": "2026-11-13",
-        "time": "23:00-05:00",
-        "start": "23:00",
-        "end": "05:00",
-        "area": "Los Angeles",
-        "venue": "TBA",
-        "address": "",
-        "why": "See several live acts in one evening for a modest cover charge.",
-        "summary": "A multi-act live show in Los Angeles on 2026-11-13 featuring Aerea Live, Orly Gal, V0rtic, and Heelbite316. Tickets are listed from about $20+.",
-        "promoter": "",
-        "price": "20+",
-        "tags": [
-          "live",
-          "music",
-          "ticketed"
-        ],
-        "sources": [
-          {
-            "url": "https://ra.co/events/2507508",
-            "hidden": true
-          },
-          {
-            "url": "https://19hz.info/eventlisting_LosAngeles.php",
-            "hidden": true
-          },
-          {
-            "url": "https://edmtrain.com/los-angeles-ca",
-            "hidden": true
-          },
-          {
-            "url": "https://ra.co/events/us/losangeles",
-            "hidden": true
-          }
-        ],
-        "tickets": [
-          "https://ra.co/events/2507508"
-        ],
-        "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=Los%20Angeles",
-          "apple": "https://maps.apple.com/?q=Los%20Angeles"
-        },
-        "coords": null,
-        "coords_precise": false,
-        "ra": {},
-        "image": "https://api.party-scout.app/img/los-angeles/2026-11-09/dirty-epic-presents-aere-b49a.jpg",
         "image_generated": true,
         "popularity": 0,
         "enriched": 1,
@@ -3485,10 +3211,14 @@
           "dj",
           "house",
           "dance",
-          "underground"
+          "underground",
+          "all-night"
         ],
         "sources": [
-          "https://ra.co/events/2563485",
+          {
+            "url": "https://ra.co/events/2563485",
+            "hidden": true
+          },
           {
             "url": "https://ra.co/events/us/losangeles",
             "hidden": true
@@ -3565,54 +3295,6 @@
         "ra": {},
         "image": "https://api.party-scout.app/img/los-angeles/2026-11-09/mousse-t-7c70.jpg",
         "image_generated": true,
-        "popularity": 0,
-        "enriched": 1,
-        "active": true
-      },
-      {
-        "id": "2026-11-09-music-signal4yr-8b20e6",
-        "eid": "signal4yr-fbc0",
-        "track": "music",
-        "category": "",
-        "name": "Signal4yr",
-        "day": "Fri",
-        "date": "2026-11-13",
-        "time": "11pm-6am",
-        "start": "23:00",
-        "end": "06:00",
-        "area": "Los Angeles",
-        "venue": "TBA",
-        "address": "",
-        "why": "For a night out in Los Angeles.",
-        "summary": "Signal4yr is scheduled in Los Angeles on November 13, 2026.",
-        "promoter": "",
-        "price": "$25 b4 12 / $30-60",
-        "tags": [
-          "nightlife",
-          "party"
-        ],
-        "sources": [
-          {
-            "url": "https://19hz.info/eventlisting_LosAngeles.php",
-            "hidden": true
-          },
-          {
-            "url": "https://ra.co/events/2538324",
-            "hidden": true
-          }
-        ],
-        "tickets": [
-          "https://ra.co/events/2538324"
-        ],
-        "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=Los%20Angeles",
-          "apple": "https://maps.apple.com/?q=Los%20Angeles"
-        },
-        "coords": null,
-        "coords_precise": false,
-        "ra": {},
-        "image": "https://api.party-scout.app/img/los-angeles/2026-11-09/signal4yr-fbc0.jpg",
-        "image_generated": false,
         "popularity": 0,
         "enriched": 1,
         "active": true
@@ -3818,7 +3500,7 @@
         "id": "2026-11-09-music-borderless-project-mihigh-e0b27d",
         "eid": "borderless-project-mihig-9a08",
         "track": "music",
-        "category": "",
+        "category": "Nightclub",
         "name": "Borderless Project: Mihigh",
         "day": "Sat",
         "date": "2026-11-14",
@@ -3831,7 +3513,7 @@
         "why": "A rare LA date for a Romanian minimal and house selector, in an overnight format built for dancing until sunrise.",
         "summary": "Borderless Project brings Romanian DJ Mihigh to Los Angeles for an all-night session running 11pm to 6am.",
         "promoter": "",
-        "price": "",
+        "price": "$10",
         "tags": [
           "music",
           "nightlife",
@@ -3839,10 +3521,17 @@
           "techno",
           "house",
           "minimal",
-          "all-night"
+          "all-night",
+          "dj",
+          "electronic",
+          "dance",
+          "late-night"
         ],
         "sources": [
-          "https://ra.co/events/2561653",
+          {
+            "url": "https://ra.co/events/2561653",
+            "hidden": true
+          },
           {
             "url": "https://ra.co/events/us/losangeles",
             "hidden": true
@@ -3901,7 +3590,8 @@
           "electronic",
           "dance",
           "21+",
-          "ticketed"
+          "ticketed",
+          "party"
         ],
         "sources": [
           {
@@ -3910,6 +3600,10 @@
           },
           {
             "url": "https://ra.co/events/us/losangeles",
+            "hidden": true
+          },
+          {
+            "url": "https://19hz.info/eventlisting_LosAngeles.php",
             "hidden": true
           }
         ],
@@ -4122,56 +3816,6 @@
         ]
       },
       {
-        "id": "2026-11-09-music-midnight-lovers-invites-dekman-85a023",
-        "eid": "midnight-lovers-invites-dc7b",
-        "track": "music",
-        "category": "Nightclub",
-        "name": "Midnight Lovers Invites Dekmantel Soundsystem & Make A Dance",
-        "day": "Sat",
-        "date": "2026-11-14",
-        "time": "21:00-03:00",
-        "start": "21:00",
-        "end": "03:00",
-        "area": "Los Angeles",
-        "venue": "TBA - Open Air: Downtown Los Angeles",
-        "address": "",
-        "why": "For immersive electronic DJ-led sets and nonstop dancing.",
-        "summary": "A late-night Los Angeles event on Nov 14, 2026, billed as Midnight Lovers Invites featuring Dekmantel Soundsystem and Make A Dance.",
-        "promoter": "",
-        "price": "$25-40",
-        "tags": [
-          "dj",
-          "electronic",
-          "dance",
-          "late-night"
-        ],
-        "sources": [
-          {
-            "url": "https://ra.co/events/2467725",
-            "hidden": true
-          },
-          {
-            "url": "https://ra.co/events/us/losangeles",
-            "hidden": true
-          }
-        ],
-        "tickets": [
-          "https://ra.co/events/2467725"
-        ],
-        "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=Los%20Angeles",
-          "apple": "https://maps.apple.com/?q=Los%20Angeles"
-        },
-        "coords": null,
-        "coords_precise": false,
-        "ra": {},
-        "image": "https://api.party-scout.app/img/los-angeles/2026-11-09/midnight-lovers-invites-dc7b.jpg",
-        "image_generated": true,
-        "popularity": 0,
-        "enriched": 1,
-        "active": true
-      },
-      {
         "id": "2026-11-09-music-observe-24-year-anniversary-ch-d9ae5d",
         "eid": "observe-24-year-annivers-3f02",
         "track": "music",
@@ -4194,7 +3838,8 @@
           "dj",
           "21+",
           "anniversary",
-          "party"
+          "party",
+          "late-night"
         ],
         "sources": [
           {
@@ -4214,8 +3859,8 @@
           "https://ra.co/events/2515135"
         ],
         "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=Los%20Angeles",
-          "apple": "https://maps.apple.com/?q=Los%20Angeles"
+          "google": "https://www.google.com/maps/search/?api=1&query=DTLA/Los%20Angeles",
+          "apple": "https://maps.apple.com/?q=DTLA/Los%20Angeles"
         },
         "coords": null,
         "coords_precise": false,
@@ -4278,13 +3923,13 @@
         "id": "2026-11-09-music-sainte-vie-053451",
         "eid": "sainte-vie-db2f",
         "track": "music",
-        "category": "",
+        "category": "Nightclub",
         "name": "Sainte Vie",
         "day": "Sat",
         "date": "2026-11-14",
         "time": "10pm–3am",
         "start": "22:00",
-        "end": null,
+        "end": "03:00",
         "area": "Los Angeles",
         "venue": "Origin",
         "address": "613 Imperial Street, Los Angeles, CA 90021",
@@ -4297,21 +3942,35 @@
           "los-angeles",
           "electronic",
           "house",
-          "club night"
+          "club night",
+          "dj",
+          "party",
+          "late-night",
+          "paid"
         ],
         "sources": [
           {
             "url": "https://edmtrain.com/los-angeles-ca",
             "hidden": true
           },
-          "https://ra.co/events/2565003",
+          {
+            "url": "https://ra.co/events/2565003",
+            "hidden": true
+          },
           {
             "url": "https://19hz.info/eventlisting_LosAngeles.php",
             "hidden": true
           },
-          "https://www.eventbrite.com/e/origin-presents-sainte-vie-tickets-2003489573246"
+          "https://www.eventbrite.com/e/origin-presents-sainte-vie-tickets-2003489573246",
+          {
+            "url": "https://ra.co/events/us/losangeles",
+            "hidden": true
+          }
         ],
-        "tickets": [],
+        "tickets": [
+          "https://ra.co/events/us/losangeles",
+          "https://ra.co/events/2565003"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=ORIGIN%2C%20Los%20Angeles",
           "apple": "https://maps.apple.com/?q=ORIGIN%2C%20Los%20Angeles"
@@ -4401,10 +4060,15 @@
           "dj",
           "21+",
           "electronic",
-          "nightclub"
+          "nightclub",
+          "dance",
+          "nightlife"
         ],
         "sources": [
-          "https://ra.co/events/2551426",
+          {
+            "url": "https://ra.co/events/2551426",
+            "hidden": true
+          },
           {
             "url": "https://19hz.info/eventlisting_LosAngeles.php",
             "hidden": true
@@ -4416,14 +4080,15 @@
           {
             "url": "https://edmtrain.com/los-angeles-ca",
             "hidden": true
-          }
+          },
+          "https://edmtrain.com/los-angeles-ca/dekmantel-soundsystem-masha-mar-542262"
         ],
         "tickets": [
           "https://ra.co/events/2551426"
         ],
         "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=Bar%20Franca%2C%20Los%20Angeles",
-          "apple": "https://maps.apple.com/?q=Bar%20Franca%2C%20Los%20Angeles"
+          "google": "https://www.google.com/maps/search/?api=1&query=Bar%20Franca%2C%20Los%20Angeles%2C%20CA",
+          "apple": "https://maps.apple.com/?q=Bar%20Franca%2C%20Los%20Angeles%2C%20CA"
         },
         "coords": null,
         "coords_precise": false,
@@ -4473,14 +4138,19 @@
           {
             "url": "https://ra.co/events/us/losangeles",
             "hidden": true
-          }
+          },
+          {
+            "url": "https://19hz.info/eventlisting_LosAngeles.php",
+            "hidden": true
+          },
+          "https://www.eventbrite.com/e/green-life-ent-15yr-anniversary-tickets-2001673532419"
         ],
         "tickets": [
           "https://ra.co/events/2541022"
         ],
         "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=Soulwerks%2C%20Los%20Angeles",
-          "apple": "https://maps.apple.com/?q=Soulwerks%2C%20Los%20Angeles"
+          "google": "https://www.google.com/maps/search/?api=1&query=Soulwerks%20Studio%20%28Los%20Angeles%29%2C%20Los%20Angeles",
+          "apple": "https://maps.apple.com/?q=Soulwerks%20Studio%20%28Los%20Angeles%29%2C%20Los%20Angeles"
         },
         "coords": null,
         "coords_precise": false,
@@ -4514,53 +4184,6 @@
         ]
       },
       {
-        "id": "2026-11-09-music-groove-motive-featuring-ragie-d86d4e",
-        "eid": "groove-motive-featuring-088f",
-        "track": "music",
-        "category": "Nightclub",
-        "name": "Groove Motive featuring Ragie Ban",
-        "day": "Sun",
-        "date": "2026-11-15",
-        "time": "16:00-20:00",
-        "start": "16:00",
-        "end": "20:00",
-        "area": "Los Angeles",
-        "venue": "The Spotlight",
-        "address": "1601 N Cahuenga Blvd, Los Angeles, CA 90028",
-        "why": "To see the featured artist Ragie Ban.",
-        "summary": "Groove Motive featuring Ragie Ban is scheduled for November 15, 2026 at 1601 N Cahuenga Blvd in Hollywood, Los Angeles.",
-        "promoter": "",
-        "price": "33.99",
-        "tags": [
-          "dj",
-          "live",
-          "dance",
-          "electronic"
-        ],
-        "sources": [
-          "https://ra.co/events/2559660",
-          {
-            "url": "https://ra.co/events/us/losangeles",
-            "hidden": true
-          }
-        ],
-        "tickets": [
-          "https://ra.co/events/2559660"
-        ],
-        "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=The%20Spotlight%2C%20Los%20Angeles",
-          "apple": "https://maps.apple.com/?q=The%20Spotlight%2C%20Los%20Angeles"
-        },
-        "coords": null,
-        "coords_precise": false,
-        "ra": {},
-        "image": "https://images.ra.co/cd0bf0f03a076db4560a2c42e81bbe69bd79d107.jpg",
-        "image_generated": false,
-        "popularity": 0,
-        "enriched": 1,
-        "active": true
-      },
-      {
         "id": "2026-11-09-music-groove-motive-ragie-ban-luke-a-1729f9",
         "eid": "groove-motive-ragie-ban-f9e8",
         "track": "music",
@@ -4582,7 +4205,10 @@
           "music",
           "dance",
           "nightlife",
-          "21+"
+          "21+",
+          "dj",
+          "live",
+          "electronic"
         ],
         "sources": [
           {
@@ -4591,14 +4217,18 @@
           },
           "https://ra.co/events/2559660",
           "https://dice.fm/partner/tickets/event/3o8dlx-groove-motive-15th-nov-the-spotlight-los-angeles-tickets",
-          "https://edmtrain.com/los-angeles-ca/groove-motive-ragie-ban-543539"
+          "https://edmtrain.com/los-angeles-ca/groove-motive-ragie-ban-543539",
+          {
+            "url": "https://ra.co/events/us/losangeles",
+            "hidden": true
+          }
         ],
         "tickets": [
           "https://ra.co/events/2559660"
         ],
         "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=The%20Spotlight%20%28Los%20Angeles%29%2C%20Los%20Angeles",
-          "apple": "https://maps.apple.com/?q=The%20Spotlight%20%28Los%20Angeles%29%2C%20Los%20Angeles"
+          "google": "https://www.google.com/maps/search/?api=1&query=The%20Spotlight%2C%20Los%20Angeles",
+          "apple": "https://maps.apple.com/?q=The%20Spotlight%2C%20Los%20Angeles"
         },
         "coords": null,
         "coords_precise": false,
@@ -4631,7 +4261,9 @@
           "dj",
           "electronic",
           "indie",
-          "dance"
+          "dance",
+          "music",
+          "evening"
         ],
         "sources": [
           {
@@ -4707,55 +4339,6 @@
         "coords_precise": false,
         "ra": {},
         "image": "https://api.party-scout.app/img/los-angeles/2026-11-09/unnamed-opener-7pm-69fa.jpg",
-        "image_generated": true,
-        "popularity": 0,
-        "enriched": 1,
-        "active": true
-      },
-      {
-        "id": "2026-11-09-music-creatures-at-sea-598db8",
-        "eid": "creatures-at-sea-2baa",
-        "track": "music",
-        "category": "",
-        "name": "Creatures At Sea",
-        "day": "Sat",
-        "date": "2026-11-14",
-        "time": "16:00-20:00",
-        "start": "16:00",
-        "end": "20:00",
-        "area": "Los Angeles",
-        "venue": "Catalina Classic Cruises",
-        "address": "1825 W. Pier D. Street Long Beach, CA 90802",
-        "why": "For a waterfront night out in Long Beach on November 14.",
-        "summary": "An event called Creatures At Sea takes place on November 14, 2026, at 1825 W. Pier D. Street in Long Beach, CA 90802.",
-        "promoter": "",
-        "price": "65+",
-        "tags": [
-          "outdoor",
-          "nightlife",
-          "pier"
-        ],
-        "sources": [
-          {
-            "url": "https://ra.co/events/2540980",
-            "hidden": true
-          },
-          {
-            "url": "https://ra.co/events/us/losangeles",
-            "hidden": true
-          }
-        ],
-        "tickets": [
-          "https://ra.co/events/2540980"
-        ],
-        "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=Catalina%20Classic%20Cruises%2C%20Los%20Angeles",
-          "apple": "https://maps.apple.com/?q=Catalina%20Classic%20Cruises%2C%20Los%20Angeles"
-        },
-        "coords": null,
-        "coords_precise": false,
-        "ra": {},
-        "image": "https://api.party-scout.app/img/los-angeles/2026-11-09/creatures-at-sea-2baa.jpg",
         "image_generated": true,
         "popularity": 0,
         "enriched": 1,
@@ -4903,60 +4486,6 @@
         "active": true
       },
       {
-        "id": "2026-11-09-music-surface-diy-with-babylon-beach-a3d845",
-        "eid": "surface-diy-with-babylon-db37",
-        "track": "music",
-        "category": "Concert",
-        "name": "Surface DIY with Babylon Beach (Adam Rose & JJ Selects), Michael Fam, Capes",
-        "day": "Thu",
-        "date": "2026-11-12",
-        "time": "22:00-04:00",
-        "start": "22:00",
-        "end": "04:00",
-        "area": "Los Angeles",
-        "venue": "TBA",
-        "address": "1133 Venice Blvd Los Angeles CA 90033",
-        "why": "Great for fans of intimate DIY dance nights and close-up DJ sets.",
-        "summary": "Surface Diy with Adam Rose, Michael Fam, and Capes takes place November 12, 2026 at 1133 Venice Blvd in Los Angeles. Advance tickets are listed at $11.",
-        "promoter": "",
-        "price": "10",
-        "tags": [
-          "dj",
-          "diy",
-          "underground"
-        ],
-        "sources": [
-          {
-            "url": "https://ra.co/events/us/losangeles",
-            "hidden": true
-          },
-          {
-            "url": "https://19hz.info/eventlisting_LosAngeles.php",
-            "hidden": true
-          },
-          {
-            "url": "https://ra.co/events/2548082",
-            "hidden": true
-          }
-        ],
-        "tickets": [
-          "https://ra.co/events/2548082",
-          "https://ra.co/events/us/losangeles"
-        ],
-        "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=Better%20Tomorrow%20%28Los%20Angeles%29%2C%20Los%20Angeles",
-          "apple": "https://maps.apple.com/?q=Better%20Tomorrow%20%28Los%20Angeles%29%2C%20Los%20Angeles"
-        },
-        "coords": null,
-        "coords_precise": false,
-        "ra": {},
-        "image": "https://api.party-scout.app/img/los-angeles/2026-11-09/surface-diy-w-adam-rose-5a0d.jpg",
-        "image_generated": true,
-        "popularity": 0,
-        "enriched": 1,
-        "active": true
-      },
-      {
         "id": "2026-11-09-music-white-lotus-world-tour-sina-ba-2cb60c",
         "eid": "white-lotus-world-tour-s-bed1",
         "track": "music",
@@ -4978,22 +4507,35 @@
           "live",
           "concert",
           "tour",
-          "ticketed"
+          "ticketed",
+          "paid",
+          "indoor"
         ],
         "sources": [
           {
             "url": "https://edmtrain.com/los-angeles-ca",
             "hidden": true
           },
-          "https://ra.co/events/2514122",
-          "https://edmtrain.com/los-angeles-ca/white-lotus-world-tour-sina-bathaie-535195"
+          {
+            "url": "https://ra.co/events/2514122",
+            "hidden": true
+          },
+          "https://edmtrain.com/los-angeles-ca/white-lotus-world-tour-sina-bathaie-535195",
+          {
+            "url": "https://19hz.info/eventlisting_LosAngeles.php",
+            "hidden": true
+          },
+          {
+            "url": "https://ra.co/events/us/losangeles",
+            "hidden": true
+          }
         ],
         "tickets": [
           "https://ra.co/events/2514122"
         ],
         "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=The%20Vermont%20Hollywood%2C%20Los%20Angeles",
-          "apple": "https://maps.apple.com/?q=The%20Vermont%20Hollywood%2C%20Los%20Angeles"
+          "google": "https://www.google.com/maps/search/?api=1&query=The%20Vermont%2C%20Hollywood/Los%20Angeles",
+          "apple": "https://maps.apple.com/?q=The%20Vermont%2C%20Hollywood/Los%20Angeles"
         },
         "coords": null,
         "coords_precise": false,
@@ -5008,7 +4550,7 @@
         "id": "2026-11-09-music-baile-world-67b8ea",
         "eid": "baile-world-88cc",
         "track": "music",
-        "category": "",
+        "category": "Nightclub",
         "name": "BAILE WORLD",
         "day": "Fri",
         "date": "2026-11-13",
@@ -5025,7 +4567,11 @@
         "tags": [
           "free",
           "ticketed",
-          "nightlife"
+          "nightlife",
+          "dj",
+          "baile",
+          "latin",
+          "21+"
         ],
         "sources": [
           {
@@ -5073,21 +4619,35 @@
           "electronic",
           "dj",
           "late-night",
-          "paid"
+          "paid",
+          "live",
+          "music",
+          "ticketed"
         ],
         "sources": [
           {
             "url": "https://edmtrain.com/los-angeles-ca",
             "hidden": true
           },
-          "https://ra.co/events/2507508"
+          {
+            "url": "https://ra.co/events/2507508",
+            "hidden": true
+          },
+          {
+            "url": "https://19hz.info/eventlisting_LosAngeles.php",
+            "hidden": true
+          },
+          {
+            "url": "https://ra.co/events/us/losangeles",
+            "hidden": true
+          }
         ],
         "tickets": [
           "https://ra.co/events/2507508"
         ],
         "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=Los%20Angeles%2C%20Los%20Angeles",
-          "apple": "https://maps.apple.com/?q=Los%20Angeles%2C%20Los%20Angeles"
+          "google": "https://www.google.com/maps/search/?api=1&query=Los%20Angeles",
+          "apple": "https://maps.apple.com/?q=Los%20Angeles"
         },
         "coords": null,
         "coords_precise": false,
@@ -5115,7 +4675,7 @@
         "why": "A late-night house and club lineup built around Shaun J. Wright and Hannah Holland, running until dawn.",
         "summary": "SIGNAL4YR anniversary night with Shaun J. Wright, Hannah Holland, Gay Felony and Mez Monty, running 11pm to 6am.",
         "promoter": "",
-        "price": "",
+        "price": "$25 b4 12 / $30-60",
         "tags": [
           "dj",
           "late-night",
@@ -5123,21 +4683,31 @@
           "21+",
           "house",
           "club",
-          "all-night"
+          "all-night",
+          "nightlife",
+          "dance",
+          "ticketed"
         ],
         "sources": [
           {
             "url": "https://edmtrain.com/los-angeles-ca",
             "hidden": true
           },
-          "https://ra.co/events/2538324"
+          {
+            "url": "https://ra.co/events/2538324",
+            "hidden": true
+          },
+          {
+            "url": "https://19hz.info/eventlisting_LosAngeles.php",
+            "hidden": true
+          }
         ],
         "tickets": [
           "https://ra.co/events/2538324"
         ],
         "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=Los%20Angeles%2C%20Los%20Angeles",
-          "apple": "https://maps.apple.com/?q=Los%20Angeles%2C%20Los%20Angeles"
+          "google": "https://www.google.com/maps/search/?api=1&query=Los%20Angeles",
+          "apple": "https://maps.apple.com/?q=Los%20Angeles"
         },
         "coords": null,
         "coords_precise": false,
@@ -5332,22 +4902,30 @@
           "paid",
           "evening",
           "house",
-          "outdoor"
+          "outdoor",
+          "live",
+          "nightlife",
+          "event"
         ],
         "sources": [
           {
             "url": "https://www.eventbrite.com/d/ca--los-angeles/",
             "hidden": true
           },
-          "https://www.eventbrite.com/e/mestiza-presents-sacro-tickets-1994603720421"
+          "https://www.eventbrite.com/e/mestiza-presents-sacro-tickets-1994603720421",
+          {
+            "url": "https://19hz.info/eventlisting_LosAngeles.php",
+            "hidden": true
+          },
+          "https://edmtrain.com/los-angeles-ca/sacro-mestiza-528887"
         ],
         "tickets": [
           "https://www.eventbrite.com/d/ca--los-angeles/",
           "https://www.eventbrite.com/e/mestiza-presents-sacro-tickets-1994603720421"
         ],
         "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=Gloria%20Molina%20Grand%20Park%2C%20Los%20Angeles",
-          "apple": "https://maps.apple.com/?q=Gloria%20Molina%20Grand%20Park%2C%20Los%20Angeles"
+          "google": "https://www.google.com/maps/search/?api=1&query=Grand%20Park%2C%20Los%20Angeles%2C%20CA",
+          "apple": "https://maps.apple.com/?q=Grand%20Park%2C%20Los%20Angeles%2C%20CA"
         },
         "coords": null,
         "coords_precise": false,
@@ -5402,57 +4980,6 @@
         "coords_precise": false,
         "ra": {},
         "image": "https://api.party-scout.app/img/los-angeles/2026-11-09/plush-party-dj-flapjack-5bea.jpg",
-        "image_generated": true,
-        "popularity": 0,
-        "enriched": 1,
-        "active": true
-      },
-      {
-        "id": "2026-11-09-music-sacro-after-party-sainte-vie-s-31714c",
-        "eid": "sacro-after-party-sainte-d087",
-        "track": "music",
-        "category": "Nightclub",
-        "name": "Sacro After Party: Sainte Vie + Special Guests",
-        "day": "Sat",
-        "date": "2026-11-14",
-        "time": "22:00-03:00",
-        "start": "22:00",
-        "end": "03:00",
-        "area": "Los Angeles",
-        "venue": "ORIGIN",
-        "address": "",
-        "why": "For late-night dancing and guest DJ sets.",
-        "summary": "After-party featuring Sainte Vie and special guests on November 14, 2026; $30 admission.",
-        "promoter": "",
-        "price": "$30",
-        "tags": [
-          "dj",
-          "party",
-          "late-night",
-          "paid"
-        ],
-        "sources": [
-          {
-            "url": "https://ra.co/events/us/losangeles",
-            "hidden": true
-          },
-          {
-            "url": "https://ra.co/events/2565003",
-            "hidden": true
-          }
-        ],
-        "tickets": [
-          "https://ra.co/events/us/losangeles",
-          "https://ra.co/events/2565003"
-        ],
-        "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=ORIGIN%2C%20Los%20Angeles",
-          "apple": "https://maps.apple.com/?q=ORIGIN%2C%20Los%20Angeles"
-        },
-        "coords": null,
-        "coords_precise": false,
-        "ra": {},
-        "image": "https://api.party-scout.app/img/los-angeles/2026-11-09/sacro-after-party-sainte-d087.jpg",
         "image_generated": true,
         "popularity": 0,
         "enriched": 1,
@@ -5643,49 +5170,6 @@
         "active": true
       },
       {
-        "id": "2026-11-09-music-bonobo-sofia-kourtesis-f6bdf5",
-        "eid": "bonobo-sofia-kourtesis-5bf2",
-        "track": "music",
-        "category": "Concert",
-        "name": "Bonobo, Sofia Kourtesis",
-        "day": "Wed",
-        "date": "2026-11-11",
-        "time": "7–11pm",
-        "start": "19:00",
-        "end": "23:00",
-        "area": "Los Angeles, CA",
-        "venue": "The Wiltern",
-        "address": "3790 Wilshire Blvd, Los Angeles, CA 90010",
-        "why": "For lush electronic production and dance-forward grooves in a compact nighttime set.",
-        "summary": "Bonobo and Sofia Kourtesis perform in Los Angeles on November 11, 2026; the show runs 7–11pm at 3790 Wilshire Blvd, tickets $38.",
-        "promoter": "",
-        "price": "$38",
-        "tags": [
-          "electronic",
-          "dj",
-          "dance"
-        ],
-        "sources": [
-          "https://edmtrain.com/tours/sofia-kourtesis-6968",
-          "https://ra.co/events/2497172"
-        ],
-        "tickets": [
-          "https://ra.co/events/2497172"
-        ],
-        "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=The%20Wiltern%2C%20Los%20Angeles%2C%20CA",
-          "apple": "https://maps.apple.com/?q=The%20Wiltern%2C%20Los%20Angeles%2C%20CA"
-        },
-        "coords": null,
-        "coords_precise": false,
-        "ra": {},
-        "image": "https://api.party-scout.app/img/los-angeles/2026-11-09/bonobo-sofia-kourtesis-5bf2.jpg",
-        "image_generated": false,
-        "popularity": 0,
-        "enriched": 1,
-        "active": true
-      },
-      {
         "id": "2026-11-09-music-kcrw-presents-bonobo-distance-0b80b9",
         "eid": "kcrw-presents-bonobo-dis-ab7d",
         "track": "music",
@@ -5708,7 +5192,8 @@
           "live",
           "21+",
           "dj",
-          "ticketed"
+          "ticketed",
+          "dance"
         ],
         "sources": [
           {
@@ -5743,15 +5228,16 @@
           {
             "url": "https://edmtrain.com/los-angeles-ca",
             "hidden": true
-          }
+          },
+          "https://edmtrain.com/tours/sofia-kourtesis-6968"
         ],
         "tickets": [
           "https://ra.co/events/2497172",
           "https://ra.co/events/2502148"
         ],
         "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=The%20Wiltern%2C%20Los%20Angeles",
-          "apple": "https://maps.apple.com/?q=The%20Wiltern%2C%20Los%20Angeles"
+          "google": "https://www.google.com/maps/search/?api=1&query=The%20Wiltern%2C%20Los%20Angeles%2C%20CA",
+          "apple": "https://maps.apple.com/?q=The%20Wiltern%2C%20Los%20Angeles%2C%20CA"
         },
         "coords": null,
         "coords_precise": false,
@@ -5874,50 +5360,6 @@
         "active": true
       },
       {
-        "id": "2026-11-09-music-sina-bathaie-d18021",
-        "eid": "sina-bathaie-fbba",
-        "track": "music",
-        "category": "Concert",
-        "name": "Sina Bathaie",
-        "day": "Thu",
-        "date": "2026-11-12",
-        "time": "7:30–10pm",
-        "start": "19:30",
-        "end": "22:00",
-        "area": "Hollywood/Los Angeles",
-        "venue": "The Vermont",
-        "address": "1020 N Vermont Ave, Los Angeles, CA 90029, United States",
-        "why": "To catch an evening live performance in a Hollywood neighborhood venue.",
-        "summary": "Sina Bathaie performs at 1020 N Vermont Ave in Los Angeles on November 12, 2026, from 7:30–10pm.",
-        "promoter": "",
-        "price": "$89+",
-        "tags": [
-          "live",
-          "indoor"
-        ],
-        "sources": [
-          {
-            "url": "https://ra.co/events/2514122",
-            "hidden": true
-          }
-        ],
-        "tickets": [
-          "https://ra.co/events/2514122"
-        ],
-        "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=The%20Vermont%2C%20Hollywood/Los%20Angeles",
-          "apple": "https://maps.apple.com/?q=The%20Vermont%2C%20Hollywood/Los%20Angeles"
-        },
-        "coords": null,
-        "coords_precise": false,
-        "ra": {},
-        "image": "https://api.party-scout.app/img/los-angeles/2026-11-09/sina-bathaie-fbba.jpg",
-        "image_generated": false,
-        "popularity": 0,
-        "enriched": 1,
-        "active": true
-      },
-      {
         "id": "2026-11-09-music-surface-diy-w-adam-rose-michae-3e35cc",
         "eid": "surface-diy-w-adam-rose-5a0d",
         "track": "music",
@@ -5930,7 +5372,7 @@
         "end": "04:00",
         "area": "Los Angeles",
         "venue": "Better Tomorrow",
-        "address": "",
+        "address": "1133 Venice Blvd Los Angeles CA 90033",
         "why": "For long, late-night DJ sets and underground dance-floor energy.",
         "summary": "A late-night DIY party in Los Angeles on November 12, 2026, running 10pm–4am and featuring Adam Rose, Michael Fam, and Capes.",
         "promoter": "",
@@ -5939,20 +5381,30 @@
           "dj",
           "party",
           "late-night",
-          "underground"
+          "underground",
+          "diy"
         ],
         "sources": [
           {
             "url": "https://ra.co/events/2548082",
             "hidden": true
+          },
+          {
+            "url": "https://ra.co/events/us/losangeles",
+            "hidden": true
+          },
+          {
+            "url": "https://19hz.info/eventlisting_LosAngeles.php",
+            "hidden": true
           }
         ],
         "tickets": [
-          "https://ra.co/events/2548082"
+          "https://ra.co/events/2548082",
+          "https://ra.co/events/us/losangeles"
         ],
         "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=Better%20Tomorrow%2C%20Los%20Angeles",
-          "apple": "https://maps.apple.com/?q=Better%20Tomorrow%2C%20Los%20Angeles"
+          "google": "https://www.google.com/maps/search/?api=1&query=Better%20Tomorrow%20%28Los%20Angeles%29%2C%20Los%20Angeles",
+          "apple": "https://maps.apple.com/?q=Better%20Tomorrow%20%28Los%20Angeles%29%2C%20Los%20Angeles"
         },
         "coords": null,
         "coords_precise": false,
@@ -6046,140 +5498,6 @@
         "active": true
       },
       {
-        "id": "2026-11-09-music-aerea-live-orly-gal-v0rtic-hee-2b21f8",
-        "eid": "aerea-live-orly-gal-v0rt-2112",
-        "track": "music",
-        "category": "Nightclub",
-        "name": "Aerea Live, Orly Gal, V0rtic, Heelbite316",
-        "day": "Fri",
-        "date": "2026-11-13",
-        "time": "11pm–5am",
-        "start": "23:00",
-        "end": "05:00",
-        "area": "Los Angeles",
-        "venue": "TBA",
-        "address": "",
-        "why": "For an all-night music party that runs into the early morning.",
-        "summary": "A late-night event on November 13, 2026 featuring Aerea Live, Orly Gal, V0rtic, and Heelbite316, running 11pm–5am in Los Angeles.",
-        "promoter": "",
-        "price": "$32 b4 12 / $42.65",
-        "tags": [
-          "live",
-          "dj",
-          "late-night"
-        ],
-        "sources": [
-          {
-            "url": "https://ra.co/events/2507508",
-            "hidden": true
-          }
-        ],
-        "tickets": [
-          "https://ra.co/events/2507508"
-        ],
-        "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=Los%20Angeles",
-          "apple": "https://maps.apple.com/?q=Los%20Angeles"
-        },
-        "coords": null,
-        "coords_precise": false,
-        "ra": {},
-        "image": "https://api.party-scout.app/img/los-angeles/2026-11-09/aerea-live-orly-gal-v0rt-2112.jpg",
-        "image_generated": false,
-        "popularity": 0,
-        "enriched": 1,
-        "active": true
-      },
-      {
-        "id": "2026-11-09-music-aurora-halal-b2b-laurel-halo-a-bb4c28",
-        "eid": "aurora-halal-b2b-laurel-f6e9",
-        "track": "music",
-        "category": "Nightclub",
-        "name": "Aurora Halal b2b Laurel Halo All Night",
-        "day": "Fri",
-        "date": "2026-11-13",
-        "time": "10pm–4am",
-        "start": "22:00",
-        "end": "04:00",
-        "area": "DTLA/Los Angeles",
-        "venue": "TBA",
-        "address": "",
-        "why": "For an extended late-night electronic set and dance-focused party.",
-        "summary": "Back-to-back DJ set featuring Aurora Halal and Laurel Halo running 10pm–4am on 2026-11-13 in Los Angeles.",
-        "promoter": "",
-        "price": "$16.50-38.55",
-        "tags": [
-          "dj",
-          "electronic",
-          "dance",
-          "late-night"
-        ],
-        "sources": [
-          {
-            "url": "https://ra.co/events/2559598",
-            "hidden": true
-          }
-        ],
-        "tickets": [
-          "https://ra.co/events/2559598"
-        ],
-        "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=DTLA/Los%20Angeles",
-          "apple": "https://maps.apple.com/?q=DTLA/Los%20Angeles"
-        },
-        "coords": null,
-        "coords_precise": false,
-        "ra": {},
-        "image": "https://api.party-scout.app/img/los-angeles/2026-11-09/aurora-halal-b2b-laurel-f6e9.jpg",
-        "image_generated": false,
-        "popularity": 0,
-        "enriched": 1,
-        "active": true
-      },
-      {
-        "id": "2026-11-09-music-bbyjcore-x-baile-world-baby-j-2aebc1",
-        "eid": "bbyjcore-x-baile-world-b-c7a7",
-        "track": "music",
-        "category": "Nightclub",
-        "name": "BBYJCORE x BAILE WORLD: Baby J, Naisha, Nanoos, Cquestt, & Quinn Blake",
-        "day": "Fri",
-        "date": "2026-11-13",
-        "time": "9pm–3am",
-        "start": "21:00",
-        "end": "03:00",
-        "area": "Los Angeles",
-        "venue": "Don Quixote",
-        "address": "2811 E Olympic Blvd, Los Angeles, CA 90023",
-        "why": "For high-energy baile and club sets from a tight roster of artists.",
-        "summary": "Late-night party on Nov 13 at 2811 E Olympic Blvd in Los Angeles, running 9pm–3am and featuring Baby J, Naisha, Nanoos, Cquestt, and Quinn Blake.",
-        "promoter": "",
-        "price": "$22-45",
-        "tags": [
-          "dj",
-          "baile",
-          "latin",
-          "21+"
-        ],
-        "sources": [
-          "https://ra.co/events/2566929"
-        ],
-        "tickets": [
-          "https://ra.co/events/2566929"
-        ],
-        "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=Don%20Quixote%2C%20Los%20Angeles",
-          "apple": "https://maps.apple.com/?q=Don%20Quixote%2C%20Los%20Angeles"
-        },
-        "coords": null,
-        "coords_precise": false,
-        "ra": {},
-        "image": "https://api.party-scout.app/img/los-angeles/2026-11-09/bbyjcore-x-baile-world-b-c7a7.jpg",
-        "image_generated": false,
-        "popularity": 0,
-        "enriched": 1,
-        "active": true
-      },
-      {
         "id": "2026-11-09-music-gel-house-rock-b9038a",
         "eid": "gel-house-rock-cd47",
         "track": "music",
@@ -6218,46 +5536,6 @@
         "active": true
       },
       {
-        "id": "2026-11-09-music-levi-at-the-hollywood-roosevel-ef367f",
-        "eid": "levi-at-the-hollywood-ro-f861",
-        "track": "music",
-        "category": "Nightclub",
-        "name": "LEVI at The Hollywood Roosevelt",
-        "day": "Fri",
-        "date": "2026-11-13",
-        "time": "11pm–2am",
-        "start": "23:00",
-        "end": "02:00",
-        "area": "Hollywood",
-        "venue": "TBA - The Hollywood Roosevelt hotel Los Angeles, CA",
-        "address": "",
-        "why": "For a late-night party inside a landmark Hollywood hotel.",
-        "summary": "LEVI is a late-night ticketed event at The Hollywood Roosevelt on 2026-11-13, running 11pm–2am with tickets from $27.",
-        "promoter": "",
-        "price": "$27+",
-        "tags": [
-          "late-night",
-          "ticketed",
-          "hotel",
-          "los-angeles"
-        ],
-        "sources": [
-          "https://ra.co/events/2570450"
-        ],
-        "tickets": [
-          "https://ra.co/events/2570450"
-        ],
-        "maps": {},
-        "coords": null,
-        "coords_precise": false,
-        "ra": {},
-        "image": "https://api.party-scout.app/img/los-angeles/2026-11-09/levi-at-the-hollywood-ro-f861.jpg",
-        "image_generated": false,
-        "popularity": 0,
-        "enriched": 1,
-        "active": true
-      },
-      {
         "id": "2026-11-09-music-levi-428d2d",
         "eid": "levi-fd0f",
         "track": "music",
@@ -6278,7 +5556,10 @@
         "tags": [
           "21+",
           "indoor",
-          "late-night"
+          "late-night",
+          "ticketed",
+          "hotel",
+          "los-angeles"
         ],
         "sources": [
           "https://www.eventbrite.com/e/levi-at-the-hollywood-roosevelt-tickets-2003797822227",
@@ -6389,49 +5670,6 @@
         "active": true
       },
       {
-        "id": "2026-11-09-music-navid-izadi-ayande-a-release-p-0a4370",
-        "eid": "navid-izadi-ayande-a-rel-d50c",
-        "track": "music",
-        "category": "Nightclub",
-        "name": "Navid Izadi - Ayande (A Release party by IN BETWEEN, Rhonda INTL, & Elbow Grease)",
-        "day": "Fri",
-        "date": "2026-11-13",
-        "time": "10–4am",
-        "start": "10:00",
-        "end": "04:00",
-        "area": "Los Angeles",
-        "venue": "TBA",
-        "address": "",
-        "why": "Celebrate a new release and dance into the early morning with late-night DJ sets.",
-        "summary": "A release party for Navid Izadi's Ayande presented by IN BETWEEN, Rhonda INTL, and Elbow Grease on November 13, 2026; runs 10–4am with admission listed as Free–$30.",
-        "promoter": "",
-        "price": "Free–$30",
-        "tags": [
-          "dj",
-          "release",
-          "party",
-          "late-night"
-        ],
-        "sources": [
-          {
-            "url": "https://ra.co/events/2569904",
-            "hidden": true
-          }
-        ],
-        "tickets": [
-          "https://ra.co/events/2569904"
-        ],
-        "maps": {},
-        "coords": null,
-        "coords_precise": false,
-        "ra": {},
-        "image": "https://api.party-scout.app/img/los-angeles/2026-11-09/navid-izadi-ayande-a-rel-d50c.jpg",
-        "image_generated": false,
-        "popularity": 0,
-        "enriched": 1,
-        "active": true
-      },
-      {
         "id": "2026-11-09-music-navid-izadi-ayande-album-relea-fad263",
         "eid": "navid-izadi-ayande-album-8887",
         "track": "music",
@@ -6453,10 +5691,15 @@
           "electronic",
           "dj",
           "album-release",
-          "late-night"
+          "late-night",
+          "release",
+          "party"
         ],
         "sources": [
-          "https://ra.co/events/2569904"
+          {
+            "url": "https://ra.co/events/2569904",
+            "hidden": true
+          }
         ],
         "tickets": [
           "https://ra.co/events/2569904"
@@ -6520,95 +5763,6 @@
         "active": true
       },
       {
-        "id": "2026-11-09-music-signal4yr-shaun-j-wright-hanna-624138",
-        "eid": "signal4yr-shaun-j-wright-878a",
-        "track": "music",
-        "category": "Nightclub",
-        "name": "SIGNAL4YR: Shaun J Wright // Hannah Holland // Gay Felony // Mez Monty",
-        "day": "Fri",
-        "date": "2026-11-13",
-        "time": "11pm–6am",
-        "start": "23:00",
-        "end": "06:00",
-        "area": "Los Angeles",
-        "venue": "TBA",
-        "address": "",
-        "why": "To dance through the night to back-to-back DJ sets.",
-        "summary": "Late-night party on November 13, 2026, running 11pm–6am and featuring Shaun J Wright, Hannah Holland, Gay Felony, and Mez Monty; tickets are $25 before midnight and $30–60 after.",
-        "promoter": "",
-        "price": "$25 b4 12 / $30-60",
-        "tags": [
-          "dj",
-          "dance",
-          "late-night",
-          "ticketed"
-        ],
-        "sources": [
-          {
-            "url": "https://ra.co/events/2538324",
-            "hidden": true
-          }
-        ],
-        "tickets": [
-          "https://ra.co/events/2538324"
-        ],
-        "maps": {},
-        "coords": null,
-        "coords_precise": false,
-        "ra": {},
-        "image": "https://api.party-scout.app/img/los-angeles/2026-11-09/signal4yr-shaun-j-wright-878a.jpg",
-        "image_generated": false,
-        "popularity": 0,
-        "enriched": 1,
-        "active": true
-      },
-      {
-        "id": "2026-11-09-music-theo-parrish-all-night-long-5e34fa",
-        "eid": "theo-parrish-all-night-l-dcc0",
-        "track": "music",
-        "category": "Nightclub",
-        "name": "Theo Parrish (All Night Long)",
-        "day": "Fri",
-        "date": "2026-11-13",
-        "time": "10pm–5am",
-        "start": "22:00",
-        "end": "05:00",
-        "area": "Los Angeles",
-        "venue": "TBA",
-        "address": "",
-        "why": "To experience an extended, immersive DJ marathon ideal for dancing until dawn.",
-        "summary": "Theo Parrish performs an all-night DJ set on November 13, 2026, running 10pm–5am in Los Angeles.",
-        "promoter": "",
-        "price": "$23-46",
-        "tags": [
-          "dj",
-          "house",
-          "all-night",
-          "dance"
-        ],
-        "sources": [
-          {
-            "url": "https://ra.co/events/2563485",
-            "hidden": true
-          }
-        ],
-        "tickets": [
-          "https://ra.co/events/2563485"
-        ],
-        "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=Los%20Angeles",
-          "apple": "https://maps.apple.com/?q=Los%20Angeles"
-        },
-        "coords": null,
-        "coords_precise": false,
-        "ra": {},
-        "image": "https://api.party-scout.app/img/los-angeles/2026-11-09/theo-parrish-all-night-l-dcc0.jpg",
-        "image_generated": false,
-        "popularity": 0,
-        "enriched": 1,
-        "active": true
-      },
-      {
         "id": "2026-11-09-music-vpn-presents-rhythms-n-grooves-6f0f77",
         "eid": "vpn-presents-rhythms-n-g-599b",
         "track": "music",
@@ -6645,52 +5799,6 @@
         "coords_precise": false,
         "ra": {},
         "image": "https://api.party-scout.app/img/los-angeles/2026-11-09/vpn-presents-rhythms-n-g-599b.jpg",
-        "image_generated": false,
-        "popularity": 0,
-        "enriched": 1,
-        "active": true
-      },
-      {
-        "id": "2026-11-09-music-borderless-project-mihigh-yair-4b48fe",
-        "eid": "borderless-project-mihig-5e34",
-        "track": "music",
-        "category": "Nightclub",
-        "name": "Borderless Project: Mihigh, Yair, Ruge",
-        "day": "Sat",
-        "date": "2026-11-14",
-        "time": "11pm–6am",
-        "start": "23:00",
-        "end": "06:00",
-        "area": "Los Angeles",
-        "venue": "TBA",
-        "address": "",
-        "why": "For an extended overnight dance party with multiple electronic acts.",
-        "summary": "Late-night event on 2026-11-14 running 11pm–6am featuring Mihigh, Yair, and Ruge.",
-        "promoter": "",
-        "price": "$10",
-        "tags": [
-          "dj",
-          "electronic",
-          "dance",
-          "late-night"
-        ],
-        "sources": [
-          {
-            "url": "https://ra.co/events/2561653",
-            "hidden": true
-          }
-        ],
-        "tickets": [
-          "https://ra.co/events/2561653"
-        ],
-        "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=Los%20Angeles",
-          "apple": "https://maps.apple.com/?q=Los%20Angeles"
-        },
-        "coords": null,
-        "coords_precise": false,
-        "ra": {},
-        "image": "https://api.party-scout.app/img/los-angeles/2026-11-09/borderless-project-mihig-5e34.jpg",
         "image_generated": false,
         "popularity": 0,
         "enriched": 1,
@@ -6784,49 +5892,6 @@
         "lineup": []
       },
       {
-        "id": "2026-11-09-music-lights-down-low-feat-loukeman-ee2fde",
-        "eid": "lights-down-low-feat-lou-081d",
-        "track": "music",
-        "category": "Nightclub",
-        "name": "Lights Down Low feat. Loukeman",
-        "day": "Sat",
-        "date": "2026-11-14",
-        "time": "11pm–4am",
-        "start": "23:00",
-        "end": "04:00",
-        "area": "Los Angeles",
-        "venue": "TBA - Downtown LA",
-        "address": "",
-        "why": "For late-night dancing and a club-style party.",
-        "summary": "A late-night club event on November 14, 2026 featuring Loukeman, running 11pm–4am with $20–$40 cover.",
-        "promoter": "",
-        "price": "$20–$40",
-        "tags": [
-          "dj",
-          "21+",
-          "dance",
-          "nightlife"
-        ],
-        "sources": [
-          {
-            "url": "https://ra.co/events/2446339",
-            "hidden": true
-          }
-        ],
-        "tickets": [
-          "https://ra.co/events/2446339"
-        ],
-        "maps": {},
-        "coords": null,
-        "coords_precise": false,
-        "ra": {},
-        "image": "https://api.party-scout.app/img/los-angeles/2026-11-09/lights-down-low-feat-lou-081d.jpg",
-        "image_generated": false,
-        "popularity": 0,
-        "enriched": 1,
-        "active": true
-      },
-      {
         "id": "2026-11-09-music-marsh-pit-featuring-splata-ff0c86",
         "eid": "marsh-pit-featuring-spla-7ceb",
         "track": "music",
@@ -6871,46 +5936,6 @@
         "lineup": []
       },
       {
-        "id": "2026-11-09-music-minty-boi-presents-suzy-sheer-515ee0",
-        "eid": "minty-boi-presents-suzy-e64d",
-        "track": "music",
-        "category": "Concert",
-        "name": "Minty Boi Presents: Suzy Sheer",
-        "day": "Sat",
-        "date": "2026-11-14",
-        "time": "6–10:30pm",
-        "start": "18:00",
-        "end": "22:30",
-        "area": "Los Angeles, CA",
-        "venue": "1720",
-        "address": "",
-        "why": "For an affordable evening event with a live set on a Saturday night.",
-        "summary": "Minty Boi presents Suzy Sheer in Los Angeles on November 14, 2026; the event runs 6–10:30pm and tickets are $29.",
-        "promoter": "",
-        "price": "$29",
-        "tags": [
-          "live",
-          "ticketed",
-          "evening"
-        ],
-        "sources": [
-          "https://edmtrain.com/los-angeles-ca/minty-boi-presents-suzy-sheer-529897"
-        ],
-        "tickets": [],
-        "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=1720%2C%20Los%20Angeles%2C%20CA",
-          "apple": "https://maps.apple.com/?q=1720%2C%20Los%20Angeles%2C%20CA"
-        },
-        "coords": null,
-        "coords_precise": false,
-        "ra": {},
-        "image": "https://api.party-scout.app/img/los-angeles/2026-11-09/minty-boi-presents-suzy-e64d.jpg",
-        "image_generated": true,
-        "popularity": 0,
-        "enriched": 1,
-        "active": true
-      },
-      {
         "id": "2026-11-09-music-nachturnal-events-presents-dom-c7cd4e",
         "eid": "nachturnal-events-presen-08d0",
         "track": "music",
@@ -6948,134 +5973,6 @@
         "coords_precise": false,
         "ra": {},
         "image": "https://api.party-scout.app/img/los-angeles/2026-11-09/nachturnal-events-presen-08d0.jpg",
-        "image_generated": false,
-        "popularity": 0,
-        "enriched": 1,
-        "active": true
-      },
-      {
-        "id": "2026-11-09-music-observe-24-year-anniversary-ch-15e14a",
-        "eid": "observe-24-year-annivers-6976",
-        "track": "music",
-        "category": "Nightclub",
-        "name": "Observe 24 Year Anniversary // Chris Liebing, Truncate",
-        "day": "Sat",
-        "date": "2026-11-14",
-        "time": "11pm–6am",
-        "start": "23:00",
-        "end": "06:00",
-        "area": "DTLA/Los Angeles",
-        "venue": "TBA",
-        "address": "",
-        "why": "For an extended late-night techno set from veteran DJs.",
-        "summary": "A 24-year anniversary party for Observe featuring techno artists Chris Liebing and Truncate, running 11pm–6am.",
-        "promoter": "",
-        "price": "$35 b4 12 / $52-63",
-        "tags": [
-          "techno",
-          "dj",
-          "21+",
-          "late-night"
-        ],
-        "sources": [
-          {
-            "url": "https://ra.co/events/2515135",
-            "hidden": true
-          }
-        ],
-        "tickets": [
-          "https://ra.co/events/2515135"
-        ],
-        "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=DTLA/Los%20Angeles",
-          "apple": "https://maps.apple.com/?q=DTLA/Los%20Angeles"
-        },
-        "coords": null,
-        "coords_precise": false,
-        "ra": {},
-        "image": "https://api.party-scout.app/img/los-angeles/2026-11-09/observe-24-year-annivers-6976.jpg",
-        "image_generated": false,
-        "popularity": 0,
-        "enriched": 1,
-        "active": true
-      },
-      {
-        "id": "2026-11-09-music-sacro-mestiza-64db20",
-        "eid": "sacro-mestiza-b860",
-        "track": "music",
-        "category": "",
-        "name": "SACRO: MËSTIZA",
-        "day": "Sat",
-        "date": "2026-11-14",
-        "time": "",
-        "start": null,
-        "end": null,
-        "area": "Los Angeles",
-        "venue": "Grand Park",
-        "address": "",
-        "why": "To attend a nightlife event in Los Angeles on that date.",
-        "summary": "SACRO: MËSTIZA is an event scheduled for 2026-11-14 in Los Angeles; venue and lineup details have not been provided.",
-        "promoter": "",
-        "price": "",
-        "tags": [
-          "nightlife",
-          "event"
-        ],
-        "sources": [
-          "https://edmtrain.com/los-angeles-ca/sacro-mestiza-528887"
-        ],
-        "tickets": [],
-        "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=Grand%20Park%2C%20Los%20Angeles%2C%20CA",
-          "apple": "https://maps.apple.com/?q=Grand%20Park%2C%20Los%20Angeles%2C%20CA"
-        },
-        "coords": null,
-        "coords_precise": false,
-        "ra": {},
-        "image": "https://api.party-scout.app/img/los-angeles/2026-11-09/sacro-mestiza-b860.jpg",
-        "image_generated": true,
-        "popularity": 0,
-        "enriched": 1,
-        "active": true
-      },
-      {
-        "id": "2026-11-09-music-sneak-s-birthday-beats-2026-426907",
-        "eid": "sneak-s-birthday-beats-2-e939",
-        "track": "music",
-        "category": "Nightclub",
-        "name": "SNEAK'S BIRTHDAY BEATS 2026",
-        "day": "Sat",
-        "date": "2026-11-14",
-        "time": "4pm–2am",
-        "start": "16:00",
-        "end": "02:00",
-        "area": "Los Angeles",
-        "venue": "TBA - 2341 E Olympic Blvd Los Angeles, CA  90021",
-        "address": "",
-        "why": "For an all-day into late-night celebration with flexible ticket options.",
-        "summary": "A birthday-themed music event on November 14, 2026, running 4pm–2am. Tickets are $30 for one day and $50–$90 for two-day passes.",
-        "promoter": "",
-        "price": "$30 1 day / $50-90 2 days",
-        "tags": [
-          "party",
-          "birthday",
-          "ticketed",
-          "evening"
-        ],
-        "sources": [
-          {
-            "url": "https://ra.co/events/2499458",
-            "hidden": true
-          }
-        ],
-        "tickets": [
-          "https://ra.co/events/2499458"
-        ],
-        "maps": {},
-        "coords": null,
-        "coords_precise": false,
-        "ra": {},
-        "image": "https://api.party-scout.app/img/los-angeles/2026-11-09/sneak-s-birthday-beats-2-e939.jpg",
         "image_generated": false,
         "popularity": 0,
         "enriched": 1,
@@ -7206,97 +6103,6 @@
         "active": true
       },
       {
-        "id": "2026-11-09-music-cut-copy-dfb867",
-        "eid": "cut-copy-1507",
-        "track": "music",
-        "category": "",
-        "name": "Cut Copy",
-        "day": "Sun",
-        "date": "2026-11-15",
-        "time": "5–11:59pm",
-        "start": "17:00",
-        "end": "23:59",
-        "area": "Los Angeles",
-        "venue": "TBA",
-        "address": "",
-        "why": "For a long evening program that runs from late afternoon into midnight.",
-        "summary": "An event called \"Cut Copy\" in Los Angeles on November 15, 2026, running 5–11:59pm.",
-        "promoter": "",
-        "price": "$34-40",
-        "tags": [
-          "music",
-          "evening"
-        ],
-        "sources": [
-          {
-            "url": "https://ra.co/events/2516998",
-            "hidden": true
-          }
-        ],
-        "tickets": [
-          "https://ra.co/events/2516998"
-        ],
-        "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=Los%20Angeles",
-          "apple": "https://maps.apple.com/?q=Los%20Angeles"
-        },
-        "coords": null,
-        "coords_precise": false,
-        "ra": {},
-        "image": "https://api.party-scout.app/img/los-angeles/2026-11-09/cut-copy-1507.jpg",
-        "image_generated": false,
-        "popularity": 0,
-        "enriched": 1,
-        "active": true
-      },
-      {
-        "id": "2026-11-09-music-dekmantel-soundsystem-masha-ma-ddd260",
-        "eid": "dekmantel-soundsystem-ma-a4ea",
-        "track": "music",
-        "category": "Nightclub",
-        "name": "Dekmantel Soundsystem, Masha Mar",
-        "day": "Sun",
-        "date": "2026-11-15",
-        "time": "7pm–2am",
-        "start": "19:00",
-        "end": "02:00",
-        "area": "Los Angeles, CA",
-        "venue": "Bar Franca",
-        "address": "438 S Main St, Los Angeles, CA 90013",
-        "why": "For extended late-night electronic/DJ sets and a downtown dancefloor vibe.",
-        "summary": "Dekmantel Soundsystem and Masha Mar appear in Los Angeles on November 15, 2026, at 438 S Main St; 7pm–2am.",
-        "promoter": "",
-        "price": "free",
-        "tags": [
-          "dj",
-          "electronic",
-          "dance",
-          "nightlife"
-        ],
-        "sources": [
-          {
-            "url": "https://ra.co/events/2551426",
-            "hidden": true
-          },
-          "https://edmtrain.com/los-angeles-ca/dekmantel-soundsystem-masha-mar-542262"
-        ],
-        "tickets": [
-          "https://ra.co/events/2551426"
-        ],
-        "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=Bar%20Franca%2C%20Los%20Angeles%2C%20CA",
-          "apple": "https://maps.apple.com/?q=Bar%20Franca%2C%20Los%20Angeles%2C%20CA"
-        },
-        "coords": null,
-        "coords_precise": false,
-        "ra": {},
-        "image": "https://api.party-scout.app/img/los-angeles/2026-11-09/dekmantel-soundsystem-ma-a4ea.jpg",
-        "image_generated": false,
-        "popularity": 0,
-        "enriched": 1,
-        "active": true
-      },
-      {
         "id": "2026-11-09-music-suduwoodu-torrance-foggy-ray-o-a21be7",
         "eid": "suduwoodu-torrance-foggy-726a",
         "track": "music",
@@ -7333,50 +6139,6 @@
         "coords_precise": false,
         "ra": {},
         "image": "https://api.party-scout.app/img/los-angeles/2026-11-09/suduwoodu-torrance-foggy-726a.jpg",
-        "image_generated": false,
-        "popularity": 0,
-        "enriched": 1,
-        "active": true
-      },
-      {
-        "id": "2026-11-09-music-sunday-sessions-la-vinyl-only-066e5d",
-        "eid": "sunday-sessions-la-vinyl-d7dd",
-        "track": "music",
-        "category": "Nightclub",
-        "name": "Sunday Sessions LA (Vinyl Only) Open Air",
-        "day": "Sun",
-        "date": "2026-11-15",
-        "time": "6pm–12am",
-        "start": "18:00",
-        "end": "00:00",
-        "area": "Los Angeles",
-        "venue": "TBA",
-        "address": "",
-        "why": "For a laid-back outdoor evening of vinyl DJ sets and social vibes.",
-        "summary": "An open-air, vinyl-only DJ night in Los Angeles on November 15, 2026, running 6pm–12am with admission listed from free to $35.",
-        "promoter": "",
-        "price": "Free–$35",
-        "tags": [
-          "vinyl",
-          "outdoor",
-          "dj",
-          "free",
-          "ticketed"
-        ],
-        "sources": [
-          {
-            "url": "https://ra.co/events/2543415",
-            "hidden": true
-          }
-        ],
-        "tickets": [
-          "https://ra.co/events/2543415"
-        ],
-        "maps": {},
-        "coords": null,
-        "coords_precise": false,
-        "ra": {},
-        "image": "https://api.party-scout.app/img/los-angeles/2026-11-09/sunday-sessions-la-vinyl-d7dd.jpg",
         "image_generated": false,
         "popularity": 0,
         "enriched": 1,
@@ -7810,53 +6572,6 @@
         "active": true
       },
       {
-        "id": "2026-11-09-sports-best-saturday-pickup-max-9-x-9-fe5fc4",
-        "eid": "best-saturday-pickup-max-e243",
-        "track": "sports",
-        "category": "Sports",
-        "name": "Best Saturday Pickup max 9 x 9- Playa Vista- Big Goals, Goalies",
-        "day": "Sat",
-        "date": "2026-11-14",
-        "time": "08:30",
-        "start": "08:30",
-        "end": null,
-        "area": "Los Angeles",
-        "venue": "Playa Vista Bluff Creek Soccer Field, 12702 W. Bluff Creek Dr.   90094",
-        "address": "12702 W. Bluff Creek Dr.   90094, Los Angeles, CA",
-        "why": "A friendly, well-run weekly pickup game on a proper turf field with real goals and keepers — an easy way to get a competitive run in and meet local players.",
-        "summary": "Saturday morning pickup soccer on turf at the Playa Vista Bluff Creek field, 9v9 with big goals and goalies. Warm-up starts at 8:30 and the game kicks off about 30 minutes later.",
-        "promoter": "",
-        "price": "",
-        "tags": [
-          "sports",
-          "soccer",
-          "outdoor",
-          "pickup",
-          "outdoors",
-          "playa-vista"
-        ],
-        "sources": [
-          {
-            "url": "https://www.meetup.com",
-            "hidden": true
-          },
-          "https://www.meetup.com/playa-vista-pickup/events/317132160/"
-        ],
-        "tickets": [],
-        "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=Playa%20Vista%20Bluff%20Creek%20Soccer%20Field%2C%2012702%20W.%20Bluff%20Creek%20Dr.%20%20%2090094%2C%20Los%20Angeles",
-          "apple": "https://maps.apple.com/?q=Playa%20Vista%20Bluff%20Creek%20Soccer%20Field%2C%2012702%20W.%20Bluff%20Creek%20Dr.%20%20%2090094%2C%20Los%20Angeles"
-        },
-        "coords": null,
-        "coords_precise": false,
-        "ra": {},
-        "image": "https://secure-content.meetupstatic.com/images/classic-events/535869022/676x676.jpg",
-        "image_generated": false,
-        "popularity": 0,
-        "enriched": 1,
-        "active": true
-      },
-      {
         "id": "2026-11-09-sports-best-saturday-pickup-max-9-x-9-2c5254",
         "eid": "best-saturday-pickup-max-bbf3",
         "track": "sports",
@@ -7880,14 +6595,17 @@
           "outdoor",
           "turf",
           "playa-vista",
-          "co-ed"
+          "co-ed",
+          "sports",
+          "outdoors"
         ],
         "sources": [
           {
             "url": "https://www.meetup.com",
             "hidden": true
           },
-          "https://www.meetup.com/playa-vista-soccer-pickup/events/317132150/"
+          "https://www.meetup.com/playa-vista-soccer-pickup/events/317132150/",
+          "https://www.meetup.com/playa-vista-pickup/events/317132160/"
         ],
         "tickets": [
           "https://www.meetup.com/playa-vista-soccer-pickup/events/317132150/"
