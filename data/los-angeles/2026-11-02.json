@@ -5804,25 +5804,31 @@
         "id": "2026-11-02-music-nightshift-after-hours-bd6d25",
         "eid": "nightshift-after-hours-1fc4",
         "track": "music",
-        "category": "",
+        "category": "Nightclub",
         "name": "NIGHTSHIFT AFTER HOURS",
         "day": "Mon",
         "date": "2026-11-02",
         "time": "23:00",
-        "start": null,
-        "end": null,
-        "area": "",
+        "start": "23:00",
+        "end": "05:00",
+        "area": "Los Angeles",
         "venue": "The Lexington",
         "address": "129 E. 3rd St, Los Angeles, Ca, 90013",
-        "why": "",
-        "summary": "",
+        "why": "For late-night music and dancing to keep the night going.",
+        "summary": "An after-hours event called NIGHTSHIFT AFTER HOURS in Los Angeles on November 2, 2026; venue, time and lineup are not provided.",
         "promoter": "",
         "price": "0",
-        "tags": [],
+        "tags": [
+          "dj",
+          "21+",
+          "late-night"
+        ],
         "sources": [
           "https://ra.co/events/2571234"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://ra.co/events/2571234"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=129%20E.%203rd%20St%2C%20Los%20Angeles%2C%20Ca%2C%2090013",
           "apple": "https://maps.apple.com/?q=129%20E.%203rd%20St%2C%20Los%20Angeles%2C%20Ca%2C%2090013"
@@ -5833,7 +5839,7 @@
         "image": "https://images.ra.co/010c217d12dfeaa14568bc5827de03f582212d35.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
@@ -7407,21 +7413,26 @@
         "id": "2026-11-02-sports-griffith-park-semi-beginner-hi-98b055",
         "eid": "griffith-park-semi-begin-6b93",
         "track": "sports",
-        "category": "",
+        "category": "Sports",
         "name": "Griffith Park Semi Beginner Hike @ Merry Go Round Lot",
         "day": "Tue",
         "date": "2026-11-03",
         "time": "18:30",
-        "start": null,
-        "end": null,
-        "area": "",
+        "start": "18:30",
+        "end": "20:30",
+        "area": "Los Angeles",
         "venue": "Griffith Park Merry Go Round Lot 2, Merry Go Round Lot Two",
         "address": "Merry Go Round Lot Two, LOS ANGELES, CA",
-        "why": "",
-        "summary": "",
+        "why": "For a moderate outdoor workout and scenic trail views in Griffith Park.",
+        "summary": "A semi-beginner group hike in Griffith Park meeting at the Merry-Go-Round Lot on 2026-11-03.",
         "promoter": "",
         "price": "",
-        "tags": [],
+        "tags": [
+          "outdoor",
+          "hike",
+          "fitness",
+          "beginner-friendly"
+        ],
         "sources": [
           "https://www.meetup.com/los-angeles-hiking-group/events/317179991/"
         ],
@@ -7436,7 +7447,7 @@
         "image": "https://secure-content.meetupstatic.com/images/classic-events/482814243/676x676.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
