@@ -5743,10 +5743,7 @@
           {
             "url": "https://edmtrain.com/los-angeles-ca",
             "hidden": true
-          },
-          "https://ra.co/events/2497172",
-          "https://www.ticketmaster.com/event/090064C3CC0645B7",
-          "https://ra.co/events/2502148"
+          }
         ],
         "tickets": [
           "https://ra.co/events/2497172",
@@ -5759,31 +5756,34 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "https://api.party-scout.app/img/los-angeles/2026-11-09/bonobo-1faf.jpg",
-        "image_generated": true,
+        "image": "https://api.party-scout.app/img/los-angeles/2026-11-09/kcrw-presents-bonobo-dis-ab7d.jpg",
+        "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
         "id": "2026-11-09-music-charliee-g-l-e-p-jmz-f7a0e5",
         "eid": "charliee-g-l-e-p-jmz-aab6",
         "track": "music",
-        "category": "",
+        "category": "Concert",
         "name": "CHARLIEE, G L'e P, JMZ",
         "day": "Thu",
         "date": "2026-11-12",
         "time": "",
         "start": null,
         "end": null,
-        "area": "Los Angeles, CA",
+        "area": "Los Angeles",
         "venue": "7627 Sunset Boulevard",
         "address": "",
-        "why": "",
-        "summary": "",
+        "why": "To catch multiple live performances in one evening.",
+        "summary": "An event in Los Angeles on 2026-11-12 featuring CHARLIEE, G L'e P, and JMZ.",
         "promoter": "",
         "price": "",
-        "tags": [],
+        "tags": [
+          "live",
+          "concert"
+        ],
         "sources": [
           "https://edmtrain.com/los-angeles-ca/charliee-g-le-p-549043"
         ],
@@ -5798,7 +5798,7 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
@@ -5855,9 +5855,7 @@
             "url": "https://ra.co/events/us/losangeles",
             "hidden": true
           },
-          "https://edmtrain.com/tours/bonobo-125",
-          "https://ra.co/events/2497174",
-          "https://www.ticketmaster.com/event/090064C3CC0A45C4"
+          "https://edmtrain.com/tours/bonobo-125"
         ],
         "tickets": [
           "https://ra.co/events/2497174"
@@ -5869,38 +5867,43 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "https://api.party-scout.app/img/los-angeles/2026-11-09/bonobo-b0fb.jpg",
-        "image_generated": true,
+        "image": "https://api.party-scout.app/img/los-angeles/2026-11-09/kcrw-presents-bonobo-dis-1fbc.jpg",
+        "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
         "id": "2026-11-09-music-sina-bathaie-d18021",
         "eid": "sina-bathaie-fbba",
         "track": "music",
-        "category": "",
+        "category": "Concert",
         "name": "Sina Bathaie",
         "day": "Thu",
         "date": "2026-11-12",
-        "time": "",
+        "time": "7:30–10pm",
         "start": "19:30",
-        "end": null,
+        "end": "22:00",
         "area": "Hollywood/Los Angeles",
         "venue": "The Vermont",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "1020 N Vermont Ave, Los Angeles, CA 90029, United States",
+        "why": "To catch an evening live performance in a Hollywood neighborhood venue.",
+        "summary": "Sina Bathaie performs at 1020 N Vermont Ave in Los Angeles on November 12, 2026, from 7:30–10pm.",
         "promoter": "",
         "price": "$89+",
-        "tags": [],
+        "tags": [
+          "live",
+          "indoor"
+        ],
         "sources": [
           {
             "url": "https://ra.co/events/2514122",
             "hidden": true
           }
         ],
-        "tickets": [],
+        "tickets": [
+          "https://ra.co/events/2514122"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=The%20Vermont%2C%20Hollywood/Los%20Angeles",
           "apple": "https://maps.apple.com/?q=The%20Vermont%2C%20Hollywood/Los%20Angeles"
@@ -5908,38 +5911,45 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/los-angeles/2026-11-09/sina-bathaie-fbba.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
         "id": "2026-11-09-music-surface-diy-w-adam-rose-michae-3e35cc",
         "eid": "surface-diy-w-adam-rose-5a0d",
         "track": "music",
-        "category": "",
+        "category": "Nightclub",
         "name": "Surface Diy w/ Adam Rose, Michael Fam, Capes",
         "day": "Thu",
         "date": "2026-11-12",
-        "time": "",
+        "time": "10pm–4am",
         "start": "22:00",
-        "end": null,
+        "end": "04:00",
         "area": "Los Angeles",
         "venue": "Better Tomorrow",
         "address": "",
-        "why": "",
-        "summary": "",
+        "why": "For long, late-night DJ sets and underground dance-floor energy.",
+        "summary": "A late-night DIY party in Los Angeles on November 12, 2026, running 10pm–4am and featuring Adam Rose, Michael Fam, and Capes.",
         "promoter": "",
         "price": "$11 pre",
-        "tags": [],
+        "tags": [
+          "dj",
+          "party",
+          "late-night",
+          "underground"
+        ],
         "sources": [
           {
             "url": "https://ra.co/events/2548082",
             "hidden": true
           }
         ],
-        "tickets": [],
+        "tickets": [
+          "https://ra.co/events/2548082"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Better%20Tomorrow%2C%20Los%20Angeles",
           "apple": "https://maps.apple.com/?q=Better%20Tomorrow%2C%20Los%20Angeles"
@@ -5947,31 +5957,35 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/los-angeles/2026-11-09/surface-diy-w-adam-rose-5a0d.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
         "id": "2026-11-09-music-240-km-h-adrian-mills-2high-se-1609a3",
         "eid": "240-km-h-adrian-mills-2h-78f7",
         "track": "music",
-        "category": "",
+        "category": "Nightclub",
         "name": "240 Km/H: Adrian Mills, 2high, Serafina, zwilling",
         "day": "Fri",
         "date": "2026-11-13",
-        "time": "",
+        "time": "9pm–2am",
         "start": "21:00",
-        "end": null,
+        "end": "02:00",
         "area": "Los Angeles",
         "venue": "Ace*Mission Studios",
         "address": "",
-        "why": "",
-        "summary": "",
+        "why": "To catch multiple acts across a single late-night set.",
+        "summary": "A late-night Los Angeles event on 2026-11-13 (9pm–2am) titled \"240 Km/H\" featuring Adrian Mills, 2high, Serafina, and zwilling.",
         "promoter": "",
         "price": "",
-        "tags": [],
+        "tags": [
+          "dj",
+          "late-night",
+          "dance"
+        ],
         "sources": [
           "https://www.thefactory93.com/event/240-km-h-presents-adrian-mills-all-night-long-2026-11-13-los-angeles-ca/"
         ],
@@ -5983,10 +5997,10 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/los-angeles/2026-11-09/240-km-h-adrian-mills-2h-78f7.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
