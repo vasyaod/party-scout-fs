@@ -6018,20 +6018,25 @@
         "day": "Fri",
         "date": "2026-11-06",
         "time": "19:00",
-        "start": null,
-        "end": null,
-        "area": "",
+        "start": "19:00",
+        "end": "23:00",
+        "area": "Los Angeles",
         "venue": "Wönzimer",
         "address": "341-B South Avenue 17, Los Angeles, California 90031",
         "why": "",
-        "summary": "",
+        "summary": "An event titled \"CAPYAC x Ness Nite\" scheduled for 2026-11-06 in Los Angeles.",
         "promoter": "",
         "price": "0",
-        "tags": [],
+        "tags": [
+          "live",
+          "dj"
+        ],
         "sources": [
           "https://ra.co/events/2573036"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://ra.co/events/2573036"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=341-B%20South%20Avenue%2017%2C%20Los%20Angeles%2C%20California%2090031",
           "apple": "https://maps.apple.com/?q=341-B%20South%20Avenue%2017%2C%20Los%20Angeles%2C%20California%2090031"
@@ -6042,7 +6047,7 @@
         "image": "https://images.ra.co/f3dff0fedaf9fa5e4a607c6e9b7c79258ac74833.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
@@ -6054,20 +6059,25 @@
         "day": "Fri",
         "date": "2026-11-06",
         "time": "23:00",
-        "start": null,
-        "end": null,
-        "area": "",
+        "start": "23:00",
+        "end": "06:00",
+        "area": "Los Angeles",
         "venue": "TBA",
         "address": "",
-        "why": "",
-        "summary": "",
+        "why": "To attend a one-night party in Los Angeles.",
+        "summary": "EXTRA SENSORY X VICE is an event scheduled in Los Angeles on November 6, 2026.",
         "promoter": "",
         "price": "40",
-        "tags": [],
+        "tags": [
+          "party",
+          "nightlife"
+        ],
         "sources": [
           "https://ra.co/events/2570180"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://ra.co/events/2570180"
+        ],
         "maps": {},
         "coords": null,
         "coords_precise": false,
@@ -6075,7 +6085,7 @@
         "image": "https://images.ra.co/d3fbcdda4f5fe912e8cd54ac0dc3959247c4c4e6.png",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true,
         "lineup": [
           {
@@ -6096,25 +6106,31 @@
         "id": "2026-11-02-music-grace-bones-presents-house-of-2b6169",
         "eid": "grace-bones-presents-hou-3cec",
         "track": "music",
-        "category": "",
+        "category": "Nightclub",
         "name": "Grace Bones presents House of Chic",
         "day": "Fri",
         "date": "2026-11-06",
         "time": "17:00",
-        "start": null,
-        "end": null,
-        "area": "",
+        "start": "17:00",
+        "end": "18:00",
+        "area": "Los Angeles",
         "venue": "TBA - Select FM London",
         "address": "",
         "why": "",
         "summary": "",
         "promoter": "",
         "price": "0",
-        "tags": [],
+        "tags": [
+          "house",
+          "dj",
+          "nightlife"
+        ],
         "sources": [
           "https://ra.co/events/2573275"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://ra.co/events/2573275"
+        ],
         "maps": {},
         "coords": null,
         "coords_precise": false,
@@ -6122,7 +6138,7 @@
         "image": "https://images.ra.co/fd8a8f4d07268fa772a274d99f9a450e281ab066.png",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true,
         "lineup": [
           {
@@ -6139,25 +6155,38 @@
         "id": "2026-11-02-music-nia-archives-live-03b25a",
         "eid": "nia-archives-live-829e",
         "track": "music",
-        "category": "",
+        "category": "Concert",
         "name": "Nia Archives (Live)",
         "day": "Fri",
         "date": "2026-11-06",
         "time": "23:00",
-        "start": null,
-        "end": null,
-        "area": "",
+        "start": "23:00",
+        "end": "06:00",
+        "area": "Hollywood",
         "venue": "Fonda Theatre",
         "address": "6126 Hollywood Blvd, Hollywood, CA 90028",
-        "why": "",
-        "summary": "",
-        "promoter": "",
+        "why": "The UK jungle breakout in a live set at one of LA's best mid-size rooms.",
+        "summary": "Nia Archives brings her live jungle and drum and bass show to the Fonda Theatre in Hollywood, with Bambii on the bill. A Goldenvoice night, listed as all ages.",
+        "promoter": "Goldenvoice",
         "price": "",
-        "tags": [],
+        "tags": [
+          "electronic",
+          "live",
+          "dj",
+          "jungle",
+          "drum and bass",
+          "all ages"
+        ],
         "sources": [
+          "https://ra.co/events/2533808",
+          {
+            "url": "https://19hz.info/eventlisting_LosAngeles.php",
+            "hidden": true
+          }
+        ],
+        "tickets": [
           "https://ra.co/events/2533808"
         ],
-        "tickets": [],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=6126%20Hollywood%20Blvd%2C%20Hollywood%2C%20CA%2090028",
           "apple": "https://maps.apple.com/?q=6126%20Hollywood%20Blvd%2C%20Hollywood%2C%20CA%2090028"
@@ -6165,10 +6194,10 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "https://images.ra.co/240878b885393af31ef678c164a07f7943867fbf.jpg",
+        "image": "https://api.party-scout.app/img/los-angeles/2026-11-02/nia-archives-live-829e.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true,
         "lineup": [
           {
@@ -6185,25 +6214,32 @@
         "id": "2026-11-02-music-nightshift-after-hours-ff21b8",
         "eid": "nightshift-after-hours-5b55",
         "track": "music",
-        "category": "",
+        "category": "Nightclub",
         "name": "NIGHTSHIFT AFTER HOURS",
         "day": "Fri",
         "date": "2026-11-06",
         "time": "23:00",
-        "start": null,
-        "end": null,
-        "area": "",
+        "start": "23:00",
+        "end": "05:00",
+        "area": "Los Angeles",
         "venue": "The Lexington",
         "address": "129 E. 3rd St, Los Angeles, Ca, 90013",
-        "why": "",
-        "summary": "",
+        "why": "For late-night dancing and a party atmosphere.",
+        "summary": "An after-hours party scheduled for November 6, 2026 in Los Angeles.",
         "promoter": "",
         "price": "0",
-        "tags": [],
+        "tags": [
+          "dj",
+          "21+",
+          "late-night",
+          "party"
+        ],
         "sources": [
           "https://ra.co/events/2571247"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://ra.co/events/2571247"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=129%20E.%203rd%20St%2C%20Los%20Angeles%2C%20Ca%2C%2090013",
           "apple": "https://maps.apple.com/?q=129%20E.%203rd%20St%2C%20Los%20Angeles%2C%20Ca%2C%2090013"
@@ -6214,32 +6250,37 @@
         "image": "https://images.ra.co/5650203636ecb40a212b23c2484f2677bb580f8a.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
         "id": "2026-11-02-music-tenhouse-presents-physical-47a4e7",
         "eid": "tenhouse-presents-physic-5b37",
         "track": "music",
-        "category": "",
+        "category": "Nightclub",
         "name": "Tenhouse presents: Physical",
         "day": "Fri",
         "date": "2026-11-06",
         "time": "21:00",
-        "start": null,
-        "end": null,
-        "area": "",
+        "start": "21:00",
+        "end": "03:00",
+        "area": "Los Angeles",
         "venue": "TBA - DTLA",
         "address": "",
-        "why": "",
-        "summary": "",
+        "why": "For a night out in Los Angeles.",
+        "summary": "An event titled \"Tenhouse presents: Physical\" is scheduled for 2026-11-06 in Los Angeles; venue, time, and lineup are not listed.",
         "promoter": "",
         "price": "0",
-        "tags": [],
+        "tags": [
+          "party",
+          "nightlife"
+        ],
         "sources": [
           "https://ra.co/events/2570166"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://ra.co/events/2570166"
+        ],
         "maps": {},
         "coords": null,
         "coords_precise": false,
@@ -6247,7 +6288,7 @@
         "image": "https://images.ra.co/a21bdac333e36c866ca136ad54bc0ba8b395fddf.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true,
         "lineup": [
           {
@@ -6276,25 +6317,32 @@
         "id": "2026-11-02-music-dance-dance-myspace-vs-emo-nig-7c8af6",
         "eid": "dance-dance-myspace-vs-e-2913",
         "track": "music",
-        "category": "",
+        "category": "Nightclub",
         "name": "DANCE, DANCE: MySpace vs Emo Night",
         "day": "Sat",
         "date": "2026-11-07",
         "time": "21:00",
-        "start": null,
-        "end": null,
-        "area": "",
+        "start": "21:00",
+        "end": "02:00",
+        "area": "Los Angeles",
         "venue": "The Compound by Dirt Dog",
         "address": "2909 Supply Ave, Commerce, CA 90040, USA",
-        "why": "",
-        "summary": "",
+        "why": "To dance to nostalgic early-2000s emo and pop-punk favorites.",
+        "summary": "A themed dance night titled \"DANCE, DANCE: MySpace vs Emo Night\" taking place in Los Angeles on November 7, 2026.",
         "promoter": "",
         "price": "25",
-        "tags": [],
+        "tags": [
+          "emo",
+          "pop-punk",
+          "dj",
+          "dance"
+        ],
         "sources": [
           "https://ra.co/events/2570444"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://ra.co/events/2570444"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=2909%20Supply%20Ave%2C%20Commerce%2C%20CA%2090040%2C%20USA",
           "apple": "https://maps.apple.com/?q=2909%20Supply%20Ave%2C%20Commerce%2C%20CA%2090040%2C%20USA"
@@ -6305,7 +6353,7 @@
         "image": "https://images.ra.co/8cfb154bfbc5e0a474674a5aa7b8e1691c368212.png",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
