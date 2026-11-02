@@ -2611,25 +2611,35 @@
         "id": "2026-11-23-music-hook-in-concert-3ef18b",
         "eid": "hook-in-concert-22c0",
         "track": "music",
-        "category": "",
+        "category": "Concert",
         "name": "Hook in Concert",
         "day": "Sat",
         "date": "2026-11-28",
         "time": "14:00",
-        "start": null,
+        "start": "14:00",
         "end": null,
-        "area": "San Francisco",
+        "area": "Civic Center",
         "venue": "Davies Symphony Hall",
         "address": "Grove Street &amp; Van Ness Avenue, San Francisco, CA 94102",
-        "why": "",
-        "summary": "",
+        "why": "A rare chance to hear Williams' swashbuckling Neverland score performed live by a full orchestra — a family-friendly holiday-weekend outing.",
+        "summary": "The San Francisco Symphony plays John Williams' full score live while Spielberg's Hook (1991) screens at Davies Symphony Hall. Matinee at 2pm; a second show runs Nov 27.",
         "promoter": "",
         "price": "",
-        "tags": [],
-        "sources": [
-          "https://dothebay.com/events/2026/11/28/hook-tickets"
+        "tags": [
+          "live",
+          "music",
+          "film-with-orchestra",
+          "symphony",
+          "family",
+          "matinee"
         ],
-        "tickets": [],
+        "sources": [
+          "https://dothebay.com/events/2026/11/28/hook-tickets",
+          "https://www.sfsymphony.org/Buy-Tickets/2026-27/Hook"
+        ],
+        "tickets": [
+          "https://www.sfsymphony.org/Buy-Tickets/2026-27/Hook"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Grove%20Street%20%26amp%3B%20Van%20Ness%20Avenue%2C%20San%20Francisco%2C%20CA%2094102",
           "apple": "https://maps.apple.com/?q=Grove%20Street%20%26amp%3B%20Van%20Ness%20Avenue%2C%20San%20Francisco%2C%20CA%2094102"
@@ -2640,30 +2650,36 @@
         "image": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/31307886/3659925c-8445-4e50-8479-c9f4d96f548a.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
         "id": "2026-11-23-music-italo-disco-w-djs-fiat-panda-p-af6651",
         "eid": "italo-disco-w-djs-fiat-p-309f",
         "track": "music",
-        "category": "",
+        "category": "Nightclub",
         "name": "Italo Disco w/ DJs Fiat Panda, Petre, Big Wink",
         "day": "Sat",
         "date": "2026-11-28",
         "time": "21:00",
-        "start": null,
-        "end": null,
+        "start": "21:00",
+        "end": "01:00",
         "area": "Oakland",
         "venue": "Thee Stork Club",
         "address": "2330 Telegraph Ave, Oakland, CA 94612",
-        "why": "",
-        "summary": "",
+        "why": "For high-energy, retro electronic dancefloor grooves.",
+        "summary": "Italo disco night on 2026-11-28 featuring DJs Fiat Panda, Petre, and Big Wink.",
         "promoter": "",
         "price": "$12.38",
-        "tags": [],
+        "tags": [
+          "dj",
+          "disco",
+          "italo",
+          "dance"
+        ],
         "sources": [
-          "https://wl.eventim.us/event/italo-disco-w-djs-fiat-panda-petre-big-wink-1128/705616?afflky=TheeStorkClub&nts_trk=d4ed15f5-9cee-427f-9e3d-3f1a0603fb21"
+          "https://wl.eventim.us/event/italo-disco-w-djs-fiat-panda-petre-big-wink-1128/705616?afflky=TheeStorkClub&nts_trk=d4ed15f5-9cee-427f-9e3d-3f1a0603fb21",
+          "https://dothebay.com/events/2026/11/28/italo-disco-w-djs-fiat-panda-petre-big-wink-11-28-tickets"
         ],
         "tickets": [],
         "maps": {
@@ -2676,28 +2692,36 @@
         "image": "https://prod-images.seetickets.us/eyJidWNrZXQiOiJwcm9kLXNpaC5zZWV0aWNrZXRzdXNhLnVzIiwia2V5IjoiY2RiY2JlMjgtZjI5YS00NTZjLWI4NDQtYTE2ZDMyNmRiZjY1IiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjozNjUsImhlaWdodCI6MzY1fX19",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
         "id": "2026-11-23-music-jackie-greene-e2c16e",
         "eid": "jackie-greene-6a99",
         "track": "music",
-        "category": "",
+        "category": "Concert",
         "name": "Jackie Greene",
         "day": "Sat",
         "date": "2026-11-28",
         "time": "20:00",
-        "start": null,
+        "start": "20:00",
         "end": null,
-        "area": "San Francisco",
+        "area": "Western Addition",
         "venue": "The Fillmore",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "1805 Geary Boulevard, San Francisco, CA 94115",
+        "why": "A hometown-feel roots-rock set in one of San Francisco's most storied rooms.",
+        "summary": "Bay Area singer-songwriter Jackie Greene plays The Fillmore on Saturday night, blending blues, folk and rock with a seasoned guitar-and-keys touch.",
         "promoter": "",
         "price": "",
-        "tags": [],
+        "tags": [
+          "live",
+          "music",
+          "americana",
+          "live-music",
+          "rock",
+          "blues",
+          "fillmore"
+        ],
         "sources": [
           "https://dothebay.com/events/2026/11/28/jackie-greene-tickets"
         ],
@@ -2710,9 +2734,9 @@
         "coords_precise": false,
         "ra": {},
         "image": "https://api.party-scout.app/img/san-francisco/2026-11-23/jackie-greene-6a99.jpg",
-        "image_generated": true,
+        "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
