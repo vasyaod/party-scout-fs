@@ -1586,16 +1586,20 @@
         "time": "20:00",
         "start": "20:00",
         "end": "02:00",
-        "area": "Los Angeles",
+        "area": "DTLA",
         "venue": "The Redwood Bar And Grill",
         "address": "316 W. 2nd Street, Los Angeles, CA  90012",
-        "why": "For an evening out in Los Angeles on November 25, 2026.",
-        "summary": "An event titled \"Sylvia Black\" is scheduled in Los Angeles on November 25, 2026; venue, time, and lineup details are not provided.",
+        "why": "A midweek live set from a local post-punk and goth-leaning act in a long-running downtown dive bar.",
+        "summary": "Sylvia Black, an LA producer, singer and bassist working in post-punk and goth-romantic territory, plays The Redwood Bar and Grill in downtown LA on a Wednesday night.",
         "promoter": "",
         "price": "",
         "tags": [
           "live",
-          "nightlife"
+          "nightlife",
+          "post-punk",
+          "goth",
+          "dive-bar",
+          "DTLA"
         ],
         "sources": [
           "https://ra.co/events/2564275"
@@ -1625,16 +1629,19 @@
         "day": "Fri",
         "date": "2026-11-27",
         "time": "21:00",
-        "start": null,
-        "end": null,
+        "start": "21:00",
+        "end": "02:00",
         "area": "Los Angeles",
         "venue": "Camille's At The Bellwether",
         "address": "",
-        "why": "",
-        "summary": "",
+        "why": "For a mid-priced night out in Los Angeles.",
+        "summary": "Black House Radio is scheduled for November 27, 2026 in Los Angeles. Tickets are listed at $24–$30.",
         "promoter": "",
-        "price": "",
-        "tags": [],
+        "price": "$24–$30",
+        "tags": [
+          "ticketed",
+          "nightlife"
+        ],
         "sources": [
           "https://www.ticketweb.com/event/id/14391564"
         ],
@@ -1649,7 +1656,7 @@
         "image": "https://api.party-scout.app/img/los-angeles/2026-11-23/black-house-radio-34a2.jpg",
         "image_generated": true,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
@@ -2410,21 +2417,33 @@
         "name": "Hope the Mission - Drumstick Dash LA",
         "day": "Thu",
         "date": "2026-11-26",
-        "time": "",
-        "start": null,
+        "time": "8:00 AM",
+        "start": "08:00",
         "end": null,
-        "area": "Los Angeles",
+        "area": "North Hollywood",
         "venue": "Los Angeles",
         "address": "",
-        "why": "",
-        "summary": "",
-        "promoter": "",
+        "why": "A high-energy Thanksgiving-morning run for families and serious runners alike, and every step supports Hope the Mission's meals for people experiencing homelessness.",
+        "summary": "LA's largest Thanksgiving 5K/10K, run through the NoHo Arts District with DJs, freebies, a costume contest, a race T-shirt and a finisher medal. Proceeds fund hot meals and shelter through Hope the Mission.",
+        "promoter": "Hope the Mission",
         "price": "",
-        "tags": [],
-        "sources": [
-          "https://www.runguides.com/event/26816/hope-the-mission-drumstick-dash-la"
+        "tags": [
+          "event",
+          "community",
+          "5k",
+          "10k",
+          "thanksgiving",
+          "charity",
+          "family-friendly"
         ],
-        "tickets": [],
+        "sources": [
+          "https://www.runguides.com/event/26816/hope-the-mission-drumstick-dash-la",
+          "https://raceroster.com/events/2026/112565/2026-hope-the-mission-drumstick-dash-la",
+          "https://drumstickdashla.com"
+        ],
+        "tickets": [
+          "https://raceroster.com/events/2026/112565/2026-hope-the-mission-drumstick-dash-la"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Los%20Angeles%2C%20Los%20Angeles",
           "apple": "https://maps.apple.com/?q=Los%20Angeles%2C%20Los%20Angeles"
@@ -2435,28 +2454,36 @@
         "image": "https://api.party-scout.app/img/los-angeles/2026-11-23/hope-the-mission-drumsti-fc3e.jpg",
         "image_generated": true,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
         "id": "2026-11-23-sports-socaltrail-la-turkey-trail-c3bbed",
         "eid": "socaltrail-la-turkey-tra-1cc0",
         "track": "sports",
-        "category": "",
+        "category": "Trail race",
         "name": "SoCalTrail LA Turkey Trail",
         "day": "Thu",
         "date": "2026-11-26",
         "time": "",
         "start": null,
         "end": null,
-        "area": "Los Angeles",
+        "area": "Santa Monica Mountains",
         "venue": "Los Angeles",
         "address": "",
-        "why": "",
-        "summary": "",
-        "promoter": "",
+        "why": "LA's only trail race on Thanksgiving morning — earn the feast with ocean views.",
+        "summary": "Thanksgiving-morning trail race through the Santa Monica Mountains with 5K, 10K and half-marathon options on fire roads and singletrack with ocean views. The half offers a winner-takes-all cash prize.",
+        "promoter": "SoCalTrail",
         "price": "",
-        "tags": [],
+        "tags": [
+          "holiday",
+          "community",
+          "trail-run",
+          "thanksgiving",
+          "5k",
+          "10k",
+          "half-marathon"
+        ],
         "sources": [
           "https://www.runguides.com/event/33828/socaltrail-la-turkey-trail"
         ],
@@ -2469,30 +2496,34 @@
         "coords_precise": false,
         "ra": {},
         "image": "https://api.party-scout.app/img/los-angeles/2026-11-23/socaltrail-la-turkey-tra-1cc0.jpg",
-        "image_generated": true,
+        "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
         "id": "2026-11-23-sports-turkey-trot-los-angeles-f238f0",
         "eid": "turkey-trot-los-angeles-ef36",
         "track": "sports",
-        "category": "",
+        "category": "Sports",
         "name": "Turkey Trot Los Angeles",
         "day": "Thu",
         "date": "2026-11-26",
-        "time": "",
+        "time": "8:00 AM–12:00 PM",
         "start": null,
         "end": null,
-        "area": "Los Angeles",
+        "area": "DTLA",
         "venue": "Los Angeles",
         "address": "",
-        "why": "",
-        "summary": "",
+        "why": "Take part in a seasonal community gathering.",
+        "summary": "A community event titled \"Turkey Trot Los Angeles\" scheduled for November 26, 2026 in Los Angeles.",
         "promoter": "",
         "price": "",
-        "tags": [],
+        "tags": [
+          "community",
+          "holiday",
+          "outdoor"
+        ],
         "sources": [
           "https://www.runguides.com/event/2930/turkey-trot-los-angeles"
         ],
@@ -2505,9 +2536,9 @@
         "coords_precise": false,
         "ra": {},
         "image": "https://api.party-scout.app/img/los-angeles/2026-11-23/turkey-trot-los-angeles-ef36.jpg",
-        "image_generated": true,
+        "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
