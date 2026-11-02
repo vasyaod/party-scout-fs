@@ -2748,18 +2748,23 @@
         "day": "Sat",
         "date": "2026-11-28",
         "time": "19:30",
-        "start": null,
+        "start": "19:30",
         "end": null,
         "area": "San Francisco",
         "venue": "Chase Center",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "300 South Street, San Francisco, CA 94158",
+        "why": "To check out an event taking place on South Street in San Francisco.",
+        "summary": "JOURNEY is scheduled for 2026-11-28 at 300 South Street in San Francisco (94158). No time, lineup, or ticket information was provided.",
         "promoter": "",
-        "price": "",
-        "tags": [],
+        "price": "From ~$73 (resale listings)",
+        "tags": [
+          "nightlife",
+          "event",
+          "san-francisco"
+        ],
         "sources": [
-          "https://dothebay.com/events/2026/11/28/journey-final-frontier-tour-an-evening-with-tickets"
+          "https://dothebay.com/events/2026/11/28/journey-final-frontier-tour-an-evening-with-tickets",
+          "https://www.stereoboard.com/journey-tickets/san-francisco"
         ],
         "tickets": [],
         "maps": {
@@ -2770,30 +2775,35 @@
         "coords_precise": false,
         "ra": {},
         "image": "https://api.party-scout.app/img/san-francisco/2026-11-23/journey-f4d3.jpg",
-        "image_generated": true,
+        "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
         "id": "2026-11-23-music-late-night-clubbing-096-3829e3",
         "eid": "late-night-clubbing-096-f794",
         "track": "music",
-        "category": "",
+        "category": "Nightclub",
         "name": "Late Night Clubbing #096",
         "day": "Sat",
         "date": "2026-11-28",
         "time": "02:00",
-        "start": null,
-        "end": null,
-        "area": "San Francisco",
+        "start": "02:00",
+        "end": "06:00",
+        "area": "SF",
         "venue": "TBA",
         "address": "",
-        "why": "",
-        "summary": "",
+        "why": "To dance and socialize into the early hours.",
+        "summary": "Late Night Clubbing #096 is a late-night club event scheduled in San Francisco on 2026-11-28.",
         "promoter": "",
         "price": "",
-        "tags": [],
+        "tags": [
+          "dj",
+          "21+",
+          "dance",
+          "nightlife"
+        ],
         "sources": [
           "https://posh.vip/e/nyx-late-night-clubbing-096-friday-w-surprise-guest"
         ],
@@ -2808,28 +2818,34 @@
         "image": "https://api.party-scout.app/img/san-francisco/2026-11-23/late-night-clubbing-096-f794.jpg",
         "image_generated": true,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
         "id": "2026-11-23-music-laurie-lewis-d536f0",
         "eid": "laurie-lewis-963b",
         "track": "music",
-        "category": "",
+        "category": "Concert",
         "name": "Laurie Lewis",
         "day": "Sat",
         "date": "2026-11-28",
         "time": "20:00",
-        "start": null,
+        "start": "20:00",
         "end": null,
-        "area": "San Francisco",
+        "area": "Berkeley",
         "venue": "The Freight",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "2020 Addison St, Berkeley, CA 94704",
+        "why": "A Bay Area roots-music legend in an intimate, listening-room setting.",
+        "summary": "Bluegrass and Americana fiddler-songwriter Laurie Lewis plays The Freight in Berkeley on Saturday night.",
         "promoter": "",
         "price": "",
-        "tags": [],
+        "tags": [
+          "folk",
+          "bluegrass",
+          "live",
+          "americana",
+          "live-music"
+        ],
         "sources": [
           "https://dothebay.com/events/2026/11/28/laurie-lewis-tickets"
         ],
@@ -2842,9 +2858,9 @@
         "coords_precise": false,
         "ra": {},
         "image": "https://api.party-scout.app/img/san-francisco/2026-11-23/laurie-lewis-963b.jpg",
-        "image_generated": true,
+        "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
@@ -2856,23 +2872,31 @@
         "day": "Sat",
         "date": "2026-11-28",
         "time": "22:00",
-        "start": null,
-        "end": null,
+        "start": "22:00",
+        "end": "04:00",
         "area": "San Francisco",
         "venue": "Halcyon",
         "address": "314 11th St, San Francisco, California, 94103",
-        "why": "",
-        "summary": "",
+        "why": "To see what the event turns out to be — details are still to be announced.",
+        "summary": "Mandragora is listed for 2026-11-28 in San Francisco; venue, time, and lineup details were not provided.",
         "promoter": "",
         "price": "$30",
-        "tags": [],
+        "tags": [
+          "tba",
+          "san-francisco",
+          "nightlife"
+        ],
         "sources": [
           "https://dice.fm/event/dkox3q-mandragora-28th-nov-halcyon-sf-san-francisco-tickets",
           "https://halcyon-sf.com/main/tickets/#mandragora-2026-11-28",
           "https://link.dice.fm/J2f165f253fe?pid=d6c08999",
           "https://ra.co/events/2571287"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://dice.fm/event/dkox3q-mandragora-28th-nov-halcyon-sf-san-francisco-tickets",
+          "https://link.dice.fm/J2f165f253fe?pid=d6c08999",
+          "https://ra.co/events/2571287"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=314%2011th%20St%2C%20San%20Francisco%2C%20California%2C%2094103",
           "apple": "https://maps.apple.com/?q=314%2011th%20St%2C%20San%20Francisco%2C%20California%2C%2094103"
@@ -2883,7 +2907,7 @@
         "image": "https://images.ra.co/44eba61398cd259826873007b44e01de6837a865.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true,
         "lineup": [
           {
