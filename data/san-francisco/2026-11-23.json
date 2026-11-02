@@ -2290,25 +2290,31 @@
         "id": "2026-11-23-music-spader-discnogirl-dj-juanny-bo-26f437",
         "eid": "spader-discnogirl-dj-jua-c58c",
         "track": "music",
-        "category": "",
+        "category": "Nightclub",
         "name": "Spader: Discnogirl, DJ Juanny, Bored Lord, Finish Her",
         "day": "Fri",
         "date": "2026-11-27",
         "time": "21:00",
-        "start": null,
-        "end": null,
+        "start": "21:00",
+        "end": "01:30",
         "area": "San Francisco",
         "venue": "There/There Bar",
         "address": "468 25th Street, Oakland, CA 94612, USA",
-        "why": "",
-        "summary": "",
+        "why": "For multiple DJ sets and a night of dancing.",
+        "summary": "An event called Spader on 2026-11-27 featuring Discnogirl, DJ Juanny, Bored Lord, and Finish Her.",
         "promoter": "",
         "price": "$10 - $15",
-        "tags": [],
+        "tags": [
+          "dj",
+          "electronic",
+          "nightlife"
+        ],
         "sources": [
           "https://ra.co/events/2568710"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://ra.co/events/2568710"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=468%2025th%20Street%2C%20Oakland%2C%20CA%2094612%2C%20USA",
           "apple": "https://maps.apple.com/?q=468%2025th%20Street%2C%20Oakland%2C%20CA%2094612%2C%20USA"
@@ -2319,7 +2325,7 @@
         "image": "https://images.ra.co/1946dbb9f8b04f08a39ae55907d1672ebb2a57bb.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true,
         "lineup": [
           {
@@ -2344,21 +2350,24 @@
         "id": "2026-11-23-music-vertigo-kandikweer69-ihaveabom-bcadd9",
         "eid": "vertigo-kandikweer69-iha-b6ef",
         "track": "music",
-        "category": "",
+        "category": "Nightclub",
         "name": "Vertigo: Kandikweer69, iHaveaBomb, Damu, Kumbaya, Helian, Calling All Freaks",
         "day": "Fri",
         "date": "2026-11-27",
         "time": "22:00",
-        "start": null,
+        "start": "22:00",
         "end": null,
-        "area": "San Francisco",
+        "area": "SF",
         "venue": "TBA",
         "address": "",
-        "why": "",
-        "summary": "",
+        "why": "It's free and presents multiple artists on a single bill.",
+        "summary": "Free event on 2026-11-27 called Vertigo listing Kandikweer69, iHaveaBomb, Damu, Kumbaya, Helian, and Calling All Freaks.",
         "promoter": "",
-        "price": "",
-        "tags": [],
+        "price": "Free",
+        "tags": [
+          "free",
+          "dj"
+        ],
         "sources": [
           "https://www.instagram.com/p/Ddmk2f7yKBr/"
         ],
@@ -2370,10 +2379,10 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
-        "image_generated": false,
+        "image": "https://api.party-scout.app/img/san-francisco/2026-11-23/vertigo-kandikweer69-iha-25de.jpg",
+        "image_generated": true,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
@@ -4073,16 +4082,23 @@
         "day": "Sat",
         "date": "2026-11-28",
         "time": "18:00",
-        "start": null,
-        "end": null,
-        "area": "San Francisco",
+        "start": "18:00",
+        "end": "21:00",
+        "area": "Polk Gulch",
         "venue": "Upcider, 1160 Polk Street, 2nd Floor",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "1160 Polk Street, 2nd Floor, San Francisco, CA",
+        "why": "A low-key, welcoming way to meet people over games like Codenames and Avalon, with no cover.",
+        "summary": "Casual Saturday-night board game meetup on the second floor of Upcider on Polk Street. Bring a game or join in on whatever's on the table.",
         "promoter": "",
-        "price": "",
-        "tags": [],
+        "price": "Free (order a drink or food)",
+        "tags": [
+          "board games",
+          "social",
+          "indoor",
+          "community",
+          "meetup",
+          "polk street"
+        ],
         "sources": [
           "https://www.meetup.com/san-francisco-sociale-meetup-group/events/316781710/"
         ],
@@ -4095,16 +4111,16 @@
         "coords_precise": false,
         "ra": {},
         "image": "https://api.party-scout.app/img/san-francisco/2026-11-23/board-games-at-upcider-7e73.jpg",
-        "image_generated": true,
+        "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
         "id": "2026-11-23-sports-coffee-lovers-run-5k-10k-13-1-5f3db3",
         "eid": "coffee-lovers-run-5k-10k-2d09",
         "track": "sports",
-        "category": "",
+        "category": "Sports",
         "name": "Coffee Lovers Run 5K/10K/13.1 - San Francisco",
         "day": "Sat",
         "date": "2026-11-28",
@@ -4114,11 +4130,16 @@
         "area": "San Francisco",
         "venue": "San Francisco",
         "address": "",
-        "why": "",
-        "summary": "",
+        "why": "Ideal for a training race and a post-run coffee meetup with fellow runners.",
+        "summary": "A city running event in San Francisco on November 28, 2026 offering 5K, 10K and 13.1-mile (half‑marathon) distance options.",
         "promoter": "",
         "price": "",
-        "tags": [],
+        "tags": [
+          "running",
+          "outdoor",
+          "fitness",
+          "community"
+        ],
         "sources": [
           "https://www.runguides.com/event/35607/coffee-lovers-run-5k-10k-131-san-francisco"
         ],
@@ -4133,7 +4154,7 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
