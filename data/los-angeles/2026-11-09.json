@@ -6280,22 +6280,28 @@
         "date": "2026-11-13",
         "time": "23:00",
         "start": "23:00",
-        "end": null,
+        "end": "06:00",
         "area": "Los Angeles",
         "venue": "TBA",
         "address": "",
-        "why": "",
-        "summary": "",
+        "why": "To attend a one-night special event happening in the city.",
+        "summary": "Signal4yr takes place in Los Angeles on November 13, 2026.",
         "promoter": "",
         "price": "$25 b4 12 / $30-60",
-        "tags": [],
+        "tags": [
+          "nightlife",
+          "los-angeles",
+          "event"
+        ],
         "sources": [
           {
             "url": "https://ra.co/events/2538324",
             "hidden": true
           }
         ],
-        "tickets": [],
+        "tickets": [
+          "https://ra.co/events/2538324"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Los%20Angeles",
           "apple": "https://maps.apple.com/?q=Los%20Angeles"
@@ -6304,9 +6310,9 @@
         "coords_precise": false,
         "ra": {},
         "image": "https://api.party-scout.app/img/los-angeles/2026-11-09/signal4yr-f894.jpg",
-        "image_generated": true,
+        "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
@@ -7384,25 +7390,36 @@
         "id": "2026-11-09-sports-huffin-for-the-stuffin-turkey-3d7f9f",
         "eid": "huffin-for-the-stuffin-t-2395",
         "track": "sports",
-        "category": "",
+        "category": "Sports",
         "name": "Huffin for the Stuffin Turkey Trot Half Marathon",
         "day": "Sat",
         "date": "2026-11-14",
-        "time": "",
-        "start": null,
+        "time": "7:00 AM",
+        "start": "07:00",
         "end": null,
-        "area": "Los Angeles",
+        "area": "Long Beach",
         "venue": "Los Angeles",
         "address": "",
-        "why": "",
-        "summary": "",
+        "why": "A festive, all-abilities way to burn calories before the turkey, with the half starting at 7 AM.",
+        "summary": "Thanksgiving-themed 5K, 10K and half marathon along the Long Beach shoreline, with ocean views and holiday music.",
         "promoter": "",
-        "price": "",
-        "tags": [],
-        "sources": [
-          "https://www.runguides.com/event/36706/huffin-for-the-stuffin-turkey-trot-half-marathon"
+        "price": "From $52.93 (5K); 10K $57.17; Half $74.13",
+        "tags": [
+          "outdoor",
+          "fitness",
+          "run",
+          "family",
+          "running",
+          "thanksgiving",
+          "long-beach"
         ],
-        "tickets": [],
+        "sources": [
+          "https://www.runguides.com/event/36706/huffin-for-the-stuffin-turkey-trot-half-marathon",
+          "https://runsignup.com/Race/CA/LongBeach/HuffinForTheStuffinKKHalfMarathon"
+        ],
+        "tickets": [
+          "https://runsignup.com/Race/CA/LongBeach/HuffinForTheStuffinKKHalfMarathon"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Los%20Angeles%2C%20Los%20Angeles",
           "apple": "https://maps.apple.com/?q=Los%20Angeles%2C%20Los%20Angeles"
@@ -7410,33 +7427,43 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/los-angeles/2026-11-09/huffin-for-the-stuffin-t-2395.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
         "id": "2026-11-09-sports-run-for-beer-socal-vibes-co-b9b8a4",
         "eid": "run-for-beer-socal-vibes-62dd",
         "track": "sports",
-        "category": "",
+        "category": "Sports",
         "name": "Run for Beer -  SoCal Vibes Co",
         "day": "Sat",
         "date": "2026-11-14",
         "time": "",
         "start": null,
         "end": null,
-        "area": "Los Angeles",
+        "area": "Santa Monica",
         "venue": "Los Angeles",
         "address": "",
-        "why": "",
-        "summary": "",
+        "why": "A relaxed Saturday run that ends with craft beer and live music, so it works as a social morning out.",
+        "summary": "A 5k-ish fun run that starts and ends at a local California brewery in Santa Monica, with local beer and live music afterward. Runners, walkers and spectators are all welcome.",
         "promoter": "",
         "price": "",
-        "tags": [],
+        "tags": [
+          "fitness",
+          "social",
+          "outdoor",
+          "running",
+          "5k",
+          "brewery",
+          "fun-run",
+          "beer"
+        ],
         "sources": [
-          "https://www.runguides.com/event/32999/run-for-beer-socal-vibes-co"
+          "https://www.runguides.com/event/32999/run-for-beer-socal-vibes-co",
+          "https://www.breweryrunningseries.com/locations/california"
         ],
         "tickets": [],
         "maps": {
@@ -7449,7 +7476,7 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
