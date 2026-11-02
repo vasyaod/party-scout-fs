@@ -1455,20 +1455,25 @@
         "day": "Wed",
         "date": "2026-11-25",
         "time": "23:59",
-        "start": null,
-        "end": null,
+        "start": "23:59",
+        "end": "05:00",
         "area": "Los Angeles",
         "venue": "TBA",
         "address": "",
         "why": "",
-        "summary": "",
+        "summary": "Gobble Wobble is scheduled for November 25, 2026 in Los Angeles.",
         "promoter": "",
         "price": "$15 - $30",
-        "tags": [],
+        "tags": [
+          "nightlife",
+          "party"
+        ],
         "sources": [
           "https://ra.co/events/2569985"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://ra.co/events/2569985"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Los%20Angeles",
           "apple": "https://maps.apple.com/?q=Los%20Angeles"
@@ -1479,7 +1484,7 @@
         "image": "https://api.party-scout.app/img/los-angeles/2026-11-23/gobble-wobble-5101.jpg",
         "image_generated": true,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true,
         "lineup": [
           {
@@ -1492,21 +1497,26 @@
         "id": "2026-11-23-music-punchis-punchis-banda-rave-exp-d14421",
         "eid": "punchis-punchis-banda-ra-a145",
         "track": "music",
-        "category": "",
+        "category": "Nightclub",
         "name": "Punchis Punchis: Banda Rave Experience",
         "day": "Wed",
         "date": "2026-11-25",
         "time": "21:00",
-        "start": null,
+        "start": "21:00",
         "end": null,
         "area": "Los Angeles",
         "venue": "Hollywood Palladium",
         "address": "",
-        "why": "",
-        "summary": "",
+        "why": "To dance to a high-energy fusion of banda brass and electronic rave production.",
+        "summary": "A Punchis Punchis: Banda Rave Experience event in Los Angeles on 2026-11-25, with tickets priced $47–$75.",
         "promoter": "",
-        "price": "",
-        "tags": [],
+        "price": "$47–$75",
+        "tags": [
+          "banda",
+          "rave",
+          "electronic",
+          "dance"
+        ],
         "sources": [
           "https://www.ticketmaster.com/event/09006549278532F8"
         ],
@@ -1521,28 +1531,33 @@
         "image": "https://api.party-scout.app/img/los-angeles/2026-11-23/punchis-punchis-banda-ra-a145.jpg",
         "image_generated": true,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
         "id": "2026-11-23-music-savage-society-beastboi-awemin-e6ba9b",
         "eid": "savage-society-beastboi-73de",
         "track": "music",
-        "category": "",
+        "category": "Nightclub",
         "name": "Savage Society: Beastboi, Aweminus, Blankface, Decimate, Club Antsy",
         "day": "Wed",
         "date": "2026-11-25",
         "time": "21:00",
-        "start": null,
+        "start": "21:00",
         "end": null,
         "area": "Los Angeles",
         "venue": "618 S Spring St",
         "address": "",
-        "why": "",
-        "summary": "",
+        "why": "To catch multiple DJs and high-energy dance sets in one night.",
+        "summary": "An event on 2026-11-25 billed as Savage Society featuring Beastboi, Aweminus, Blankface, Decimate, and Club Antsy.",
         "promoter": "",
         "price": "",
-        "tags": [],
+        "tags": [
+          "dj",
+          "electronic",
+          "nightclub",
+          "21+"
+        ],
         "sources": [
           "https://www.instagram.com/p/Dd9nFQ2kg85/"
         ],
@@ -1557,7 +1572,7 @@
         "image": "https://api.party-scout.app/img/los-angeles/2026-11-23/savage-society-beastboi-73de.jpg",
         "image_generated": true,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
@@ -1569,20 +1584,25 @@
         "day": "Wed",
         "date": "2026-11-25",
         "time": "20:00",
-        "start": null,
-        "end": null,
+        "start": "20:00",
+        "end": "02:00",
         "area": "Los Angeles",
         "venue": "The Redwood Bar And Grill",
         "address": "316 W. 2nd Street, Los Angeles, CA  90012",
-        "why": "",
-        "summary": "",
+        "why": "For an evening out in Los Angeles on November 25, 2026.",
+        "summary": "An event titled \"Sylvia Black\" is scheduled in Los Angeles on November 25, 2026; venue, time, and lineup details are not provided.",
         "promoter": "",
         "price": "",
-        "tags": [],
+        "tags": [
+          "live",
+          "nightlife"
+        ],
         "sources": [
           "https://ra.co/events/2564275"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://ra.co/events/2564275"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=The%20Redwood%20Bar%20And%20Grill%2C%20Los%20Angeles",
           "apple": "https://maps.apple.com/?q=The%20Redwood%20Bar%20And%20Grill%2C%20Los%20Angeles"
@@ -1593,7 +1613,7 @@
         "image": "https://api.party-scout.app/img/los-angeles/2026-11-23/sylvia-black-f098.jpg",
         "image_generated": true,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
@@ -2341,21 +2361,30 @@
         "id": "2026-11-23-sports-tuesday-womens-soccer-stoner-p-842d03",
         "eid": "tuesday-womens-soccer-st-b33a",
         "track": "sports",
-        "category": "",
+        "category": "Sports",
         "name": "Tuesday Womens Soccer - Stoner Park 7:15 PM",
         "day": "Tue",
         "date": "2026-11-24",
         "time": "19:15",
-        "start": null,
-        "end": null,
-        "area": "Los Angeles",
+        "start": "19:15",
+        "end": "21:15",
+        "area": "West LA",
         "venue": "Grassy Area, Southeast Corner of Stoner Park (Corner of Stoner Ave/ Missouri Ave), FREE PARKING, 1854 Stoner Ave.",
         "address": "1854 Stoner Ave., Los Angeles, CA",
-        "why": "",
-        "summary": "",
+        "why": "A friendly, low-pressure women's game every Tuesday night, good for any skill level.",
+        "summary": "Weekly women's pick-up soccer on the grass at Stoner Park, all levels welcome. RSVP on Meetup; free parking at the field.",
         "promoter": "",
-        "price": "",
-        "tags": [],
+        "price": "$10 (Parks & Rec field fee, twice a year; plus $10/yr Meetup fee)",
+        "tags": [
+          "sports",
+          "outdoor",
+          "community",
+          "soccer",
+          "pick-up",
+          "women",
+          "outdoors",
+          "all-levels"
+        ],
         "sources": [
           "https://www.meetup.com/west-la-womens-pick-up-soccer-all-levels/events/316379956/"
         ],
@@ -2370,7 +2399,7 @@
         "image": "https://secure-content.meetupstatic.com/images/classic-events/532104794/676x676.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
