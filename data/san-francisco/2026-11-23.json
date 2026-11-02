@@ -2394,16 +2394,19 @@
         "day": "Sat",
         "date": "2026-11-28",
         "time": "20:00",
-        "start": null,
+        "start": "21:00",
         "end": null,
         "area": "San Francisco",
         "venue": "The Regency Ballroom",
         "address": "1290 Sutter Street, San Francisco, CA 94109",
-        "why": "",
-        "summary": "",
+        "why": "A mid-priced evening out in San Francisco.",
+        "summary": "DeVault on 2026-11-28 is a ticketed event in San Francisco with tickets priced $36–$49.",
         "promoter": "",
-        "price": "",
-        "tags": [],
+        "price": "$36–$49",
+        "tags": [
+          "ticketed",
+          "paid"
+        ],
         "sources": [
           "https://www.axs.com/events/1497641",
           "https://dothebay.com/events/2026/11/28/devault-tickets",
@@ -2420,28 +2423,32 @@
         "image": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/32918925/c98cc097-2dc9-48a5-864e-99a1a9e707f9.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
         "id": "2026-11-23-music-federale-el-radio-fantastique-b407e0",
         "eid": "federale-el-radio-fantas-4614",
         "track": "music",
-        "category": "",
+        "category": "Concert",
         "name": "Federale, El Radio Fantastique and Noelle And The Deserters",
         "day": "Sat",
         "date": "2026-11-28",
         "time": "19:00",
-        "start": null,
+        "start": "19:00",
         "end": null,
         "area": "San Francisco",
         "venue": "Kilowatt",
         "address": "3160 16th St, San Francisco, CA 94103",
-        "why": "",
-        "summary": "",
+        "why": "For a night of live music at an affordable $19 ticket.",
+        "summary": "A concert night featuring Federale, El Radio Fantastique, and Noelle And The Deserters on November 28, 2026. Tickets are $19.",
         "promoter": "",
-        "price": "",
-        "tags": [],
+        "price": "$19",
+        "tags": [
+          "live",
+          "ticketed",
+          "bands"
+        ],
         "sources": [
           "https://dothebay.com/events/2026/11/28/federale-el-radio-fantastique-and-noelle-and-the-deserters-tickets"
         ],
@@ -2456,7 +2463,7 @@
         "image": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/34803515/74d2da6f-7337-43b8-90bd-28ed97cdc66a.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
@@ -2468,16 +2475,19 @@
         "day": "Sat",
         "date": "2026-11-28",
         "time": "20:00",
-        "start": null,
+        "start": "20:00",
         "end": null,
-        "area": "San Francisco",
+        "area": "North Beach",
         "venue": "Bimbo's 365 Club",
         "address": "1025 Columbus Ave, San Francisco, CA 94133",
         "why": "",
-        "summary": "",
+        "summary": "An event titled \"Fleetwood Macramé\" scheduled for November 28, 2026 in San Francisco; venue and other details were not provided.",
         "promoter": "",
         "price": "",
-        "tags": [],
+        "tags": [
+          "unknown",
+          "tba"
+        ],
         "sources": [
           "https://dothebay.com/events/2026/11/28/fleetwood-macrame-tickets"
         ],
@@ -2492,7 +2502,7 @@
         "image": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/33623786/232bf5a5-25b4-4eea-bdc3-9a18357f8afb.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
@@ -2504,21 +2514,28 @@
         "day": "Sat",
         "date": "2026-11-28",
         "time": "21:00",
-        "start": null,
-        "end": null,
+        "start": "21:00",
+        "end": "02:00",
         "area": "San Francisco",
         "venue": "The Midway",
         "address": "900 Marin Street, San Francisco, CA 94124",
-        "why": "",
-        "summary": "",
+        "why": "To attend a ticketed night out in San Francisco in late November.",
+        "summary": "Funk Tribu takes place in San Francisco on November 28, 2026; tickets start at $31.50.",
         "promoter": "",
-        "price": "",
-        "tags": [],
+        "price": "$31.50+",
+        "tags": [
+          "paid",
+          "ticketed"
+        ],
         "sources": [
+          "https://www.tixr.com/groups/midwaysf/events/funk-tribu-200503",
+          "https://ra.co/events/2557512",
+          "https://dothebay.com/events/2026/11/28/funk-tribu-tickets"
+        ],
+        "tickets": [
           "https://www.tixr.com/groups/midwaysf/events/funk-tribu-200503",
           "https://ra.co/events/2557512"
         ],
-        "tickets": [],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=900%20Marin%20Street%2C%20San%20Francisco%2C%20CA%2094124",
           "apple": "https://maps.apple.com/?q=900%20Marin%20Street%2C%20San%20Francisco%2C%20CA%2094124"
@@ -2529,7 +2546,7 @@
         "image": "https://images.ra.co/2c10d8ce8ba5b66de3521affc997042f7aef4ea8.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true,
         "lineup": [
           {
@@ -2542,25 +2559,31 @@
         "id": "2026-11-23-music-goodbye-grunt-season-closer-ni-9254ea",
         "eid": "goodbye-grunt-season-clo-6966",
         "track": "music",
-        "category": "",
+        "category": "Concert",
         "name": "Goodbye Grunt- Season Closer: Nick Moss, Infinite Jess",
         "day": "Sat",
         "date": "2026-11-28",
         "time": "21:00",
-        "start": null,
-        "end": null,
+        "start": "21:00",
+        "end": "02:00",
         "area": "San Francisco",
         "venue": "The Stud",
         "address": "1123 Folsom St, San Francisco, CA 94103",
-        "why": "",
-        "summary": "",
+        "why": "To catch live music and mark the season's end.",
+        "summary": "Season-closer show on 2026-11-28 titled \"Goodbye Grunt\" featuring Nick Moss and Infinite Jess.",
         "promoter": "",
         "price": "20",
-        "tags": [],
+        "tags": [
+          "live",
+          "music",
+          "concert"
+        ],
         "sources": [
           "https://ra.co/events/2564118"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://ra.co/events/2564118"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=1123%20Folsom%20St%2C%20San%20Francisco%2C%20CA%2094103",
           "apple": "https://maps.apple.com/?q=1123%20Folsom%20St%2C%20San%20Francisco%2C%20CA%2094103"
@@ -2571,7 +2594,7 @@
         "image": "https://images.ra.co/dda4234196bf5ff191d0f775c0b291bcfc683847.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true,
         "lineup": [
           {
@@ -4124,16 +4147,16 @@
         "name": "Coffee Lovers Run 5K/10K/13.1 - San Francisco",
         "day": "Sat",
         "date": "2026-11-28",
-        "time": "",
-        "start": null,
-        "end": null,
-        "area": "San Francisco",
+        "time": "7:30 AM",
+        "start": "07:30",
+        "end": "10:30",
+        "area": "SF",
         "venue": "San Francisco",
         "address": "",
         "why": "Ideal for a training race and a post-run coffee meetup with fellow runners.",
         "summary": "A city running event in San Francisco on November 28, 2026 offering 5K, 10K and 13.1-mile (half‑marathon) distance options.",
         "promoter": "",
-        "price": "",
+        "price": "$33–$65",
         "tags": [
           "running",
           "outdoor",
@@ -4143,7 +4166,9 @@
         "sources": [
           "https://www.runguides.com/event/35607/coffee-lovers-run-5k-10k-131-san-francisco"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://runsignup.com/Race/CA/SanFrancisco/CoffeeLoversRun5K10KSANFRANCISCO1128"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=San%20Francisco%2C%20San%20Francisco",
           "apple": "https://maps.apple.com/?q=San%20Francisco%2C%20San%20Francisco"
@@ -4151,8 +4176,8 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
-        "image_generated": false,
+        "image": "https://api.party-scout.app/img/san-francisco/2026-11-23/coffee-lovers-run-5k-10k-9bde.jpg",
+        "image_generated": true,
         "popularity": 0,
         "enriched": 1,
         "active": true
