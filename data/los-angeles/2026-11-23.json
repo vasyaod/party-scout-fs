@@ -1668,16 +1668,19 @@
         "day": "Fri",
         "date": "2026-11-27",
         "time": "22:00",
-        "start": null,
-        "end": null,
+        "start": "14:00",
+        "end": "18:00",
         "area": "Los Angeles",
         "venue": "Los Globos",
         "address": "3040 W SUNSET BLVD, LOS ANGELES, CA 90026",
-        "why": "",
-        "summary": "",
+        "why": "For a night out in Los Angeles.",
+        "summary": "An event called Electric Ave. is scheduled to take place in Los Angeles on 2026-11-27.",
         "promoter": "",
         "price": "$15-30",
-        "tags": [],
+        "tags": [
+          "nightlife",
+          "party"
+        ],
         "sources": [
           "https://eventsta.com/event/losglobos112726?promo=CAF&fbclid=IwY2xjawVKBw9leHRuA2FlbQIxMABwZG9mAWJyaWQRMUZWb2hSOTNsaXJjamlOeDZzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEe0iXyD1szUN0qnsIAuWNJWL5OWdMB3q4p9Z3mcCMooMpaGyBsv8fp5qLSa60_aem_two5RZ4CM3ICnTriJkFRWw"
         ],
@@ -1692,28 +1695,33 @@
         "image": "https://eventsta.com/api/v1/public/images/10080d211e1d5b15/6a6ec530.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
         "id": "2026-11-23-music-flashback-a-2010s-edm-tribute-50bcf7",
         "eid": "flashback-a-2010s-edm-tr-b568",
         "track": "music",
-        "category": "",
+        "category": "Nightclub",
         "name": "Flashback: A 2010S Edm Tribute Party",
         "day": "Fri",
         "date": "2026-11-27",
         "time": "22:00",
-        "start": null,
+        "start": "22:00",
         "end": null,
         "area": "Los Angeles",
         "venue": "Exchange",
         "address": "",
-        "why": "",
-        "summary": "",
+        "why": "Dance to nostalgic 2010s EDM hits and soak up high-energy, late-night vibes.",
+        "summary": "A 2010s EDM tribute party taking place on 2026-11-27. Entry is free with RSVP before 11pm, otherwise $10+.",
         "promoter": "",
-        "price": "",
-        "tags": [],
+        "price": "free w/rsvp b4 11pm / $10+",
+        "tags": [
+          "edm",
+          "dj",
+          "dance",
+          "free"
+        ],
         "sources": [
           "https://www.ticketweb.com/event/id/14402274"
         ],
@@ -1728,32 +1736,38 @@
         "image": "https://api.party-scout.app/img/los-angeles/2026-11-23/flashback-a-2010s-edm-tr-b568.jpg",
         "image_generated": true,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
         "id": "2026-11-23-music-if-you-know-you-know-perlon-85c8fe",
         "eid": "if-you-know-you-know-per-d856",
         "track": "music",
-        "category": "",
+        "category": "Nightclub",
         "name": "If You Know You Know - Perlon",
         "day": "Fri",
         "date": "2026-11-27",
         "time": "23:00",
-        "start": null,
-        "end": null,
+        "start": "23:00",
+        "end": "11:00",
         "area": "Los Angeles",
         "venue": "TBA",
         "address": "",
-        "why": "",
-        "summary": "",
+        "why": "Good for anyone looking for an inexpensive presale entry to a Los Angeles nightlife event.",
+        "summary": "A nightlife event titled If You Know You Know - Perlon on November 27, 2026 in Los Angeles; tickets listed at $15 presale.",
         "promoter": "",
-        "price": "",
-        "tags": [],
+        "price": "$15 pre",
+        "tags": [
+          "dj",
+          "ticketed",
+          "presale"
+        ],
         "sources": [
           "https://ra.co/events/2529755"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://ra.co/events/2529755"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Los%20Angeles",
           "apple": "https://maps.apple.com/?q=Los%20Angeles"
@@ -1764,32 +1778,37 @@
         "image": "https://images.ra.co/87544f2aff96aae34d0242b15d59d9204a5df3ba.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
         "id": "2026-11-23-music-scenarios-emanuel-satie-sean-d-1ce504",
         "eid": "scenarios-emanuel-satie-d489",
         "track": "music",
-        "category": "",
+        "category": "Nightclub",
         "name": "Scenarios: Emanuel Satie, Sean Doron, Ray Kash",
         "day": "Fri",
         "date": "2026-11-27",
         "time": "22:00",
-        "start": null,
-        "end": null,
+        "start": "22:00",
+        "end": "02:00",
         "area": "Los Angeles",
         "venue": "Sound Nightclub",
         "address": "1642 N Las Palmas Ave, Los Angeles, CA 90028",
-        "why": "",
-        "summary": "",
+        "why": "To see three featured artists perform together at a single LA night.",
+        "summary": "A music event titled \"Scenarios\" in Los Angeles on November 27, 2026, featuring Emanuel Satie, Sean Doron, and Ray Kash; venue and time are not listed.",
         "promoter": "",
         "price": "$24.93",
-        "tags": [],
+        "tags": [
+          "dj",
+          "live"
+        ],
         "sources": [
           "https://dice.fm/event/6ac426e46c20d300012c560d"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://dice.fm/event/6ac426e46c20d300012c560d"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=1642%20N%20Las%20Palmas%20Ave%2C%20Los%20Angeles%2C%20CA%2090028",
           "apple": "https://maps.apple.com/?q=1642%20N%20Las%20Palmas%20Ave%2C%20Los%20Angeles%2C%20CA%2090028"
@@ -1800,28 +1819,33 @@
         "image": "https://dice-media.imgix.net/attachments/2026-10-14/68c434a5-4630-458c-8704-a47b2e81b72e.jpg?rect=0%2C233%2C1164%2C698",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
         "id": "2026-11-23-music-space-yacht-tech-my-house-959e85",
         "eid": "space-yacht-tech-my-hous-3f3e",
         "track": "music",
-        "category": "",
+        "category": "Nightclub",
         "name": "Space Yacht: Tech My House",
         "day": "Fri",
         "date": "2026-11-27",
         "time": "22:00",
-        "start": null,
+        "start": "22:00",
         "end": null,
         "area": "Los Angeles",
         "venue": "Academy La",
         "address": "",
-        "why": "",
-        "summary": "",
+        "why": "For an affordable tech-house dance night with easy RSVP entry.",
+        "summary": "A Space Yacht event called \"Tech My House\" in Los Angeles on 2026-11-27; free with RSVP before 11pm or $15 otherwise.",
         "promoter": "",
-        "price": "",
-        "tags": [],
+        "price": "free w/rsvp b4 11pm / $15",
+        "tags": [
+          "tech-house",
+          "free",
+          "dj",
+          "dance"
+        ],
         "sources": [
           "https://www.ticketweb.com/event/id/14357124"
         ],
@@ -1836,32 +1860,38 @@
         "image": "https://api.party-scout.app/img/los-angeles/2026-11-23/space-yacht-tech-my-hous-3f3e.jpg",
         "image_generated": true,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
         "id": "2026-11-23-music-body-wave-jonny-rock-dj-lloyd-5b9f33",
         "eid": "body-wave-jonny-rock-dj-ec92",
         "track": "music",
-        "category": "",
+        "category": "Nightclub",
         "name": "Body Wave: Jonny Rock, DJ Lloyd, Tavish DJ b2b Xica Soul",
         "day": "Sat",
         "date": "2026-11-28",
         "time": "22:00",
-        "start": null,
-        "end": null,
+        "start": "22:00",
+        "end": "07:00",
         "area": "Los Angeles",
         "venue": "TBA",
         "address": "",
-        "why": "",
-        "summary": "",
+        "why": "For high-energy back-to-back DJ sets and dancing.",
+        "summary": "A DJ night in Los Angeles on 2026-11-28 featuring Jonny Rock, DJ Lloyd, and Tavish DJ b2b Xica Soul.",
         "promoter": "",
         "price": "15-40",
-        "tags": [],
+        "tags": [
+          "dj",
+          "electronic",
+          "dance"
+        ],
         "sources": [
           "https://ra.co/events/2560597"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://ra.co/events/2560597"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Los%20Angeles",
           "apple": "https://maps.apple.com/?q=Los%20Angeles"
@@ -1872,7 +1902,7 @@
         "image": "https://images.ra.co/a3e9a024ee74ecddfdf28936efcb134e66ebe6bc.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true,
         "lineup": [
           {
@@ -2545,21 +2575,25 @@
         "id": "2026-11-23-sports-2026-pickleball-lovers-come-jo-ec7eab",
         "eid": "2026-pickleball-lovers-c-b4d6",
         "track": "sports",
-        "category": "",
+        "category": "Sports",
         "name": "2026 Pickleball Lovers!! Come Join Our \"Social Dinkers\" Pickleball Community!",
         "day": "Sat",
         "date": "2026-11-28",
         "time": "08:00",
-        "start": null,
-        "end": null,
+        "start": "08:00",
+        "end": "14:00",
         "area": "Los Angeles",
         "venue": "6333 W 3rd St, Los Angeles, CA 90036, 6333 W 3rd St, Los Angeles, CA 90036",
         "address": "6333 W 3rd St, Los Angeles, CA 90036, Los Angeles, Ca",
-        "why": "",
-        "summary": "",
+        "why": "For casual pickleball play and meeting other local players.",
+        "summary": "A community meetup for pickleball players called Social Dinkers taking place in Los Angeles on November 28, 2026. The event is presented as a social gathering for pickleball enthusiasts to play and connect.",
         "promoter": "",
         "price": "",
-        "tags": [],
+        "tags": [
+          "sports",
+          "community",
+          "outdoor"
+        ],
         "sources": [
           "https://www.meetup.com/meetup-group-axugemky/events/316423167/"
         ],
@@ -2574,7 +2608,7 @@
         "image": "https://secure-content.meetupstatic.com/images/classic-events/534687933/676x676.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
