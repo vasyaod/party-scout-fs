@@ -10755,18 +10755,20 @@
         "time": "14:30",
         "start": "14:30",
         "end": null,
-        "area": "San Francisco",
+        "area": "Stanford",
         "venue": "Bing Concert Hall",
         "address": "327 Lasuen Street, Stanford, CA 94305",
-        "why": "For an evening of live chamber orchestral music in an intimate university setting.",
-        "summary": "Orpheus Chamber Orchestra performs at 327 Lasuen Street (Stanford) on November 8, 2026.",
-        "promoter": "",
-        "price": "",
+        "why": "A rare chance to hear one of the world's top conductorless ensembles in one of the Bay Area's best-sounding halls.",
+        "summary": "Conductorless New York chamber orchestra Orpheus, with pianist Isata Kanneh-Mason, plays a Sunday matinee at Stanford's Bing Concert Hall.",
+        "promoter": "Stanford Live",
+        "price": "Resale from ~$80–140; face value via Stanford Live",
         "tags": [
           "classical",
           "orchestra",
           "live",
-          "indoor"
+          "indoor",
+          "matinee",
+          "stanford"
         ],
         "sources": [
           "https://dothebay.com/events/2026/11/8/orpheus-chamber-orchestra-tickets"
@@ -10789,25 +10791,32 @@
         "id": "2026-11-02-music-sungay-brunch-sf-x-soft-serve-2ad7a9",
         "eid": "sungay-brunch-sf-x-soft-6819",
         "track": "music",
-        "category": "",
+        "category": "Concert",
         "name": "SUNGAY BRUNCH (SF) x Soft Serve presents Kilopatrah Jones",
         "day": "Sun",
         "date": "2026-11-08",
         "time": "14:00-21:00",
-        "start": null,
-        "end": null,
+        "start": "14:00",
+        "end": "21:00",
         "area": "San Francisco",
         "venue": "The Cafe",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "2369 Market St, San Francisco, CA 94114",
+        "why": "For a lively daytime party with music and a social brunch vibe.",
+        "summary": "A brunch event in San Francisco on 2026-11-08 featuring Kilopatrah Jones and presented by Soft Serve at 2369 Market St.",
         "promoter": "",
         "price": "10.00",
-        "tags": [],
+        "tags": [
+          "brunch",
+          "daytime",
+          "dj",
+          "live"
+        ],
         "sources": [
           "https://ra.co/events/2573743"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://ra.co/events/2573743"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=The%20Cafe%2C%20San%20Francisco",
           "apple": "https://maps.apple.com/?q=The%20Cafe%2C%20San%20Francisco"
@@ -10815,10 +10824,10 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/san-francisco/2026-11-02/sungay-brunch-sf-x-soft-6819.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       }
     ],
