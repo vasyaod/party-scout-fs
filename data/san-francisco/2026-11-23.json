@@ -2061,22 +2061,28 @@
         "day": "Fri",
         "date": "2026-11-27",
         "time": "21:00",
-        "start": null,
-        "end": null,
+        "start": "21:00",
+        "end": "01:00",
         "area": "San Francisco",
         "venue": "The Independent",
         "address": "628 Divisadero Street, San Francisco, CA, United States",
-        "why": "",
-        "summary": "",
+        "why": "To attend a ticketed evening out in San Francisco.",
+        "summary": "O'Flynn is hosting an event in San Francisco on 2026-11-27. Tickets are listed at $32.",
         "promoter": "",
-        "price": "",
-        "tags": [],
+        "price": "$32",
+        "tags": [
+          "paid",
+          "tickets",
+          "nightlife"
+        ],
         "sources": [
           "https://www.ticketweb.com/event/id/15043633",
           "https://dothebay.com/events/2026/11/27/o-flynn-tickets",
           "https://ra.co/events/2518772"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://ra.co/events/2518772"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=628%20Divisadero%20Street%2C%20San%20Francisco%2C%20CA%2C%20United%20States",
           "apple": "https://maps.apple.com/?q=628%20Divisadero%20Street%2C%20San%20Francisco%2C%20CA%2C%20United%20States"
@@ -2087,7 +2093,7 @@
         "image": "https://images.ra.co/4594e75f333127a016d56e981e7974bc750dd22a.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true,
         "lineup": [
           {
@@ -2100,26 +2106,32 @@
         "id": "2026-11-23-music-rinzen-open-to-close-738a67",
         "eid": "rinzen-open-to-close-8f37",
         "track": "music",
-        "category": "",
+        "category": "Nightclub",
         "name": "Rinzen (Open To Close)",
         "day": "Fri",
         "date": "2026-11-27",
         "time": "21:30",
-        "start": null,
-        "end": null,
+        "start": "21:30",
+        "end": "02:00",
         "area": "San Francisco",
         "venue": "Audio",
         "address": "316 11th St; San Francisco CA 94103; United States",
         "why": "",
-        "summary": "",
+        "summary": "An open-to-close performance by Rinzen in San Francisco on 2026-11-27.",
         "promoter": "",
         "price": "$21.07",
-        "tags": [],
+        "tags": [
+          "dj",
+          "dance"
+        ],
         "sources": [
           "https://www.eventbrite.com/e/rinzen-open-to-close-tickets-1998676583464",
           "https://ra.co/events/2519293"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://www.eventbrite.com/e/rinzen-open-to-close-tickets-1998676583464",
+          "https://ra.co/events/2519293"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=316%2011th%20St%3B%20San%20Francisco%20CA%2094103%3B%20United%20States",
           "apple": "https://maps.apple.com/?q=316%2011th%20St%3B%20San%20Francisco%20CA%2094103%3B%20United%20States"
@@ -2130,7 +2142,7 @@
         "image": "https://images.ra.co/201cef2c6ed5637a331b05d976664a02ec0291d4.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true,
         "lineup": [
           {
@@ -2143,21 +2155,28 @@
         "id": "2026-11-23-music-satori-vs-cyb3-r-industrial-da-6d49b9",
         "eid": "satori-vs-cyb3-r-industr-2f08",
         "track": "music",
-        "category": "",
+        "category": "Nightclub",
         "name": "Satori Vs Cyb3 R: Industrial, Darkwave, Cybergoth, Cyberpunk Dance Night",
         "day": "Fri",
         "date": "2026-11-27",
         "time": "21:00",
-        "start": null,
+        "start": "21:00",
         "end": null,
-        "area": "San Francisco",
+        "area": "San Jose",
         "venue": "The Ritz",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "400 S 1st Street, San Jose, CA 95113",
+        "why": "A rare South Bay night built for goth and industrial dancers, with two long-running dark-scene crews sharing one room.",
+        "summary": "Satori and Cyb3r South Bay team up for a night of industrial, darkwave, cybergoth and cyberpunk dance music at The Ritz in San Jose.",
         "promoter": "",
         "price": "",
-        "tags": [],
+        "tags": [
+          "industrial",
+          "darkwave",
+          "cybergoth",
+          "cyberpunk",
+          "dance",
+          "goth"
+        ],
         "sources": [
           "https://dothebay.com/events/2026/11/27/satori-vs-cyb3-r-industrial-darkwave-cybergoth-cyberpunk-dance-night-tickets"
         ],
@@ -2169,37 +2188,44 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/san-francisco/2026-11-23/satori-vs-cyb3-r-industr-2f08.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
         "id": "2026-11-23-music-skream-presented-by-goldenvoic-fd5bee",
         "eid": "skream-presented-by-gold-beb6",
         "track": "music",
-        "category": "",
+        "category": "Concert",
         "name": "Skream presented by Goldenvoice",
         "day": "Fri",
         "date": "2026-11-27",
         "time": "21:00",
-        "start": null,
-        "end": null,
+        "start": "21:00",
+        "end": "02:00",
         "area": "San Francisco",
         "venue": "Public Works",
         "address": "161 Erie Street, San Francisco, CA 94103, United States",
-        "why": "",
-        "summary": "",
+        "why": "To hear an electronic DJ set in San Francisco.",
+        "summary": "Skream, presented by Goldenvoice, is scheduled to perform in San Francisco on November 27, 2026.",
         "promoter": "",
         "price": "$35",
-        "tags": [],
+        "tags": [
+          "electronic",
+          "dj",
+          "live"
+        ],
         "sources": [
           "https://www.tixr.com/groups/publicsf/events/skream-presented-by-goldenvoice-206151",
           "https://ra.co/events/2538258",
           "https://dothebay.com/events/2026/11/27/skream-presented-by-goldenvoice-tickets"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://www.tixr.com/groups/publicsf/events/skream-presented-by-goldenvoice-206151",
+          "https://ra.co/events/2538258"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=161%20Erie%20Street%2C%20San%20Francisco%2C%20CA%2094103%2C%20United%20States",
           "apple": "https://maps.apple.com/?q=161%20Erie%20Street%2C%20San%20Francisco%2C%20CA%2094103%2C%20United%20States"
@@ -2210,7 +2236,7 @@
         "image": "https://images.ra.co/3bef4e871f41100b6db617af2ee3c7de8997aff9.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true,
         "lineup": [
           {
@@ -2223,21 +2249,26 @@
         "id": "2026-11-23-music-sleepless-nights-xx-a-tribute-d506e2",
         "eid": "sleepless-nights-xx-a-tr-c4f8",
         "track": "music",
-        "category": "",
+        "category": "Concert",
         "name": "Sleepless Nights XX: A Tribute to Gram Parsons",
         "day": "Fri",
         "date": "2026-11-27",
         "time": "20:00",
-        "start": null,
+        "start": "20:00",
         "end": null,
         "area": "San Francisco",
         "venue": "The Chapel",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "777 Valencia Street, San Francisco, CA 94110",
+        "why": "To celebrate Parsons' music and influence on country‑rock.",
+        "summary": "A tribute to Gram Parsons on November 27, 2026 at 777 Valencia Street in the Mission; tickets are listed at $20–$25.",
         "promoter": "",
-        "price": "",
-        "tags": [],
+        "price": "$20–$25",
+        "tags": [
+          "country",
+          "tribute",
+          "live",
+          "cover"
+        ],
         "sources": [
           "https://dothebay.com/events/2026/11/27/sleepless-nights-xx-a-tribute-to-gram-parsons-tickets"
         ],
@@ -2249,10 +2280,10 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/san-francisco/2026-11-23/sleepless-nights-xx-a-tr-c4f8.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
