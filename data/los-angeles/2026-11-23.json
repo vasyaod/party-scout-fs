@@ -1370,19 +1370,27 @@
         "name": "Like Nastya",
         "day": "Mon",
         "date": "2026-11-23",
-        "time": "",
+        "time": "7:00 PM (doors 5:00 PM)",
         "start": null,
         "end": null,
         "area": "Los Angeles",
         "venue": "The Wiltern",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "3790 Wilshire Blvd, Los Angeles, CA 90010",
+        "why": "A family-friendly Monday night show: the first LA live concert from one of the world's biggest kids creators.",
+        "summary": "Kids influencer Like Nastya plays her first live concert in Los Angeles at The Wiltern, with her music and special guests.",
         "promoter": "",
-        "price": "",
-        "tags": [],
+        "price": "From $37.50",
+        "tags": [
+          "live",
+          "show",
+          "family",
+          "pop",
+          "concert",
+          "kids"
+        ],
         "sources": [
-          "https://www.ticketmaster.com/like-nastya-los-angeles-california-11-23-2026/event/090064C39BEAC413"
+          "https://www.ticketmaster.com/like-nastya-los-angeles-california-11-23-2026/event/090064C39BEAC413",
+          "https://laist.com/events/like-nastya-live-concert-in-los-angeles"
         ],
         "tickets": [],
         "maps": {
@@ -1393,16 +1401,16 @@
         "coords_precise": false,
         "ra": {},
         "image": "https://api.party-scout.app/img/los-angeles/2026-11-23/like-nastya-5944.jpg",
-        "image_generated": true,
+        "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
         "id": "2026-11-23-music-2026-triples-world-tour-andles-b9f367",
         "eid": "2026-triples-world-tour-8df4",
         "track": "music",
-        "category": "",
+        "category": "Concert",
         "name": "2026 Triples World Tour [Andless]",
         "day": "Tue",
         "date": "2026-11-24",
@@ -1412,11 +1420,15 @@
         "area": "Los Angeles",
         "venue": "The Wiltern",
         "address": "",
-        "why": "",
-        "summary": "",
+        "why": "For a live evening concert experience in Los Angeles.",
+        "summary": "Concert event titled 2026 Triples World Tour [Andless] scheduled in Los Angeles on November 24, 2026.",
         "promoter": "",
         "price": "",
-        "tags": [],
+        "tags": [
+          "live",
+          "tour",
+          "concert"
+        ],
         "sources": [
           "https://www.ticketmaster.com/2026-triples-world-tour-andless-in-los-angeles-california-11-24-2026/event/09006523EB64E79F"
         ],
@@ -1431,7 +1443,7 @@
         "image": "https://api.party-scout.app/img/los-angeles/2026-11-23/2026-triples-world-tour-8df4.jpg",
         "image_generated": true,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
@@ -2289,21 +2301,25 @@
         "id": "2026-11-23-sports-sierra-club-griffith-park-tues-b3668f",
         "eid": "sierra-club-griffith-par-1b02",
         "track": "sports",
-        "category": "",
+        "category": "Sports",
         "name": "Sierra Club Griffith Park Tuesday Evening Hikes",
         "day": "Tue",
         "date": "2026-11-24",
         "time": "19:00",
-        "start": null,
-        "end": null,
+        "start": "19:00",
+        "end": "21:00",
         "area": "Los Angeles",
         "venue": "Merry Go Round Lot Two",
         "address": "Los Angeles, CA",
-        "why": "",
-        "summary": "",
+        "why": "To get outdoors and meet other hikers.",
+        "summary": "An evening group hike in Griffith Park presented by the Sierra Club on Tuesday, November 24, 2026.",
         "promoter": "",
-        "price": "",
-        "tags": [],
+        "price": "Free",
+        "tags": [
+          "outdoor",
+          "hiking",
+          "community"
+        ],
         "sources": [
           "https://www.meetup.com/sierra-club-griffith-park-hikes/events/316808996/"
         ],
@@ -2318,7 +2334,7 @@
         "image": "https://secure-content.meetupstatic.com/images/classic-events/531243731/676x676.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
