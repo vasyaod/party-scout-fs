@@ -3253,23 +3253,36 @@
         "id": "2026-11-23-music-rave-nowhere-alleyeowl-ketamin-a1c914",
         "eid": "rave-nowhere-alleyeowl-k-a7ff",
         "track": "music",
-        "category": "",
+        "category": "Nightclub",
         "name": "Rave Nowhere: Alleyeowl, Ketamine Princess, Sativanotsex, Zerowishes, Ultraviolet, DJ Yuba, Estellita",
         "day": "Sat",
         "date": "2026-11-28",
         "time": "22:00",
-        "start": null,
-        "end": null,
-        "area": "San Francisco",
+        "start": "22:00",
+        "end": "05:00",
+        "area": "SF",
         "venue": "TBA",
         "address": "",
-        "why": "",
-        "summary": "",
+        "why": "A late hard-techno night for 18+ ravers, running until 5am with a deep local lineup.",
+        "summary": "An all-night Rave Nowhere party in San Francisco with a hard techno and hard dance lineup: Alleyeowl, Ketamine Princess, Sativanotsex, Zerowishes, Ultraviolet, DJ Yuba and Estellita. 10pm to 5am, 18+; the venue is still TBA.",
         "promoter": "",
         "price": "",
-        "tags": [],
+        "tags": [
+          "dj",
+          "electronic",
+          "rave",
+          "underground",
+          "21+",
+          "hard techno",
+          "hard dance",
+          "18+"
+        ],
         "sources": [
-          "https://www.instagram.com/p/DdXJ1-alX7-/?img_index=1"
+          "https://www.instagram.com/p/DdXJ1-alX7-/?img_index=1",
+          {
+            "url": "https://19hz.info/eventlisting_BayArea.php",
+            "hidden": true
+          }
         ],
         "tickets": [],
         "maps": {
@@ -3282,30 +3295,36 @@
         "image": "https://api.party-scout.app/img/san-francisco/2026-11-23/rave-nowhere-alleyeowl-k-a7ff.jpg",
         "image_generated": true,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
         "id": "2026-11-23-music-sexbeat-49aliens-hot-goth-gf-c-9e19cf",
         "eid": "sexbeat-49aliens-hot-got-de92",
         "track": "music",
-        "category": "",
+        "category": "Concert",
         "name": "Sexbeat: 49Aliens, Hot Goth GF, Chat Noir, Goth Tio",
         "day": "Sat",
         "date": "2026-11-28",
         "time": "21:00",
-        "start": null,
-        "end": null,
+        "start": "21:00",
+        "end": "02:00",
         "area": "San Francisco",
         "venue": "DNA Lounge",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "375 Eleventh Street, San Francisco, CA 94103",
+        "why": "To see several goth/alternative acts together on one affordable bill.",
+        "summary": "A multi-act show on 2026-11-28 at 375 Eleventh Street in San Francisco featuring 49Aliens, Hot Goth GF, Chat Noir, and Goth Tio. Tickets are listed at $12–$17.",
         "promoter": "",
-        "price": "",
-        "tags": [],
+        "price": "$12–$17",
+        "tags": [
+          "goth",
+          "live",
+          "alternative",
+          "ticketed"
+        ],
         "sources": [
-          "https://www.dnalounge.com/calendar/2026/11-28d.html"
+          "https://www.dnalounge.com/calendar/2026/11-28d.html",
+          "https://dothebay.com/events/2026/11/28/sexbeat-tickets"
         ],
         "tickets": [],
         "maps": {
@@ -3316,9 +3335,9 @@
         "coords_precise": false,
         "ra": {},
         "image": "https://api.party-scout.app/img/san-francisco/2026-11-23/sexbeat-49aliens-hot-got-de92.jpg",
-        "image_generated": true,
+        "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
@@ -3330,20 +3349,29 @@
         "day": "Sat",
         "date": "2026-11-28",
         "time": "22:00",
-        "start": null,
+        "start": "22:00",
         "end": null,
-        "area": "San Francisco",
+        "area": "SoMa",
         "venue": "August Hall",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "420 Mason St, San Francisco, CA 94102",
+        "why": "A late Saturday bass show in a historic ballroom with a big sound system, built for people who want to dance past midnight.",
+        "summary": "Vessbroz takes over August Hall on Saturday night, Nov 28, with a 10 PM start. Expect a bass-heavy late-night dance floor in the Tenderloin/Union Square corner of the city.",
         "promoter": "",
         "price": "",
-        "tags": [],
+        "tags": [
+          "event",
+          "indoor",
+          "bass",
+          "electronic",
+          "late-night",
+          "august-hall"
+        ],
         "sources": [
           "https://dothebay.com/events/2026/11/28/vessbroz-tickets"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://www.ticketmaster.com/vessbroz-san-francisco-california-11-28-2026/event/1C006537DA29DC8C"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=August%20Hall%2C%20San%20Francisco",
           "apple": "https://maps.apple.com/?q=August%20Hall%2C%20San%20Francisco"
@@ -3352,9 +3380,9 @@
         "coords_precise": false,
         "ra": {},
         "image": "https://api.party-scout.app/img/san-francisco/2026-11-23/vessbroz-af37.jpg",
-        "image_generated": true,
+        "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
@@ -4272,21 +4300,26 @@
         "id": "2026-11-23-sports-volleyball-training-and-playin-a328bf",
         "eid": "volleyball-training-and-dcb4",
         "track": "sports",
-        "category": "",
+        "category": "Sports",
         "name": "Volleyball. Training and Playing.",
         "day": "Sat",
         "date": "2026-11-28",
         "time": "09:00",
-        "start": null,
-        "end": null,
+        "start": "09:00",
+        "end": "14:00",
         "area": "San Francisco",
         "venue": "Ocean Beach, Stairwell 17, just across from Beach Chalet, 1000 Great Hwy",
         "address": "1000 Great Hwy, San Francisco, CA",
-        "why": "",
-        "summary": "",
+        "why": "To practice skills, get exercise, and meet fellow players.",
+        "summary": "A volleyball training and playing session scheduled for November 28, 2026 in San Francisco.",
         "promoter": "",
-        "price": "",
-        "tags": [],
+        "price": "Free (donations welcome)",
+        "tags": [
+          "sports",
+          "volleyball",
+          "community",
+          "drop-in"
+        ],
         "sources": [
           "https://www.meetup.com/san-francisco-volleyball-training-playing-meetup-group/events/317068657/",
           "https://www.meetup.com/san-francisco-volleyball-training-playing-meetup-group/events/317068659/"
@@ -4302,7 +4335,7 @@
         "image": "https://secure-content.meetupstatic.com/images/classic-events/499116954/676x676.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
@@ -4314,16 +4347,21 @@
         "day": "Sat",
         "date": "2026-11-28",
         "time": "08:00",
-        "start": null,
-        "end": null,
+        "start": "08:00",
+        "end": "10:30",
         "area": "San Francisco",
         "venue": "Coffee To The People, Coffee To The People, 1206 Masonic AveSan Francisco, CA 94117, USA",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "Coffee To The People, 1206 Masonic AveSan Francisco, CA 94117, USA, San Francisco, CA",
+        "why": "To connect with others through thoughtful conversation while walking.",
+        "summary": "A walk-and-talk meetup that begins at Coffee To The People (1206 Masonic Ave) on November 28, 2026, focused on discussing life's big questions.",
         "promoter": "",
         "price": "",
-        "tags": [],
+        "tags": [
+          "discussion",
+          "walking",
+          "outdoor",
+          "community"
+        ],
         "sources": [
           "https://www.meetup.com/the-board-walks-san-francisco/events/316905051/"
         ],
@@ -4335,10 +4373,10 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/san-francisco/2026-11-23/walk-talk-about-life-s-b-5860.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
