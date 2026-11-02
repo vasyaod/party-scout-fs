@@ -5,7 +5,7 @@
   "location": "Los Angeles & SoCal",
   "city": "los-angeles",
   "city_label": "Los Angeles",
-  "generated_at": "2026-10-31",
+  "generated_at": "2026-11-02",
   "tracks": {
     "music": [
       {
@@ -342,7 +342,7 @@
         "start": "20:00",
         "end": "00:00",
         "area": "Los Angeles",
-        "venue": "Shrine Expo Hall (Los Angeles)",
+        "venue": "Shrine Expo Hall",
         "address": "665 W. Jefferson Blvd, Los Angeles, CA 90007",
         "why": "To catch multiple touring and local electronic acts on one bill.",
         "summary": "A multi-act show on 2026-11-19 at 665 W. Jefferson Blvd in Los Angeles featuring Brutalismus 3000, Eurohead, Oza, Ali Rq, and Debasement; tickets are listed at $61.",
@@ -355,7 +355,23 @@
           "ticketed"
         ],
         "sources": [
-          "https://ra.co/events/2537217"
+          "https://ra.co/events/2537217",
+          {
+            "url": "https://www.axs.com/events/1541331",
+            "hidden": true
+          },
+          {
+            "url": "https://ra.co/events/us/losangeles",
+            "hidden": true
+          },
+          {
+            "url": "https://19hz.info/eventlisting_LosAngeles.php",
+            "hidden": true
+          },
+          {
+            "url": "https://edmtrain.com/los-angeles-ca",
+            "hidden": true
+          }
         ],
         "tickets": [
           "https://ra.co/events/2537217"
@@ -367,11 +383,33 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "https://party-scout.app/img/gen/brutalismus-3000-eurohea-7b5a.jpg",
+        "image": "https://images.ra.co/2bb5aeb82d73714dd0a1990fda933df1c6776d62.jpg",
         "image_generated": false,
         "popularity": 0,
         "enriched": 1,
-        "active": true
+        "active": true,
+        "lineup": [
+          {
+            "name": "Brutalismus 3000",
+            "instagram": null
+          },
+          {
+            "name": "Eurohead",
+            "instagram": null
+          },
+          {
+            "name": "OZA",
+            "instagram": null
+          },
+          {
+            "name": "ali rq",
+            "instagram": null
+          },
+          {
+            "name": "deBasement",
+            "instagram": null
+          }
+        ]
       },
       {
         "id": "2026-11-16-music-memphis-lk-60d52e",
@@ -536,7 +574,7 @@
         "name": "Grave Rave",
         "day": "Fri",
         "date": "2026-11-20",
-        "time": "10pm–3am",
+        "time": "22:00",
         "start": "22:00",
         "end": "03:00",
         "area": "Los Angeles",
@@ -701,8 +739,8 @@
         "time": "22:00",
         "start": "22:00",
         "end": "02:00",
-        "area": "Hollywood",
-        "venue": "Sound Nightclub (Los Angeles)",
+        "area": "Los Angeles",
+        "venue": "Sound Nightclub",
         "address": "",
         "why": "Tom & Collins are a DJ Mag Top 100 act known for melodic, driving house, and Sound's room is built for exactly that.",
         "summary": "Mexican house duo Tom & Collins headline a Friday night at Sound Nightclub, with Dor Danino and Reza on the bill. Doors 10pm, running to 2am.",
@@ -714,7 +752,20 @@
           "nightclub",
           "hollywood"
         ],
-        "sources": [],
+        "sources": [
+          {
+            "url": "https://dice.fm/event/6dkay8-tom-collins-20th-nov-sound-nightclub-los-angeles-tickets",
+            "hidden": true
+          },
+          {
+            "url": "https://edmtrain.com/los-angeles-ca",
+            "hidden": true
+          },
+          {
+            "url": "https://19hz.info/eventlisting_LosAngeles.php",
+            "hidden": true
+          }
+        ],
         "tickets": [],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Sound%20Nightclub%20%28Los%20Angeles%29%2C%20Los%20Angeles",
@@ -723,8 +774,8 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
-        "image_generated": false,
+        "image": "https://api.party-scout.app/img/los-angeles/2026-11-16/tom-collins-dor-danino-r-c87d.jpg",
+        "image_generated": true,
         "popularity": 0,
         "enriched": 1,
         "active": true
@@ -825,7 +876,7 @@
         "name": "Work Weekender Day 1: Fadi Mohem, Fizch, & Lindsey Herbert",
         "day": "Fri",
         "date": "2026-11-20",
-        "time": "23:00-05:00",
+        "time": "23:00",
         "start": "23:00",
         "end": "05:00",
         "area": "Los Angeles",
@@ -888,7 +939,7 @@
         "name": "Barely Alive w/ Luci",
         "day": "Sat",
         "date": "2026-11-21",
-        "time": "10pm",
+        "time": "22:00",
         "start": "22:00",
         "end": null,
         "area": "Los Angeles",
@@ -1187,7 +1238,7 @@
         "name": "Paradisco w/Shefa",
         "day": "Sat",
         "date": "2026-11-21",
-        "time": "10pm–2am",
+        "time": "22:00",
         "start": "22:00",
         "end": "02:00",
         "area": "Los Angeles",
@@ -1286,7 +1337,7 @@
         "name": "Steam Towel Party Long Beach - Jae Fusz",
         "day": "Sat",
         "date": "2026-11-21",
-        "time": "9pm–2am",
+        "time": "21:00",
         "start": "21:00",
         "end": "02:00",
         "area": "Los Angeles",
@@ -1344,7 +1395,23 @@
         "price": "free w/rsvp b4 11pm / $15",
         "tags": [],
         "sources": [
-          "https://ra.co/events/2553788"
+          "https://ra.co/events/2553788",
+          {
+            "url": "https://www.ticketweb.com/event/id/14325324",
+            "hidden": true
+          },
+          {
+            "url": "https://edmtrain.com/los-angeles-ca",
+            "hidden": true
+          },
+          {
+            "url": "https://ra.co/events/us/losangeles",
+            "hidden": true
+          },
+          {
+            "url": "https://19hz.info/eventlisting_LosAngeles.php",
+            "hidden": true
+          }
         ],
         "tickets": [
           "https://ra.co/events/2553788"
@@ -1490,7 +1557,7 @@
         "name": "Chvrches",
         "day": "Mon",
         "date": "2026-11-16",
-        "time": "7pm",
+        "time": "19:00",
         "start": "19:00",
         "end": null,
         "area": "Los Angeles",
@@ -1525,8 +1592,8 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
-        "image_generated": false,
+        "image": "https://api.party-scout.app/img/los-angeles/2026-11-16/chvrches-9440.jpg",
+        "image_generated": true,
         "popularity": 0,
         "enriched": 1,
         "active": true
@@ -1542,7 +1609,7 @@
         "time": "7:00 PM",
         "start": "19:00",
         "end": null,
-        "area": "Koreatown",
+        "area": "Los Angeles",
         "venue": "The Wiltern",
         "address": "",
         "why": "A rare all-star Monday night: rock, comedy and surprise guests for two good causes.",
@@ -1584,7 +1651,7 @@
         "name": "VINSON presents: Good Company",
         "day": "Tue",
         "date": "2026-11-17",
-        "time": "20:00-00:00",
+        "time": "20:00",
         "start": "20:00",
         "end": "00:00",
         "area": "Los Angeles",
@@ -1767,7 +1834,7 @@
         "name": "The Goddamn Gallows",
         "day": "Thu",
         "date": "2026-11-19",
-        "time": "20:00-02:00",
+        "time": "20:00",
         "start": "20:00",
         "end": "02:00",
         "area": "Los Angeles",
@@ -1801,8 +1868,8 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
-        "image_generated": false,
+        "image": "https://api.party-scout.app/img/los-angeles/2026-11-16/the-goddamn-gallows-1e5a.jpg",
+        "image_generated": true,
         "popularity": 0,
         "enriched": 1,
         "active": true
@@ -1871,7 +1938,7 @@
         "why": "For a late-night nightlife/party experience in Hollywood.",
         "summary": "Minty Boi Presents is a late-night event on November 19, 2026 at 4212 W. Sunset Blvd, Los Angeles, running 10pm–2am.",
         "promoter": "",
-        "price": "",
+        "price": "$27",
         "tags": [
           "dj",
           "late-night",
@@ -1882,7 +1949,19 @@
             "url": "https://edmtrain.com/los-angeles-ca",
             "hidden": true
           },
-          "https://ra.co/events/2556157"
+          "https://ra.co/events/2556157",
+          {
+            "url": "https://dice.fm/event/wwk35p-minty-boi-presents-memphis-lk-in-los-angeles-19th-nov-el-cid-los-angeles-tickets",
+            "hidden": true
+          },
+          {
+            "url": "https://ra.co/events/us/losangeles",
+            "hidden": true
+          },
+          {
+            "url": "https://19hz.info/eventlisting_LosAngeles.php",
+            "hidden": true
+          }
         ],
         "tickets": [
           "https://ra.co/events/2556157"
@@ -1898,7 +1977,13 @@
         "image_generated": false,
         "popularity": 0,
         "enriched": 1,
-        "active": true
+        "active": true,
+        "lineup": [
+          {
+            "name": "Memphis LK",
+            "instagram": null
+          }
+        ]
       },
       {
         "id": "2026-11-16-music-borgore-pyke-b2b-badklaat-ca0ea3",
@@ -2000,7 +2085,7 @@
         "name": "Bun Shop Apron Party",
         "day": "Fri",
         "date": "2026-11-20",
-        "time": "21:00-02:00",
+        "time": "21:00",
         "start": "21:00",
         "end": "02:00",
         "area": "Los Angeles",
@@ -2042,10 +2127,10 @@
         "name": "Electric Ave.",
         "day": "Fri",
         "date": "2026-11-20",
-        "time": "10pm",
+        "time": "22:00",
         "start": "22:00",
         "end": null,
-        "area": "Silver Lake",
+        "area": "Los Angeles",
         "venue": "Los Globos",
         "address": "",
         "why": "To attend a nightlife/party event in Los Angeles on November 20.",
@@ -2073,7 +2158,7 @@
         "coords_precise": false,
         "ra": {},
         "image": "https://api.party-scout.app/img/los-angeles/2026-11-16/electric-ave-61c5.jpg",
-        "image_generated": false,
+        "image_generated": true,
         "popularity": 0,
         "enriched": 1,
         "active": true
@@ -2086,10 +2171,10 @@
         "name": "Glow in the Dark (Hannah Duckworth)",
         "day": "Fri",
         "date": "2026-11-20",
-        "time": "20:00-02:00",
+        "time": "20:00",
         "start": "20:00",
         "end": "02:00",
-        "area": "DTLA",
+        "area": "Los Angeles",
         "venue": "The Redwood Bar And Grill",
         "address": "316 W. 2nd Street, Los Angeles, CA  90012",
         "why": "For a neon-lit, performance-driven night out in downtown LA.",
@@ -2120,8 +2205,8 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
-        "image_generated": false,
+        "image": "https://api.party-scout.app/img/los-angeles/2026-11-16/glow-in-the-dark-hannah-1469.jpg",
+        "image_generated": true,
         "popularity": 0,
         "enriched": 1,
         "active": true
@@ -2134,7 +2219,7 @@
         "name": "Grotto - Hewan Aman, Matas",
         "day": "Fri",
         "date": "2026-11-20",
-        "time": "22:00-05:00",
+        "time": "22:00",
         "start": "22:00",
         "end": "05:00",
         "area": "Los Angeles",
@@ -2167,11 +2252,29 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "https://api.party-scout.app/img/los-angeles/2026-11-16/grotto-hewan-aman-matas-f070.jpg",
+        "image": "https://images.ra.co/106f04b68dd0c4fc76efb45819197b326a5da03e.png",
         "image_generated": false,
         "popularity": 0,
         "enriched": 1,
-        "active": true
+        "active": true,
+        "lineup": [
+          {
+            "name": "Hewan Aman",
+            "instagram": null
+          },
+          {
+            "name": "Matas",
+            "instagram": null
+          },
+          {
+            "name": "J.dB",
+            "instagram": null
+          },
+          {
+            "name": "Miracles",
+            "instagram": null
+          }
+        ]
       },
       {
         "id": "2026-11-16-music-houndmouth-1e9d40",
@@ -2184,7 +2287,7 @@
         "time": "8:00 PM",
         "start": null,
         "end": null,
-        "area": "Koreatown",
+        "area": "Los Angeles",
         "venue": "The Wiltern",
         "address": "3790 Wilshire Blvd, Los Angeles, CA 90010",
         "why": "Harmony-heavy Americana rock in a grand art-deco theatre — a strong Friday-night live-music pick.",
@@ -2224,7 +2327,7 @@
         "name": "House Worx (High Octane House Anthems - All Nite Long)",
         "day": "Fri",
         "date": "2026-11-20",
-        "time": "10pm–2am",
+        "time": "22:00",
         "start": "22:00",
         "end": "02:00",
         "area": "Los Angeles",
@@ -2257,7 +2360,7 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "https://api.party-scout.app/img/los-angeles/2026-11-16/house-worx-high-octane-h-8b34.jpg",
+        "image": "https://dice-media.imgix.net/attachments/2026-10-14/9b08afd6-f478-416a-94b6-c9b2808bd210.jpg?rect=0%2C216%2C1080%2C648",
         "image_generated": false,
         "popularity": 0,
         "enriched": 1,
@@ -2271,7 +2374,7 @@
         "name": "Iheartwubz",
         "day": "Fri",
         "date": "2026-11-20",
-        "time": "10pm–2am",
+        "time": "22:00",
         "start": "22:00",
         "end": "02:00",
         "area": "Los Angeles",
@@ -2303,7 +2406,7 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "https://api.party-scout.app/img/los-angeles/2026-11-16/iheartwubz-681f.jpg",
+        "image": "https://dice-media.imgix.net/attachments/2026-10-15/8642ff9e-a90a-4f2b-a8bf-7e166ce50d00.jpg?rect=0%2C289%2C1218%2C731",
         "image_generated": false,
         "popularity": 0,
         "enriched": 1,
@@ -2317,7 +2420,7 @@
         "name": "MELT: Gio Shengelia, Sky Rivers",
         "day": "Fri",
         "date": "2026-11-20",
-        "time": "23:59-08:00",
+        "time": "23:59",
         "start": "23:59",
         "end": "08:00",
         "area": "Los Angeles",
@@ -2418,7 +2521,7 @@
         "name": "The One Hundred: Juliet Mendoza, SAMO\\, Yazmina",
         "day": "Fri",
         "date": "2026-11-20",
-        "time": "9pm–2am",
+        "time": "21:00",
         "start": "21:00",
         "end": "02:00",
         "area": "Los Angeles",
@@ -2457,8 +2560,8 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "https://api.party-scout.app/img/los-angeles/2026-11-16/the-one-hundred-juliet-m-94dd.jpg",
-        "image_generated": false,
+        "image": "https://api.party-scout.app/img/los-angeles/2026-11-16/the-one-hundred-ddb2.jpg",
+        "image_generated": true,
         "popularity": 0,
         "enriched": 1,
         "active": true
@@ -2471,7 +2574,7 @@
         "name": "RAW CUTS: Los Angeles",
         "day": "Fri",
         "date": "2026-11-20",
-        "time": "21:00-03:00",
+        "time": "21:00",
         "start": "21:00",
         "end": "03:00",
         "area": "Los Angeles",
@@ -2514,11 +2617,33 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "https://api.party-scout.app/img/los-angeles/2026-11-16/raw-cuts-los-angeles-8618.jpg",
+        "image": "https://images.ra.co/bb75dd9eb2bc9278bd9eb359cb6a1be8cc1280f3.jpg",
         "image_generated": false,
         "popularity": 0,
         "enriched": 1,
-        "active": true
+        "active": true,
+        "lineup": [
+          {
+            "name": "Hank (US)",
+            "instagram": null
+          },
+          {
+            "name": "Cole Terrazas",
+            "instagram": null
+          },
+          {
+            "name": "Adam Rose",
+            "instagram": null
+          },
+          {
+            "name": "EREZ.JPG",
+            "instagram": null
+          },
+          {
+            "name": "shanty mane",
+            "instagram": null
+          }
+        ]
       },
       {
         "id": "2026-11-16-music-trainspotting-night-126eba",
@@ -2574,7 +2699,7 @@
         "name": "WORK Weekender: Fadi Mohem, FJAAK, Lindsey Herbert, Luigi Tozzi, The Lady Machine & More",
         "day": "Fri",
         "date": "2026-11-20",
-        "time": "23:00-22:00",
+        "time": "23:00",
         "start": "23:00",
         "end": "11:00",
         "area": "Los Angeles",
@@ -2618,7 +2743,7 @@
         "coords_precise": false,
         "ra": {},
         "image": "https://api.party-scout.app/img/los-angeles/2026-11-16/work-weekender-fadi-mohe-49d3.jpg",
-        "image_generated": false,
+        "image_generated": true,
         "popularity": 0,
         "enriched": 1,
         "active": true
@@ -2631,7 +2756,7 @@
         "name": "Andre Power",
         "day": "Sat",
         "date": "2026-11-21",
-        "time": "10pm–2:30am",
+        "time": "22:00",
         "start": "22:00",
         "end": "02:30",
         "area": "Los Angeles",
@@ -2662,7 +2787,7 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "https://api.party-scout.app/img/los-angeles/2026-11-16/andre-power-dcf3.jpg",
+        "image": "https://dice-media.imgix.net/attachments/2026-10-07/0f1afa2b-0c2a-4dbf-9545-4a9f14ea7dcf.jpg?rect=0%2C216%2C1080%2C648",
         "image_generated": false,
         "popularity": 0,
         "enriched": 1,
@@ -2676,7 +2801,7 @@
         "name": "B-Side Los Angeles presents: Mirror Mode - Machinedrum Face to Face Rohaan",
         "day": "Sat",
         "date": "2026-11-21",
-        "time": "21:00-02:00",
+        "time": "21:00",
         "start": "21:00",
         "end": "02:00",
         "area": "Los Angeles",
@@ -2710,11 +2835,21 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "https://api.party-scout.app/img/los-angeles/2026-11-16/b-side-los-angeles-prese-02a6.jpg",
+        "image": "https://images.ra.co/ade3ded1c4e6d3e2ee8a527100a33c197fa63d24.jpg",
         "image_generated": false,
         "popularity": 0,
         "enriched": 1,
-        "active": true
+        "active": true,
+        "lineup": [
+          {
+            "name": "Machinedrum",
+            "instagram": null
+          },
+          {
+            "name": "Rohaan",
+            "instagram": null
+          }
+        ]
       },
       {
         "id": "2026-11-16-music-baba-stiltz-5dcfe2",
@@ -2766,7 +2901,7 @@
         "name": "Beacon of Light: Jonah Sharp, Lovefingers, Felix The Dog",
         "day": "Sat",
         "date": "2026-11-21",
-        "time": "22:00-06:00",
+        "time": "22:00",
         "start": "22:00",
         "end": "06:00",
         "area": "Los Angeles",
@@ -2885,10 +3020,10 @@
         "name": "The Buckhenries",
         "day": "Sat",
         "date": "2026-11-21",
-        "time": "20:00-02:00",
+        "time": "20:00",
         "start": "20:00",
         "end": "02:00",
-        "area": "DTLA",
+        "area": "Los Angeles",
         "venue": "The Redwood Bar And Grill",
         "address": "316 W. 2nd Street, Los Angeles, CA  90012",
         "why": "A cheap $10 night of live music at a classic DTLA dive bar, with the bar open late.",
@@ -2920,8 +3055,8 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
-        "image_generated": false,
+        "image": "https://api.party-scout.app/img/los-angeles/2026-11-16/the-buckhenries-2139.jpg",
+        "image_generated": true,
         "popularity": 0,
         "enriched": 1,
         "active": true
@@ -2934,10 +3069,10 @@
         "name": "COMMONTHREAD - JUNGLE GYM",
         "day": "Sat",
         "date": "2026-11-21",
-        "time": "21:00-02:00",
+        "time": "21:00",
         "start": "21:00",
         "end": "02:00",
-        "area": "Hollywood",
+        "area": "Los Angeles",
         "venue": "The Airliner",
         "address": "2419 N Broadway, Los Angeles, CA 90036",
         "why": "For a lively night of music and dancing in Hollywood.",
@@ -2963,11 +3098,21 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "https://api.party-scout.app/img/los-angeles/2026-11-16/commonthread-jungle-gym-9c59.jpg",
+        "image": "https://images.ra.co/d8f973dfde603d1006dc451d77b3f0bf5a22c878.png",
         "image_generated": false,
         "popularity": 0,
         "enriched": 1,
-        "active": true
+        "active": true,
+        "lineup": [
+          {
+            "name": "mira.avi",
+            "instagram": null
+          },
+          {
+            "name": "Salenta",
+            "instagram": null
+          }
+        ]
       },
       {
         "id": "2026-11-16-music-gather-marques-wyatt-jeremy-so-9567b8",
@@ -3018,10 +3163,10 @@
         "name": "GRANDMA RAVE",
         "day": "Sat",
         "date": "2026-11-21",
-        "time": "8–10:30pm",
+        "time": "20:00",
         "start": "20:00",
         "end": "22:30",
-        "area": "North Hollywood",
+        "area": "Los Angeles",
         "venue": "TBA",
         "address": "undefined undefined, Los Angeles, California 91601",
         "why": "To check out a notable nightlife event happening that night.",
@@ -3048,7 +3193,7 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "https://api.party-scout.app/img/los-angeles/2026-11-16/grandma-rave-a23d.jpg",
+        "image": "https://partiful.imgix.net/external/user/Ap9aQpY3Z9VxhpfHYpkAclZTRM53/pW_8fbf0eO4-Qh2IMhSlW?w=1000&h=1000&fit=clip",
         "image_generated": false,
         "popularity": 0,
         "enriched": 1,
@@ -3102,7 +3247,7 @@
         "name": "House Party",
         "day": "Sat",
         "date": "2026-11-21",
-        "time": "10pm–2am",
+        "time": "22:00",
         "start": "22:00",
         "end": "02:00",
         "area": "Los Angeles",
@@ -3133,7 +3278,7 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "https://api.party-scout.app/img/los-angeles/2026-11-16/house-party-10cf.jpg",
+        "image": "https://dice-media.imgix.net/attachments/2026-09-30/7e2dfe64-c088-454d-a943-b64186b67f8a.jpg?rect=0%2C702%2C2160%2C1296",
         "image_generated": false,
         "popularity": 0,
         "enriched": 1,
@@ -3147,7 +3292,7 @@
         "name": "HYPER-MUSE *postponed*",
         "day": "Sat",
         "date": "2026-11-21",
-        "time": "22:00-02:00",
+        "time": "22:00",
         "start": "22:00",
         "end": "02:00",
         "area": "Los Angeles",
@@ -3186,8 +3331,8 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "https://api.party-scout.app/img/los-angeles/2026-11-16/hyper-muse-postponed-febd.jpg",
-        "image_generated": false,
+        "image": "https://api.party-scout.app/img/los-angeles/2026-11-16/hyper-muse-d032.jpg",
+        "image_generated": true,
         "popularity": 0,
         "enriched": 1,
         "active": true
@@ -3200,7 +3345,7 @@
         "name": "Lights Down Low x WARP MODE feat. Baauer + umru",
         "day": "Sat",
         "date": "2026-11-21",
-        "time": "23:00-05:00",
+        "time": "23:00",
         "start": "23:00",
         "end": "05:00",
         "area": "Los Angeles",
@@ -3242,7 +3387,7 @@
         "coords_precise": false,
         "ra": {},
         "image": "https://api.party-scout.app/img/los-angeles/2026-11-16/lights-down-low-x-warp-m-2784.jpg",
-        "image_generated": false,
+        "image_generated": true,
         "popularity": 0,
         "enriched": 1,
         "active": true
@@ -3255,7 +3400,7 @@
         "name": "Midnight Lovers with Cinthie (All Night Long)",
         "day": "Sat",
         "date": "2026-11-21",
-        "time": "23:59-05:00",
+        "time": "23:59",
         "start": "23:59",
         "end": "05:00",
         "area": "Los Angeles",
@@ -3291,7 +3436,7 @@
         "coords_precise": false,
         "ra": {},
         "image": "https://api.party-scout.app/img/los-angeles/2026-11-16/midnight-lovers-with-cin-09fa.jpg",
-        "image_generated": false,
+        "image_generated": true,
         "popularity": 0,
         "enriched": 1,
         "active": true
@@ -3304,7 +3449,7 @@
         "name": "MILLK presents: TBA",
         "day": "Sat",
         "date": "2026-11-21",
-        "time": "23:00-05:00",
+        "time": "23:00",
         "start": "23:00",
         "end": "05:00",
         "area": "Los Angeles",
@@ -3342,10 +3487,10 @@
         "name": "Steve Lacy",
         "day": "Sat",
         "date": "2026-11-21",
-        "time": "8pm",
+        "time": "20:00",
         "start": "20:00",
         "end": null,
-        "area": "Hollywood",
+        "area": "Los Angeles",
         "venue": "Hollywood Bowl",
         "address": "",
         "why": "To catch a guitar-forward blend of contemporary R&B and indie-soul live.",
@@ -3373,7 +3518,7 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "https://api.party-scout.app/img/los-angeles/2026-11-16/steve-lacy-dd6c.jpg",
+        "image": "https://4f03t4b16s.ucarecd.net/c16c2ad9-2d0d-44cb-8f62-6b1396574ab8/-/crop/531x360/5,0/-/preview/",
         "image_generated": false,
         "popularity": 0,
         "enriched": 1,
@@ -3387,7 +3532,7 @@
         "name": "WORK Weekender Day 2: Adrian Reyes, Luigi Tozzi [Live], & The Lady Machine",
         "day": "Sat",
         "date": "2026-11-21",
-        "time": "23:00-06:00",
+        "time": "23:00",
         "start": "23:00",
         "end": "06:00",
         "area": "Los Angeles",
@@ -3428,7 +3573,7 @@
         "coords_precise": false,
         "ra": {},
         "image": "https://api.party-scout.app/img/los-angeles/2026-11-16/work-weekender-day-2-adr-77e9.jpg",
-        "image_generated": false,
+        "image_generated": true,
         "popularity": 0,
         "enriched": 1,
         "active": true
@@ -3444,7 +3589,7 @@
         "time": "",
         "start": null,
         "end": null,
-        "area": "Mid-Wilshire",
+        "area": "Los Angeles",
         "venue": "The Wiltern",
         "address": "",
         "why": "Two scene-defining 2000s bands on one bill, with a full co-headline set from each.",
@@ -3485,7 +3630,7 @@
         "name": "Sunday Sessions LA (Vinyl Only) Open Air",
         "day": "Sun",
         "date": "2026-11-22",
-        "time": "18:00-00:00",
+        "time": "18:00",
         "start": "18:00",
         "end": "00:00",
         "area": "Los Angeles",
@@ -3546,7 +3691,7 @@
         "name": "WORK Weekender Day 3: BB Shaine, David Castellani [LIVE], & FJAAK",
         "day": "Sun",
         "date": "2026-11-22",
-        "time": "16:00-22:00",
+        "time": "16:00",
         "start": "16:00",
         "end": "22:00",
         "area": "Los Angeles",
@@ -3588,9 +3733,81 @@
         "coords_precise": false,
         "ra": {},
         "image": "https://api.party-scout.app/img/los-angeles/2026-11-16/work-weekender-day-3-bb-532f.jpg",
-        "image_generated": false,
+        "image_generated": true,
         "popularity": 0,
         "enriched": 1,
+        "active": true
+      },
+      {
+        "id": "2026-11-16-music-hologram-teen-lance-rock-yacht-bad03a",
+        "eid": "hologram-teen-lance-rock-2728",
+        "track": "music",
+        "category": "",
+        "name": "Hologram Teen, Lance Rock, Yacht",
+        "day": "Tue",
+        "date": "2026-11-17",
+        "time": "20:00",
+        "start": null,
+        "end": null,
+        "area": "Los Angeles",
+        "venue": "Zebulon",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "",
+        "tags": [],
+        "sources": [
+          "https://dice.fm/event/6a82a774c386c20001705805"
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=Zebulon%2C%20Los%20Angeles",
+          "apple": "https://maps.apple.com/?q=Zebulon%2C%20Los%20Angeles"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-11-16-music-dopamine-a-feel-good-house-dis-0c165f",
+        "eid": "dopamine-a-feel-good-hou-f5ac",
+        "track": "music",
+        "category": "",
+        "name": "Dopamine: A Feel Good House & Disco Party",
+        "day": "Sat",
+        "date": "2026-11-21",
+        "time": "21:30",
+        "start": null,
+        "end": null,
+        "area": "Los Angeles",
+        "venue": "El Cid",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "",
+        "tags": [],
+        "sources": [
+          "https://dice.fm/event/6ab6bb881c269100013a3e74"
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=El%20Cid%2C%20Los%20Angeles",
+          "apple": "https://maps.apple.com/?q=El%20Cid%2C%20Los%20Angeles"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
         "active": true
       }
     ],
@@ -3648,7 +3865,7 @@
         "time": "18:45",
         "start": "18:45",
         "end": "20:15",
-        "area": "Torrance",
+        "area": "Los Angeles",
         "venue": "Torrance, 22400 Halldale Ave",
         "address": "22400 Halldale Ave, Torrance, CA",
         "why": "An easy way to get a game in midweek and meet new people without joining a league.",
@@ -3732,7 +3949,7 @@
         "time": "20:00",
         "start": "20:00",
         "end": "22:00",
-        "area": "DTLA",
+        "area": "Los Angeles",
         "venue": "Weller Court, 123 Astronaut Ellison S Onizuka Street,",
         "address": "123 Astronaut Ellison S Onizuka Street, Los Angeles, CA",
         "why": "A free, friendly weekly skate that runs every Tuesday — bring skates and join the pack.",
@@ -3776,7 +3993,7 @@
         "time": "19:00",
         "start": "19:00",
         "end": "21:00",
-        "area": "Westwood",
+        "area": "Los Angeles",
         "venue": "Sender One Climbing - Westwood, 10887 Lindbrook Dr",
         "address": "10887 Lindbrook Dr, Los Angeles, CA",
         "why": "A low-pressure way to meet queer people while climbing, even if you've never climbed — rentals are free.",
@@ -4220,7 +4437,7 @@
         "start": "09:00",
         "end": "17:00",
         "area": "Los Angeles",
-        "venue": "Pershing Square, 532 S Olive Street Los Angeles, California 90013",
+        "venue": "Los Angeles Los Angeles, CA, Los Angeles Los Angeles, CA",
         "address": "Los Angeles Los Angeles, CA, Los Angeles, CA",
         "why": "To get outdoors with the community and explore a notable city corridor on foot.",
         "summary": "The 21st Great Los Angeles Walk takes place on Santa Monica Boulevard on November 21, 2026, in Los Angeles.",
@@ -4247,7 +4464,7 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "https://api.party-scout.app/img/los-angeles/2026-11-16/21st-great-los-angeles-w-84ab.jpg",
+        "image": "https://secure-content.meetupstatic.com/images/classic-events/536614260/676x676.jpg",
         "image_generated": false,
         "popularity": 0,
         "enriched": 1,
@@ -4399,7 +4616,7 @@
         "time": "19:00",
         "start": "19:00",
         "end": "21:30",
-        "area": "Griffith Park",
+        "area": "Los Angeles",
         "venue": "Merry Go Round Lot Two",
         "address": "Los Angeles, CA",
         "why": "To experience Griffith Park at night and enjoy a group walk under the moon.",
@@ -4427,7 +4644,7 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "https://api.party-scout.app/img/los-angeles/2026-11-16/sierra-club-griffith-par-1fcf.jpg",
+        "image": "https://secure-content.meetupstatic.com/images/classic-events/504641613/676x676.jpg",
         "image_generated": false,
         "popularity": 0,
         "enriched": 1,
@@ -4474,6 +4691,331 @@
         "image_generated": false,
         "popularity": 0,
         "enriched": 1,
+        "active": true
+      },
+      {
+        "id": "2026-11-16-sports-queer-crush-la-boulders-9aa31b",
+        "eid": "queer-crush-la-boulders-4f44",
+        "track": "sports",
+        "category": "",
+        "name": "Queer Crush @ LA Boulders",
+        "day": "Thu",
+        "date": "2026-11-19",
+        "time": "19:00",
+        "start": null,
+        "end": null,
+        "area": "Los Angeles",
+        "venue": "LA Boulders, 1375 E 6th St #8",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "",
+        "tags": [],
+        "sources": [
+          "https://www.meetup.com/queer-crush-la/events/317215835/"
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=LA%20Boulders%2C%201375%20E%206th%20St%20%238%2C%20Los%20Angeles",
+          "apple": "https://maps.apple.com/?q=LA%20Boulders%2C%201375%20E%206th%20St%20%238%2C%20Los%20Angeles"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-11-16-sports-queer-crush-sender-one-lax-5423cc",
+        "eid": "queer-crush-sender-one-l-271f",
+        "track": "sports",
+        "category": "",
+        "name": "Queer Crush @ Sender One LAX",
+        "day": "Thu",
+        "date": "2026-11-19",
+        "time": "19:00",
+        "start": null,
+        "end": null,
+        "area": "Los Angeles",
+        "venue": "Sender One Climbing & Sender City - Los Angeles, 11220 Hindry Ave",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "",
+        "tags": [],
+        "sources": [
+          "https://www.meetup.com/queer-crush-la/events/317215836/"
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=Sender%20One%20Climbing%20%26%20Sender%20City%20-%20Los%20Angeles%2C%2011220%20Hindry%20Ave%2C%20Los%20Angeles",
+          "apple": "https://maps.apple.com/?q=Sender%20One%20Climbing%20%26%20Sender%20City%20-%20Los%20Angeles%2C%2011220%20Hindry%20Ave%2C%20Los%20Angeles"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-11-16-sports-best-saturday-pickup-max-9-x-9-431583",
+        "eid": "best-saturday-pickup-max-3917",
+        "track": "sports",
+        "category": "",
+        "name": "Best Saturday Pickup max 9 x 9- Playa Vista- Big Goals, Goalies",
+        "day": "Sat",
+        "date": "2026-11-21",
+        "time": "08:30",
+        "start": null,
+        "end": null,
+        "area": "Los Angeles",
+        "venue": "Playa Vista Bluff Creek Soccer Field, 12702 W. Bluff Creek Dr.   90094",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "",
+        "tags": [],
+        "sources": [
+          "https://www.meetup.com/playa-vista-pickup/events/317241307/",
+          "https://www.meetup.com/playa-vista-soccer-pickup/events/317241280/"
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=Playa%20Vista%20Bluff%20Creek%20Soccer%20Field%2C%2012702%20W.%20Bluff%20Creek%20Dr.%20%20%2090094%2C%20Los%20Angeles",
+          "apple": "https://maps.apple.com/?q=Playa%20Vista%20Bluff%20Creek%20Soccer%20Field%2C%2012702%20W.%20Bluff%20Creek%20Dr.%20%20%2090094%2C%20Los%20Angeles"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-11-16-sports-co-ed-pickup-soccer-los-angele-ff377d",
+        "eid": "co-ed-pickup-soccer-los-4a45",
+        "track": "sports",
+        "category": "",
+        "name": "Co-Ed Pickup Soccer Los Angeles (Exposition Park)",
+        "day": "Sat",
+        "date": "2026-11-21",
+        "time": "16:50",
+        "start": null,
+        "end": null,
+        "area": "Los Angeles",
+        "venue": "Exposition Park, 700 Exposition Park Dr",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "",
+        "tags": [],
+        "sources": [
+          "https://www.meetup.com/los-angeles-soccer-meetup-group-pezo/events/317246799/"
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=Exposition%20Park%2C%20700%20Exposition%20Park%20Dr%2C%20Los%20Angeles",
+          "apple": "https://maps.apple.com/?q=Exposition%20Park%2C%20700%20Exposition%20Park%20Dr%2C%20Los%20Angeles"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-11-16-sports-giving-thanks-5k-10k-15k-half-3315c8",
+        "eid": "giving-thanks-5k-10k-15k-236d",
+        "track": "sports",
+        "category": "",
+        "name": "Giving Thanks 5k, 10k, 15k, Half Marathon",
+        "day": "Sat",
+        "date": "2026-11-21",
+        "time": "",
+        "start": null,
+        "end": null,
+        "area": "Los Angeles",
+        "venue": "Los Angeles",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "",
+        "tags": [],
+        "sources": [
+          "https://www.runguides.com/event/35700/giving-thanks-5k-10k-15k-half-marathon"
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=Los%20Angeles%2C%20Los%20Angeles",
+          "apple": "https://maps.apple.com/?q=Los%20Angeles%2C%20Los%20Angeles"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-11-16-sports-harvest-hustle-5k-10k-and-half-e6e8a9",
+        "eid": "harvest-hustle-5k-10k-an-c698",
+        "track": "sports",
+        "category": "",
+        "name": "Harvest Hustle 5K, 10K, and Half Marathon",
+        "day": "Sat",
+        "date": "2026-11-21",
+        "time": "",
+        "start": null,
+        "end": null,
+        "area": "Los Angeles",
+        "venue": "Los Angeles",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "",
+        "tags": [],
+        "sources": [
+          "https://www.runguides.com/event/28820/harvest-hustle-5k-10k-and-half-marathon"
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=Los%20Angeles%2C%20Los%20Angeles",
+          "apple": "https://maps.apple.com/?q=Los%20Angeles%2C%20Los%20Angeles"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-11-16-sports-miles-for-migraine-los-angeles-5544f8",
+        "eid": "miles-for-migraine-los-a-b23c",
+        "track": "sports",
+        "category": "",
+        "name": "Miles for Migraine Los Angeles",
+        "day": "Sat",
+        "date": "2026-11-21",
+        "time": "",
+        "start": null,
+        "end": null,
+        "area": "Los Angeles",
+        "venue": "Los Angeles",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "",
+        "tags": [],
+        "sources": [
+          "https://www.runguides.com/event/15127/miles-for-migraine-los-angeles"
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=Los%20Angeles%2C%20Los%20Angeles",
+          "apple": "https://maps.apple.com/?q=Los%20Angeles%2C%20Los%20Angeles"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-11-16-sports-furgiving-run-half-marathon-dd2f98",
+        "eid": "furgiving-run-half-marat-9a59",
+        "track": "sports",
+        "category": "",
+        "name": "Furgiving Run Half Marathon",
+        "day": "Sun",
+        "date": "2026-11-22",
+        "time": "",
+        "start": null,
+        "end": null,
+        "area": "Los Angeles",
+        "venue": "Los Angeles",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "",
+        "tags": [],
+        "sources": [
+          "https://www.runguides.com/event/36707/furgiving-run-half-marathon"
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=Los%20Angeles%2C%20Los%20Angeles",
+          "apple": "https://maps.apple.com/?q=Los%20Angeles%2C%20Los%20Angeles"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-11-16-sports-la-classic-turkey-trot-4decc0",
+        "eid": "la-classic-turkey-trot-a4dc",
+        "track": "sports",
+        "category": "",
+        "name": "LA Classic Turkey Trot",
+        "day": "Sun",
+        "date": "2026-11-22",
+        "time": "",
+        "start": null,
+        "end": null,
+        "area": "Los Angeles",
+        "venue": "Los Angeles",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "",
+        "tags": [],
+        "sources": [
+          "https://www.runguides.com/event/28296/la-classic-turkey-trot"
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=Los%20Angeles%2C%20Los%20Angeles",
+          "apple": "https://maps.apple.com/?q=Los%20Angeles%2C%20Los%20Angeles"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
         "active": true
       }
     ]
