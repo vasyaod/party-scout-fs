@@ -10287,7 +10287,7 @@
         "time": "",
         "start": null,
         "end": null,
-        "area": "San Francisco",
+        "area": "SF",
         "venue": "Underground SF",
         "address": "",
         "why": "For a festive night out with friends.",
@@ -10320,7 +10320,7 @@
         "id": "2026-11-02-music-house-revolution-dj-poe-teknem-08d814",
         "eid": "house-revolution-dj-poe-6d9d",
         "track": "music",
-        "category": "",
+        "category": "Nightclub",
         "name": "House Revolution: DJ Poe, Teknemo, DJ Stux",
         "day": "Fri",
         "date": "2026-11-06",
@@ -10330,11 +10330,18 @@
         "area": "San Francisco",
         "venue": "Bella (San Francisco)",
         "address": "",
-        "why": "",
-        "summary": "",
+        "why": "Free house music on a Friday night with a three-DJ lineup, an easy early-evening start.",
+        "summary": "A Friday-night house music bill with DJ Poe, Teknemo and DJ Stux, 9pm to 11pm in San Francisco. Free entry per the 19hz listing.",
         "promoter": "",
-        "price": "",
-        "tags": [],
+        "price": "Free",
+        "tags": [
+          "house",
+          "dj",
+          "free",
+          "dance",
+          "electronic",
+          "friday"
+        ],
         "sources": [
           "https://www.instagram.com/houserevolutionchico/reel/De0L1XIqT3q/"
         ],
@@ -10349,14 +10356,14 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
         "id": "2026-11-02-music-lounge-sessions-elz-discoesq-5393b2",
         "eid": "lounge-sessions-elz-disc-ac28",
         "track": "music",
-        "category": "",
+        "category": "Nightclub",
         "name": "Lounge Sessions: Elz, Discoesq",
         "day": "Fri",
         "date": "2026-11-06",
@@ -10365,16 +10372,22 @@
         "end": "21:30",
         "area": "San Francisco",
         "venue": "Shack15 (San Francisco)",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "1 Ferry Building, #Suite 201, San Francisco, CA 94111",
+        "why": "For a relaxed, intimate evening of lounge music in the Ferry Building.",
+        "summary": "A lounge-style night featuring Elz and Discoesq at Suite 201 of the Ferry Building on November 6, 2026.",
         "promoter": "",
         "price": "$10 ",
-        "tags": [],
+        "tags": [
+          "dj",
+          "lounge",
+          "indoor"
+        ],
         "sources": [
           "https://www.eventbrite.com/e/shack15-live-lounge-sessions-tickets-2003475738867"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://www.eventbrite.com/e/shack15-live-lounge-sessions-tickets-2003475738867"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Shack15%20%28San%20Francisco%29%2C%20San%20Francisco",
           "apple": "https://maps.apple.com/?q=Shack15%20%28San%20Francisco%29%2C%20San%20Francisco"
@@ -10382,17 +10395,17 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/san-francisco/2026-11-02/lounge-sessions-elz-disc-ac28.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
         "id": "2026-11-02-music-resurgence-senyor-anxious-drip-0d3016",
         "eid": "resurgence-senyor-anxiou-9249",
         "track": "music",
-        "category": "",
+        "category": "Nightclub",
         "name": "Resurgence: Senyor, Anxious Drip, Sampphire, DJ Jaded, G!zmo, Endz, Afterprty, DJ Frank Nitty",
         "day": "Fri",
         "date": "2026-11-06",
@@ -10402,11 +10415,16 @@
         "area": "San Francisco",
         "venue": "Buzzworks (San Francisco)",
         "address": "",
-        "why": "",
-        "summary": "",
+        "why": "To catch an energetic electronic/DJ bill without paying cover.",
+        "summary": "A free night on 2026-11-06 in San Francisco featuring Senyor, Anxious Drip, Sampphire, DJ Jaded, G!zmo, Endz, Afterprty, and DJ Frank Nitty.",
         "promoter": "",
-        "price": "",
-        "tags": [],
+        "price": "Free",
+        "tags": [
+          "dj",
+          "electronic",
+          "free",
+          "dance"
+        ],
         "sources": [
           "https://posh.vip/e/resurgence-4"
         ],
@@ -10418,10 +10436,10 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/san-francisco/2026-11-02/resurgence-senyor-anxiou-9249.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
