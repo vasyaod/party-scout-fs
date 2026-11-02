@@ -6319,21 +6319,26 @@
         "id": "2026-11-09-music-nine-kai-swerve-parrow-swan-ma-0d2a78",
         "eid": "nine-kai-swerve-parrow-s-c657",
         "track": "music",
-        "category": "",
+        "category": "Concert",
         "name": "Nine Kai, Swerve, $parrow, Swan, Master Flynn, Sylknet, oToMoTo",
         "day": "Sun",
         "date": "2026-11-15",
         "time": "14:00",
-        "start": null,
-        "end": null,
+        "start": "14:00",
+        "end": "20:00",
         "area": "Los Angeles",
         "venue": "TBA",
         "address": "",
-        "why": "",
-        "summary": "",
+        "why": "To see several different artists share a single bill.",
+        "summary": "An event in Los Angeles on 2026-11-15 featuring Nine Kai, Swerve, $parrow, Swan, Master Flynn, Sylknet and oToMoTo.",
         "promoter": "",
         "price": "",
-        "tags": [],
+        "tags": [
+          "dj",
+          "live",
+          "21+",
+          "underground"
+        ],
         "sources": [
           "https://www.instagram.com/sylknet/p/DfBzd_-Tuwh/"
         ],
@@ -6348,7 +6353,7 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       }
     ],
@@ -7483,21 +7488,28 @@
         "id": "2026-11-09-sports-run-for-mental-health-5k-10k-1-d5d207",
         "eid": "run-for-mental-health-5k-9d6b",
         "track": "sports",
-        "category": "",
+        "category": "Sports",
         "name": "Run for Mental Health 5K/10K/13.1 - Los Angeles",
         "day": "Sat",
         "date": "2026-11-14",
         "time": "",
         "start": null,
         "end": null,
-        "area": "Los Angeles",
+        "area": "Santa Monica",
         "venue": "Los Angeles",
         "address": "",
-        "why": "",
-        "summary": "",
+        "why": "Get exercise, join a community event, and support mental-health causes.",
+        "summary": "A running event in Los Angeles on November 14, 2026 offering 5K, 10K and 13.1-mile (half-marathon) distance options.",
         "promoter": "",
         "price": "",
-        "tags": [],
+        "tags": [
+          "run",
+          "5k",
+          "10k",
+          "half-marathon",
+          "charity",
+          "outdoor"
+        ],
         "sources": [
           "https://www.runguides.com/event/35578/run-for-mental-health-5k-10k-131-los-angeles"
         ],
@@ -7509,35 +7521,43 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/los-angeles/2026-11-09/run-for-mental-health-5k-9d6b.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
         "id": "2026-11-09-sports-race-to-cure-sarcoma-los-angel-d5fee0",
         "eid": "race-to-cure-sarcoma-los-d97f",
         "track": "sports",
-        "category": "",
+        "category": "Sports",
         "name": "Race to Cure Sarcoma - Los Angeles",
         "day": "Sun",
         "date": "2026-11-15",
-        "time": "",
-        "start": null,
+        "time": "8:30 AM",
+        "start": "08:30",
         "end": null,
-        "area": "Los Angeles",
+        "area": "Griffith Park",
         "venue": "Los Angeles",
         "address": "",
-        "why": "",
-        "summary": "",
+        "why": "To support sarcoma research and join a community fundraising run.",
+        "summary": "A charity running event, Race to Cure Sarcoma, takes place in Los Angeles on 2026-11-15 to raise awareness and funds for sarcoma.",
         "promoter": "",
-        "price": "",
-        "tags": [],
-        "sources": [
-          "https://www.runguides.com/event/17855/race-to-cure-sarcoma-los-angeles"
+        "price": "5 adult 5K, 0 child",
+        "tags": [
+          "charity",
+          "outdoor",
+          "race",
+          "community"
         ],
-        "tickets": [],
+        "sources": [
+          "https://www.runguides.com/event/17855/race-to-cure-sarcoma-los-angeles",
+          "https://runsignup.com/Race/CA/LosAngeles/RaceToCureSarcomaLA"
+        ],
+        "tickets": [
+          "https://runsignup.com/Race/CA/LosAngeles/RaceToCureSarcomaLA"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Los%20Angeles%2C%20Los%20Angeles",
           "apple": "https://maps.apple.com/?q=Los%20Angeles%2C%20Los%20Angeles"
@@ -7545,10 +7565,10 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/los-angeles/2026-11-09/race-to-cure-sarcoma-los-d97f.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       }
     ]
