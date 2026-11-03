@@ -444,7 +444,7 @@
     {
       "id": "hollywood-bowl",
       "name": "Hollywood Bowl",
-      "url": "https://www.hollywoodbowl.com/events/performances",
+      "url": "https://www.hollywoodbowl.com/tickets-and-events/calendar",
       "city": "los-angeles",
       "kind": "venue",
       "use": ["listing", "price"],
@@ -452,7 +452,7 @@
       "fetch": ["common"],
       "status": "active",
       "aliases": ["hollywoodbowl.com"],
-      "notes": "2301 N Highland Ave. The LA Phil's outdoor amphitheatre: classical and jazz alongside major pop/rock bills (My Chemical Romance, Erykah Badu, Empire of the Sun). JS-rendered, so `common`; the url self-redirects to the upcoming-season filter. Prices from its own box office."
+      "notes": "2301 N Highland Ave. The LA Phil's outdoor amphitheatre: classical and jazz alongside major pop/rock bills (My Chemical Romance, Erykah Badu, Empire of the Sun). JS-rendered, so `common`. /tickets-and-events/calendar lists upcoming performances directly — the old /events/performances (and /events/calendar) now 404; old per-show /events/performances/<id>/<date>/<slug> links redirect to /events/instances/. Prices from its own box office."
     },
 
     {
