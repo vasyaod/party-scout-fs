@@ -9386,14 +9386,21 @@
         "time": "",
         "start": null,
         "end": null,
-        "area": "",
+        "area": "SF",
         "venue": "NO CAPP",
         "address": "",
-        "why": "",
-        "summary": "",
+        "why": "Pick this if you like the hunt: the location is only revealed to attendees, so expect a small, in-the-know crowd.",
+        "summary": "A secret-location electronic night in San Francisco with the address held back until closer to the date. Listed under the NO CAPP banner.",
         "promoter": "",
         "price": "",
-        "tags": [],
+        "tags": [
+          "private",
+          "invite-only",
+          "undisclosed",
+          "electronic",
+          "secret-location",
+          "underground"
+        ],
         "sources": [
           "https://edmtrain.com/san-francisco-ca/enigma-dubz-lb-and-konfusion-543667"
         ],
@@ -9408,32 +9415,39 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
         "id": "2026-11-09-music-one-day-choir-botanical-garden-dfd7a2",
         "eid": "one-day-choir-botanical-528f",
         "track": "music",
-        "category": "",
+        "category": "Concert",
         "name": "One Day Choir @ Botanical Gardens! by The Marmalade Project",
         "day": "Sun",
         "date": "2026-11-15",
         "time": "12:00",
         "start": null,
         "end": null,
-        "area": "",
+        "area": "Inner Sunset",
         "venue": "San Francisco Botanical Garden",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "1199 9th Avenue, San Francisco, CA 94122",
+        "why": "To sing with others in the Botanical Garden's scenic outdoor setting.",
+        "summary": "A community choir session hosted by The Marmalade Project at the San Francisco Botanical Garden (1199 9th Avenue) on November 15, 2026.",
         "promoter": "",
         "price": "",
-        "tags": [],
+        "tags": [
+          "choir",
+          "outdoor",
+          "community",
+          "garden"
+        ],
         "sources": [
           "https://www.eventbrite.com/e/one-day-choir-botanical-gardens-by-the-marmalade-project-tickets-1999722427612"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://www.eventbrite.com/e/one-day-choir-botanical-gardens-by-the-marmalade-project-tickets-1999722427612"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=San%20Francisco%20Botanical%20Garden",
           "apple": "https://maps.apple.com/?q=San%20Francisco%20Botanical%20Garden"
@@ -9441,10 +9455,10 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/san-francisco/2026-11-09/one-day-choir-botanical-528f.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       }
     ],
@@ -11061,20 +11075,26 @@
         "eid": "trail-habitat-volunteer-5945",
         "track": "sports",
         "category": "",
-        "name": "Trail & Habitat Volunteer Work: Restoring Laguna Honda’s Lost Trails | SF",
+        "name": "Trail & Habitat Volunteer Work: Restoring Laguna Honda's Lost Trails | SF",
         "day": "Sat",
         "date": "2026-11-14",
         "time": "09:00",
-        "start": null,
-        "end": null,
-        "area": "",
-        "venue": "",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "start": "09:00",
+        "end": "12:00",
+        "area": "SF",
+        "venue": "Laguna Honda Hospital",
+        "address": "375 Laguna Honda Blvd, San Francisco, CA",
+        "why": "To contribute to local conservation and get hands-on trail restoration experience in a neighborhood green space.",
+        "summary": "Volunteer restoration work at Laguna Honda Hospital on 2026-11-14 focused on rebuilding lost trails and habitat; the event is free and takes place on the hospital grounds.",
         "promoter": "",
-        "price": "",
-        "tags": [],
+        "price": "Free",
+        "tags": [
+          "volunteer",
+          "outdoor",
+          "free",
+          "community",
+          "conservation"
+        ],
         "sources": [
           "https://sf.funcheap.com/trail-habitat-volunteer-work-restoring-laguna-hondas-lost-trails-sf-108/"
         ],
@@ -11083,10 +11103,10 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/san-francisco/2026-11-09/trail-habitat-volunteer-5945.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
