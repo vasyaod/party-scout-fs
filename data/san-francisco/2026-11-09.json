@@ -9034,21 +9034,26 @@
         "day": "Thu",
         "date": "2026-11-12",
         "time": "21:00",
-        "start": null,
-        "end": null,
-        "area": "",
+        "start": "21:00",
+        "end": "01:00",
+        "area": "SF",
         "venue": "White Rabbit",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "3138 Fillmore St, San Francisco, CA 94123, United States",
+        "why": "Free admission at a central Fillmore address makes it an easy, low-cost night out.",
+        "summary": "Free event titled Inner Circle x Is This The Club on November 12, 2026 at 3138 Fillmore St in San Francisco.",
         "promoter": "",
-        "price": "",
-        "tags": [],
+        "price": "Free",
+        "tags": [
+          "free",
+          "nightlife"
+        ],
         "sources": [
           "https://ra.co/events/2576644",
           "https://edmtrain.com/san-francisco-ca/inner-circle-x-is-this-the-club-scilla-549726"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://ra.co/events/2576644"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=White%20Rabbit",
           "apple": "https://maps.apple.com/?q=White%20Rabbit"
@@ -9056,35 +9061,41 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/san-francisco/2026-11-09/inner-circle-x-is-this-t-049a.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
         "id": "2026-11-09-music-teego-sf-presents-afro-thursda-5714dc",
         "eid": "teego-sf-presents-afro-t-bfbf",
         "track": "music",
-        "category": "",
+        "category": "Nightclub",
         "name": "Teego SF presents Afro Thursdays Feat. MOSTASH",
         "day": "Thu",
         "date": "2026-11-12",
         "time": "21:00",
-        "start": null,
-        "end": null,
-        "area": "",
+        "start": "21:00",
+        "end": "02:00",
+        "area": "SoMa",
         "venue": "F8 1192 Folsom",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "1192 Folsom St, San Francisco, CA 94103",
+        "why": "To dance to Afrobeat rhythms and a DJ-driven party for an affordable cover.",
+        "summary": "Afro Thursdays featuring MOSTASH takes place on Nov 12 at 1192 Folsom St in SoMa with a $10 cover.",
         "promoter": "",
-        "price": "",
-        "tags": [],
+        "price": "$10",
+        "tags": [
+          "afrobeat",
+          "dj",
+          "dance"
+        ],
         "sources": [
           "https://ra.co/events/2577127"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://ra.co/events/2577127"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=F8%201192%20Folsom",
           "apple": "https://maps.apple.com/?q=F8%201192%20Folsom"
@@ -9092,35 +9103,44 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/san-francisco/2026-11-09/teego-sf-presents-afro-t-bfbf.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
         "id": "2026-11-09-music-brown-angel-chungtech-onemohit-9d213f",
         "eid": "brown-angel-chungtech-on-0d0a",
         "track": "music",
-        "category": "",
+        "category": "Concert",
         "name": "Brown Angel, chungtech, & onemohit",
         "day": "Fri",
         "date": "2026-11-13",
         "time": "21:00",
-        "start": null,
-        "end": null,
-        "area": "",
+        "start": "21:00",
+        "end": "02:00",
+        "area": "Mission",
         "venue": "Mothership",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "3152 Mission Street San Francisco, CA 94110",
+        "why": "Brown Angel is one of the Bay's most respected underground DJs, and it costs nothing to get in.",
+        "summary": "Free late-night club night at Mothership on Mission Street, with Brown Angel, chungtech and onemohit on the lineup. Doors 9pm, going until 2am.",
         "promoter": "",
-        "price": "",
-        "tags": [],
+        "price": "Free",
+        "tags": [
+          "free",
+          "live",
+          "music",
+          "club",
+          "underground",
+          "late-night"
+        ],
         "sources": [
           "https://ra.co/events/2576683"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://ra.co/events/2576683"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Mothership",
           "apple": "https://maps.apple.com/?q=Mothership"
@@ -9131,7 +9151,7 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
@@ -10881,21 +10901,27 @@
         "id": "2026-11-09-sports-east-bay-bike-party-every-seco-8d00fb",
         "eid": "east-bay-bike-party-ever-3419",
         "track": "sports",
-        "category": "",
+        "category": "Sports",
         "name": "East Bay Bike Party (Every Second Friday)",
         "day": "Fri",
         "date": "2026-11-13",
         "time": "19:30",
-        "start": null,
-        "end": null,
-        "area": "",
-        "venue": "",
+        "start": "19:30",
+        "end": "22:30",
+        "area": "SF",
+        "venue": "Secret Location (East Bay)",
         "address": "",
-        "why": "",
-        "summary": "",
+        "why": "To join a social group ride and explore the East Bay with fellow cyclists.",
+        "summary": "A free community bike ride held every second Friday, meeting at a secret East Bay location.",
         "promoter": "",
-        "price": "",
-        "tags": [],
+        "price": "Free",
+        "tags": [
+          "outdoor",
+          "free",
+          "bike",
+          "community",
+          "recurring"
+        ],
         "sources": [
           "https://sf.funcheap.com/east-bay-bike-party-every-second-friday-47/"
         ],
@@ -10904,10 +10930,10 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/san-francisco/2026-11-09/east-bay-bike-party-ever-3419.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
