@@ -4538,25 +4538,31 @@
         "id": "2026-11-16-music-santa-monica-symphony-presents-f3225e",
         "eid": "santa-monica-symphony-pr-5ac7",
         "track": "music",
-        "category": "",
+        "category": "Concert",
         "name": "Santa Monica Symphony presents: Voices of Innocence",
         "day": "Sat",
         "date": "2026-11-21",
         "time": "19:00",
-        "start": null,
-        "end": null,
+        "start": "19:00",
+        "end": "21:00",
         "area": "Santa Monica",
         "venue": "John Adams Middle School Performing Arts Center",
         "address": "1630 Pearl St., Santa Monica, CA 90405",
-        "why": "",
-        "summary": "",
+        "why": "To catch a free evening of symphonic music.",
+        "summary": "A free Santa Monica Symphony concert titled \"Voices of Innocence\" on November 21, 2026.",
         "promoter": "",
-        "price": "",
-        "tags": [],
+        "price": "Free",
+        "tags": [
+          "classical",
+          "free",
+          "live"
+        ],
         "sources": [
           "https://www.eventbrite.com/e/santa-monica-symphony-presents-voices-of-innocence-tickets-1993624372164"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://www.eventbrite.com/e/santa-monica-symphony-presents-voices-of-innocence-tickets-1993624372164"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=1630%20Pearl%20St.%2C%20Santa%20Monica%2C%20CA%2090405",
           "apple": "https://maps.apple.com/?q=1630%20Pearl%20St.%2C%20Santa%20Monica%2C%20CA%2090405"
@@ -4567,28 +4573,36 @@
         "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1190931533%2F248148491689%2F1%2Foriginal.20260812-214232?crop=focalpoint&fit=crop&w=940&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.757&fp-y=0.53&s=52f01c2e2ae60fc7abed9cdf798cebb7",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
         "id": "2026-11-16-music-acts-of-service-sounds-a-night-ac844f",
         "eid": "acts-of-service-sounds-a-6f26",
         "track": "music",
-        "category": "",
+        "category": "Nightclub",
         "name": "Acts of Service Sounds - A Night of Afro House",
         "day": "Sun",
         "date": "2026-11-22",
         "time": "",
         "start": null,
         "end": null,
-        "area": "Los Angeles",
+        "area": "Venice",
         "venue": "Townhouse (Los Angeles)",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "52 Windward Ave, Venice, CA",
+        "why": "A Sunday-night Afro House session on the Venice boardwalk from a recurring series, an easy low-key way to close out the weekend with dancing.",
+        "summary": "Acts of Service Sounds returns to Townhouse in Venice for a Sunday night of Afro House, in the spirit of its ancestral-energy, cleanse-for-the-spirit sets.",
         "promoter": "",
         "price": "",
-        "tags": [],
+        "tags": [
+          "afro-house",
+          "dance",
+          "dj",
+          "afro house",
+          "house",
+          "venice",
+          "sunday"
+        ],
         "sources": [
           "https://edmtrain.com/los-angeles-ca/acts-of-service-sounds-a-night-of-afro-house-549986"
         ],
@@ -4603,7 +4617,7 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       }
     ],
@@ -5932,26 +5946,33 @@
         "id": "2026-11-16-sports-the-big-lebowski-dude-dash-5k-0b0923",
         "eid": "the-big-lebowski-dude-da-0112",
         "track": "sports",
-        "category": "",
+        "category": "Sports",
         "name": "The Big Lebowski Dude Dash 5K and 10K",
         "day": "Sat",
         "date": "2026-11-21",
-        "time": "",
+        "time": "7:00 AM",
         "start": null,
         "end": null,
-        "area": "Los Angeles",
+        "area": "Canoga Park",
         "venue": "Los Angeles",
         "address": "",
-        "why": "",
-        "summary": "",
+        "why": "For a playful, social outing centered on cult-movie nostalgia.",
+        "summary": "A themed 5K and 10K run taking place on November 21, 2026 in Los Angeles.",
         "promoter": "",
-        "price": "",
-        "tags": [],
+        "price": "$34.99",
+        "tags": [
+          "run",
+          "5k",
+          "10k",
+          "outdoor",
+          "themed"
+        ],
         "sources": [
           {
             "url": "https://www.runningintheusa.com/race/list/los%20angeles-CA/november",
             "hidden": true
-          }
+          },
+          "https://www.endurancegrid.com/race/the-big-lebowski-dude-dash-5k-10k-canoga-park-ca-214016"
         ],
         "tickets": [],
         "maps": {
@@ -5964,7 +5985,7 @@
         "image": "https://api.party-scout.app/img/los-angeles/2026-11-16/the-big-lebowski-dude-da-0112.jpg",
         "image_generated": true,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
