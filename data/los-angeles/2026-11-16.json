@@ -3935,7 +3935,7 @@
         "id": "2026-11-16-music-kevin-knapp-fc011f",
         "eid": "kevin-knapp-0500",
         "track": "music",
-        "category": "",
+        "category": "Concert",
         "name": "Kevin Knapp",
         "day": "Tue",
         "date": "2026-11-17",
@@ -3943,13 +3943,20 @@
         "start": null,
         "end": null,
         "area": "Pomona",
-        "venue": "The Basement Pomona (Pomona)",
+        "venue": "The Basement Pomona",
         "address": "",
-        "why": "",
-        "summary": "",
+        "why": "A Dirtybird-style groove set in an intimate Inland Empire club, a rare midweek bass-and-house night outside central LA.",
+        "summary": "Kevin Knapp, a house and tech-house DJ known from the Dirtybird family, plays The Basement in Pomona on a Tuesday night.",
         "promoter": "",
         "price": "",
-        "tags": [],
+        "tags": [
+          "live",
+          "concert",
+          "house",
+          "tech-house",
+          "dj",
+          "club"
+        ],
         "sources": [
           "https://edmtrain.com/tours/kevin-knapp-6905"
         ],
@@ -3964,14 +3971,14 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
         "id": "2026-11-16-music-richard-vission-dj-irene-bolo-194700",
         "eid": "richard-vission-dj-irene-461c",
         "track": "music",
-        "category": "",
+        "category": "Nightclub",
         "name": "Richard Vission, DJ Irene, BOLO",
         "day": "Wed",
         "date": "2026-11-18",
@@ -3981,11 +3988,16 @@
         "area": "Los Angeles",
         "venue": "Grammy Museum LA (Los Angeles)",
         "address": "",
-        "why": "",
-        "summary": "",
+        "why": "To dance to high-energy, DJ-driven electronic sets.",
+        "summary": "DJ night on 2026-11-18 in Los Angeles featuring Richard Vission, DJ Irene, and BOLO.",
         "promoter": "",
         "price": "",
-        "tags": [],
+        "tags": [
+          "dj",
+          "electronic",
+          "dance",
+          "house"
+        ],
         "sources": [
           "https://edmtrain.com/tours/richard-vission-3053"
         ],
@@ -3997,10 +4009,10 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
-        "image_generated": false,
+        "image": "https://api.party-scout.app/img/los-angeles/2026-11-16/richard-vission-dj-irene-fccb.jpg",
+        "image_generated": true,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
