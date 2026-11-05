@@ -4239,25 +4239,31 @@
         "id": "2026-11-16-music-smd-paramida-mez-monty-8c286c",
         "eid": "smd-paramida-mez-monty-4955",
         "track": "music",
-        "category": "",
+        "category": "Concert",
         "name": "SMD - PARAMIDA & Mez Monty",
         "day": "Fri",
         "date": "2026-11-20",
         "time": "23:00",
-        "start": null,
-        "end": null,
+        "start": "23:00",
+        "end": "05:00",
         "area": "Los Angeles",
         "venue": "TBA - Downtown LA",
         "address": "",
-        "why": "",
-        "summary": "",
+        "why": "To catch a compact two-act live music bill.",
+        "summary": "A show billed as SMD featuring PARAMIDA and Mez Monty on November 20, 2026 in Los Angeles.",
         "promoter": "",
         "price": "20-40",
-        "tags": [],
+        "tags": [
+          "live",
+          "nightlife",
+          "la"
+        ],
         "sources": [
           "https://ra.co/events/2576599"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://ra.co/events/2576599"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Los%20Angeles",
           "apple": "https://maps.apple.com/?q=Los%20Angeles"
@@ -4268,7 +4274,7 @@
         "image": "https://images.ra.co/83e634c47c2a6681a904b5637fc8b8002c25ccfe.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true,
         "lineup": [
           {
@@ -4285,7 +4291,7 @@
         "id": "2026-11-16-music-softest-hard-veiled-eye-thx2zu-ae9ba2",
         "eid": "softest-hard-veiled-eye-773d",
         "track": "music",
-        "category": "",
+        "category": "Concert",
         "name": "Softest Hard, Veiled Eye, THX2ZU, BECCA, Inner Demonz",
         "day": "Fri",
         "date": "2026-11-20",
@@ -4295,11 +4301,18 @@
         "area": "Los Angeles",
         "venue": "Matriarch LA (Los Angeles)",
         "address": "",
-        "why": "",
-        "summary": "",
+        "why": "Go for a stacked local-leaning lineup of heavier electronic and alt acts in one night at a smaller room.",
+        "summary": "A five-act underground bill at Matriarch LA on Friday, Nov 20, headlined by Softest Hard with Veiled Eye, THX2ZU, BECCA and Inner Demonz.",
         "promoter": "",
         "price": "",
-        "tags": [],
+        "tags": [
+          "live",
+          "dj",
+          "live-music",
+          "electronic",
+          "underground",
+          "friday"
+        ],
         "sources": [
           "https://edmtrain.com/los-angeles-ca/softest-hard-veiled-eye-550060"
         ],
@@ -4314,33 +4327,40 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
         "id": "2026-11-16-music-2n1t3-cyberangel-pt-1-08-neuja-35cc26",
         "eid": "2n1t3-cyberangel-pt-1-08-a6e8",
         "track": "music",
-        "category": "",
+        "category": "Nightclub",
         "name": "2N1T3 Cyberangel Pt.1 #08: Neujack, Wire One, Lilithsoddessy, Freakhorse, Hypnocil, Maia, Chlophonic",
         "day": "Sat",
         "date": "2026-11-21",
         "time": "20:45",
-        "start": null,
-        "end": null,
+        "start": "21:00",
+        "end": "02:00",
         "area": "Los Angeles",
         "venue": "High Tide (Los Angeles)",
         "address": "605 E 4th St, Los Angeles, CA 90013",
-        "why": "",
-        "summary": "",
+        "why": "For fans of high-energy underground electronic and experimental DJ sets.",
+        "summary": "Club night on 2026-11-21 titled \"2N1T3 Cyberangel Pt.1 #08\" featuring Neujack, Wire One, Lilithsoddessy, Freakhorse, Hypnocil, Maia, and Chlophonic in Los Angeles.",
         "promoter": "",
         "price": "free",
-        "tags": [],
+        "tags": [
+          "electronic",
+          "dj",
+          "underground",
+          "21+"
+        ],
         "sources": [
           "https://www.2n1t3.com/e/2n1t3-cyber-angel-artificial-08?utm_source=19hz",
           "https://ra.co/events/2576289"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://ra.co/events/2576289"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=High%20Tide%20%28Los%20Angeles%29%2C%20Los%20Angeles",
           "apple": "https://maps.apple.com/?q=High%20Tide%20%28Los%20Angeles%29%2C%20Los%20Angeles"
@@ -4349,9 +4369,9 @@
         "coords_precise": false,
         "ra": {},
         "image": "https://api.party-scout.app/img/los-angeles/2026-11-16/2n1t3-cyberangel-pt-1-08-a6e8.jpg",
-        "image_generated": true,
+        "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true,
         "lineup": [
           {
@@ -4368,7 +4388,7 @@
         "id": "2026-11-16-music-dreamstate-socal-e60d4b",
         "eid": "dreamstate-socal-9b92",
         "track": "music",
-        "category": "",
+        "category": "Festival",
         "name": "Dreamstate SoCal",
         "day": "Sat",
         "date": "2026-11-21",
@@ -4377,16 +4397,24 @@
         "end": null,
         "area": "Long Beach",
         "venue": "Queen Mary Waterfront (Long Beach)",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "1126 Queens Hwy, Long Beach, CA 90802",
+        "why": "To experience a large-scale electronic dance music festival in Long Beach.",
+        "summary": "Dreamstate SoCal takes place on 2026-11-21 at 1126 Queens Hwy in Long Beach, CA.",
         "promoter": "",
         "price": "",
-        "tags": [],
-        "sources": [
-          "https://edmtrain.com/los-angeles-ca/dreamstate-socal-453886"
+        "tags": [
+          "festival",
+          "electronic",
+          "dance",
+          "outdoor"
         ],
-        "tickets": [],
+        "sources": [
+          "https://edmtrain.com/los-angeles-ca/dreamstate-socal-453886",
+          "https://ra.co/events/2523946"
+        ],
+        "tickets": [
+          "https://ra.co/events/2523946"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Queen%20Mary%20Waterfront%20%28Long%20Beach%29%2C%20Long%20Beach",
           "apple": "https://maps.apple.com/?q=Queen%20Mary%20Waterfront%20%28Long%20Beach%29%2C%20Long%20Beach"
@@ -4395,9 +4423,9 @@
         "coords_precise": false,
         "ra": {},
         "image": "https://api.party-scout.app/img/los-angeles/2026-11-16/dreamstate-socal-9b92.jpg",
-        "image_generated": true,
+        "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
