@@ -55,6 +55,18 @@ whatever you are about to push:
 python3 tools/check_no_event_deletions.py --base origin/main
 ```
 
+CI (`.github/workflows/static-pages.yml`, on every push to `main` touching
+`data/` or the pages, and hourly) also fails when a week has no prerendered
+pages: every `data/<city>/<week>.json` needs `<city>/<week>/index.html`, and a
+current or upcoming week (Pacific time) needs `<city>/<week>/<eid>/index.html`
+for every card with `enriched >= 1`. Link-preview bots and crawlers run no JS, so
+a missing page is a 404 and a "Page not found" preview (party-scout-service#182
+renders them). By hand:
+
+```
+python3 tools/check_static_pages.py
+```
+
 ## Updating
 
 The files here are generated — do not hand-edit. The generator lives in

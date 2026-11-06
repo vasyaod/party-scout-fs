@@ -1,0 +1,50 @@
+name: static pages
+
+# Every week in data/ must have its prerendered pages: `<city>/<week>/index.html`,
+# and for current and upcoming weeks `<city>/<week>/<eid>/index.html` for every
+# published card. Link-preview bots and crawlers run no JS, so a missing one is
+# a 404 and a "Page not found" preview — and from 2026-08 to
+# party-scout-service#182 nothing generated them, unnoticed for three months
+# (issue #34).
+#
+# push: a data commit, or a `pages: …` commit from the service's flush.
+# schedule: re-checks while no commit arrives at all, which is exactly how the
+# last gap went unnoticed — and a week rolls from upcoming to current by date.
+# pull_request: self-test only. The tree check judges main as it is, so on a PR
+# it would report main's state rather than the change's.
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'data/**'
+      - '**/index.html'
+      - 'sitemap.xml'
+      - 'tools/check_static_pages.py'
+      - 'tools/test_check_static_pages.py'
+      - '.github/workflows/static-pages.yml'
+  pull_request:
+    paths:
+      - 'tools/check_static_pages.py'
+      - 'tools/test_check_static_pages.py'
+      - '.github/workflows/static-pages.yml'
+  schedule:
+    - cron: '17 * * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  static-pages:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      # Check the checker first: a gate that stopped firing reads as green
+      # just like a complete site does.
+      - name: Self-test the static-pages gate
+        run: python3 tools/test_check_static_pages.py
+
+      - name: Every week in data/ has its prerendered pages
+        if: ${{ github.event_name != 'pull_request' }}
+        run: python3 tools/check_static_pages.py
