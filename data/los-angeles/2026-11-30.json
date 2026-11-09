@@ -1780,24 +1780,33 @@
         "name": "Angine de Poitrine",
         "day": "Sat",
         "date": "2026-12-05",
-        "time": "",
-        "start": null,
+        "time": "7pm",
+        "start": "19:00",
         "end": null,
-        "area": "Los Angeles",
+        "area": "Koreatown",
         "venue": "The Wiltern",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "3790 Wilshire Blvd., Los Angeles, CA 90010",
+        "why": "A viral, genuinely strange live act; seeing the microtonal spectacle in the Wiltern's art-deco room is a one-off.",
+        "summary": "Quebec microtonal math-rock duo in matching polka-dot suits and custom-built double-neck guitars, playing the Wiltern on their North American tour.",
         "promoter": "",
-        "price": "",
-        "tags": [],
+        "price": "Resale from ~$80",
+        "tags": [
+          "live",
+          "indoor",
+          "live music",
+          "rock",
+          "experimental",
+          "The Wiltern"
+        ],
         "sources": [
           {
             "url": "https://www.wiltern.com/shows",
             "hidden": true
           }
         ],
-        "tickets": [],
+        "tickets": [
+          "https://www.ticketmaster.com/angine-de-poitrine-los-angeles-california-12-05-2026/event/090064AEEF92CF1B"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=The%20Wiltern%2C%20Los%20Angeles",
           "apple": "https://maps.apple.com/?q=The%20Wiltern%2C%20Los%20Angeles"
@@ -1806,34 +1815,41 @@
         "coords_precise": false,
         "ra": {},
         "image": "https://api.party-scout.app/img/los-angeles/2026-11-30/angine-de-poitrine-c1e0.jpg",
-        "image_generated": true,
+        "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
         "id": "2026-11-30-music-certified-groovers-michael-fam-222671",
         "eid": "certified-groovers-micha-e8d9",
         "track": "music",
-        "category": "",
+        "category": "Nightclub",
         "name": "Certified Groovers: Michael Fam [all night long]",
         "day": "Sat",
         "date": "2026-12-05",
         "time": "23:00",
-        "start": null,
-        "end": null,
+        "start": "23:00",
+        "end": "07:00",
         "area": "Los Angeles",
         "venue": "TBA - Downtown Los Angeles",
         "address": "",
-        "why": "",
-        "summary": "",
+        "why": "For an extended all-night DJ set and late-night dancing in DTLA.",
+        "summary": "Late-night event on 2026-12-05 at 23:00 in Downtown Los Angeles with Michael Fam performing an all-night DJ set at a TBA venue.",
         "promoter": "",
         "price": "",
-        "tags": [],
+        "tags": [
+          "dj",
+          "dance",
+          "nightlife",
+          "late-night"
+        ],
         "sources": [
           "https://ra.co/events/2577565"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://ra.co/events/2577565"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Los%20Angeles",
           "apple": "https://maps.apple.com/?q=Los%20Angeles"
@@ -1844,7 +1860,7 @@
         "image": "https://images.ra.co/db8f2ac6b837c2c2a2ae4e3e2885754c7509b543.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true,
         "lineup": [
           {
@@ -1857,25 +1873,32 @@
         "id": "2026-11-30-music-dansyn-kamjam-be3645",
         "eid": "dansyn-kamjam-49ac",
         "track": "music",
-        "category": "",
+        "category": "Nightclub",
         "name": "Dansyn, Kamjam",
         "day": "Sat",
         "date": "2026-12-05",
         "time": "22:00",
-        "start": null,
-        "end": null,
+        "start": "22:00",
+        "end": "02:30",
         "area": "Los Angeles",
         "venue": "Sound Nightclub",
         "address": "1642 N Las Palmas Ave, Los Angeles, CA 90028",
-        "why": "",
-        "summary": "",
+        "why": "For late-night electronic DJ sets and a high-energy dancefloor.",
+        "summary": "Dansyn and Kamjam perform at Sound Nightclub in Los Angeles on 2026-12-05, starting at 22:00.",
         "promoter": "",
         "price": "$24.93",
-        "tags": [],
+        "tags": [
+          "dj",
+          "electronic",
+          "dance",
+          "21+"
+        ],
         "sources": [
           "https://dice.fm/event/eo9lw6-dansyn-5th-dec-sound-nightclub-los-angeles-tickets?dice_source=ee15ecdb&eventref=fb_oea"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://dice.fm/event/eo9lw6-dansyn-5th-dec-sound-nightclub-los-angeles-tickets?dice_source=ee15ecdb&eventref=fb_oea"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=1642%20N%20Las%20Palmas%20Ave%2C%20Los%20Angeles%2C%20CA%2090028",
           "apple": "https://maps.apple.com/?q=1642%20N%20Las%20Palmas%20Ave%2C%20Los%20Angeles%2C%20CA%2090028"
@@ -1886,32 +1909,38 @@
         "image": "https://dice-media.imgix.net/attachments/2026-10-08/455d3d21-a216-47b9-98a1-915053e740ac.jpg?rect=0%2C233%2C1164%2C698",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
         "id": "2026-11-30-music-didjits-d87b82",
         "eid": "didjits-0fce",
         "track": "music",
-        "category": "",
+        "category": "Concert",
         "name": "Didjits",
         "day": "Sat",
         "date": "2026-12-05",
         "time": "20:00",
-        "start": null,
-        "end": null,
+        "start": "20:00",
+        "end": "02:00",
         "area": "Los Angeles",
         "venue": "The Redwood Bar And Grill",
         "address": "316 W. 2nd Street, Los Angeles, CA  90012",
-        "why": "",
-        "summary": "",
+        "why": "Catch a high-energy punk rock set in an intimate neighborhood bar.",
+        "summary": "Punk band Didjits play The Redwood Bar And Grill on December 5, 2026 at 8:00 PM.",
         "promoter": "",
         "price": "",
-        "tags": [],
+        "tags": [
+          "punk",
+          "rock",
+          "live"
+        ],
         "sources": [
           "https://ra.co/events/2558831"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://ra.co/events/2558831"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=316%20W.%202nd%20Street%2C%20Los%20Angeles%2C%20CA%20%2090012",
           "apple": "https://maps.apple.com/?q=316%20W.%202nd%20Street%2C%20Los%20Angeles%2C%20CA%20%2090012"
@@ -1922,32 +1951,38 @@
         "image": "https://api.party-scout.app/img/los-angeles/2026-11-30/didjits-0fce.jpg",
         "image_generated": true,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
         "id": "2026-11-30-music-eris-talent-x-searchlight-pict-b92d30",
         "eid": "eris-talent-x-searchligh-6d27",
         "track": "music",
-        "category": "",
+        "category": "Nightclub",
         "name": "Eris Talent x Searchlight Pictures: Winter Wonderland Holiday Party",
         "day": "Sat",
         "date": "2026-12-05",
         "time": "19:00",
-        "start": null,
-        "end": null,
+        "start": "19:00",
+        "end": "23:00",
         "area": "Los Angeles",
         "venue": "Hotel Ziggy",
         "address": "8462 Sunset Blvd, West Hollywood, CA 90069",
-        "why": "",
-        "summary": "",
+        "why": "For a festive evening at a hotel pop-up with seasonal vibes.",
+        "summary": "A winter holiday party presented by Eris Talent and Searchlight Pictures at Hotel Ziggy on December 5, 2026, starting at 7:00 PM.",
         "promoter": "",
         "price": "25",
-        "tags": [],
+        "tags": [
+          "holiday",
+          "party",
+          "indoor"
+        ],
         "sources": [
           "https://ra.co/events/2577766"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://ra.co/events/2577766"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=8462%20Sunset%20Blvd%2C%20West%20Hollywood%2C%20CA%2090069",
           "apple": "https://maps.apple.com/?q=8462%20Sunset%20Blvd%2C%20West%20Hollywood%2C%20CA%2090069"
@@ -1958,7 +1993,7 @@
         "image": "https://images.ra.co/38eed04e9298c0b96f1fe7dbbd3348b892ab34d6.png",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
@@ -2488,21 +2523,26 @@
         "id": "2026-11-30-sports-explore-griffith-park-158162",
         "eid": "explore-griffith-park-dcbd",
         "track": "sports",
-        "category": "",
+        "category": "Sports",
         "name": "Explore Griffith Park",
         "day": "Sat",
         "date": "2026-12-05",
         "time": "15:30",
-        "start": null,
-        "end": null,
+        "start": "15:30",
+        "end": "17:30",
         "area": "Los Angeles",
         "venue": "Griffith Park Merry Go Round Lot 2",
         "address": "Merry Go Round Lot Two, LOS ANGELES, CA",
-        "why": "",
-        "summary": "",
+        "why": "For a brisk, scenic workout with sweeping park views.",
+        "summary": "Moderately strenuous group hike in Griffith Park starting at the Merry Go Round Lot 2, typically about 2 hours and roughly 4 miles with steep ascents and descents on single-track trails. The hike moves at a fairly rapid pace and usually starts at 3:30 p.m.",
         "promoter": "",
         "price": "Free",
-        "tags": [],
+        "tags": [
+          "outdoor",
+          "hiking",
+          "moderate",
+          "group"
+        ],
         "sources": [
           "https://www.meetup.com/los-angeles-hiking-group/events/316617073/"
         ],
@@ -2517,7 +2557,7 @@
         "image": "https://secure.meetupstatic.com/photos/event/1/0/0/1/highres_525424097.jpeg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
