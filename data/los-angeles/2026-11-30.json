@@ -1097,7 +1097,7 @@
         "time": "",
         "start": null,
         "end": null,
-        "area": "Los Angeles",
+        "area": "DTLA",
         "venue": "1720",
         "address": "",
         "why": "To spend a night out at 1720 in LA.",
@@ -1134,17 +1134,24 @@
         "name": "Angine de Poitrine",
         "day": "Fri",
         "date": "2026-12-04",
-        "time": "",
-        "start": null,
+        "time": "7pm",
+        "start": "19:00",
         "end": null,
-        "area": "Los Angeles",
+        "area": "Koreatown",
         "venue": "The Wiltern",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "3790 Wilshire Blvd., Los Angeles, CA 90010",
+        "why": "A rare chance to see one of the weirdest, most inventive rock acts around in a historic art-deco theater.",
+        "summary": "Quebec duo Angine de Poitrine bring their microtonal, math-rock-meets-prog live show to The Wiltern in Koreatown.",
         "promoter": "",
         "price": "",
-        "tags": [],
+        "tags": [
+          "live",
+          "indoor",
+          "rock",
+          "prog",
+          "live-music",
+          "the-wiltern"
+        ],
         "sources": [
           {
             "url": "https://www.wiltern.com/shows",
@@ -1160,34 +1167,40 @@
         "coords_precise": false,
         "ra": {},
         "image": "https://api.party-scout.app/img/los-angeles/2026-11-30/angine-de-poitrine-5a30.jpg",
-        "image_generated": true,
+        "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
         "id": "2026-11-30-music-dream-gala-concert-a1ebfa",
         "eid": "dream-gala-concert-f6db",
         "track": "music",
-        "category": "",
+        "category": "Concert",
         "name": "Dream Gala Concert",
         "day": "Fri",
         "date": "2026-12-04",
         "time": "19:30",
-        "start": null,
-        "end": null,
+        "start": "19:30",
+        "end": "21:30",
         "area": "Los Angeles",
         "venue": "Zipper Hall",
         "address": "200 S Grand Ave, Los Angeles, CA 90012",
-        "why": "",
-        "summary": "",
+        "why": "To hear beloved operatic works in an intimate concert-hall setting.",
+        "summary": "A concert at Zipper Hall on December 4, 2026 at 7:30 PM presenting beloved operatic works.",
         "promoter": "",
         "price": "From $65.87",
-        "tags": [],
+        "tags": [
+          "classical",
+          "opera",
+          "live"
+        ],
         "sources": [
           "https://www.eventbrite.com/e/dream-gala-concert-tickets-2004180687387"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://www.eventbrite.com/e/dream-gala-concert-tickets-2004180687387"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=200%20S%20Grand%20Ave%2C%20Los%20Angeles%2C%20CA%2090012",
           "apple": "https://maps.apple.com/?q=200%20S%20Grand%20Ave%2C%20Los%20Angeles%2C%20CA%2090012"
@@ -1198,32 +1211,39 @@
         "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1197011929%2F210483053398%2F1%2Foriginal.20261101-065732?crop=focalpoint&fit=crop&w=940&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.471&fp-y=0.464&s=c264dfce2f4ac34a503ca74c3a46e3c8",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
         "id": "2026-11-30-music-dub-meeting-rub-a-dub-dance-4-862379",
         "eid": "dub-meeting-rub-a-dub-da-c023",
         "track": "music",
-        "category": "",
+        "category": "Nightclub",
         "name": "Dub Meeting Rub A Dub Dance #4 feat. Scientist x Papa Michigan",
         "day": "Fri",
         "date": "2026-12-04",
         "time": "20:00",
-        "start": null,
-        "end": null,
+        "start": "20:00",
+        "end": "03:00",
         "area": "Los Angeles",
         "venue": "TBA",
         "address": "",
-        "why": "",
-        "summary": "",
+        "why": "To hear deep dub cuts and classic reggae vocal vibes on a soundsystem-led dancefloor.",
+        "summary": "A dub/reggae dance night on December 4, 2026 at 8:00 PM in Los Angeles billed as \"Dub Meeting Rub A Dub Dance #4\" featuring Scientist and Papa Michigan; venue TBA.",
         "promoter": "",
         "price": "",
-        "tags": [],
+        "tags": [
+          "dub",
+          "reggae",
+          "dj",
+          "dance"
+        ],
         "sources": [
           "https://ra.co/events/2575803"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://ra.co/events/2575803"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Los%20Angeles",
           "apple": "https://maps.apple.com/?q=Los%20Angeles"
@@ -1234,7 +1254,7 @@
         "image": "https://images.ra.co/1bd1e41f90be66fade3354c65be7fa987ad3ea35.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true,
         "lineup": [
           {
@@ -1247,21 +1267,26 @@
         "id": "2026-11-30-music-electric-ave-6583ec",
         "eid": "electric-ave-1250",
         "track": "music",
-        "category": "",
+        "category": "Nightclub",
         "name": "Electric Ave",
         "day": "Fri",
         "date": "2026-12-04",
         "time": "22:00",
-        "start": null,
-        "end": null,
+        "start": "14:00",
+        "end": "18:00",
         "area": "Los Angeles",
         "venue": "Los Globos",
         "address": "3040 W SUNSET BLVD, LOS ANGELES, CA 90026",
-        "why": "",
-        "summary": "",
+        "why": "For a high-energy night of dance music with opportunities to sign up as a DJ.",
+        "summary": "A late-night dance event promising \"electrifying beats\" at Los Globos on December 4, 2026 at 10:00 PM. Community Arts & Festivals and EMX are involved, DJ signups are available, and tickets are non-refundable.",
         "promoter": "",
         "price": "Free w/ RSVP",
-        "tags": [],
+        "tags": [
+          "dj",
+          "dance",
+          "nightclub",
+          "21+"
+        ],
         "sources": [
           "https://eventsta.com/event/losglobos120426?promo=CAF&fbclid=IwY2xjawVTRklleHRuA2FlbQIxMABwZG9mAWJyaWQRMVRGeTFTckR2YXR4bk5oeWZzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEf8yspXKXBhkYPQiyIICd6QKqiIA04DljBLWTHdrAHSLNuBM2zMyn5j9OW8jo_aem_i7YCAYFITd0YdzPyRk3Aag"
         ],
@@ -1276,32 +1301,38 @@
         "image": "https://eventsta.com/api/v1/public/images/a9069db2d8d72dae/ef1fba70.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
         "id": "2026-11-30-music-hostile-space-wizard-hydraulix-67efb4",
         "eid": "hostile-space-wizard-hyd-8ee2",
         "track": "music",
-        "category": "",
+        "category": "Nightclub",
         "name": "Hostile: Space Wizard, Hydraulix, Mushroom Cloud, Digitist",
         "day": "Fri",
         "date": "2026-12-04",
         "time": "21:00",
-        "start": null,
-        "end": null,
+        "start": "21:00",
+        "end": "02:00",
         "area": "Los Angeles",
         "venue": "1720",
         "address": "1720 E 16th St, Los Angeles, California 90021",
-        "why": "",
-        "summary": "",
+        "why": "To catch a stacked late-night bill of DJs and producers at a central LA club.",
+        "summary": "Hostile presents Space Wizard with support from Hydraulix, Mushroom Cloud, and Digitist at 1720 on December 4, 2026, starting at 21:00.",
         "promoter": "",
         "price": "$27.81",
-        "tags": [],
+        "tags": [
+          "dj",
+          "electronic",
+          "club"
+        ],
         "sources": [
           "https://dice.fm/event/6ad0f77fdf0b670001dc630d"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://dice.fm/event/6ad0f77fdf0b670001dc630d"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=1720%20E%2016th%20St%2C%20Los%20Angeles%2C%20California%2090021",
           "apple": "https://maps.apple.com/?q=1720%20E%2016th%20St%2C%20Los%20Angeles%2C%20California%2090021"
@@ -1312,32 +1343,40 @@
         "image": "https://dice-media.imgix.net/attachments/2026-10-16/10a393fe-5355-4f41-8b24-c843da5275c0.jpg?rect=0%2C216%2C1080%2C648",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
         "id": "2026-11-30-music-how-the-grinch-stole-riddim-3dd300",
         "eid": "how-the-grinch-stole-rid-ea61",
         "track": "music",
-        "category": "",
+        "category": "Nightclub",
         "name": "How The Grinch Stole Riddim",
         "day": "Fri",
         "date": "2026-12-04",
         "time": "21:00",
-        "start": null,
-        "end": null,
+        "start": "21:00",
+        "end": "02:00",
         "area": "Los Angeles",
         "venue": "The Catwalk Club",
         "address": "698 Harlem Place, Los Angeles, CA 90014",
-        "why": "",
-        "summary": "",
+        "why": "Support a local toy drive and get free entry with a toy while enjoying a heavy riddim DJ experience.",
+        "summary": "A 360° riddim party and toy drive at The Catwalk Club on Fri Dec 4 at 9:00 PM. Bring a toy and RSVP for free entry.",
         "promoter": "",
         "price": "Free w/ RSVP before midnight w/ toy donation / $15-25.38",
-        "tags": [],
+        "tags": [
+          "riddim",
+          "dj",
+          "free",
+          "toy-drive",
+          "holiday"
+        ],
         "sources": [
           "https://www.eventbrite.com/e/los-angeles-how-the-grinch-stole-riddim-catwalk-club-18-tickets-2004329702094"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://www.eventbrite.com/e/los-angeles-how-the-grinch-stole-riddim-catwalk-club-18-tickets-2004329702094"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=698%20Harlem%20Place%2C%20Los%20Angeles%2C%20CA%2090014",
           "apple": "https://maps.apple.com/?q=698%20Harlem%20Place%2C%20Los%20Angeles%2C%20CA%2090014"
@@ -1348,7 +1387,7 @@
         "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1197217273%2F159033129452%2F1%2Foriginal.20261103-230247?crop=focalpoint&fit=crop&w=940&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=197f829c543e0cda68c33923004878f4",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
@@ -2349,21 +2388,26 @@
         "id": "2026-11-30-sports-friday-easy-night-walk-around-276d7f",
         "eid": "friday-easy-night-walk-a-0eda",
         "track": "sports",
-        "category": "",
+        "category": "Sports",
         "name": "FRIDAY--Easy Night walk around Silverlake",
         "day": "Fri",
         "date": "2026-12-04",
         "time": "19:15",
-        "start": null,
-        "end": null,
+        "start": "19:15",
+        "end": "20:15",
         "area": "Los Angeles",
         "venue": "Silver Lake Recreation Center",
         "address": "1850 W Silver Lake Dr, Los Angeles, CA",
-        "why": "",
-        "summary": "",
+        "why": "To enjoy a short, social outdoor stroll with dog-friendly company and optional post-walk drinks.",
+        "summary": "An easy 2.2-mile round-trip evening walk around Silver Lake starting from the Silver Lake Recreation Center at 7:15pm; the route takes about an hour with a short uphill section. Dogs are allowed on leash, rain will cancel, street parking is available (more along W. Silverlake Dr.), and some members sometimes go to the local oyster bar afterward.",
         "promoter": "",
         "price": "Free",
-        "tags": [],
+        "tags": [
+          "outdoor",
+          "walk",
+          "dog-friendly",
+          "evening"
+        ],
         "sources": [
           "https://www.meetup.com/los-angeles-hiking-group/events/316206054/"
         ],
@@ -2378,7 +2422,7 @@
         "image": "https://secure.meetupstatic.com/photos/event/b/f/7/8/highres_505969016.jpeg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
