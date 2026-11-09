@@ -8411,17 +8411,21 @@
         "time": "18:00",
         "start": "18:00",
         "end": "23:00",
-        "area": "Los Angeles",
+        "area": "DTLA",
         "venue": "613 Imperial St",
         "address": "",
-        "why": "To dance to a live DJ set in a downtown Los Angeles venue.",
-        "summary": "ORIGIN Presents: Major League DJz is scheduled at 613 Imperial St on 2026-11-15, with a listed start time of 18:00.",
+        "why": "A early-evening Sunday club night with a touring DJ act, ending at a reasonable 11 PM.",
+        "summary": "ORIGIN presents Major League DJz for a Sunday-evening dance night at 613 Imperial St in downtown Los Angeles.",
         "promoter": "",
         "price": "",
         "tags": [
           "dj",
           "live",
-          "dance"
+          "dance",
+          "music",
+          "edm",
+          "sunday",
+          "dtla"
         ],
         "sources": [
           "https://edmtrain.com/tours/major-league-djz-29255",
@@ -9876,21 +9880,26 @@
         "id": "2026-11-09-sports-students-run-la-endurance-15k-509b22",
         "eid": "students-run-la-enduranc-ae2f",
         "track": "sports",
-        "category": "",
+        "category": "Sports",
         "name": "Students Run LA Endurance 15K & 5K",
         "day": "Sun",
         "date": "2026-11-15",
         "time": "",
         "start": null,
         "end": null,
-        "area": "",
+        "area": "Van Nuys",
         "venue": "Los Angeles",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "6350 Woodley Ave, Los Angeles, CA",
+        "why": "To run or spectate a 15K/5K and join a local endurance event.",
+        "summary": "A road race offering 15K and 5K distances on Sunday, November 15, 2026 in Los Angeles, with course maps and registration information.",
         "promoter": "",
         "price": "",
-        "tags": [],
+        "tags": [
+          "outdoor",
+          "running",
+          "fitness",
+          "community"
+        ],
         "sources": [
           "https://www.findtherun.com/race/149238/students-run-la-endurance-15k-5k"
         ],
@@ -9902,10 +9911,10 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/los-angeles/2026-11-09/students-run-la-enduranc-ae2f.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       }
     ]
