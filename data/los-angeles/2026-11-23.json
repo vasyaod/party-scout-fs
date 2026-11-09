@@ -3342,7 +3342,7 @@
         "time": "23:59",
         "start": "23:59",
         "end": "05:00",
-        "area": "Los Angeles",
+        "area": "DTLA",
         "venue": "TBA - DTLA",
         "address": "",
         "why": "For a late-night downtown club experience and peak-time DJ sets.",
@@ -3396,21 +3396,26 @@
         "id": "2026-11-23-music-2n1t3-cyberangel-pt-2-08-1-vil-2af639",
         "eid": "2n1t3-cyberangel-pt-2-08-e858",
         "track": "music",
-        "category": "",
+        "category": "Nightclub",
         "name": "2N1T3 Cyberangel Pt.2 #08.1: Vilena, Chlophonic, Warclaw B2B Alessio, Vap1D, Emmanuel Corona",
         "day": "Sat",
         "date": "2026-11-28",
         "time": "22:00",
-        "start": null,
-        "end": null,
+        "start": "22:00",
+        "end": "02:00",
         "area": "Los Angeles",
         "venue": "1340 E 6th St",
         "address": "",
-        "why": "",
-        "summary": "",
+        "why": "For an inexpensive late-night DJ showcase with multiple back-to-back sets.",
+        "summary": "Late-night DJ event at 1340 E 6th St on November 28 at 22:00 featuring Vilena, Chlophonic, Warclaw B2B Alessio, Vap1D, and Emmanuel Corona. Entry is free with RSVP or $10.",
         "promoter": "",
-        "price": "",
-        "tags": [],
+        "price": "free w/rsvp / $10",
+        "tags": [
+          "dj",
+          "electronic",
+          "free",
+          "late-night"
+        ],
         "sources": [
           {
             "url": "https://19hz.info/eventlisting_LosAngeles.php",
@@ -3429,7 +3434,7 @@
         "image": "https://api.party-scout.app/img/los-angeles/2026-11-23/2n1t3-cyberangel-pt-2-08-e858.jpg",
         "image_generated": true,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
@@ -3441,20 +3446,25 @@
         "day": "Sat",
         "date": "2026-11-28",
         "time": "13:00",
-        "start": null,
-        "end": null,
+        "start": "13:00",
+        "end": "02:00",
         "area": "Los Angeles",
         "venue": "2n1t3 HQ",
         "address": "1340 E 6th St, Los Angeles, CA 90021, USA",
-        "why": "",
-        "summary": "",
+        "why": "To attend an afternoon gathering at a dedicated local HQ venue.",
+        "summary": "An event titled \"2N1T3 CYBERANGEL PT.3 #08.1\" takes place at 2n1t3 HQ on 2026-11-28, starting at 13:00.",
         "promoter": "",
         "price": "10",
-        "tags": [],
+        "tags": [
+          "indoor",
+          "afternoon"
+        ],
         "sources": [
           "https://ra.co/events/2576294"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://ra.co/events/2576294"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=1340%20E%206th%20St%2C%20Los%20Angeles%2C%20CA%2090021%2C%20USA",
           "apple": "https://maps.apple.com/?q=1340%20E%206th%20St%2C%20Los%20Angeles%2C%20CA%2090021%2C%20USA"
@@ -3465,7 +3475,7 @@
         "image": "https://images.ra.co/84a95acbd32ace0e8fc8c24c583c5306dff304b6.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true,
         "lineup": [
           {
@@ -3482,21 +3492,25 @@
         "id": "2026-11-23-music-clutch-molly-ruin-mordrum-arkm-84e477",
         "eid": "clutch-molly-ruin-mordru-5a4c",
         "track": "music",
-        "category": "",
+        "category": "Concert",
         "name": "Clutch, Molly Ruin, Mordrum, Arkmprime, Varial",
         "day": "Sat",
         "date": "2026-11-28",
         "time": "21:00",
-        "start": null,
-        "end": null,
+        "start": "21:00",
+        "end": "02:30",
         "area": "Los Angeles",
         "venue": "TBA",
         "address": "",
-        "why": "",
-        "summary": "",
+        "why": "For a high-energy night of heavy rock and metal.",
+        "summary": "A concert on 2026-11-28 in Los Angeles at 21:00 featuring Clutch, Molly Ruin, Mordrum, Arkmprime, and Varial; venue TBA.",
         "promoter": "",
         "price": "",
-        "tags": [],
+        "tags": [
+          "metal",
+          "rock",
+          "live"
+        ],
         "sources": [
           {
             "url": "https://19hz.info/eventlisting_LosAngeles.php",
@@ -3515,7 +3529,7 @@
         "image": "https://api.party-scout.app/img/los-angeles/2026-11-23/clutch-molly-ruin-mordru-5a4c.jpg",
         "image_generated": true,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
@@ -4526,21 +4540,26 @@
         "id": "2026-11-23-sports-best-saturday-pickup-max-9-x-9-3d936b",
         "eid": "best-saturday-pickup-max-a985",
         "track": "sports",
-        "category": "",
+        "category": "Sports",
         "name": "Best Saturday Pickup max 9 x 9- Playa Vista- Big Goals, Goalies",
         "day": "Sat",
         "date": "2026-11-28",
         "time": "08:30",
-        "start": null,
-        "end": null,
+        "start": "08:30",
+        "end": "10:30",
         "area": "Los Angeles",
         "venue": "Playa Vista Bluff Creek Soccer Field",
         "address": "12702 W. Bluff Creek Dr.   90094, Los Angeles, CA",
-        "why": "",
-        "summary": "",
+        "why": "Play organized, competitive co‑ed soccer on turf with regular rotations and goalies.",
+        "summary": "Weekly co‑ed pickup soccer every Saturday at Playa Vista Bluff Creek Soccer Field for intermediate-to-advanced players on a new turf field with big goals and goalies. Games start about 20–30 minutes after warmups, require payment to hold RSVPs, and prohibit slide tackles or rough play.",
         "promoter": "",
         "price": "Free",
-        "tags": [],
+        "tags": [
+          "sports",
+          "outdoor",
+          "coed",
+          "pickup"
+        ],
         "sources": [
           "https://www.meetup.com/playa-vista-pickup/events/317341557/",
           "https://www.meetup.com/playa-vista-soccer-pickup/events/317341559/"
@@ -4556,28 +4575,34 @@
         "image": "https://secure.meetupstatic.com/photos/event/2/3/3/e/highres_535869022.jpeg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
         "id": "2026-11-23-sports-co-ed-pickup-soccer-los-angele-46d22e",
         "eid": "co-ed-pickup-soccer-los-c997",
         "track": "sports",
-        "category": "",
+        "category": "Sports",
         "name": "Co-Ed Pickup Soccer Los Angeles (Exposition Park)",
         "day": "Sat",
         "date": "2026-11-28",
         "time": "16:50",
-        "start": null,
-        "end": null,
+        "start": "16:50",
+        "end": "18:20",
         "area": "Los Angeles",
         "venue": "Exposition Park",
         "address": "700 Exposition Park Dr, Los Angeles, CA",
-        "why": "",
-        "summary": "",
+        "why": "Get game time and meet other players across skill levels.",
+        "summary": "Co‑ed pickup soccer at Exposition Park on 2026-11-28 at 4:50 PM. Players (18+) should reserve a spot via the Pezo Pickup Soccer app; games include 5v5, 8v8, and 11v11 for all skill levels.",
         "promoter": "",
         "price": "$11.99",
-        "tags": [],
+        "tags": [
+          "sports",
+          "soccer",
+          "outdoor",
+          "pickup",
+          "18+"
+        ],
         "sources": [
           "https://www.meetup.com/los-angeles-soccer-meetup-group-pezo/events/317349247/"
         ],
@@ -4592,14 +4617,14 @@
         "image": "https://secure.meetupstatic.com/photos/event/9/e/5/9/highres_518560537.jpeg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
         "id": "2026-11-23-sports-coffee-lovers-run-5k-10k-13-1-1e988e",
         "eid": "coffee-lovers-run-5k-10k-c332",
         "track": "sports",
-        "category": "",
+        "category": "Sports",
         "name": "Coffee Lovers Run 5K/10K/13.1 - Los Angeles",
         "day": "Sat",
         "date": "2026-11-28",
@@ -4609,11 +4634,16 @@
         "area": "Los Angeles",
         "venue": "Santa Monica",
         "address": "",
-        "why": "",
-        "summary": "",
+        "why": "For a scenic seaside course with distance options and post-run coffee.",
+        "summary": "A running event offering 5K, 10K, and 13.1-mile distances in Santa Monica on November 28, 2026.",
         "promoter": "",
         "price": "",
-        "tags": [],
+        "tags": [
+          "running",
+          "outdoor",
+          "fitness",
+          "race"
+        ],
         "sources": [
           "https://www.runguides.com/event/35598/coffee-lovers-run-5k-10k-131-los-angeles"
         ],
@@ -4628,7 +4658,7 @@
         "image": "https://api.party-scout.app/img/los-angeles/2026-11-23/coffee-lovers-run-5k-10k-c332.jpg",
         "image_generated": true,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       }
     ]
