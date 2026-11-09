@@ -8147,24 +8147,28 @@
         "name": "Santa Monica Block Fest Vol. IX",
         "day": "Sat",
         "date": "2026-11-14",
-        "time": "",
-        "start": null,
-        "end": null,
-        "area": "Los Angeles",
+        "time": "5pm–12am",
+        "start": "17:00",
+        "end": "00:00",
+        "area": "Santa Monica",
         "venue": "3rd Street Promenade (Santa Monica)",
         "address": "",
-        "why": "For outdoor neighborhood festivities with local vendors and street-party vibes.",
-        "summary": "A block festival taking place at 3rd Street Promenade in Santa Monica on November 14, 2026.",
+        "why": "A free, multi-stage house and bass night in downtown Santa Monica, with food vendors and big crowds.",
+        "summary": "Monthly open-air electronic music takeover of all three blocks of Third Street Promenade plus Arizona Avenue, with multiple stages and a night market.",
         "promoter": "",
-        "price": "",
+        "price": "Free (reserve ticket)",
         "tags": [
           "outdoor",
           "festival",
           "community",
-          "food"
+          "food",
+          "electronic",
+          "house",
+          "free"
         ],
         "sources": [
-          "https://edmtrain.com/los-angeles-ca/santa-monica-block-fest-vol-ix-550449"
+          "https://edmtrain.com/los-angeles-ca/santa-monica-block-fest-vol-ix-550449",
+          "https://www.santamonica.gov/press/2026/09/11/santa-monica-block-fest-returns-september-12-with-20-000-expected-as-monthly-series-extends-through-december"
         ],
         "tickets": [],
         "maps": {
@@ -8184,25 +8188,33 @@
         "id": "2026-11-09-music-xpress-ukg-house-takeover-by-y-62cf28",
         "eid": "xpress-ukg-house-takeove-b790",
         "track": "music",
-        "category": "",
+        "category": "Nightclub",
         "name": "XPRESS: UKG / House Takeover by y3kfae & Haute Cue",
         "day": "Sat",
         "date": "2026-11-14",
         "time": "22:00",
-        "start": null,
-        "end": null,
-        "area": "",
+        "start": "22:00",
+        "end": "01:30",
+        "area": "Hollywood",
         "venue": "Dirty Laundry",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "1725 N Hudson Ave., Los Angeles, CA, 90028, USA",
+        "why": "Catch a free night of UK garage and house beats in a compact Hollywood venue.",
+        "summary": "A UKG and house takeover at Dirty Laundry in Hollywood on 2026-11-14, hosted by y3kfae & Haute Cue; starts at 22:00 and entry is free.",
         "promoter": "",
-        "price": "",
-        "tags": [],
+        "price": "Free",
+        "tags": [
+          "ukg",
+          "house",
+          "dj",
+          "free",
+          "21+"
+        ],
         "sources": [
           "https://ra.co/events/2577752"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://ra.co/events/2577752"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Dirty%20Laundry",
           "apple": "https://maps.apple.com/?q=Dirty%20Laundry"
@@ -8210,10 +8222,10 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/los-angeles/2026-11-09/xpress-ukg-house-takeove-b790.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
@@ -8225,16 +8237,24 @@
         "day": "Sun",
         "date": "2026-11-15",
         "time": "14:00",
-        "start": null,
-        "end": null,
-        "area": "",
+        "start": "14:00",
+        "end": "22:00",
+        "area": "Riverside",
         "venue": "Riverside Municipal Auditorium (Riverside)",
         "address": "",
-        "why": "",
-        "summary": "",
+        "why": "A daytime Inland Empire Friendsgiving that runs into the evening, and cheap enough to bring a group.",
+        "summary": "Afternoon-to-evening Friendsgiving party at Riverside Municipal Auditorium, 2–10 PM, with tickets listed at $15–$21.",
         "promoter": "",
-        "price": "",
-        "tags": [],
+        "price": "$15–$21",
+        "tags": [
+          "ticketed",
+          "indoor",
+          "afternoon",
+          "holiday",
+          "friendsgiving",
+          "daytime",
+          "riverside"
+        ],
         "sources": [
           "https://www.ticketmaster.com/event/0B00655BEAEAEE74"
         ],
@@ -8246,35 +8266,42 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
-        "image_generated": false,
+        "image": "https://api.party-scout.app/img/los-angeles/2026-11-09/friends-giving-chamoy-ba-f817.jpg",
+        "image_generated": true,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
         "id": "2026-11-09-music-la-synth-club-presents-electro-47f532",
         "eid": "la-synth-club-presents-e-3533",
         "track": "music",
-        "category": "",
+        "category": "Nightclub",
         "name": "LA Synth Club presents Electronic Music",
         "day": "Sun",
         "date": "2026-11-15",
         "time": "19:00",
-        "start": null,
-        "end": null,
-        "area": "",
+        "start": "19:00",
+        "end": "23:30",
+        "area": "Los Angeles",
         "venue": "Old Towne Pub",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "23 E. Holly Street, Pasadena, CA 91103",
+        "why": "Low-cover, synth-focused electronic sets in an intimate pub setting.",
+        "summary": "LA Synth Club presents an electronic music night at Old Towne Pub in Pasadena on 2026-11-15 at 7:00 PM with a $5 cover.",
         "promoter": "",
-        "price": "",
-        "tags": [],
+        "price": "$5",
+        "tags": [
+          "electronic",
+          "synth",
+          "dj",
+          "cheap"
+        ],
         "sources": [
           "https://ra.co/events/2579753"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://ra.co/events/2579753"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Old%20Towne%20Pub",
           "apple": "https://maps.apple.com/?q=Old%20Towne%20Pub"
@@ -8282,36 +8309,42 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/los-angeles/2026-11-09/la-synth-club-presents-e-3533.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
         "id": "2026-11-09-music-like-this-ldot-adot-marc-mango-f141aa",
         "eid": "like-this-ldot-adot-marc-8dd7",
         "track": "music",
-        "category": "",
+        "category": "Concert",
         "name": "Like This: Ldot Adot, Marc Mango, Palo Santo",
         "day": "Sun",
         "date": "2026-11-15",
         "time": "13:00",
-        "start": null,
-        "end": null,
-        "area": "",
+        "start": "13:00",
+        "end": "17:00",
+        "area": "Los Angeles",
         "venue": "Spring St Bar (Los Angeles)",
         "address": "",
-        "why": "",
-        "summary": "",
+        "why": "Hear three artists perform in an intimate bar setting.",
+        "summary": "A concert at Spring St Bar in Los Angeles on November 15, 2026 featuring Ldot Adot, Marc Mango, and Palo Santo; starts at 1:00 PM.",
         "promoter": "",
         "price": "0",
-        "tags": [],
+        "tags": [
+          "live",
+          "bar",
+          "afternoon"
+        ],
         "sources": [
           "https://posh.vip/e/like-this",
           "https://ra.co/events/2577729"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://ra.co/events/2577729"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Spring%20St%20Bar%20%28Los%20Angeles%29",
           "apple": "https://maps.apple.com/?q=Spring%20St%20Bar%20%28Los%20Angeles%29"
@@ -8322,32 +8355,38 @@
         "image": "https://images.ra.co/6f81579533b96354d72ad42598db3b038c391b39.png",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
         "id": "2026-11-09-music-nightshift-after-hours-25c971",
         "eid": "nightshift-after-hours-bd36",
         "track": "music",
-        "category": "",
+        "category": "Nightclub",
         "name": "NIGHTSHIFT AFTER HOURS",
         "day": "Sun",
         "date": "2026-11-15",
         "time": "23:00",
-        "start": null,
-        "end": null,
-        "area": "",
+        "start": "23:00",
+        "end": "05:00",
+        "area": "DTLA",
         "venue": "The Lexington",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "129 E. 3rd St, Los Angeles, Ca, 90013",
+        "why": "For a free late-night outing at a downtown LA venue.",
+        "summary": "An after-hours event at The Lexington in Downtown Los Angeles on November 15, 2026, starting at 11:00 PM with free admission.",
         "promoter": "",
-        "price": "",
-        "tags": [],
+        "price": "Free",
+        "tags": [
+          "free",
+          "late-night",
+          "bar"
+        ],
         "sources": [
           "https://ra.co/events/2576585"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://ra.co/events/2576585"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=The%20Lexington",
           "apple": "https://maps.apple.com/?q=The%20Lexington"
@@ -8355,36 +8394,42 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/los-angeles/2026-11-09/nightshift-after-hours-bd36.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
         "id": "2026-11-09-music-origin-presents-major-league-d-6ebdef",
         "eid": "origin-presents-major-le-383a",
         "track": "music",
-        "category": "",
+        "category": "Nightclub",
         "name": "ORIGIN Presents: Major League DJz",
         "day": "Sun",
         "date": "2026-11-15",
         "time": "18:00",
-        "start": null,
-        "end": null,
-        "area": "",
+        "start": "18:00",
+        "end": "23:00",
+        "area": "Los Angeles",
         "venue": "613 Imperial St",
         "address": "",
-        "why": "",
-        "summary": "",
+        "why": "To dance to a live DJ set in a downtown Los Angeles venue.",
+        "summary": "ORIGIN Presents: Major League DJz is scheduled at 613 Imperial St on 2026-11-15, with a listed start time of 18:00.",
         "promoter": "",
         "price": "",
-        "tags": [],
+        "tags": [
+          "dj",
+          "live",
+          "dance"
+        ],
         "sources": [
           "https://edmtrain.com/tours/major-league-djz-29255",
           "https://ra.co/events/2577495"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://ra.co/events/2577495"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=613%20Imperial%20St",
           "apple": "https://maps.apple.com/?q=613%20Imperial%20St"
@@ -8395,7 +8440,7 @@
         "image": "https://images.ra.co/d1857c06e127a43e2b25085fe31434791407455c.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true,
         "lineup": [
           {
@@ -9790,21 +9835,26 @@
         "id": "2026-11-09-sports-flat-top-to-paradise-hill-to-p-2381c3",
         "eid": "flat-top-to-paradise-hil-7bd4",
         "track": "sports",
-        "category": "",
+        "category": "Sports",
         "name": "Flat Top to Paradise Hill to Peanut Lake Hike",
         "day": "Sun",
         "date": "2026-11-15",
         "time": "09:15",
-        "start": null,
-        "end": null,
-        "area": "",
+        "start": "09:15",
+        "end": "11:15",
+        "area": "Los Angeles",
         "venue": "Hillside Elementary School, 120 E Ave 35, Los Angeles, CA 90031",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "120 E Ave 35, Los Angeles, CA 90031, Los Angeles, CA",
+        "why": "For steep urban trails and panoramic downtown LA views.",
+        "summary": "A roughly 6-mile hike starting at Hillside Elementary (90031) that visits Flat Top, Lincoln Heights Hill Top View, Paradise Hill, and Peanut Lake in Deb's Park. Expect about 1,150 ft of elevation gain and a very steep climb up Telluride Street; hiking shoes or trail runners are recommended.",
         "promoter": "",
-        "price": "",
-        "tags": [],
+        "price": "Free",
+        "tags": [
+          "hiking",
+          "free",
+          "outdoor",
+          "views"
+        ],
         "sources": [
           "https://www.meetup.com/los-angeles-hiking-group/events/317336331/"
         ],
@@ -9816,10 +9866,10 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/los-angeles/2026-11-09/flat-top-to-paradise-hil-7bd4.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
