@@ -965,25 +965,31 @@
         "id": "2026-11-30-music-hungry-ass-youth-8-30pm-b6fb43",
         "eid": "hungry-ass-youth-8-30pm-81cc",
         "track": "music",
-        "category": "",
+        "category": "Concert",
         "name": "Hungry Ass Youth (8:30pm)",
         "day": "Thu",
         "date": "2026-12-03",
         "time": "20:00",
-        "start": null,
-        "end": null,
-        "area": "Los Angeles",
+        "start": "20:00",
+        "end": "02:00",
+        "area": "DTLA",
         "venue": "The Redwood Bar And Grill",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "316 W. 2nd Street, Los Angeles, CA  90012",
+        "why": "To catch a late-evening live set at a neighborhood downtown bar.",
+        "summary": "A show titled \"Hungry Ass Youth\" at The Redwood Bar And Grill in DTLA on December 3, 2026; the event name lists an 8:30pm start while the provided time is 8:00pm.",
         "promoter": "",
         "price": "",
-        "tags": [],
+        "tags": [
+          "live",
+          "21+",
+          "music"
+        ],
         "sources": [
           "https://ra.co/events/2564278"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://ra.co/events/2564278"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=The%20Redwood%20Bar%20And%20Grill%2C%20Los%20Angeles",
           "apple": "https://maps.apple.com/?q=The%20Redwood%20Bar%20And%20Grill%2C%20Los%20Angeles"
@@ -994,28 +1000,33 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
         "id": "2026-11-30-music-kroq-presents-reel-big-fish-tu-743d53",
         "eid": "kroq-presents-reel-big-f-b8eb",
         "track": "music",
-        "category": "",
+        "category": "Concert",
         "name": "KROQ Presents Reel Big Fish - Turn The Radio Off 30th Anniversary",
         "day": "Thu",
         "date": "2026-12-03",
         "time": "",
         "start": null,
         "end": null,
-        "area": "Los Angeles",
+        "area": "Koreatown",
         "venue": "The Wiltern",
         "address": "",
-        "why": "",
-        "summary": "",
+        "why": "To hear the band's ska-punk classics from that album live.",
+        "summary": "Reel Big Fish celebrate the 30th anniversary of their album Turn The Radio Off with a concert at The Wiltern on December 3, 2026. The show is billed as KROQ Presents Reel Big Fish — Turn The Radio Off 30th Anniversary.",
         "promoter": "",
         "price": "",
-        "tags": [],
+        "tags": [
+          "ska",
+          "punk",
+          "live",
+          "anniversary"
+        ],
         "sources": [
           "https://www.ticketmaster.com/kroq-presents-reel-big-fish-turn-los-angeles-california-12-03-2026/event/0900652A975B56A1"
         ],
@@ -1030,14 +1041,14 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
         "id": "2026-11-30-music-night-bass-ac-slater-38bf89",
         "eid": "night-bass-ac-slater-dadd",
         "track": "music",
-        "category": "",
+        "category": "Nightclub",
         "name": "Night Bass: AC Slater",
         "day": "Thu",
         "date": "2026-12-03",
@@ -1047,13 +1058,19 @@
         "area": "Los Angeles",
         "venue": "Sound Nightclub",
         "address": "",
-        "why": "",
-        "summary": "",
+        "why": "For a high-energy bass‑house DJ set and full-club experience.",
+        "summary": "Night Bass: AC Slater performs at Sound Nightclub on December 3, 2026.",
         "promoter": "",
         "price": "",
-        "tags": [],
+        "tags": [
+          "dj",
+          "bass",
+          "house",
+          "nightclub"
+        ],
         "sources": [
-          "https://edmtrain.com/los-angeles-ca/night-bass-ac-slater-550451"
+          "https://edmtrain.com/los-angeles-ca/night-bass-ac-slater-550451",
+          "https://edmhousenetwork.com/night-bass-to-host-final-show/"
         ],
         "tickets": [],
         "maps": {
@@ -1066,14 +1083,14 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
         "id": "2026-11-30-music-subdom-la-cd5102",
         "eid": "subdom-la-d8c8",
         "track": "music",
-        "category": "",
+        "category": "Nightclub",
         "name": "SubDom LA",
         "day": "Thu",
         "date": "2026-12-03",
@@ -1083,11 +1100,15 @@
         "area": "Los Angeles",
         "venue": "1720",
         "address": "",
-        "why": "",
-        "summary": "",
+        "why": "To spend a night out at 1720 in LA.",
+        "summary": "An event called SubDom LA at 1720 in Los Angeles on December 3, 2026.",
         "promoter": "",
         "price": "",
-        "tags": [],
+        "tags": [
+          "club",
+          "nightlife",
+          "indoor"
+        ],
         "sources": [
           "https://edmtrain.com/los-angeles-ca/subdom-la-542521"
         ],
@@ -1102,7 +1123,7 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
@@ -2287,21 +2308,26 @@
         "id": "2026-11-30-sports-sierra-club-griffith-park-thur-e8d26a",
         "eid": "sierra-club-griffith-par-7a18",
         "track": "sports",
-        "category": "",
+        "category": "Sports",
         "name": "Sierra Club Griffith Park Thursday Evening Hikes",
         "day": "Thu",
         "date": "2026-12-03",
         "time": "19:00",
-        "start": null,
-        "end": null,
+        "start": "19:00",
+        "end": "21:00",
         "area": "Los Angeles",
         "venue": "Merry Go Round Lot Two",
         "address": "",
-        "why": "",
-        "summary": "",
+        "why": "For a free, leveled evening trail workout led by experienced leaders.",
+        "summary": "Guided evening hikes in Griffith Park starting at 7pm with simultaneous groups across difficulty levels (1–6); hikes last about two hours and are led by trained leaders. Newcomers should arrive early to sign the required waiver and obtain a pink waiver card valid through the end of 2026.",
         "promoter": "",
-        "price": "",
-        "tags": [],
+        "price": "Free",
+        "tags": [
+          "free",
+          "outdoor",
+          "hike",
+          "fitness"
+        ],
         "sources": [
           "https://www.meetup.com/sierra-club-griffith-park-hikes/events/316710233/"
         ],
@@ -2313,10 +2339,10 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/los-angeles/2026-11-30/sierra-club-griffith-par-7a18.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
