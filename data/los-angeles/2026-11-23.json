@@ -5,7 +5,7 @@
   "location": "Los Angeles & SoCal",
   "city": "los-angeles",
   "city_label": "Los Angeles",
-  "generated_at": "2026-11-03",
+  "generated_at": "2026-11-09",
   "tracks": {
     "music": [
       {
@@ -1437,7 +1437,8 @@
         ],
         "sources": [
           "https://www.ticketmaster.com/like-nastya-los-angeles-california-11-23-2026/event/090064C39BEAC413",
-          "https://laist.com/events/like-nastya-live-concert-in-los-angeles"
+          "https://laist.com/events/like-nastya-live-concert-in-los-angeles",
+          "https://www.wiltern.com/shows"
         ],
         "tickets": [],
         "maps": {
@@ -1448,7 +1449,7 @@
         "coords_precise": false,
         "ra": {},
         "image": "https://api.party-scout.app/img/los-angeles/2026-11-23/like-nastya-5944.jpg",
-        "image_generated": false,
+        "image_generated": true,
         "popularity": 0,
         "enriched": 1,
         "active": true
@@ -1565,7 +1566,14 @@
           "dance"
         ],
         "sources": [
-          "https://www.ticketmaster.com/event/09006549278532F8"
+          {
+            "url": "https://www.ticketmaster.com/event/09006549278532F8",
+            "hidden": true
+          },
+          {
+            "url": "https://19hz.info/eventlisting_LosAngeles.php",
+            "hidden": true
+          }
         ],
         "tickets": [],
         "maps": {
@@ -1606,7 +1614,14 @@
           "21+"
         ],
         "sources": [
-          "https://www.instagram.com/p/Dd9nFQ2kg85/"
+          {
+            "url": "https://www.instagram.com/p/Dd9nFQ2kg85/",
+            "hidden": true
+          },
+          {
+            "url": "https://19hz.info/eventlisting_LosAngeles.php",
+            "hidden": true
+          }
         ],
         "tickets": [],
         "maps": {
@@ -1690,7 +1705,14 @@
           "nightlife"
         ],
         "sources": [
-          "https://www.ticketweb.com/event/id/14391564"
+          {
+            "url": "https://www.ticketweb.com/event/id/14391564",
+            "hidden": true
+          },
+          {
+            "url": "https://19hz.info/eventlisting_LosAngeles.php",
+            "hidden": true
+          }
         ],
         "tickets": [],
         "maps": {
@@ -1729,7 +1751,14 @@
           "party"
         ],
         "sources": [
-          "https://eventsta.com/event/losglobos112726?promo=CAF&fbclid=IwY2xjawVKBw9leHRuA2FlbQIxMABwZG9mAWJyaWQRMUZWb2hSOTNsaXJjamlOeDZzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEe0iXyD1szUN0qnsIAuWNJWL5OWdMB3q4p9Z3mcCMooMpaGyBsv8fp5qLSa60_aem_two5RZ4CM3ICnTriJkFRWw"
+          {
+            "url": "https://eventsta.com/event/losglobos112726?promo=CAF&fbclid=IwY2xjawVKBw9leHRuA2FlbQIxMABwZG9mAWJyaWQRMUZWb2hSOTNsaXJjamlOeDZzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEe0iXyD1szUN0qnsIAuWNJWL5OWdMB3q4p9Z3mcCMooMpaGyBsv8fp5qLSa60_aem_two5RZ4CM3ICnTriJkFRWw",
+            "hidden": true
+          },
+          {
+            "url": "https://19hz.info/eventlisting_LosAngeles.php",
+            "hidden": true
+          }
         ],
         "tickets": [],
         "maps": {
@@ -1770,7 +1799,14 @@
           "free"
         ],
         "sources": [
-          "https://www.ticketweb.com/event/id/14402274"
+          {
+            "url": "https://www.ticketweb.com/event/id/14402274",
+            "hidden": true
+          },
+          {
+            "url": "https://19hz.info/eventlisting_LosAngeles.php",
+            "hidden": true
+          }
         ],
         "tickets": [],
         "maps": {
@@ -1810,7 +1846,14 @@
           "presale"
         ],
         "sources": [
-          "https://ra.co/events/2529755"
+          {
+            "url": "https://ra.co/events/2529755",
+            "hidden": true
+          },
+          {
+            "url": "https://19hz.info/eventlisting_LosAngeles.php",
+            "hidden": true
+          }
         ],
         "tickets": [
           "https://ra.co/events/2529755"
@@ -1826,7 +1869,21 @@
         "image_generated": false,
         "popularity": 0,
         "enriched": 1,
-        "active": true
+        "active": true,
+        "lineup": [
+          {
+            "name": "Amir Javasoul",
+            "instagram": null
+          },
+          {
+            "name": "Ray Kash",
+            "instagram": null
+          },
+          {
+            "name": "Connor Mikami",
+            "instagram": null
+          }
+        ]
       },
       {
         "id": "2026-11-23-music-scenarios-emanuel-satie-sean-d-1ce504",
@@ -1851,7 +1908,14 @@
           "live"
         ],
         "sources": [
-          "https://dice.fm/event/6ac426e46c20d300012c560d"
+          {
+            "url": "https://dice.fm/event/6ac426e46c20d300012c560d",
+            "hidden": true
+          },
+          {
+            "url": "https://19hz.info/eventlisting_LosAngeles.php",
+            "hidden": true
+          }
         ],
         "tickets": [
           "https://dice.fm/event/6ac426e46c20d300012c560d"
@@ -1894,7 +1958,14 @@
           "dance"
         ],
         "sources": [
-          "https://www.ticketweb.com/event/id/14357124"
+          {
+            "url": "https://www.ticketweb.com/event/id/14357124",
+            "hidden": true
+          },
+          {
+            "url": "https://19hz.info/eventlisting_LosAngeles.php",
+            "hidden": true
+          }
         ],
         "tickets": [],
         "maps": {
@@ -1934,7 +2005,14 @@
           "dance"
         ],
         "sources": [
-          "https://ra.co/events/2560597"
+          {
+            "url": "https://ra.co/events/2560597",
+            "hidden": true
+          },
+          {
+            "url": "https://19hz.info/eventlisting_LosAngeles.php",
+            "hidden": true
+          }
         ],
         "tickets": [
           "https://ra.co/events/2560597"
@@ -1999,7 +2077,14 @@
           "underground"
         ],
         "sources": [
-          "https://ra.co/events/2561829"
+          {
+            "url": "https://ra.co/events/2561829",
+            "hidden": true
+          },
+          {
+            "url": "https://19hz.info/eventlisting_LosAngeles.php",
+            "hidden": true
+          }
         ],
         "tickets": [
           "https://ra.co/events/2561829"
@@ -2134,7 +2219,14 @@
           "nightlife"
         ],
         "sources": [
-          "https://wl.eventim.us/event/KROWDEXX-Los-Angeles-CA/709174?afflky=SteveVerdugo"
+          {
+            "url": "https://wl.eventim.us/event/KROWDEXX-Los-Angeles-CA/709174?afflky=SteveVerdugo",
+            "hidden": true
+          },
+          {
+            "url": "https://19hz.info/eventlisting_LosAngeles.php",
+            "hidden": true
+          }
         ],
         "tickets": [],
         "maps": {
@@ -2175,7 +2267,14 @@
           "late-night"
         ],
         "sources": [
-          "https://ra.co/events/2551379"
+          {
+            "url": "https://ra.co/events/2551379",
+            "hidden": true
+          },
+          {
+            "url": "https://19hz.info/eventlisting_LosAngeles.php",
+            "hidden": true
+          }
         ],
         "tickets": [
           "https://ra.co/events/2551379"
@@ -2195,6 +2294,14 @@
         "lineup": [
           {
             "name": "Demi Riquisimo",
+            "instagram": null
+          },
+          {
+            "name": "Maddy Maia",
+            "instagram": null
+          },
+          {
+            "name": "marta aramini",
             "instagram": null
           }
         ]
@@ -2222,7 +2329,14 @@
           "live"
         ],
         "sources": [
-          "https://www.axs.com/events/1533707/ohgeesy-tickets?cid=afffboea"
+          {
+            "url": "https://www.axs.com/events/1533707/ohgeesy-tickets?cid=afffboea",
+            "hidden": true
+          },
+          {
+            "url": "https://19hz.info/eventlisting_LosAngeles.php",
+            "hidden": true
+          }
         ],
         "tickets": [],
         "maps": {
@@ -2305,8 +2419,15 @@
           "party"
         ],
         "sources": [
-          "https://pear.us/mayhemevents/post/unrestricted-avalon-hollywood",
-          "https://ra.co/events/2572016"
+          {
+            "url": "https://pear.us/mayhemevents/post/unrestricted-avalon-hollywood",
+            "hidden": true
+          },
+          "https://ra.co/events/2572016",
+          {
+            "url": "https://19hz.info/eventlisting_LosAngeles.php",
+            "hidden": true
+          }
         ],
         "tickets": [
           "https://ra.co/events/2572016"
@@ -2353,7 +2474,14 @@
           "music"
         ],
         "sources": [
-          "https://ra.co/events/2551434"
+          {
+            "url": "https://ra.co/events/2551434",
+            "hidden": true
+          },
+          {
+            "url": "https://19hz.info/eventlisting_LosAngeles.php",
+            "hidden": true
+          }
         ],
         "tickets": [
           "https://ra.co/events/2551434"
@@ -2400,7 +2528,14 @@
           "nightlife"
         ],
         "sources": [
-          "https://dice.fm/event/532g3l-mishell-28th-nov-the-spotlight-los-angeles-tickets"
+          {
+            "url": "https://dice.fm/event/532g3l-mishell-28th-nov-the-spotlight-los-angeles-tickets",
+            "hidden": true
+          },
+          {
+            "url": "https://19hz.info/eventlisting_LosAngeles.php",
+            "hidden": true
+          }
         ],
         "tickets": [
           "https://dice.fm/event/532g3l-mishell-28th-nov-the-spotlight-los-angeles-tickets"
@@ -2796,16 +2931,16 @@
         "name": "Night Tales",
         "day": "Fri",
         "date": "2026-11-27",
-        "time": "",
+        "time": "22:00",
         "start": null,
         "end": null,
-        "area": "Hollywood",
+        "area": "Los Angeles",
         "venue": "The Spotlight",
-        "address": "1601 N Cahuenga Blvd, Los Angeles, CA",
+        "address": "1601 North Cahuenga Boulevard, Los Angeles, California 90028",
         "why": "A Friday-night electronic show at a Hollywood club that regularly books house and techno.",
         "summary": "Night Tales is listed for Friday 27 November at The Spotlight, a house and electronic music club in Hollywood. Door time and ticket price were not published on the listing we could read.",
         "promoter": "",
-        "price": "",
+        "price": "$24.93",
         "tags": [
           "nightlife",
           "party",
@@ -2815,7 +2950,12 @@
           "hollywood"
         ],
         "sources": [
-          "https://edmtrain.com/tours/night-tales-27290"
+          "https://edmtrain.com/tours/night-tales-27290",
+          {
+            "url": "https://19hz.info/eventlisting_LosAngeles.php",
+            "hidden": true
+          },
+          "https://dice.fm/event/ryedly-night-tales-27th-nov-the-spotlight-los-angeles-tickets"
         ],
         "tickets": [],
         "maps": {
@@ -2825,7 +2965,7 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://dice-media.imgix.net/attachments/2026-10-28/b87cb1b2-5b77-44f6-9e64-d10079320e3d.jpg?rect=0%2C216%2C1080%2C648",
         "image_generated": false,
         "popularity": 0,
         "enriched": 1,
@@ -2972,14 +3112,15 @@
         "why": "To meet others who share similar interests and enjoy a themed social night.",
         "summary": "FURRY EMO NIGHT is an event in Los Angeles on November 28, 2026.",
         "promoter": "",
-        "price": "$10.48-76.86",
+        "price": "From $10.48",
         "tags": [
           "alternative",
           "party",
           "subculture"
         ],
         "sources": [
-          "https://www.eventbrite.com/e/furry-emo-night-tickets-1997802580297"
+          "https://www.eventbrite.com/e/furry-emo-night-tickets-1997802580297",
+          "https://www.eventbrite.com/d/ca--los-angeles/events/"
         ],
         "tickets": [
           "https://www.eventbrite.com/e/furry-emo-night-tickets-1997802580297"
@@ -3038,6 +3179,513 @@
         "popularity": 0,
         "enriched": 1,
         "active": true
+      },
+      {
+        "id": "2026-11-23-music-cielo-du-soir-takeover-miguel-e40a69",
+        "eid": "cielo-du-soir-takeover-m-2608",
+        "track": "music",
+        "category": "",
+        "name": "Cielo Du Soir Takeover: Miguel Migs, Colette, Robinho, Ricardo Torres, Danny B, Guy B, Minime, Lostculture",
+        "day": "Wed",
+        "date": "2026-11-25",
+        "time": "21:00",
+        "start": null,
+        "end": null,
+        "area": "Los Angeles",
+        "venue": "Jungle Hollywood",
+        "address": "1640 N Cahuenga Blvd, Los Angeles, CA 90028",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "25",
+        "tags": [],
+        "sources": [
+          {
+            "url": "https://19hz.info/eventlisting_LosAngeles.php",
+            "hidden": true
+          },
+          "https://www.eventbrite.com/e/cielo-du-soir-takeover-clinic-thanksgiving-eve-tickets-2004078853800",
+          "https://ra.co/events/2579363"
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=Jungle%20Hollywood%2C%20Los%20Angeles",
+          "apple": "https://maps.apple.com/?q=Jungle%20Hollywood%2C%20Los%20Angeles"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "https://api.party-scout.app/img/los-angeles/2026-11-23/cielo-du-soir-takeover-m-2608.jpg",
+        "image_generated": true,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true,
+        "lineup": [
+          {
+            "name": "Miguel Migs",
+            "instagram": null
+          },
+          {
+            "name": "DJ Colette",
+            "instagram": null
+          }
+        ]
+      },
+      {
+        "id": "2026-11-23-music-off-record-and-14th-door-welco-343cea",
+        "eid": "off-record-and-14th-door-deaa",
+        "track": "music",
+        "category": "",
+        "name": "Off Record and 14th Door welcome heelbite316 and SCAN D",
+        "day": "Wed",
+        "date": "2026-11-25",
+        "time": "20:00",
+        "start": null,
+        "end": null,
+        "area": "Los Angeles",
+        "venue": "TBA - DTLA",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "",
+        "tags": [],
+        "sources": [
+          "https://ra.co/events/2578866"
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=Los%20Angeles",
+          "apple": "https://maps.apple.com/?q=Los%20Angeles"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "https://images.ra.co/97c01aff89df8ea5823e8b0f1fa7da36d871f41c.jpg",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true,
+        "lineup": [
+          {
+            "name": "heelbite316",
+            "instagram": null
+          }
+        ]
+      },
+      {
+        "id": "2026-11-23-music-voltique-thanksgiving-eve-7ea68e",
+        "eid": "voltique-thanksgiving-ev-946d",
+        "track": "music",
+        "category": "",
+        "name": "VOLTIQUE: THANKSGIVING EVE",
+        "day": "Wed",
+        "date": "2026-11-25",
+        "time": "23:00",
+        "start": null,
+        "end": null,
+        "area": "Los Angeles",
+        "venue": "TBA - DTLA",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "24",
+        "tags": [],
+        "sources": [
+          "https://ra.co/events/2576594"
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=Los%20Angeles",
+          "apple": "https://maps.apple.com/?q=Los%20Angeles"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "https://api.party-scout.app/img/los-angeles/2026-11-23/voltique-thanksgiving-ev-946d.jpg",
+        "image_generated": true,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-11-23-music-closer-x-after-midnight-presen-215ccc",
+        "eid": "closer-x-after-midnight-6ba0",
+        "track": "music",
+        "category": "",
+        "name": "CLOSER x After Midnight present THERMAL with CRUSH3d (LA Debut)",
+        "day": "Fri",
+        "date": "2026-11-27",
+        "time": "23:59",
+        "start": null,
+        "end": null,
+        "area": "Los Angeles",
+        "venue": "TBA - DTLA",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "",
+        "tags": [],
+        "sources": [
+          "https://ra.co/events/2577611",
+          {
+            "url": "https://19hz.info/eventlisting_LosAngeles.php",
+            "hidden": true
+          }
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=Los%20Angeles",
+          "apple": "https://maps.apple.com/?q=Los%20Angeles"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "https://images.ra.co/4c4fd31f0bc31a04c2f6c1dfd342e6ca86f5687d.png",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true,
+        "lineup": [
+          {
+            "name": "CRUSH3d",
+            "instagram": null
+          },
+          {
+            "name": "Desa Deca",
+            "instagram": null
+          },
+          {
+            "name": "nat the f*kn rat",
+            "instagram": null
+          }
+        ]
+      },
+      {
+        "id": "2026-11-23-music-2n1t3-cyberangel-pt-2-08-1-vil-2af639",
+        "eid": "2n1t3-cyberangel-pt-2-08-e858",
+        "track": "music",
+        "category": "",
+        "name": "2N1T3 Cyberangel Pt.2 #08.1: Vilena, Chlophonic, Warclaw B2B Alessio, Vap1D, Emmanuel Corona",
+        "day": "Sat",
+        "date": "2026-11-28",
+        "time": "22:00",
+        "start": null,
+        "end": null,
+        "area": "Los Angeles",
+        "venue": "1340 E 6th St",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "",
+        "tags": [],
+        "sources": [
+          {
+            "url": "https://19hz.info/eventlisting_LosAngeles.php",
+            "hidden": true
+          },
+          "https://www.2n1t3.com/e/2n1t3-cyber-angel-pt2?utm_source=19hz"
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=1340%20E%206th%20St%2C%20Los%20Angeles",
+          "apple": "https://maps.apple.com/?q=1340%20E%206th%20St%2C%20Los%20Angeles"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "https://api.party-scout.app/img/los-angeles/2026-11-23/2n1t3-cyberangel-pt-2-08-e858.jpg",
+        "image_generated": true,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-11-23-music-2n1t3-cyberangel-pt-3-08-1-84ec75",
+        "eid": "2n1t3-cyberangel-pt-3-08-e20e",
+        "track": "music",
+        "category": "",
+        "name": "2N1T3 CYBERANGEL PT.3 #08.1",
+        "day": "Sat",
+        "date": "2026-11-28",
+        "time": "13:00",
+        "start": null,
+        "end": null,
+        "area": "Los Angeles",
+        "venue": "2n1t3 HQ",
+        "address": "1340 E 6th St, Los Angeles, CA 90021, USA",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "10",
+        "tags": [],
+        "sources": [
+          "https://ra.co/events/2576294"
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=1340%20E%206th%20St%2C%20Los%20Angeles%2C%20CA%2090021%2C%20USA",
+          "apple": "https://maps.apple.com/?q=1340%20E%206th%20St%2C%20Los%20Angeles%2C%20CA%2090021%2C%20USA"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "https://images.ra.co/84a95acbd32ace0e8fc8c24c583c5306dff304b6.jpg",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true,
+        "lineup": [
+          {
+            "name": "VAP1D",
+            "instagram": null
+          },
+          {
+            "name": "VILENA",
+            "instagram": null
+          }
+        ]
+      },
+      {
+        "id": "2026-11-23-music-clutch-molly-ruin-mordrum-arkm-84e477",
+        "eid": "clutch-molly-ruin-mordru-5a4c",
+        "track": "music",
+        "category": "",
+        "name": "Clutch, Molly Ruin, Mordrum, Arkmprime, Varial",
+        "day": "Sat",
+        "date": "2026-11-28",
+        "time": "21:00",
+        "start": null,
+        "end": null,
+        "area": "Los Angeles",
+        "venue": "TBA",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "",
+        "tags": [],
+        "sources": [
+          {
+            "url": "https://19hz.info/eventlisting_LosAngeles.php",
+            "hidden": true
+          },
+          "https://www.instagram.com/p/DfTOLcNg6bG/"
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=Los%20Angeles",
+          "apple": "https://maps.apple.com/?q=Los%20Angeles"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "https://api.party-scout.app/img/los-angeles/2026-11-23/clutch-molly-ruin-mordru-5a4c.jpg",
+        "image_generated": true,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-11-23-music-the-room-blind-tiger-df6048",
+        "eid": "the-room-blind-tiger-7c40",
+        "track": "music",
+        "category": "",
+        "name": "The Room - BLIND TIGER",
+        "day": "Sat",
+        "date": "2026-11-28",
+        "time": "22:00",
+        "start": null,
+        "end": null,
+        "area": "Los Angeles",
+        "venue": "The Room Hollywood",
+        "address": "1626 N Cahuenga Blvd, Los Angeles, CA 90028",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "0",
+        "tags": [],
+        "sources": [
+          "https://ra.co/events/2579433"
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=1626%20N%20Cahuenga%20Blvd%2C%20Los%20Angeles%2C%20CA%2090028",
+          "apple": "https://maps.apple.com/?q=1626%20N%20Cahuenga%20Blvd%2C%20Los%20Angeles%2C%20CA%2090028"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "https://images.ra.co/475e6c243a73c1fad336acb827e1246916fd7280.jpg",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-11-23-music-thermal-buchecha-lonzo-tokeone-a0cceb",
+        "eid": "thermal-buchecha-lonzo-t-1f32",
+        "track": "music",
+        "category": "",
+        "name": "Thermal: Buchecha, Lonzo, Tokeonetoka",
+        "day": "Sat",
+        "date": "2026-11-28",
+        "time": "23:59",
+        "start": null,
+        "end": null,
+        "area": "Los Angeles",
+        "venue": "TBA",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "",
+        "tags": [],
+        "sources": [
+          {
+            "url": "https://19hz.info/eventlisting_LosAngeles.php",
+            "hidden": true
+          },
+          "https://posh.vip/e/-231?t=tt"
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=Los%20Angeles",
+          "apple": "https://maps.apple.com/?q=Los%20Angeles"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "https://api.party-scout.app/img/los-angeles/2026-11-23/thermal-buchecha-lonzo-t-1f32.jpg",
+        "image_generated": true,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-11-23-music-jeremiah-chiu-cd4a3e",
+        "eid": "jeremiah-chiu-641f",
+        "track": "music",
+        "category": "",
+        "name": "Jeremiah Chiu",
+        "day": "Sun",
+        "date": "2026-11-29",
+        "time": "20:00",
+        "start": null,
+        "end": null,
+        "area": "Los Angeles",
+        "venue": "Zebulon",
+        "address": "2478 Fletcher Dr, Los Angeles, CA 90039",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "$26.78",
+        "tags": [],
+        "sources": [
+          {
+            "url": "https://19hz.info/eventlisting_LosAngeles.php",
+            "hidden": true
+          },
+          "https://dice.fm/event/6a8a48e8c3983700014e6473"
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=2478%20Fletcher%20Dr%2C%20Los%20Angeles%2C%20CA%2090039",
+          "apple": "https://maps.apple.com/?q=2478%20Fletcher%20Dr%2C%20Los%20Angeles%2C%20CA%2090039"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "https://dice-media.imgix.net/attachments/2026-08-23/8583fe27-c759-4e0c-aa40-1bc07673412a.jpg?rect=0%2C67%2C2000%2C1200",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-11-23-music-jewelz-blu-carlymaeshem-seanyp-d4db89",
+        "eid": "jewelz-blu-carlymaeshem-310c",
+        "track": "music",
+        "category": "",
+        "name": "Jewelz Blu, Carlymaeshem, Seanypoo, Cloo, Sylknet, Otomoto, Master Flynn",
+        "day": "Sun",
+        "date": "2026-11-29",
+        "time": "14:00",
+        "start": null,
+        "end": null,
+        "area": "Los Angeles",
+        "venue": "TBA",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "",
+        "tags": [],
+        "sources": [
+          {
+            "url": "https://19hz.info/eventlisting_LosAngeles.php",
+            "hidden": true
+          },
+          "https://www.instagram.com/sylknet/reel/DfWKPWTT-zF/"
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=Los%20Angeles",
+          "apple": "https://maps.apple.com/?q=Los%20Angeles"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "https://api.party-scout.app/img/los-angeles/2026-11-23/jewelz-blu-carlymaeshem-310c.jpg",
+        "image_generated": true,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-11-23-music-memory-expansion-278dea",
+        "eid": "memory-expansion-9d54",
+        "track": "music",
+        "category": "",
+        "name": "Memory Expansion",
+        "day": "Sun",
+        "date": "2026-11-29",
+        "time": "18:00",
+        "start": null,
+        "end": null,
+        "area": "Los Angeles",
+        "venue": "Brain Dead Studios",
+        "address": "611 N Fairfax Ave Los Angeles, CA 90036",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "22 - 32",
+        "tags": [],
+        "sources": [
+          "https://ra.co/events/2579741"
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=611%20N%20Fairfax%20Ave%20Los%20Angeles%2C%20CA%2090036",
+          "apple": "https://maps.apple.com/?q=611%20N%20Fairfax%20Ave%20Los%20Angeles%2C%20CA%2090036"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "https://images.ra.co/34a8fdb34d2766136ea50461dab5f2d133e018f6.png",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true,
+        "lineup": [
+          {
+            "name": "Lara Sarkissian",
+            "instagram": null
+          }
+        ]
       }
     ],
     "sports": [
@@ -3635,6 +4283,295 @@
         "image_generated": false,
         "popularity": 0,
         "enriched": 1,
+        "active": true
+      },
+      {
+        "id": "2026-11-23-sports-co-ed-pickup-soccer-los-angele-3544f6",
+        "eid": "co-ed-pickup-soccer-los-0a03",
+        "track": "sports",
+        "category": "",
+        "name": "Co-Ed Pickup Soccer Los Angeles (Playa Vista)",
+        "day": "Tue",
+        "date": "2026-11-24",
+        "time": "18:15",
+        "start": null,
+        "end": null,
+        "area": "Los Angeles",
+        "venue": "Playa Vista",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "",
+        "tags": [],
+        "sources": [
+          "https://www.meetup.com/los-angeles-soccer-meetup-group-pezo/events/317294454/"
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=Playa%20Vista%2C%20Los%20Angeles",
+          "apple": "https://maps.apple.com/?q=Playa%20Vista%2C%20Los%20Angeles"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "https://api.party-scout.app/img/los-angeles/2026-11-23/co-ed-pickup-soccer-los-0a03.jpg",
+        "image_generated": true,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-11-23-sports-the-night-skate-downtown-los-a-2dc4b5",
+        "eid": "the-night-skate-downtown-f4d2",
+        "track": "sports",
+        "category": "",
+        "name": "The Night Skate - Downtown Los Angeles",
+        "day": "Tue",
+        "date": "2026-11-24",
+        "time": "20:00",
+        "start": null,
+        "end": null,
+        "area": "Los Angeles",
+        "venue": "Weller Court",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "",
+        "tags": [],
+        "sources": [
+          "https://www.meetup.com/socalinline/events/317295196/"
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=Weller%20Court%2C%20Los%20Angeles",
+          "apple": "https://maps.apple.com/?q=Weller%20Court%2C%20Los%20Angeles"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "https://api.party-scout.app/img/los-angeles/2026-11-23/the-night-skate-downtown-f4d2.jpg",
+        "image_generated": true,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-11-23-sports-5mi-walk-from-near-ricks-lax-o-7f5687",
+        "eid": "5mi-walk-from-near-ricks-aac7",
+        "track": "sports",
+        "category": "",
+        "name": "5mi walk from near Ricks LAX office, LAX Const, In-n-Out, Planes",
+        "day": "Wed",
+        "date": "2026-11-25",
+        "time": "18:00",
+        "start": null,
+        "end": null,
+        "area": "Los Angeles",
+        "venue": "LAX Street Parking",
+        "address": "9111 Falmouth Ave., Los Angeles, CA",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "Free",
+        "tags": [],
+        "sources": [
+          "https://www.meetup.com/los-angeles-hiking-group/events/317321729/"
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=9111%20Falmouth%20Ave.%2C%20Los%20Angeles%2C%20CA",
+          "apple": "https://maps.apple.com/?q=9111%20Falmouth%20Ave.%2C%20Los%20Angeles%2C%20CA"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "https://secure.meetupstatic.com/photos/event/a/d/e/0/highres_535004512.jpeg",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-11-23-sports-adult-4-v-4-indoor-co-ed-pick-a799cd",
+        "eid": "adult-4-v-4-indoor-co-ed-4ab9",
+        "track": "sports",
+        "category": "",
+        "name": "Adult 4 v 4 indoor Co-ed pick up",
+        "day": "Wed",
+        "date": "2026-11-25",
+        "time": "20:00",
+        "start": null,
+        "end": null,
+        "area": "Los Angeles",
+        "venue": "Evolve Project LA",
+        "address": "1921 Blake Avenue, Los Angeles, CA",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "$12",
+        "tags": [],
+        "sources": [
+          "https://www.meetup.com/los-angeles-pick-up-soccer-meetup/events/317309611/"
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=1921%20Blake%20Avenue%2C%20Los%20Angeles%2C%20CA",
+          "apple": "https://maps.apple.com/?q=1921%20Blake%20Avenue%2C%20Los%20Angeles%2C%20CA"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "https://secure.meetupstatic.com/photos/event/7/c/f/b/highres_495091995.jpeg",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-11-23-sports-wednesday-night-lights-027f09",
+        "eid": "wednesday-night-lights-7043",
+        "track": "sports",
+        "category": "",
+        "name": "Wednesday night lights.",
+        "day": "Wed",
+        "date": "2026-11-25",
+        "time": "18:00",
+        "start": null,
+        "end": null,
+        "area": "Los Angeles",
+        "venue": "Mount Vernon Parkway",
+        "address": "4400 Mount Vernon Dr Los Angeles CA 90043,, Los Angeles, CA",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "Free",
+        "tags": [],
+        "sources": [
+          "https://www.meetup.com/walk-4-purpose/events/317308719/"
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=4400%20Mount%20Vernon%20Dr%20Los%20Angeles%20CA%2090043%2C%2C%20Los%20Angeles%2C%20CA",
+          "apple": "https://maps.apple.com/?q=4400%20Mount%20Vernon%20Dr%20Los%20Angeles%20CA%2090043%2C%2C%20Los%20Angeles%2C%20CA"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "https://secure.meetupstatic.com/photos/event/1/4/5/7/highres_514265207.jpeg",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-11-23-sports-best-saturday-pickup-max-9-x-9-3d936b",
+        "eid": "best-saturday-pickup-max-a985",
+        "track": "sports",
+        "category": "",
+        "name": "Best Saturday Pickup max 9 x 9- Playa Vista- Big Goals, Goalies",
+        "day": "Sat",
+        "date": "2026-11-28",
+        "time": "08:30",
+        "start": null,
+        "end": null,
+        "area": "Los Angeles",
+        "venue": "Playa Vista Bluff Creek Soccer Field",
+        "address": "12702 W. Bluff Creek Dr.   90094, Los Angeles, CA",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "Free",
+        "tags": [],
+        "sources": [
+          "https://www.meetup.com/playa-vista-pickup/events/317341557/",
+          "https://www.meetup.com/playa-vista-soccer-pickup/events/317341559/"
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=12702%20W.%20Bluff%20Creek%20Dr.%20%20%2090094%2C%20Los%20Angeles%2C%20CA",
+          "apple": "https://maps.apple.com/?q=12702%20W.%20Bluff%20Creek%20Dr.%20%20%2090094%2C%20Los%20Angeles%2C%20CA"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "https://secure.meetupstatic.com/photos/event/2/3/3/e/highres_535869022.jpeg",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-11-23-sports-co-ed-pickup-soccer-los-angele-46d22e",
+        "eid": "co-ed-pickup-soccer-los-c997",
+        "track": "sports",
+        "category": "",
+        "name": "Co-Ed Pickup Soccer Los Angeles (Exposition Park)",
+        "day": "Sat",
+        "date": "2026-11-28",
+        "time": "16:50",
+        "start": null,
+        "end": null,
+        "area": "Los Angeles",
+        "venue": "Exposition Park",
+        "address": "700 Exposition Park Dr, Los Angeles, CA",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "$11.99",
+        "tags": [],
+        "sources": [
+          "https://www.meetup.com/los-angeles-soccer-meetup-group-pezo/events/317349247/"
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=700%20Exposition%20Park%20Dr%2C%20Los%20Angeles%2C%20CA",
+          "apple": "https://maps.apple.com/?q=700%20Exposition%20Park%20Dr%2C%20Los%20Angeles%2C%20CA"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "https://secure.meetupstatic.com/photos/event/9/e/5/9/highres_518560537.jpeg",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-11-23-sports-coffee-lovers-run-5k-10k-13-1-1e988e",
+        "eid": "coffee-lovers-run-5k-10k-c332",
+        "track": "sports",
+        "category": "",
+        "name": "Coffee Lovers Run 5K/10K/13.1 - Los Angeles",
+        "day": "Sat",
+        "date": "2026-11-28",
+        "time": "",
+        "start": null,
+        "end": null,
+        "area": "Los Angeles",
+        "venue": "Santa Monica",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "",
+        "tags": [],
+        "sources": [
+          "https://www.runguides.com/event/35598/coffee-lovers-run-5k-10k-131-los-angeles"
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=Santa%20Monica%2C%20Los%20Angeles",
+          "apple": "https://maps.apple.com/?q=Santa%20Monica%2C%20Los%20Angeles"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "https://api.party-scout.app/img/los-angeles/2026-11-23/coffee-lovers-run-5k-10k-c332.jpg",
+        "image_generated": true,
+        "popularity": 0,
+        "enriched": 0,
         "active": true
       }
     ]
