@@ -2406,25 +2406,33 @@
         "id": "2026-11-30-music-hypersleep-a-deep-progressive-f8bc6f",
         "eid": "hypersleep-a-deep-progre-d264",
         "track": "music",
-        "category": "",
+        "category": "Nightclub",
         "name": "Hypersleep - a deep progressive rooftop day party",
         "day": "Sun",
         "date": "2026-12-06",
         "time": "15:00",
-        "start": null,
-        "end": null,
+        "start": "15:00",
+        "end": "21:00",
         "area": "Los Angeles",
         "venue": "Somewhere Special",
         "address": "929 S Broadway, Los Angeles, CA 90015",
-        "why": "",
-        "summary": "",
+        "why": "For rooftop sunset vibes and deep progressive electronic sets.",
+        "summary": "A deep progressive rooftop day party called Hypersleep at Somewhere Special on 2026-12-06, starting at 15:00.",
         "promoter": "",
         "price": "0.00",
-        "tags": [],
+        "tags": [
+          "dj",
+          "rooftop",
+          "day",
+          "electronic",
+          "progressive"
+        ],
         "sources": [
           "https://ra.co/events/2572162"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://ra.co/events/2572162"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=929%20S%20Broadway%2C%20Los%20Angeles%2C%20CA%2090015",
           "apple": "https://maps.apple.com/?q=929%20S%20Broadway%2C%20Los%20Angeles%2C%20CA%2090015"
@@ -2435,7 +2443,7 @@
         "image": "https://images.ra.co/7439e397d70ed947d2069c7cf8b55f8c962c5167.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true,
         "lineup": [
           {
@@ -2662,21 +2670,26 @@
         "id": "2026-11-30-sports-santa-runs-griffith-park-6634b1",
         "eid": "santa-runs-griffith-park-d805",
         "track": "sports",
-        "category": "",
+        "category": "Sports",
         "name": "Santa Runs Griffith Park",
         "day": "Sun",
         "date": "2026-12-06",
         "time": "",
         "start": null,
         "end": null,
-        "area": "Los Angeles",
+        "area": "Griffith Park",
         "venue": "Griffith Park",
         "address": "",
-        "why": "",
-        "summary": "",
+        "why": "Get a festive outdoor workout and enjoy holiday spirit with other participants.",
+        "summary": "A Santa-themed run taking place in Griffith Park on December 6, 2026.",
         "promoter": "",
         "price": "",
-        "tags": [],
+        "tags": [
+          "running",
+          "holiday",
+          "outdoor",
+          "family"
+        ],
         "sources": [
           "https://www.runguides.com/event/21785/santa-runs-griffith-park"
         ],
@@ -2688,10 +2701,10 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/los-angeles/2026-11-30/santa-runs-griffith-park-d805.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       }
     ]
