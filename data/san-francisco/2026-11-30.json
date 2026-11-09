@@ -2086,25 +2086,31 @@
         "id": "2026-11-30-music-midnight-tyrannosaurus-fd7aa8",
         "eid": "midnight-tyrannosaurus-8708",
         "track": "music",
-        "category": "",
+        "category": "Concert",
         "name": "Midnight Tyrannosaurus",
         "day": "Sat",
         "date": "2026-12-05",
         "time": "21:00",
-        "start": null,
-        "end": null,
+        "start": "22:00",
+        "end": "02:00",
         "area": "San Francisco",
         "venue": "The Midway",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "900 Marin St., San Francisco, CA 94124",
+        "why": "For a late-night show at The Midway in SoMa.",
+        "summary": "Midnight Tyrannosaurus is scheduled at The Midway in San Francisco on December 5, 2026, with a 21:00 start time.",
         "promoter": "",
         "price": "$15-25",
-        "tags": [],
+        "tags": [
+          "live",
+          "night"
+        ],
         "sources": [
+          "https://www.tixr.com/groups/midwaysf/events/midnight-tyrannosaurus-204534",
+          "https://dothebay.com/events/2026/12/5/zingara-the-girls-are-making-riddim-tour-tickets"
+        ],
+        "tickets": [
           "https://www.tixr.com/groups/midwaysf/events/midnight-tyrannosaurus-204534"
         ],
-        "tickets": [],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=The%20Midway%2C%20San%20Francisco",
           "apple": "https://maps.apple.com/?q=The%20Midway%2C%20San%20Francisco"
@@ -2113,35 +2119,41 @@
         "coords_precise": false,
         "ra": {},
         "image": "https://api.party-scout.app/img/san-francisco/2026-11-30/midnight-tyrannosaurus-8708.jpg",
-        "image_generated": true,
+        "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
         "id": "2026-11-30-music-nyx-late-night-clubbing-098-fr-96204f",
         "eid": "nyx-late-night-clubbing-ec6d",
         "track": "music",
-        "category": "",
+        "category": "Nightclub",
         "name": "NYX - Late Night Clubbing #098 (Friday)",
         "day": "Sat",
         "date": "2026-12-05",
         "time": "02:00",
-        "start": null,
-        "end": null,
-        "area": "San Francisco",
+        "start": "02:00",
+        "end": "06:00",
+        "area": "SF",
         "venue": "TBA",
         "address": "",
-        "why": "",
-        "summary": "",
+        "why": "For dancing and late-night party energy into the early morning.",
+        "summary": "Late-night clubbing happening Friday, December 5, 2026 at 2:00 AM in San Francisco; venue TBA.",
         "promoter": "",
-        "price": "",
-        "tags": [],
+        "price": "Free",
+        "tags": [
+          "club",
+          "late-night",
+          "dj",
+          "21+"
+        ],
         "sources": [
           {
             "url": "https://edmtrain.com/san-francisco-ca",
             "hidden": true
-          }
+          },
+          "https://posh.vip/e/nyx-late-night-clubbing-098-friday-w-surprise-guest"
         ],
         "tickets": [],
         "maps": {
@@ -2152,34 +2164,42 @@
         "coords_precise": false,
         "ra": {},
         "image": "https://api.party-scout.app/img/san-francisco/2026-11-30/nyx-late-night-clubbing-ec6d.jpg",
-        "image_generated": true,
+        "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
         "id": "2026-11-30-music-opulent-temple-mioli-music-s-4-45ab09",
         "eid": "opulent-temple-mioli-mus-8601",
         "track": "music",
-        "category": "",
+        "category": "Nightclub",
         "name": "Opulent Temple & Mioli Music's 4th Annual Holiday Party",
         "day": "Sat",
         "date": "2026-12-05",
         "time": "21:30",
-        "start": null,
-        "end": null,
+        "start": "21:30",
+        "end": "03:00",
         "area": "San Francisco",
         "venue": "The Great Northern",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "119 Utah St, San Francisco, CA 94103",
+        "why": "To catch a high-energy holiday DJ set at a major downtown dance venue.",
+        "summary": "Opulent Temple & Mioli Music’s 4th Annual Holiday Party at The Great Northern in San Francisco takes place December 5, 2026 and features MARTEN HØRGER.",
         "promoter": "",
-        "price": "",
-        "tags": [],
+        "price": "$11–$32",
+        "tags": [
+          "dj",
+          "electronic",
+          "21+",
+          "holiday"
+        ],
         "sources": [
+          "https://ra.co/events/2575416",
+          "https://dothebay.com/events/2026/12/5/opulent-temple-mioli-s-4th-annual-holiday-party-w-marten-horger-tickets"
+        ],
+        "tickets": [
           "https://ra.co/events/2575416"
         ],
-        "tickets": [],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=The%20Great%20Northern%2C%20San%20Francisco",
           "apple": "https://maps.apple.com/?q=The%20Great%20Northern%2C%20San%20Francisco"
@@ -2187,36 +2207,46 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/san-francisco/2026-11-30/opulent-temple-mioli-mus-8601.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
         "id": "2026-11-30-music-opulent-temple-mioli-s-4th-ann-a7c1d1",
         "eid": "opulent-temple-mioli-s-4-816b",
         "track": "music",
-        "category": "",
+        "category": "Nightclub",
         "name": "Opulent Temple & Mioli's 4th Annual Holiday Party w/ Marten Horger, Emanate, Syd Gris, Almas, Anderson Bourne",
         "day": "Sat",
         "date": "2026-12-05",
         "time": "21:30",
-        "start": null,
-        "end": null,
+        "start": "21:30",
+        "end": "03:00",
         "area": "San Francisco",
         "venue": "The Great Northern",
         "address": "119 Utah St, San Francisco, CA 94103",
-        "why": "",
-        "summary": "",
+        "why": "For multi-room dancing, a guest DJ set, and a festive vendor-filled burner vibe.",
+        "summary": "Opulent Temple and Mioli Music host a holiday party at The Great Northern on December 5, 2026, with Marten Hørger across two floors of sound, vendors, and festive burner flair.",
         "promoter": "",
         "price": "$13.00 - 25.00",
-        "tags": [],
+        "tags": [
+          "dj",
+          "electronic",
+          "holiday",
+          "indoor",
+          "vendors"
+        ],
         "sources": [
+          "https://www.eventbrite.com/e/opulent-temple-miolis-4th-annual-holiday-party-w-marten-hrger-tickets-2003331959820",
+          "https://ra.co/events/2560458",
+          "https://dothebay.com/events/2026/12/5/opulent-temple-mioli-s-4th-annual-holiday-party-w-marten-horger-tickets"
+        ],
+        "tickets": [
           "https://www.eventbrite.com/e/opulent-temple-miolis-4th-annual-holiday-party-w-marten-hrger-tickets-2003331959820",
           "https://ra.co/events/2560458"
         ],
-        "tickets": [],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=119%20Utah%20St%2C%20San%20Francisco%2C%20CA%2094103",
           "apple": "https://maps.apple.com/?q=119%20Utah%20St%2C%20San%20Francisco%2C%20CA%2094103"
@@ -2227,7 +2257,7 @@
         "image": "https://images.ra.co/e90828b741eae043299c410302a9bb61c94e52fe.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true,
         "lineup": [
           {
@@ -2256,25 +2286,32 @@
         "id": "2026-11-30-music-paam-s-holiday-spectacular-65f48c",
         "eid": "paam-s-holiday-spectacul-f7eb",
         "track": "music",
-        "category": "",
+        "category": "Concert",
         "name": "PAAM's Holiday Spectacular",
         "day": "Sat",
         "date": "2026-12-05",
         "time": "17:00",
-        "start": null,
-        "end": null,
+        "start": "17:00",
+        "end": "19:30",
         "area": "San Francisco",
         "venue": "Palace of Fine Arts Theatre",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "3301 Lyon Street, San Francisco, CA 94123",
+        "why": "Enjoy family-friendly seasonal music and performances by a local academy.",
+        "summary": "A holiday concert by the Performing Arts Academy of Marin at the Palace of Fine Arts Theatre on December 5, 2026 at 5:00 PM.",
         "promoter": "",
         "price": "From $45.25",
-        "tags": [],
+        "tags": [
+          "holiday",
+          "family",
+          "live",
+          "community"
+        ],
         "sources": [
           "https://www.eventbrite.com/e/paams-holiday-spectacular-saturday-december-5th-tickets-2002745783551"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://www.eventbrite.com/e/paams-holiday-spectacular-saturday-december-5th-tickets-2002745783551"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Palace%20of%20Fine%20Arts%20Theatre%2C%20San%20Francisco",
           "apple": "https://maps.apple.com/?q=Palace%20of%20Fine%20Arts%20Theatre%2C%20San%20Francisco"
@@ -2282,31 +2319,36 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/san-francisco/2026-11-30/paam-s-holiday-spectacul-f7eb.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
         "id": "2026-11-30-music-the-string-cheese-incident-7e67e0",
         "eid": "the-string-cheese-incide-0772",
         "track": "music",
-        "category": "",
+        "category": "Concert",
         "name": "The String Cheese Incident",
         "day": "Sat",
         "date": "2026-12-05",
         "time": "18:00",
-        "start": null,
+        "start": "18:00",
         "end": null,
-        "area": "San Francisco",
+        "area": "Oakland",
         "venue": "Fox Theater",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "1807 Telegraph Ave, Oakland, CA 94612",
+        "why": "Experience extended improvisational jams and genre-blending grooves in a historic, intimate theater setting.",
+        "summary": "The String Cheese Incident performs at the Fox Theater in Oakland on December 5, 2026 at 6:00 PM.",
         "promoter": "",
         "price": "",
-        "tags": [],
+        "tags": [
+          "live",
+          "jam",
+          "rock",
+          "bay-area"
+        ],
         "sources": [
           "https://dothebay.com/events/2026/12/5/the-string-cheese-incident-tickets"
         ],
@@ -2319,35 +2361,42 @@
         "coords_precise": false,
         "ra": {},
         "image": "https://api.party-scout.app/img/san-francisco/2026-11-30/the-string-cheese-incide-0772.jpg",
-        "image_generated": true,
+        "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
         "id": "2026-11-30-music-studio-de-laune-regularfantasy-2b9270",
         "eid": "studio-de-laune-regularf-3843",
         "track": "music",
-        "category": "",
+        "category": "Nightclub",
         "name": "Studio de Laune: Regularfantasy & Max Sprauer",
         "day": "Sat",
         "date": "2026-12-05",
         "time": "21:00",
-        "start": null,
-        "end": null,
+        "start": "21:00",
+        "end": "02:00",
         "area": "San Francisco",
         "venue": "Public Works",
         "address": "161 Erie Street, San Francisco, CA 94103, United States",
-        "why": "",
-        "summary": "",
+        "why": "For a late-night dance outing at a noted San Francisco club.",
+        "summary": "An event at Public Works in San Francisco on December 5, 2026 featuring Regularfantasy and Max Sprauer that begins at 21:00.",
         "promoter": "",
         "price": "$23",
-        "tags": [],
+        "tags": [
+          "dj",
+          "electronic",
+          "21+",
+          "dance"
+        ],
         "sources": [
           "https://dothebay.com/events/2026/12/5/studio-de-laune-regularfantasy-max-sprauer-tickets",
           "https://ra.co/events/2558092"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://ra.co/events/2558092"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=161%20Erie%20Street%2C%20San%20Francisco%2C%20CA%2094103%2C%20United%20States",
           "apple": "https://maps.apple.com/?q=161%20Erie%20Street%2C%20San%20Francisco%2C%20CA%2094103%2C%20United%20States"
@@ -2358,7 +2407,7 @@
         "image": "https://images.ra.co/ee435f74937122e6f5f4749c1cc87f0853d3ae88.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true,
         "lineup": [
           {
