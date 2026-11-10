@@ -5,7 +5,7 @@
   "location": "San Francisco & Bay Area",
   "city": "san-francisco",
   "city_label": "San Francisco",
-  "generated_at": "2026-11-09",
+  "generated_at": "2026-11-10",
   "tracks": {
     "music": [
       {
@@ -614,7 +614,8 @@
         ],
         "sources": [
           "https://edmtrain.com/san-francisco-ca/genghis-bong-supernaut-541833",
-          "https://dothebay.com/events/2026/12/3/hazzard-s-cure-genghis-bong-and-friends-supernaut-tickets"
+          "https://dothebay.com/events/2026/12/3/hazzard-s-cure-genghis-bong-and-friends-supernaut-tickets",
+          "https://edmtrain.com/san-francisco-ca"
         ],
         "tickets": [],
         "maps": {
@@ -625,7 +626,7 @@
         "coords_precise": false,
         "ra": {},
         "image": "https://api.party-scout.app/img/san-francisco/2026-11-30/genghis-bong-supernaut-d34a.jpg",
-        "image_generated": false,
+        "image_generated": true,
         "popularity": 0,
         "enriched": 1,
         "active": true
@@ -911,7 +912,11 @@
         ],
         "sources": [
           "https://www.eventbrite.com/e/boy2000-tickets-1999282809703",
-          "https://dothebay.com/events/2026/12/4/boy2000-tickets"
+          "https://dothebay.com/events/2026/12/4/boy2000-tickets",
+          {
+            "url": "https://19hz.info/eventlisting_BayArea.php",
+            "hidden": true
+          }
         ],
         "tickets": [
           "https://www.eventbrite.com/e/boy2000-tickets-1999282809703"
@@ -1241,7 +1246,11 @@
           "live"
         ],
         "sources": [
-          "https://www.instagram.com/purpd3rp/p/DdZZpfLETlc/"
+          "https://www.instagram.com/purpd3rp/p/DdZZpfLETlc/",
+          {
+            "url": "https://19hz.info/eventlisting_BayArea.php",
+            "hidden": true
+          }
         ],
         "tickets": [],
         "maps": {
@@ -1251,8 +1260,8 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
-        "image_generated": false,
+        "image": "https://api.party-scout.app/img/san-francisco/2026-11-30/sesame-beatz-sativanotse-fac7.jpg",
+        "image_generated": true,
         "popularity": 0,
         "enriched": 1,
         "active": true
@@ -1274,7 +1283,7 @@
         "why": "For high-energy DJ sets and non-stop dancefloor action.",
         "summary": "Manchester duo Solardo play Halcyon in San Francisco on December 4, 2026, with K Sweet and Ramsey supporting. Listings describe the night as delivering a heavy dose of dancefloor mayhem.",
         "promoter": "",
-        "price": "$17 before 11 / $23-66",
+        "price": "20",
         "tags": [
           "electronic",
           "dj",
@@ -1382,7 +1391,8 @@
           "https://1015.com/calendar/",
           "https://dothebay.com/events/2026/12/4/tara-yummy-tickets",
           "https://ra.co/events/2552111",
-          "https://edmtrain.com/san-francisco-ca/tara-yummy-zetra-538973"
+          "https://edmtrain.com/san-francisco-ca/tara-yummy-zetra-538973",
+          "https://wl.seetickets.us/event/tara-yummy/706188?afflky=1015Folsom"
         ],
         "tickets": [
           "https://ra.co/events/2552111"
@@ -1417,14 +1427,18 @@
         "why": "For a late-night dance party in a well-known club space.",
         "summary": "Afterlife is scheduled at DNA Lounge in San Francisco on December 5, 2026, starting at 9:30 PM.",
         "promoter": "",
-        "price": "$10 pre / $15",
+        "price": "$10-15",
         "tags": [
           "nightclub",
           "dance",
           "dj"
         ],
         "sources": [
-          "https://www.dnalounge.com/calendar/2026/12-05d.html"
+          "https://www.dnalounge.com/calendar/2026/12-05d.html",
+          {
+            "url": "https://19hz.info/eventlisting_BayArea.php",
+            "hidden": true
+          }
         ],
         "tickets": [],
         "maps": {
@@ -1457,7 +1471,7 @@
         "why": "For a late-night live set in a club setting.",
         "summary": "Awen performs live at Audio SF on December 5, 2026; the show begins at 21:30.",
         "promoter": "",
-        "price": "$18.92-50.55",
+        "price": "17",
         "tags": [
           "live",
           "nightclub",
@@ -1500,7 +1514,7 @@
         "why": "For deep, emotive house and techno in a club setting.",
         "summary": "Cameron Jack makes his U.S. debut at Halcyon, delivering his signature deep and emotive house and techno, with NILE and B LUKE supporting. The night promises seamless mixing aimed at a dancefloor-ready crowd.",
         "promoter": "",
-        "price": "$12 before 11 / $19-30",
+        "price": "20",
         "tags": [
           "house",
           "techno",
@@ -1809,7 +1823,11 @@
           "nightlife"
         ],
         "sources": [
-          "https://www.instagram.com/bdtz.mru/p/DdY09RthEp7/"
+          "https://www.instagram.com/bdtz.mru/p/DdY09RthEp7/",
+          {
+            "url": "https://19hz.info/eventlisting_BayArea.php",
+            "hidden": true
+          }
         ],
         "tickets": [],
         "maps": {
@@ -1878,7 +1896,7 @@
         "time": "20:00",
         "start": "19:00",
         "end": null,
-        "area": "Civic Center",
+        "area": "San Francisco",
         "venue": "Bill Graham Civic Auditorium",
         "address": "99 Grove Street, San Francisco, CA 94102",
         "why": "A big-room tech house night at one of SF's landmark venues, open to 18+.",
@@ -1894,7 +1912,11 @@
         ],
         "sources": [
           "https://www.ticketmaster.com/event/1C0065043113836F",
-          "https://dothebay.com/events/2026/12/5/it-s-murph-bill-graham-civic-auditorium-tickets"
+          "https://dothebay.com/events/2026/12/5/it-s-murph-bill-graham-civic-auditorium-tickets",
+          {
+            "url": "https://19hz.info/eventlisting_BayArea.php",
+            "hidden": true
+          }
         ],
         "tickets": [],
         "maps": {
@@ -1905,7 +1927,7 @@
         "coords_precise": false,
         "ra": {},
         "image": "https://api.party-scout.app/img/san-francisco/2026-11-30/it-s-murph-fb1c.jpg",
-        "image_generated": false,
+        "image_generated": true,
         "popularity": 0,
         "enriched": 1,
         "active": true
@@ -1971,7 +1993,7 @@
         "why": "For extended back-to-back DJ sets and a high-energy dance floor.",
         "summary": "Club night at Madarae on 2026-12-05 at 21:00 featuring back-to-back DJ sets: Lee Foss; Aaron Parker b3b Thalia b3b Corbin Mason; Jake Vance b2b Asceph; and Drose b2b Bellevue.",
         "promoter": "",
-        "price": "$17 before 10:30 w/ RSVP / $23-45",
+        "price": "$23-45",
         "tags": [
           "dj",
           "house",
@@ -1979,7 +2001,11 @@
           "club"
         ],
         "sources": [
-          "https://posh.vip/f/f183d?t=19hz"
+          "https://posh.vip/f/f183d?t=19hz",
+          {
+            "url": "https://19hz.info/eventlisting_BayArea.php",
+            "hidden": true
+          }
         ],
         "tickets": [],
         "maps": {
@@ -2106,7 +2132,11 @@
         ],
         "sources": [
           "https://www.tixr.com/groups/midwaysf/events/midnight-tyrannosaurus-204534",
-          "https://dothebay.com/events/2026/12/5/zingara-the-girls-are-making-riddim-tour-tickets"
+          "https://dothebay.com/events/2026/12/5/zingara-the-girls-are-making-riddim-tour-tickets",
+          {
+            "url": "https://19hz.info/eventlisting_BayArea.php",
+            "hidden": true
+          }
         ],
         "tickets": [
           "https://www.tixr.com/groups/midwaysf/events/midnight-tyrannosaurus-204534"
@@ -2119,7 +2149,7 @@
         "coords_precise": false,
         "ra": {},
         "image": "https://api.party-scout.app/img/san-francisco/2026-11-30/midnight-tyrannosaurus-8708.jpg",
-        "image_generated": false,
+        "image_generated": true,
         "popularity": 0,
         "enriched": 1,
         "active": true
@@ -2153,7 +2183,11 @@
             "url": "https://edmtrain.com/san-francisco-ca",
             "hidden": true
           },
-          "https://posh.vip/e/nyx-late-night-clubbing-098-friday-w-surprise-guest"
+          "https://posh.vip/e/nyx-late-night-clubbing-098-friday-w-surprise-guest",
+          {
+            "url": "https://19hz.info/eventlisting_BayArea.php",
+            "hidden": true
+          }
         ],
         "tickets": [],
         "maps": {
@@ -2383,7 +2417,7 @@
         "why": "For a late-night dance outing at a noted San Francisco club.",
         "summary": "An event at Public Works in San Francisco on December 5, 2026 featuring Regularfantasy and Max Sprauer that begins at 21:00.",
         "promoter": "",
-        "price": "$23",
+        "price": "20",
         "tags": [
           "dj",
           "electronic",
@@ -2569,7 +2603,11 @@
         ],
         "sources": [
           "https://www.tixr.com/groups/midwaysf/events/zingara-the-girls-are-making-riddim-tour-198168",
-          "https://dothebay.com/events/2026/12/5/zingara-the-girls-are-making-riddim-tour-tickets"
+          "https://dothebay.com/events/2026/12/5/zingara-the-girls-are-making-riddim-tour-tickets",
+          {
+            "url": "https://19hz.info/eventlisting_BayArea.php",
+            "hidden": true
+          }
         ],
         "tickets": [
           "https://www.tixr.com/groups/midwaysf/events/zingara-the-girls-are-making-riddim-tour-198168"
@@ -2582,7 +2620,7 @@
         "coords_precise": false,
         "ra": {},
         "image": "https://api.party-scout.app/img/san-francisco/2026-11-30/zingara-the-girls-are-ma-2425.jpg",
-        "image_generated": false,
+        "image_generated": true,
         "popularity": 0,
         "enriched": 1,
         "active": true
@@ -2604,7 +2642,7 @@
         "why": "Soak up rooftop views and daytime dancing in a lively party setting.",
         "summary": "A rooftop day party at Hotel Via on December 6, 2026 at 1:00 PM featuring Alex Wann.",
         "promoter": "",
-        "price": "22.00",
+        "price": "22",
         "tags": [
           "outdoor",
           "daytime",
@@ -2748,7 +2786,12 @@
           {
             "url": "https://edmtrain.com/san-francisco-ca",
             "hidden": true
-          }
+          },
+          {
+            "url": "https://19hz.info/eventlisting_BayArea.php",
+            "hidden": true
+          },
+          "https://posh.vip/e/nyx-late-night-clubbing-099-saturday-w-surprise-guest"
         ],
         "tickets": [],
         "maps": {
@@ -2758,7 +2801,7 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/san-francisco/2026-11-30/late-night-clubbing-099-73f8.jpg",
         "image_generated": false,
         "popularity": 0,
         "enriched": 1,
@@ -2787,7 +2830,8 @@
           "concert"
         ],
         "sources": [
-          "https://dothebay.com/events/2026/12/6/ripe-tickets"
+          "https://dothebay.com/events/2026/12/6/ripe-tickets",
+          "https://www.axs.com/events/1587666/ripe-tickets"
         ],
         "tickets": [],
         "maps": {
@@ -2843,6 +2887,42 @@
         "image_generated": false,
         "popularity": 0,
         "enriched": 1,
+        "active": true
+      },
+      {
+        "id": "2026-11-30-music-dft-downtown-first-thursdays-b-d0d94b",
+        "eid": "dft-downtown-first-thurs-8a7d",
+        "track": "music",
+        "category": "",
+        "name": "DFT Downtown First Thursdays Block Party",
+        "day": "Thu",
+        "date": "2026-12-03",
+        "time": "17:00",
+        "start": null,
+        "end": null,
+        "area": "San Francisco",
+        "venue": "2nd Street between Market and Howard",
+        "address": "San Francisco",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "Free",
+        "tags": [],
+        "sources": [
+          "https://sf.funcheap.com/sfs-free-dft-monthly-block-party-downtown-first-thursdays-2026-11/"
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=San%20Francisco",
+          "apple": "https://maps.apple.com/?q=San%20Francisco"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "https://cdn.funcheap.com/wp-content/uploads/2025/12/DSCF5605.jpg",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
         "active": true
       }
     ],
@@ -2923,7 +3003,7 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "https://api.party-scout.app/img/san-francisco/2026-11-30/squash-in-the-mission-tu-48c3.jpg",
+        "image": "https://secure.meetupstatic.com/photos/event/9/d/c/7/highres_464680391.jpeg",
         "image_generated": false,
         "popularity": 0,
         "enriched": 1,
@@ -2964,7 +3044,7 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "https://api.party-scout.app/img/san-francisco/2026-11-30/sf-underwater-hockey-beg-a0ad.jpg",
+        "image": "https://secure.meetupstatic.com/photos/event/8/8/b/e/highres_527135006.jpeg",
         "image_generated": false,
         "popularity": 0,
         "enriched": 1,
@@ -3258,10 +3338,46 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "https://api.party-scout.app/img/san-francisco/2026-11-30/sunday-morning-run-dd8e.jpg",
+        "image": "https://secure.meetupstatic.com/photos/event/2/f/b/8/highres_527652216.jpeg",
         "image_generated": false,
         "popularity": 0,
         "enriched": 1,
+        "active": true
+      },
+      {
+        "id": "2026-11-30-sports-flight-club-adult-flight-night-7cc77b",
+        "eid": "flight-club-adult-flight-e3f1",
+        "track": "sports",
+        "category": "",
+        "name": "Flight Club: Adult Flight Night at House of Air",
+        "day": "Thu",
+        "date": "2026-12-03",
+        "time": "19:00",
+        "start": null,
+        "end": null,
+        "area": "San Francisco",
+        "venue": "House of Air",
+        "address": "926 Old Mason Street, San Francisco, CA",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "$20",
+        "tags": [],
+        "sources": [
+          "https://sf.funcheap.com/flight-club-adult-flight-night-for-ages-18-at-house-of-air-trampoline-park-sf-67/"
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=926%20Old%20Mason%20Street%2C%20San%20Francisco%2C%20CA",
+          "apple": "https://maps.apple.com/?q=926%20Old%20Mason%20Street%2C%20San%20Francisco%2C%20CA"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "https://cdn.funcheap.com/wp-content/uploads/2025/05/AdultNight_Funcheap.png",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
         "active": true
       }
     ]
