@@ -2893,21 +2893,27 @@
         "id": "2026-11-30-music-dft-downtown-first-thursdays-b-d0d94b",
         "eid": "dft-downtown-first-thurs-8a7d",
         "track": "music",
-        "category": "",
+        "category": "Festival",
         "name": "DFT Downtown First Thursdays Block Party",
         "day": "Thu",
         "date": "2026-12-03",
         "time": "17:00",
-        "start": null,
-        "end": null,
+        "start": "17:00",
+        "end": "22:00",
         "area": "San Francisco",
         "venue": "2nd Street between Market and Howard",
         "address": "San Francisco",
-        "why": "",
-        "summary": "",
+        "why": "To dance, grab food from trucks, and enjoy live DJs and street performances in a lively outdoor downtown setting.",
+        "summary": "A free monthly block party held every First Thursday (5–10 PM) on 2nd Street between Market and Howard, featuring DJs, live performances, dancing, drag, food trucks, shopping and fashion.",
         "promoter": "",
         "price": "Free",
-        "tags": [],
+        "tags": [
+          "free",
+          "outdoor",
+          "dj",
+          "live",
+          "all-ages"
+        ],
         "sources": [
           "https://sf.funcheap.com/sfs-free-dft-monthly-block-party-downtown-first-thursdays-2026-11/"
         ],
@@ -2922,7 +2928,7 @@
         "image": "https://cdn.funcheap.com/wp-content/uploads/2025/12/DSCF5605.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       }
     ],
@@ -3348,21 +3354,27 @@
         "id": "2026-11-30-sports-flight-club-adult-flight-night-7cc77b",
         "eid": "flight-club-adult-flight-e3f1",
         "track": "sports",
-        "category": "",
+        "category": "Sports",
         "name": "Flight Club: Adult Flight Night at House of Air",
         "day": "Thu",
         "date": "2026-12-03",
         "time": "19:00",
-        "start": null,
-        "end": null,
+        "start": "19:00",
+        "end": "21:00",
         "area": "San Francisco",
         "venue": "House of Air",
         "address": "926 Old Mason Street, San Francisco, CA",
-        "why": "",
-        "summary": "",
+        "why": "Bounce in an adults-only session with music, drinks, and a chill lounge between jumps.",
+        "summary": "An 18+ trampoline takeover at House of Air with 7–9pm sessions offering full access to all jump zones; tickets are $20 per hour and beer, wine, snacks, and lounge space are available. Sessions run Wednesdays and Thursdays and require a waiver and grip socks.",
         "promoter": "",
         "price": "$20",
-        "tags": [],
+        "tags": [
+          "trampoline",
+          "18+",
+          "drinks",
+          "indoor",
+          "music"
+        ],
         "sources": [
           "https://sf.funcheap.com/flight-club-adult-flight-night-for-ages-18-at-house-of-air-trampoline-park-sf-67/"
         ],
@@ -3377,7 +3389,7 @@
         "image": "https://cdn.funcheap.com/wp-content/uploads/2025/05/AdultNight_Funcheap.png",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       }
     ]
