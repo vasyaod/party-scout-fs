@@ -339,6 +339,32 @@
       "notes": "SoMa club (1190 Folsom St), two floors — the SF goth/darkwave/synth/industrial/80s hub, with recurring nights (NIGHTSHIFT, 1984, …). Calendar on the site; mostly door cover, some ticketed."
     },
     {
+      "id": "great-american-music-hall",
+      "name": "Great American Music Hall",
+      "url": "https://gamh.com/calendar/",
+      "city": "san-francisco",
+      "kind": "venue",
+      "use": ["listing", "price"],
+      "track": ["music"],
+      "fetch": ["HTTP"],
+      "status": "active",
+      "aliases": ["gamh.com"],
+      "notes": "Tenderloin music hall (859 O'Farrell St). /calendar/ is the upcoming calendar, server-rendered: each show is a 'Fri Nov 13 … Event Showtime: 7:00PM at Great American Music Hall $40.00-$160.00' block. Plain HTTP reads it."
+    },
+    {
+      "id": "bottom-of-the-hill",
+      "name": "Bottom of the Hill",
+      "url": "https://www.bottomofthehill.com/calendar.html",
+      "city": "san-francisco",
+      "kind": "venue",
+      "use": ["listing", "price"],
+      "track": ["music"],
+      "fetch": ["HTTP"],
+      "status": "active",
+      "aliases": ["bottomofthehill.com"],
+      "notes": "Potrero Hill rock club (1233 17th St). calendar.html is one static page of upcoming shows: 'Friday November 13 2026 8:00PM doors … $30 in advance / $35 at the door'. Plain HTTP reads it."
+    },
+    {
       "id": "stern-grove-festival",
       "name": "Stern Grove Festival",
       "url": "https://www.sterngrove.org",
