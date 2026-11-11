@@ -5,7 +5,7 @@
   "location": "San Francisco & Bay Area",
   "city": "san-francisco",
   "city_label": "San Francisco",
-  "generated_at": "2026-11-09",
+  "generated_at": "2026-11-11",
   "tracks": {
     "music": [
       {
@@ -1028,7 +1028,7 @@
         "name": "Soft Cell",
         "day": "Wed",
         "date": "2026-11-11",
-        "time": "07:00",
+        "time": "20:00",
         "start": "20:00",
         "end": null,
         "area": "San Francisco",
@@ -3267,7 +3267,10 @@
             "url": "https://19hz.info/eventlisting_BayArea.php",
             "hidden": true
           },
-          "https://www.axs.com/events/1613709",
+          {
+            "url": "https://www.axs.com/events/1613709",
+            "hidden": true
+          },
           {
             "url": "https://ra.co/events/2571277",
             "hidden": true
@@ -3741,7 +3744,7 @@
         "name": "Inna",
         "day": "Sat",
         "date": "2026-11-14",
-        "time": "08:00",
+        "time": "20:00",
         "start": "20:00",
         "end": null,
         "area": "San Francisco",
@@ -3953,7 +3956,7 @@
         "name": "Monuments feat. WhoMadeWho, Bedouin, Aluna",
         "day": "Sat",
         "date": "2026-11-14",
-        "time": "19:00",
+        "time": "21:00",
         "start": "21:00",
         "end": "02:00",
         "area": "San Francisco",
@@ -9335,7 +9338,8 @@
             "hidden": true
           },
           "https://edmtrain.com/san-francisco-ca/queen-out-549919",
-          "https://edmtrain.com/san-francisco-ca/queen-out-bianca-oblivion-549919"
+          "https://edmtrain.com/san-francisco-ca/queen-out-bianca-oblivion-549919",
+          "https://shotgun.live/events/queen-out-w-babidoll?utm_source=19hz&utm_medium=listing&utm_campaign=2026-11-13-queen-out-finale-pt-1-bianca-oblivion-babidoll"
         ],
         "tickets": [
           "https://ra.co/events/2576653"
@@ -9628,7 +9632,7 @@
         "name": "Italo Frisco",
         "day": "Wed",
         "date": "2026-11-11",
-        "time": "9pm–1:30am",
+        "time": "21:00",
         "start": "21:00",
         "end": "01:30",
         "area": "San Francisco",
@@ -9847,7 +9851,7 @@
         "name": "Juan Atkins Forever: Free Tribute Party to the Godfather of Detroit Techno",
         "day": "Thu",
         "date": "2026-11-12",
-        "time": "8pm–2am",
+        "time": "20:00",
         "start": "20:00",
         "end": "02:00",
         "area": "San Francisco",
@@ -9856,7 +9860,7 @@
         "why": "Celebrate Detroit techno’s legacy and dance late into the night with no cover.",
         "summary": "Free tribute party to Juan Atkins, billed as the Godfather of Detroit Techno, happening Nov. 12 from 8pm–2am at 1425 Folsom St in SoMa.",
         "promoter": "",
-        "price": "Free",
+        "price": "0",
         "tags": [
           "techno",
           "free",
@@ -9865,7 +9869,8 @@
         ],
         "sources": [
           "https://edmtrain.com/san-francisco-ca/juan-atkins-forever-free-tribute-party-to-the-godfather-of-detroit-techno-juan-atkins-550641",
-          "https://ra.co/events/2578953"
+          "https://ra.co/events/2578953",
+          "https://www.eventbrite.com/e/juan-atkins-forever-free-tribute-party-to-the-godfather-of-detroit-techno-tickets-2004402891004"
         ],
         "tickets": [
           "https://ra.co/events/2578953"
@@ -9877,7 +9882,7 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "https://api.party-scout.app/img/san-francisco/2026-11-09/juan-atkins-forever-free-3184.jpg",
+        "image": "https://images.ra.co/c41aac8ca46d3796ac78a3e95ca89f50d48520e8.jpg",
         "image_generated": false,
         "popularity": 0,
         "enriched": 1,
@@ -9891,7 +9896,7 @@
         "name": "Neel - Seminars on Sonic Design: Sound as Origin",
         "day": "Thu",
         "date": "2026-11-12",
-        "time": "7–10pm",
+        "time": "19:00",
         "start": "19:00",
         "end": "22:00",
         "area": "San Francisco",
@@ -9900,7 +9905,7 @@
         "why": "To learn practical and conceptual approaches to sonic design in an intimate seminar setting.",
         "summary": "A seminar in the Seminars on Sonic Design series titled \"Sound as Origin\" at 2665 Mission St in San Francisco on 2026-11-12, 7–10pm; admission Free–$15.",
         "promoter": "",
-        "price": "Free–$15",
+        "price": "$0-15",
         "tags": [
           "workshop",
           "lecture",
@@ -9925,11 +9930,21 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "https://api.party-scout.app/img/san-francisco/2026-11-09/neel-seminars-on-sonic-d-af1f.jpg",
+        "image": "https://images.ra.co/6bfaeb8ce43bb563e3494a70791c9ce093776d37.png",
         "image_generated": false,
         "popularity": 0,
         "enriched": 1,
-        "active": true
+        "active": true,
+        "lineup": [
+          {
+            "name": "Neel",
+            "instagram": null
+          },
+          {
+            "name": "NBOR",
+            "instagram": null
+          }
+        ]
       },
       {
         "id": "2026-11-09-music-all-i-need-events-with-sharam-6f521f",
@@ -10121,10 +10136,10 @@
         "name": "Jus Dance",
         "day": "Fri",
         "date": "2026-11-13",
-        "time": "9pm–1:30am",
+        "time": "21:00",
         "start": "21:00",
         "end": "01:30",
-        "area": "Campbell",
+        "area": "San Francisco",
         "venue": "Cardiff Lounge",
         "address": "260 E Campbell Ave, Campbell, CA 95008, United States",
         "why": "A late-night dance floor in the South Bay, a short trip from San Jose, with a long 9pm–1:30am window.",
@@ -10153,11 +10168,17 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "https://api.party-scout.app/img/san-francisco/2026-11-09/jus-dance-17b6.jpg",
+        "image": "https://images.ra.co/fa81566ab2c0e9572aa079be8629da24b0ad40dc.jpg",
         "image_generated": false,
         "popularity": 0,
         "enriched": 1,
-        "active": true
+        "active": true,
+        "lineup": [
+          {
+            "name": "Mr. V",
+            "instagram": null
+          }
+        ]
       },
       {
         "id": "2026-11-09-music-magic-ravebus-ultraviolet-alle-c10297",
@@ -10212,7 +10233,7 @@
         "name": "MAJORCRRUSH",
         "day": "Fri",
         "date": "2026-11-13",
-        "time": "9pm–3am",
+        "time": "21:00",
         "start": "21:00",
         "end": "03:00",
         "area": "San Francisco",
@@ -10221,7 +10242,7 @@
         "why": "Free cover and late-night hours for dancing.",
         "summary": "MAJORCRRUSH is a free night at Continental Club in Oakland on November 13, 2026, running 9pm–3am.",
         "promoter": "",
-        "price": "Free",
+        "price": "$0",
         "tags": [
           "free",
           "dj",
@@ -10241,11 +10262,25 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "https://api.party-scout.app/img/san-francisco/2026-11-09/majorcrrush-2eca.jpg",
+        "image": "https://images.ra.co/a8af45c6d833905d7b31900665db6f4b0c840438.jpg",
         "image_generated": false,
         "popularity": 0,
         "enriched": 1,
-        "active": true
+        "active": true,
+        "lineup": [
+          {
+            "name": "Wire One",
+            "instagram": null
+          },
+          {
+            "name": "Denimontaro",
+            "instagram": null
+          },
+          {
+            "name": "1ycia",
+            "instagram": null
+          }
+        ]
       },
       {
         "id": "2026-11-09-music-mercury-soul-abe388",
@@ -10255,7 +10290,7 @@
         "name": "Mercury Soul",
         "day": "Fri",
         "date": "2026-11-13",
-        "time": "7:30–10:30pm",
+        "time": "19:30",
         "start": "19:30",
         "end": "22:30",
         "area": "San Francisco",
@@ -10264,7 +10299,7 @@
         "why": "For an atmospheric evening of live performance in the cathedral's resonant, landmark setting.",
         "summary": "Mercury Soul at Grace Cathedral on November 13, 2026, 7:30–10:30pm; tickets $20–$160.",
         "promoter": "",
-        "price": "$20–$160",
+        "price": "$20-$160",
         "tags": [
           "live",
           "indoor",
@@ -10285,10 +10320,16 @@
         "coords_precise": false,
         "ra": {},
         "image": "https://api.party-scout.app/img/san-francisco/2026-11-09/mercury-soul-447b.jpg",
-        "image_generated": false,
+        "image_generated": true,
         "popularity": 0,
         "enriched": 1,
-        "active": true
+        "active": true,
+        "lineup": [
+          {
+            "name": "DJ Masonic",
+            "instagram": null
+          }
+        ]
       },
       {
         "id": "2026-11-09-music-vinylissimo-123d40",
@@ -10298,7 +10339,7 @@
         "name": "VINYLISSIMO",
         "day": "Fri",
         "date": "2026-11-13",
-        "time": "10pm–2am",
+        "time": "22:00",
         "start": "22:00",
         "end": "02:00",
         "area": "San Francisco",
@@ -10307,7 +10348,7 @@
         "why": "Affordable late-night outing in a small Mission music venue.",
         "summary": "VINYLISSIMO at Make-Out Room in San Francisco takes place November 13, 2026, 10pm–2am with $10 admission.",
         "promoter": "",
-        "price": "$10",
+        "price": "10",
         "tags": [
           "vinyl",
           "nightlife",
@@ -10327,11 +10368,17 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "https://api.party-scout.app/img/san-francisco/2026-11-09/vinylissimo-ad3e.jpg",
+        "image": "https://images.ra.co/079ec408f6ec45183dabb88526c2d555c0e556b2.jpg",
         "image_generated": false,
         "popularity": 0,
         "enriched": 1,
-        "active": true
+        "active": true,
+        "lineup": [
+          {
+            "name": "Nino Msk",
+            "instagram": null
+          }
+        ]
       },
       {
         "id": "2026-11-09-music-arthur-2d732e",
@@ -10388,7 +10435,7 @@
         "name": "BAU 1 Year Anniversay",
         "day": "Sat",
         "date": "2026-11-14",
-        "time": "10pm–3am",
+        "time": "22:00",
         "start": "22:00",
         "end": "03:00",
         "area": "San Francisco",
@@ -10416,7 +10463,7 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "https://api.party-scout.app/img/san-francisco/2026-11-09/bau-1-year-anniversay-052b.jpg",
+        "image": "https://images.ra.co/e4ee660336b7ad45aaca08930791d674e87d2678.jpg",
         "image_generated": false,
         "popularity": 0,
         "enriched": 1,
@@ -10686,6 +10733,600 @@
         "image_generated": false,
         "popularity": 0,
         "enriched": 1,
+        "active": true
+      },
+      {
+        "id": "2026-11-09-music-29th-anniversary-san-francisco-5de810",
+        "eid": "29th-anniversary-san-fra-d78f",
+        "track": "music",
+        "category": "",
+        "name": "29th Anniversary San Francisco Transgender Film Festival (Nov. 12-14)",
+        "day": "Thu",
+        "date": "2026-11-12",
+        "time": "19:00",
+        "start": null,
+        "end": null,
+        "area": "",
+        "venue": "San Francisco",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "",
+        "tags": [],
+        "sources": [
+          "https://sf.funcheap.com/29th-anniversary-san-francisco-transgender-film-festival-nov-1214/"
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=San%20Francisco",
+          "apple": "https://maps.apple.com/?q=San%20Francisco"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-11-09-music-free-arab-film-festival-outdoo-037f41",
+        "eid": "free-arab-film-festival-2084",
+        "track": "music",
+        "category": "",
+        "name": "Free \"Arab Film Festival\" Outdoor Movie Night at The Proxy (Hayes Valley)",
+        "day": "Thu",
+        "date": "2026-11-12",
+        "time": "19:30",
+        "start": null,
+        "end": null,
+        "area": "",
+        "venue": "The Proxy",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "",
+        "tags": [],
+        "sources": [
+          "https://sf.funcheap.com/free-arab-film-festival-outdoor-movie-night-proxy-hayes-valley/"
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=The%20Proxy",
+          "apple": "https://maps.apple.com/?q=The%20Proxy"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-11-09-music-sweet-lew-c1878f",
+        "eid": "sweet-lew-2707",
+        "track": "music",
+        "category": "",
+        "name": "Sweet Lew",
+        "day": "Thu",
+        "date": "2026-11-12",
+        "time": "21:00",
+        "start": null,
+        "end": null,
+        "area": "",
+        "venue": "Arcana",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "",
+        "tags": [],
+        "sources": [
+          "https://ra.co/events/2582081"
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=Arcana",
+          "apple": "https://maps.apple.com/?q=Arcana"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-11-09-music-excelsior-open-mic-and-variety-a41be8",
+        "eid": "excelsior-open-mic-and-v-bcdc",
+        "track": "music",
+        "category": "",
+        "name": "Excelsior Open Mic and Variety Show",
+        "day": "Fri",
+        "date": "2026-11-13",
+        "time": "18:30",
+        "start": null,
+        "end": null,
+        "area": "",
+        "venue": "San Francisco",
+        "address": "201 Ocean Ave San Francisco, CA",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "",
+        "tags": [],
+        "sources": [
+          "https://sf.funcheap.com/excelsior-open-mic-variety-show/"
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=201%20Ocean%20Ave%20San%20Francisco%2C%20CA",
+          "apple": "https://maps.apple.com/?q=201%20Ocean%20Ave%20San%20Francisco%2C%20CA"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "https://cdn.funcheap.com/wp-content/uploads/2026/11/11.13-variety-show-poster.png",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-11-09-music-harvest-festival-original-art-cc6c25",
+        "eid": "harvest-festival-origina-b08f",
+        "track": "music",
+        "category": "",
+        "name": "Harvest Festival: Original Art + Craft Show (San Jose)",
+        "day": "Fri",
+        "date": "2026-11-13",
+        "time": "10:00",
+        "start": null,
+        "end": null,
+        "area": "",
+        "venue": "San Francisco",
+        "address": "344 Tully Rd., San Jose, CA 95111",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "$9",
+        "tags": [],
+        "sources": [
+          "https://sf.funcheap.com/harvest-festival-original-art-craft-show-san-jose/"
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=344%20Tully%20Rd.%2C%20San%20Jose%2C%20CA%2095111",
+          "apple": "https://maps.apple.com/?q=344%20Tully%20Rd.%2C%20San%20Jose%2C%20CA%2095111"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "https://cdn.funcheap.com/wp-content/uploads/2026/09/SJ2026_Art.jpg",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-11-09-music-official-afters-friday-the-13t-b38299",
+        "eid": "official-afters-friday-t-81f2",
+        "track": "music",
+        "category": "",
+        "name": "Official Afters: Friday The 13th Dance Party w/ DJ Cyberboy",
+        "day": "Fri",
+        "date": "2026-11-13",
+        "time": "21:00",
+        "start": null,
+        "end": null,
+        "area": "",
+        "venue": "BuzzWorks",
+        "address": "BuzzWorks, San Francisco, California",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "$100",
+        "tags": [],
+        "sources": [
+          "https://luma.com/j2jvfgro?utm_source=listing19hz"
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=BuzzWorks%2C%20San%20Francisco%2C%20California",
+          "apple": "https://maps.apple.com/?q=BuzzWorks%2C%20San%20Francisco%2C%20California"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "https://images.lumacdn.com/cdn-cgi/image/format=auto,fit=cover,dpr=1,anim=false,background=white,quality=75,width=1920,height=1920/uploads/z1/01621d15-b781-4b4e-90b3-c2c782c0f8fd.png",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-11-09-music-pyramid-dance-w-ean-golden-e2a3ad",
+        "eid": "pyramid-dance-w-ean-gold-1c51",
+        "track": "music",
+        "category": "",
+        "name": "Pyramid Dance w/ Ean Golden",
+        "day": "Fri",
+        "date": "2026-11-13",
+        "time": "19:00",
+        "start": null,
+        "end": null,
+        "area": "",
+        "venue": "Unitarian Universalist Society",
+        "address": "1187 FRANKLIN ST, San Francisco, CA 94109",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "$30-50",
+        "tags": [],
+        "sources": [
+          "https://www.eventbrite.com/e/pyramid-dance-ean-golden-tickets-2003509645282"
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=1187%20FRANKLIN%20ST%2C%20San%20Francisco%2C%20CA%2094109",
+          "apple": "https://maps.apple.com/?q=1187%20FRANKLIN%20ST%2C%20San%20Francisco%2C%20CA%2094109"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1195982844%2F57558423205%2F1%2Foriginal.20261016-235502?crop=focalpoint&fit=crop&w=940&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=44e873b206a1ae0589ad2582d54869d0",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-11-09-music-sf-s-free-filipino-cultural-di-c4917c",
+        "eid": "sf-s-free-filipino-cultu-26c2",
+        "track": "music",
+        "category": "",
+        "name": "SF's Free Filipino Cultural District Mural Reveal + Mini Block Party (SoMa)",
+        "day": "Fri",
+        "date": "2026-11-13",
+        "time": "18:00",
+        "start": null,
+        "end": null,
+        "area": "",
+        "venue": "San Francisco",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "",
+        "tags": [],
+        "sources": [
+          "https://sf.funcheap.com/free-mahallove-mural-unveiling-fashion-show-mini-block-party-sf/"
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=San%20Francisco",
+          "apple": "https://maps.apple.com/?q=San%20Francisco"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "https://api.party-scout.app/img/san-francisco/2026-11-09/sf-s-free-filipino-cultu-26c2.jpg",
+        "image_generated": true,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-11-09-music-2026-sf-tea-festival-at-ferry-293318",
+        "eid": "2026-sf-tea-festival-at-9a7c",
+        "track": "music",
+        "category": "",
+        "name": "2026 \"SF Tea Festival\" at Ferry Building (Nov. 14-15)",
+        "day": "Sat",
+        "date": "2026-11-14",
+        "time": "10:00",
+        "start": null,
+        "end": null,
+        "area": "",
+        "venue": "Ferry Building",
+        "address": "1 Ferry Bldg., San Francisco, CA",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "$24",
+        "tags": [],
+        "sources": [
+          "https://sf.funcheap.com/2026-sf-tea-festival-at-ferry-building-nov-14-15/"
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=1%20Ferry%20Bldg.%2C%20San%20Francisco%2C%20CA",
+          "apple": "https://maps.apple.com/?q=1%20Ferry%20Bldg.%2C%20San%20Francisco%2C%20CA"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "https://cdn.funcheap.com/wp-content/uploads/2019/10/bigteafestival.jpg",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-11-09-music-ameren-pay-my-bill-online-acco-4eefb1",
+        "eid": "ameren-pay-my-bill-onlin-bd4a",
+        "track": "music",
+        "category": "",
+        "name": "Ameren Pay My Bill Online: Account Sign In & Payment Options",
+        "day": "Sat",
+        "date": "2026-11-14",
+        "time": "23:00",
+        "start": null,
+        "end": null,
+        "area": "",
+        "venue": "Verso SF",
+        "address": "1525 Mission St., San Francisco, CA 94103, United States",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "",
+        "tags": [],
+        "sources": [
+          "https://ra.co/events/2583161"
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=1525%20Mission%20St.%2C%20San%20Francisco%2C%20CA%2094103%2C%20United%20States",
+          "apple": "https://maps.apple.com/?q=1525%20Mission%20St.%2C%20San%20Francisco%2C%20CA%2094103%2C%20United%20States"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "https://api.party-scout.app/img/san-francisco/2026-11-09/ameren-pay-my-bill-onlin-bd4a.jpg",
+        "image_generated": true,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true,
+        "lineup": [
+          {
+            "name": "AnD",
+            "instagram": null
+          }
+        ]
+      },
+      {
+        "id": "2026-11-09-music-official-afters-late-night-dan-386511",
+        "eid": "official-afters-late-nig-a6be",
+        "track": "music",
+        "category": "",
+        "name": "Official Afters: Late Night Dance Party w/ DJ Cyberboy",
+        "day": "Sat",
+        "date": "2026-11-14",
+        "time": "21:00",
+        "start": null,
+        "end": null,
+        "area": "",
+        "venue": "BuzzWorks",
+        "address": "BuzzWorks, San Francisco, California",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "$100",
+        "tags": [],
+        "sources": [
+          "https://luma.com/048fl0xp?utm_source=listing19hz"
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=BuzzWorks%2C%20San%20Francisco%2C%20California",
+          "apple": "https://maps.apple.com/?q=BuzzWorks%2C%20San%20Francisco%2C%20California"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "https://images.lumacdn.com/cdn-cgi/image/format=auto,fit=cover,dpr=1,anim=false,background=white,quality=75,width=1920,height=1920/uploads/vk/f003672f-b21b-443b-86ca-96afb1edc142.png",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-11-09-music-official-comed-energy-bill-pay-ed3b21",
+        "eid": "official-comed-energy-bi-8f1b",
+        "track": "music",
+        "category": "",
+        "name": "Official ComEd Energy Bill Pay Online & Quick Payment Guide",
+        "day": "Sat",
+        "date": "2026-11-14",
+        "time": "23:00",
+        "start": null,
+        "end": null,
+        "area": "",
+        "venue": "Lounge 3411",
+        "address": "3411 MacArthur Blvd, Oakland, CA 94602, United States",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "",
+        "tags": [],
+        "sources": [
+          "https://ra.co/events/2583076"
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=3411%20MacArthur%20Blvd%2C%20Oakland%2C%20CA%2094602%2C%20United%20States",
+          "apple": "https://maps.apple.com/?q=3411%20MacArthur%20Blvd%2C%20Oakland%2C%20CA%2094602%2C%20United%20States"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "https://api.party-scout.app/img/san-francisco/2026-11-09/official-comed-energy-bi-8f1b.jpg",
+        "image_generated": true,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true,
+        "lineup": [
+          {
+            "name": "AnD",
+            "instagram": null
+          }
+        ]
+      },
+      {
+        "id": "2026-11-09-music-pay-con-edison-bill-fast-onlin-f6ecfb",
+        "eid": "pay-con-edison-bill-fast-78b7",
+        "track": "music",
+        "category": "",
+        "name": "Pay Con Edison Bill Fast: Online & Quick Pay Options",
+        "day": "Sat",
+        "date": "2026-11-14",
+        "time": "23:00",
+        "start": null,
+        "end": null,
+        "area": "",
+        "venue": "IO Music Academy SF",
+        "address": "430 Main Street, San Francisco, CA 91405, USA",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "",
+        "tags": [],
+        "sources": [
+          "https://ra.co/events/2582624"
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=430%20Main%20Street%2C%20San%20Francisco%2C%20CA%2091405%2C%20USA",
+          "apple": "https://maps.apple.com/?q=430%20Main%20Street%2C%20San%20Francisco%2C%20CA%2091405%2C%20USA"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "https://api.party-scout.app/img/san-francisco/2026-11-09/pay-con-edison-bill-fast-78b7.jpg",
+        "image_generated": true,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true,
+        "lineup": [
+          {
+            "name": "AnD",
+            "instagram": null
+          }
+        ]
+      },
+      {
+        "id": "2026-11-09-music-2026-sf-tea-festival-at-ferry-e4856b",
+        "eid": "2026-sf-tea-festival-at-d270",
+        "track": "music",
+        "category": "",
+        "name": "2026 \"SF Tea Festival\" at Ferry Building (Nov. 14-15)",
+        "day": "Sun",
+        "date": "2026-11-15",
+        "time": "10:00",
+        "start": null,
+        "end": null,
+        "area": "",
+        "venue": "Ferry Building",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "",
+        "tags": [],
+        "sources": [
+          "https://sf.funcheap.com/2026-sf-tea-festival-at-ferry-building-nov-14-15-2/"
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=Ferry%20Building",
+          "apple": "https://maps.apple.com/?q=Ferry%20Building"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-11-09-music-free-monthly-singer-songwriter-9c2249",
+        "eid": "free-monthly-singer-song-bd79",
+        "track": "music",
+        "category": "",
+        "name": "Free Monthly Singer-Songwriter Open Mic w/ Khalia (SF)",
+        "day": "Sun",
+        "date": "2026-11-15",
+        "time": "16:00",
+        "start": null,
+        "end": null,
+        "area": "",
+        "venue": "San Francisco",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "",
+        "tags": [],
+        "sources": [
+          "https://sf.funcheap.com/free-monthly-singersongwriter-open-mic-khalia-sf/"
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=San%20Francisco",
+          "apple": "https://maps.apple.com/?q=San%20Francisco"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-11-09-music-stamina-presents-lo-0f27e2",
+        "eid": "stamina-presents-lo-817a",
+        "track": "music",
+        "category": "",
+        "name": "Stamina presents Lo",
+        "day": "Sun",
+        "date": "2026-11-15",
+        "time": "22:00",
+        "start": null,
+        "end": null,
+        "area": "",
+        "venue": "F8 1192 Folsom",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "",
+        "tags": [],
+        "sources": [
+          "https://ra.co/events/2583037"
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=F8%201192%20Folsom",
+          "apple": "https://maps.apple.com/?q=F8%201192%20Folsom"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
         "active": true
       }
     ],
@@ -11502,7 +12143,7 @@
         "why": "Improve skills and get exercise in a social pickup setting.",
         "summary": "A volleyball training and playing session scheduled for 2026-11-14 in San Francisco.",
         "promoter": "",
-        "price": "Free (donations welcome)",
+        "price": "Free",
         "tags": [
           "sports",
           "volleyball",
@@ -12478,7 +13119,7 @@
         "name": "Rossi Racquet Club Veteran's Day Tennis Session #1",
         "day": "Wed",
         "date": "2026-11-11",
-        "time": "8:30–10:30am",
+        "time": "08:30",
         "start": "08:30",
         "end": "10:30",
         "area": "San Francisco",
@@ -12520,7 +13161,7 @@
         "name": "Rossi Racquet Club Veteran's Day Tennis Session #2",
         "day": "Wed",
         "date": "2026-11-11",
-        "time": "10:30am–12:30pm",
+        "time": "10:30",
         "start": "10:30",
         "end": "12:30",
         "area": "San Francisco",
@@ -12562,7 +13203,7 @@
         "name": "PickleFun in San Francisco 🥒🎾🎉🎉",
         "day": "Thu",
         "date": "2026-11-12",
-        "time": "10:30am–12pm",
+        "time": "10:30",
         "start": "10:30",
         "end": "12:00",
         "area": "San Francisco",
@@ -12648,10 +13289,10 @@
         "name": "Friendly cricket game 🏏",
         "day": "Sun",
         "date": "2026-11-15",
-        "time": "10am–12pm",
+        "time": "10:00",
         "start": "10:00",
         "end": "12:00",
-        "area": "SF",
+        "area": "San Francisco",
         "venue": "128 King St, 128 King St",
         "address": "128 King St, San Francisco, Ca",
         "why": "Free, welcoming pickup cricket to meet people and play on a Sunday morning.",
@@ -12677,10 +13318,442 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "https://api.party-scout.app/img/san-francisco/2026-11-09/friendly-cricket-game-2d24.jpg",
+        "image": "https://api.party-scout.app/img/san-francisco/2026-11-09/friendly-cricket-game-1670.jpg",
         "image_generated": true,
         "popularity": 0,
         "enriched": 1,
+        "active": true
+      },
+      {
+        "id": "2026-11-09-sports-beach-volleyball-at-ocean-beac-8198ce",
+        "eid": "beach-volleyball-at-ocea-da7f",
+        "track": "sports",
+        "category": "",
+        "name": "Beach volleyball at Ocean Beach stairwell 5 (Veteran’s Day)",
+        "day": "Wed",
+        "date": "2026-11-11",
+        "time": "13:00",
+        "start": null,
+        "end": null,
+        "area": "",
+        "venue": "Great Highway Parking, 301 Great Hwy, San Francisco, CA 94121, USA",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "",
+        "tags": [],
+        "sources": [
+          "https://www.meetup.com/alameda-volleyball/events/317364921/"
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=Great%20Highway%20Parking%2C%20301%20Great%20Hwy%2C%20San%20Francisco%2C%20CA%2094121%2C%20USA",
+          "apple": "https://maps.apple.com/?q=Great%20Highway%20Parking%2C%20301%20Great%20Hwy%2C%20San%20Francisco%2C%20CA%2094121%2C%20USA"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-11-09-sports-bear-valley-to-coastal-trail-h-778d81",
+        "eid": "bear-valley-to-coastal-t-9c0a",
+        "track": "sports",
+        "category": "",
+        "name": "Bear Valley to Coastal Trail Hiking",
+        "day": "Wed",
+        "date": "2026-11-11",
+        "time": "08:00",
+        "start": null,
+        "end": null,
+        "area": "",
+        "venue": "Safeway, 2020 Market St, San Francisco, CA 94114, USA",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "",
+        "tags": [],
+        "sources": [
+          "https://www.meetup.com/sunday-hike-san-francisco/events/317362312/"
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=Safeway%2C%202020%20Market%20St%2C%20San%20Francisco%2C%20CA%2094114%2C%20USA",
+          "apple": "https://maps.apple.com/?q=Safeway%2C%202020%20Market%20St%2C%20San%20Francisco%2C%20CA%2094114%2C%20USA"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-11-09-sports-hawk-hill-kirby-cove-and-batte-6b8ab4",
+        "eid": "hawk-hill-kirby-cove-and-66c8",
+        "track": "sports",
+        "category": "",
+        "name": "Hawk Hill Kirby Cove and Battery Spencer Hiking",
+        "day": "Thu",
+        "date": "2026-11-12",
+        "time": "10:00",
+        "start": null,
+        "end": null,
+        "area": "",
+        "venue": "Safeway, 2020 Market St, San Francisco, CA 94114, USA",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "",
+        "tags": [],
+        "sources": [
+          "https://www.meetup.com/sunday-hike-san-francisco/events/317365606/"
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=Safeway%2C%202020%20Market%20St%2C%20San%20Francisco%2C%20CA%2094114%2C%20USA",
+          "apple": "https://maps.apple.com/?q=Safeway%2C%202020%20Market%20St%2C%20San%20Francisco%2C%20CA%2094114%2C%20USA"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-11-09-sports-turf-pfx-w-ashley-2b3167",
+        "eid": "turf-pfx-w-ashley-8538",
+        "track": "sports",
+        "category": "",
+        "name": "TURF PFX W/ ASHLEY",
+        "day": "Thu",
+        "date": "2026-11-12",
+        "time": "18:00",
+        "start": null,
+        "end": null,
+        "area": "",
+        "venue": "WeWork Office Space & Coworking, 600 California St",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "",
+        "tags": [],
+        "sources": [
+          "https://www.meetup.com/rise-by-we-san-francisco-turf-pfx/events/317115335/"
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=WeWork%20Office%20Space%20%26%20Coworking%2C%20600%20California%20St",
+          "apple": "https://maps.apple.com/?q=WeWork%20Office%20Space%20%26%20Coworking%2C%20600%20California%20St"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-11-09-sports-vintage-neon-night-hike-union-318719",
+        "eid": "vintage-neon-night-hike-e0c8",
+        "track": "sports",
+        "category": "",
+        "name": "Vintage Neon Night Hike: Union Square, Bush Street and Polk Area",
+        "day": "Thu",
+        "date": "2026-11-12",
+        "time": "17:30",
+        "start": null,
+        "end": null,
+        "area": "",
+        "venue": "Omni San Francisco Hotel 500 California Street San Francisco, CA 94104, Omni San Francisco Hotel 500 California Street San Francisco, CA 94104",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "",
+        "tags": [],
+        "sources": [
+          "https://www.meetup.com/urban-hiking-happy-hour/events/317363796/"
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=Omni%20San%20Francisco%20Hotel%20500%20California%20Street%20San%20Francisco%2C%20CA%2094104%2C%20Omni%20San%20Francisco%20Hotel%20500%20California%20Street%20San%20Francisco%2C%20CA%2094104",
+          "apple": "https://maps.apple.com/?q=Omni%20San%20Francisco%20Hotel%20500%20California%20Street%20San%20Francisco%2C%20CA%2094104%2C%20Omni%20San%20Francisco%20Hotel%20500%20California%20Street%20San%20Francisco%2C%20CA%2094104"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-11-09-sports-2nd-friday-art-walk-oakland-al-1f3441",
+        "eid": "2nd-friday-art-walk-oakl-3391",
+        "track": "sports",
+        "category": "",
+        "name": "2nd Friday Art Walk | Oakland & Alameda",
+        "day": "Fri",
+        "date": "2026-11-13",
+        "time": "18:00",
+        "start": null,
+        "end": null,
+        "area": "",
+        "venue": "Oakland & Alameda",
+        "address": "Chapman St. and Peterson St., Oakland, CA",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "",
+        "tags": [],
+        "sources": [
+          "https://sf.funcheap.com/2nd-friday-art-walk-oakland-alameda-97/"
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=Chapman%20St.%20and%20Peterson%20St.%2C%20Oakland%2C%20CA",
+          "apple": "https://maps.apple.com/?q=Chapman%20St.%20and%20Peterson%20St.%2C%20Oakland%2C%20CA"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "https://cdn.funcheap.com/wp-content/uploads/2013/04/fridayartwalk.png",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-11-09-sports-mission-peak-loop-trail-hiking-3b8f01",
+        "eid": "mission-peak-loop-trail-c9ab",
+        "track": "sports",
+        "category": "",
+        "name": "Mission Peak Loop Trail Hiking",
+        "day": "Fri",
+        "date": "2026-11-13",
+        "time": "09:00",
+        "start": null,
+        "end": null,
+        "area": "",
+        "venue": "Safeway, 2020 Market St, San Francisco, CA 94114, USA",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "",
+        "tags": [],
+        "sources": [
+          "https://www.meetup.com/sunday-hike-san-francisco/events/317365627/"
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=Safeway%2C%202020%20Market%20St%2C%20San%20Francisco%2C%20CA%2094114%2C%20USA",
+          "apple": "https://maps.apple.com/?q=Safeway%2C%202020%20Market%20St%2C%20San%20Francisco%2C%20CA%2094114%2C%20USA"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "https://api.party-scout.app/img/san-francisco/2026-11-09/mission-peak-loop-trail-c9ab.jpg",
+        "image_generated": true,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-11-09-sports-second-fridays-art-walk-san-ra-6ea584",
+        "eid": "second-fridays-art-walk-d898",
+        "track": "sports",
+        "category": "",
+        "name": "Second Fridays Art Walk | San Rafael",
+        "day": "Fri",
+        "date": "2026-11-13",
+        "time": "17:00",
+        "start": null,
+        "end": null,
+        "area": "",
+        "venue": "San Rafael",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "",
+        "tags": [],
+        "sources": [
+          "https://sf.funcheap.com/second-fridays-art-walk-san-rafael-157/"
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=San%20Rafael",
+          "apple": "https://maps.apple.com/?q=San%20Rafael"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "https://api.party-scout.app/img/san-francisco/2026-11-09/second-fridays-art-walk-d898.jpg",
+        "image_generated": true,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-11-09-sports-vallejo-art-walk-second-friday-4d4d56",
+        "eid": "vallejo-art-walk-second-367a",
+        "track": "sports",
+        "category": "",
+        "name": "Vallejo Art Walk | Second Fridays",
+        "day": "Fri",
+        "date": "2026-11-13",
+        "time": "17:00",
+        "start": null,
+        "end": null,
+        "area": "",
+        "venue": "Second Fridays",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "",
+        "tags": [],
+        "sources": [
+          "https://sf.funcheap.com/vallejo-art-walk-second-fridays-145/"
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=Second%20Fridays",
+          "apple": "https://maps.apple.com/?q=Second%20Fridays"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "https://api.party-scout.app/img/san-francisco/2026-11-09/vallejo-art-walk-second-367a.jpg",
+        "image_generated": true,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-11-09-sports-muir-woods-canopy-trail-loop-h-c2e393",
+        "eid": "muir-woods-canopy-trail-11d0",
+        "track": "sports",
+        "category": "",
+        "name": "Muir Woods Canopy Trail Loop Hiking",
+        "day": "Sat",
+        "date": "2026-11-14",
+        "time": "10:00",
+        "start": null,
+        "end": null,
+        "area": "",
+        "venue": "Safeway, 2020 Market St, San Francisco, CA 94114, USA",
+        "address": "2020 Market St, San Francisco, CA 94114, USA, San Francisco, CA",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "Free",
+        "tags": [],
+        "sources": [
+          "https://www.meetup.com/sunday-hike-san-francisco/events/317362358/"
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=2020%20Market%20St%2C%20San%20Francisco%2C%20CA%2094114%2C%20USA%2C%20San%20Francisco%2C%20CA",
+          "apple": "https://maps.apple.com/?q=2020%20Market%20St%2C%20San%20Francisco%2C%20CA%2094114%2C%20USA%2C%20San%20Francisco%2C%20CA"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "https://secure.meetupstatic.com/photos/event/d/5/0/5/highres_536934533.jpeg",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-11-09-sports-saturday-morning-co-ed-soccer-7b7999",
+        "eid": "saturday-morning-co-ed-s-18d7",
+        "track": "sports",
+        "category": "",
+        "name": "Saturday Morning Co-Ed Soccer in the Park",
+        "day": "Sat",
+        "date": "2026-11-14",
+        "time": "08:45",
+        "start": null,
+        "end": null,
+        "area": "",
+        "venue": "Golden Gate Park Polo Field, John F Kennedy Drive",
+        "address": "John F Kennedy Drive, San Francisco, CA",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "Free",
+        "tags": [],
+        "sources": [
+          "https://www.meetup.com/san-francisco-outdoor-soccer-meetup-group/events/317132149/"
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=John%20F%20Kennedy%20Drive%2C%20San%20Francisco%2C%20CA",
+          "apple": "https://maps.apple.com/?q=John%20F%20Kennedy%20Drive%2C%20San%20Francisco%2C%20CA"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "https://secure.meetupstatic.com/photos/event/4/8/0/1/highres_505878433.jpeg",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-11-09-sports-35-for-locally-run-independent-4d15b5",
+        "eid": "35-for-locally-run-indep-63a0",
+        "track": "sports",
+        "category": "",
+        "name": "$35 for Locally-Run Independent Internet Service (SF + Bay Area)",
+        "day": "Sun",
+        "date": "2026-11-15",
+        "time": "05:00",
+        "start": null,
+        "end": null,
+        "area": "",
+        "venue": "San Francisco",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "",
+        "tags": [],
+        "sources": [
+          "https://sf.funcheap.com/35-for-locally-run-independent-internet-service-sf-bay-area-3/"
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=San%20Francisco",
+          "apple": "https://maps.apple.com/?q=San%20Francisco"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
         "active": true
       }
     ]
