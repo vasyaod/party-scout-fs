@@ -5,7 +5,7 @@
   "location": "Los Angeles & SoCal",
   "city": "los-angeles",
   "city_label": "Los Angeles",
-  "generated_at": "2026-11-10",
+  "generated_at": "2026-11-11",
   "tracks": {
     "music": [
       {
@@ -575,7 +575,14 @@
         "price": "$35–$50",
         "tags": [],
         "sources": [
-          "https://ra.co/events/2477620"
+          {
+            "url": "https://ra.co/events/2477620",
+            "hidden": true
+          },
+          {
+            "url": "https://19hz.info/eventlisting_LosAngeles.php",
+            "hidden": true
+          }
         ],
         "tickets": [
           "https://ra.co/events/2477620"
@@ -642,7 +649,7 @@
         "name": "Winter Fantasy",
         "day": "Sat",
         "date": "2026-12-05",
-        "time": "20:00",
+        "time": "8pm",
         "start": "20:00",
         "end": "02:00",
         "area": "Los Angeles",
@@ -738,7 +745,7 @@
         "name": "Zhu",
         "day": "Sat",
         "date": "2026-12-05",
-        "time": "22:00",
+        "time": "10pm",
         "start": "22:00",
         "end": "03:00",
         "area": "Los Angeles",
@@ -749,7 +756,12 @@
         "promoter": "",
         "price": "$74+",
         "tags": [],
-        "sources": [],
+        "sources": [
+          {
+            "url": "https://19hz.info/eventlisting_LosAngeles.php",
+            "hidden": true
+          }
+        ],
         "tickets": [],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Reframe%20Studios%20Indoors%20%28Los%20Angeles%29%2C%20Los%20Angeles",
@@ -758,8 +770,8 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
-        "image_generated": false,
+        "image": "https://api.party-scout.app/img/los-angeles/2026-11-30/zhu-c64d.jpg",
+        "image_generated": true,
         "popularity": 0,
         "enriched": 1,
         "active": true
@@ -998,7 +1010,7 @@
         "why": "For an evening out at a classic LA neighborhood music-and-drinks spot.",
         "summary": "Flash Light takes place at The Airliner (2419 N Broadway) on 2026-12-03, starting at 8:00 PM.",
         "promoter": "",
-        "price": "Free",
+        "price": "0",
         "tags": [
           "21+",
           "bar",
@@ -1669,11 +1681,25 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "https://api.party-scout.app/img/los-angeles/2026-11-30/planet-love-livwutang-ja-252e.jpg",
+        "image": "https://images.ra.co/5b332b80dcb1c101908f28a3aa357a13b8460d84.png",
         "image_generated": false,
         "popularity": 0,
         "enriched": 1,
-        "active": true
+        "active": true,
+        "lineup": [
+          {
+            "name": "livwutang",
+            "instagram": null
+          },
+          {
+            "name": "James Axon",
+            "instagram": null
+          },
+          {
+            "name": "Mez Monty",
+            "instagram": null
+          }
+        ]
       },
       {
         "id": "2026-11-30-music-rebekah-all-night-long-b62712",
@@ -2133,7 +2159,7 @@
         "why": "To hear new records debut in an intimate downtown bar setting.",
         "summary": "Record-release night for Escalator, Seasons, and Natural Rhythm at Library Bar DTLA on December 5, 2026, starting at 9:00 PM.",
         "promoter": "",
-        "price": "Free",
+        "price": "0",
         "tags": [
           "record-release",
           "bar",
@@ -2555,7 +2581,7 @@
         "why": "For rooftop sunset vibes and deep progressive electronic sets.",
         "summary": "A deep progressive rooftop day party called Hypersleep at Somewhere Special on 2026-12-06, starting at 15:00.",
         "promoter": "",
-        "price": "Free",
+        "price": "0.00",
         "tags": [
           "dj",
           "rooftop",
@@ -2600,7 +2626,7 @@
         "name": "Sub.Mission Takeover - The Widdler, Monty",
         "day": "Sat",
         "date": "2026-12-05",
-        "time": "21:00",
+        "time": "9pm",
         "start": "21:00",
         "end": "02:00",
         "area": "Los Angeles",
@@ -2678,6 +2704,172 @@
         "image_generated": true,
         "popularity": 0,
         "enriched": 1,
+        "active": true
+      },
+      {
+        "id": "2026-11-30-music-boy2000-839a97",
+        "eid": "boy2000-c3fe",
+        "track": "music",
+        "category": "",
+        "name": "Boy2000",
+        "day": "Wed",
+        "date": "2026-12-02",
+        "time": "6pm",
+        "start": "18:00",
+        "end": null,
+        "area": "",
+        "venue": "El Cid (Los Angeles)",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "",
+        "tags": [],
+        "sources": [
+          {
+            "url": "https://19hz.info/eventlisting_LosAngeles.php",
+            "hidden": true
+          },
+          {
+            "url": "https://dice.fm/event/3obp2g-minty-boi-presents-boy2000-in-los-angeles-3rd-dec-el-cid-los-angeles-tickets",
+            "hidden": true
+          }
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=El%20Cid%20%28Los%20Angeles%29",
+          "apple": "https://maps.apple.com/?q=El%20Cid%20%28Los%20Angeles%29"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "https://api.party-scout.app/img/los-angeles/2026-11-30/boy2000-c3fe.jpg",
+        "image_generated": true,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-11-30-music-dj-sneak-ef9a12",
+        "eid": "dj-sneak-14f3",
+        "track": "music",
+        "category": "",
+        "name": "DJ Sneak",
+        "day": "Fri",
+        "date": "2026-12-04",
+        "time": "9pm",
+        "start": "21:00",
+        "end": null,
+        "area": "",
+        "venue": "2968 Randolph Avenue (Costa Mesa)",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "",
+        "tags": [],
+        "sources": [
+          {
+            "url": "https://19hz.info/eventlisting_LosAngeles.php",
+            "hidden": true
+          },
+          "https://shotgun.live/en/events/loco-disco-presents-dj-sneak"
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=2968%20Randolph%20Avenue%20%28Costa%20Mesa%29",
+          "apple": "https://maps.apple.com/?q=2968%20Randolph%20Avenue%20%28Costa%20Mesa%29"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "https://api.party-scout.app/img/los-angeles/2026-11-30/dj-sneak-14f3.jpg",
+        "image_generated": true,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-11-30-music-hypersleep-a-deep-progressive-144c2d",
+        "eid": "hypersleep-a-deep-progre-6ad4",
+        "track": "music",
+        "category": "",
+        "name": "Hypersleep - A Deep Progressive Rooftop Day Party: Juan Buitrago, tenSpeed, Nick Newman",
+        "day": "Sat",
+        "date": "2026-12-05",
+        "time": "3pm",
+        "start": "15:00",
+        "end": null,
+        "area": "",
+        "venue": "Somewhere Special (Los Angeles)",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "",
+        "tags": [],
+        "sources": [
+          {
+            "url": "https://19hz.info/eventlisting_LosAngeles.php",
+            "hidden": true
+          },
+          {
+            "url": "https://ra.co/events/2572162",
+            "hidden": true
+          }
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=Somewhere%20Special%20%28Los%20Angeles%29",
+          "apple": "https://maps.apple.com/?q=Somewhere%20Special%20%28Los%20Angeles%29"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "https://api.party-scout.app/img/los-angeles/2026-11-30/hypersleep-a-deep-progre-6ad4.jpg",
+        "image_generated": true,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-11-30-music-san-pacho-4021d5",
+        "eid": "san-pacho-fd7c",
+        "track": "music",
+        "category": "",
+        "name": "San Pacho",
+        "day": "Sat",
+        "date": "2026-12-05",
+        "time": "10pm",
+        "start": "22:00",
+        "end": null,
+        "area": "",
+        "venue": "Time Nightclub (Costa Mesa)",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "",
+        "tags": [],
+        "sources": [
+          {
+            "url": "https://19hz.info/eventlisting_LosAngeles.php",
+            "hidden": true
+          },
+          "https://www.tixr.com/groups/timenightclub/events/san-pacho-211348"
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=Time%20Nightclub%20%28Costa%20Mesa%29",
+          "apple": "https://maps.apple.com/?q=Time%20Nightclub%20%28Costa%20Mesa%29"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "https://api.party-scout.app/img/los-angeles/2026-11-30/san-pacho-fd7c.jpg",
+        "image_generated": true,
+        "popularity": 0,
+        "enriched": 0,
         "active": true
       }
     ],
@@ -2901,8 +3093,8 @@
         "time": "",
         "start": null,
         "end": null,
-        "area": "Griffith Park",
-        "venue": "Griffith Park",
+        "area": "Los Angeles",
+        "venue": "Griffith Park (Los Angeles)",
         "address": "",
         "why": "Get a festive outdoor workout and enjoy holiday spirit with other participants.",
         "summary": "A Santa-themed run taking place in Griffith Park on December 6, 2026.",
@@ -2925,8 +3117,8 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "https://api.party-scout.app/img/los-angeles/2026-11-30/santa-runs-griffith-park-d805.jpg",
-        "image_generated": false,
+        "image": "https://api.party-scout.app/img/los-angeles/2026-11-30/santa-runs-griffith-park-f38c.jpg",
+        "image_generated": true,
         "popularity": 0,
         "enriched": 1,
         "active": true
@@ -3011,6 +3203,42 @@
         "image_generated": true,
         "popularity": 0,
         "enriched": 1,
+        "active": true
+      },
+      {
+        "id": "2026-11-30-sports-2026-pickleball-lovers-join-ou-e58492",
+        "eid": "2026-pickleball-lovers-j-7683",
+        "track": "sports",
+        "category": "",
+        "name": "2026 Pickleball Lovers!! Join Our Weekend \"Social Dinkers\" Pickleball Community!",
+        "day": "Sat",
+        "date": "2026-12-05",
+        "time": "08:00",
+        "start": null,
+        "end": null,
+        "area": "",
+        "venue": "6333 W 3rd St, Los Angeles, CA 90036, 6333 W 3rd St, Los Angeles, CA 90036",
+        "address": "6333 W 3rd St, Los Angeles, CA 90036, Los Angeles, Ca",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "Free",
+        "tags": [],
+        "sources": [
+          "https://www.meetup.com/meetup-group-axugemky/events/316423168/"
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=6333%20W%203rd%20St%2C%20Los%20Angeles%2C%20CA%2090036%2C%20Los%20Angeles%2C%20Ca",
+          "apple": "https://maps.apple.com/?q=6333%20W%203rd%20St%2C%20Los%20Angeles%2C%20CA%2090036%2C%20Los%20Angeles%2C%20Ca"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "https://secure.meetupstatic.com/photos/event/6/d/1/d/highres_534687933.jpeg",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
         "active": true
       }
     ]
