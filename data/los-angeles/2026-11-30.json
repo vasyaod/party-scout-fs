@@ -5,7 +5,7 @@
   "location": "Los Angeles & SoCal",
   "city": "los-angeles",
   "city_label": "Los Angeles",
-  "generated_at": "2026-11-11",
+  "generated_at": "2026-11-12",
   "tracks": {
     "music": [
       {
@@ -16,7 +16,7 @@
         "name": "Boy2000",
         "day": "Thu",
         "date": "2026-12-03",
-        "time": "18:00",
+        "time": "6pm-10pm",
         "start": "18:00",
         "end": "22:00",
         "area": "Los Angeles",
@@ -25,7 +25,7 @@
         "why": "",
         "summary": "",
         "promoter": "",
-        "price": "$26.96",
+        "price": "Minty Boi",
         "tags": [],
         "sources": [
           {
@@ -59,7 +59,7 @@
         "name": "Alisha",
         "day": "Fri",
         "date": "2026-12-04",
-        "time": "22:00",
+        "time": "10pm-2:30am",
         "start": "22:00",
         "end": "02:30",
         "area": "Los Angeles",
@@ -226,7 +226,7 @@
         "name": "Hans Glader",
         "day": "Fri",
         "date": "2026-12-04",
-        "time": "21:30",
+        "time": "9:30pm",
         "start": "21:30",
         "end": null,
         "area": "Los Angeles",
@@ -277,23 +277,32 @@
         "name": "Shrek Rave",
         "day": "Fri",
         "date": "2026-12-04",
-        "time": "22:00",
+        "time": "10pm-2am",
         "start": "22:00",
         "end": "02:00",
-        "area": "Hollywood",
-        "venue": "Boardner's By La Belle (Los Angeles) (Los Angeles)",
+        "area": "Los Angeles",
+        "venue": "Boardner's By La Belle",
         "address": "",
         "why": "Pure meme-rave fun for a Friday night — costumes encouraged, and tickets run $19–$30.",
         "summary": "A touring Shrek-themed dance party: swamp-flavored EDM, memes and singalongs, all night at Boardner's in Hollywood.",
         "promoter": "",
-        "price": "$19–$30",
+        "price": "Club Decades",
         "tags": [
           "rave",
           "edm",
           "themed",
           "hollywood"
         ],
-        "sources": [],
+        "sources": [
+          {
+            "url": "https://19hz.info/eventlisting_LosAngeles.php",
+            "hidden": true
+          },
+          {
+            "url": "https://www.eventbrite.com/e/shrek-rave-tickets-1992126317442",
+            "hidden": true
+          }
+        ],
         "tickets": [],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Boardner%27s%20By%20La%20Belle%20%28Los%20Angeles%29%20%28Los%20Angeles%29%2C%20Los%20Angeles",
@@ -302,8 +311,8 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
-        "image_generated": false,
+        "image": "https://api.party-scout.app/img/los-angeles/2026-11-30/shrek-rave-74d1.jpg",
+        "image_generated": true,
         "popularity": 0,
         "enriched": 1,
         "active": true
@@ -328,7 +337,15 @@
         "price": "$54",
         "tags": [],
         "sources": [
-          "https://ra.co/events/2507538"
+          "https://ra.co/events/2507538",
+          {
+            "url": "https://www.axs.com/events/1463339",
+            "hidden": true
+          },
+          {
+            "url": "https://19hz.info/eventlisting_LosAngeles.php",
+            "hidden": true
+          }
         ],
         "tickets": [
           "https://ra.co/events/2507538"
@@ -340,7 +357,7 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/los-angeles/2026-11-30/whethan-warehouse-wavs-t-62d9.jpg",
         "image_generated": false,
         "popularity": 0,
         "enriched": 1,
@@ -354,16 +371,16 @@
         "name": "Zhu",
         "day": "Fri",
         "date": "2026-12-04",
-        "time": "22:00",
+        "time": "10pm-3am",
         "start": "22:00",
         "end": "03:00",
         "area": "Los Angeles",
-        "venue": "Reframe Studios Indoors (Los Angeles)",
-        "address": "",
+        "venue": "Reframe Studios Indoors",
+        "address": "4594 Electronics Place, Los Angeles, California 90039",
         "why": "A rare ZHU club-scale night, kicking off the new season at Reframe's indoor room.",
         "summary": "ZHU headlines the season-two opening weekend at Reframe Studios Indoors, a late-night show of his dark, moody house and vocal-driven electronic sound.",
         "promoter": "",
-        "price": "$70+",
+        "price": "Framework",
         "tags": [
           "house",
           "electronic",
@@ -371,7 +388,11 @@
           "reframe"
         ],
         "sources": [
-          "https://19hz.info/eventlisting_LosAngeles.php"
+          {
+            "url": "https://19hz.info/eventlisting_LosAngeles.php",
+            "hidden": true
+          },
+          "https://dice.fm/event/6dgvq8-zhu-opening-party-4th-dec-reframe-studios-indoors-los-angeles-tickets"
         ],
         "tickets": [],
         "maps": {
@@ -381,7 +402,7 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://dice-media.imgix.net/attachments/2026-09-21/7cf5df47-8c6a-4be5-837c-be4420e8d69d.jpg?rect=0%2C432%2C2160%2C1296",
         "image_generated": false,
         "popularity": 0,
         "enriched": 1,
@@ -395,7 +416,7 @@
         "name": "Deorro Botas Y Rave",
         "day": "Sat",
         "date": "2026-12-05",
-        "time": "17:00",
+        "time": "5pm",
         "start": "17:00",
         "end": null,
         "area": "Los Angeles",
@@ -404,7 +425,7 @@
         "why": "",
         "summary": "",
         "promoter": "",
-        "price": "$74+",
+        "price": "Insomniac",
         "tags": [],
         "sources": [
           {
@@ -443,13 +464,23 @@
         "end": null,
         "area": "Los Angeles",
         "venue": "El Rey Theatre (Los Angeles)",
-        "address": "",
+        "address": "5515 Wilshire Blvd, Los Angeles, CA 90036",
         "why": "",
         "summary": "",
         "promoter": "",
         "price": "$31–$38",
         "tags": [],
-        "sources": [],
+        "sources": [
+          "https://ra.co/events/2568060",
+          {
+            "url": "https://www.axs.com/events/1541157",
+            "hidden": true
+          },
+          {
+            "url": "https://19hz.info/eventlisting_LosAngeles.php",
+            "hidden": true
+          }
+        ],
         "tickets": [],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=El%20Rey%20Theatre%20%28Los%20Angeles%29%2C%20Los%20Angeles",
@@ -458,7 +489,7 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://images.ra.co/e0e8ca9954c0a00e97087777f3bc6a0b789df84c.jpg",
         "image_generated": false,
         "popularity": 0,
         "enriched": 1,
@@ -512,7 +543,7 @@
         "name": "Oden & Fatzo",
         "day": "Sat",
         "date": "2026-12-05",
-        "time": "22:00",
+        "time": "10pm",
         "start": "22:00",
         "end": null,
         "area": "Los Angeles",
@@ -697,7 +728,7 @@
         "name": "Wooli: Mammoth Park",
         "day": "Sat",
         "date": "2026-12-05",
-        "time": "17:00",
+        "time": "5pm",
         "start": "17:00",
         "end": null,
         "area": "Los Angeles",
@@ -706,7 +737,7 @@
         "why": "Bass-heavy heavyweight set from a Colorado favorite in an open-air lawn setting.",
         "summary": "Wooli headlines a Mammoth Park daytime-into-night bass music show on the South Lawn at Exposition Park, listed for Saturday Dec 5.",
         "promoter": "",
-        "price": "$75+",
+        "price": "Bassrush",
         "tags": [
           "bass",
           "dubstep",
@@ -784,7 +815,7 @@
         "name": "Deorro Botas Y Rave",
         "day": "Sun",
         "date": "2026-12-06",
-        "time": "17:00",
+        "time": "5pm",
         "start": "17:00",
         "end": null,
         "area": "Los Angeles",
@@ -793,7 +824,7 @@
         "why": "Deorro is a Mexican-American EDM headliner, and Botas Y Rave blends banda and norteño with big-room dance beats.",
         "summary": "Deorro brings his Botas Y Rave night, a mix of regional Mexican sounds and electronic dance music, to Los Angeles on a Sunday evening.",
         "promoter": "",
-        "price": "$69+",
+        "price": "Insomniac",
         "tags": [
           "edm",
           "latin",
@@ -869,7 +900,7 @@
         "name": "Grey DeLisle",
         "day": "Wed",
         "date": "2026-12-02",
-        "time": "20:00",
+        "time": "20:00-02:00",
         "start": "20:00",
         "end": "02:00",
         "area": "Los Angeles",
@@ -900,8 +931,8 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
-        "image_generated": false,
+        "image": "https://api.party-scout.app/img/los-angeles/2026-11-30/grey-delisle-cd18.jpg",
+        "image_generated": true,
         "popularity": 0,
         "enriched": 1,
         "active": true
@@ -914,7 +945,7 @@
         "name": "Anna Luna",
         "day": "Thu",
         "date": "2026-12-03",
-        "time": "22:00",
+        "time": "10pm-2am",
         "start": "22:00",
         "end": "02:00",
         "area": "Los Angeles",
@@ -923,7 +954,7 @@
         "why": "For ethereal, shoegaze-tinged electronic pop and experimental ambient textures in an intimate club setting.",
         "summary": "Anna Luna performs at El Cid on December 3, 2026; doors at 10:00 PM and the show is 18+.",
         "promoter": "",
-        "price": "$26.96",
+        "price": "Minty Boi",
         "tags": [
           "live",
           "experimental",
@@ -932,7 +963,10 @@
           "18+"
         ],
         "sources": [
-          "https://dice.fm/event/8edkxw-minty-boi-presents-anna-luna-live-in-los-angeles-3rd-dec-el-cid-los-angeles-tickets",
+          {
+            "url": "https://dice.fm/event/8edkxw-minty-boi-presents-anna-luna-live-in-los-angeles-3rd-dec-el-cid-los-angeles-tickets",
+            "hidden": true
+          },
           {
             "url": "https://19hz.info/eventlisting_LosAngeles.php",
             "hidden": true
@@ -1001,7 +1035,7 @@
         "name": "Flash Light",
         "day": "Thu",
         "date": "2026-12-03",
-        "time": "20:00",
+        "time": "20:00-00:00",
         "start": "20:00",
         "end": "00:00",
         "area": "Los Angeles",
@@ -1050,10 +1084,10 @@
         "name": "Hungry Ass Youth (8:30pm)",
         "day": "Thu",
         "date": "2026-12-03",
-        "time": "20:00",
+        "time": "20:00-02:00",
         "start": "20:00",
         "end": "02:00",
-        "area": "DTLA",
+        "area": "Los Angeles",
         "venue": "The Redwood Bar And Grill",
         "address": "316 W. 2nd Street, Los Angeles, CA  90012",
         "why": "To catch a late-evening live set at a neighborhood downtown bar.",
@@ -1078,8 +1112,8 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
-        "image_generated": false,
+        "image": "https://api.party-scout.app/img/los-angeles/2026-11-30/hungry-ass-youth-8-30pm-81cc.jpg",
+        "image_generated": true,
         "popularity": 0,
         "enriched": 1,
         "active": true
@@ -1306,7 +1340,7 @@
         "name": "Dub Meeting Rub A Dub Dance #4 feat. Scientist x Papa Michigan",
         "day": "Fri",
         "date": "2026-12-04",
-        "time": "20:00",
+        "time": "20:00-03:00",
         "start": "20:00",
         "end": "03:00",
         "area": "Los Angeles",
@@ -1355,7 +1389,7 @@
         "name": "Electric Ave",
         "day": "Fri",
         "date": "2026-12-04",
-        "time": "22:00",
+        "time": "10pm",
         "start": "14:00",
         "end": "18:00",
         "area": "Los Angeles",
@@ -1364,7 +1398,7 @@
         "why": "For a high-energy night of dance music with opportunities to sign up as a DJ.",
         "summary": "A late-night dance event promising \"electrifying beats\" at Los Globos on December 4, 2026 at 10:00 PM. Community Arts & Festivals and EMX are involved, DJ signups are available, and tickets are non-refundable.",
         "promoter": "",
-        "price": "Free w/ RSVP",
+        "price": "EMX",
         "tags": [
           "dj",
           "dance",
@@ -1372,7 +1406,10 @@
           "21+"
         ],
         "sources": [
-          "https://eventsta.com/event/losglobos120426?promo=CAF&fbclid=IwY2xjawVTRklleHRuA2FlbQIxMABwZG9mAWJyaWQRMVRGeTFTckR2YXR4bk5oeWZzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEf8yspXKXBhkYPQiyIICd6QKqiIA04DljBLWTHdrAHSLNuBM2zMyn5j9OW8jo_aem_i7YCAYFITd0YdzPyRk3Aag",
+          {
+            "url": "https://eventsta.com/event/losglobos120426?promo=CAF&fbclid=IwY2xjawVTRklleHRuA2FlbQIxMABwZG9mAWJyaWQRMVRGeTFTckR2YXR4bk5oeWZzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEf8yspXKXBhkYPQiyIICd6QKqiIA04DljBLWTHdrAHSLNuBM2zMyn5j9OW8jo_aem_i7YCAYFITd0YdzPyRk3Aag",
+            "hidden": true
+          },
           {
             "url": "https://19hz.info/eventlisting_LosAngeles.php",
             "hidden": true
@@ -1400,7 +1437,7 @@
         "name": "Hostile: Space Wizard, Hydraulix, Mushroom Cloud, Digitist",
         "day": "Fri",
         "date": "2026-12-04",
-        "time": "21:00",
+        "time": "9pm-2am",
         "start": "21:00",
         "end": "02:00",
         "area": "Los Angeles",
@@ -1416,7 +1453,10 @@
           "club"
         ],
         "sources": [
-          "https://dice.fm/event/6ad0f77fdf0b670001dc630d",
+          {
+            "url": "https://dice.fm/event/6ad0f77fdf0b670001dc630d",
+            "hidden": true
+          },
           {
             "url": "https://19hz.info/eventlisting_LosAngeles.php",
             "hidden": true
@@ -1446,7 +1486,7 @@
         "name": "How The Grinch Stole Riddim",
         "day": "Fri",
         "date": "2026-12-04",
-        "time": "21:00",
+        "time": "9pm-2am",
         "start": "21:00",
         "end": "02:00",
         "area": "Los Angeles",
@@ -1455,7 +1495,7 @@
         "why": "Support a local toy drive and get free entry with a toy while enjoying a heavy riddim DJ experience.",
         "summary": "A 360° riddim party and toy drive at The Catwalk Club on Fri Dec 4 at 9:00 PM. Bring a toy and RSVP for free entry.",
         "promoter": "",
-        "price": "$15-25.38",
+        "price": "Wasted",
         "tags": [
           "riddim",
           "dj",
@@ -1464,7 +1504,10 @@
           "holiday"
         ],
         "sources": [
-          "https://www.eventbrite.com/e/los-angeles-how-the-grinch-stole-riddim-catwalk-club-18-tickets-2004329702094",
+          {
+            "url": "https://www.eventbrite.com/e/los-angeles-how-the-grinch-stole-riddim-catwalk-club-18-tickets-2004329702094",
+            "hidden": true
+          },
           {
             "url": "https://19hz.info/eventlisting_LosAngeles.php",
             "hidden": true
@@ -1494,10 +1537,10 @@
         "name": "Information - All Vinyl Night: DJ TOOL (4 hour set) + Daura + Yessi",
         "day": "Fri",
         "date": "2026-12-04",
-        "time": "22:00",
+        "time": "22:00-06:00",
         "start": "22:00",
         "end": "06:00",
-        "area": "DTLA",
+        "area": "Los Angeles",
         "venue": "TBA - Secret Location DTLA",
         "address": "",
         "why": "For an extended, immersive vinyl DJ set and late-night dancing.",
@@ -1551,7 +1594,7 @@
         "name": "Mika Heggemann, Davyboi, and Casska",
         "day": "Fri",
         "date": "2026-12-04",
-        "time": "22:00",
+        "time": "10pm-3am",
         "start": "22:00",
         "end": "03:00",
         "area": "Los Angeles",
@@ -1560,7 +1603,7 @@
         "why": "A late-night club evening with multiple acts at a central Hollywood venue.",
         "summary": "Mika Heggemann, Davyboi, and Casska are billed to perform at Academy Nightclub in Hollywood on December 4, 2026, with the night starting at 22:00.",
         "promoter": "",
-        "price": "$10+",
+        "price": "Polyamor",
         "tags": [
           "dj",
           "nightclub",
@@ -1568,8 +1611,15 @@
           "late-night"
         ],
         "sources": [
-          "https://www.tixr.com/groups/academy/events/polyamor-presents-mika-heggemann-davyboi-and-casska-212503",
-          "https://ra.co/events/2570929"
+          {
+            "url": "https://www.tixr.com/groups/academy/events/polyamor-presents-mika-heggemann-davyboi-and-casska-212503",
+            "hidden": true
+          },
+          "https://ra.co/events/2570929",
+          {
+            "url": "https://19hz.info/eventlisting_LosAngeles.php",
+            "hidden": true
+          }
         ],
         "tickets": [
           "https://www.tixr.com/groups/academy/events/polyamor-presents-mika-heggemann-davyboi-and-casska-212503",
@@ -1610,7 +1660,7 @@
         "name": "Pist'N'Broke",
         "day": "Fri",
         "date": "2026-12-04",
-        "time": "20:00",
+        "time": "20:00-02:00",
         "start": "20:00",
         "end": "02:00",
         "area": "Los Angeles",
@@ -1652,7 +1702,7 @@
         "name": "Planet Love: livwutang / James Axon / Mez Monty",
         "day": "Fri",
         "date": "2026-12-04",
-        "time": "23:00",
+        "time": "23:00-06:00",
         "start": "23:00",
         "end": "06:00",
         "area": "Los Angeles",
@@ -1727,7 +1777,14 @@
           "club"
         ],
         "sources": [
-          "https://ra.co/events/2550792"
+          {
+            "url": "https://ra.co/events/2550792",
+            "hidden": true
+          },
+          {
+            "url": "https://19hz.info/eventlisting_LosAngeles.php",
+            "hidden": true
+          }
         ],
         "tickets": [
           "https://ra.co/events/2550792"
@@ -1804,7 +1861,7 @@
         "name": "Sirens x Roam: Anniversary Edition",
         "day": "Fri",
         "date": "2026-12-04",
-        "time": "22:00",
+        "time": "22:00-05:00",
         "start": "22:00",
         "end": "05:00",
         "area": "Los Angeles",
@@ -1813,7 +1870,7 @@
         "why": "Go for a late-night anniversary dance party in downtown LA.",
         "summary": "An anniversary edition of Sirens x Roam takes place on December 4, 2026 in Downtown Los Angeles; the venue is TBA and the event starts at 10:00 PM.",
         "promoter": "",
-        "price": "$10+",
+        "price": "Sirens x Roam",
         "tags": [
           "nightlife",
           "dance",
@@ -1822,7 +1879,14 @@
           "downtown"
         ],
         "sources": [
-          "https://ra.co/events/2561950"
+          {
+            "url": "https://ra.co/events/2561950",
+            "hidden": true
+          },
+          {
+            "url": "https://19hz.info/eventlisting_LosAngeles.php",
+            "hidden": true
+          }
         ],
         "tickets": [
           "https://ra.co/events/2561950"
@@ -1882,7 +1946,14 @@
           "party"
         ],
         "sources": [
-          "https://ra.co/events/2572429"
+          {
+            "url": "https://ra.co/events/2572429",
+            "hidden": true
+          },
+          {
+            "url": "https://19hz.info/eventlisting_LosAngeles.php",
+            "hidden": true
+          }
         ],
         "tickets": [
           "https://ra.co/events/2572429"
@@ -1970,7 +2041,7 @@
         "name": "Certified Groovers: Michael Fam [all night long]",
         "day": "Sat",
         "date": "2026-12-05",
-        "time": "23:00",
+        "time": "23:00-07:00",
         "start": "23:00",
         "end": "07:00",
         "area": "Los Angeles",
@@ -2019,7 +2090,7 @@
         "name": "Dansyn, Kamjam",
         "day": "Sat",
         "date": "2026-12-05",
-        "time": "22:00",
+        "time": "10pm-2:30am",
         "start": "22:00",
         "end": "02:30",
         "area": "Los Angeles",
@@ -2036,7 +2107,10 @@
           "21+"
         ],
         "sources": [
-          "https://dice.fm/event/eo9lw6-dansyn-5th-dec-sound-nightclub-los-angeles-tickets?dice_source=ee15ecdb&eventref=fb_oea",
+          {
+            "url": "https://dice.fm/event/eo9lw6-dansyn-5th-dec-sound-nightclub-los-angeles-tickets?dice_source=ee15ecdb&eventref=fb_oea",
+            "hidden": true
+          },
           {
             "url": "https://19hz.info/eventlisting_LosAngeles.php",
             "hidden": true
@@ -2066,7 +2140,7 @@
         "name": "Didjits",
         "day": "Sat",
         "date": "2026-12-05",
-        "time": "20:00",
+        "time": "20:00-02:00",
         "start": "20:00",
         "end": "02:00",
         "area": "Los Angeles",
@@ -2108,7 +2182,7 @@
         "name": "Eris Talent x Searchlight Pictures: Winter Wonderland Holiday Party",
         "day": "Sat",
         "date": "2026-12-05",
-        "time": "19:00",
+        "time": "19:00-23:00",
         "start": "19:00",
         "end": "23:00",
         "area": "Los Angeles",
@@ -2150,7 +2224,7 @@
         "name": "frenz Part 1 - Record Release: Escalator / Seasons / Natural Rhythm",
         "day": "Sat",
         "date": "2026-12-05",
-        "time": "21:00",
+        "time": "21:00-02:00",
         "start": "21:00",
         "end": "02:00",
         "area": "Los Angeles",
@@ -2199,7 +2273,7 @@
         "name": "Guy J, Sahar Z",
         "day": "Sat",
         "date": "2026-12-05",
-        "time": "21:00",
+        "time": "21:00-04:00",
         "start": "21:00",
         "end": "04:00",
         "area": "Los Angeles",
@@ -2208,7 +2282,7 @@
         "why": "For emotive progressive-house sets and late-night dancing in the Arts District.",
         "summary": "Emotive progressive-house night featuring Guy J and Sahar Z at ORIGIN in the Arts District on 2026-12-05 at 21:00.",
         "promoter": "",
-        "price": "$47+",
+        "price": "Soundwave",
         "tags": [
           "progressive-house",
           "dj",
@@ -2216,8 +2290,15 @@
           "21+"
         ],
         "sources": [
-          "https://www.eventbrite.com/e/guy-j-tickets-2004096844611",
-          "https://ra.co/events/2575506"
+          {
+            "url": "https://www.eventbrite.com/e/guy-j-tickets-2004096844611",
+            "hidden": true
+          },
+          "https://ra.co/events/2575506",
+          {
+            "url": "https://19hz.info/eventlisting_LosAngeles.php",
+            "hidden": true
+          }
         ],
         "tickets": [
           "https://www.eventbrite.com/e/guy-j-tickets-2004096844611",
@@ -2254,7 +2335,7 @@
         "name": "Hayla, Matt Suave, Jon London, Buck/Off",
         "day": "Sat",
         "date": "2026-12-05",
-        "time": "21:00",
+        "time": "9pm-3am",
         "start": "21:00",
         "end": "03:00",
         "area": "Los Angeles",
@@ -2263,14 +2344,17 @@
         "why": "To dance to DJ sets and enjoy a late-night club atmosphere.",
         "summary": "A club night at Catch One on 2026-12-05 at 21:00 with Hayla, Matt Suave, Jon London and Buck/Off.",
         "promoter": "",
-        "price": "$34-56",
+        "price": "Midnight Glory",
         "tags": [
           "dj",
           "dance",
           "nightclub"
         ],
         "sources": [
-          "https://posh.vip/e/midnight-glory",
+          {
+            "url": "https://posh.vip/e/midnight-glory",
+            "hidden": true
+          },
           {
             "url": "https://19hz.info/eventlisting_LosAngeles.php",
             "hidden": true
@@ -2298,7 +2382,7 @@
         "name": "Koastle",
         "day": "Sat",
         "date": "2026-12-05",
-        "time": "21:00",
+        "time": "9pm",
         "start": "21:00",
         "end": "02:00",
         "area": "Los Angeles",
@@ -2307,7 +2391,7 @@
         "why": "For a late-night live set at a classic LA club.",
         "summary": "Koastle performs live at Los Globos in Los Angeles on December 5, 2026; event is 18+ and doors open at 9pm.",
         "promoter": "",
-        "price": "$22",
+        "price": "Brownies & Lemonade",
         "tags": [
           "live",
           "18+",
@@ -2315,7 +2399,10 @@
           "late-night"
         ],
         "sources": [
-          "https://link.dice.fm/Fb6dd9a26aaf",
+          {
+            "url": "https://link.dice.fm/Fb6dd9a26aaf",
+            "hidden": true
+          },
           {
             "url": "https://19hz.info/eventlisting_LosAngeles.php",
             "hidden": true
@@ -2389,7 +2476,7 @@
         "name": "Omaks",
         "day": "Sat",
         "date": "2026-12-05",
-        "time": "21:00",
+        "time": "9pm-2am",
         "start": "21:00",
         "end": "02:00",
         "area": "Los Angeles",
@@ -2398,14 +2485,17 @@
         "why": "For a late-night outing at a small LA club.",
         "summary": "Omaks is scheduled at 1720 in Los Angeles on 2026-12-05 with a start time of 21:00.",
         "promoter": "",
-        "price": "$13.68-34.93",
+        "price": "Wasted",
         "tags": [
           "nightlife",
           "21+",
           "club"
         ],
         "sources": [
-          "https://wl.eventim.us/event/OMAKS-Los-Angeles-CA/709459?afflky=SteveVerdugo",
+          {
+            "url": "https://wl.eventim.us/event/OMAKS-Los-Angeles-CA/709459?afflky=SteveVerdugo",
+            "hidden": true
+          },
           {
             "url": "https://19hz.info/eventlisting_LosAngeles.php",
             "hidden": true
@@ -2433,7 +2523,7 @@
         "name": "RA UNLOCKED Promoters x 6AM Group (free promoter program)",
         "day": "Sat",
         "date": "2026-12-05",
-        "time": "11:00",
+        "time": "11:00-18:00",
         "start": "11:00",
         "end": "18:00",
         "area": "Los Angeles",
@@ -2481,7 +2571,7 @@
         "name": "Schranz Till I Die: Ksn & Drey",
         "day": "Sat",
         "date": "2026-12-05",
-        "time": "23:45",
+        "time": "11:45pm",
         "start": "23:00",
         "end": "06:00",
         "area": "Los Angeles",
@@ -2497,7 +2587,10 @@
           "techno"
         ],
         "sources": [
-          "https://posh.vip/e/schranz-til-i-die-?t=tt",
+          {
+            "url": "https://posh.vip/e/schranz-til-i-die-?t=tt",
+            "hidden": true
+          },
           "https://ra.co/events/2477620",
           {
             "url": "https://19hz.info/eventlisting_LosAngeles.php",
@@ -2528,11 +2621,11 @@
         "name": "W&W",
         "day": "Sat",
         "date": "2026-12-05",
-        "time": "22:00",
+        "time": "10pm",
         "start": "22:00",
         "end": null,
         "area": "Los Angeles",
-        "venue": "Exchange LA",
+        "venue": "Exchange",
         "address": "",
         "why": "For a late-night DJ headliner and nightclub party atmosphere at Exchange LA.",
         "summary": "W&W performs at Exchange LA on December 5, 2026; the event is scheduled to start at 22:00.",
@@ -2548,7 +2641,8 @@
           {
             "url": "https://19hz.info/eventlisting_LosAngeles.php",
             "hidden": true
-          }
+          },
+          "https://www.ticketweb.com/event/id/14360434"
         ],
         "tickets": [],
         "maps": {
@@ -2558,7 +2652,7 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "https://api.party-scout.app/img/los-angeles/2026-11-30/w-w-5e79.jpg",
+        "image": "https://api.party-scout.app/img/los-angeles/2026-11-30/w-w-f971.jpg",
         "image_generated": true,
         "popularity": 0,
         "enriched": 1,
@@ -2572,7 +2666,7 @@
         "name": "Hypersleep - a deep progressive rooftop day party",
         "day": "Sun",
         "date": "2026-12-06",
-        "time": "15:00",
+        "time": "15:00-21:00",
         "start": "15:00",
         "end": "21:00",
         "area": "Los Angeles",
@@ -2590,7 +2684,10 @@
           "progressive"
         ],
         "sources": [
-          "https://ra.co/events/2572162"
+          {
+            "url": "https://ra.co/events/2572162",
+            "hidden": true
+          }
         ],
         "tickets": [
           "https://ra.co/events/2572162"
@@ -2672,7 +2769,7 @@
         "name": "Masterknob",
         "day": "Sun",
         "date": "2026-12-06",
-        "time": "19:00",
+        "time": "19:00-01:00",
         "start": "19:00",
         "end": "01:00",
         "area": "Los Angeles",
@@ -2904,6 +3001,60 @@
         "popularity": 0,
         "enriched": 1,
         "active": true
+      },
+      {
+        "id": "2026-11-30-music-bodyshop-f4a091",
+        "eid": "bodyshop-1f60",
+        "track": "music",
+        "category": "",
+        "name": "bodyshop",
+        "day": "Fri",
+        "date": "2026-12-04",
+        "time": "23:00-06:00",
+        "start": null,
+        "end": null,
+        "area": "Los Angeles",
+        "venue": "TBA - DTLA",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "50",
+        "tags": [],
+        "sources": [
+          "https://ra.co/events/2583128"
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=Los%20Angeles",
+          "apple": "https://maps.apple.com/?q=Los%20Angeles"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "https://images.ra.co/96e1fccf7c9f7eeca8dc802d176ff4dbff6ea969.jpg",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true,
+        "lineup": [
+          {
+            "name": "Aundreja",
+            "instagram": null
+          },
+          {
+            "name": "FASHION (US)",
+            "instagram": null
+          },
+          {
+            "name": "John Bryars",
+            "instagram": null
+          },
+          {
+            "name": "Katie Rex",
+            "instagram": null
+          }
+        ]
       }
     ],
     "sports": [
@@ -3278,6 +3429,42 @@
         "image_generated": false,
         "popularity": 0,
         "enriched": 1,
+        "active": true
+      },
+      {
+        "id": "2026-11-30-sports-co-ed-pickup-soccer-los-angele-962f29",
+        "eid": "co-ed-pickup-soccer-los-e705",
+        "track": "sports",
+        "category": "",
+        "name": "Co-Ed Pickup Soccer Los Angeles (Downtown/Lincoln Heights)",
+        "day": "Tue",
+        "date": "2026-12-01",
+        "time": "09:50",
+        "start": null,
+        "end": null,
+        "area": "Los Angeles",
+        "venue": "Downey Recreation Center, 1772 N Spring St",
+        "address": "1772 N Spring St, Los Angeles, CA",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "$9.99",
+        "tags": [],
+        "sources": [
+          "https://www.meetup.com/los-angeles-soccer-meetup-group-pezo/events/317384588/"
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=1772%20N%20Spring%20St%2C%20Los%20Angeles%2C%20CA",
+          "apple": "https://maps.apple.com/?q=1772%20N%20Spring%20St%2C%20Los%20Angeles%2C%20CA"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "https://secure.meetupstatic.com/photos/event/2/d/a/9/highres_507971689.jpeg",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
         "active": true
       }
     ]
