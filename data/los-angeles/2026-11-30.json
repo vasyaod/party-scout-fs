@@ -3006,25 +3006,31 @@
         "id": "2026-11-30-music-bodyshop-f4a091",
         "eid": "bodyshop-1f60",
         "track": "music",
-        "category": "",
+        "category": "Nightclub",
         "name": "bodyshop",
         "day": "Fri",
         "date": "2026-12-04",
         "time": "23:00-06:00",
-        "start": null,
-        "end": null,
+        "start": "23:00",
+        "end": "06:00",
         "area": "Los Angeles",
         "venue": "TBA - DTLA",
         "address": "",
-        "why": "",
-        "summary": "",
+        "why": "For an all-night downtown dance party and late hours.",
+        "summary": "bodyshop is a late-night event on December 4, 2026, scheduled for 11:00 PM–6:00 AM in DTLA with the venue listed as TBA.",
         "promoter": "",
         "price": "50",
-        "tags": [],
+        "tags": [
+          "nightclub",
+          "dj",
+          "late-night"
+        ],
         "sources": [
           "https://ra.co/events/2583128"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://ra.co/events/2583128"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Los%20Angeles",
           "apple": "https://maps.apple.com/?q=Los%20Angeles"
@@ -3035,7 +3041,7 @@
         "image": "https://images.ra.co/96e1fccf7c9f7eeca8dc802d176ff4dbff6ea969.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true,
         "lineup": [
           {
@@ -3435,21 +3441,27 @@
         "id": "2026-11-30-sports-co-ed-pickup-soccer-los-angele-962f29",
         "eid": "co-ed-pickup-soccer-los-e705",
         "track": "sports",
-        "category": "",
+        "category": "Sports",
         "name": "Co-Ed Pickup Soccer Los Angeles (Downtown/Lincoln Heights)",
         "day": "Tue",
         "date": "2026-12-01",
         "time": "09:50",
-        "start": null,
-        "end": null,
+        "start": "09:50",
+        "end": "10:50",
         "area": "Los Angeles",
         "venue": "Downey Recreation Center, 1772 N Spring St",
         "address": "1772 N Spring St, Los Angeles, CA",
-        "why": "",
-        "summary": "",
+        "why": "Flexible, social games that fit different schedules and skill levels.",
+        "summary": "Drop-in co-ed pickup soccer games held at Downey Recreation Center with play available seven days a week; formats include 5v5, 8v8 and 11v11 for advanced to beginner levels. Players must be 18+ and should reserve a spot on the Pezo Pickup Soccer app before attending.",
         "promoter": "",
         "price": "$9.99",
-        "tags": [],
+        "tags": [
+          "sports",
+          "outdoor",
+          "pickup",
+          "coed",
+          "18+"
+        ],
         "sources": [
           "https://www.meetup.com/los-angeles-soccer-meetup-group-pezo/events/317384588/"
         ],
@@ -3464,7 +3476,7 @@
         "image": "https://secure.meetupstatic.com/photos/event/2/d/a/9/highres_507971689.jpeg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       }
     ]
