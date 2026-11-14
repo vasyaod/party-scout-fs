@@ -3334,7 +3334,7 @@
         "id": "2026-11-30-music-club-cielo-9d1cdf",
         "eid": "club-cielo-b7ef",
         "track": "music",
-        "category": "",
+        "category": "Nightclub",
         "name": "Club Cielo",
         "day": "Sat",
         "date": "2026-12-05",
@@ -3344,15 +3344,23 @@
         "area": "Los Angeles",
         "venue": "El Cid",
         "address": "4212 Sunset Blvd, Los Angeles, CA 90029",
-        "why": "",
-        "summary": "",
+        "why": "For fans of high-energy Latin and Brazilian dance music spun by club DJs.",
+        "summary": "A late-night party at El Cid on December 5 (10pm–2am) showcasing guaracha, tribal, Latin club and baile funk styles.",
         "promoter": "",
-        "price": "",
-        "tags": [],
+        "price": "free w/rsvp / $10-14",
+        "tags": [
+          "guaracha",
+          "tribal",
+          "latin",
+          "baile-funk",
+          "dj"
+        ],
         "sources": [
           "https://dice.fm/event/6aebb26c3ed19000016a80f6"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://dice.fm/event/6aebb26c3ed19000016a80f6"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=4212%20Sunset%20Blvd%2C%20Los%20Angeles%2C%20CA%2090029",
           "apple": "https://maps.apple.com/?q=4212%20Sunset%20Blvd%2C%20Los%20Angeles%2C%20CA%2090029"
@@ -3363,30 +3371,36 @@
         "image": "https://dice-media.imgix.net/attachments/2026-11-04/e28d69ac-a6c1-4375-8c78-2bd9444f6ed3.jpg?rect=0%2C520%2C1600%2C960",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
         "id": "2026-11-30-music-modi-big-deal-comedy-festival-fa66d2",
         "eid": "modi-big-deal-comedy-fes-a397",
         "track": "music",
-        "category": "",
+        "category": "Festival",
         "name": "Modi: Big Deal Comedy Festival",
         "day": "Sun",
         "date": "2026-12-06",
-        "time": "",
-        "start": null,
+        "time": "7:00 PM",
+        "start": "19:00",
         "end": null,
-        "area": "Los Angeles",
+        "area": "Koreatown",
         "venue": "The Wiltern",
         "address": "",
-        "why": "",
-        "summary": "",
+        "why": "To catch a variety of stand-up acts in a historic theater setting.",
+        "summary": "A comedy festival taking place at The Wiltern in Los Angeles on December 6, 2026.",
         "promoter": "",
         "price": "",
-        "tags": [],
+        "tags": [
+          "comedy",
+          "festival",
+          "live",
+          "indoor"
+        ],
         "sources": [
-          "https://www.ticketmaster.com/modi-big-deal-comedy-festival-los-angeles-california-12-06-2026/event/0900652AE3A9D236"
+          "https://www.ticketmaster.com/modi-big-deal-comedy-festival-los-angeles-california-12-06-2026/event/0900652AE3A9D236",
+          "https://www.rateyourseats.com/tickets/modi-rosenfeld"
         ],
         "tickets": [],
         "maps": {
@@ -3399,7 +3413,7 @@
         "image": "https://api.party-scout.app/img/los-angeles/2026-11-30/modi-big-deal-comedy-fes-a397.jpg",
         "image_generated": true,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       }
     ],
@@ -4166,21 +4180,26 @@
         "id": "2026-11-30-sports-runyon-canyon-half-marathon-9e53c3",
         "eid": "runyon-canyon-half-marat-d0bc",
         "track": "sports",
-        "category": "",
+        "category": "Sports",
         "name": "Runyon Canyon Half Marathon",
         "day": "Sat",
         "date": "2026-12-05",
         "time": "",
         "start": null,
         "end": null,
-        "area": "",
+        "area": "Hollywood",
         "venue": "Runyon Canyon",
         "address": "",
-        "why": "",
-        "summary": "",
+        "why": "For a scenic, trail-based race with iconic city views and outdoor terrain.",
+        "summary": "A half marathon taking place at Runyon Canyon on December 5, 2026.",
         "promoter": "",
         "price": "",
-        "tags": [],
+        "tags": [
+          "running",
+          "outdoor",
+          "race",
+          "fitness"
+        ],
         "sources": [
           "https://gotrail.run/en/event/runyon-canyon-half-marathon"
         ],
@@ -4195,7 +4214,7 @@
         "image": "https://api.party-scout.app/img/los-angeles/2026-11-30/runyon-canyon-half-marat-d0bc.jpg",
         "image_generated": true,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       }
     ]
