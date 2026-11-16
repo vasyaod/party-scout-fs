@@ -2292,7 +2292,7 @@
         "id": "2026-12-07-music-the-hot-chocolate-nutcracker-de00de",
         "eid": "the-hot-chocolate-nutcra-7dcb",
         "track": "music",
-        "category": "",
+        "category": "Theatre",
         "name": "The Hot Chocolate Nutcracker",
         "day": "Sat",
         "date": "2026-12-12",
@@ -2302,18 +2302,29 @@
         "area": "Redondo Beach",
         "venue": "Redondo Beach Performing Arts Center",
         "address": "",
-        "why": "",
-        "summary": "",
+        "why": "A beloved LA holiday tradition that turns the classic ballet into a high-energy, family-friendly dance spectacle.",
+        "summary": "Debbie Allen Dance Academy's holiday retelling of The Nutcracker, set to Tchaikovsky with Duke Ellington's jazz and a mix of hip-hop, ballet, tap and more, at the Redondo Beach Performing Arts Center.",
         "promoter": "",
         "price": "From $54.59",
-        "tags": [],
+        "tags": [
+          "live",
+          "theatre",
+          "matinee",
+          "dance",
+          "holiday",
+          "family",
+          "nutcracker"
+        ],
         "sources": [
           {
             "url": "https://www.eventbrite.com/d/ca--los-angeles/events/",
             "hidden": true
-          }
+          },
+          "https://www.debbieallendanceacademy.com/hcnperformances"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://www.eventbrite.com/d/ca--los-angeles/events/"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Redondo%20Beach%20Performing%20Arts%20Center%2C%20Redondo%20Beach",
           "apple": "https://maps.apple.com/?q=Redondo%20Beach%20Performing%20Arts%20Center%2C%20Redondo%20Beach"
@@ -2324,7 +2335,7 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
@@ -2744,25 +2755,36 @@
         "id": "2026-12-07-music-two-suns-one-star-8ffbfd",
         "eid": "two-suns-one-star-ed71",
         "track": "music",
-        "category": "",
+        "category": "Concert",
         "name": "Two Suns One Star",
         "day": "Sat",
         "date": "2026-12-12",
         "time": "20:00",
-        "start": null,
-        "end": null,
-        "area": "Los Angeles",
+        "start": "20:00",
+        "end": "02:00",
+        "area": "DTLA",
         "venue": "The Redwood Bar And Grill",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "316 W. 2nd Street, Los Angeles, CA  90012",
+        "why": "A late-night live music show at a long-running downtown dive bar, easy to pair with other DTLA stops.",
+        "summary": "Two Suns One Star plays The Redwood Bar And Grill in downtown LA on Saturday night, with doors at 8 PM and a late finish around 2 AM.",
         "promoter": "",
         "price": "",
-        "tags": [],
+        "tags": [
+          "live",
+          "bar",
+          "nightlife",
+          "indoors",
+          "live music",
+          "dive bar",
+          "DTLA",
+          "late night"
+        ],
         "sources": [
           "https://ra.co/events/2564282"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://ra.co/events/2564282"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=The%20Redwood%20Bar%20And%20Grill%2C%20Los%20Angeles",
           "apple": "https://maps.apple.com/?q=The%20Redwood%20Bar%20And%20Grill%2C%20Los%20Angeles"
@@ -2773,32 +2795,40 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
         "id": "2026-12-07-music-vanta-viora-presents-anjunadee-4f247c",
         "eid": "vanta-viora-presents-anj-199f",
         "track": "music",
-        "category": "",
+        "category": "Nightclub",
         "name": "VANTA VIORA presents: Anjunadeep Inspired Christmas Party at the Manor",
         "day": "Sat",
         "date": "2026-12-12",
         "time": "14:00",
-        "start": null,
-        "end": null,
+        "start": "14:00",
+        "end": "22:00",
         "area": "Los Angeles",
         "venue": "TBA - 1240 MORNINGSIDE WAY, VENICE",
         "address": "",
-        "why": "",
-        "summary": "",
+        "why": "For an afternoon of Anjunadeep-style deep/melodic house and festive holiday vibes in Venice.",
+        "summary": "An Anjunadeep-inspired Christmas party presented by VANTA VIORA at the Manor in Venice (1240 Morningside Way) on December 12, 2026 at 14:00.",
         "promoter": "",
         "price": "$20",
-        "tags": [],
+        "tags": [
+          "electronic",
+          "house",
+          "dj",
+          "holiday",
+          "afternoon"
+        ],
         "sources": [
           "https://ra.co/events/2583407"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://ra.co/events/2583407"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Los%20Angeles",
           "apple": "https://maps.apple.com/?q=Los%20Angeles"
@@ -2806,17 +2836,17 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/los-angeles/2026-12-07/vanta-viora-presents-anj-199f.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
         "id": "2026-12-07-music-chrome-sparks-5e4f7b",
         "eid": "chrome-sparks-7a6f",
         "track": "music",
-        "category": "",
+        "category": "Concert",
         "name": "Chrome Sparks",
         "day": "Sun",
         "date": "2026-12-13",
@@ -2826,11 +2856,15 @@
         "area": "Los Angeles",
         "venue": "1200 E Olympic Blvd",
         "address": "",
-        "why": "",
-        "summary": "",
+        "why": "To hear warm, melodic electronic production in a live setting.",
+        "summary": "Chrome Sparks plays at 1200 E Olympic Blvd in Los Angeles on December 13, 2026.",
         "promoter": "",
         "price": "",
-        "tags": [],
+        "tags": [
+          "electronic",
+          "live",
+          "concert"
+        ],
         "sources": [
           "https://edmtrain.com/tours/chrome-sparks-833"
         ],
@@ -2845,28 +2879,34 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
         "id": "2026-12-07-music-dragonforce-inhuman-rampage-20-8dbda6",
         "eid": "dragonforce-inhuman-ramp-5e93",
         "track": "music",
-        "category": "",
+        "category": "Concert",
         "name": "DragonForce: Inhuman Rampage 20th Anniversary",
         "day": "Sun",
         "date": "2026-12-13",
-        "time": "",
+        "time": "6:30 PM",
         "start": null,
         "end": null,
-        "area": "Los Angeles",
+        "area": "Koreatown",
         "venue": "The Wiltern",
         "address": "",
-        "why": "",
-        "summary": "",
+        "why": "Rare chance to hear Inhuman Rampage live in full on its anniversary, with two big European metal acts on the bill.",
+        "summary": "DragonForce celebrate 20 years of Inhuman Rampage, the album behind Through the Fire and Flames, with a full-speed power metal night at the Wiltern. Ensiferum and Rhapsody of Fire support.",
         "promoter": "",
         "price": "",
-        "tags": [],
+        "tags": [
+          "metal",
+          "power-metal",
+          "live",
+          "concert",
+          "anniversary"
+        ],
         "sources": [
           "https://www.ticketmaster.com/dragonforce-inhuman-rampage-20th-anniversary-los-angeles-california-12-13-2026/event/090064B457451F33"
         ],
@@ -2878,10 +2918,10 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/los-angeles/2026-12-07/dragonforce-inhuman-ramp-5e93.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
@@ -3293,21 +3333,27 @@
         "id": "2026-12-07-sports-gamers-get-gains-group-workout-d970f5",
         "eid": "gamers-get-gains-group-w-5014",
         "track": "sports",
-        "category": "",
+        "category": "Sports",
         "name": "Gamers Get GAINS (Group Workout)",
         "day": "Sun",
         "date": "2026-12-13",
         "time": "19:00",
-        "start": null,
-        "end": null,
+        "start": "19:00",
+        "end": "21:00",
         "area": "Los Angeles",
         "venue": "226 N Lake St, 226 N Lake St",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "226 N Lake St, Los Angeles, CA",
+        "why": "For a social, playful workout with guided modifications and a rooftop cooldown.",
+        "summary": "A free, gamified group workout on the rooftop at 226 N Lake St where participants draw two cards from each of three decks (upper body, lower body, cardio) to determine beginner-friendly exercises; meeting at 7:00pm with a 10-participant RSVP limit.",
         "promoter": "",
-        "price": "",
-        "tags": [],
+        "price": "Free",
+        "tags": [
+          "fitness",
+          "free",
+          "rooftop",
+          "beginner",
+          "social"
+        ],
         "sources": [
           "https://www.meetup.com/aflockofgamers/events/316576204/"
         ],
@@ -3319,10 +3365,10 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/los-angeles/2026-12-07/gamers-get-gains-group-w-5014.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       }
     ]
