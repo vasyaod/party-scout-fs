@@ -1186,7 +1186,7 @@
         "id": "2026-12-07-music-the-fretliners-316a15",
         "eid": "the-fretliners-2e27",
         "track": "music",
-        "category": "",
+        "category": "Concert",
         "name": "The Fretliners",
         "day": "Thu",
         "date": "2026-12-10",
@@ -1196,11 +1196,14 @@
         "area": "Berkeley",
         "venue": "The Freight",
         "address": "",
-        "why": "",
-        "summary": "",
+        "why": "Catch a live evening show in the intimate Freight venue.",
+        "summary": "The Fretliners perform at The Freight in San Francisco on December 10, 2026, at 8:00 PM.",
         "promoter": "",
         "price": "",
-        "tags": [],
+        "tags": [
+          "live",
+          "indoor"
+        ],
         "sources": [
           "https://dothebay.com/events/2026/12/10/the-fretliners-tickets"
         ],
@@ -1215,7 +1218,7 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
@@ -1308,25 +1311,32 @@
         "id": "2026-12-07-music-the-wooten-brothers-4ede74",
         "eid": "the-wooten-brothers-28d1",
         "track": "music",
-        "category": "",
+        "category": "Concert",
         "name": "The Wooten Brothers",
         "day": "Thu",
         "date": "2026-12-10",
         "time": "19:00",
         "start": null,
         "end": null,
-        "area": " Berkeley",
+        "area": "Berkeley",
         "venue": "The UC Theatre",
         "address": "",
-        "why": "",
-        "summary": "",
+        "why": "To catch a live, in-person music performance at a seated theater.",
+        "summary": "The Wooten Brothers perform at The UC Theatre on December 10, 2026, at 7:00 PM.",
         "promoter": "",
-        "price": "",
-        "tags": [],
-        "sources": [
-          "https://dothebay.com/events/2026/12/10/the-wooten-brothers-tickets"
+        "price": "$35",
+        "tags": [
+          "live",
+          "concert",
+          "band"
         ],
-        "tickets": [],
+        "sources": [
+          "https://dothebay.com/events/2026/12/10/the-wooten-brothers-tickets",
+          "https://www.theuctheatre.org/shows/victor-wooten-10-dec"
+        ],
+        "tickets": [
+          "https://www.theuctheatre.org/shows/victor-wooten-10-dec"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=The%20UC%20Theatre%2C%20%20Berkeley",
           "apple": "https://maps.apple.com/?q=The%20UC%20Theatre%2C%20%20Berkeley"
@@ -1334,31 +1344,37 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/san-francisco/2026-12-07/the-wooten-brothers-28d1.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
         "id": "2026-12-07-music-1-drink-fridays-battle-of-the-7ed691",
         "eid": "1-drink-fridays-battle-o-4501",
         "track": "music",
-        "category": "",
+        "category": "Nightclub",
         "name": "$1 Drink Fridays: “Battle of the Decades” DJ Party (North Beach)",
         "day": "Fri",
         "date": "2026-12-11",
         "time": "17:00",
-        "start": null,
-        "end": null,
+        "start": "17:00",
+        "end": "23:00",
         "area": "San Francisco",
         "venue": "Monroe",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "473 Broadway Street, San Francisco, CA",
+        "why": "Very cheap, decade-themed drinks during early hours plus DJs across multiple rooms and an outdoor patio.",
+        "summary": "A weekly Friday DJ party at Monroe in North Beach with a live DJ, two rooms and an outdoor patio. Happy-hour drink pricing cycles by decade ($1 drinks 5–6pm for ’60s, $2 6–7pm for ’70s, $3 7–8pm for ’80s, etc.), and entry is free with an Eventbrite RSVP.",
         "promoter": "",
         "price": "FREE*",
-        "tags": [],
+        "tags": [
+          "dj",
+          "live",
+          "free",
+          "outdoor",
+          "happy-hour"
+        ],
         "sources": [
           "https://sf.funcheap.com/1-drink-fridays-battle-of-the-decades-dj-party-north-beach-267/"
         ],
@@ -1370,38 +1386,44 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/san-francisco/2026-12-07/1-drink-fridays-battle-o-4501.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
         "id": "2026-12-07-music-a-club-called-rhonda-drama-dj-fbb11d",
         "eid": "a-club-called-rhonda-dra-0cf9",
         "track": "music",
-        "category": "",
+        "category": "Nightclub",
         "name": "A Club Called Rhonda - Drama (DJ Set)",
         "day": "Fri",
         "date": "2026-12-11",
         "time": "21:00",
-        "start": null,
-        "end": null,
+        "start": "21:00",
+        "end": "02:00",
         "area": "San Francisco",
         "venue": "The Great Northern (San Francisco)",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "119 Utah St, San Francisco, CA 94103",
+        "why": "For a late-night, dancefloor-focused DJ set in a club setting.",
+        "summary": "A Club Called Rhonda presents Drama (DJ set) at The Great Northern in San Francisco on 2026-12-11 at 9:00 PM.",
         "promoter": "",
         "price": "$23.00 - $43.00",
-        "tags": [],
+        "tags": [
+          "dj",
+          "dance",
+          "nightclub"
+        ],
         "sources": [
           {
             "url": "https://ra.co/events/2577731",
             "hidden": true
           }
         ],
-        "tickets": [],
+        "tickets": [
+          "https://ra.co/events/2577731"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=The%20Great%20Northern%20%28San%20Francisco%29%2C%20San%20Francisco",
           "apple": "https://maps.apple.com/?q=The%20Great%20Northern%20%28San%20Francisco%29%2C%20San%20Francisco"
@@ -1410,16 +1432,16 @@
         "coords_precise": false,
         "ra": {},
         "image": "https://api.party-scout.app/img/san-francisco/2026-12-07/a-club-called-rhonda-dra-0cf9.jpg",
-        "image_generated": true,
+        "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
         "id": "2026-12-07-music-andre-nickatina-c3c267",
         "eid": "andre-nickatina-7026",
         "track": "music",
-        "category": "",
+        "category": "Concert",
         "name": "Andre Nickatina",
         "day": "Fri",
         "date": "2026-12-11",
@@ -1429,11 +1451,15 @@
         "area": "San Francisco",
         "venue": "Bottom Of The Hill",
         "address": "",
-        "why": "",
-        "summary": "",
+        "why": "Experience Bay Area hip-hop up close in an intimate live-music club.",
+        "summary": "Andre Nickatina plays Bottom Of The Hill in San Francisco on December 11, 2026 at 8:00 PM.",
         "promoter": "",
-        "price": "",
-        "tags": [],
+        "price": "$50-$60",
+        "tags": [
+          "hip-hop",
+          "live",
+          "club"
+        ],
         "sources": [
           "https://dothebay.com/events/2026/12/11/andre-nickatina-tickets"
         ],
@@ -1448,7 +1474,7 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
