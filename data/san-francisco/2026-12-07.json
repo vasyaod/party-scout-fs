@@ -1529,7 +1529,7 @@
         "id": "2026-12-07-music-the-bobby-lees-8b1a21",
         "eid": "the-bobby-lees-f91d",
         "track": "music",
-        "category": "",
+        "category": "Concert",
         "name": "The Bobby Lees",
         "day": "Fri",
         "date": "2026-12-11",
@@ -1539,11 +1539,16 @@
         "area": "San Francisco",
         "venue": "The Independent",
         "address": "",
-        "why": "",
-        "summary": "",
+        "why": "Hear gritty, high-energy garage-rock live at a classic SF venue.",
+        "summary": "The Bobby Lees perform at The Independent in San Francisco on December 11, 2026; the show is scheduled to start at 9:00 PM.",
         "promoter": "",
         "price": "",
-        "tags": [],
+        "tags": [
+          "rock",
+          "garage",
+          "indie",
+          "live"
+        ],
         "sources": [
           "https://dothebay.com/events/2026/12/11/the-bobby-lees-tickets"
         ],
@@ -1558,7 +1563,7 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
@@ -1811,28 +1816,37 @@
         "id": "2026-12-07-music-malone-morez-andres-rumorous-6b261e",
         "eid": "malone-morez-andres-rumo-bef6",
         "track": "music",
-        "category": "",
+        "category": "Nightclub",
         "name": "Malone Morez, Andres, Rumorous",
         "day": "Fri",
         "date": "2026-12-11",
         "time": "22:00",
-        "start": null,
-        "end": null,
+        "start": "22:00",
+        "end": "04:00",
         "area": "San Francisco",
         "venue": "Halcyon (San Francisco)",
         "address": "314 11th St, San Francisco, California, 94103",
-        "why": "",
-        "summary": "",
+        "why": "For a late-night dose of fresh techno and new club music with energetic support.",
+        "summary": "Malone Morez returns to Halcyon with a fresh take on tech and new music, supported by Andres and Rumorous on December 11, 2026 at 22:00.",
         "promoter": "",
         "price": "20",
-        "tags": [],
+        "tags": [
+          "techno",
+          "dj",
+          "dance",
+          "nightlife"
+        ],
         "sources": [
           "https://dice.fm/event/6ad24fa17139940001b2ecf9",
           "https://edmtrain.com/tours/malone-morez-13754",
           "https://link.dice.fm/l27af08ab022?pid=d6c08999",
           "https://ra.co/events/2571290"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://dice.fm/event/6ad24fa17139940001b2ecf9",
+          "https://link.dice.fm/l27af08ab022?pid=d6c08999",
+          "https://ra.co/events/2571290"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=314%2011th%20St%2C%20San%20Francisco%2C%20California%2C%2094103",
           "apple": "https://maps.apple.com/?q=314%2011th%20St%2C%20San%20Francisco%2C%20California%2C%2094103"
@@ -1843,7 +1857,7 @@
         "image": "https://images.ra.co/09ec5a8c7b33c83815afe4d9a0c03a1e5eddf0ee.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true,
         "lineup": [
           {
@@ -1856,7 +1870,7 @@
         "id": "2026-12-07-music-olivia-rodrigo-255499",
         "eid": "olivia-rodrigo-9f8c",
         "track": "music",
-        "category": "",
+        "category": "Concert",
         "name": "Olivia Rodrigo",
         "day": "Fri",
         "date": "2026-12-11",
@@ -1866,11 +1880,16 @@
         "area": "Oakland",
         "venue": "Oakland Arena",
         "address": "",
-        "why": "",
-        "summary": "",
+        "why": "To hear chart-topping pop songs performed live in an arena setting.",
+        "summary": "Olivia Rodrigo performs at Oakland Arena on 2026-12-11 at 19:00.",
         "promoter": "",
         "price": "",
-        "tags": [],
+        "tags": [
+          "pop",
+          "live",
+          "arena",
+          "ticketed"
+        ],
         "sources": [
           "https://dothebay.com/events/2026/12/11/olivia-rodrigo-the-unraveled-tour-featuring-devon-again-tickets"
         ],
@@ -1885,28 +1904,33 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
         "id": "2026-12-07-music-panic-at-the-rave-ketamine-pri-edefef",
         "eid": "panic-at-the-rave-ketami-b10c",
         "track": "music",
-        "category": "",
+        "category": "Nightclub",
         "name": "Panic! at the Rave: Ketamine Princess, Mysteriouswolfgyal, Alleyeowl, GemstoneBullets, Estellita",
         "day": "Fri",
         "date": "2026-12-11",
         "time": "22:00",
-        "start": null,
+        "start": "22:00",
         "end": null,
         "area": "San Francisco",
         "venue": "3rd & Army (San Francisco)",
         "address": "",
-        "why": "",
-        "summary": "",
+        "why": "For a late-night raver vibe with multiple acts on one bill.",
+        "summary": "Panic! at the Rave on 2026-12-11 at 3rd & Army in San Francisco, starting at 22:00, featuring Ketamine Princess, Mysteriouswolfgyal, Alleyeowl, GemstoneBullets, and Estellita.",
         "promoter": "",
         "price": "$10",
-        "tags": [],
+        "tags": [
+          "rave",
+          "dj",
+          "live",
+          "21+"
+        ],
         "sources": [
           "https://www.instagram.com/peace._.treaty/p/DfijfZsBktR/"
         ],
@@ -1918,37 +1942,45 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/san-francisco/2026-12-07/panic-at-the-rave-ketami-b10c.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
         "id": "2026-12-07-music-planet-synth-holiday-soiree-am-f441cc",
         "eid": "planet-synth-holiday-soi-0bed",
         "track": "music",
-        "category": "",
+        "category": "Nightclub",
         "name": "Planet Synth Holiday Soiree: Amatric, DJ Cira, Evbot, and Lord of the Rats",
         "day": "Fri",
         "date": "2026-12-11",
         "time": "22:00",
-        "start": null,
-        "end": null,
+        "start": "22:00",
+        "end": "02:00",
         "area": "San Francisco",
         "venue": "Monarch Lounge (San Francisco)",
         "address": "101 6th St, San Francisco, CA 94103",
-        "why": "",
-        "summary": "",
+        "why": "For a festive late-night party at an intimate downtown club.",
+        "summary": "Planet Synth Collective is hosting a holiday soirée at Monarch Lounge in San Francisco on December 11, 2026 at 10:00 PM.",
         "promoter": "",
         "price": "free",
-        "tags": [],
+        "tags": [
+          "electronic",
+          "dj",
+          "holiday",
+          "indoor"
+        ],
         "sources": [
           "https://www.eventbrite.com/e/planet-synth-holiday-soiree-tickets-2004085665173",
           "https://edmtrain.com/san-francisco-ca/planet-synth-549077",
           "https://ra.co/events/2572905"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://www.eventbrite.com/e/planet-synth-holiday-soiree-tickets-2004085665173",
+          "https://ra.co/events/2572905"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=101%206th%20St%2C%20San%20Francisco%2C%20CA%2094103",
           "apple": "https://maps.apple.com/?q=101%206th%20St%2C%20San%20Francisco%2C%20CA%2094103"
@@ -1959,28 +1991,32 @@
         "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1196875682%2F2342731624493%2F1%2Foriginal.20261029-181208?crop=focalpoint&fit=crop&w=940&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=e5726cdfa6276a199f840109b23c46f3",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
         "id": "2026-12-07-music-snakepit-live-w-viperactive-93e2e5",
         "eid": "snakepit-live-w-viperact-75d3",
         "track": "music",
-        "category": "",
+        "category": "Nightclub",
         "name": "Snakepit Live w/ Viperactive",
         "day": "Fri",
         "date": "2026-12-11",
         "time": "22:00",
-        "start": null,
-        "end": null,
+        "start": "22:00",
+        "end": "02:00",
         "area": "San Francisco",
         "venue": "1015 Folsom (San Francisco)",
         "address": "1015 Folsom Street; San Francisco, CA 94103; United States",
-        "why": "",
-        "summary": "",
+        "why": "For late-night live club energy at a central SoMa venue.",
+        "summary": "Snakepit Live w/ Viperactive is scheduled at 1015 Folsom in SoMa on December 11, 2026, with a 22:00 start time.",
         "promoter": "",
         "price": "$23+",
-        "tags": [],
+        "tags": [
+          "live",
+          "21+",
+          "nightclub"
+        ],
         "sources": [
           "https://posh.vip/e/mach8-presents-snakepit-live-with-viperactive",
           "https://edmtrain.com/san-francisco-ca/mach8-presents-snakepit-live-with-viperactive-viperactive-547487",
@@ -1988,7 +2024,9 @@
           "https://ra.co/events/2577551",
           "https://dothebay.com/events/2026/12/11/viperactive-snakepit-live-tickets"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://ra.co/events/2577551"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=1015%20Folsom%20%28San%20Francisco%29%2C%20San%20Francisco",
           "apple": "https://maps.apple.com/?q=1015%20Folsom%20%28San%20Francisco%29%2C%20San%20Francisco"
@@ -1997,36 +2035,44 @@
         "coords_precise": false,
         "ra": {},
         "image": "https://api.party-scout.app/img/san-francisco/2026-12-07/snakepit-live-w-viperact-75d3.jpg",
-        "image_generated": true,
+        "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
         "id": "2026-12-07-music-soul-of-hex-1f4f52",
         "eid": "soul-of-hex-2c2e",
         "track": "music",
-        "category": "",
+        "category": "Nightclub",
         "name": "Soul Of Hex",
         "day": "Fri",
         "date": "2026-12-11",
         "time": "21:00",
-        "start": null,
-        "end": null,
+        "start": "21:00",
+        "end": "03:00",
         "area": "San Francisco",
         "venue": "Public Works Loft (San Francisco)",
         "address": "161 Erie Street, San Francisco, CA 94103, United States",
-        "why": "",
-        "summary": "",
+        "why": "Go for a late-night dance party in an intimate SoMa club space.",
+        "summary": "Soul Of Hex is happening at Public Works Loft in San Francisco on December 11, 2026, starting at 9:00 PM.",
         "promoter": "",
         "price": "$25",
-        "tags": [],
+        "tags": [
+          "dj",
+          "club",
+          "21+",
+          "dance"
+        ],
         "sources": [
           "https://www.tixr.com/groups/publicsf/events/soul-of-hex-presented-by-public-works-course-correction-214212",
           "https://edmtrain.com/san-francisco-ca/soul-of-hex-carson-kroll-552046",
           "https://ra.co/events/2581039"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://www.tixr.com/groups/publicsf/events/soul-of-hex-presented-by-public-works-course-correction-214212",
+          "https://ra.co/events/2581039"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=161%20Erie%20Street%2C%20San%20Francisco%2C%20CA%2094103%2C%20United%20States",
           "apple": "https://maps.apple.com/?q=161%20Erie%20Street%2C%20San%20Francisco%2C%20CA%2094103%2C%20United%20States"
@@ -2037,7 +2083,7 @@
         "image": "https://images.ra.co/9aa3d831bc26851e81421ca0a92c9e50a0590392.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true,
         "lineup": [
           {
@@ -2050,26 +2096,34 @@
         "id": "2026-12-07-music-svdden-death-f70656",
         "eid": "svdden-death-69cf",
         "track": "music",
-        "category": "",
+        "category": "Nightclub",
         "name": "Svdden Death",
         "day": "Fri",
         "date": "2026-12-11",
         "time": "21:00",
-        "start": null,
-        "end": null,
+        "start": "21:00",
+        "end": "03:00",
         "area": "San Francisco",
         "venue": "888 Garage (San Francisco)",
         "address": "",
-        "why": "",
-        "summary": "",
+        "why": "For heavy bass, intense dubstep energy, and a late-night club vibe.",
+        "summary": "Svdden Death performs at 888 Garage in San Francisco on December 11, 2026 at 9:00 PM.",
         "promoter": "",
         "price": "$52-62",
-        "tags": [],
+        "tags": [
+          "dubstep",
+          "bass",
+          "electronic",
+          "dj",
+          "club"
+        ],
         "sources": [
           "https://www.tixr.com/groups/midwaysf/events/svdden-death-888-garage-212812",
           "https://edmtrain.com/tours/svdden-death-7694"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://www.tixr.com/groups/midwaysf/events/svdden-death-888-garage-212812"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=888%20Garage%20%28San%20Francisco%29%2C%20San%20Francisco",
           "apple": "https://maps.apple.com/?q=888%20Garage%20%28San%20Francisco%29%2C%20San%20Francisco"
@@ -2080,7 +2134,7 @@
         "image": "https://api.party-scout.app/img/san-francisco/2026-12-07/svdden-death-69cf.jpg",
         "image_generated": true,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
