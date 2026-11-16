@@ -894,23 +894,28 @@
         "id": "2026-12-07-music-the-jayhawks-0c4aed",
         "eid": "the-jayhawks-e753",
         "track": "music",
-        "category": "",
+        "category": "Concert",
         "name": "The Jayhawks",
         "day": "Wed",
         "date": "2026-12-09",
         "time": "20:00",
         "start": null,
         "end": null,
-        "area": "San Francisco",
+        "area": "Western Addition",
         "venue": "The Fillmore",
         "address": "",
-        "why": "",
-        "summary": "",
+        "why": "For a live evening of band-driven music at the historic Fillmore.",
+        "summary": "The Jayhawks play The Fillmore in San Francisco on December 9, 2026 at 8:00 PM.",
         "promoter": "",
         "price": "",
-        "tags": [],
+        "tags": [
+          "live",
+          "band",
+          "indoor"
+        ],
         "sources": [
-          "https://dothebay.com/events/2026/12/9/sanctuary-park-tour-celebrating-40-years-of-the-jayhawks-tickets"
+          "https://dothebay.com/events/2026/12/9/sanctuary-park-tour-celebrating-40-years-of-the-jayhawks-tickets",
+          "https://thefillmore.com/"
         ],
         "tickets": [],
         "maps": {
@@ -920,10 +925,10 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/san-francisco/2026-12-07/the-jayhawks-e753.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
@@ -971,21 +976,24 @@
         "id": "2026-12-07-music-the-pineapple-thief-58a16a",
         "eid": "the-pineapple-thief-b230",
         "track": "music",
-        "category": "",
+        "category": "Concert",
         "name": "The Pineapple Thief",
         "day": "Wed",
         "date": "2026-12-09",
         "time": "20:00",
         "start": null,
         "end": null,
-        "area": "San Francisco",
+        "area": "SF",
         "venue": "August Hall",
         "address": "",
-        "why": "",
-        "summary": "",
+        "why": "For an immersive evening of emotive, guitar-driven progressive rock in an intimate music-hall setting.",
+        "summary": "The Pineapple Thief plays August Hall in San Francisco on 2026-12-09 at 20:00.",
         "promoter": "",
         "price": "",
-        "tags": [],
+        "tags": [
+          "progressive-rock",
+          "live"
+        ],
         "sources": [
           "https://dothebay.com/events/2026/12/9/the-pineapple-thief-tickets"
         ],
@@ -1000,32 +1008,39 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
         "id": "2026-12-07-music-the-strike-c8e1d9",
         "eid": "the-strike-3c46",
         "track": "music",
-        "category": "",
+        "category": "Concert",
         "name": "The Strike",
         "day": "Wed",
         "date": "2026-12-09",
         "time": "20:00",
         "start": null,
         "end": null,
-        "area": "San Francisco",
+        "area": "Nob Hill",
         "venue": "Great American Music Hall",
         "address": "",
-        "why": "",
-        "summary": "",
+        "why": "For live music at an intimate, historic San Francisco venue.",
+        "summary": "A show titled The Strike at Great American Music Hall in San Francisco on 2026-12-09, starting at 8:00 PM.",
         "promoter": "",
-        "price": "",
-        "tags": [],
-        "sources": [
-          "https://dothebay.com/events/2026/12/9/the-strike-tickets"
+        "price": "28.00",
+        "tags": [
+          "live",
+          "music",
+          "indoor"
         ],
-        "tickets": [],
+        "sources": [
+          "https://dothebay.com/events/2026/12/9/the-strike-tickets",
+          "https://wl.seetickets.us/event/the-strike/704262"
+        ],
+        "tickets": [
+          "https://wl.seetickets.us/event/the-strike/704262?afflky=GreatAmericanMusicHall"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Great%20American%20Music%20Hall%2C%20San%20Francisco",
           "apple": "https://maps.apple.com/?q=Great%20American%20Music%20Hall%2C%20San%20Francisco"
@@ -1033,17 +1048,17 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/san-francisco/2026-12-07/the-strike-3c46.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
         "id": "2026-12-07-music-system-exclusive-record-releas-16da9f",
         "eid": "system-exclusive-record-6299",
         "track": "music",
-        "category": "",
+        "category": "Concert",
         "name": "System Exclusive (Record Release), Squiggle and Julian Never",
         "day": "Wed",
         "date": "2026-12-09",
@@ -1053,11 +1068,16 @@
         "area": "San Francisco",
         "venue": "Kilowatt",
         "address": "",
-        "why": "",
-        "summary": "",
+        "why": "Catch new material and celebrate a release in an intimate club setting.",
+        "summary": "Record release show at Kilowatt on December 9, 2026 at 7:00 PM featuring Squiggle and Julian Never.",
         "promoter": "",
-        "price": "",
-        "tags": [],
+        "price": "Free",
+        "tags": [
+          "live",
+          "record-release",
+          "indie",
+          "nightclub"
+        ],
         "sources": [
           "https://dothebay.com/events/2026/12/9/system-exclusive-record-release-squiggle-and-julian-never-tickets"
         ],
@@ -1069,31 +1089,36 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/san-francisco/2026-12-07/system-exclusive-record-6299.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
         "id": "2026-12-07-music-damopendecks-31e7d5",
         "eid": "damopendecks-7e9a",
         "track": "music",
-        "category": "",
+        "category": "Nightclub",
         "name": "DAMopendecks",
         "day": "Thu",
         "date": "2026-12-10",
         "time": "19:00",
-        "start": null,
-        "end": null,
+        "start": "19:00",
+        "end": "23:00",
         "area": "Oakland",
         "venue": "7th West (Oakland)",
         "address": "",
-        "why": "",
-        "summary": "",
+        "why": "Try out DJ sets or live material in an open, creative community setting and meet local performers.",
+        "summary": "OpenDecks and OpenMic for creatives at 7th West in Oakland, held every 2nd Thursday from 7–11 PM; this session is on December 10, 2026 at 7:00 PM.",
         "promoter": "",
         "price": "$5 suggested donation",
-        "tags": [],
+        "tags": [
+          "open-mic",
+          "dj",
+          "live",
+          "community"
+        ],
         "sources": [
           {
             "url": "https://thedamevent.com/damopendecks",
@@ -1108,17 +1133,17 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/san-francisco/2026-12-07/damopendecks-7e9a.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
         "id": "2026-12-07-music-feeble-little-horse-381c5a",
         "eid": "feeble-little-horse-a4ec",
         "track": "music",
-        "category": "",
+        "category": "Concert",
         "name": "Feeble Little Horse",
         "day": "Thu",
         "date": "2026-12-10",
@@ -1128,11 +1153,15 @@
         "area": "San Francisco",
         "venue": "The Independent",
         "address": "",
-        "why": "",
-        "summary": "",
+        "why": "For a live indie-rock show at a well-known San Francisco music venue.",
+        "summary": "Feeble Little Horse performs at The Independent on December 10, 2026 at 8:00 PM.",
         "promoter": "",
         "price": "",
-        "tags": [],
+        "tags": [
+          "indie",
+          "rock",
+          "live"
+        ],
         "sources": [
           "https://dothebay.com/events/2026/12/10/feeble-little-horse-with-mop-tickets"
         ],
@@ -1147,7 +1176,7 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
