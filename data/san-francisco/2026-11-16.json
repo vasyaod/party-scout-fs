@@ -9592,25 +9592,32 @@
         "id": "2026-11-16-music-the-beatles-sgt-pepper-s-lonel-6c8e65",
         "eid": "the-beatles-sgt-pepper-s-2b1b",
         "track": "music",
-        "category": "",
+        "category": "Concert",
         "name": "The Beatles - Sgt. Pepper'S Lonely Hearts Club Band",
         "day": "Sat",
         "date": "2026-11-21",
         "time": "11:30",
-        "start": null,
-        "end": null,
+        "start": "11:30",
+        "end": "12:45",
         "area": "San Francisco",
         "venue": "The Midway",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "900 Marin Street, San Francisco, CA 94124",
+        "why": "To hear the album surrounded by a multi-speaker sound system that envelops the room.",
+        "summary": "An immersive audio presentation of The Beatles’ Sgt. Pepper's Lonely Hearts Club Band using a 32-speaker setup at The Midway on November 21, 2026 at 11:30; tickets start at $27.",
         "promoter": "",
-        "price": "",
-        "tags": [],
+        "price": "$27",
+        "tags": [
+          "rock",
+          "immersive",
+          "audio",
+          "ticketed"
+        ],
         "sources": [
           "https://www.eventbrite.com/e/the-beatles-sgt-peppers-lonely-hearts-club-band-listen-1130am-tickets-2004180871939?utm_source=themidway&utm_medium=venuewebsite"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://www.eventbrite.com/e/the-beatles-sgt-peppers-lonely-hearts-club-band-listen-1130am-tickets-2004180871939?utm_source=themidway&utm_medium=venuewebsite"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=The%20Midway%2C%20San%20Francisco",
           "apple": "https://maps.apple.com/?q=The%20Midway%2C%20San%20Francisco"
@@ -9618,10 +9625,10 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/san-francisco/2026-11-16/the-beatles-sgt-pepper-s-2b1b.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
@@ -9760,23 +9767,30 @@
         "id": "2026-11-16-music-d-sturb-na-ty-duo-assidious-br-501c80",
         "eid": "d-sturb-na-ty-duo-assidi-0c03",
         "track": "music",
-        "category": "",
+        "category": "Nightclub",
         "name": "D-Sturb, Na$ty Duo, Assidious, BRTO, Loko, Frijol, Tech9",
         "day": "Sat",
         "date": "2026-11-21",
         "time": "21:00",
-        "start": null,
-        "end": null,
+        "start": "21:00",
+        "end": "02:00",
         "area": "Oakland",
         "venue": "Continental Club",
         "address": "",
-        "why": "",
-        "summary": "",
+        "why": "To catch a dense lineup of acts in one night at a local club.",
+        "summary": "An evening at Continental Club on 2026-11-21 featuring D-Sturb, Na$ty Duo, Assidious, BRTO, Loko, Frijol, and Tech9, starting at 21:00.",
         "promoter": "",
         "price": "$19.25-35.75",
-        "tags": [],
+        "tags": [
+          "dj",
+          "live",
+          "club"
+        ],
         "sources": [
-          "https://oaklandcontinentalclub.com/cc_events/hard-havoc-d-sturb-nov-21-oakland/"
+          {
+            "url": "https://oaklandcontinentalclub.com/cc_events/hard-havoc-d-sturb-nov-21-oakland/",
+            "hidden": true
+          }
         ],
         "tickets": [],
         "maps": {
@@ -9786,31 +9800,36 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/san-francisco/2026-11-16/d-sturb-na-ty-duo-assidi-0c03.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
         "id": "2026-11-16-music-thriller-social-club-84eef3",
         "eid": "thriller-social-club-e32e",
         "track": "music",
-        "category": "",
+        "category": "Nightclub",
         "name": "Thriller Social Club",
         "day": "Sat",
         "date": "2026-11-21",
         "time": "21:30",
-        "start": null,
-        "end": null,
+        "start": "21:30",
+        "end": "01:00",
         "area": "San Francisco",
         "venue": "508 4th St",
         "address": "",
-        "why": "",
-        "summary": "",
+        "why": "A late-night club outing in central San Francisco.",
+        "summary": "Thriller Social Club takes place at 508 4th St in San Francisco on 2026-11-21, with a start time of 21:30.",
         "promoter": "",
         "price": "free",
-        "tags": [],
+        "tags": [
+          "nightlife",
+          "club",
+          "late-night",
+          "indoor"
+        ],
         "sources": [
           "https://www.facebook.com/events/1561243199154962/"
         ],
@@ -9825,32 +9844,37 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
         "id": "2026-11-16-music-verygoodplus-42b073",
         "eid": "verygoodplus-efe4",
         "track": "music",
-        "category": "",
+        "category": "Nightclub",
         "name": "VeryGoodPlus",
         "day": "Sat",
         "date": "2026-11-21",
         "time": "21:00",
-        "start": null,
-        "end": null,
+        "start": "21:00",
+        "end": "02:00",
         "area": "San Francisco",
         "venue": "Club Waziema",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "543 Divisadero St, San Francisco, CA 94117",
+        "why": "Free entry at a local club makes for an easy late-night outing.",
+        "summary": "VeryGoodPlus is a free event at Club Waziema (543 Divisadero St, San Francisco) on 2026-11-21, starting at 9:00 PM.",
         "promoter": "",
-        "price": "",
-        "tags": [],
+        "price": "Free",
+        "tags": [
+          "free",
+          "club"
+        ],
         "sources": [
           "https://ra.co/events/2584589"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://ra.co/events/2584589"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Club%20Waziema%2C%20San%20Francisco",
           "apple": "https://maps.apple.com/?q=Club%20Waziema%2C%20San%20Francisco"
@@ -9858,38 +9882,45 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/san-francisco/2026-11-16/verygoodplus-efe4.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
         "id": "2026-11-16-music-yuca-frita-boyprincess-dj-juan-0b0e81",
         "eid": "yuca-frita-boyprincess-d-87f0",
         "track": "music",
-        "category": "",
+        "category": "Concert",
         "name": "Yuca Frita, Boyprincess, DJ Juanny, Javi",
         "day": "Sat",
         "date": "2026-11-21",
         "time": "21:00",
-        "start": null,
-        "end": null,
+        "start": "21:00",
+        "end": "03:00",
         "area": "San Francisco",
         "venue": "TBA",
         "address": "",
-        "why": "",
-        "summary": "",
+        "why": "For a late-night mix of live sets and DJ-driven dance music.",
+        "summary": "Yuca Frita, Boyprincess, DJ Juanny and Javi perform in San Francisco on November 21, 2026 at 9:00 PM at a venue to be announced.",
         "promoter": "",
         "price": "$11.30-28.25",
-        "tags": [],
+        "tags": [
+          "live",
+          "dj",
+          "indie",
+          "nightlife"
+        ],
         "sources": [
           {
             "url": "https://ra.co/events/2577509",
             "hidden": true
           }
         ],
-        "tickets": [],
+        "tickets": [
+          "https://ra.co/events/2577509"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=San%20Francisco",
           "apple": "https://maps.apple.com/?q=San%20Francisco"
@@ -9897,35 +9928,42 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/san-francisco/2026-11-16/yuca-frita-boyprincess-d-87f0.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
         "id": "2026-11-16-music-event-274599",
         "eid": "event-4aaf",
         "track": "music",
-        "category": "",
+        "category": "Nightclub",
         "name": "𝑮𝑰𝑹𝑳 𝑫𝑨𝑵𝑪𝑬 𝑾𝒊𝒏𝒕𝒆𝒓 𝑩𝒂𝒍𝒍",
         "day": "Sat",
         "date": "2026-11-21",
         "time": "22:00",
-        "start": null,
-        "end": null,
+        "start": "22:00",
+        "end": "02:00",
         "area": "San Francisco",
         "venue": "White Horse Inn",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "6551 Telegraph Ave, Oakland, CA 94609",
+        "why": "For a late-night themed dance party at a neighborhood bar with an affordable cover.",
+        "summary": "A winter-ball dance night at White Horse Inn (6551 Telegraph Ave) in Oakland on November 21, 2026, starting at 10:00 PM with a $10–$15 cover.",
         "promoter": "",
-        "price": "",
-        "tags": [],
+        "price": "$10–$15",
+        "tags": [
+          "dance",
+          "ball",
+          "late-night",
+          "cover"
+        ],
         "sources": [
           "https://ra.co/events/2584426"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://ra.co/events/2584426"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=White%20Horse%20Inn%2C%20San%20Francisco",
           "apple": "https://maps.apple.com/?q=White%20Horse%20Inn%2C%20San%20Francisco"
@@ -9933,38 +9971,45 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/san-francisco/2026-11-16/event-4aaf.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
         "id": "2026-11-16-music-bohemian-carnival-20th-anniver-c18180",
         "eid": "bohemian-carnival-20th-a-36a7",
         "track": "music",
-        "category": "",
+        "category": "Festival",
         "name": "Bohemian Carnival 20th Anniversary Weekender: Sunday Skool",
         "day": "Sun",
         "date": "2026-11-22",
         "time": "13:00",
-        "start": null,
-        "end": null,
+        "start": "13:00",
+        "end": "18:00",
         "area": "Alameda",
         "venue": "Tortona Big Top",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "2151 Ferry Pt, Alameda, CA 94804",
+        "why": "To enjoy a daytime carnival atmosphere while helping raise funds to save the Tortona Big Top.",
+        "summary": "The Sunday Skool edition of the Bohemian Carnival 20th Anniversary Weekender takes place at the Tortona Big Top in Alameda on November 22, 2026 at 1:00 PM.",
         "promoter": "",
         "price": "$39",
-        "tags": [],
+        "tags": [
+          "carnival",
+          "daytime",
+          "benefit",
+          "outdoor"
+        ],
         "sources": [
           {
             "url": "https://www.eventbrite.com/e/the-soiled-dove-presents-bohemian-carnival-20th-anniversary-weekender-tickets-2003993453365",
             "hidden": true
           }
         ],
-        "tickets": [],
+        "tickets": [
+          "https://www.eventbrite.com/e/the-soiled-dove-presents-bohemian-carnival-20th-anniversary-weekender-tickets-2003993453365"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Tortona%20Big%20Top%2C%20Alameda",
           "apple": "https://maps.apple.com/?q=Tortona%20Big%20Top%2C%20Alameda"
@@ -9972,10 +10017,10 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/san-francisco/2026-11-16/bohemian-carnival-20th-a-36a7.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
@@ -11529,21 +11574,26 @@
         "id": "2026-11-16-sports-dipsea-trail-hiking-f51289",
         "eid": "dipsea-trail-hiking-2430",
         "track": "sports",
-        "category": "",
+        "category": "Sports",
         "name": "Dipsea Trail Hiking",
         "day": "Sat",
         "date": "2026-11-21",
         "time": "09:00",
-        "start": null,
-        "end": null,
+        "start": "09:00",
+        "end": "18:00",
         "area": "San Francisco",
         "venue": "Safeway, 2020 Market St, San Francisco, CA 94114, USA",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "2020 Market St, San Francisco, CA 94114, USA, San Francisco, CA",
+        "why": "For a challenging coastal redwood-to-beach hike with iconic stairs and strong views.",
+        "summary": "Meet at Safeway (2020 Market St) at 09:00 on 2026-11-21 for a free group hike on the Dipsea Trail, a historic, rugged route in Marin County connecting Mill Valley to Stinson Beach through Mount Tamalpais and Muir Woods. The hike is rated hard/very strenuous (roughly 7–14 miles depending on route) with the famous Dipsea Steps and technical terrain; carpooling is coordinated via the event WhatsApp and drivers split gas/vehicle costs.",
         "promoter": "",
-        "price": "",
-        "tags": [],
+        "price": "Free",
+        "tags": [
+          "hiking",
+          "outdoor",
+          "free",
+          "group"
+        ],
         "sources": [
           "https://www.meetup.com/sunday-hike-san-francisco/events/317425706/"
         ],
@@ -11555,31 +11605,36 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/san-francisco/2026-11-16/dipsea-trail-hiking-2430.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
         "id": "2026-11-16-sports-presidio-promenade-trail-cozy-608142",
         "eid": "presidio-promenade-trail-de72",
         "track": "sports",
-        "category": "",
+        "category": "Sports",
         "name": "Presidio Promenade Trail & Cozy Lunch",
         "day": "Sat",
         "date": "2026-11-21",
         "time": "09:00",
-        "start": null,
-        "end": null,
+        "start": "09:00",
+        "end": "11:00",
         "area": "San Francisco",
         "venue": "The Main Post, 210 Lincoln Blvd, San Francisco, CA 94129",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "210 Lincoln Blvd, San Francisco, CA 94129, San Francisco, CA",
+        "why": "For a relaxed, scenic morning walk and a casual post-hike meal with others.",
+        "summary": "A free morning group hike—meet outside the Presidio Visitor Center at 09:00 (the group will wait until 09:10)—on the scenic Presidio Promenade Trail (about 4 miles) at a relaxed, conversational pace, followed by a cozy lunch at The Mess Hall at The Presidio.",
         "promoter": "",
-        "price": "",
-        "tags": [],
+        "price": "Free",
+        "tags": [
+          "outdoor",
+          "free",
+          "walking",
+          "social"
+        ],
         "sources": [
           "https://www.meetup.com/finding-your-people-in-sf-from-scenic-hikes-to-opera-dates/events/317365139/"
         ],
@@ -11591,10 +11646,10 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/san-francisco/2026-11-16/presidio-promenade-trail-de72.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
