@@ -10534,25 +10534,32 @@
         "id": "2026-11-16-music-shapes-vol-3-55a37a",
         "eid": "shapes-vol-3-1a56",
         "track": "music",
-        "category": "",
+        "category": "Nightclub",
         "name": "Shapes vol. 3",
         "day": "Sat",
         "date": "2026-11-21",
         "time": "22:00",
-        "start": null,
-        "end": null,
+        "start": "22:00",
+        "end": "02:00",
         "area": "San Francisco",
         "venue": "142 10th St",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "142 10th St, San Francisco, CA 94103",
+        "why": "For a late-night, ticketed dance/club night in SoMa.",
+        "summary": "A late-night ticketed event on November 21, 2026 at 142 10th St in San Francisco, starting at 10:00 PM; tickets are $27.",
         "promoter": "",
-        "price": "",
-        "tags": [],
+        "price": "$27",
+        "tags": [
+          "night",
+          "ticketed",
+          "indoor",
+          "dance"
+        ],
         "sources": [
           "https://ra.co/events/2585776"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://ra.co/events/2585776"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=142%2010th%20St%2C%20San%20Francisco",
           "apple": "https://maps.apple.com/?q=142%2010th%20St%2C%20San%20Francisco"
@@ -10560,10 +10567,10 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/san-francisco/2026-11-16/shapes-vol-3-1a56.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       }
     ],
