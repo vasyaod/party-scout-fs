@@ -5,7 +5,7 @@
   "location": "Los Angeles & SoCal",
   "city": "los-angeles",
   "city_label": "Los Angeles",
-  "generated_at": "2026-10-07",
+  "generated_at": "2026-11-16",
   "tracks": {
     "music": [
       {
@@ -28,7 +28,11 @@
         "price": "",
         "tags": [],
         "sources": [
-          "https://hollywoodforever.com/event/why/"
+          "https://hollywoodforever.com/event/why/",
+          {
+            "url": "https://www.hollywoodforever.com/events/",
+            "hidden": true
+          }
         ],
         "tickets": [
           "https://www.ticketweb.com/event/why-the-masonic-lodge-at-hollywood-tickets/15007983?pl=HF"
@@ -71,7 +75,8 @@
           "21+"
         ],
         "sources": [
-          "https://dice.fm/event/6dg8nb-black-book-records-presents-untitled-10th-dec-reframe-studios-indoors-los-angeles-tickets"
+          "https://dice.fm/event/6dg8nb-black-book-records-presents-untitled-10th-dec-reframe-studios-indoors-los-angeles-tickets",
+          "https://edmtrain.com/los-angeles-ca/black-book-records-539154"
         ],
         "tickets": [
           "https://dice.fm/event/6dg8nb-black-book-records-presents-untitled-10th-dec-reframe-studios-indoors-los-angeles-tickets"
@@ -145,7 +150,7 @@
         "end": "02:30",
         "area": "Los Angeles",
         "venue": "Sound Nightclub (Los Angeles)",
-        "address": "",
+        "address": "1642 N Las Palmas Ave, Los Angeles, CA 90028",
         "why": "A rare chance to catch two Brazilian house selectors on one bill in a proper club room.",
         "summary": "Greg 99 and Pedroz, two Brazilian house DJs, play Sound Nightclub on Friday night, 10pm to 2:30am.",
         "promoter": "",
@@ -155,7 +160,10 @@
           "techno",
           "club"
         ],
-        "sources": [],
+        "sources": [
+          "https://dice.fm/event/69cc2c9885e0990001d1ad97",
+          "https://edmtrain.com/los-angeles-ca/greg-99-pedroz-533421"
+        ],
         "tickets": [],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Sound%20Nightclub%20%28Los%20Angeles%29%2C%20Los%20Angeles",
@@ -164,7 +172,7 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://dice-media.imgix.net/attachments/2026-11-03/d8c5230d-8e1a-4f47-a51b-39b3d9fe1eea.jpg?rect=0%2C233%2C1164%2C698",
         "image_generated": false,
         "popularity": 0,
         "enriched": 1,
@@ -225,10 +233,14 @@
         "why": "",
         "summary": "",
         "promoter": "",
-        "price": "$20–$50",
+        "price": "$40-50+",
         "tags": [],
         "sources": [
-          "https://ra.co/events/2536179"
+          {
+            "url": "https://ra.co/events/2536179",
+            "hidden": true
+          },
+          "https://edmtrain.com/los-angeles-ca/incognito-x-metalheadz-goldie-uk-537474"
         ],
         "tickets": [
           "https://ra.co/events/2536179"
@@ -257,7 +269,7 @@
         "time": "20:00",
         "start": "20:00",
         "end": null,
-        "area": "Hollywood",
+        "area": "Los Angeles",
         "venue": "Hollywood Palladium (Los Angeles)",
         "address": "",
         "why": "Virtual Riot is one of dubstep's biggest names, and the Palladium is a good room for a full-production bass show.",
@@ -270,7 +282,9 @@
           "bassrush"
         ],
         "sources": [
-          "https://19hz.info/eventlisting_LosAngeles.php"
+          "https://19hz.info/eventlisting_LosAngeles.php",
+          "https://edmtrain.com/los-angeles-ca/far-from-home-tour-virtual-riot-515363",
+          "https://www.ticketmaster.com/bassrush-presents-virtual-riot-blanke-far-hollywood-california-12-11-2026/event/090064D6B46E7E1D"
         ],
         "tickets": [
           "https://www.ticketmaster.com/bassrush-presents-virtual-riot-blanke-far-hollywood-california-12-11-2026/event/090064D6B46E7E1D"
@@ -301,7 +315,7 @@
         "end": "02:00",
         "area": "Los Angeles",
         "venue": "Reframe Studios Indoors (Los Angeles)",
-        "address": "",
+        "address": "4594 Electronics Place, Los Angeles, California 90039",
         "why": "A rare solo night from a globally booked melodic house duo, in a dedicated indoor venue for Framework's winter season.",
         "summary": "Bedouin, the Tamer Malki and Rami Abousabe duo behind the Pacha Ibiza SAGA nights, play a solo night during Framework's re:frame Season 2 at Reframe Studios.",
         "promoter": "Framework",
@@ -315,7 +329,9 @@
         ],
         "sources": [
           "https://19hz.info/eventlisting_LosAngeles.php",
-          "https://thisisframework.com/bedouin"
+          "https://thisisframework.com/bedouin",
+          "https://dice.fm/event/v3lm7d-bedouin-presents-saga-12th-dec-reframe-studios-indoors-los-angeles-tickets",
+          "https://edmtrain.com/tours/bedouin-1480"
         ],
         "tickets": [],
         "maps": {
@@ -325,7 +341,7 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "https://party-scout.app/img/gen/bedouin-sagan-1566.jpg",
+        "image": "https://dice-media.imgix.net/attachments/2026-11-13/26c343c8-2b8f-4ad3-ba89-753e4b604d05.jpg?rect=0%2C662%2C3307%2C1984",
         "image_generated": false,
         "popularity": 0,
         "enriched": 1,
@@ -348,10 +364,14 @@
         "why": "",
         "summary": "",
         "promoter": "",
-        "price": "$20–$40",
+        "price": "$20-40",
         "tags": [],
         "sources": [
-          "https://ra.co/events/2474812"
+          {
+            "url": "https://ra.co/events/2474812",
+            "hidden": true
+          },
+          "https://edmtrain.com/los-angeles-ca/into-the-woods-presents-dusky-518280"
         ],
         "tickets": [
           "https://ra.co/events/2474812"
@@ -363,8 +383,8 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "https://party-scout.app/img/gen/dusky-d991.jpg",
-        "image_generated": false,
+        "image": "https://api.party-scout.app/img/los-angeles/2026-12-07/dusky-d991.jpg",
+        "image_generated": true,
         "popularity": 0,
         "enriched": 1,
         "active": true
@@ -386,10 +406,11 @@
         "why": "",
         "summary": "",
         "promoter": "",
-        "price": "$35",
+        "price": "35",
         "tags": [],
         "sources": [
-          "https://ra.co/events/2524625"
+          "https://ra.co/events/2524625",
+          "https://posh.vip/e/i-love-dnb-kings-of-the-rollers-turno"
         ],
         "tickets": [
           "https://ra.co/events/2524625"
@@ -401,11 +422,33 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "https://party-scout.app/img/gen/i-love-dnb-kings-of-the-a93a.jpg",
+        "image": "https://images.ra.co/1d6b29bdcefa87bb0acb5ecd818bac384b701610.png",
         "image_generated": false,
         "popularity": 0,
         "enriched": 1,
-        "active": true
+        "active": true,
+        "lineup": [
+          {
+            "name": "Kings of the Rollers",
+            "instagram": null
+          },
+          {
+            "name": "Serum (UK)",
+            "instagram": null
+          },
+          {
+            "name": "Bladerunner",
+            "instagram": null
+          },
+          {
+            "name": "Voltage",
+            "instagram": null
+          },
+          {
+            "name": "Turno",
+            "instagram": null
+          }
+        ]
       },
       {
         "id": "2026-12-07-music-john-summit-ctrl-escape-tour-e6a0e7",
@@ -418,13 +461,13 @@
         "time": "19:00",
         "start": "19:00",
         "end": null,
-        "area": "Exposition Park",
+        "area": "Los Angeles",
         "venue": "Los Angeles Memorial Coliseum (Los Angeles)",
         "address": "",
         "why": "The tour finale for one of house music's biggest names, in a stadium rather than a club — a one-night-only closer.",
         "summary": "John Summit closes his North American CTRL ESCAPE tour with his biggest headline show yet, at the LA Memorial Coliseum.",
         "promoter": "Live Nation / Insomniac",
-        "price": "$166–$309",
+        "price": "$166-309",
         "tags": [
           "house",
           "tech house",
@@ -432,7 +475,9 @@
           "live"
         ],
         "sources": [
-          "https://www.ticketnews.com/2026/08/john-summit-announces-los-angeles-memorial-coliseum-headline-show/"
+          "https://www.ticketnews.com/2026/08/john-summit-announces-los-angeles-memorial-coliseum-headline-show/",
+          "https://edmtrain.com/los-angeles-ca/ctrl-escape-arena-tour-john-summit-528715",
+          "https://www.ticketmaster.com/event/0A0064FFC2CDF6B7"
         ],
         "tickets": [],
         "maps": {
@@ -472,7 +517,8 @@
           "21+"
         ],
         "sources": [
-          "https://timenightclub.com/event/said-the-sky-concerts-near-me-orange-county-edm-concerts-live-music-tonight-2026-december-12-near-me/"
+          "https://timenightclub.com/event/said-the-sky-concerts-near-me-orange-county-edm-concerts-live-music-tonight-2026-december-12-near-me/",
+          "https://www.tixr.com/groups/timenightclub/events/said-the-sky-208261"
         ],
         "tickets": [
           "https://timenightclub.com/event/said-the-sky-concerts-near-me-orange-county-edm-concerts-live-music-tonight-2026-december-12-near-me/"
@@ -489,8 +535,2414 @@
         "popularity": 0,
         "enriched": 1,
         "active": true
+      },
+      {
+        "id": "2026-12-07-music-david-bisbal-tour-eternos-2026-f50dac",
+        "eid": "david-bisbal-tour-eterno-dc92",
+        "track": "music",
+        "category": "",
+        "name": "David Bisbal - Tour Eternos 2026",
+        "day": "Wed",
+        "date": "2026-12-09",
+        "time": "",
+        "start": null,
+        "end": null,
+        "area": "Los Angeles",
+        "venue": "The Wiltern",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "",
+        "tags": [],
+        "sources": [
+          "https://www.ticketmaster.com/david-bisbal-tour-eternos-2026-los-angeles-california-12-09-2026/event/090064BC06AB8170"
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=The%20Wiltern%2C%20Los%20Angeles",
+          "apple": "https://maps.apple.com/?q=The%20Wiltern%2C%20Los%20Angeles"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-12-07-music-frost-children-kuru-31e1f7",
+        "eid": "frost-children-kuru-c535",
+        "track": "music",
+        "category": "",
+        "name": "Frost Children, Kuru",
+        "day": "Wed",
+        "date": "2026-12-09",
+        "time": "",
+        "start": null,
+        "end": null,
+        "area": "Los Angeles",
+        "venue": "Fonda Theatre",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "",
+        "tags": [],
+        "sources": [
+          {
+            "url": "https://edmtrain.com/tours/frost-children-38078",
+            "hidden": true
+          }
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=Fonda%20Theatre%2C%20Los%20Angeles",
+          "apple": "https://maps.apple.com/?q=Fonda%20Theatre%2C%20Los%20Angeles"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-12-07-music-intro-to-music-production-w-jo-f49b24",
+        "eid": "intro-to-music-productio-cd4f",
+        "track": "music",
+        "category": "",
+        "name": "Intro To Music Production w/ Josh Wen",
+        "day": "Wed",
+        "date": "2026-12-09",
+        "time": "19:00",
+        "start": null,
+        "end": null,
+        "area": "Los Angeles",
+        "venue": "Io Music Academy (Los Angeles)",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "free",
+        "tags": [],
+        "sources": [
+          "https://ra.co/events/2580630"
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=Io%20Music%20Academy%20%28Los%20Angeles%29%2C%20Los%20Angeles",
+          "apple": "https://maps.apple.com/?q=Io%20Music%20Academy%20%28Los%20Angeles%29%2C%20Los%20Angeles"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-12-07-music-kira-roessler-dos-black-flag-5d1efc",
+        "eid": "kira-roessler-dos-black-947b",
+        "track": "music",
+        "category": "",
+        "name": "Kira Roessler (Dos, Black Flag)",
+        "day": "Wed",
+        "date": "2026-12-09",
+        "time": "20:00",
+        "start": null,
+        "end": null,
+        "area": "Los Angeles",
+        "venue": "The Redwood Bar And Grill",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "$10",
+        "tags": [],
+        "sources": [
+          "https://ra.co/events/2580218"
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=The%20Redwood%20Bar%20And%20Grill%2C%20Los%20Angeles",
+          "apple": "https://maps.apple.com/?q=The%20Redwood%20Bar%20And%20Grill%2C%20Los%20Angeles"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-12-07-music-change-the-beat-maxinne-sydney-8b199e",
+        "eid": "change-the-beat-maxinne-6ffd",
+        "track": "music",
+        "category": "",
+        "name": "Change The Beat: Maxinne, Sydney Blu, Dani Ashley",
+        "day": "Thu",
+        "date": "2026-12-10",
+        "time": "22:00",
+        "start": null,
+        "end": null,
+        "area": "Los Angeles",
+        "venue": "Sound Nightclub (Los Angeles)",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "$17",
+        "tags": [],
+        "sources": [
+          "https://laylo.com/changethebeat/CTBLA",
+          "https://edmtrain.com/los-angeles-ca/change-the-beat-maxinne-551194"
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=Sound%20Nightclub%20%28Los%20Angeles%29%2C%20Los%20Angeles",
+          "apple": "https://maps.apple.com/?q=Sound%20Nightclub%20%28Los%20Angeles%29%2C%20Los%20Angeles"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-12-07-music-dance-electric-41908b",
+        "eid": "dance-electric-17e9",
+        "track": "music",
+        "category": "",
+        "name": "Dance Electric",
+        "day": "Thu",
+        "date": "2026-12-10",
+        "time": "21:00",
+        "start": null,
+        "end": null,
+        "area": "Costa Mesa",
+        "venue": "Kitsch Bar (Costa Mesa)",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "",
+        "tags": [],
+        "sources": [
+          "https://eventsta.com/event/kitschbar121026?promo=CAF&fbclid=IwY2xjawVTZSlleHRuA2FlbQIxMABwZG9mAWJyaWQRMXR3aEtWTjU0Ym5Ta3ZCMDlzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEfIjSN7yq13C0Lc9JOO7PRCy_0LRk9quiInDE7aYuUDY9yqi4VjvvRnd1mcoQ_aem_SaQlxUmGS-u7ynubUd9zGg"
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=Kitsch%20Bar%20%28Costa%20Mesa%29%2C%20Costa%20Mesa",
+          "apple": "https://maps.apple.com/?q=Kitsch%20Bar%20%28Costa%20Mesa%29%2C%20Costa%20Mesa"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-12-07-music-evol-walks-dadd5d",
+        "eid": "evol-walks-15da",
+        "track": "music",
+        "category": "",
+        "name": "Evol Walks",
+        "day": "Thu",
+        "date": "2026-12-10",
+        "time": "20:00",
+        "start": null,
+        "end": null,
+        "area": "Los Angeles",
+        "venue": "The Redwood Bar And Grill",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "$10",
+        "tags": [],
+        "sources": [
+          "https://ra.co/events/2564280"
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=The%20Redwood%20Bar%20And%20Grill%2C%20Los%20Angeles",
+          "apple": "https://maps.apple.com/?q=The%20Redwood%20Bar%20And%20Grill%2C%20Los%20Angeles"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-12-07-music-frost-children-kuru-2cd5d1",
+        "eid": "frost-children-kuru-b959",
+        "track": "music",
+        "category": "",
+        "name": "Frost Children, Kuru",
+        "day": "Thu",
+        "date": "2026-12-10",
+        "time": "",
+        "start": null,
+        "end": null,
+        "area": "Los Angeles",
+        "venue": "Fonda Theatre",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "",
+        "tags": [],
+        "sources": [
+          {
+            "url": "https://edmtrain.com/tours/frost-children-38078",
+            "hidden": true
+          }
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=Fonda%20Theatre%2C%20Los%20Angeles",
+          "apple": "https://maps.apple.com/?q=Fonda%20Theatre%2C%20Los%20Angeles"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-12-07-music-full-crate-cf4c6a",
+        "eid": "full-crate-7b2e",
+        "track": "music",
+        "category": "",
+        "name": "Full Crate",
+        "day": "Thu",
+        "date": "2026-12-10",
+        "time": "20:30",
+        "start": null,
+        "end": null,
+        "area": "Los Angeles",
+        "venue": "The Regent Theater (Los Angeles)",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "$19-28",
+        "tags": [],
+        "sources": [
+          "https://www.ticketmaster.com/event/0900653DE60F2EFF",
+          "https://edmtrain.com/tours/full-crate-44374"
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=The%20Regent%20Theater%20%28Los%20Angeles%29%2C%20Los%20Angeles",
+          "apple": "https://maps.apple.com/?q=The%20Regent%20Theater%20%28Los%20Angeles%29%2C%20Los%20Angeles"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-12-07-music-the-string-cheese-incident-jus-8e1c65",
+        "eid": "the-string-cheese-incide-9dc2",
+        "track": "music",
+        "category": "",
+        "name": "The String Cheese Incident: Just Keep Spinning Tour",
+        "day": "Thu",
+        "date": "2026-12-10",
+        "time": "",
+        "start": null,
+        "end": null,
+        "area": "Los Angeles",
+        "venue": "The Wiltern",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "",
+        "tags": [],
+        "sources": [
+          "https://www.ticketmaster.com/the-string-cheese-incident-just-keep-los-angeles-california-12-10-2026/event/09006504CD69A75A"
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=The%20Wiltern%2C%20Los%20Angeles",
+          "apple": "https://maps.apple.com/?q=The%20Wiltern%2C%20Los%20Angeles"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-12-07-music-aneezy-ojjisin-karlim-b01813",
+        "eid": "aneezy-ojjisin-karlim-6d71",
+        "track": "music",
+        "category": "",
+        "name": "Aneezy, Ojjisin, Karlim",
+        "day": "Fri",
+        "date": "2026-12-11",
+        "time": "22:45",
+        "start": null,
+        "end": null,
+        "area": "Los Angeles",
+        "venue": "Warehouse 323 (Los Angeles)",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "$11+",
+        "tags": [],
+        "sources": [
+          "https://posh.vip/e/protocol-presents-aneezy"
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=Warehouse%20323%20%28Los%20Angeles%29%2C%20Los%20Angeles",
+          "apple": "https://maps.apple.com/?q=Warehouse%20323%20%28Los%20Angeles%29%2C%20Los%20Angeles"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-12-07-music-awen-4db51c",
+        "eid": "awen-a0cb",
+        "track": "music",
+        "category": "",
+        "name": "AWEN",
+        "day": "Fri",
+        "date": "2026-12-11",
+        "time": "",
+        "start": null,
+        "end": null,
+        "area": "Los Angeles",
+        "venue": "The Spotlight",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "",
+        "tags": [],
+        "sources": [
+          "https://edmtrain.com/tours/awen-87600"
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=The%20Spotlight%2C%20Los%20Angeles",
+          "apple": "https://maps.apple.com/?q=The%20Spotlight%2C%20Los%20Angeles"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-12-07-music-blade-runner-2026-club-decades-7f8281",
+        "eid": "blade-runner-2026-club-d-04e0",
+        "track": "music",
+        "category": "",
+        "name": "Blade Runner 2026 | Club Decades",
+        "day": "Fri",
+        "date": "2026-12-11",
+        "time": "22:00",
+        "start": null,
+        "end": null,
+        "area": "Los Angeles",
+        "venue": "Boardner's By La Belle (Los Angeles)",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "$18.91-29.57",
+        "tags": [],
+        "sources": [
+          "https://www.eventbrite.com/e/blade-runner-2026-club-decades-tickets-1993630875616"
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=Boardner%27s%20By%20La%20Belle%20%28Los%20Angeles%29%2C%20Los%20Angeles",
+          "apple": "https://maps.apple.com/?q=Boardner%27s%20By%20La%20Belle%20%28Los%20Angeles%29%2C%20Los%20Angeles"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-12-07-music-christopher-lawrence-vangar-dj-363c4c",
+        "eid": "christopher-lawrence-van-75d0",
+        "track": "music",
+        "category": "",
+        "name": "Christopher Lawrence, Vangar, DJ Ai, Technician",
+        "day": "Fri",
+        "date": "2026-12-11",
+        "time": "21:00",
+        "start": null,
+        "end": null,
+        "area": "Los Angeles",
+        "venue": "Matriarch (Los Angeles)",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "free w/rsvp b4 10pm / $15+",
+        "tags": [],
+        "sources": [
+          "https://posh.vip/e/bear-cave-events-x-tranceformity-present-christopher-lawrence"
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=Matriarch%20%28Los%20Angeles%29%2C%20Los%20Angeles",
+          "apple": "https://maps.apple.com/?q=Matriarch%20%28Los%20Angeles%29%2C%20Los%20Angeles"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-12-07-music-cyberpunk-2077-resist-and-diso-d0410a",
+        "eid": "cyberpunk-2077-resist-an-fb39",
+        "track": "music",
+        "category": "",
+        "name": "Cyberpunk 2077 : Resist and Disorder",
+        "day": "Fri",
+        "date": "2026-12-11",
+        "time": "20:00",
+        "start": null,
+        "end": null,
+        "area": "Los Angeles",
+        "venue": "1720 (Los Angeles)",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "$15.45",
+        "tags": [],
+        "sources": [
+          "https://dice.fm/event/6abc33b6e26fe50001b6cc29"
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=1720%20%28Los%20Angeles%29%2C%20Los%20Angeles",
+          "apple": "https://maps.apple.com/?q=1720%20%28Los%20Angeles%29%2C%20Los%20Angeles"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-12-07-music-definition-presents-fa4adb",
+        "eid": "definition-presents-b7d3",
+        "track": "music",
+        "category": "",
+        "name": "Definition Presents",
+        "day": "Fri",
+        "date": "2026-12-11",
+        "time": "",
+        "start": null,
+        "end": null,
+        "area": "Los Angeles",
+        "venue": "Pluto LA",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "",
+        "tags": [],
+        "sources": [
+          "https://edmtrain.com/los-angeles-ca/definition-presents-552893"
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=Pluto%20LA%2C%20Los%20Angeles",
+          "apple": "https://maps.apple.com/?q=Pluto%20LA%2C%20Los%20Angeles"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-12-07-music-dillon-nathaniel-1d23f5",
+        "eid": "dillon-nathaniel-a65c",
+        "track": "music",
+        "category": "",
+        "name": "Dillon Nathaniel",
+        "day": "Fri",
+        "date": "2026-12-11",
+        "time": "21:00",
+        "start": null,
+        "end": null,
+        "area": "Costa Mesa",
+        "venue": "Community Lounge (Costa Mesa)",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "$11-23",
+        "tags": [],
+        "sources": [
+          "https://shotgun.live/en/events/loco-disco-presents-dillon-nathaniel-community-lounge"
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=Community%20Lounge%20%28Costa%20Mesa%29%2C%20Costa%20Mesa",
+          "apple": "https://maps.apple.com/?q=Community%20Lounge%20%28Costa%20Mesa%29%2C%20Costa%20Mesa"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-12-07-music-drumcode-adam-beyer-dreya-v-ma-083257",
+        "eid": "drumcode-adam-beyer-drey-21f6",
+        "track": "music",
+        "category": "",
+        "name": "Drumcode: Adam Beyer, Dreya V, Marco Faraone",
+        "day": "Fri",
+        "date": "2026-12-11",
+        "time": "22:00",
+        "start": null,
+        "end": null,
+        "area": "Los Angeles",
+        "venue": "Reframe Studios Indoors (Los Angeles)",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "$68+",
+        "tags": [],
+        "sources": [
+          "https://dice.fm/event/mxyk5l-drumcode-la-11th-dec-reframe-studios-indoors-los-angeles-tickets",
+          "https://edmtrain.com/tours/marco-faraone-3737"
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=Reframe%20Studios%20Indoors%20%28Los%20Angeles%29%2C%20Los%20Angeles",
+          "apple": "https://maps.apple.com/?q=Reframe%20Studios%20Indoors%20%28Los%20Angeles%29%2C%20Los%20Angeles"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-12-07-music-electric-ave-630d13",
+        "eid": "electric-ave-85bb",
+        "track": "music",
+        "category": "",
+        "name": "Electric Ave",
+        "day": "Fri",
+        "date": "2026-12-11",
+        "time": "22:00",
+        "start": null,
+        "end": null,
+        "area": "Los Angeles",
+        "venue": "Los Globos (Los Angeles)",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "",
+        "tags": [],
+        "sources": [
+          "https://eventsta.com/event/losglobos121126?promo=CAF&fbclid=IwY2xjawVdrEhleHRuA2FlbQIxMABwZG9mAWJyaWQRMXNkcU4wZURma2dINXUzaUpzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEfd9YVs-TN5Fpo5w0piBeYbfLac8bqxlyZllWOBhSLa6m6rifPj3irJoZHFao_aem_ot6X_FufRZ44Lroe0ufvjA"
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=Los%20Globos%20%28Los%20Angeles%29%2C%20Los%20Angeles",
+          "apple": "https://maps.apple.com/?q=Los%20Globos%20%28Los%20Angeles%29%2C%20Los%20Angeles"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-12-07-music-frost-children-kuru-9ed46a",
+        "eid": "frost-children-kuru-a0f0",
+        "track": "music",
+        "category": "",
+        "name": "Frost Children, Kuru",
+        "day": "Fri",
+        "date": "2026-12-11",
+        "time": "",
+        "start": null,
+        "end": null,
+        "area": "Los Angeles",
+        "venue": "Fonda Theatre",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "",
+        "tags": [],
+        "sources": [
+          {
+            "url": "https://edmtrain.com/tours/frost-children-38078",
+            "hidden": true
+          }
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=Fonda%20Theatre%2C%20Los%20Angeles",
+          "apple": "https://maps.apple.com/?q=Fonda%20Theatre%2C%20Los%20Angeles"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-12-07-music-oliver-koletzki-98f51b",
+        "eid": "oliver-koletzki-c4ad",
+        "track": "music",
+        "category": "",
+        "name": "Oliver Koletzki",
+        "day": "Fri",
+        "date": "2026-12-11",
+        "time": "22:00",
+        "start": null,
+        "end": null,
+        "area": "Los Angeles",
+        "venue": "Origin (Los Angeles)",
+        "address": "613 Imperial Street, Los Angeles, CA 90021",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "$35+",
+        "tags": [],
+        "sources": [
+          "https://www.eventbrite.com/e/origin-presents-oliver-koletzki-tickets-2004052220138",
+          "https://ra.co/events/2575507"
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=613%20Imperial%20Street%2C%20Los%20Angeles%2C%20CA%2090021",
+          "apple": "https://maps.apple.com/?q=613%20Imperial%20Street%2C%20Los%20Angeles%2C%20CA%2090021"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "https://images.ra.co/7acfe279da1e9afd687886c154d81a00110b3528.jpg",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true,
+        "lineup": [
+          {
+            "name": "Oliver Koletzki",
+            "instagram": null
+          }
+        ]
+      },
+      {
+        "id": "2026-12-07-music-putivuelta-karsten-sollors-c-3-b6e245",
+        "eid": "putivuelta-karsten-sollo-9a54",
+        "track": "music",
+        "category": "",
+        "name": "Putivuelta: Karsten Sollors, C:3, Dustn, Toad",
+        "day": "Fri",
+        "date": "2026-12-11",
+        "time": "22:00",
+        "start": null,
+        "end": null,
+        "area": "Los Angeles",
+        "venue": "District 7 (Los Angeles)",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "$35 b4 11 / $29-63",
+        "tags": [],
+        "sources": [
+          {
+            "url": "https://ra.co/events/2554992",
+            "hidden": true
+          }
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=District%207%20%28Los%20Angeles%29%2C%20Los%20Angeles",
+          "apple": "https://maps.apple.com/?q=District%207%20%28Los%20Angeles%29%2C%20Los%20Angeles"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-12-07-music-re-frame-drumcode-852923",
+        "eid": "re-frame-drumcode-bf5e",
+        "track": "music",
+        "category": "",
+        "name": "Re:frame: Drumcode",
+        "day": "Fri",
+        "date": "2026-12-11",
+        "time": "",
+        "start": null,
+        "end": null,
+        "area": "Los Angeles",
+        "venue": "Reframe Studios",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "",
+        "tags": [],
+        "sources": [
+          "https://edmtrain.com/los-angeles-ca/re-frame-drumcode-538822"
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=Reframe%20Studios%2C%20Los%20Angeles",
+          "apple": "https://maps.apple.com/?q=Reframe%20Studios%2C%20Los%20Angeles"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-12-07-music-samplifire-w-warlord-3e5314",
+        "eid": "samplifire-w-warlord-5e89",
+        "track": "music",
+        "category": "",
+        "name": "Samplifire w/ Warlord",
+        "day": "Fri",
+        "date": "2026-12-11",
+        "time": "21:00",
+        "start": null,
+        "end": null,
+        "area": "Huntington Beach",
+        "venue": "The Circle OC (Huntington Beach)",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "$20.05-30.71",
+        "tags": [],
+        "sources": [
+          "https://www.eventbrite.com/e/orange-county-samplifire-w-warlord-the-circle-oc-18-tickets-2003663536575"
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=The%20Circle%20OC%20%28Huntington%20Beach%29%2C%20Huntington%20Beach",
+          "apple": "https://maps.apple.com/?q=The%20Circle%20OC%20%28Huntington%20Beach%29%2C%20Huntington%20Beach"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-12-07-music-tony-marsico-and-the-ugly-thin-59a631",
+        "eid": "tony-marsico-and-the-ugl-b530",
+        "track": "music",
+        "category": "",
+        "name": "Tony Marsico and The Ugly Thingz",
+        "day": "Fri",
+        "date": "2026-12-11",
+        "time": "20:00",
+        "start": null,
+        "end": null,
+        "area": "Los Angeles",
+        "venue": "The Redwood Bar And Grill",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "",
+        "tags": [],
+        "sources": [
+          "https://ra.co/events/2564281"
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=The%20Redwood%20Bar%20And%20Grill%2C%20Los%20Angeles",
+          "apple": "https://maps.apple.com/?q=The%20Redwood%20Bar%20And%20Grill%2C%20Los%20Angeles"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-12-07-music-yachtley-crew-90e90a",
+        "eid": "yachtley-crew-d8d5",
+        "track": "music",
+        "category": "",
+        "name": "Yachtley Crew",
+        "day": "Fri",
+        "date": "2026-12-11",
+        "time": "",
+        "start": null,
+        "end": null,
+        "area": "Los Angeles",
+        "venue": "The Wiltern",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "",
+        "tags": [],
+        "sources": [
+          "https://www.ticketmaster.com/yachtley-crew-los-angeles-california-12-11-2026/event/09006506B1FD9D9B"
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=The%20Wiltern%2C%20Los%20Angeles",
+          "apple": "https://maps.apple.com/?q=The%20Wiltern%2C%20Los%20Angeles"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-12-07-music-yosuf-94f906",
+        "eid": "yosuf-2789",
+        "track": "music",
+        "category": "",
+        "name": "Yosuf",
+        "day": "Fri",
+        "date": "2026-12-11",
+        "time": "22:00",
+        "start": null,
+        "end": null,
+        "area": "Los Angeles",
+        "venue": "Exchange (Los Angeles)",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "$15-75",
+        "tags": [],
+        "sources": [
+          "https://www.tixr.com/groups/exchangela/events/yosuf-210306",
+          {
+            "url": "https://edmtrain.com/tours/yosuf-45876",
+            "hidden": true
+          }
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=Exchange%20%28Los%20Angeles%29%2C%20Los%20Angeles",
+          "apple": "https://maps.apple.com/?q=Exchange%20%28Los%20Angeles%29%2C%20Los%20Angeles"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-12-07-music-a-club-called-rhonda-w-arlo-pa-825ca7",
+        "eid": "a-club-called-rhonda-w-a-87db",
+        "track": "music",
+        "category": "",
+        "name": "A Club Called Rhonda w/ Arlo Parks, Drama, Gabriels, Knoxdotmp3, Puffie, Shaun Ross, Zach Witness",
+        "day": "Sat",
+        "date": "2026-12-12",
+        "time": "21:30",
+        "start": null,
+        "end": null,
+        "area": "Los Angeles",
+        "venue": "Los Globos (Los Angeles)",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "$10-40",
+        "tags": [],
+        "sources": [
+          {
+            "url": "https://ra.co/events/2572091",
+            "hidden": true
+          }
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=Los%20Globos%20%28Los%20Angeles%29%2C%20Los%20Angeles",
+          "apple": "https://maps.apple.com/?q=Los%20Globos%20%28Los%20Angeles%29%2C%20Los%20Angeles"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "https://api.party-scout.app/img/los-angeles/2026-12-07/a-club-called-rhonda-w-a-87db.jpg",
+        "image_generated": true,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-12-07-music-awen-4b79b4",
+        "eid": "awen-c2ef",
+        "track": "music",
+        "category": "",
+        "name": "Awen",
+        "day": "Sat",
+        "date": "2026-12-12",
+        "time": "22:00",
+        "start": null,
+        "end": null,
+        "area": "Los Angeles",
+        "venue": "The Spotlight (Los Angeles)",
+        "address": "1601 North Cahuenga Boulevard, Los Angeles, California 90028",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "$25",
+        "tags": [],
+        "sources": [
+          "https://dice.fm/event/q2375p-awen-hybrid-set-11th-dec-the-spotlight-los-angeles-tickets"
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=1601%20North%20Cahuenga%20Boulevard%2C%20Los%20Angeles%2C%20California%2090028",
+          "apple": "https://maps.apple.com/?q=1601%20North%20Cahuenga%20Boulevard%2C%20Los%20Angeles%2C%20California%2090028"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "https://dice-media.imgix.net/attachments/2026-10-22/39fe11b0-431b-47c8-98f6-ac7ffea3d77a.jpg?rect=0%2C216%2C1080%2C648",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-12-07-music-barely-legal-weapon-fa528d",
+        "eid": "barely-legal-weapon-8b3c",
+        "track": "music",
+        "category": "",
+        "name": "Barely Legal Weapon",
+        "day": "Sat",
+        "date": "2026-12-12",
+        "time": "19:00",
+        "start": null,
+        "end": null,
+        "area": "Los Angeles",
+        "venue": "The Redwood Bar And Grill",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "$12",
+        "tags": [],
+        "sources": [
+          "https://ra.co/events/2564283"
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=The%20Redwood%20Bar%20And%20Grill%2C%20Los%20Angeles",
+          "apple": "https://maps.apple.com/?q=The%20Redwood%20Bar%20And%20Grill%2C%20Los%20Angeles"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-12-07-music-bass-blizzard-8fb648",
+        "eid": "bass-blizzard-b0d9",
+        "track": "music",
+        "category": "",
+        "name": "Bass Blizzard",
+        "day": "Sat",
+        "date": "2026-12-12",
+        "time": "",
+        "start": null,
+        "end": null,
+        "area": "Los Angeles",
+        "venue": "Catch One",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "",
+        "tags": [],
+        "sources": [
+          "https://edmtrain.com/los-angeles-ca/bass-blizzard-551872"
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=Catch%20One%2C%20Los%20Angeles",
+          "apple": "https://maps.apple.com/?q=Catch%20One%2C%20Los%20Angeles"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-12-07-music-bass-freq-runner-delish-soledd-b33083",
+        "eid": "bass-freq-runner-delish-668f",
+        "track": "music",
+        "category": "",
+        "name": "Bass Freq: Runner, Delish, Soleddd, Strwbrry Rusk, PBO, Kandi Kaos, Sylknet",
+        "day": "Sat",
+        "date": "2026-12-12",
+        "time": "21:00",
+        "start": null,
+        "end": null,
+        "area": "Los Angeles",
+        "venue": "TBA (Los Angeles)",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "",
+        "tags": [],
+        "sources": [
+          "https://www.instagram.com/hagiophoria/p/DfV5gXDGh6V/"
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=Los%20Angeles",
+          "apple": "https://maps.apple.com/?q=Los%20Angeles"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-12-07-music-bloodrave-wonderland-44b9ff",
+        "eid": "bloodrave-wonderland-cf6e",
+        "track": "music",
+        "category": "",
+        "name": "Bloodrave Wonderland",
+        "day": "Sat",
+        "date": "2026-12-12",
+        "time": "21:00",
+        "start": null,
+        "end": null,
+        "area": "Los Angeles",
+        "venue": "1720 (Los Angeles)",
+        "address": "1720 E 16th St, Los Angeles, California 90021",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "$27.81",
+        "tags": [],
+        "sources": [
+          "https://dice.fm/event/6add7d423d073200014c5dcd"
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=1720%20E%2016th%20St%2C%20Los%20Angeles%2C%20California%2090021",
+          "apple": "https://maps.apple.com/?q=1720%20E%2016th%20St%2C%20Los%20Angeles%2C%20California%2090021"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "https://dice-media.imgix.net/attachments/2026-11-12/82a07066-07bc-40bd-81b3-baec310f329c.jpg?rect=0%2C351%2C1080%2C648",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-12-07-music-certified-groovers-maher-danie-980c35",
+        "eid": "certified-groovers-maher-77c8",
+        "track": "music",
+        "category": "",
+        "name": "Certified Groovers: Maher Daniel, Federico Daiup, Ian & Gilberto",
+        "day": "Sat",
+        "date": "2026-12-12",
+        "time": "23:00",
+        "start": null,
+        "end": null,
+        "area": "Los Angeles",
+        "venue": "TBA (DTLA/Los Angeles)",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "$25",
+        "tags": [],
+        "sources": [
+          {
+            "url": "https://ra.co/events/2576579",
+            "hidden": true
+          }
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=Los%20Angeles",
+          "apple": "https://maps.apple.com/?q=Los%20Angeles"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "https://api.party-scout.app/img/los-angeles/2026-12-07/certified-groovers-maher-77c8.jpg",
+        "image_generated": true,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-12-07-music-cyberattack-d6d779",
+        "eid": "cyberattack-7ce3",
+        "track": "music",
+        "category": "",
+        "name": "Cyberattack",
+        "day": "Sat",
+        "date": "2026-12-12",
+        "time": "22:00",
+        "start": null,
+        "end": null,
+        "area": "Los Angeles",
+        "venue": "TBA (Los Angeles)",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "gabber, hardcore, hardtek, freeform hardcore, hardstyle, hard house",
+        "tags": [],
+        "sources": [
+          "https://www.instagram.com/p/DexOMiVAQkU/?img_index=1",
+          "https://edmtrain.com/los-angeles-ca/clubfreakz-presents-cyberattack-551249"
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=Los%20Angeles",
+          "apple": "https://maps.apple.com/?q=Los%20Angeles"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "https://api.party-scout.app/img/los-angeles/2026-12-07/cyberattack-7ce3.jpg",
+        "image_generated": true,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-12-07-music-dialed-in-with-rick-wilhite-se-383cee",
+        "eid": "dialed-in-with-rick-wilh-b824",
+        "track": "music",
+        "category": "",
+        "name": "Dialed In with Rick Wilhite, SEEPS, bilaliwood",
+        "day": "Sat",
+        "date": "2026-12-12",
+        "time": "22:00",
+        "start": null,
+        "end": null,
+        "area": "Los Angeles",
+        "venue": "TBA",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "$25",
+        "tags": [],
+        "sources": [
+          "https://ra.co/events/2583537"
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=Los%20Angeles",
+          "apple": "https://maps.apple.com/?q=Los%20Angeles"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-12-07-music-epic-winter-wonderland-w-chant-87fed5",
+        "eid": "epic-winter-wonderland-w-b238",
+        "track": "music",
+        "category": "",
+        "name": "Epic: Winter Wonderland w/Chant, Levtation, Tree Haus, Meirlin",
+        "day": "Sat",
+        "date": "2026-12-12",
+        "time": "21:00",
+        "start": null,
+        "end": null,
+        "area": "Huntington Beach",
+        "venue": "The Circle OC (Huntington Beach)",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "$7-22",
+        "tags": [],
+        "sources": [
+          "https://www.universe.com/events/epic-winter-wonderland-tickets-7SDPM2"
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=The%20Circle%20OC%20%28Huntington%20Beach%29%2C%20Huntington%20Beach",
+          "apple": "https://maps.apple.com/?q=The%20Circle%20OC%20%28Huntington%20Beach%29%2C%20Huntington%20Beach"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-12-07-music-gudfella-6c3c27",
+        "eid": "gudfella-a86c",
+        "track": "music",
+        "category": "",
+        "name": "Gudfella",
+        "day": "Sat",
+        "date": "2026-12-12",
+        "time": "22:00",
+        "start": null,
+        "end": null,
+        "area": "Los Angeles",
+        "venue": "Sound Nightclub (Los Angeles)",
+        "address": "1642 N Las Palmas Ave, Los Angeles, CA 90028",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "$24.93",
+        "tags": [],
+        "sources": [
+          "https://dice.fm/event/v35mbl-gudfella-12th-dec-sound-nightclub-los-angeles-tickets",
+          "https://edmtrain.com/tours/gudfella-28487"
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=1642%20N%20Las%20Palmas%20Ave%2C%20Los%20Angeles%2C%20CA%2090028",
+          "apple": "https://maps.apple.com/?q=1642%20N%20Las%20Palmas%20Ave%2C%20Los%20Angeles%2C%20CA%2090028"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "https://dice-media.imgix.net/attachments/2026-10-13/15ac00f1-ec43-4efa-b601-26373aa9aae4.jpg?rect=0%2C233%2C1164%2C698",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-12-07-music-holiday-house-mark-grant-colet-0df665",
+        "eid": "holiday-house-mark-grant-7414",
+        "track": "music",
+        "category": "",
+        "name": "Holiday House: Mark Grant, Colette, Patricio, Thee-O, Joel Demarzo, DJ Dazy, Cory Wells, Shawni, Regina Love, Funky Al",
+        "day": "Sat",
+        "date": "2026-12-12",
+        "time": "14:00",
+        "start": null,
+        "end": null,
+        "area": "Los Angeles",
+        "venue": "Jungle Hollywood (Los Angeles)",
+        "address": "1640 North Cahuenga Boulevard, Los Angeles, CA 90028",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "$10-25",
+        "tags": [],
+        "sources": [
+          "https://www.eventbrite.com/e/holiday-house-toy-drive-and-fundraiser-tickets-2003835845957"
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=1640%20North%20Cahuenga%20Boulevard%2C%20Los%20Angeles%2C%20CA%2090028",
+          "apple": "https://maps.apple.com/?q=1640%20North%20Cahuenga%20Boulevard%2C%20Los%20Angeles%2C%20CA%2090028"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1196972399%2F110456149317%2F1%2Foriginal.20261031-031957?crop=focalpoint&fit=crop&w=940&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=72fb289cee6d9532f483b1c6703efd04",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-12-07-music-holiday-house-toy-drive-58bef9",
+        "eid": "holiday-house-toy-drive-c8ee",
+        "track": "music",
+        "category": "",
+        "name": "Holiday House Toy Drive",
+        "day": "Sat",
+        "date": "2026-12-12",
+        "time": "14:00",
+        "start": null,
+        "end": null,
+        "area": "Los Angeles",
+        "venue": "Jungle Hollywood",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "",
+        "tags": [],
+        "sources": [
+          "https://ra.co/events/2574906"
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=Jungle%20Hollywood%2C%20Los%20Angeles",
+          "apple": "https://maps.apple.com/?q=Jungle%20Hollywood%2C%20Los%20Angeles"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-12-07-music-the-hot-chocolate-nutcracker-de00de",
+        "eid": "the-hot-chocolate-nutcra-7dcb",
+        "track": "music",
+        "category": "",
+        "name": "The Hot Chocolate Nutcracker",
+        "day": "Sat",
+        "date": "2026-12-12",
+        "time": "14:00",
+        "start": null,
+        "end": null,
+        "area": "Redondo Beach",
+        "venue": "Redondo Beach Performing Arts Center",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "From $54.59",
+        "tags": [],
+        "sources": [
+          {
+            "url": "https://www.eventbrite.com/d/ca--los-angeles/events/",
+            "hidden": true
+          }
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=Redondo%20Beach%20Performing%20Arts%20Center%2C%20Redondo%20Beach",
+          "apple": "https://maps.apple.com/?q=Redondo%20Beach%20Performing%20Arts%20Center%2C%20Redondo%20Beach"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-12-07-music-juvenile-wrecks-9394d5",
+        "eid": "juvenile-wrecks-c4aa",
+        "track": "music",
+        "category": "",
+        "name": "Juvenile Wrecks",
+        "day": "Sat",
+        "date": "2026-12-12",
+        "time": "19:30",
+        "start": null,
+        "end": null,
+        "area": "Los Angeles",
+        "venue": "The Redwood Bar And Grill",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "$15 (or new unwrapped toy donation equal to $15)",
+        "tags": [],
+        "sources": [
+          "https://ra.co/events/2580219"
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=The%20Redwood%20Bar%20And%20Grill%2C%20Los%20Angeles",
+          "apple": "https://maps.apple.com/?q=The%20Redwood%20Bar%20And%20Grill%2C%20Los%20Angeles"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-12-07-music-midnight-lovers-axel-boman-b2b-527d65",
+        "eid": "midnight-lovers-axel-bom-d2b8",
+        "track": "music",
+        "category": "",
+        "name": "Midnight Lovers: Axel Boman b2b Superpitcher - All Night",
+        "day": "Sat",
+        "date": "2026-12-12",
+        "time": "23:59",
+        "start": null,
+        "end": null,
+        "area": "Los Angeles",
+        "venue": "TBA (DTLA/Los Angeles)",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "$20-40",
+        "tags": [],
+        "sources": [
+          {
+            "url": "https://ra.co/events/2581127",
+            "hidden": true
+          }
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=Los%20Angeles",
+          "apple": "https://maps.apple.com/?q=Los%20Angeles"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "https://api.party-scout.app/img/los-angeles/2026-12-07/midnight-lovers-axel-bom-d2b8.jpg",
+        "image_generated": true,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-12-07-music-no-big-deal-thee-mike-b-scott-924cf3",
+        "eid": "no-big-deal-thee-mike-b-45f4",
+        "track": "music",
+        "category": "",
+        "name": "No Big Deal: Thee Mike B, Scott Tillett, DSD, Blair Minor",
+        "day": "Sat",
+        "date": "2026-12-12",
+        "time": "22:00",
+        "start": null,
+        "end": null,
+        "area": "Los Angeles",
+        "venue": "TBA (Los Angeles)",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "20-25",
+        "tags": [],
+        "sources": [
+          {
+            "url": "https://ra.co/events/2577747",
+            "hidden": true
+          }
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=Los%20Angeles",
+          "apple": "https://maps.apple.com/?q=Los%20Angeles"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "https://api.party-scout.app/img/los-angeles/2026-12-07/no-big-deal-thee-mike-b-45f4.jpg",
+        "image_generated": true,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-12-07-music-paradisco-5385e8",
+        "eid": "paradisco-3be3",
+        "track": "music",
+        "category": "",
+        "name": "Paradisco",
+        "day": "Sat",
+        "date": "2026-12-12",
+        "time": "22:00",
+        "start": null,
+        "end": null,
+        "area": "Los Angeles",
+        "venue": "Kiss Kiss Bang Bang (Los Angeles)",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "0",
+        "tags": [],
+        "sources": [
+          {
+            "url": "https://ra.co/events/2549301",
+            "hidden": true
+          }
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=Kiss%20Kiss%20Bang%20Bang%20%28Los%20Angeles%29%2C%20Los%20Angeles",
+          "apple": "https://maps.apple.com/?q=Kiss%20Kiss%20Bang%20Bang%20%28Los%20Angeles%29%2C%20Los%20Angeles"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "https://api.party-scout.app/img/los-angeles/2026-12-07/paradisco-3be3.jpg",
+        "image_generated": true,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-12-07-music-reggaeton-rave-a8131a",
+        "eid": "reggaeton-rave-4d5c",
+        "track": "music",
+        "category": "",
+        "name": "Reggaeton Rave",
+        "day": "Sat",
+        "date": "2026-12-12",
+        "time": "22:00",
+        "start": null,
+        "end": null,
+        "area": "Los Angeles",
+        "venue": "Exchange (Los Angeles)",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "free w/rsvp b4 11pm / $15",
+        "tags": [],
+        "sources": [
+          "https://www.ticketweb.com/event/id/14428504",
+          "https://edmtrain.com/los-angeles-ca/reggaeton-rave-550903"
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=Exchange%20%28Los%20Angeles%29%2C%20Los%20Angeles",
+          "apple": "https://maps.apple.com/?q=Exchange%20%28Los%20Angeles%29%2C%20Los%20Angeles"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "https://api.party-scout.app/img/los-angeles/2026-12-07/reggaeton-rave-4d5c.jpg",
+        "image_generated": true,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-12-07-music-rooler-156051",
+        "eid": "rooler-b685",
+        "track": "music",
+        "category": "",
+        "name": "Rooler",
+        "day": "Sat",
+        "date": "2026-12-12",
+        "time": "20:00",
+        "start": null,
+        "end": null,
+        "area": "Los Angeles",
+        "venue": "The Globe Theatre (Los Angeles)",
+        "address": "740 S Broadway, Los Angeles, CA 90014",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "$44.59-98.65",
+        "tags": [],
+        "sources": [
+          "https://posh.vip/e/trinity-presents-rooler",
+          "https://edmtrain.com/tours/rooler-22370",
+          "https://wl.eventim.us/event/ROOLER-Los-Angeles-CA/708517?afflky=SteveVerdugo&nts_trk=a9e71352-915a-4f20-8ead-c18765e4a3cc"
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=Globe%20Theater%20%28Los%20Angeles%29%2C%20Los%20Angeles",
+          "apple": "https://maps.apple.com/?q=Globe%20Theater%20%28Los%20Angeles%29%2C%20Los%20Angeles"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "https://cdn.vor.us/event/708517/og/ab310663c31e47b2acefae2dc1589945.image!jpeg.534100.jpg.SQUARE.jpg",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-12-07-music-schranz-till-i-die-ryx-summit-d71870",
+        "eid": "schranz-till-i-die-ryx-s-829e",
+        "track": "music",
+        "category": "",
+        "name": "Schranz Till I Die : Ryx & Summit, Miss Capri, Srry Laloh",
+        "day": "Sat",
+        "date": "2026-12-12",
+        "time": "23:45",
+        "start": null,
+        "end": null,
+        "area": "Los Angeles",
+        "venue": "TBA (Los Angeles)",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "$30+",
+        "tags": [],
+        "sources": [
+          "https://posh.vip/e/schranz-til-death?t=tt"
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=Los%20Angeles",
+          "apple": "https://maps.apple.com/?q=Los%20Angeles"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-12-07-music-shelter-2-year-anniversary-amo-5cf81a",
+        "eid": "shelter-2-year-anniversa-ff91",
+        "track": "music",
+        "category": "",
+        "name": "Shelter 2 Year Anniversary: Amoral, Mari Sakurai",
+        "day": "Sat",
+        "date": "2026-12-12",
+        "time": "23:59",
+        "start": null,
+        "end": null,
+        "area": "Los Angeles",
+        "venue": "TBA (DTLA/Los Angeles)",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "30-50",
+        "tags": [],
+        "sources": [
+          {
+            "url": "https://ra.co/events/2539289",
+            "hidden": true
+          }
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=Los%20Angeles",
+          "apple": "https://maps.apple.com/?q=Los%20Angeles"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "https://api.party-scout.app/img/los-angeles/2026-12-07/shelter-2-year-anniversa-ff91.jpg",
+        "image_generated": true,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-12-07-music-t4t-combat-rave-altmasc-bhaoun-60684a",
+        "eid": "t4t-combat-rave-altmasc-fac1",
+        "track": "music",
+        "category": "",
+        "name": "T4T Combat Rave: Altmasc, Bhaounceout, Lore: The World, Vilena",
+        "day": "Sat",
+        "date": "2026-12-12",
+        "time": "19:00",
+        "start": null,
+        "end": null,
+        "area": "Los Angeles",
+        "venue": "TBA (DTLA/Los Angeles)",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "$28.75-40.25",
+        "tags": [],
+        "sources": [
+          {
+            "url": "https://ra.co/events/2562773",
+            "hidden": true
+          }
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=Los%20Angeles",
+          "apple": "https://maps.apple.com/?q=Los%20Angeles"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "https://images.ra.co/0eb4b6c9b452fdf82fff5ad114e5410d6efcfbba.jpg",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true,
+        "lineup": [
+          {
+            "name": "BHAOUNCEOUT",
+            "instagram": null
+          },
+          {
+            "name": "VILENA",
+            "instagram": null
+          }
+        ]
+      },
+      {
+        "id": "2026-12-07-music-two-suns-one-star-8ffbfd",
+        "eid": "two-suns-one-star-ed71",
+        "track": "music",
+        "category": "",
+        "name": "Two Suns One Star",
+        "day": "Sat",
+        "date": "2026-12-12",
+        "time": "20:00",
+        "start": null,
+        "end": null,
+        "area": "Los Angeles",
+        "venue": "The Redwood Bar And Grill",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "",
+        "tags": [],
+        "sources": [
+          "https://ra.co/events/2564282"
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=The%20Redwood%20Bar%20And%20Grill%2C%20Los%20Angeles",
+          "apple": "https://maps.apple.com/?q=The%20Redwood%20Bar%20And%20Grill%2C%20Los%20Angeles"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-12-07-music-vanta-viora-presents-anjunadee-4f247c",
+        "eid": "vanta-viora-presents-anj-199f",
+        "track": "music",
+        "category": "",
+        "name": "VANTA VIORA presents: Anjunadeep Inspired Christmas Party at the Manor",
+        "day": "Sat",
+        "date": "2026-12-12",
+        "time": "14:00",
+        "start": null,
+        "end": null,
+        "area": "Los Angeles",
+        "venue": "TBA - 1240 MORNINGSIDE WAY, VENICE",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "$20",
+        "tags": [],
+        "sources": [
+          "https://ra.co/events/2583407"
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=Los%20Angeles",
+          "apple": "https://maps.apple.com/?q=Los%20Angeles"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-12-07-music-chrome-sparks-5e4f7b",
+        "eid": "chrome-sparks-7a6f",
+        "track": "music",
+        "category": "",
+        "name": "Chrome Sparks",
+        "day": "Sun",
+        "date": "2026-12-13",
+        "time": "",
+        "start": null,
+        "end": null,
+        "area": "Los Angeles",
+        "venue": "1200 E Olympic Blvd",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "",
+        "tags": [],
+        "sources": [
+          "https://edmtrain.com/tours/chrome-sparks-833"
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=1200%20E%20Olympic%20Blvd%2C%20Los%20Angeles",
+          "apple": "https://maps.apple.com/?q=1200%20E%20Olympic%20Blvd%2C%20Los%20Angeles"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-12-07-music-dragonforce-inhuman-rampage-20-8dbda6",
+        "eid": "dragonforce-inhuman-ramp-5e93",
+        "track": "music",
+        "category": "",
+        "name": "DragonForce: Inhuman Rampage 20th Anniversary",
+        "day": "Sun",
+        "date": "2026-12-13",
+        "time": "",
+        "start": null,
+        "end": null,
+        "area": "Los Angeles",
+        "venue": "The Wiltern",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "",
+        "tags": [],
+        "sources": [
+          "https://www.ticketmaster.com/dragonforce-inhuman-rampage-20th-anniversary-los-angeles-california-12-13-2026/event/090064B457451F33"
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=The%20Wiltern%2C%20Los%20Angeles",
+          "apple": "https://maps.apple.com/?q=The%20Wiltern%2C%20Los%20Angeles"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-12-07-music-konkrete-jungle-l-a-x-subform-18476c",
+        "eid": "konkrete-jungle-l-a-x-su-0e43",
+        "track": "music",
+        "category": "",
+        "name": "Konkrete Jungle L.A. x Subform Junglists",
+        "day": "Sun",
+        "date": "2026-12-13",
+        "time": "21:00",
+        "start": null,
+        "end": null,
+        "area": "Los Angeles",
+        "venue": "TBA (Los Angeles)",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "",
+        "tags": [],
+        "sources": [
+          "https://www.instagram.com/p/DfOFHudg41D/"
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=Los%20Angeles",
+          "apple": "https://maps.apple.com/?q=Los%20Angeles"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-12-07-music-the-passions-a61366",
+        "eid": "the-passions-a731",
+        "track": "music",
+        "category": "",
+        "name": "The Passions",
+        "day": "Sun",
+        "date": "2026-12-13",
+        "time": "18:00",
+        "start": null,
+        "end": null,
+        "area": "Los Angeles",
+        "venue": "The Redwood Bar And Grill",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "$10",
+        "tags": [],
+        "sources": [
+          "https://ra.co/events/2564284"
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=The%20Redwood%20Bar%20And%20Grill%2C%20Los%20Angeles",
+          "apple": "https://maps.apple.com/?q=The%20Redwood%20Bar%20And%20Grill%2C%20Los%20Angeles"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
       }
     ],
-    "sports": []
+    "sports": [
+      {
+        "id": "2026-12-07-sports-sierra-club-griffith-park-tues-2b8610",
+        "eid": "sierra-club-griffith-par-781b",
+        "track": "sports",
+        "category": "",
+        "name": "Sierra Club Griffith Park Tuesday Evening Hikes",
+        "day": "Tue",
+        "date": "2026-12-08",
+        "time": "19:00",
+        "start": null,
+        "end": null,
+        "area": "Los Angeles",
+        "venue": "Merry Go Round Lot Two",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "",
+        "tags": [],
+        "sources": [
+          "https://www.meetup.com/sierra-club-griffith-park-hikes/events/316808998/"
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=Merry%20Go%20Round%20Lot%20Two%2C%20Los%20Angeles",
+          "apple": "https://maps.apple.com/?q=Merry%20Go%20Round%20Lot%20Two%2C%20Los%20Angeles"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-12-07-sports-tuesday-womens-soccer-stoner-p-849184",
+        "eid": "tuesday-womens-soccer-st-6bdf",
+        "track": "sports",
+        "category": "",
+        "name": "Tuesday Womens Soccer - Stoner Park 7:15 PM",
+        "day": "Tue",
+        "date": "2026-12-08",
+        "time": "19:15",
+        "start": null,
+        "end": null,
+        "area": "Los Angeles",
+        "venue": "Grassy Area, Southeast Corner of Stoner Park (Corner of Stoner Ave/ Missouri Ave), FREE PARKING, 1854 Stoner Ave.",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "",
+        "tags": [],
+        "sources": [
+          "https://www.meetup.com/west-la-womens-pick-up-soccer-all-levels/events/316379958/"
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=Grassy%20Area%2C%20Southeast%20Corner%20of%20Stoner%20Park%20%28Corner%20of%20Stoner%20Ave/%20Missouri%20Ave%29%2C%20FREE%20PARKING%2C%201854%20Stoner%20Ave.%2C%20Los%20Angeles",
+          "apple": "https://maps.apple.com/?q=Grassy%20Area%2C%20Southeast%20Corner%20of%20Stoner%20Park%20%28Corner%20of%20Stoner%20Ave/%20Missouri%20Ave%29%2C%20FREE%20PARKING%2C%201854%20Stoner%20Ave.%2C%20Los%20Angeles"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-12-07-sports-sierra-club-griffith-park-thur-b4f36d",
+        "eid": "sierra-club-griffith-par-4075",
+        "track": "sports",
+        "category": "",
+        "name": "Sierra Club Griffith Park Thursday Evening Hikes",
+        "day": "Thu",
+        "date": "2026-12-10",
+        "time": "19:00",
+        "start": null,
+        "end": null,
+        "area": "Los Angeles",
+        "venue": "Merry Go Round Lot Two",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "",
+        "tags": [],
+        "sources": [
+          "https://www.meetup.com/sierra-club-griffith-park-hikes/events/316710235/"
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=Merry%20Go%20Round%20Lot%20Two%2C%20Los%20Angeles",
+          "apple": "https://maps.apple.com/?q=Merry%20Go%20Round%20Lot%20Two%2C%20Los%20Angeles"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-12-07-sports-2026-pickleball-lovers-join-ou-857b11",
+        "eid": "2026-pickleball-lovers-j-28db",
+        "track": "sports",
+        "category": "",
+        "name": "2026 Pickleball Lovers!! Join Our Weekend \"Social Dinkers\" Pickleball Community!",
+        "day": "Sat",
+        "date": "2026-12-12",
+        "time": "08:00",
+        "start": null,
+        "end": null,
+        "area": "Los Angeles",
+        "venue": "6333 W 3rd St, Los Angeles, CA 90036, 6333 W 3rd St, Los Angeles, CA 90036",
+        "address": "6333 W 3rd St, Los Angeles, CA 90036, Los Angeles, Ca",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "Free",
+        "tags": [],
+        "sources": [
+          "https://www.meetup.com/meetup-group-axugemky/events/317382765/"
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=6333%20W%203rd%20St%2C%20Los%20Angeles%2C%20CA%2090036%2C%20Los%20Angeles%2C%20Ca",
+          "apple": "https://maps.apple.com/?q=6333%20W%203rd%20St%2C%20Los%20Angeles%2C%20CA%2090036%2C%20Los%20Angeles%2C%20Ca"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "https://secure.meetupstatic.com/photos/event/6/d/1/d/highres_534687933.jpeg",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-12-07-sports-a-charlie-brown-christmas-5k-1-e14ea4",
+        "eid": "a-charlie-brown-christma-abbb",
+        "track": "sports",
+        "category": "",
+        "name": "A Charlie Brown Christmas 5K/10K - Los Angeles",
+        "day": "Sat",
+        "date": "2026-12-12",
+        "time": "",
+        "start": null,
+        "end": null,
+        "area": "Los Angeles",
+        "venue": "Los Angeles",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "",
+        "tags": [],
+        "sources": [
+          "https://www.runguides.com/event/25356/a-charlie-brown-christmas-5k-10k-los-angeles"
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=Los%20Angeles%2C%20Los%20Angeles",
+          "apple": "https://maps.apple.com/?q=Los%20Angeles%2C%20Los%20Angeles"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-12-07-sports-beacon-hill-fern-canyon-loop-774c59",
+        "eid": "beacon-hill-fern-canyon-cc0b",
+        "track": "sports",
+        "category": "",
+        "name": "Beacon Hill Fern Canyon Loop",
+        "day": "Sat",
+        "date": "2026-12-12",
+        "time": "09:30",
+        "start": null,
+        "end": null,
+        "area": "Los Angeles",
+        "venue": "Merry Go Round Lot One, Merry Go Round Lot One, Los Angeles, CA 90027, USA",
+        "address": "Merry Go Round Lot One, Los Angeles, CA 90027, USA, Los Angeles, CA",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "Free",
+        "tags": [],
+        "sources": [
+          "https://www.meetup.com/socal-pride-hikes/events/317365944/"
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=Merry%20Go%20Round%20Lot%20One%2C%20Los%20Angeles%2C%20CA%2090027%2C%20USA%2C%20Los%20Angeles%2C%20CA",
+          "apple": "https://maps.apple.com/?q=Merry%20Go%20Round%20Lot%20One%2C%20Los%20Angeles%2C%20CA%2090027%2C%20USA%2C%20Los%20Angeles%2C%20CA"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "https://secure.meetupstatic.com/photos/event/2/f/c/1/highres_537072225.jpeg",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-12-07-sports-explore-griffith-park-f1e90a",
+        "eid": "explore-griffith-park-9110",
+        "track": "sports",
+        "category": "",
+        "name": "Explore Griffith Park",
+        "day": "Sat",
+        "date": "2026-12-12",
+        "time": "15:30",
+        "start": null,
+        "end": null,
+        "area": "Los Angeles",
+        "venue": "Griffith Park Merry Go Round Lot 2, Merry Go Round Lot Two",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "",
+        "tags": [],
+        "sources": [
+          "https://www.meetup.com/los-angeles-hiking-group/events/316617075/"
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=Griffith%20Park%20Merry%20Go%20Round%20Lot%202%2C%20Merry%20Go%20Round%20Lot%20Two%2C%20Los%20Angeles",
+          "apple": "https://maps.apple.com/?q=Griffith%20Park%20Merry%20Go%20Round%20Lot%202%2C%20Merry%20Go%20Round%20Lot%20Two%2C%20Los%20Angeles"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-12-07-sports-saturday-morning-hike-at-griff-b3f6b9",
+        "eid": "saturday-morning-hike-at-baa8",
+        "track": "sports",
+        "category": "",
+        "name": "🐾 Saturday Morning Hike at Griffith Park",
+        "day": "Sat",
+        "date": "2026-12-12",
+        "time": "10:00",
+        "start": null,
+        "end": null,
+        "area": "Los Angeles",
+        "venue": "Griffith Park Playground, 4800 Crystal Springs Dr",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "",
+        "tags": [],
+        "sources": [
+          "https://www.meetup.com/feet-and-paws-pack-walk-los-angeles/events/314653770/"
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=Griffith%20Park%20Playground%2C%204800%20Crystal%20Springs%20Dr%2C%20Los%20Angeles",
+          "apple": "https://maps.apple.com/?q=Griffith%20Park%20Playground%2C%204800%20Crystal%20Springs%20Dr%2C%20Los%20Angeles"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-12-07-sports-gamers-get-gains-group-workout-d970f5",
+        "eid": "gamers-get-gains-group-w-5014",
+        "track": "sports",
+        "category": "",
+        "name": "Gamers Get GAINS (Group Workout)",
+        "day": "Sun",
+        "date": "2026-12-13",
+        "time": "19:00",
+        "start": null,
+        "end": null,
+        "area": "Los Angeles",
+        "venue": "226 N Lake St, 226 N Lake St",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "",
+        "tags": [],
+        "sources": [
+          "https://www.meetup.com/aflockofgamers/events/316576204/"
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=226%20N%20Lake%20St%2C%20226%20N%20Lake%20St%2C%20Los%20Angeles",
+          "apple": "https://maps.apple.com/?q=226%20N%20Lake%20St%2C%20226%20N%20Lake%20St%2C%20Los%20Angeles"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      }
+    ]
   }
 }
