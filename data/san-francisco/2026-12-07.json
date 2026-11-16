@@ -516,7 +516,7 @@
         "time": "19:00",
         "start": null,
         "end": null,
-        "area": "San Francisco",
+        "area": "Castro",
         "venue": "The Castro",
         "address": "",
         "why": "For an intimate evening at The Castro in the heart of the neighborhood.",
@@ -554,7 +554,7 @@
         "id": "2026-12-07-music-harbour-c512cf",
         "eid": "harbour-8d30",
         "track": "music",
-        "category": "",
+        "category": "Concert",
         "name": "Harbour",
         "day": "Tue",
         "date": "2026-12-08",
@@ -564,11 +564,17 @@
         "area": "San Francisco",
         "venue": "Cafe du Nord",
         "address": "",
-        "why": "",
-        "summary": "",
+        "why": "A high-energy live show from a band that has gone from Cincinnati rooms to sold-out venues nationwide, in an intimate basement club.",
+        "summary": "Cincinnati-area rock band Harbour headlines Cafe du Nord on the tour for their fifth album, Great, Big, Insignificant. All ages.",
         "promoter": "",
-        "price": "",
-        "tags": [],
+        "price": "$33.45",
+        "tags": [
+          "live",
+          "indoor",
+          "live-music",
+          "rock",
+          "all-ages"
+        ],
         "sources": [
           "https://dothebay.com/events/2026/12/8/harbour-tickets"
         ],
@@ -580,17 +586,17 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/san-francisco/2026-12-07/harbour-8d30.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
         "id": "2026-12-07-music-kumo-99-cca79a",
         "eid": "kumo-99-f356",
         "track": "music",
-        "category": "",
+        "category": "Concert",
         "name": "Kumo 99",
         "day": "Tue",
         "date": "2026-12-08",
@@ -600,11 +606,15 @@
         "area": "San Francisco",
         "venue": "Brick & Mortar Music Hall",
         "address": "",
-        "why": "",
-        "summary": "",
+        "why": "For an evening of live music at Brick & Mortar Music Hall.",
+        "summary": "Kumo 99 happens at Brick & Mortar Music Hall in San Francisco on December 8, 2026, beginning at 8:00 PM.",
         "promoter": "",
-        "price": "",
-        "tags": [],
+        "price": "$27.58",
+        "tags": [
+          "music",
+          "live",
+          "indoor"
+        ],
         "sources": [
           "https://dothebay.com/events/2026/12/8/kumo-99-tickets"
         ],
@@ -616,17 +626,17 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/san-francisco/2026-12-07/kumo-99-f356.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
         "id": "2026-12-07-music-makeout-reef-lovers-peak-985612",
         "eid": "makeout-reef-lovers-peak-1ec3",
         "track": "music",
-        "category": "",
+        "category": "Concert",
         "name": "Makeout Reef, Lovers Peak",
         "day": "Tue",
         "date": "2026-12-08",
@@ -636,13 +646,17 @@
         "area": "San Francisco",
         "venue": "Bottom Of The Hill",
         "address": "",
-        "why": "",
-        "summary": "",
+        "why": "Go for an intimate live-music night at a well-known San Francisco club.",
+        "summary": "An evening concert at Bottom Of The Hill on December 8, 2026 at 7:30 PM featuring Makeout Reef and Lovers Peak.",
         "promoter": "",
-        "price": "",
-        "tags": [],
+        "price": "$20 advance / $25 door",
+        "tags": [
+          "live",
+          "indoor"
+        ],
         "sources": [
-          "https://dothebay.com/events/2026/12/8/makeout-reef-lovers-peak-tickets"
+          "https://dothebay.com/events/2026/12/8/makeout-reef-lovers-peak-tickets",
+          "https://www.bottomofthehill.com/calendar.html"
         ],
         "tickets": [],
         "maps": {
@@ -652,38 +666,46 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/san-francisco/2026-12-07/makeout-reef-lovers-peak-1ec3.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
         "id": "2026-12-07-music-paradiso-rumorosa-dj-rebecca-d-e8952e",
         "eid": "paradiso-rumorosa-dj-reb-8b93",
         "track": "music",
-        "category": "",
+        "category": "Nightclub",
         "name": "Paradiso: Rumorosa, DJ Rebecca, DJ Nati, Carla Lyn",
         "day": "Tue",
         "date": "2026-12-08",
         "time": "21:00",
-        "start": null,
-        "end": null,
+        "start": "21:00",
+        "end": "02:00",
         "area": "San Francisco",
         "venue": "Makeout Room (San Francisco)",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "3225 22nd St, San Francisco, CA, 94110, USA",
+        "why": "For a late-night set of DJs and dancing in an intimate Mission venue.",
+        "summary": "A club night at Makeout Room on 2026-12-08 at 21:00 featuring Rumorosa, DJ Rebecca, DJ Nati, and Carla Lyn.",
         "promoter": "",
         "price": "0.00",
-        "tags": [],
+        "tags": [
+          "dj",
+          "live",
+          "21+",
+          "dance",
+          "nightlife"
+        ],
         "sources": [
           {
             "url": "https://ra.co/events/2557419",
             "hidden": true
           }
         ],
-        "tickets": [],
+        "tickets": [
+          "https://ra.co/events/2557419"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Makeout%20Room%20%28San%20Francisco%29%2C%20San%20Francisco",
           "apple": "https://maps.apple.com/?q=Makeout%20Room%20%28San%20Francisco%29%2C%20San%20Francisco"
@@ -691,17 +713,17 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/san-francisco/2026-12-07/paradiso-rumorosa-dj-reb-8b93.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
         "id": "2026-12-07-music-why-d8938b",
         "eid": "why-2c31",
         "track": "music",
-        "category": "",
+        "category": "Concert",
         "name": "WHY?",
         "day": "Tue",
         "date": "2026-12-08",
@@ -711,11 +733,15 @@
         "area": "San Francisco",
         "venue": "Swedish American Hall",
         "address": "",
-        "why": "",
-        "summary": "",
+        "why": "For a night out at a historic, intimate concert venue in San Francisco.",
+        "summary": "WHY? takes place at Swedish American Hall on December 8, 2026, starting at 7:00 PM.",
         "promoter": "",
         "price": "",
-        "tags": [],
+        "tags": [
+          "live",
+          "indoor",
+          "nightlife"
+        ],
         "sources": [
           "https://dothebay.com/events/2026/12/8/why-tickets"
         ],
@@ -730,7 +756,7 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
@@ -3565,21 +3591,26 @@
         "id": "2026-12-07-sports-squash-in-the-mission-tuesday-a66641",
         "eid": "squash-in-the-mission-tu-367c",
         "track": "sports",
-        "category": "",
+        "category": "Sports",
         "name": "Squash in the Mission (Tuesday)",
         "day": "Tue",
         "date": "2026-12-08",
         "time": "18:30",
-        "start": null,
-        "end": null,
+        "start": "18:30",
+        "end": "20:30",
         "area": "San Francisco",
         "venue": "Mission Recreation Center, 2450 Harrison St",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "2450 Harrison St, San Francisco, CA",
+        "why": "Get a free squash workout and play with local players.",
+        "summary": "An active, weekly drop-in squash group that meets at the Mission Recreation Center courts. Sessions are free and the venue is close to the 16th and 24th Street BART stations.",
         "promoter": "",
-        "price": "",
-        "tags": [],
+        "price": "Free",
+        "tags": [
+          "sports",
+          "free",
+          "community",
+          "drop-in"
+        ],
         "sources": [
           "https://www.meetup.com/san-francisco-racquet-sports/events/317300913/"
         ],
@@ -3591,10 +3622,10 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/san-francisco/2026-12-07/squash-in-the-mission-tu-367c.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
