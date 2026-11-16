@@ -3898,7 +3898,7 @@
         "id": "2026-12-07-music-story-time-holiday-concert-d3959a",
         "eid": "story-time-holiday-conce-cb1c",
         "track": "music",
-        "category": "",
+        "category": "Concert",
         "name": "Story Time Holiday Concert",
         "day": "Sun",
         "date": "2026-12-13",
@@ -3908,15 +3908,25 @@
         "area": "Berkeley",
         "venue": "The Freight",
         "address": "",
-        "why": "",
-        "summary": "",
+        "why": "A joyful, family-friendly holiday morning of live music, stories and dancing from one of the East Bay's best-loved kids' bands.",
+        "summary": "The Story Time Band, born at Berkeley's Claremont library branch, brings its sing-along storytelling show to The Freight for its first holiday collaboration with the venue.",
         "promoter": "",
         "price": "",
-        "tags": [],
+        "tags": [
+          "holiday",
+          "live",
+          "family",
+          "concert",
+          "kids",
+          "live-music",
+          "berkeley"
+        ],
         "sources": [
           "https://dothebay.com/events/2026/12/13/story-time-holiday-concert-tickets"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://secure.thefreight.org/16282/16283-story-time-holiday-concert-261213"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=The%20Freight%2C%20Berkeley",
           "apple": "https://maps.apple.com/?q=The%20Freight%2C%20Berkeley"
@@ -3927,28 +3937,32 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
         "id": "2026-12-07-music-swervedriver-raise-at-35-6e8fe4",
         "eid": "swervedriver-raise-at-35-70a1",
         "track": "music",
-        "category": "",
+        "category": "Concert",
         "name": "Swervedriver Raise at 35",
         "day": "Sun",
         "date": "2026-12-13",
         "time": "20:00",
         "start": null,
         "end": null,
-        "area": "San Francisco",
+        "area": "Western Addition",
         "venue": "The Independent",
         "address": "",
-        "why": "",
-        "summary": "",
+        "why": "To experience a full-band live show at The Independent.",
+        "summary": "Swervedriver performs at The Independent in San Francisco on December 13, 2026 at 8:00 PM for “Raise at 35.”",
         "promoter": "",
         "price": "",
-        "tags": [],
+        "tags": [
+          "live",
+          "rock",
+          "indie"
+        ],
         "sources": [
           "https://dothebay.com/events/2026/12/13/swervedriver-raise-at-35-tickets"
         ],
@@ -3963,7 +3977,7 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
@@ -3980,11 +3994,14 @@
         "area": "San Francisco",
         "venue": "The Castro",
         "address": "",
-        "why": "",
-        "summary": "",
+        "why": "For an early-evening night out in the Castro neighborhood.",
+        "summary": "Yaelokre takes place at The Castro in San Francisco on 2026-12-13, starting at 18:00.",
         "promoter": "",
         "price": "",
-        "tags": [],
+        "tags": [
+          "music",
+          "nightlife"
+        ],
         "sources": [
           "https://dothebay.com/events/2026/12/13/yaelokre-tickets"
         ],
@@ -3999,7 +4016,7 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       }
     ],
@@ -4390,21 +4407,26 @@
         "id": "2026-12-07-sports-sunday-morning-run-41eeb3",
         "eid": "sunday-morning-run-1085",
         "track": "sports",
-        "category": "",
+        "category": "Sports",
         "name": "Sunday Morning Run",
         "day": "Sun",
         "date": "2026-12-13",
         "time": "10:00",
-        "start": null,
-        "end": null,
+        "start": "10:00",
+        "end": "12:00",
         "area": "San Francisco",
         "venue": "Panhandle",
         "address": "",
-        "why": "",
-        "summary": "",
+        "why": "For a low-pressure, all-pace 5K and post-run coffee with a friendly group.",
+        "summary": "Community-organized weekly Sunday run meeting at 10:00 at the southeast corner of the Panhandle (near the William McKinley statue) for a 5K through Golden Gate Park; recommended pace is 10–15 min/mile.",
         "promoter": "",
-        "price": "",
-        "tags": [],
+        "price": "Free",
+        "tags": [
+          "running",
+          "free",
+          "outdoor",
+          "community"
+        ],
         "sources": [
           "https://www.meetup.com/slowrunnerssf/events/316888268/"
         ],
@@ -4416,31 +4438,37 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/san-francisco/2026-12-07/sunday-morning-run-1085.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
         "id": "2026-12-07-sports-unicycle-club-practice-at-circ-4b6d3a",
         "eid": "unicycle-club-practice-a-b1a1",
         "track": "sports",
-        "category": "",
+        "category": "Sports",
         "name": "Unicycle Club Practice at Circus Center",
         "day": "Sun",
         "date": "2026-12-13",
         "time": "17:00",
-        "start": null,
-        "end": null,
+        "start": "17:00",
+        "end": "20:00",
         "area": "San Francisco",
         "venue": "Circus Center, 755 Frederick St",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "755 Frederick St, San Francisco, CA",
+        "why": "To learn or improve unicycling skills with provided equipment, clear safety rules, and a supportive group.",
+        "summary": "Community unicycle practice at Circus Center open to any skill level; participation is free (voluntary donations recommended) and Circus Center can provide a unicycle if you don’t bring one. Attendees must sign a paper waiver, those under 13 need a supervising adult, and everyone is required to have taken at least one unicycle class with Ying Ying Zhao before practicing.",
         "promoter": "",
-        "price": "",
-        "tags": [],
+        "price": "Free",
+        "tags": [
+          "free",
+          "workshop",
+          "all-ages",
+          "beginner-friendly",
+          "equipment-provided"
+        ],
         "sources": [
           "https://www.meetup.com/san-francisco-unicycle-meetup-group/events/316757779/"
         ],
@@ -4452,31 +4480,36 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/san-francisco/2026-12-07/unicycle-club-practice-a-b1a1.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
         "id": "2026-12-07-sports-wrestling-at-the-beach-eec4bf",
         "eid": "wrestling-at-the-beach-27ac",
         "track": "sports",
-        "category": "",
+        "category": "Sports",
         "name": "Wrestling at the Beach",
         "day": "Sun",
         "date": "2026-12-13",
         "time": "13:00",
-        "start": null,
-        "end": null,
+        "start": "13:00",
+        "end": "15:00",
         "area": "San Francisco",
         "venue": "Ocean Beach",
         "address": "",
-        "why": "",
-        "summary": "",
+        "why": "Practice grappling and conditioning outdoors on the sand in an all-skill-level setting.",
+        "summary": "A free beach wrestling meetup at Ocean Beach on 2026-12-13 at 13:00; any skill level is welcome, but RSVP is required and participants must agree to a release/waiver. Under-18s can attend only if accompanied by a parent or guardian who also signs up.",
         "promoter": "",
-        "price": "",
-        "tags": [],
+        "price": "Free",
+        "tags": [
+          "sport",
+          "outdoor",
+          "free",
+          "fitness"
+        ],
         "sources": [
           "https://www.meetup.com/san-francisco-beach-wrestling-club/events/316757754/"
         ],
@@ -4488,10 +4521,10 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/san-francisco/2026-12-07/wrestling-at-the-beach-27ac.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       }
     ]
