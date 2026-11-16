@@ -5607,23 +5607,32 @@
         "id": "2026-11-23-music-the-furry-rave-pinkii-verplex-4b27d8",
         "eid": "the-furry-rave-pinkii-ve-0736",
         "track": "music",
-        "category": "",
+        "category": "Nightclub",
         "name": "The Furry Rave: Pinkii, Verplex, Sammphire, Spinetruck, Crossmelodies, Dr1ft, Augg1e, Hypertears, Sampphire",
         "day": "Fri",
         "date": "2026-11-27",
         "time": "9pm",
         "start": "21:00",
-        "end": null,
+        "end": "02:00",
         "area": "Oakland",
         "venue": "Continental Club (Oakland)",
         "address": "",
-        "why": "",
-        "summary": "",
+        "why": "For high-energy electronic sets and a night of dancing.",
+        "summary": "A rave-style club night at Continental Club in Oakland on November 27, 2026 at 9pm, featuring Pinkii, Verplex, Sammphire, Spinetruck, Crossmelodies, Dr1ft, Augg1e, Hypertears, and Sampphire; tickets are $19–$30.",
         "promoter": "",
-        "price": "",
-        "tags": [],
+        "price": "$19–$30",
+        "tags": [
+          "electronic",
+          "dj",
+          "dance",
+          "rave",
+          "club"
+        ],
         "sources": [
-          "https://oaklandcontinentalclub.com/cc_events/furry-rave-nov-27-oakland/"
+          {
+            "url": "https://oaklandcontinentalclub.com/cc_events/furry-rave-nov-27-oakland/",
+            "hidden": true
+          }
         ],
         "tickets": [],
         "maps": {
@@ -5633,10 +5642,10 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/san-francisco/2026-11-23/the-furry-rave-pinkii-ve-0736.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
@@ -5795,25 +5804,31 @@
         "id": "2026-11-23-music-salty-residency-friendsgiving-88d561",
         "eid": "salty-residency-friendsg-db0f",
         "track": "music",
-        "category": "",
+        "category": "Concert",
         "name": "Salty Residency - Friendsgiving",
         "day": "Fri",
         "date": "2026-11-27",
         "time": "20:00",
-        "start": null,
-        "end": null,
+        "start": "20:00",
+        "end": "01:00",
         "area": "San Francisco",
         "venue": "Napa Music Hall",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "1030 Main St, Napa, CA 94559, United States",
+        "why": "A relaxed post-Thanksgiving night out with friends at a local music venue.",
+        "summary": "A Friendsgiving edition of the Salty Residency at Napa Music Hall on November 27, 2026, beginning at 8:00 PM.",
         "promoter": "",
         "price": "$0",
-        "tags": [],
+        "tags": [
+          "live",
+          "party",
+          "nightlife"
+        ],
         "sources": [
           "https://ra.co/events/2585023"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://ra.co/events/2585023"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Napa%20Music%20Hall%2C%20San%20Francisco",
           "apple": "https://maps.apple.com/?q=Napa%20Music%20Hall%2C%20San%20Francisco"
@@ -5821,36 +5836,40 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/san-francisco/2026-11-23/salty-residency-friendsg-db0f.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
         "id": "2026-11-23-music-steve-furey-865493",
         "eid": "steve-furey-523d",
         "track": "music",
-        "category": "",
+        "category": "Comedy",
         "name": "Steve Furey",
         "day": "Fri",
         "date": "2026-11-27",
         "time": "9:15PM",
         "start": "21:15",
         "end": null,
-        "area": "San Francisco",
+        "area": "SF",
         "venue": "Punch Line San Francisco",
         "address": "",
-        "why": "",
-        "summary": "",
+        "why": "For a late-night stand-up set in an intimate comedy-club setting.",
+        "summary": "Stand-up comedy show featuring Steve Furey at Punch Line San Francisco on 2026-11-27 at 9:15PM.",
         "promoter": "",
         "price": "",
-        "tags": [],
+        "tags": [
+          "comedy",
+          "live"
+        ],
         "sources": [
           {
             "url": "https://dothebay.com/events",
             "hidden": true
-          }
+          },
+          "https://www.punchlinecomedyclub.com/shows"
         ],
         "tickets": [],
         "maps": {
@@ -5863,33 +5882,41 @@
         "image": "https://api.party-scout.app/img/san-francisco/2026-11-23/steve-furey-523d.jpg",
         "image_generated": true,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
         "id": "2026-11-23-music-baile-world-river-moon-cquestt-c8ad7b",
         "eid": "baile-world-river-moon-c-faa4",
         "track": "music",
-        "category": "",
+        "category": "Nightclub",
         "name": "Baile World: River Moon, Cquestt, Julia Rose, Discnogirl, Mama San, Yuca Frita, 4Dhila",
         "day": "Sat",
         "date": "2026-11-28",
         "time": "9pm",
         "start": "21:00",
-        "end": null,
+        "end": "02:00",
         "area": "San Francisco",
         "venue": "Monarch (San Francisco)",
         "address": "101 6th Street, San Francisco, CA 94103",
-        "why": "",
-        "summary": "",
+        "why": "For a late-night dance party with a varied DJ lineup.",
+        "summary": "Club night at Monarch in SoMa on 2026-11-28 at 9pm featuring River Moon, Cquestt, Julia Rose, Discnogirl, Mama San, Yuca Frita and 4Dhila.",
         "promoter": "",
         "price": "5-30",
-        "tags": [],
+        "tags": [
+          "dj",
+          "dance",
+          "baile",
+          "club"
+        ],
         "sources": [
           "https://www.eventbrite.com/e/baile-world-tickets-2004687440098",
           "https://ra.co/events/2582119"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://www.eventbrite.com/e/baile-world-tickets-2004687440098",
+          "https://ra.co/events/2582119"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=101%206th%20Street%2C%20San%20Francisco%2C%20CA%2094103",
           "apple": "https://maps.apple.com/?q=101%206th%20Street%2C%20San%20Francisco%2C%20CA%2094103"
@@ -5900,7 +5927,7 @@
         "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1197797394%2F2342731624493%2F1%2Foriginal.20261111-204246?crop=focalpoint&fit=crop&w=940&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=6878558c2f7df60ffdef7fa908ffb262",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true,
         "lineup": [
           {
@@ -5940,14 +5967,18 @@
         "time": "7:45PM",
         "start": "19:45",
         "end": null,
-        "area": "San Francisco",
+        "area": "North Beach",
         "venue": "Mr. Bing's",
         "address": "",
-        "why": "",
-        "summary": "",
+        "why": "For a casual night out at Mr. Bing's to enjoy local nightlife.",
+        "summary": "Bit City at Mr. Bing's is an event taking place at Mr. Bing's in San Francisco on November 28, 2026 at 7:45 PM.",
         "promoter": "",
         "price": "",
-        "tags": [],
+        "tags": [
+          "bar",
+          "nightlife",
+          "sf"
+        ],
         "sources": [
           {
             "url": "https://dothebay.com/events/weekly/sat/live-comedy-in-the-attic-tickets",
@@ -5965,28 +5996,33 @@
         "image": "https://api.party-scout.app/img/san-francisco/2026-11-23/bit-city-at-mr-bing-s-8b66.jpg",
         "image_generated": true,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
         "id": "2026-11-23-music-cahtz-835458",
         "eid": "cahtz-469e",
         "track": "music",
-        "category": "",
+        "category": "Nightclub",
         "name": "Cahtz",
         "day": "Sat",
         "date": "2026-11-28",
         "time": "9pm",
         "start": "21:00",
-        "end": null,
+        "end": "01:30",
         "area": "San Francisco",
         "venue": "Swig Bar (San Francisco)",
         "address": "",
-        "why": "",
-        "summary": "",
+        "why": "For a free late-night bar hang and drinks in San Francisco.",
+        "summary": "Cahtz is a free event at Swig Bar in San Francisco on November 28, 2026, starting at 9pm.",
         "promoter": "",
-        "price": "",
-        "tags": [],
+        "price": "Free",
+        "tags": [
+          "free",
+          "21+",
+          "bar",
+          "nightlife"
+        ],
         "sources": [
           "https://www.instagram.com/cahtzmusic/p/DfiDvAgma52/"
         ],
@@ -6001,7 +6037,7 @@
         "image": "https://api.party-scout.app/img/san-francisco/2026-11-23/cahtz-469e.jpg",
         "image_generated": true,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
@@ -7527,16 +7563,22 @@
         "day": "Sat",
         "date": "2026-11-28",
         "time": "11:00",
-        "start": null,
-        "end": null,
+        "start": "11:00",
+        "end": "16:00",
         "area": "San Francisco",
         "venue": "Salesforce Park, 425 Mission St",
         "address": "425 Mission St, San Francisco, CA",
-        "why": "",
-        "summary": "",
+        "why": "For a relaxed, educational waterfront stroll with museum stops and local history.",
+        "summary": "A guided waterfront walk meeting at the far east end of the top of the Salesforce Terminal (Salesforce Park) at 11:00 AM, then walking north toward the Hyde Street Pier to visit maritime sites and museums such as the S.F. Maritime National Park Visitor Center and the Truhlsen Harmor Museum of the Eye; the route also includes a stop at the Exploratorium's free History Lobby. The organizer requests $5 per adult (free for attendees under 18), and participants are advised to bring water and a sack lunch.",
         "promoter": "",
         "price": "$1",
-        "tags": [],
+        "tags": [
+          "outdoor",
+          "walking",
+          "museums",
+          "family-friendly",
+          "cheap"
+        ],
         "sources": [
           "https://www.meetup.com/walking-in-sf/events/317245383/"
         ],
@@ -7551,7 +7593,7 @@
         "image": "https://secure.meetupstatic.com/photos/event/9/c/e/0/highres_508420160.jpeg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
