@@ -1630,23 +1630,28 @@
         "id": "2026-12-07-music-yachtley-crew-90e90a",
         "eid": "yachtley-crew-d8d5",
         "track": "music",
-        "category": "",
+        "category": "Concert",
         "name": "Yachtley Crew",
         "day": "Fri",
         "date": "2026-12-11",
-        "time": "",
+        "time": "7:00 PM",
         "start": null,
         "end": null,
-        "area": "Los Angeles",
+        "area": "Koreatown",
         "venue": "The Wiltern",
         "address": "",
-        "why": "",
-        "summary": "",
+        "why": "To catch a live band performance at a historic LA theater.",
+        "summary": "Yachtley Crew performs at The Wiltern in Los Angeles on December 11, 2026.",
         "promoter": "",
-        "price": "",
-        "tags": [],
+        "price": "From $40",
+        "tags": [
+          "live",
+          "concert",
+          "indoor"
+        ],
         "sources": [
-          "https://www.ticketmaster.com/yachtley-crew-los-angeles-california-12-11-2026/event/09006506B1FD9D9B"
+          "https://www.ticketmaster.com/yachtley-crew-los-angeles-california-12-11-2026/event/09006506B1FD9D9B",
+          "https://www.tickpick.com/buy-yachtley-crew-tickets-the-wiltern-12-11-26-7pm/8198216/"
         ],
         "tickets": [],
         "maps": {
@@ -1659,36 +1664,45 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
         "id": "2026-12-07-music-yosuf-94f906",
         "eid": "yosuf-2789",
         "track": "music",
-        "category": "",
+        "category": "Nightclub",
         "name": "Yosuf",
         "day": "Fri",
         "date": "2026-12-11",
         "time": "22:00",
-        "start": null,
-        "end": null,
-        "area": "Los Angeles",
+        "start": "22:00",
+        "end": "03:00",
+        "area": "DTLA",
         "venue": "Exchange (Los Angeles)",
         "address": "",
-        "why": "",
-        "summary": "",
+        "why": "A rare hardstyle night in DTLA, at one of the city's best sound-system rooms.",
+        "summary": "Hardstyle DJ Yosuf takes over Exchange LA in downtown for a late Friday night of heavy kicks and big-room energy. 21+, doors at 10 PM.",
         "promoter": "",
         "price": "$15-75",
-        "tags": [],
+        "tags": [
+          "dj",
+          "nightclub",
+          "21+",
+          "hardstyle",
+          "edm"
+        ],
         "sources": [
           "https://www.tixr.com/groups/exchangela/events/yosuf-210306",
           {
             "url": "https://edmtrain.com/tours/yosuf-45876",
             "hidden": true
-          }
+          },
+          "https://exchangela.com/event/yosuf-hardstyle-dj-music-concert-show-tonight-tomorrow-2026-december-11-best-night-club-near-me-los-angeles/"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://www.tixr.com/groups/exchangela/events/yosuf-210306"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Exchange%20%28Los%20Angeles%29%2C%20Los%20Angeles",
           "apple": "https://maps.apple.com/?q=Exchange%20%28Los%20Angeles%29%2C%20Los%20Angeles"
@@ -1696,38 +1710,45 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/los-angeles/2026-12-07/yosuf-2789.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
         "id": "2026-12-07-music-a-club-called-rhonda-w-arlo-pa-825ca7",
         "eid": "a-club-called-rhonda-w-a-87db",
         "track": "music",
-        "category": "",
+        "category": "Nightclub",
         "name": "A Club Called Rhonda w/ Arlo Parks, Drama, Gabriels, Knoxdotmp3, Puffie, Shaun Ross, Zach Witness",
         "day": "Sat",
         "date": "2026-12-12",
         "time": "21:30",
-        "start": null,
-        "end": null,
+        "start": "21:30",
+        "end": "04:00",
         "area": "Los Angeles",
         "venue": "Los Globos (Los Angeles)",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "3040 W Sunset Blvd Los Angeles, CA 90026",
+        "why": "To see a stacked bill of indie, soul and electronic artists in an intimate Sunset Blvd club setting.",
+        "summary": "A Club Called Rhonda takes over Los Globos on December 12, 2026 at 9:30 PM with Arlo Parks, Drama, Gabriels, Knoxdotmp3, Puffie, Shaun Ross, and Zach Witness on the bill.",
         "promoter": "",
         "price": "$10-40",
-        "tags": [],
+        "tags": [
+          "live",
+          "dj",
+          "indie",
+          "r&b"
+        ],
         "sources": [
           {
             "url": "https://ra.co/events/2572091",
             "hidden": true
           }
         ],
-        "tickets": [],
+        "tickets": [
+          "https://ra.co/events/2572091"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Los%20Globos%20%28Los%20Angeles%29%2C%20Los%20Angeles",
           "apple": "https://maps.apple.com/?q=Los%20Globos%20%28Los%20Angeles%29%2C%20Los%20Angeles"
@@ -1736,34 +1757,42 @@
         "coords_precise": false,
         "ra": {},
         "image": "https://api.party-scout.app/img/los-angeles/2026-12-07/a-club-called-rhonda-w-a-87db.jpg",
-        "image_generated": true,
+        "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
         "id": "2026-12-07-music-awen-4b79b4",
         "eid": "awen-c2ef",
         "track": "music",
-        "category": "",
+        "category": "Nightclub",
         "name": "Awen",
         "day": "Sat",
         "date": "2026-12-12",
         "time": "22:00",
-        "start": null,
+        "start": "22:00",
         "end": null,
         "area": "Los Angeles",
         "venue": "The Spotlight (Los Angeles)",
         "address": "1601 North Cahuenga Boulevard, Los Angeles, California 90028",
-        "why": "",
-        "summary": "",
+        "why": "For a late-night, 21+ club night with potential door tickets and table service.",
+        "summary": "21+ event at The Spotlight in Los Angeles on December 12, 2026 at 22:00. Limited tickets may be available at the door subject to capacity; a dress code applies and table reservations are available via email.",
         "promoter": "",
         "price": "$25",
-        "tags": [],
+        "tags": [
+          "21+",
+          "nightclub",
+          "reservations",
+          "dress-code",
+          "late-night"
+        ],
         "sources": [
           "https://dice.fm/event/q2375p-awen-hybrid-set-11th-dec-the-spotlight-los-angeles-tickets"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://dice.fm/event/q2375p-awen-hybrid-set-11th-dec-the-spotlight-los-angeles-tickets"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=1601%20North%20Cahuenga%20Boulevard%2C%20Los%20Angeles%2C%20California%2090028",
           "apple": "https://maps.apple.com/?q=1601%20North%20Cahuenga%20Boulevard%2C%20Los%20Angeles%2C%20California%2090028"
@@ -1774,7 +1803,7 @@
         "image": "https://dice-media.imgix.net/attachments/2026-10-22/39fe11b0-431b-47c8-98f6-ac7ffea3d77a.jpg?rect=0%2C216%2C1080%2C648",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
@@ -1786,20 +1815,30 @@
         "day": "Sat",
         "date": "2026-12-12",
         "time": "19:00",
-        "start": null,
-        "end": null,
-        "area": "Los Angeles",
+        "start": "19:00",
+        "end": "01:00",
+        "area": "DTLA",
         "venue": "The Redwood Bar And Grill",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "316 W. 2nd Street, Los Angeles, CA  90012",
+        "why": "A cheap $12 night of live music at one of downtown's classic dive-bar stages.",
+        "summary": "Live band night at The Redwood Bar and Grill, the long-running DTLA rock dive on 2nd Street. Doors at 7 PM, running late.",
         "promoter": "",
         "price": "$12",
-        "tags": [],
+        "tags": [
+          "bar",
+          "21+",
+          "nightlife",
+          "live music",
+          "rock",
+          "dive bar",
+          "dtla"
+        ],
         "sources": [
           "https://ra.co/events/2564283"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://ra.co/events/2564283"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=The%20Redwood%20Bar%20And%20Grill%2C%20Los%20Angeles",
           "apple": "https://maps.apple.com/?q=The%20Redwood%20Bar%20And%20Grill%2C%20Los%20Angeles"
@@ -1810,7 +1849,7 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
@@ -2915,21 +2954,26 @@
         "id": "2026-12-07-sports-2026-pickleball-lovers-join-ou-857b11",
         "eid": "2026-pickleball-lovers-j-28db",
         "track": "sports",
-        "category": "",
+        "category": "Sports",
         "name": "2026 Pickleball Lovers!! Join Our Weekend \"Social Dinkers\" Pickleball Community!",
         "day": "Sat",
         "date": "2026-12-12",
         "time": "08:00",
-        "start": null,
-        "end": null,
+        "start": "08:00",
+        "end": "14:00",
         "area": "Los Angeles",
         "venue": "6333 W 3rd St, Los Angeles, CA 90036, 6333 W 3rd St, Los Angeles, CA 90036",
         "address": "6333 W 3rd St, Los Angeles, CA 90036, Los Angeles, Ca",
-        "why": "",
-        "summary": "",
+        "why": "To meet local people in a low-pressure sports setting and join post-game socials.",
+        "summary": "A relaxed, beginner-friendly pickleball and mingling mixer that rotates partners and courts, offers basic guidance for newcomers, and includes a free gift for first-time attendees. Matches are casual with post-game socials at nearby spots, and specific playing locations are shared with confirmed participants.",
         "promoter": "",
         "price": "Free",
-        "tags": [],
+        "tags": [
+          "pickleball",
+          "social",
+          "beginner-friendly",
+          "free"
+        ],
         "sources": [
           "https://www.meetup.com/meetup-group-axugemky/events/317382765/"
         ],
@@ -2944,30 +2988,36 @@
         "image": "https://secure.meetupstatic.com/photos/event/6/d/1/d/highres_534687933.jpeg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
         "id": "2026-12-07-sports-a-charlie-brown-christmas-5k-1-e14ea4",
         "eid": "a-charlie-brown-christma-abbb",
         "track": "sports",
-        "category": "",
+        "category": "Sports",
         "name": "A Charlie Brown Christmas 5K/10K - Los Angeles",
         "day": "Sat",
         "date": "2026-12-12",
-        "time": "",
-        "start": null,
+        "time": "7:10 AM Kids Dash, 7:30 AM 5K, 8:15 AM 10K",
+        "start": "07:10",
         "end": null,
-        "area": "Los Angeles",
+        "area": "Griffith Park",
         "venue": "Los Angeles",
         "address": "",
-        "why": "",
-        "summary": "",
+        "why": "For a festive outdoor run and family-friendly holiday atmosphere.",
+        "summary": "A Charlie Brown Christmas–themed 5K and 10K run taking place in Los Angeles on December 12, 2026.",
         "promoter": "",
-        "price": "",
-        "tags": [],
+        "price": "$72–77 (5K/10K; waitlist)",
+        "tags": [
+          "outdoor",
+          "run",
+          "holiday",
+          "family"
+        ],
         "sources": [
-          "https://www.runguides.com/event/25356/a-charlie-brown-christmas-5k-10k-los-angeles"
+          "https://www.runguides.com/event/25356/a-charlie-brown-christmas-5k-10k-los-angeles",
+          "https://runsignup.com/Race/CA/LosAngeles/ACHARLIEBROWNCHRISTMAS5K10KLOSANGELES"
         ],
         "tickets": [],
         "maps": {
@@ -2977,10 +3027,10 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/los-angeles/2026-12-07/a-charlie-brown-christma-abbb.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
