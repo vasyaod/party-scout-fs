@@ -1317,21 +1317,26 @@
         "id": "2026-12-07-music-electric-ave-630d13",
         "eid": "electric-ave-85bb",
         "track": "music",
-        "category": "",
+        "category": "Nightclub",
         "name": "Electric Ave",
         "day": "Fri",
         "date": "2026-12-11",
         "time": "22:00",
-        "start": null,
-        "end": null,
+        "start": "22:00",
+        "end": "02:00",
         "area": "Los Angeles",
         "venue": "Los Globos (Los Angeles)",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "3040 W SUNSET BLVD, LOS ANGELES, CA 90026",
+        "why": "For an energetic late-night dance floor with a community-focused arts crowd.",
+        "summary": "Late-night dance event at Los Globos on December 11 starting at 10:00 PM; tickets $15–$30. Community Arts & Festivals and EMX are involved and DJs can sign up for future events.",
         "promoter": "",
-        "price": "",
-        "tags": [],
+        "price": "$15–$30",
+        "tags": [
+          "dj",
+          "dance",
+          "21+",
+          "nightlife"
+        ],
         "sources": [
           "https://eventsta.com/event/losglobos121126?promo=CAF&fbclid=IwY2xjawVdrEhleHRuA2FlbQIxMABwZG9mAWJyaWQRMXNkcU4wZURma2dINXUzaUpzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEfd9YVs-TN5Fpo5w0piBeYbfLac8bqxlyZllWOBhSLa6m6rifPj3irJoZHFao_aem_ot6X_FufRZ44Lroe0ufvjA"
         ],
@@ -1343,36 +1348,44 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/los-angeles/2026-12-07/electric-ave-85bb.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
         "id": "2026-12-07-music-frost-children-kuru-9ed46a",
         "eid": "frost-children-kuru-a0f0",
         "track": "music",
-        "category": "",
+        "category": "Concert",
         "name": "Frost Children, Kuru",
         "day": "Fri",
         "date": "2026-12-11",
-        "time": "",
+        "time": "9:00 PM",
         "start": null,
         "end": null,
-        "area": "Los Angeles",
+        "area": "Hollywood",
         "venue": "Fonda Theatre",
         "address": "",
-        "why": "",
-        "summary": "",
+        "why": "A high-energy, sweaty hyperpop night in one of Hollywood's best mid-size rooms, with Kuru's club-bent set as support.",
+        "summary": "Hyperpop sibling duo Frost Children bring their glitchy, maximalist live show to the Fonda Theatre in Hollywood, with Kuru supporting. 18+.",
         "promoter": "",
-        "price": "",
-        "tags": [],
+        "price": "From $86 (resale)",
+        "tags": [
+          "live",
+          "concert",
+          "indie",
+          "electronic",
+          "hyperpop",
+          "18+"
+        ],
         "sources": [
           {
             "url": "https://edmtrain.com/tours/frost-children-38078",
             "hidden": true
-          }
+          },
+          "https://seatgeek.com/kuru-tickets/sf"
         ],
         "tickets": [],
         "maps": {
@@ -1385,33 +1398,40 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
         "id": "2026-12-07-music-oliver-koletzki-98f51b",
         "eid": "oliver-koletzki-c4ad",
         "track": "music",
-        "category": "",
+        "category": "Nightclub",
         "name": "Oliver Koletzki",
         "day": "Fri",
         "date": "2026-12-11",
         "time": "22:00",
-        "start": null,
-        "end": null,
+        "start": "22:00",
+        "end": "03:00",
         "area": "Los Angeles",
         "venue": "Origin (Los Angeles)",
         "address": "613 Imperial Street, Los Angeles, CA 90021",
-        "why": "",
-        "summary": "",
+        "why": "To catch a late-night electronic DJ set.",
+        "summary": "Berlin-based DJ and producer Oliver Koletzki performs at ORIGIN in Los Angeles on December 11, 2026 at 22:00.",
         "promoter": "",
         "price": "$35+",
-        "tags": [],
+        "tags": [
+          "dj",
+          "electronic",
+          "club"
+        ],
         "sources": [
           "https://www.eventbrite.com/e/origin-presents-oliver-koletzki-tickets-2004052220138",
           "https://ra.co/events/2575507"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://www.eventbrite.com/e/origin-presents-oliver-koletzki-tickets-2004052220138",
+          "https://ra.co/events/2575507"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=613%20Imperial%20Street%2C%20Los%20Angeles%2C%20CA%2090021",
           "apple": "https://maps.apple.com/?q=613%20Imperial%20Street%2C%20Los%20Angeles%2C%20CA%2090021"
@@ -1422,7 +1442,7 @@
         "image": "https://images.ra.co/7acfe279da1e9afd687886c154d81a00110b3528.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true,
         "lineup": [
           {
@@ -1435,28 +1455,35 @@
         "id": "2026-12-07-music-putivuelta-karsten-sollors-c-3-b6e245",
         "eid": "putivuelta-karsten-sollo-9a54",
         "track": "music",
-        "category": "",
+        "category": "Nightclub",
         "name": "Putivuelta: Karsten Sollors, C:3, Dustn, Toad",
         "day": "Fri",
         "date": "2026-12-11",
         "time": "22:00",
-        "start": null,
-        "end": null,
+        "start": "22:00",
+        "end": "05:00",
         "area": "Los Angeles",
         "venue": "District 7 (Los Angeles)",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "1926 E 7th Pl, Los Angeles, CA  90021, USA",
+        "why": "For a late-night dance party in a downtown club.",
+        "summary": "A late-night club event at District 7 in DTLA on December 11, 2026, featuring Karsten Sollors, C:3, Dustn, and Toad, starting at 10:00 PM.",
         "promoter": "",
         "price": "$35 b4 11 / $29-63",
-        "tags": [],
+        "tags": [
+          "dj",
+          "electronic",
+          "dance",
+          "21+"
+        ],
         "sources": [
           {
             "url": "https://ra.co/events/2554992",
             "hidden": true
           }
         ],
-        "tickets": [],
+        "tickets": [
+          "https://ra.co/events/2554992"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=District%207%20%28Los%20Angeles%29%2C%20Los%20Angeles",
           "apple": "https://maps.apple.com/?q=District%207%20%28Los%20Angeles%29%2C%20Los%20Angeles"
@@ -1464,35 +1491,43 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/los-angeles/2026-12-07/putivuelta-karsten-sollo-9a54.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
         "id": "2026-12-07-music-re-frame-drumcode-852923",
         "eid": "re-frame-drumcode-bf5e",
         "track": "music",
-        "category": "",
+        "category": "Nightclub",
         "name": "Re:frame: Drumcode",
         "day": "Fri",
         "date": "2026-12-11",
-        "time": "",
-        "start": null,
-        "end": null,
+        "time": "10pm–3am",
+        "start": "22:00",
+        "end": "03:00",
         "area": "Los Angeles",
         "venue": "Reframe Studios",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "4594 Electronics Pl, Los Angeles, CA 90039",
+        "why": "For a label-linked electronic/techno DJ night in an intimate studio setting.",
+        "summary": "A night titled Re:frame: Drumcode at Reframe Studios in Los Angeles on December 11, 2026.",
         "promoter": "",
-        "price": "",
-        "tags": [],
-        "sources": [
-          "https://edmtrain.com/los-angeles-ca/re-frame-drumcode-538822"
+        "price": "From $79",
+        "tags": [
+          "techno",
+          "dj",
+          "electronic",
+          "nightlife"
         ],
-        "tickets": [],
+        "sources": [
+          "https://edmtrain.com/los-angeles-ca/re-frame-drumcode-538822",
+          "https://thisisframework.com/event/drumcode"
+        ],
+        "tickets": [
+          "https://dice.fm/partner/tickets/event/mxyk5l-drumcode-la-11th-dec-reframe-studios-indoors-los-angeles-tickets"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Reframe%20Studios%2C%20Los%20Angeles",
           "apple": "https://maps.apple.com/?q=Reframe%20Studios%2C%20Los%20Angeles"
@@ -1500,35 +1535,42 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/los-angeles/2026-12-07/re-frame-drumcode-bf5e.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
-        "active": true
+        "enriched": 1,
+        "active": true,
+        "lineup": []
       },
       {
         "id": "2026-12-07-music-samplifire-w-warlord-3e5314",
         "eid": "samplifire-w-warlord-5e89",
         "track": "music",
-        "category": "",
+        "category": "Nightclub",
         "name": "Samplifire w/ Warlord",
         "day": "Fri",
         "date": "2026-12-11",
         "time": "21:00",
-        "start": null,
-        "end": null,
+        "start": "21:00",
+        "end": "02:00",
         "area": "Huntington Beach",
         "venue": "The Circle OC (Huntington Beach)",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "8901 Warner Avenue, Huntington Beach, CA 92647",
+        "why": "For a high-energy, bass-forward dance night in Orange County.",
+        "summary": "SampliFire and Warlord headline a heavy night of bass at The Circle OC in Huntington Beach on Friday, December 11.",
         "promoter": "",
         "price": "$20.05-30.71",
-        "tags": [],
+        "tags": [
+          "bass",
+          "dj",
+          "electronic"
+        ],
         "sources": [
           "https://www.eventbrite.com/e/orange-county-samplifire-w-warlord-the-circle-oc-18-tickets-2003663536575"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://www.eventbrite.com/e/orange-county-samplifire-w-warlord-the-circle-oc-18-tickets-2003663536575"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=The%20Circle%20OC%20%28Huntington%20Beach%29%2C%20Huntington%20Beach",
           "apple": "https://maps.apple.com/?q=The%20Circle%20OC%20%28Huntington%20Beach%29%2C%20Huntington%20Beach"
@@ -1536,35 +1578,41 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/los-angeles/2026-12-07/samplifire-w-warlord-5e89.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
         "id": "2026-12-07-music-tony-marsico-and-the-ugly-thin-59a631",
         "eid": "tony-marsico-and-the-ugl-b530",
         "track": "music",
-        "category": "",
+        "category": "Concert",
         "name": "Tony Marsico and The Ugly Thingz",
         "day": "Fri",
         "date": "2026-12-11",
         "time": "20:00",
-        "start": null,
-        "end": null,
-        "area": "Los Angeles",
+        "start": "20:00",
+        "end": "02:00",
+        "area": "DTLA",
         "venue": "The Redwood Bar And Grill",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "316 W. 2nd Street, Los Angeles, CA  90012",
+        "why": "Go for an intimate night of live music at a cozy Downtown LA bar.",
+        "summary": "Tony Marsico and The Ugly Thingz play The Redwood Bar And Grill in Downtown Los Angeles on December 11, 2026 at 8:00 PM.",
         "promoter": "",
         "price": "",
-        "tags": [],
+        "tags": [
+          "live",
+          "bar",
+          "nightlife"
+        ],
         "sources": [
           "https://ra.co/events/2564281"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://ra.co/events/2564281"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=The%20Redwood%20Bar%20And%20Grill%2C%20Los%20Angeles",
           "apple": "https://maps.apple.com/?q=The%20Redwood%20Bar%20And%20Grill%2C%20Los%20Angeles"
@@ -1575,7 +1623,7 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {

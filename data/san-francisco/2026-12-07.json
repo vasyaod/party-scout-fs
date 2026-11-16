@@ -1536,7 +1536,7 @@
         "time": "21:00",
         "start": null,
         "end": null,
-        "area": "San Francisco",
+        "area": "SoMa",
         "venue": "The Independent",
         "address": "",
         "why": "Hear gritty, high-energy garage-rock live at a classic SF venue.",
@@ -1550,9 +1550,12 @@
           "live"
         ],
         "sources": [
-          "https://dothebay.com/events/2026/12/11/the-bobby-lees-tickets"
+          "https://dothebay.com/events/2026/12/11/the-bobby-lees-tickets",
+          "https://www.theindependentsf.com/event/the-bobby-lees/"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://www.ticketweb.com/event/the-bobby-lees-the-independent-tickets/14911093"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=The%20Independent%2C%20San%20Francisco",
           "apple": "https://maps.apple.com/?q=The%20Independent%2C%20San%20Francisco"
@@ -1560,7 +1563,7 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/san-francisco/2026-12-07/the-bobby-lees-f91d.jpg",
         "image_generated": false,
         "popularity": 0,
         "enriched": 1,
@@ -2141,21 +2144,25 @@
         "id": "2026-12-07-music-trippie-redd-4b2b82",
         "eid": "trippie-redd-9d11",
         "track": "music",
-        "category": "",
+        "category": "Concert",
         "name": "Trippie Redd",
         "day": "Fri",
         "date": "2026-12-11",
         "time": "20:00",
         "start": null,
         "end": null,
-        "area": "San Francisco",
+        "area": "SoMa",
         "venue": "The Warfield",
         "address": "",
-        "why": "",
-        "summary": "",
+        "why": "To catch a high-energy hip-hop/rap set in an iconic downtown theater.",
+        "summary": "Trippie Redd performs at The Warfield in San Francisco on 2026-12-11 at 8:00 PM.",
         "promoter": "",
         "price": "",
-        "tags": [],
+        "tags": [
+          "hip-hop",
+          "rap",
+          "live"
+        ],
         "sources": [
           "https://dothebay.com/events/2026/12/11/trippie-redd-tickets"
         ],
@@ -2167,17 +2174,17 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/san-francisco/2026-12-07/trippie-redd-9d11.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
         "id": "2026-12-07-music-underground-sessions-shrike-nr-ed20c5",
         "eid": "underground-sessions-shr-a54a",
         "track": "music",
-        "category": "",
+        "category": "Concert",
         "name": "underground sessions: Shrike!, NRVE, Zaarg, Dripit, Bukavok",
         "day": "Fri",
         "date": "2026-12-11",
@@ -2187,11 +2194,15 @@
         "area": "San Francisco",
         "venue": "Music City SF",
         "address": "",
-        "why": "",
-        "summary": "",
+        "why": "See a stacked lineup of underground acts in one evening at a dedicated music venue.",
+        "summary": "A night at Music City SF on December 11, 2026, featuring Shrike!, NRVE, Zaarg, Dripit, and Bukavok.",
         "promoter": "",
         "price": "",
-        "tags": [],
+        "tags": [
+          "live",
+          "underground",
+          "experimental"
+        ],
         "sources": [
           "https://edmtrain.com/san-francisco-ca/underground-sessions-shrike-553257"
         ],
@@ -2206,14 +2217,14 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
         "id": "2026-12-07-music-welcome-to-the-west-99a581",
         "eid": "welcome-to-the-west-23a1",
         "track": "music",
-        "category": "",
+        "category": "Concert",
         "name": "Welcome To The West",
         "day": "Fri",
         "date": "2026-12-11",
@@ -2223,13 +2234,18 @@
         "area": "Sacramento ",
         "venue": "Golden 1 Center",
         "address": "",
-        "why": "",
-        "summary": "",
+        "why": "To attend a large live arena show at Golden 1 Center.",
+        "summary": "Welcome To The West is scheduled at Golden 1 Center on 2026-12-11 with a start time of 18:30.",
         "promoter": "",
         "price": "",
-        "tags": [],
+        "tags": [
+          "live",
+          "concert",
+          "arena"
+        ],
         "sources": [
-          "https://dothebay.com/events/2026/12/11/welcome-to-the-west-tickets"
+          "https://dothebay.com/events/2026/12/11/welcome-to-the-west-tickets",
+          "https://app.discotech.me/events/38292278-welcome-to-the-west-at-golden-1-center"
         ],
         "tickets": [],
         "maps": {
@@ -2239,36 +2255,45 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/san-francisco/2026-12-07/welcome-to-the-west-23a1.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
         "id": "2026-12-07-music-yala-papa-middle-eastern-x-lat-838cf0",
         "eid": "yala-papa-middle-eastern-8bd0",
         "track": "music",
-        "category": "",
+        "category": "Nightclub",
         "name": "Yala Papa: Middle Eastern X Latin Party",
         "day": "Fri",
         "date": "2026-12-11",
         "time": "21:00",
-        "start": null,
-        "end": null,
+        "start": "21:00",
+        "end": "02:00",
         "area": "San Francisco",
         "venue": "The Stud (San Francisco)",
         "address": "1123 Folsom St, San Francisco, CA 94103",
-        "why": "",
-        "summary": "",
+        "why": "For a cross-cultural, high-energy dance night with live performances in a queer-friendly space.",
+        "summary": "A queer night at The Stud in San Francisco blending reggaeton and Arabic beats with belly dancing and pop-up performances; starts 21:00 on 2026-12-11.",
         "promoter": "",
         "price": "15.00",
-        "tags": [],
+        "tags": [
+          "latin",
+          "middle-eastern",
+          "queer",
+          "dance",
+          "live"
+        ],
         "sources": [
           "https://www.eventbrite.com/e/yala-papa-san-francisco-the-gay-latin-x-middle-eastern-night-tickets-2003241860330",
           "https://ra.co/events/2562627"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://www.eventbrite.com/e/yala-papa-san-francisco-the-gay-latin-x-middle-eastern-night-tickets-2003241860330",
+          "https://ra.co/events/2562627"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=1123%20Folsom%20St%2C%20San%20Francisco%2C%20CA%2094103",
           "apple": "https://maps.apple.com/?q=1123%20Folsom%20St%2C%20San%20Francisco%2C%20CA%2094103"
@@ -2279,7 +2304,7 @@
         "image": "https://images.ra.co/6f81f6a3306e480900dd1485c4e70ace80817dc0.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
@@ -2322,25 +2347,33 @@
         "id": "2026-12-07-music-club-moniker-tba-06f599",
         "eid": "club-moniker-tba-592e",
         "track": "music",
-        "category": "",
+        "category": "Nightclub",
         "name": "Club Moniker - TBA",
         "day": "Sat",
         "date": "2026-12-12",
         "time": "23:00",
-        "start": null,
-        "end": null,
-        "area": "San Francisco",
+        "start": "23:00",
+        "end": "06:00",
+        "area": "SF",
         "venue": "TBA",
         "address": "",
-        "why": "",
-        "summary": "",
+        "why": "An overnight club night for house and techno fans; check the RA listing for venue and lineup once announced.",
+        "summary": "Club Moniker late-night dance event in San Francisco, Saturday Dec 12, 11pm to 6am. Venue and lineup are still to be announced on Resident Advisor.",
         "promoter": "",
         "price": "",
-        "tags": [],
+        "tags": [
+          "dj",
+          "21+",
+          "club",
+          "late-night",
+          "electronic"
+        ],
         "sources": [
           "https://ra.co/events/2563283"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://ra.co/events/2563283"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=San%20Francisco",
           "apple": "https://maps.apple.com/?q=San%20Francisco"
@@ -2351,7 +2384,7 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
