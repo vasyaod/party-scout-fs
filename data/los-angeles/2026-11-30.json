@@ -3537,21 +3537,27 @@
         "id": "2026-11-30-music-the-residency-sound-connection-7de9e4",
         "eid": "the-residency-sound-conn-0c2d",
         "track": "music",
-        "category": "",
+        "category": "Concert",
         "name": "The Residency - Sound Connections: Mendeleyev, ITAI",
         "day": "Thu",
         "date": "2026-12-03",
         "time": "",
         "start": null,
         "end": null,
-        "area": "",
+        "area": "West Adams",
         "venue": "Zula Den",
         "address": "",
-        "why": "",
-        "summary": "",
+        "why": "Intimate, improvised sets designed around communal singing and ecstatic dance for a connection‑focused evening.",
+        "summary": "A live, improvised music and ecstatic-dance community experience pairing a deep, folky‑funky baritone singer‑songwriter voice with live‑electronic, Middle Eastern‑inflected saxophone improvisation for an immersive, participatory set.",
         "promoter": "",
         "price": "",
-        "tags": [],
+        "tags": [
+          "live",
+          "improvised",
+          "ecstatic-dance",
+          "saxophone",
+          "singer-songwriter"
+        ],
         "sources": [
           "https://edmtrain.com/los-angeles-ca/the-residency-sound-connections-mendeleyev-553342"
         ],
@@ -3566,32 +3572,43 @@
         "image": "https://api.party-scout.app/img/los-angeles/2026-11-30/the-residency-sound-conn-0c2d.jpg",
         "image_generated": true,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
         "id": "2026-11-30-music-milkshake-514dcf",
         "eid": "milkshake-6139",
         "track": "music",
-        "category": "",
+        "category": "Nightclub",
         "name": "MILKSHAKE",
         "day": "Fri",
         "date": "2026-12-04",
         "time": "22:00",
-        "start": null,
-        "end": null,
-        "area": "",
+        "start": "22:00",
+        "end": "02:00",
+        "area": "Hollywood",
         "venue": "Zero Lounge",
         "address": "1710 N Hudson Ave, Los Angeles CA 90028",
-        "why": "",
-        "summary": "",
+        "why": "A late Friday night out on N Hudson Ave in the middle of Hollywood.",
+        "summary": "MILKSHAKE is a Friday-night club event at Zero Lounge in Hollywood, running 10 PM to 2 AM. Full details are on the Resident Advisor listing.",
         "promoter": "",
         "price": "",
-        "tags": [],
+        "tags": [
+          "r&b",
+          "hip-hop",
+          "dj",
+          "y2k",
+          "throwback",
+          "club",
+          "hollywood",
+          "friday"
+        ],
         "sources": [
           "https://ra.co/events/2586760"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://ra.co/events/2586760"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=1710%20N%20Hudson%20Ave%2C%20Los%20Angeles%20CA%2090028",
           "apple": "https://maps.apple.com/?q=1710%20N%20Hudson%20Ave%2C%20Los%20Angeles%20CA%2090028"
@@ -3602,35 +3619,45 @@
         "image": "https://images.ra.co/d77c015311971ce4e9449e45007d58cec23d930d.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
         "id": "2026-11-30-music-emancipator-shrimpnose-lapa-29d993",
         "eid": "emancipator-shrimpnose-l-e6bd",
         "track": "music",
-        "category": "",
+        "category": "Concert",
         "name": "Emancipator, Shrimpnose, Lapa",
         "day": "Sat",
         "date": "2026-12-05",
-        "time": "",
-        "start": null,
-        "end": null,
-        "area": "",
+        "time": "8–11pm",
+        "start": "20:00",
+        "end": "23:00",
+        "area": "Mid-Wilshire",
         "venue": "El Rey Theatre",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "5515 Wilshire Blvd, Los Angeles, CA 90036",
+        "why": "A rare intimate-room stop for one of downtempo's signature acts, with strong support from Shrimpnose and Lapa.",
+        "summary": "Goldenvoice presents Emancipator's Chrysalis Tour at the El Rey Theatre, with Shrimpnose and Lapa supporting. Doors open for an 8–11pm night of downtempo, electronic and live-violin-driven beats.",
         "promoter": "",
-        "price": "",
-        "tags": [],
+        "price": "Tickets from ~$29",
+        "tags": [
+          "downtempo",
+          "electronic",
+          "trip-hop",
+          "live",
+          "live-music",
+          "el-rey"
+        ],
         "sources": [
           {
             "url": "https://edmtrain.com/los-angeles-ca/emancipator-shrimpnose-525216",
             "hidden": true
-          }
+          },
+          "https://ra.co/events/2568060"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://ra.co/events/2568060"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=El%20Rey%20Theatre",
           "apple": "https://maps.apple.com/?q=El%20Rey%20Theatre"
@@ -3639,30 +3666,36 @@
         "coords_precise": false,
         "ra": {},
         "image": "https://api.party-scout.app/img/los-angeles/2026-11-30/emancipator-shrimpnose-l-e6bd.jpg",
-        "image_generated": true,
+        "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
         "id": "2026-11-30-music-ravefurrest-x-impact-los-angel-605f83",
         "eid": "ravefurrest-x-impact-los-8d90",
         "track": "music",
-        "category": "",
+        "category": "Nightclub",
         "name": "Ravefurrest x Impact! Los Angeles",
         "day": "Sat",
         "date": "2026-12-05",
         "time": "",
         "start": null,
         "end": null,
-        "area": "",
+        "area": "Arlington Heights",
         "venue": "Catch One",
         "address": "",
-        "why": "",
-        "summary": "",
+        "why": "A furry-themed, genre-mixing rave platform that spotlights hard-dance, breakcore and hyperpop-influenced sets.",
+        "summary": "Ravefurrest is a touring, furry-focused hard-dance rave series that brings high-energy sets across hardcore, hard techno, breakcore and hyperpop-leaning dance styles, with an emphasis on costume-driven community and intense dancefloor energy.",
         "promoter": "",
         "price": "",
-        "tags": [],
+        "tags": [
+          "rave",
+          "hardcore",
+          "hard techno",
+          "breakcore",
+          "dj"
+        ],
         "sources": [
           "https://edmtrain.com/los-angeles-ca/ravefurrest-x-impact-los-angeles-553463"
         ],
@@ -3677,7 +3710,7 @@
         "image": "https://api.party-scout.app/img/los-angeles/2026-11-30/ravefurrest-x-impact-los-8d90.jpg",
         "image_generated": true,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       }
     ],
@@ -4872,23 +4905,36 @@
         "id": "2026-11-30-sports-south-pasadena-tiger-run-10k-5-1a6e11",
         "eid": "south-pasadena-tiger-run-3644",
         "track": "sports",
-        "category": "",
+        "category": "Sports",
         "name": "South Pasadena Tiger Run (10K, 5K)",
         "day": "Sat",
         "date": "2026-12-05",
-        "time": "",
+        "time": "8:00 AM",
         "start": null,
         "end": null,
-        "area": "",
+        "area": "South Pasadena",
         "venue": "South Pasadena",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "South Pasadena High School, South Pasadena",
+        "why": "A community run for a school cause, with a flat 5K or a hilly 10K and a kids' run after.",
+        "summary": "Annual South Pasadena High School 5K and 10K, starting 8:00 AM Saturday, with a 5K course through town and a hillier 10K through the Monterey Hills. A Tiger Cub Run for ages 10 and under starts at 9:30 AM.",
         "promoter": "",
-        "price": "",
-        "tags": [],
+        "price": "$54 (5K) / $60 (10K)",
+        "tags": [
+          "run",
+          "5k",
+          "10k",
+          "family",
+          "charity",
+          "outdoor",
+          "running",
+          "5K",
+          "10K",
+          "community"
+        ],
         "sources": [
-          "https://www.runningintheusa.com/race/list/los%20angeles-county-ca/december"
+          "https://www.runningintheusa.com/race/list/los%20angeles-county-ca/december",
+          "https://www.sptigerrun.com/",
+          "https://runsignup.com/Race/CA/SouthPasadena/SouthPasadenaTigerRun5K10K"
         ],
         "tickets": [],
         "maps": {
@@ -4901,7 +4947,7 @@
         "image": "https://api.party-scout.app/img/los-angeles/2026-11-30/south-pasadena-tiger-run-3644.jpg",
         "image_generated": true,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
