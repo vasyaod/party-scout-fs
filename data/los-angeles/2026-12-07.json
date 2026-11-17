@@ -3230,25 +3230,33 @@
         "id": "2026-12-07-music-the-hot-chocolate-nutcracker-3a3599",
         "eid": "the-hot-chocolate-nutcra-26ca",
         "track": "music",
-        "category": "",
+        "category": "Concert",
         "name": "The Hot Chocolate Nutcracker",
         "day": "Sun",
         "date": "2026-12-13",
         "time": "14:00",
-        "start": null,
-        "end": null,
+        "start": "14:00",
+        "end": "16:00",
         "area": "Redondo Beach",
         "venue": "Redondo Beach Performing Arts Center",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "1935 Manhattan Beach Blvd., Redondo Beach, CA 90278",
+        "why": "A contemporary, musical reimagining choreographed by Debbie Allen.",
+        "summary": "A modern, musical adaptation of the Nutcracker by Debbie Allen — a spectacular, reimagined holiday show.",
         "promoter": "",
         "price": "From $54.59",
-        "tags": [],
+        "tags": [
+          "dance",
+          "holiday",
+          "theater",
+          "family",
+          "live"
+        ],
         "sources": [
           "https://www.eventbrite.com/e/the-hot-chocolate-nutcracker-tickets-2000664117231"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://www.eventbrite.com/e/the-hot-chocolate-nutcracker-tickets-2000664117231"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Redondo%20Beach%20Performing%20Arts%20Center%2C%20Redondo%20Beach",
           "apple": "https://maps.apple.com/?q=Redondo%20Beach%20Performing%20Arts%20Center%2C%20Redondo%20Beach"
@@ -3256,10 +3264,10 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/los-angeles/2026-12-07/the-hot-chocolate-nutcra-26ca.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
@@ -3271,20 +3279,29 @@
         "day": "Sun",
         "date": "2026-12-13",
         "time": "15:00",
-        "start": null,
-        "end": null,
-        "area": "",
+        "start": "15:00",
+        "end": "21:00",
+        "area": "DTLA",
         "venue": "The Redwood Bar And Grill",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "316 W. 2nd Street, Los Angeles, CA  90012",
+        "why": "An easy Sunday-afternoon live set at a long-running DTLA dive bar.",
+        "summary": "Sunday afternoon show at The Redwood Bar and Grill, the downtown dive known for punk and rock gigs, running 3 to 9 PM.",
         "promoter": "",
         "price": "$5",
-        "tags": [],
+        "tags": [
+          "live",
+          "bar",
+          "afternoon",
+          "live music",
+          "dive bar",
+          "DTLA"
+        ],
         "sources": [
           "https://ra.co/events/2585896"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://ra.co/events/2585896"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=The%20Redwood%20Bar%20And%20Grill",
           "apple": "https://maps.apple.com/?q=The%20Redwood%20Bar%20And%20Grill"
@@ -3292,10 +3309,10 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
-        "image_generated": false,
+        "image": "https://api.party-scout.app/img/los-angeles/2026-12-07/middle-class-hollywood-edd5.jpg",
+        "image_generated": true,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       }
     ],
@@ -3681,16 +3698,16 @@
         "name": "Run for Beer -  Firestone Walker Santa Shuffle",
         "day": "Sat",
         "date": "2026-12-12",
-        "time": "",
+        "time": "10:00 AM",
         "start": null,
         "end": null,
-        "area": "Los Angeles",
+        "area": "Marina del Rey",
         "venue": "Los Angeles",
         "address": "",
         "why": "Finishers receive a free craft beer and a collectors pint glass or seasonal swag.",
         "summary": "Organized by the California Brewery Running Series, this is a 5K fun run where participants walk, jog, or run a course that starts and finishes at a brewery, then celebrate at the finish with a free craft beer and a collector’s pint glass or seasonal swag; the day also includes live music, food trucks, giveaways and partner activities.",
         "promoter": "",
-        "price": "",
+        "price": "Free–$71 (tickets sold out)",
         "tags": [
           "5k",
           "fun run",
@@ -3699,9 +3716,12 @@
           "charity"
         ],
         "sources": [
-          "https://www.runguides.com/event/32996/run-for-beer-firestone-walker-santa-shuffle"
+          "https://www.runguides.com/event/32996/run-for-beer-firestone-walker-santa-shuffle",
+          "https://www.breweryrunningseries.com/events/5k-santa-shuffle-x-firestone-walker-2026-ca-brewery-running-series"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://www.eventbrite.com/e/5k-santa-shuffle-x-firestone-walker-2026-ca-brewery-running-series-tickets-1981277346879"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Los%20Angeles%2C%20Los%20Angeles",
           "apple": "https://maps.apple.com/?q=Los%20Angeles%2C%20Los%20Angeles"
@@ -3709,7 +3729,7 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/los-angeles/2026-12-07/run-for-beer-firestone-w-db70.jpg",
         "image_generated": false,
         "popularity": 0,
         "enriched": 1,
