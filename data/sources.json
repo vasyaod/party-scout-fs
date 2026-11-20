@@ -480,6 +480,20 @@
       "aliases": ["hollywoodbowl.com"],
       "notes": "2301 N Highland Ave. The LA Phil's outdoor amphitheatre: classical and jazz alongside major pop/rock bills (My Chemical Romance, Erykah Badu, Empire of the Sun). JS-rendered, so `common`. /tickets-and-events/calendar lists upcoming performances directly — the old /events/performances (and /events/calendar) now 404; old per-show /events/performances/<id>/<date>/<slug> links redirect to /events/instances/. Prices from its own box office."
     },
+    {
+      "id": "blue-note-los-angeles",
+      "name": "Blue Note Los Angeles",
+      "url": "https://www.bluenotejazz.com/la/shows/?list_view",
+      "city": "los-angeles",
+      "kind": "venue",
+      "use": ["listing"],
+      "track": ["music"],
+      "focus": "jazz / R&B / soul supper club, two seatings a night",
+      "fetch": ["HTTP"],
+      "status": "active",
+      "aliases": ["bluenotejazz.com/la"],
+      "notes": "6372 W Sunset Blvd (Hollywood). /la/shows/?list_view is the upcoming list, server-rendered, ~5 weeks ahead: each show is '<artist> Blue Note Los Angeles Nov 26 - 29' then one 'Thu, Nov 26 7:00 PM (Doors 5:00 PM)' line per seating (usually 7:00 and 9:30 PM), with a per-show page at /la/tm-event/<slug>/ and TicketWeb links per seating. Plain HTTP reads it. Use ?list_view: the bare /la/shows/ redirects to ?calendar_view, a month grid with no per-event links and no month on the day cells. Ticket prices are on TicketWeb (`ticketweb`); the show page itself only states a $20-per-person minimum. Registered for vasyaod/party-scout-agent#346: BJ The Chicago Kid (2026-11-25) and Kenny Garrett (2026-11-26..29) were on this calendar and unpublished."
+    },
 
     {
       "id": "insomniac-events",
