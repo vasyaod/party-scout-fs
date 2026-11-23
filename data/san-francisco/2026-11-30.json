@@ -5,7 +5,7 @@
   "location": "San Francisco & Bay Area",
   "city": "san-francisco",
   "city_label": "San Francisco",
-  "generated_at": "2026-11-16",
+  "generated_at": "2026-11-23",
   "tracks": {
     "music": [
       {
@@ -19,7 +19,7 @@
         "time": "20:00",
         "start": "20:00",
         "end": null,
-        "area": "San Francisco",
+        "area": "SF",
         "venue": "The Independent",
         "address": "628 Divisadero Street, San Francisco, CA 94117",
         "why": "A rare club-sized chance to see a Mo' Wax-era trip-hop institution up close.",
@@ -34,7 +34,8 @@
           "21+"
         ],
         "sources": [
-          "https://dothebay.com/events/2026/11/30/unkle-tickets"
+          "https://dothebay.com/events/2026/11/30/unkle-tickets",
+          "https://dothebay.com/events/2026/11/30"
         ],
         "tickets": [],
         "maps": {
@@ -264,7 +265,7 @@
         "time": "20:00",
         "start": "20:00",
         "end": null,
-        "area": "San Francisco",
+        "area": "SF",
         "venue": "The Fillmore",
         "address": "1805 Geary Boulevard, San Francisco, CA 94115",
         "why": "See a touring act perform live at the iconic Fillmore theater.",
@@ -277,7 +278,10 @@
           "music"
         ],
         "sources": [
-          "https://dothebay.com/events/2026/12/2/eloise-the-drama-queen-tour-tickets"
+          {
+            "url": "https://dothebay.com/events/2026/12/2/eloise-the-drama-queen-tour-tickets",
+            "hidden": true
+          }
         ],
         "tickets": [],
         "maps": {
@@ -304,13 +308,13 @@
         "time": "20:00",
         "start": "20:00",
         "end": null,
-        "area": "San Francisco",
-        "venue": "Bottom Of The Hill",
+        "area": "SF",
+        "venue": "Bottom of the Hill",
         "address": "1233 17th Street, San Francisco, CA 94107",
         "why": "A Wednesday-night singalong of your teenage emo favorites in one of SF's best small rock clubs.",
         "summary": "Emo Night Karaoke takes over Bottom of the Hill, where the crowd takes lead vocals on emo and pop-punk anthems backed by a live band.",
         "promoter": "",
-        "price": "",
+        "price": "$15–25",
         "tags": [
           "karaoke",
           "emo",
@@ -320,7 +324,11 @@
           "rock-club"
         ],
         "sources": [
-          "https://dothebay.com/events/2026/12/2/emo-night-karaoke-tickets"
+          "https://dothebay.com/events/2026/12/2/emo-night-karaoke-tickets",
+          {
+            "url": "https://www.bottomofthehill.com/calendar.html",
+            "hidden": true
+          }
         ],
         "tickets": [],
         "maps": {
@@ -347,7 +355,7 @@
         "time": "20:00",
         "start": "20:00",
         "end": null,
-        "area": "San Francisco",
+        "area": "SF",
         "venue": "Rickshaw Stop",
         "address": "155 Fell Street, San Francisco, CA 94102",
         "why": "For an intimate live set at a classic San Francisco club.",
@@ -519,7 +527,7 @@
         "time": "21:00",
         "start": "20:00",
         "end": "21:00",
-        "area": "San Francisco",
+        "area": "SF",
         "venue": "Rickshaw Stop",
         "address": "155 Fell Street, San Francisco, CA 94102",
         "why": "For a night out at Rickshaw Stop's intimate live-music room.",
@@ -531,8 +539,16 @@
           "electronic"
         ],
         "sources": [
-          "https://wl.eventim.us/event/emancipator/700476?afflky=POPSCENEPresents",
-          "https://dothebay.com/events/2026/12/3/emancipator-tickets"
+          {
+            "url": "https://wl.eventim.us/event/emancipator/700476?afflky=POPSCENEPresents",
+            "hidden": true
+          },
+          "https://dothebay.com/events/2026/12/3/emancipator-tickets",
+          {
+            "url": "https://19hz.info/eventlisting_BayArea.php",
+            "hidden": true
+          },
+          "https://edmtrain.com/san-francisco-ca/emancipator-shrimpnose-525293"
         ],
         "tickets": [],
         "maps": {
@@ -542,8 +558,8 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "https://api.party-scout.app/img/san-francisco/2026-11-30/emancipator-17dd.jpg",
-        "image_generated": false,
+        "image": "https://api.party-scout.app/img/san-francisco/2026-11-30/emancipator-f72d.jpg",
+        "image_generated": true,
         "popularity": 0,
         "enriched": 1,
         "active": true
@@ -559,7 +575,7 @@
         "time": "20:00",
         "start": "20:00",
         "end": null,
-        "area": "San Francisco",
+        "area": "SF",
         "venue": "The Masonic",
         "address": "1111 California St., San Francisco, CA 94108",
         "why": "To relive early-2010s hip-hop/R&B hits live at a landmark venue.",
@@ -572,7 +588,10 @@
           "live"
         ],
         "sources": [
-          "https://dothebay.com/events/2026/12/3/fetty-wap-nostalgia-tour-tickets"
+          {
+            "url": "https://dothebay.com/events/2026/12/3/fetty-wap-nostalgia-tour-tickets",
+            "hidden": true
+          }
         ],
         "tickets": [],
         "maps": {
@@ -615,7 +634,11 @@
         "sources": [
           "https://edmtrain.com/san-francisco-ca/genghis-bong-supernaut-541833",
           "https://dothebay.com/events/2026/12/3/hazzard-s-cure-genghis-bong-and-friends-supernaut-tickets",
-          "https://edmtrain.com/san-francisco-ca"
+          "https://edmtrain.com/san-francisco-ca",
+          {
+            "url": "https://www.bottomofthehill.com/calendar.html",
+            "hidden": true
+          }
         ],
         "tickets": [],
         "maps": {
@@ -642,7 +665,7 @@
         "time": "20:00",
         "start": "20:00",
         "end": null,
-        "area": "San Francisco",
+        "area": "SF",
         "venue": "The Independent",
         "address": "628 Divisadero Street, San Francisco, CA 94117",
         "why": "A live night at one of SF's best mid-size venues, with clear sightlines and a tight crowd.",
@@ -658,7 +681,11 @@
           "NoPa"
         ],
         "sources": [
-          "https://dothebay.com/events/2026/12/3/meek-tickets"
+          "https://dothebay.com/events/2026/12/3/meek-tickets",
+          {
+            "url": "https://dothebay.com/events/2026/12/3",
+            "hidden": true
+          }
         ],
         "tickets": [],
         "maps": {
@@ -668,8 +695,8 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "https://api.party-scout.app/img/san-francisco/2026-11-30/meek-65ee.jpg",
-        "image_generated": false,
+        "image": "https://api.party-scout.app/img/san-francisco/2026-11-30/meek-d42e.jpg",
+        "image_generated": true,
         "popularity": 0,
         "enriched": 1,
         "active": true
@@ -800,47 +827,6 @@
         "active": true
       },
       {
-        "id": "2026-11-30-music-1-drink-fridays-battle-of-the-702bcb",
-        "eid": "1-drink-fridays-battle-o-065f",
-        "track": "music",
-        "category": "Nightclub",
-        "name": "$1 Drink Fridays: \"Battle of the Decades\" DJ Party (North Beach)",
-        "day": "Fri",
-        "date": "2026-12-04",
-        "time": "17:00",
-        "start": "17:00",
-        "end": "23:00",
-        "area": "San Francisco",
-        "venue": "San Francisco (see listing)",
-        "address": "473 Broadway Street, San Francisco, CA",
-        "why": "Super-cheap early drinks and a rotating-decade soundtrack make for an easy, affordable Friday night.",
-        "summary": "Weekly Friday DJ party and happy hour at Monroe in North Beach with a DJ spinning decade-themed sets across two rooms and an outdoor patio. Hourly drink-price tiers run from $1 (5–6pm, ’60s) up to $6 (10–11pm), with current hits after 11pm.",
-        "promoter": "",
-        "price": "FREE",
-        "tags": [
-          "dj",
-          "free",
-          "outdoor",
-          "happy-hour"
-        ],
-        "sources": [
-          "https://sf.funcheap.com/1-drink-fridays-battle-of-the-decades-dj-party-north-beach-266/"
-        ],
-        "tickets": [],
-        "maps": {
-          "google": "https://www.google.com/maps/search/?api=1&query=San%20Francisco%20%28see%20listing%29%2C%20San%20Francisco",
-          "apple": "https://maps.apple.com/?q=San%20Francisco%20%28see%20listing%29%2C%20San%20Francisco"
-        },
-        "coords": null,
-        "coords_precise": false,
-        "ra": {},
-        "image": "https://api.party-scout.app/img/san-francisco/2026-11-30/1-drink-fridays-battle-o-065f.jpg",
-        "image_generated": false,
-        "popularity": 0,
-        "enriched": 1,
-        "active": true
-      },
-      {
         "id": "2026-11-30-music-amorphis-insomnium-cb06f0",
         "eid": "amorphis-insomnium-e0d8",
         "track": "music",
@@ -948,7 +934,7 @@
         "time": "20:00",
         "start": "20:00",
         "end": null,
-        "area": "San Francisco",
+        "area": "SF",
         "venue": "The Warfield",
         "address": "982 Market St, San Francisco, CA 94102",
         "why": "A rare triple bill of West Coast and Texas rap at one of SF's best historic theaters, with a holiday twist.",
@@ -1034,10 +1020,10 @@
         "name": "Endzeit x SQUISH x Hydraphex",
         "day": "Fri",
         "date": "2026-12-04",
-        "time": "22:00",
+        "time": "22:00-06:00",
         "start": "22:00",
         "end": "06:00",
-        "area": "San Francisco",
+        "area": "SF",
         "venue": "TBA - San Francisco",
         "address": "",
         "why": "To see these artists live at a late-night San Francisco party.",
@@ -1146,7 +1132,7 @@
         "time": "21:00",
         "start": "21:00",
         "end": "03:00",
-        "area": "San Francisco",
+        "area": "SF",
         "venue": "Public Works",
         "address": "161 Erie Street, San Francisco, CA 94103, United States",
         "why": "To experience an electronic DJ set at one of the city's well-regarded club venues.",
@@ -1160,9 +1146,17 @@
           "21+"
         ],
         "sources": [
-          "https://www.tixr.com/groups/publicsf/events/guy-j-presented-by-public-works-safra-konnekted-198338?utm_source=publicsf&utm_medium=venuewebsite",
+          {
+            "url": "https://www.tixr.com/groups/publicsf/events/guy-j-presented-by-public-works-safra-konnekted-198338?utm_source=publicsf&utm_medium=venuewebsite",
+            "hidden": true
+          },
           "https://dothebay.com/events/2026/12/4/guy-j-presented-by-public-works-safra-konnekted-tickets",
-          "https://ra.co/events/2491104"
+          {
+            "url": "https://ra.co/events/2491104",
+            "hidden": true
+          },
+          "https://edmtrain.com/tours/guy-j-303",
+          "https://dothebay.com/events/2026/12/4"
         ],
         "tickets": [
           "https://www.tixr.com/groups/publicsf/events/guy-j-presented-by-public-works-safra-konnekted-198338?utm_source=publicsf&utm_medium=venuewebsite",
@@ -1198,7 +1192,7 @@
         "time": "20:30",
         "start": "20:30",
         "end": null,
-        "area": "San Francisco",
+        "area": "SF",
         "venue": "The Independent",
         "address": "628 Divisadero Street, San Francisco, CA 94117",
         "why": "For an evening of live music in The Independent's intimate room.",
@@ -1277,16 +1271,16 @@
         "name": "Solardo",
         "day": "Fri",
         "date": "2026-12-04",
-        "time": "22:00",
+        "time": "22:00-04:00",
         "start": "22:00",
         "end": "04:00",
-        "area": "San Francisco",
+        "area": "SF",
         "venue": "Halcyon",
         "address": "314 11th St, San Francisco, California, 94103",
         "why": "For high-energy DJ sets and non-stop dancefloor action.",
         "summary": "Manchester duo Solardo play Halcyon in San Francisco on December 4, 2026, with K Sweet and Ramsey supporting. Listings describe the night as delivering a heavy dose of dancefloor mayhem.",
         "promoter": "",
-        "price": "20",
+        "price": "$17",
         "tags": [
           "electronic",
           "dj",
@@ -1297,8 +1291,12 @@
           "https://halcyon-sf.com/",
           "https://link.dice.fm/H7c9765a8a21?pid=d6c08999",
           "https://ra.co/events/2571288",
-          "https://dice.fm/event/2wne87-solardo-4th-dec-halcyon-sf-san-francisco-tickets",
-          "https://dothebay.com/events/2026/12/4/solardo-tickets"
+          {
+            "url": "https://dice.fm/event/2wne87-solardo-4th-dec-halcyon-sf-san-francisco-tickets",
+            "hidden": true
+          },
+          "https://dothebay.com/events/2026/12/4/solardo-tickets",
+          "https://edmtrain.com/tours/solardo-7066"
         ],
         "tickets": [
           "https://link.dice.fm/H7c9765a8a21?pid=d6c08999",
@@ -1374,16 +1372,16 @@
         "name": "Tara Yummy",
         "day": "Fri",
         "date": "2026-12-04",
-        "time": "22:00",
+        "time": "22:00-02:00",
         "start": "22:00",
         "end": "02:00",
-        "area": "San Francisco",
+        "area": "SF",
         "venue": "1015 Folsom",
         "address": "1015 Folsom Street; San Francisco, CA 94103; United States",
         "why": "For a late-night outing at a major SoMa nightclub.",
         "summary": "An event titled \"Tara Yummy\" takes place at 1015 Folsom in SoMa on December 4, 2026, starting at 10:00 PM.",
         "promoter": "",
-        "price": "20-30",
+        "price": "$20-30",
         "tags": [
           "nightlife",
           "club",
@@ -1468,16 +1466,16 @@
         "name": "Awen (Live)",
         "day": "Sat",
         "date": "2026-12-05",
-        "time": "21:30",
+        "time": "21:30-02:00",
         "start": "21:30",
         "end": "02:00",
-        "area": "San Francisco",
+        "area": "SF",
         "venue": "Audio SF",
         "address": "316 11th St; San Francisco CA 94103; United States",
         "why": "For a late-night live set in a club setting.",
         "summary": "Awen performs live at Audio SF on December 5, 2026; the show begins at 21:30.",
         "promoter": "",
-        "price": "17",
+        "price": "$18.92-50.55",
         "tags": [
           "live",
           "nightclub",
@@ -1485,7 +1483,11 @@
         ],
         "sources": [
           "https://ra.co/events/2552267",
-          "https://wl.eventim.us/event/awen/706795?afflky=AudioSF&nts_trk=1bb6e67a-b285-4f4e-a912-299ed27425cb"
+          {
+            "url": "https://wl.eventim.us/event/awen/706795?afflky=AudioSF&nts_trk=1bb6e67a-b285-4f4e-a912-299ed27425cb",
+            "hidden": true
+          },
+          "https://edmtrain.com/tours/awen-87600"
         ],
         "tickets": [
           "https://ra.co/events/2552267"
@@ -1511,16 +1513,16 @@
         "name": "Cameron Jack",
         "day": "Sat",
         "date": "2026-12-05",
-        "time": "22:00",
+        "time": "22:00-04:00",
         "start": "22:00",
         "end": "04:00",
-        "area": "San Francisco",
+        "area": "SF",
         "venue": "Halcyon",
         "address": "314 11th St, San Francisco, California, 94103",
         "why": "For deep, emotive house and techno in a club setting.",
         "summary": "Cameron Jack makes his U.S. debut at Halcyon, delivering his signature deep and emotive house and techno, with NILE and B LUKE supporting. The night promises seamless mixing aimed at a dancefloor-ready crowd.",
         "promoter": "",
-        "price": "20",
+        "price": "$12",
         "tags": [
           "house",
           "techno",
@@ -1530,7 +1532,10 @@
           "https://halcyon-sf.com/",
           "https://link.dice.fm/i8a5a929a483?pid=d6c08999",
           "https://ra.co/events/2571289",
-          "https://dice.fm/event/6ab343dce1a8680001c9e93a"
+          {
+            "url": "https://dice.fm/event/6ab343dce1a8680001c9e93a",
+            "hidden": true
+          }
         ],
         "tickets": [
           "https://link.dice.fm/i8a5a929a483?pid=d6c08999",
@@ -1613,7 +1618,7 @@
         "time": "21:30",
         "start": "21:30",
         "end": null,
-        "area": "San Francisco",
+        "area": "SF",
         "venue": "Public Works",
         "address": "161 Erie Street, San Francisco, CA 94103",
         "why": "For a late-night live electronic set in an intimate club setting.",
@@ -1653,7 +1658,7 @@
         "time": "21:00",
         "start": "21:00",
         "end": null,
-        "area": "San Francisco",
+        "area": "SF",
         "venue": "The Independent",
         "address": "628 Divisadero Street, San Francisco, CA 94117",
         "why": "For an evening of live music at a well-regarded San Francisco venue.",
@@ -1693,7 +1698,7 @@
         "time": "18:00",
         "start": "18:00",
         "end": null,
-        "area": "San Francisco",
+        "area": "SF",
         "venue": "August Hall",
         "address": "420 Mason St, San Francisco, CA 94102",
         "why": "For an evening at August Hall and to preview tickets, photos, videos, and reviews.",
@@ -1771,10 +1776,10 @@
         "name": "FRYTM presents: SAGMO (Maccabi House)",
         "day": "Sat",
         "date": "2026-12-05",
-        "time": "22:00",
+        "time": "22:00-03:00",
         "start": "22:00",
         "end": "03:00",
-        "area": "SoMa",
+        "area": "SF",
         "venue": "Monarch",
         "address": "101 6th Street, San Francisco, CA 94103, United States",
         "why": "For a late-night dance party in a downtown club.",
@@ -1799,11 +1804,37 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "https://api.party-scout.app/img/san-francisco/2026-11-30/frytm-presents-sagmo-mac-a012.jpg",
+        "image": "https://images.ra.co/0cc13a69a437c8129675b9c0ae26586819ca7441.png",
         "image_generated": false,
         "popularity": 0,
         "enriched": 1,
-        "active": true
+        "active": true,
+        "lineup": [
+          {
+            "name": "SAGMO",
+            "instagram": null
+          },
+          {
+            "name": "Matony",
+            "instagram": null
+          },
+          {
+            "name": "Kohbain",
+            "instagram": null
+          },
+          {
+            "name": ".KINA",
+            "instagram": null
+          },
+          {
+            "name": "Dahaman",
+            "instagram": null
+          },
+          {
+            "name": "KEAUTY",
+            "instagram": null
+          }
+        ]
       },
       {
         "id": "2026-11-30-music-happy-tree-friends-mdmangel-ke-06a4ba",
@@ -1857,10 +1888,10 @@
         "name": "Hector Moralez and friends presents 'A Tribe Called Vibe'",
         "day": "Sat",
         "date": "2026-12-05",
-        "time": "21:00",
+        "time": "21:00-02:00",
         "start": "21:00",
         "end": "02:00",
-        "area": "San Francisco",
+        "area": "SF",
         "venue": "Underground SF",
         "address": "424 Haight St, San Francisco, CA 94117, United States",
         "why": "For a late-night party in an intimate club setting.",
@@ -1873,7 +1904,10 @@
           "nightlife"
         ],
         "sources": [
-          "https://ra.co/events/2569310"
+          {
+            "url": "https://ra.co/events/2569310",
+            "hidden": true
+          }
         ],
         "tickets": [
           "https://ra.co/events/2569310"
@@ -1900,9 +1934,9 @@
         "day": "Sat",
         "date": "2026-12-05",
         "time": "19:00",
-        "start": "19:00",
+        "start": "20:00",
         "end": null,
-        "area": "San Francisco",
+        "area": "SF",
         "venue": "Bill Graham Civic Auditorium",
         "address": "99 Grove Street, San Francisco, CA 94102",
         "why": "A big-room tech house night at one of SF's landmark venues, open to 18+.",
@@ -2221,10 +2255,10 @@
         "name": "Opulent Temple & Mioli Music's 4th Annual Holiday Party",
         "day": "Sat",
         "date": "2026-12-05",
-        "time": "21:30",
+        "time": "21:30-03:00",
         "start": "21:30",
         "end": "03:00",
-        "area": "San Francisco",
+        "area": "SF",
         "venue": "The Great Northern",
         "address": "119 Utah St, San Francisco, CA 94103",
         "why": "To catch a high-energy holiday DJ set at a major downtown dance venue.",
@@ -2440,16 +2474,16 @@
         "name": "Studio de Laune: Regularfantasy & Max Sprauer",
         "day": "Sat",
         "date": "2026-12-05",
-        "time": "21:00",
+        "time": "21:00-02:00",
         "start": "21:00",
         "end": "02:00",
-        "area": "San Francisco",
+        "area": "SF",
         "venue": "Public Works",
         "address": "161 Erie Street, San Francisco, CA 94103, United States",
         "why": "For a late-night dance outing at a noted San Francisco club.",
         "summary": "An event at Public Works in San Francisco on December 5, 2026 featuring Regularfantasy and Max Sprauer that begins at 21:00.",
         "promoter": "",
-        "price": "20",
+        "price": "$23",
         "tags": [
           "dj",
           "electronic",
@@ -2458,7 +2492,10 @@
         ],
         "sources": [
           "https://dothebay.com/events/2026/12/5/studio-de-laune-regularfantasy-max-sprauer-tickets",
-          "https://ra.co/events/2558092",
+          {
+            "url": "https://ra.co/events/2558092",
+            "hidden": true
+          },
           "https://edmtrain.com/tours/regularfantasy-35493"
         ],
         "tickets": [
@@ -2498,7 +2535,7 @@
         "time": "18:30",
         "start": "18:30",
         "end": null,
-        "area": "San Francisco",
+        "area": "SF",
         "venue": "The Masonic",
         "address": "1111 California St., San Francisco, CA 94108",
         "why": "To see a high-energy metal show at an iconic, intimate San Francisco venue.",
@@ -2512,7 +2549,10 @@
           "indoor"
         ],
         "sources": [
-          "https://dothebay.com/events/2026/12/5/trivium-crown-in-the-grave-world-tour-tickets"
+          {
+            "url": "https://dothebay.com/events/2026/12/5/trivium-crown-in-the-grave-world-tour-tickets",
+            "hidden": true
+          }
         ],
         "tickets": [],
         "maps": {
@@ -2522,8 +2562,8 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "https://api.party-scout.app/img/san-francisco/2026-11-30/trivium-crown-in-the-gra-479e.jpg",
-        "image_generated": false,
+        "image": "https://api.party-scout.app/img/san-francisco/2026-11-30/trivium-crown-in-the-gra-8a91.jpg",
+        "image_generated": true,
         "popularity": 0,
         "enriched": 1,
         "active": true
@@ -2552,7 +2592,8 @@
           "club"
         ],
         "sources": [
-          "https://dothebay.com/events/2026/12/5/tycho-nitemoves-tickets"
+          "https://dothebay.com/events/2026/12/5/tycho-nitemoves-tickets",
+          "https://dothebay.com/events/2026/12/5"
         ],
         "tickets": [],
         "maps": {
@@ -2667,16 +2708,16 @@
         "name": "Alex Wann - Day Party Rooftop",
         "day": "Sun",
         "date": "2026-12-06",
-        "time": "13:00",
+        "time": "13:00-18:00",
         "start": "13:00",
         "end": "18:00",
-        "area": "San Francisco",
+        "area": "SF",
         "venue": "Hotel Via",
         "address": "138 King St. San Francisco, CA 94107",
         "why": "Soak up rooftop views and daytime dancing in a lively party setting.",
         "summary": "A rooftop day party at Hotel Via on December 6, 2026 at 1:00 PM featuring Alex Wann.",
         "promoter": "",
-        "price": "$24-37 b4 230",
+        "price": "$24-37",
         "tags": [
           "outdoor",
           "daytime",
@@ -2741,7 +2782,10 @@
           "swing"
         ],
         "sources": [
-          "https://dothebay.com/events/2026/12/6/an-evening-with-squirrel-nut-zippers-christmas-caravan-2026-tickets"
+          {
+            "url": "https://dothebay.com/events/2026/12/6/an-evening-with-squirrel-nut-zippers-christmas-caravan-2026-tickets",
+            "hidden": true
+          }
         ],
         "tickets": [],
         "maps": {
@@ -2768,7 +2812,7 @@
         "time": "20:00",
         "start": "20:00",
         "end": null,
-        "area": "San Francisco",
+        "area": "SF",
         "venue": "The Independent",
         "address": "628 Divisadero Street, San Francisco, CA 94117",
         "why": "For an intimate live-music night at a well-known San Francisco venue.",
@@ -2869,7 +2913,11 @@
         ],
         "sources": [
           "https://dothebay.com/events/2026/12/6/ripe-tickets",
-          "https://www.axs.com/events/1587666/ripe-tickets"
+          "https://www.axs.com/events/1587666/ripe-tickets",
+          {
+            "url": "https://www.theregencyballroom.com/shows",
+            "hidden": true
+          }
         ],
         "tickets": [],
         "maps": {
@@ -2953,7 +3001,15 @@
           "all-ages"
         ],
         "sources": [
-          "https://sf.funcheap.com/sfs-free-dft-monthly-block-party-downtown-first-thursdays-2026-11/"
+          "https://sf.funcheap.com/sfs-free-dft-monthly-block-party-downtown-first-thursdays-2026-11/",
+          {
+            "url": "https://sf.funcheap.com/2026/12/03/",
+            "hidden": true
+          },
+          {
+            "url": "https://dothebay.com/events/2026/12/3",
+            "hidden": true
+          }
         ],
         "tickets": [],
         "maps": {
@@ -3149,16 +3205,16 @@
         "name": "Interzone - Krampus Party",
         "day": "Tue",
         "date": "2026-12-01",
-        "time": "21:00",
+        "time": "21:00-02:00",
         "start": "21:00",
         "end": "02:00",
-        "area": "San Francisco",
+        "area": "SF",
         "venue": "F8 1192 Folsom",
         "address": "1192 Folsom St, San Francisco, CA 94103",
         "why": "For a late-night, holiday-themed dance night in a central SoMa club.",
         "summary": "Interzone — a Krampus-themed party — takes place at F8 (1192 Folsom St) in SoMa on December 1, 2026, starting at 9:00 PM.",
         "promoter": "",
-        "price": "$5",
+        "price": "Free",
         "tags": [
           "dj",
           "nightclub",
@@ -3166,7 +3222,10 @@
           "costume"
         ],
         "sources": [
-          "https://ra.co/events/2585505"
+          {
+            "url": "https://ra.co/events/2585505",
+            "hidden": true
+          }
         ],
         "tickets": [
           "https://ra.co/events/2585505"
@@ -3360,16 +3419,16 @@
         "name": "CONNECT X WIP PRESENTS: HARD HOLIDAY",
         "day": "Thu",
         "date": "2026-12-03",
-        "time": "21:00",
+        "time": "21:00-02:30",
         "start": "21:00",
         "end": "02:30",
-        "area": "San Francisco",
+        "area": "SF",
         "venue": "F8 1192 Folsom",
         "address": "1192 Folsom St, San Francisco, CA 94103",
         "why": "For a late-night party at a central SoMa club.",
         "summary": "CONNECT X WIP PRESENTS: HARD HOLIDAY takes place at F8 (1192 Folsom St) in San Francisco on December 3, 2026, starting at 21:00.",
         "promoter": "",
-        "price": "0-15",
+        "price": "$0-15",
         "tags": [
           "dj",
           "21+",
@@ -3751,7 +3810,7 @@
         "name": "Lonab J. Bandz, Ada Lovebass, Lilotus, Daria Syra, Girlclock",
         "day": "Fri",
         "date": "2026-12-04",
-        "time": "21:00",
+        "time": "9pm-2am",
         "start": "21:00",
         "end": "02:00",
         "area": "SF",
@@ -3904,7 +3963,10 @@
             "url": "https://blizzard-b-sf.eventbrite.com",
             "hidden": true
           },
-          "https://ra.co/events/2581122"
+          {
+            "url": "https://ra.co/events/2581122",
+            "hidden": true
+          }
         ],
         "tickets": [
           "https://blizzard-b-sf.eventbrite.com",
@@ -4010,8 +4072,8 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "https://api.party-scout.app/img/san-francisco/2026-11-30/john-summit-8584.jpg",
-        "image_generated": false,
+        "image": "https://api.party-scout.app/img/san-francisco/2026-11-30/ctrl-escape-arena-tour-j-ca32.jpg",
+        "image_generated": true,
         "popularity": 0,
         "enriched": 1,
         "active": true
@@ -4024,10 +4086,10 @@
         "name": "Fringe - Indie Rock Day Party",
         "day": "Sat",
         "date": "2026-12-05",
-        "time": "15:00",
+        "time": "3pm-8pm",
         "start": "15:00",
         "end": "20:00",
-        "area": "San Francisco",
+        "area": "SF",
         "venue": "DNA Lounge (San Francisco)",
         "address": "",
         "why": "For an energetic afternoon of indie-rock music and dancing in a club setting.",
@@ -4066,16 +4128,16 @@
         "name": "Glossd: subfeels, Aepricity, Airali",
         "day": "Sat",
         "date": "2026-12-05",
-        "time": "22:00",
+        "time": "10pm-4am",
         "start": "22:00",
         "end": "04:00",
-        "area": "San Francisco",
+        "area": "SF",
         "venue": "TBA (San Francisco)",
         "address": "",
         "why": "To catch late-night DJ sets and a night out in San Francisco.",
         "summary": "A late-night event in San Francisco on December 5, 2026 at 22:00 featuring subfeels, Aepricity and Airali; venue TBA.",
         "promoter": "",
-        "price": "20",
+        "price": "$20",
         "tags": [
           "dj",
           "21+"
@@ -4097,7 +4159,7 @@
         "coords_precise": false,
         "ra": {},
         "image": "https://api.party-scout.app/img/san-francisco/2026-11-30/glossd-subfeels-aepricit-fa34.jpg",
-        "image_generated": false,
+        "image_generated": true,
         "popularity": 0,
         "enriched": 1,
         "active": true
@@ -4110,16 +4172,16 @@
         "name": "Matony, Kohbain, Galexy, .KINA, Aaron Marc, Dahaman, Keauty",
         "day": "Sat",
         "date": "2026-12-05",
-        "time": "22:00",
+        "time": "10pm-3am",
         "start": "22:00",
         "end": "03:00",
-        "area": "San Francisco",
+        "area": "SF",
         "venue": "Monarch (San Francisco)",
         "address": "101 6th Street, San Francisco, CA 94103",
         "why": "For a late-night electronic/DJ-focused party in downtown San Francisco.",
         "summary": "A club night at Monarch on Saturday, December 5, 2026, starting at 22:00, featuring Matony, Kohbain, Galexy, .KINA, Aaron Marc, Dahaman, and Keauty.",
         "promoter": "",
-        "price": "$15 b4 11 / $16-31",
+        "price": "$15",
         "tags": [
           "dj",
           "electronic",
@@ -4157,16 +4219,16 @@
         "name": "Miku vs Teto Rave: Moderna, Mandi Darkling, Cyberbunnie, Mysteriouswolfgyal, DJ Sapphic, Rubi, Czadokan",
         "day": "Sat",
         "date": "2026-12-05",
-        "time": "21:00",
+        "time": "9pm",
         "start": "21:00",
         "end": null,
-        "area": "San Francisco",
+        "area": "SF",
         "venue": "TBA (San Francisco)",
         "address": "",
         "why": "To dance to a high-energy multi-DJ electronic rave lineup.",
         "summary": "A rave on 2026-12-05 at 21:00 in San Francisco (venue TBA) featuring Moderna, Mandi Darkling, Cyberbunnie, Mysteriouswolfgyal, DJ Sapphic, Rubi, and Czadokan.",
         "promoter": "",
-        "price": "$5 b4 10pm / $10",
+        "price": "$5",
         "tags": [
           "rave",
           "dj",
@@ -4199,10 +4261,10 @@
         "name": "Slayyy Bells: Bootie Mashup",
         "day": "Sat",
         "date": "2026-12-05",
-        "time": "21:00",
+        "time": "9pm",
         "start": "21:00",
         "end": null,
-        "area": "San Francisco",
+        "area": "SF",
         "venue": "Cat Club (San Francisco)",
         "address": "1190 Folsom Street, San Francisco, CA 94103",
         "why": "To dance to high-energy pop mashups in a festive holiday atmosphere.",
@@ -4289,7 +4351,7 @@
         "name": "Sunshine People Toy Drive w/ Juliet Mendoza | Jamie Swing | Heather B | Nesto Fuentez | Tim Kilkenny",
         "day": "Sat",
         "date": "2026-12-05",
-        "time": "16:00",
+        "time": "4pm-12am",
         "start": "16:00",
         "end": "00:00",
         "area": "Oakland",
@@ -4322,7 +4384,7 @@
         "coords_precise": false,
         "ra": {},
         "image": "https://api.party-scout.app/img/san-francisco/2026-11-30/sunshine-people-toy-driv-e065.jpg",
-        "image_generated": false,
+        "image_generated": true,
         "popularity": 0,
         "enriched": 1,
         "active": true
@@ -4335,7 +4397,7 @@
         "name": "Tech Support 20th Anniversary: ReidSpeed, D-Program, Kinetik, b10burd3n, PLC, Autopsy",
         "day": "Sat",
         "date": "2026-12-05",
-        "time": "21:00",
+        "time": "9pm-3am",
         "start": "21:00",
         "end": "03:00",
         "area": "Oakland",
@@ -4537,6 +4599,913 @@
         "popularity": 0,
         "enriched": 1,
         "active": true
+      },
+      {
+        "id": "2026-11-30-music-small-town-gay-bar-20th-annive-ed592b",
+        "eid": "small-town-gay-bar-20th-22ff",
+        "track": "music",
+        "category": "",
+        "name": "Small Town Gay Bar 20th Anniversary",
+        "day": "Tue",
+        "date": "2026-12-01",
+        "time": "",
+        "start": "18:30",
+        "end": null,
+        "area": "SF",
+        "venue": "The Castro",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "",
+        "tags": [],
+        "sources": [
+          "https://dothebay.com/events/2026/12/1/small-town-gay-bar-tickets"
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=The%20Castro%2C%20SF",
+          "apple": "https://maps.apple.com/?q=The%20Castro%2C%20SF"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-11-30-music-the-benthouse-records-x-run-it-c60954",
+        "eid": "the-benthouse-records-x-1365",
+        "track": "music",
+        "category": "",
+        "name": "The Benthouse Records x Run it Back present Bent for the Holidays",
+        "day": "Wed",
+        "date": "2026-12-02",
+        "time": "21:00-02:00",
+        "start": "21:00",
+        "end": "02:00",
+        "area": "SF",
+        "venue": "F8 1192 Folsom",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "$0-15",
+        "tags": [],
+        "sources": [
+          "https://ra.co/events/2590381"
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=F8%201192%20Folsom%2C%20SF",
+          "apple": "https://maps.apple.com/?q=F8%201192%20Folsom%2C%20SF"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-11-30-music-40split-ek-84031f",
+        "eid": "40split-ek-8644",
+        "track": "music",
+        "category": "",
+        "name": "40split & EK",
+        "day": "Thu",
+        "date": "2026-12-03",
+        "time": "21:00-01:00",
+        "start": "21:00",
+        "end": "01:00",
+        "area": "SF",
+        "venue": "The LookOut",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "Free",
+        "tags": [],
+        "sources": [
+          "https://ra.co/events/2590739"
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=The%20LookOut%2C%20SF",
+          "apple": "https://maps.apple.com/?q=The%20LookOut%2C%20SF"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-11-30-music-digital-frequency-1hexx-elepha-dea0f9",
+        "eid": "digital-frequency-1hexx-924d",
+        "track": "music",
+        "category": "",
+        "name": "Digital Frequency, 1hexx, Elephant Garden, and Electric Ex",
+        "day": "Thu",
+        "date": "2026-12-03",
+        "time": "8:30pm-12am",
+        "start": "20:30",
+        "end": "00:00",
+        "area": "SF",
+        "venue": "El Rio (San Francisco)",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "$10",
+        "tags": [],
+        "sources": [
+          "https://tockify.com/elriosf2/detail/4413/1796356800000",
+          "https://ra.co/events/2585925"
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=El%20Rio%20%28San%20Francisco%29%2C%20SF",
+          "apple": "https://maps.apple.com/?q=El%20Rio%20%28San%20Francisco%29%2C%20SF"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-11-30-music-local-500-public-works-present-ae6968",
+        "eid": "local-500-public-works-p-f403",
+        "track": "music",
+        "category": "",
+        "name": "Local 500 & Public Works present: Function 500 with Pulse Finder",
+        "day": "Thu",
+        "date": "2026-12-03",
+        "time": "21:00-02:00",
+        "start": "21:00",
+        "end": "02:00",
+        "area": "SF",
+        "venue": "Public Works",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "$5",
+        "tags": [],
+        "sources": [
+          "https://ra.co/events/2587588"
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=Public%20Works%2C%20SF",
+          "apple": "https://maps.apple.com/?q=Public%20Works%2C%20SF"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-11-30-music-sonic-solstice-87d67b",
+        "eid": "sonic-solstice-da94",
+        "track": "music",
+        "category": "",
+        "name": "Sonic Solstice",
+        "day": "Thu",
+        "date": "2026-12-03",
+        "time": "20:00-02:00",
+        "start": "20:00",
+        "end": "02:00",
+        "area": "SF",
+        "venue": "Monarch",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "",
+        "tags": [],
+        "sources": [
+          "https://ra.co/events/2590325"
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=Monarch%2C%20SF",
+          "apple": "https://maps.apple.com/?q=Monarch%2C%20SF"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-11-30-music-tycho-dj-set-new-nostalgia-2b188f",
+        "eid": "tycho-dj-set-new-nostalg-58e4",
+        "track": "music",
+        "category": "",
+        "name": "Tycho (DJ Set) + New Nostalgia",
+        "day": "Thu",
+        "date": "2026-12-03",
+        "time": "10pm-12am",
+        "start": "21:00",
+        "end": "02:00",
+        "area": "SF",
+        "venue": "1015 Folsom (San Francisco)",
+        "address": "1015 Folsom Street; San Francisco, CA 94103; United States",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "$20-30",
+        "tags": [],
+        "sources": [
+          "https://www.eventbrite.com/e/tycho-dj-set-new-nostalgia-tickets-2004921237392",
+          {
+            "url": "https://dothebay.com/events/2026/12/3",
+            "hidden": true
+          },
+          "https://ra.co/events/2586511"
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=1015%20Folsom%20Street%3B%20San%20Francisco%2C%20CA%2094103%3B%20United%20States",
+          "apple": "https://maps.apple.com/?q=1015%20Folsom%20Street%3B%20San%20Francisco%2C%20CA%2094103%3B%20United%20States"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "https://images.ra.co/c2f1f9db03fc909290abb77df30561802fa1629e.png",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true,
+        "lineup": [
+          {
+            "name": "Tycho",
+            "instagram": null
+          },
+          {
+            "name": "New Nostalgia",
+            "instagram": null
+          }
+        ]
+      },
+      {
+        "id": "2026-11-30-music-1-drink-fridays-battle-of-the-adfc14",
+        "eid": "1-drink-fridays-battle-o-eb02",
+        "track": "music",
+        "category": "Nightclub",
+        "name": "$1 Drink Fridays: Battle of the Decades DJ Party",
+        "day": "Fri",
+        "date": "2026-12-04",
+        "time": "17:00",
+        "start": "17:00",
+        "end": "23:00",
+        "area": "SF",
+        "venue": "Monroe (North Beach)",
+        "address": "473 Broadway Street, San Francisco, CA",
+        "why": "Super-cheap early drinks and a rotating-decade soundtrack make for an easy, affordable Friday night.",
+        "summary": "Weekly Friday DJ party and happy hour at Monroe in North Beach with a DJ spinning decade-themed sets across two rooms and an outdoor patio. Hourly drink-price tiers run from $1 (5–6pm, ’60s) up to $6 (10–11pm), with current hits after 11pm.",
+        "promoter": "",
+        "price": "Free",
+        "tags": [
+          "dj",
+          "free",
+          "outdoor",
+          "happy-hour"
+        ],
+        "sources": [
+          "https://sf.funcheap.com/2026/12/04/",
+          "https://sf.funcheap.com/1-drink-fridays-battle-of-the-decades-dj-party-north-beach-266/"
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=San%20Francisco%20%28see%20listing%29%2C%20San%20Francisco",
+          "apple": "https://maps.apple.com/?q=San%20Francisco%20%28see%20listing%29%2C%20San%20Francisco"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "https://api.party-scout.app/img/san-francisco/2026-11-30/1-drink-fridays-battle-o-065f.jpg",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-11-30-music-chinonegro-sebastian-fox-que-l-197268",
+        "eid": "chinonegro-sebastian-fox-68df",
+        "track": "music",
+        "category": "",
+        "name": "Chinonegro, Sebastian Fox, Que Lindo",
+        "day": "Fri",
+        "date": "2026-12-04",
+        "time": "9pm",
+        "start": "21:00",
+        "end": null,
+        "area": "San Jose",
+        "venue": "The Continental Bar Lounge & Patio (San Jose)",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "$10+",
+        "tags": [],
+        "sources": [
+          "https://www.eventbrite.com/e/chinonegro-tickets-2004976225864"
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=The%20Continental%20Bar%20Lounge%20%26%20Patio%20%28San%20Jose%29%2C%20San%20Jose",
+          "apple": "https://maps.apple.com/?q=The%20Continental%20Bar%20Lounge%20%26%20Patio%20%28San%20Jose%29%2C%20San%20Jose"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-11-30-music-contra-abstrakt-sonance-48ef36",
+        "eid": "contra-abstrakt-sonance-1590",
+        "track": "music",
+        "category": "",
+        "name": "Contra & Abstrakt Sonance",
+        "day": "Fri",
+        "date": "2026-12-04",
+        "time": "9pm-1:30am",
+        "start": "21:00",
+        "end": "01:30",
+        "area": "San Jose",
+        "venue": "Guildhouse (San Jose)",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "$18-28",
+        "tags": [],
+        "sources": [
+          "https://posh.vip/f/f65ea?t=19hz"
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=Guildhouse%20%28San%20Jose%29%2C%20San%20Jose",
+          "apple": "https://maps.apple.com/?q=Guildhouse%20%28San%20Jose%29%2C%20San%20Jose"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-11-30-music-house-revolution-poe-dj-crew-o-525624",
+        "eid": "house-revolution-poe-dj-30f5",
+        "track": "music",
+        "category": "",
+        "name": "House Revolution: Poe, DJ Crew, Otter",
+        "day": "Fri",
+        "date": "2026-12-04",
+        "time": "9pm",
+        "start": "21:00",
+        "end": null,
+        "area": "SF",
+        "venue": "Bella (San Francisco)",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "Free",
+        "tags": [],
+        "sources": [
+          "https://www.instagram.com/houserevolutionchico/reel/Df7gEmmqFFq/"
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=Bella%20%28San%20Francisco%29%2C%20SF",
+          "apple": "https://maps.apple.com/?q=Bella%20%28San%20Francisco%29%2C%20SF"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-11-30-music-program-audio-tba-47c5ed",
+        "eid": "program-audio-tba-d3d0",
+        "track": "music",
+        "category": "",
+        "name": "program audio: tba",
+        "day": "Fri",
+        "date": "2026-12-04",
+        "time": "22:00-04:00",
+        "start": "22:00",
+        "end": "04:00",
+        "area": "SF",
+        "venue": "F8 1192 Folsom",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "",
+        "tags": [],
+        "sources": [
+          "https://ra.co/events/2586780"
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=F8%201192%20Folsom%2C%20SF",
+          "apple": "https://maps.apple.com/?q=F8%201192%20Folsom%2C%20SF"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-11-30-music-spins-pins-amelia-great-natash-0efd3c",
+        "eid": "spins-pins-amelia-great-c7af",
+        "track": "music",
+        "category": "",
+        "name": "Spins & Pins: Amelia, Great, Natasha Xo, Reedemit, S2, Chunkiebeatz",
+        "day": "Fri",
+        "date": "2026-12-04",
+        "time": "8pm",
+        "start": "20:00",
+        "end": null,
+        "area": "South San Francisco",
+        "venue": "Hometown Bowl (South San Francisco)",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "",
+        "tags": [],
+        "sources": [
+          "https://www.instagram.com/fusecollectivesf/p/Df52JAyCFem/",
+          "https://edmtrain.com/san-francisco-ca/spins-and-pins-natasha-xo-555041"
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=Hometown%20Bowl%20%28South%20San%20Francisco%29%2C%20South%20San%20Francisco",
+          "apple": "https://maps.apple.com/?q=Hometown%20Bowl%20%28South%20San%20Francisco%29%2C%20South%20San%20Francisco"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-11-30-music-ultra-q-with-rock-cross-stitch-223bff",
+        "eid": "ultra-q-with-rock-cross-a207",
+        "track": "music",
+        "category": "",
+        "name": "Ultra Q with Rock Cross Stitch",
+        "day": "Fri",
+        "date": "2026-12-04",
+        "time": "",
+        "start": "19:00",
+        "end": null,
+        "area": "SF",
+        "venue": "Bottom of the Hill",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "$22–25",
+        "tags": [],
+        "sources": [
+          {
+            "url": "https://www.bottomofthehill.com/calendar.html",
+            "hidden": true
+          }
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=Bottom%20of%20the%20Hill%2C%20SF",
+          "apple": "https://maps.apple.com/?q=Bottom%20of%20the%20Hill%2C%20SF"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-11-30-music-bodyheat-fundraiser-feat-infin-b415cc",
+        "eid": "bodyheat-fundraiser-feat-694c",
+        "track": "music",
+        "category": "",
+        "name": "BodyHeat Fundraiser feat. Infinite Jess, foor, lo.control",
+        "day": "Sat",
+        "date": "2026-12-05",
+        "time": "20:00-02:00",
+        "start": "20:00",
+        "end": "02:00",
+        "area": "SF",
+        "venue": "Driftwood",
+        "address": "1225 Folsom St. San Francisco CA 94103",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "$15",
+        "tags": [],
+        "sources": [
+          "https://ra.co/events/2589900"
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=1225%20Folsom%20St.%20San%20Francisco%20CA%2094103",
+          "apple": "https://maps.apple.com/?q=1225%20Folsom%20St.%20San%20Francisco%20CA%2094103"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "https://images.ra.co/f54e42eb5133a04cdd4959c3b5da5f1f3eb0d7e5.jpg",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true,
+        "lineup": [
+          {
+            "name": "Infinite Jess",
+            "instagram": null
+          },
+          {
+            "name": "Christopher Foor",
+            "instagram": null
+          },
+          {
+            "name": "lo.control",
+            "instagram": null
+          }
+        ]
+      },
+      {
+        "id": "2026-11-30-music-get-busy-w-dj-baysik-zmo-cold-fba28a",
+        "eid": "get-busy-w-dj-baysik-zmo-8d78",
+        "track": "music",
+        "category": "",
+        "name": "Get Busy w/DJ Baysik + Zmo + Cold SF",
+        "day": "Sat",
+        "date": "2026-12-05",
+        "time": "9pm-2am",
+        "start": "21:00",
+        "end": "02:00",
+        "area": "SF",
+        "venue": "El Rio (San Francisco)",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "Free",
+        "tags": [],
+        "sources": [
+          {
+            "url": "https://ra.co/events/2585934",
+            "hidden": true
+          }
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=El%20Rio%20%28San%20Francisco%29%2C%20SF",
+          "apple": "https://maps.apple.com/?q=El%20Rio%20%28San%20Francisco%29%2C%20SF"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "https://api.party-scout.app/img/san-francisco/2026-11-30/get-busy-w-dj-baysik-zmo-8d78.jpg",
+        "image_generated": true,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-11-30-music-goshfather-75e062",
+        "eid": "goshfather-584e",
+        "track": "music",
+        "category": "",
+        "name": "Goshfather",
+        "day": "Sat",
+        "date": "2026-12-05",
+        "time": "",
+        "start": "22:00",
+        "end": null,
+        "area": "SF",
+        "venue": "Halcyon",
+        "address": "314 11th St, San Francisco, CA 94103",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "From $12",
+        "tags": [],
+        "sources": [
+          "https://link.dice.fm/Fdc90c3ab8ed?pid=d6c08999"
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=314%2011th%20St%2C%20San%20Francisco%2C%20CA%2094103",
+          "apple": "https://maps.apple.com/?q=314%2011th%20St%2C%20San%20Francisco%2C%20CA%2094103"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "https://dice-media.imgix.net/attachments/2026-11-21/48c61ff8-2e83-4a0f-848d-ebc30760a610.jpg?rect=0%2C216%2C1080%2C648",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-11-30-music-maximilian-dj-questy-mishahell-82834e",
+        "eid": "maximilian-dj-questy-mis-df80",
+        "track": "music",
+        "category": "",
+        "name": "Maximilian, DJ Questy, Mishahell",
+        "day": "Sat",
+        "date": "2026-12-05",
+        "time": "9pm-2am",
+        "start": "21:00",
+        "end": "02:00",
+        "area": "SF",
+        "venue": "Mothership (San Francisco)",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "Free",
+        "tags": [],
+        "sources": [
+          "https://www.instagram.com/maximalistcrew/p/Df5hnCZD9qG/"
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=Mothership%20%28San%20Francisco%29%2C%20SF",
+          "apple": "https://maps.apple.com/?q=Mothership%20%28San%20Francisco%29%2C%20SF"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "https://api.party-scout.app/img/san-francisco/2026-11-30/maximilian-dj-questy-mis-df80.jpg",
+        "image_generated": true,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-11-30-music-pura-saturdays-18ac70",
+        "eid": "pura-saturdays-0033",
+        "track": "music",
+        "category": "",
+        "name": "Pura Saturdays",
+        "day": "Sat",
+        "date": "2026-12-05",
+        "time": "",
+        "start": "22:00",
+        "end": null,
+        "area": "SF",
+        "venue": "1015 Folsom",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "",
+        "tags": [],
+        "sources": [
+          "https://dothebay.com/events/2026/12/5/pura-saturdays-tickets"
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=1015%20Folsom%2C%20SF",
+          "apple": "https://maps.apple.com/?q=1015%20Folsom%2C%20SF"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "https://api.party-scout.app/img/san-francisco/2026-11-30/pura-saturdays-0033.jpg",
+        "image_generated": true,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-11-30-music-sidequest-gvbe-65b098",
+        "eid": "sidequest-gvbe-2916",
+        "track": "music",
+        "category": "",
+        "name": "Sidequest, GVBE",
+        "day": "Sat",
+        "date": "2026-12-05",
+        "time": "10pm",
+        "start": "22:00",
+        "end": null,
+        "area": "Sunnyvale",
+        "venue": "Pure Nightclub (Sunnyvale)",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "$24+",
+        "tags": [],
+        "sources": [
+          "https://www.tixr.com/groups/purenightclub/events/sidequest-201959"
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=Pure%20Nightclub%20%28Sunnyvale%29%2C%20Sunnyvale",
+          "apple": "https://maps.apple.com/?q=Pure%20Nightclub%20%28Sunnyvale%29%2C%20Sunnyvale"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "https://api.party-scout.app/img/san-francisco/2026-11-30/sidequest-gvbe-2916.jpg",
+        "image_generated": true,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-11-30-music-silk-szn-closer-shekdash-anast-cac484",
+        "eid": "silk-szn-closer-shekdash-05be",
+        "track": "music",
+        "category": "",
+        "name": "Silk Szn Closer: Shekdash, Anastazja, Paydayloan, Ecto, Two Seven, Shino Smoke, Lefty, Malik Bey",
+        "day": "Sat",
+        "date": "2026-12-05",
+        "time": "9pm-2am",
+        "start": "21:00",
+        "end": "02:00",
+        "area": "SF",
+        "venue": "The Foundry (San Francisco)",
+        "address": "1425 Folsom Street, San Francisco, CA 94103",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "$10-24",
+        "tags": [],
+        "sources": [
+          "https://www.eventbrite.com/e/silk-presents-shekdash-anastazja-at-the-foundry-tickets-2004637209858"
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=1425%20Folsom%20Street%2C%20San%20Francisco%2C%20CA%2094103",
+          "apple": "https://maps.apple.com/?q=1425%20Folsom%20Street%2C%20San%20Francisco%2C%20CA%2094103"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1197659331%2F3007509996390%2F1%2Foriginal.20261110-063512?w=940&auto=format%2Ccompress&q=75&sharp=10&s=979b637446e0ed29912d464dcf3013b3",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-11-30-music-white-lies-party-eace7d",
+        "eid": "white-lies-party-c920",
+        "track": "music",
+        "category": "",
+        "name": "White Lies Party",
+        "day": "Sat",
+        "date": "2026-12-05",
+        "time": "10pm",
+        "start": "22:00",
+        "end": null,
+        "area": "SF",
+        "venue": "715 Harrison (San Francisco)",
+        "address": "715 Harrison Street, San Francisco, CA 94107",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "Free",
+        "tags": [],
+        "sources": [
+          "https://www.eventbrite.com/e/white-lies-party-tickets-2004574960669"
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=715%20Harrison%20Street%2C%20San%20Francisco%2C%20CA%2094107",
+          "apple": "https://maps.apple.com/?q=715%20Harrison%20Street%2C%20San%20Francisco%2C%20CA%2094107"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1198371529%2F3002118097464%2F1%2Foriginal.20261120-035545?crop=focalpoint&fit=crop&w=940&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=b9990b5f00391e9c7348baf92821b677",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-11-30-music-circle-jerks-x-repo-man-3026a2",
+        "eid": "circle-jerks-x-repo-man-27ef",
+        "track": "music",
+        "category": "",
+        "name": "Circle Jerks x Repo Man",
+        "day": "Sun",
+        "date": "2026-12-06",
+        "time": "",
+        "start": "18:00",
+        "end": null,
+        "area": "SF",
+        "venue": "The Castro",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "",
+        "tags": [],
+        "sources": [
+          "https://dothebay.com/events/2026/12/6/circle-jerks-x-repo-man-tickets"
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=The%20Castro%2C%20SF",
+          "apple": "https://maps.apple.com/?q=The%20Castro%2C%20SF"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-11-30-music-matt-rogers-this-time-it-s-rea-118808",
+        "eid": "matt-rogers-this-time-it-ece4",
+        "track": "music",
+        "category": "",
+        "name": "Matt Rogers: This Time It's Really Christmas Tour",
+        "day": "Sun",
+        "date": "2026-12-06",
+        "time": "",
+        "start": "20:00",
+        "end": null,
+        "area": "SF",
+        "venue": "The Fillmore",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "",
+        "tags": [],
+        "sources": [
+          "https://dothebay.com/events/2026/12/6/matt-rogers-this-time-it-s-really-christmas-tour-tickets"
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=The%20Fillmore%2C%20SF",
+          "apple": "https://maps.apple.com/?q=The%20Fillmore%2C%20SF"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
       }
     ],
     "sports": [
@@ -4593,12 +5562,12 @@
         "time": "18:30",
         "start": "18:30",
         "end": "20:30",
-        "area": "San Francisco",
+        "area": "SF",
         "venue": "Mission Recreation Center, 2450 Harrison St",
         "address": "2450 Harrison St, San Francisco, CA",
         "why": "Play a free pickup squash game and meet local players.",
         "summary": "A weekly squash group that meets at the courts in Mission Recreation Center on Tuesdays. Sessions are free, and the venue is close to the 16th and 24th Street BART stations with street parking nearby.",
-        "promoter": "",
+        "promoter": "San Francisco Squash",
         "price": "Free",
         "tags": [
           "sports",
@@ -4674,12 +5643,12 @@
         "time": "15:00",
         "start": "15:00",
         "end": "17:00",
-        "area": "San Francisco",
+        "area": "SF",
         "venue": "St. Patrick Church, 756 Mission St",
         "address": "756 Mission St, San Francisco, CA",
         "why": "To catch waterfront views, urban stair art, and historic neighborhood highlights on an easy guided walk.",
         "summary": "A guided waterfront stroll starting at St. Patrick Church (756 Mission St) on Dec 4 at 3:00pm through South Beach and Rincon Hill, stopping at the tiled stairs on Beale St, South Park, and Brannan Wharf. The walk is offered by donation; bring water, snacks, and layers for changing microclimates.",
-        "promoter": "",
+        "promoter": "Roaming Zen",
         "price": "Free",
         "tags": [
           "outdoor",
@@ -4771,7 +5740,10 @@
           "dance"
         ],
         "sources": [
-          "https://sf.funcheap.com/golden-gate-park-sunday-roller-disco-party-sf-307/"
+          {
+            "url": "https://sf.funcheap.com/golden-gate-park-sunday-roller-disco-party-sf-307/",
+            "hidden": true
+          }
         ],
         "tickets": [],
         "maps": {
@@ -4926,12 +5898,12 @@
         "time": "10:00",
         "start": "10:00",
         "end": "12:00",
-        "area": "San Francisco",
+        "area": "SF",
         "venue": "Panhandle",
         "address": "",
         "why": "Get an easy, social 5K and meet runners of all abilities.",
         "summary": "Weekly community run meeting at 10:00am at the southeast corner of the Panhandle (near the William McKinley statue) for a 5K through Golden Gate Park; all paces are welcome with a recommended pace of 10–15 min/mile.",
-        "promoter": "",
+        "promoter": "Slow Runners Club",
         "price": "Free",
         "tags": [
           "free",
@@ -4968,7 +5940,7 @@
         "time": "19:00",
         "start": "19:00",
         "end": "21:00",
-        "area": "San Francisco",
+        "area": "SF",
         "venue": "House of Air",
         "address": "926 Old Mason Street, San Francisco, CA",
         "why": "Bounce in an adults-only session with music, drinks, and a chill lounge between jumps.",
@@ -4985,6 +5957,10 @@
         "sources": [
           {
             "url": "https://sf.funcheap.com/flight-club-adult-flight-night-for-ages-18-at-house-of-air-trampoline-park-sf-67/",
+            "hidden": true
+          },
+          {
+            "url": "https://sf.funcheap.com/2026/12/03/",
             "hidden": true
           }
         ],
@@ -5094,12 +6070,12 @@
         "time": "07:00",
         "start": "07:00",
         "end": "08:00",
-        "area": "San Francisco",
+        "area": "SF",
         "venue": "WeWork Office Space & Coworking, 156 2nd St",
         "address": "156 2nd St, San Francisco, CA",
         "why": "Train with others to improve technique, endurance, and consistency in a supportive group.",
         "summary": "A group running session at WeWork (156 2nd St) featuring themed courses, warm-ups, runs, drills, and cool-downs for beginners and seasoned runners. Sessions focus on improving running form, endurance, and strength while building community and motivation.",
-        "promoter": "",
+        "promoter": "Rise By We San Francisco Running Group",
         "price": "$16",
         "tags": [
           "fitness",
@@ -5178,12 +6154,12 @@
         "time": "19:30",
         "start": "19:30",
         "end": "22:15",
-        "area": "San Francisco",
+        "area": "SF",
         "venue": "Raymond Kimbell Playground Park, 1901 Geary Blvd, San Francisco, CA 94115, USA",
         "address": "1901 Geary Blvd, San Francisco, CA 94115, USA, San Francisco, CA",
         "why": "Get fast-paced outdoor exercise, practice skills, and meet local players.",
         "summary": "A free weekly Thursday night Spikeball pickup at Raymond Kimbell Playground Park starting at 7:30 PM; the event is open to all players.",
-        "promoter": "",
+        "promoter": "Bay Area Spikeball",
         "price": "Free",
         "tags": [
           "spikeball",
@@ -5220,12 +6196,12 @@
         "time": "09:30",
         "start": "09:30",
         "end": "11:30",
-        "area": "San Francisco",
+        "area": "SF",
         "venue": "Murphy Windmill, San Francisco, CA 94121, USA",
         "address": "San Francisco, CA 94121, USA, San Francisco, CA",
         "why": "Get a relaxed morning run plus startup-focused networking and coffee.",
         "summary": "An easy 5–10 km outdoor group run with talks for founders, investors, operators and creators that finishes with coffee and post-run conversation. Participants can choose their pace or follow a pacer; pets, friends, and family are welcome.",
-        "promoter": "",
+        "promoter": "Founders Running Club :: San Francisco",
         "price": "Free",
         "tags": [
           "running",
@@ -5310,12 +6286,12 @@
         "time": "09:00",
         "start": "09:00",
         "end": "11:00",
-        "area": "San Francisco",
+        "area": "SF",
         "venue": "Mission Recreation Center, 2450 Harrison St",
         "address": "2450 Harrison St, San Francisco, CA",
         "why": "For a casual, free squash workout and social round with local players.",
         "summary": "A weekly squash group that meets at the Mission Recreation Center courts; sessions are free, and players often grab food afterward. The center is close to 16th and 24th Street BART stations and has nearby street parking.",
-        "promoter": "",
+        "promoter": "San Francisco Squash",
         "price": "Free",
         "tags": [
           "sports",
@@ -5350,12 +6326,12 @@
         "time": "09:00",
         "start": "09:00",
         "end": "14:00",
-        "area": "San Francisco",
+        "area": "SF",
         "venue": "Ocean Beach, Stairwell 17, just across from Beach Chalet, 1000 Great Hwy",
         "address": "1000 Great Hwy, San Francisco, CA",
         "why": "Improve skills with structured drills then get live practice on the sand.",
         "summary": "Beach volleyball training and open play at Ocean Beach (Stairwell 17) starting at 9:00; the session begins with VBX no-net warm-up and skill-building phases followed by nets and open play, all levels welcome.",
-        "promoter": "",
+        "promoter": "Ocean Beach Volleyball Training and Playing. San Francisco",
         "price": "Free",
         "tags": [
           "volleyball",
@@ -5380,6 +6356,198 @@
         "image_generated": false,
         "popularity": 0,
         "enriched": 1,
+        "active": true
+      },
+      {
+        "id": "2026-11-30-sports-fog-city-run-5k-93c30a",
+        "eid": "fog-city-run-5k-7a5a",
+        "track": "sports",
+        "category": "Running",
+        "name": "Fog City Run 5K",
+        "day": "Wed",
+        "date": "2026-12-02",
+        "time": "",
+        "start": null,
+        "end": null,
+        "area": "SF",
+        "venue": "San Francisco",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "",
+        "tags": [],
+        "sources": [
+          {
+            "url": "https://www.runningintheusa.com/race/list/san%20francisco-CA/upcoming",
+            "hidden": true
+          }
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=San%20Francisco%2C%20SF",
+          "apple": "https://maps.apple.com/?q=San%20Francisco%2C%20SF"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-11-30-sports-embarcadero-night-skate-pizza-80e204",
+        "eid": "embarcadero-night-skate-849e",
+        "track": "sports",
+        "category": "",
+        "name": "Embarcadero Night Skate & Pizza",
+        "day": "Fri",
+        "date": "2026-12-04",
+        "time": "19:30",
+        "start": "19:30",
+        "end": null,
+        "area": "SF",
+        "venue": "Ferry Building, 1 Ferry Building",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "Gist IRL SF",
+        "price": "",
+        "tags": [],
+        "sources": [
+          {
+            "url": "https://www.meetup.com/gist-irl/events/317201577/",
+            "hidden": true
+          }
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=Ferry%20Building%2C%201%20Ferry%20Building%2C%20SF",
+          "apple": "https://maps.apple.com/?q=Ferry%20Building%2C%201%20Ferry%20Building%2C%20SF"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-11-30-sports-sunset-dunes-parkrun-5k-2892b8",
+        "eid": "sunset-dunes-parkrun-5k-65b1",
+        "track": "sports",
+        "category": "Running",
+        "name": "Sunset Dunes parkrun 5K",
+        "day": "Sat",
+        "date": "2026-12-05",
+        "time": "",
+        "start": null,
+        "end": null,
+        "area": "SF",
+        "venue": "Sunset Dunes",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "Free",
+        "tags": [],
+        "sources": [
+          {
+            "url": "https://www.runningintheusa.com/race/list/san%20francisco-CA/upcoming",
+            "hidden": true
+          }
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=Sunset%20Dunes%2C%20SF",
+          "apple": "https://maps.apple.com/?q=Sunset%20Dunes%2C%20SF"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "https://api.party-scout.app/img/san-francisco/2026-11-30/sunset-dunes-parkrun-5k-65b1.jpg",
+        "image_generated": true,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-11-30-sports-ken-reed-baker-beach-memorial-9fb43f",
+        "eid": "ken-reed-baker-beach-mem-ef0c",
+        "track": "sports",
+        "category": "Running",
+        "name": "Ken Reed Baker Beach Memorial 5K",
+        "day": "Sun",
+        "date": "2026-12-06",
+        "time": "",
+        "start": null,
+        "end": null,
+        "area": "SF",
+        "venue": "Baker Beach",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "",
+        "tags": [],
+        "sources": [
+          {
+            "url": "https://www.runningintheusa.com/race/list/san%20francisco-CA/upcoming",
+            "hidden": true
+          }
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=Baker%20Beach%2C%20SF",
+          "apple": "https://maps.apple.com/?q=Baker%20Beach%2C%20SF"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-11-30-sports-sundays-pick-up-soccer-in-mari-af5016",
+        "eid": "sundays-pick-up-soccer-i-d63a",
+        "track": "sports",
+        "category": "",
+        "name": "Sundays Pick-Up Soccer in Marina Green",
+        "day": "Sun",
+        "date": "2026-12-06",
+        "time": "11:00",
+        "start": "11:00",
+        "end": null,
+        "area": "SF",
+        "venue": "Marina Green, San Francisco, CA 94123, USA",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "Sundays Pick-Up Soccer in Marina Green",
+        "price": "",
+        "tags": [],
+        "sources": [
+          "https://www.meetup.com/meetup-group-ghfhwufc/events/317458981/"
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=Marina%20Green%2C%20San%20Francisco%2C%20CA%2094123%2C%20USA%2C%20SF",
+          "apple": "https://maps.apple.com/?q=Marina%20Green%2C%20San%20Francisco%2C%20CA%2094123%2C%20USA%2C%20SF"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
         "active": true
       }
     ]
