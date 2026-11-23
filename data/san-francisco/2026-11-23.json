@@ -6611,11 +6611,11 @@
         "time": "10pm–1am",
         "start": "22:00",
         "end": "01:00",
-        "area": "San Francisco",
+        "area": "SoMa",
         "venue": "The Great Northern",
         "address": "",
-        "why": "A fundraising bass party where proceeds go to the SF‑Marin Food Bank.",
-        "summary": "A bass-heavy club night pairing DJs Tyler Sky and Strategik for BASSGiving, a dancefloor-focused benefit supporting the SF‑Marin Food Bank.",
+        "why": "A late bass-heavy Wednesday for the pre-holiday crowd, with three local-circuit DJs on a big club system.",
+        "summary": "Bass-music night at The Great Northern with Sampphire, Powell Ranger and Swade, the night before Thanksgiving.",
         "promoter": "",
         "price": "$16+",
         "tags": [
@@ -6623,10 +6623,17 @@
           "dj",
           "benefit",
           "dance",
-          "late-night"
+          "late-night",
+          "edm",
+          "club-night",
+          "thanksgiving-eve"
         ],
         "sources": [
-          "https://edmtrain.com/san-francisco-ca/bassgiving-555187"
+          "https://edmtrain.com/san-francisco-ca/bassgiving-555187",
+          {
+            "url": "https://19hz.info/eventlisting_BayArea.php",
+            "hidden": true
+          }
         ],
         "tickets": [],
         "maps": {
@@ -6636,8 +6643,8 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
-        "image_generated": false,
+        "image": "https://api.party-scout.app/img/san-francisco/2026-11-23/bassgiving-a9d2.jpg",
+        "image_generated": true,
         "popularity": 0,
         "enriched": 1,
         "active": true
@@ -6646,7 +6653,7 @@
         "id": "2026-11-23-music-karaoke-night-4c981a",
         "eid": "karaoke-night-85f3",
         "track": "music",
-        "category": "",
+        "category": "Nightclub",
         "name": "Karaoke Night",
         "day": "Wed",
         "date": "2026-11-25",
@@ -6656,11 +6663,17 @@
         "area": "San Francisco",
         "venue": "Club 1220",
         "address": "",
-        "why": "",
-        "summary": "",
+        "why": "An inclusive, judgment-free karaoke format that welcomes regulars and first-timers alike.",
+        "summary": "A weekly, judgment-free karaoke night where singers of all skill levels are invited to grab the mic and sing with friends; the vibe is lighthearted and social with an LGBTQ+-friendly atmosphere.",
         "promoter": "",
         "price": "",
-        "tags": [],
+        "tags": [
+          "karaoke",
+          "lgbtq",
+          "sing-along",
+          "weekly",
+          "bar"
+        ],
         "sources": [
           "https://dothebay.com/events/2026/11/25"
         ],
@@ -6675,32 +6688,40 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
         "id": "2026-11-23-music-monarch-sf-15-year-anniversary-b0a0ff",
         "eid": "monarch-sf-15-year-anniv-5435",
         "track": "music",
-        "category": "",
+        "category": "Nightclub",
         "name": "Monarch SF 15 YEAR ANNIVERSARY: Joshua Iz, DJ M3, 3kelves, Mr. Matias+more",
         "day": "Wed",
         "date": "2026-11-25",
         "time": "20:00",
-        "start": null,
-        "end": null,
-        "area": "San Francisco",
+        "start": "20:00",
+        "end": "02:00",
+        "area": "SoMa",
         "venue": "Monarch",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "101 6th Street, San Francisco, CA 94103, United States",
+        "why": "A milestone anniversary celebration with an hour-long open bar.",
+        "summary": "A 15-year anniversary party celebrating Monarch SF, featuring an open bar from 8–9pm; free with RSVP before 10pm and $10 after.",
         "promoter": "",
-        "price": "",
-        "tags": [],
+        "price": "Free with RSVP before 10pm, $10 after",
+        "tags": [
+          "dj",
+          "open-bar",
+          "free",
+          "dance",
+          "celebration"
+        ],
         "sources": [
           "https://ra.co/events/2589612"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://ra.co/events/2589612"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Monarch%2C%20San%20Francisco",
           "apple": "https://maps.apple.com/?q=Monarch%2C%20San%20Francisco"
@@ -6708,33 +6729,41 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/san-francisco/2026-11-23/monarch-sf-15-year-anniv-5435.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
         "id": "2026-11-23-music-spudsgiving-2-thanksgiving-eve-665a46",
         "eid": "spudsgiving-2-thanksgivi-23eb",
         "track": "music",
-        "category": "",
+        "category": "Nightclub",
         "name": "SpudsGiving 2: Thanksgiving Eve Free Baked Potato Bar + Vinyl DJs",
         "day": "Wed",
         "date": "2026-11-25",
         "time": "20:00",
-        "start": null,
-        "end": null,
+        "start": "20:00",
+        "end": "23:59",
         "area": "San Francisco",
         "venue": "St Mary's Pub",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "3845 Mission St, San Francisco, CA",
+        "why": "A fully loaded pay-what-you-want baked potato bar paired with vinyl DJ sets.",
+        "summary": "Vinyl DJs spin hip-hop, rap and throwback pop from the '80s through the 2000s while a fully loaded, pay-what-you-want baked potato bar runs alongside the music.",
         "promoter": "",
-        "price": "",
-        "tags": [],
+        "price": "Free",
+        "tags": [
+          "dj",
+          "hip-hop",
+          "rap",
+          "80s",
+          "90s",
+          "food"
+        ],
         "sources": [
-          "https://sf.funcheap.com/2026/11/25/"
+          "https://sf.funcheap.com/2026/11/25/",
+          "https://sf.funcheap.com/spudsgiving-2-thanksgiving-eve-free-baked-potato-bar-vinyl-djs-sf/"
         ],
         "tickets": [],
         "maps": {
@@ -6744,10 +6773,10 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/san-francisco/2026-11-23/spudsgiving-2-thanksgivi-23eb.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
@@ -8565,21 +8594,26 @@
         "id": "2026-11-23-sports-when-was-the-last-time-you-pla-a52278",
         "eid": "when-was-the-last-time-y-71da",
         "track": "sports",
-        "category": "",
+        "category": "Sports",
         "name": "When was the last time you played catch?",
         "day": "Wed",
         "date": "2026-11-25",
         "time": "15:00",
-        "start": null,
-        "end": null,
+        "start": "15:00",
+        "end": "17:00",
         "area": "San Francisco",
         "venue": "Philz Coffee Truck, 500 Marina Blvd",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "500 Marina Blvd, San Francisco, CA",
+        "why": "A low-pressure, no-team format that prioritizes conversation and meeting people while playing catch.",
+        "summary": "A casual, drop-in meetup for tossing baseballs, softballs, footballs or a volleyball—no teams or pressure, just catch and conversation. Bring yourself and a glove if you have one.",
         "promoter": "",
-        "price": "",
-        "tags": [],
+        "price": "Free",
+        "tags": [
+          "outdoor",
+          "free",
+          "community",
+          "sports"
+        ],
         "sources": [
           {
             "url": "https://www.meetup.com/join-catchup/events/317375228/",
@@ -8594,31 +8628,36 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/san-francisco/2026-11-23/when-was-the-last-time-y-71da.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
         "id": "2026-11-23-sports-thanksgiving-morning-presidio-c079d9",
         "eid": "thanksgiving-morning-pre-8108",
         "track": "sports",
-        "category": "",
+        "category": "Sports",
         "name": "Thanksgiving Morning Presidio Overlooks and  Vistas Hike",
         "day": "Thu",
         "date": "2026-11-26",
         "time": "10:00",
-        "start": null,
-        "end": null,
+        "start": "10:00",
+        "end": "10:01",
         "area": "San Francisco",
         "venue": "14th Avenue Gate Presidio Entrance, 14th Avenue and Wedemeyer",
         "address": "14th Avenue and Wedemeyer, San Francisco, CA",
-        "why": "",
-        "summary": "",
+        "why": "A longstanding City Steps tradition that links many of the Presidio’s best overlooks.",
+        "summary": "A guided Presidio walk that visits several vista points — Lobos Valley Overlook, Cemetery Overlook, Inspiration Point, the Golden Gate Overlook, Immigration Point and the Pacific Overlook — following sections of the Juan Batista, California Coastal, Bay Area Ridge, Mountain Lake, Ecology and Park trails.",
         "promoter": "",
         "price": "Free",
-        "tags": [],
+        "tags": [
+          "hike",
+          "outdoor",
+          "scenic",
+          "walking"
+        ],
         "sources": [
           "https://www.meetup.com/san-francisco-city-steps/events/317501227/"
         ],
@@ -8633,7 +8672,7 @@
         "image": "https://secure.meetupstatic.com/photos/event/a/4/3/8/highres_466122040.jpeg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
