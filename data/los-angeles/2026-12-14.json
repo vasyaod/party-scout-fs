@@ -1387,21 +1387,30 @@
         "id": "2026-12-14-music-halloween-town-vs-christmas-to-3c14c1",
         "eid": "halloween-town-vs-christ-2437",
         "track": "music",
-        "category": "",
+        "category": "Nightclub",
         "name": "Halloween Town Vs Christmas Town: Xvirad, Flowr, Xoxo, Rave God, Deb Skellington",
         "day": "Fri",
         "date": "2026-12-18",
         "time": "22:00",
-        "start": null,
-        "end": null,
+        "start": "22:00",
+        "end": "03:00",
         "area": "Los Angeles",
         "venue": "TBA (Los Angeles)",
         "address": "",
-        "why": "",
-        "summary": "",
-        "promoter": "",
-        "price": "",
-        "tags": [],
+        "why": "Costumes or Christmas wear get a discount at the door, and entry is free before 11:30pm with RSVP.",
+        "summary": "Flowr Productions mashes up Nightmare Before Christmas themes in one rave: a Halloween Town vs Christmas Town night with a runway show, vendors and food and drinks.",
+        "promoter": "Flowr Productions",
+        "price": "free w/rsvp b4 11:30pm / $10-20",
+        "tags": [
+          "hard-techno",
+          "edm",
+          "dj",
+          "free",
+          "costume",
+          "rave",
+          "runway",
+          "holiday"
+        ],
         "sources": [
           {
             "url": "https://19hz.info/eventlisting_LosAngeles.php",
@@ -1410,7 +1419,8 @@
           {
             "url": "https://posh.vip/e/halloween-town-vs-christmas-town?t=flowr&utm_source=ig&utm_medium=social&utm_content=link_in_bio&fbclid=PAZXh0bgNhZW0CMTEAcGRvZgJzcnRjBmFwcF9pZA85MzY2MTk3NDMzOTI0NTkAAafsvymUBcAmMkOJY5rj7T8mIRdcHx8wwSA9W6Ow1hg7fLLorLFdIMno8INosg_aem_Yydz4yKek26izHgz_QfjoA",
             "hidden": true
-          }
+          },
+          "https://posh.vip/e/halloween-town-vs-christmas-town"
         ],
         "tickets": [],
         "maps": {
@@ -1420,17 +1430,18 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/los-angeles/2026-12-14/halloween-town-vs-christ-2437.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
-        "active": true
+        "enriched": 1,
+        "active": true,
+        "lineup": []
       },
       {
         "id": "2026-12-14-music-kcrw-presents-jane-lynch-s-a-s-4d02f9",
         "eid": "kcrw-presents-jane-lynch-103e",
         "track": "music",
-        "category": "",
+        "category": "Concert",
         "name": "KCRW Presents Jane Lynch's A Swingin' Little Christmas",
         "day": "Fri",
         "date": "2026-12-18",
@@ -1440,11 +1451,17 @@
         "area": "Los Angeles",
         "venue": "Blue Note Los Angeles",
         "address": "",
-        "why": "",
-        "summary": "",
+        "why": "A swingy holiday show that mixes comic timing with classic seasonal songs.",
+        "summary": "A Swingin' Little Christmas is a holiday set built around swing-flavored takes on seasonal favorites, blending musical standards with comedy and stage banter. In an intimate jazz-club format the performance reads more like a conversational, comedic-crooner show than a formal recital.",
         "promoter": "",
-        "price": "",
-        "tags": [],
+        "price": "$20 min per person",
+        "tags": [
+          "jazz",
+          "holiday",
+          "swing",
+          "live",
+          "comedy"
+        ],
         "sources": [
           "https://www.bluenote.net/losangeles/",
           {
@@ -1461,30 +1478,37 @@
         "coords_precise": false,
         "ra": {},
         "image": "https://api.party-scout.app/img/los-angeles/2026-12-14/kcrw-presents-jane-lynch-103e.jpg",
-        "image_generated": true,
+        "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
         "id": "2026-12-14-music-marten-horger-w-dj-susan-gold-97bd4e",
         "eid": "marten-horger-w-dj-susan-6fd4",
         "track": "music",
-        "category": "",
+        "category": "Nightclub",
         "name": "Marten Horger w/ DJ Susan,Gold Lemonade, Dayze",
         "day": "Fri",
         "date": "2026-12-18",
         "time": "22:00",
-        "start": null,
-        "end": null,
-        "area": "Los Angeles",
+        "start": "22:00",
+        "end": "03:00",
+        "area": "Hollywood",
         "venue": "Academy Nightclub (Los Angeles)",
         "address": "",
-        "why": "",
-        "summary": "",
+        "why": "Hørger's warm, groove-forward sets and a strong local undercard make this a pick for dancefloor-first crowds.",
+        "summary": "Marten Hørger headlines Academy LA with special guest DJ Susan plus Gold Lemonade and Dayze — a Friday night of house and techno on Hollywood Blvd.",
         "promoter": "",
-        "price": "",
-        "tags": [],
+        "price": "$10+",
+        "tags": [
+          "edm",
+          "dj",
+          "nightclub",
+          "21+",
+          "house",
+          "techno"
+        ],
         "sources": [
           {
             "url": "https://19hz.info/eventlisting_LosAngeles.php",
@@ -1497,7 +1521,9 @@
           "https://edmtrain.com/los-angeles-ca",
           "https://edmtrain.com/los-angeles-ca/marten-horger-dj-susan-545131"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://www.tixr.com/groups/academy/events/marten-horger-w-special-guest-dj-susan-gold-lemonade-dayze-211234"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Academy%20Nightclub%20%28Los%20Angeles%29%2C%20Los%20Angeles",
           "apple": "https://maps.apple.com/?q=Academy%20Nightclub%20%28Los%20Angeles%29%2C%20Los%20Angeles"
@@ -1505,17 +1531,17 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/los-angeles/2026-12-14/marten-horger-w-dj-susan-6fd4.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
         "id": "2026-12-14-music-project-x-8d35f7",
         "eid": "project-x-c354",
         "track": "music",
-        "category": "",
+        "category": "Nightclub",
         "name": "Project X",
         "day": "Fri",
         "date": "2026-12-18",
@@ -1525,11 +1551,17 @@
         "area": "Los Angeles",
         "venue": "Boardner's by La Belle",
         "address": "",
-        "why": "",
-        "summary": "",
+        "why": "A movie-inspired house-party spectacle that recreates the film’s chaotic, nostalgic energy on the dancefloor.",
+        "summary": "Club Decades stages a Project X–themed dance party that channels the chaos, nostalgia and high-energy house‑party vibe of the film, essentially staging a house-party fantasy on a club dancefloor.",
         "promoter": "",
         "price": "",
-        "tags": [],
+        "tags": [
+          "dance",
+          "dj",
+          "themed",
+          "party",
+          "nostalgia"
+        ],
         "sources": [
           "https://edmtrain.com/los-angeles-ca"
         ],
@@ -1544,7 +1576,7 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
@@ -2635,21 +2667,26 @@
         "id": "2026-12-14-music-re-frame-nimino-30dee7",
         "eid": "re-frame-nimino-5319",
         "track": "music",
-        "category": "",
+        "category": "Nightclub",
         "name": "Re:frame: nimino",
         "day": "Fri",
         "date": "2026-12-18",
         "time": "",
         "start": null,
         "end": null,
-        "area": "Los Angeles",
+        "area": "Atwater Village",
         "venue": "Reframe Studios Indoors",
         "address": "",
-        "why": "",
-        "summary": "",
+        "why": "re:frame outfits a purpose-built soundstage to blend nightclub intimacy with concert-scale production.",
+        "summary": "Part of Framework’s re:frame Season 2, nimino appears for an electronic-music night at Reframe Studios indoors — a state-of-the-art Atwater Village soundstage created to sit between the intimacy of a nightclub and the scale of a concert venue.",
         "promoter": "",
         "price": "",
-        "tags": [],
+        "tags": [
+          "electronic",
+          "dance",
+          "indoor",
+          "dj"
+        ],
         "sources": [
           "https://edmtrain.com/los-angeles-ca",
           "https://edmtrain.com/los-angeles-ca/re-frame-nimino-538812"
@@ -2665,7 +2702,7 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       }
     ],
