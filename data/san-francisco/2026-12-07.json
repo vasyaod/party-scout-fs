@@ -4785,21 +4785,26 @@
         "id": "2026-12-07-music-lucius-ebbe81",
         "eid": "lucius-4001",
         "track": "music",
-        "category": "",
+        "category": "Concert",
         "name": "Lucius",
         "day": "Sat",
         "date": "2026-12-12",
         "time": "20:00",
         "start": null,
         "end": null,
-        "area": "San Francisco",
+        "area": "Monterey",
         "venue": "Golden State Theatre",
         "address": "",
-        "why": "",
-        "summary": "",
+        "why": "An unhurried, communal set that puts perfectly matched dual vocals front and center.",
+        "summary": "Lucius's shows center on striking, mirrored sisterly harmonies and warm, retro-tinged indie-pop arrangements; spacious, reverb-soaked songs and relaxed pacing create a communal, listening-room vibe that highlights vocal interplay.",
         "promoter": "",
         "price": "",
-        "tags": [],
+        "tags": [
+          "indie-pop",
+          "harmonies",
+          "live",
+          "folk"
+        ],
         "sources": [
           "https://dothebay.com/events/2026/12/12/lucius-tickets"
         ],
@@ -4811,17 +4816,17 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
-        "image_generated": false,
+        "image": "https://api.party-scout.app/img/san-francisco/2026-12-07/lucius-1d68.jpg",
+        "image_generated": true,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
         "id": "2026-12-07-music-nina-sol-charles-hawthorne-fin-ebff3f",
         "eid": "nina-sol-charles-hawthor-cb66",
         "track": "music",
-        "category": "",
+        "category": "Nightclub",
         "name": "Nina Sol, Charles Hawthorne, Finishher",
         "day": "Sat",
         "date": "2026-12-12",
@@ -4831,11 +4836,16 @@
         "area": "Oakland",
         "venue": "White Horse Inn",
         "address": "",
-        "why": "",
-        "summary": "",
+        "why": "A resident-diva, performance-forward disco format that mixes DJ sets with theatrical acts.",
+        "summary": "Five Finger Disco is a diva-driven, disco-focused dance party — DJs spin high-energy disco and dancefloor cuts beneath the mirror ball, with theatrical performances woven into the night; the bill features resident DJs Nina Sol, Charles Hawthorne, and Finishher.",
         "promoter": "",
         "price": "",
-        "tags": [],
+        "tags": [
+          "disco",
+          "dj",
+          "dance",
+          "performance"
+        ],
         "sources": [
           "https://edmtrain.com/san-francisco-ca/nina-sol-charles-hawthorne-553718"
         ],
@@ -4850,28 +4860,34 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
         "id": "2026-12-07-music-pura-saturdays-49fa42",
         "eid": "pura-saturdays-3d89",
         "track": "music",
-        "category": "",
+        "category": "Nightclub",
         "name": "Pura Saturdays",
         "day": "Sat",
         "date": "2026-12-12",
         "time": "22:00",
         "start": null,
         "end": null,
-        "area": "San Francisco",
+        "area": "SoMa",
         "venue": "1015 Folsom",
         "address": "",
-        "why": "",
-        "summary": "",
+        "why": "Multi-room, open-format Latin/reggaeton party with nonstop energy.",
+        "summary": "A multi-room, high-energy dance party featuring reggaeton, Latin urbano, salsa, bachata and EDM in open-format DJ sets across multiple rooms.",
         "promoter": "",
-        "price": "",
-        "tags": [],
+        "price": "$20-$35",
+        "tags": [
+          "reggaeton",
+          "latin",
+          "salsa",
+          "bachata",
+          "dj"
+        ],
         "sources": [
           "https://dothebay.com/events/2026/12/12/pura-saturdays-tickets"
         ],
@@ -4883,35 +4899,45 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/san-francisco/2026-12-07/pura-saturdays-3d89.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
         "id": "2026-12-07-music-reale-rent-boy-mach5-beverly-c-6903c1",
         "eid": "reale-rent-boy-mach5-bev-20ae",
         "track": "music",
-        "category": "",
+        "category": "Nightclub",
         "name": "reale, Rent Boy, mach5, Beverly Chills, swagbaby, 1ycia",
         "day": "Sat",
         "date": "2026-12-12",
         "time": "21:00",
-        "start": null,
-        "end": null,
+        "start": "21:00",
+        "end": "03:00",
         "area": "San Francisco",
         "venue": "Monarch",
         "address": "101 6th Street, San Francisco, CA 94103",
-        "why": "",
+        "why": "DIY indiepoptronica format that pairs live acts with genre‑bending DJs.",
         "summary": "",
         "promoter": "",
         "price": "$5.64-25.55",
-        "tags": [],
-        "sources": [
-          "https://www.eventbrite.com/e/majorcrrush-tickets-2004461891476"
+        "tags": [
+          "indietronica",
+          "electropop",
+          "dj",
+          "live",
+          "rave"
         ],
-        "tickets": [],
+        "sources": [
+          "https://www.eventbrite.com/e/majorcrrush-tickets-2004461891476",
+          "https://ra.co/events/2578753"
+        ],
+        "tickets": [
+          "https://www.eventbrite.com/e/majorcrrush-tickets-2004461891476",
+          "https://ra.co/events/2578753"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=101%206th%20Street%2C%20San%20Francisco%2C%20CA%2094103",
           "apple": "https://maps.apple.com/?q=101%206th%20Street%2C%20San%20Francisco%2C%20CA%2094103"
@@ -4922,32 +4948,39 @@
         "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1198424044%2F2342731624493%2F1%2Foriginal.20261120-224612?crop=focalpoint&fit=crop&w=940&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=d1beb49a42c761d673a6217ef64bd33f",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
         "id": "2026-12-07-music-santa-con-x-rated-mario-e-mark-9f5cf2",
         "eid": "santa-con-x-rated-mario-833e",
         "track": "music",
-        "category": "",
+        "category": "Nightclub",
         "name": "Santa Con X-Rated - Mario E, Mark G",
         "day": "Sat",
         "date": "2026-12-12",
         "time": "22:00",
-        "start": null,
-        "end": null,
+        "start": "22:00",
+        "end": "02:00",
         "area": "San Francisco",
         "venue": "715 Harrison",
         "address": "715 Harrison Street, San Francisco, CA 94107",
-        "why": "",
-        "summary": "",
+        "why": "An adult-focused, holiday costume party with an intentionally raucous, X-rated twist.",
+        "summary": "An X-rated, Santa-themed holiday party featuring Mario E and Mark G, promising a raucous, festive atmosphere and playful costume energy.",
         "promoter": "",
         "price": "$13.11-856.68",
-        "tags": [],
+        "tags": [
+          "holiday",
+          "costume",
+          "party",
+          "18+"
+        ],
         "sources": [
           "https://www.eventbrite.com/e/santa-con-x-rated-tickets-2004796667801"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://www.eventbrite.com/e/santa-con-x-rated-tickets-2004796667801"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=715%20Harrison%20Street%2C%20San%20Francisco%2C%20CA%2094107",
           "apple": "https://maps.apple.com/?q=715%20Harrison%20Street%2C%20San%20Francisco%2C%20CA%2094107"
@@ -4958,7 +4991,7 @@
         "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1197897894%2F3002118097464%2F1%2Foriginal.20261113-042807?crop=focalpoint&fit=crop&w=940&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=99e0208536f4c37375a55b20d9fafdb6",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
