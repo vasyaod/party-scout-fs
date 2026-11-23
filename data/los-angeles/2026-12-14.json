@@ -5,7 +5,7 @@
   "location": "Los Angeles & SoCal",
   "city": "los-angeles",
   "city_label": "Los Angeles",
-  "generated_at": "2026-10-07",
+  "generated_at": "2026-11-23",
   "tracks": {
     "music": [
       {
@@ -30,7 +30,16 @@
           "ticketed",
           "nightlife"
         ],
-        "sources": [],
+        "sources": [
+          {
+            "url": "https://19hz.info/eventlisting_LosAngeles.php",
+            "hidden": true
+          },
+          {
+            "url": "https://www.axs.com/events/1599953",
+            "hidden": true
+          }
+        ],
         "tickets": [],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=El%20Rey%20Theatre%20%28Los%20Angeles%29%2C%20Los%20Angeles",
@@ -132,7 +141,7 @@
         "time": "22:30",
         "start": "22:30",
         "end": "02:30",
-        "area": "Venice",
+        "area": "Los Angeles",
         "venue": "The Venice West (Venice/Los Angeles)",
         "address": "1717 Lincoln Blvd, Venice, CA 90291",
         "why": "A rare club-sized night with a nu-disco headliner, on a weekend run at a Venice room.",
@@ -146,7 +155,15 @@
           "venice"
         ],
         "sources": [
-          "https://www.thevenicewest.com/"
+          "https://www.thevenicewest.com/",
+          {
+            "url": "https://19hz.info/eventlisting_LosAngeles.php",
+            "hidden": true
+          },
+          {
+            "url": "https://www.axs.com/events/1545637/satin-jackets-tickets",
+            "hidden": true
+          }
         ],
         "tickets": [
           "https://www.tixr.com/groups/thevenicewest/events/satin-jackets-193430"
@@ -183,7 +200,16 @@
         "promoter": "",
         "price": "$31",
         "tags": [],
-        "sources": [],
+        "sources": [
+          {
+            "url": "https://19hz.info/eventlisting_LosAngeles.php",
+            "hidden": true
+          },
+          {
+            "url": "https://dice.fm/event/ryowlv-tommy-phillips-cam-stockman-18th-dec-sound-nightclub-los-angeles-tickets",
+            "hidden": true
+          }
+        ],
         "tickets": [],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Sound%20Nightclub%20%28Los%20Angeles%29%2C%20Los%20Angeles",
@@ -302,7 +328,16 @@
         "promoter": "",
         "price": "$68+",
         "tags": [],
-        "sources": [],
+        "sources": [
+          {
+            "url": "https://19hz.info/eventlisting_LosAngeles.php",
+            "hidden": true
+          },
+          {
+            "url": "https://dice.fm/event/xegxka-nora-en-pure-19th-dec-reframe-studios-indoors-los-angeles-tickets",
+            "hidden": true
+          }
+        ],
         "tickets": [],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Reframe%20Studios%20Indoors%20%28Los%20Angeles%29%2C%20Los%20Angeles",
@@ -311,8 +346,8 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
-        "image_generated": false,
+        "image": "https://api.party-scout.app/img/los-angeles/2026-12-14/nora-en-pure-4ff7.jpg",
+        "image_generated": true,
         "popularity": 0,
         "enriched": 1,
         "active": true
@@ -341,7 +376,18 @@
           "live",
           "tour"
         ],
-        "sources": [],
+        "sources": [
+          {
+            "url": "https://19hz.info/eventlisting_LosAngeles.php",
+            "hidden": true
+          },
+          {
+            "url": "https://www.ticketmaster.com/event/0900651AA110608F",
+            "hidden": true
+          },
+          "https://edmtrain.com/los-angeles-ca",
+          "https://edmtrain.com/los-angeles-ca/rave-revival-rave-jesus-532788"
+        ],
         "tickets": [],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Teragram%20Ballroom%20%28Los%20Angeles%29%2C%20Los%20Angeles",
@@ -350,8 +396,8 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
-        "image_generated": false,
+        "image": "https://api.party-scout.app/img/los-angeles/2026-12-14/rave-jesus-rave-revival-8981.jpg",
+        "image_generated": true,
         "popularity": 0,
         "enriched": 1,
         "active": true
@@ -367,7 +413,7 @@
         "time": "22:30",
         "start": "22:30",
         "end": "02:30",
-        "area": "Venice",
+        "area": "Los Angeles",
         "venue": "The Venice West (Venice/Los Angeles)",
         "address": "",
         "why": "Polished, sunlit nu-disco from the \"Northern Lights\" producer, in a Venice club on a Saturday night.",
@@ -380,7 +426,10 @@
           "21+"
         ],
         "sources": [
-          "https://19hz.info/eventlisting_LosAngeles.php",
+          {
+            "url": "https://19hz.info/eventlisting_LosAngeles.php",
+            "hidden": true
+          },
           "https://www.tixr.com/groups/thevenicewest/events/satin-jackets-193431"
         ],
         "tickets": [
@@ -393,8 +442,8 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
-        "image_generated": false,
+        "image": "https://api.party-scout.app/img/los-angeles/2026-12-14/satin-jackets-07e4.jpg",
+        "image_generated": true,
         "popularity": 0,
         "enriched": 1,
         "active": true
@@ -505,8 +554,2427 @@
         "popularity": 0,
         "enriched": 1,
         "active": true
+      },
+      {
+        "id": "2026-12-14-music-gretchen-parlato-with-gerald-c-aefa73",
+        "eid": "gretchen-parlato-with-ge-243a",
+        "track": "music",
+        "category": "",
+        "name": "Gretchen Parlato with Gerald Clayton, Alan Hampton & Mark Guiliana",
+        "day": "Mon",
+        "date": "2026-12-14",
+        "time": "19:00",
+        "start": null,
+        "end": null,
+        "area": "Los Angeles",
+        "venue": "Blue Note Los Angeles",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "",
+        "tags": [],
+        "sources": [
+          "https://www.bluenote.net/losangeles/",
+          "https://www.bluenotejazz.com/la/tm-event/gretchen-parlato/"
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=Blue%20Note%20Los%20Angeles%2C%20Los%20Angeles",
+          "apple": "https://maps.apple.com/?q=Blue%20Note%20Los%20Angeles%2C%20Los%20Angeles"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-12-14-music-jason-achilles-c2f475",
+        "eid": "jason-achilles-be50",
+        "track": "music",
+        "category": "",
+        "name": "Jason Achilles",
+        "day": "Mon",
+        "date": "2026-12-14",
+        "time": "20:00",
+        "start": null,
+        "end": null,
+        "area": "Los Angeles",
+        "venue": "The Redwood Bar And Grill",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "",
+        "tags": [],
+        "sources": [
+          "https://ra.co/events/2580220"
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=The%20Redwood%20Bar%20And%20Grill%2C%20Los%20Angeles",
+          "apple": "https://maps.apple.com/?q=The%20Redwood%20Bar%20And%20Grill%2C%20Los%20Angeles"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-12-14-music-ana-gasteyer-sugar-booze-holid-a7baaf",
+        "eid": "ana-gasteyer-sugar-booze-48e5",
+        "track": "music",
+        "category": "",
+        "name": "Ana Gasteyer: Sugar & Booze Holiday Spectacular",
+        "day": "Tue",
+        "date": "2026-12-15",
+        "time": "19:00",
+        "start": null,
+        "end": null,
+        "area": "Los Angeles",
+        "venue": "Blue Note Los Angeles",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "",
+        "tags": [],
+        "sources": [
+          "https://www.bluenote.net/losangeles/",
+          "https://www.bluenotejazz.com/la/tm-event/ana-gasteyer-sugar-booze-holiday-spectacular/"
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=Blue%20Note%20Los%20Angeles%2C%20Los%20Angeles",
+          "apple": "https://maps.apple.com/?q=Blue%20Note%20Los%20Angeles%2C%20Los%20Angeles"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-12-14-music-kamran-shafii-michael-masaru-f-682302",
+        "eid": "kamran-shafii-michael-ma-c81e",
+        "track": "music",
+        "category": "",
+        "name": "Kamran Shafii, Michael Masaru Flora, and Faith Rawson",
+        "day": "Tue",
+        "date": "2026-12-15",
+        "time": "20:00",
+        "start": null,
+        "end": null,
+        "area": "Los Angeles",
+        "venue": "Coaxial (Los Angeles)",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "",
+        "tags": [],
+        "sources": [
+          {
+            "url": "https://19hz.info/eventlisting_LosAngeles.php",
+            "hidden": true
+          },
+          {
+            "url": "https://pools.events/event/vOYJdb2U/kamran-shafii-michael-masaru-flora-and-faith-rawson/?i=WWCuLUMB",
+            "hidden": true
+          }
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=Coaxial%20%28Los%20Angeles%29%2C%20Los%20Angeles",
+          "apple": "https://maps.apple.com/?q=Coaxial%20%28Los%20Angeles%29%2C%20Los%20Angeles"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-12-14-music-libby-beard-81fe1c",
+        "eid": "libby-beard-b8c5",
+        "track": "music",
+        "category": "",
+        "name": "Libby Beard",
+        "day": "Tue",
+        "date": "2026-12-15",
+        "time": "20:00",
+        "start": null,
+        "end": null,
+        "area": "Los Angeles",
+        "venue": "The Redwood Bar And Grill",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "$10",
+        "tags": [],
+        "sources": [
+          "https://ra.co/events/2580221"
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=The%20Redwood%20Bar%20And%20Grill%2C%20Los%20Angeles",
+          "apple": "https://maps.apple.com/?q=The%20Redwood%20Bar%20And%20Grill%2C%20Los%20Angeles"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-12-14-music-blacknile-df6678",
+        "eid": "blacknile-b015",
+        "track": "music",
+        "category": "",
+        "name": "BlackNile",
+        "day": "Wed",
+        "date": "2026-12-16",
+        "time": "19:00",
+        "start": null,
+        "end": null,
+        "area": "Los Angeles",
+        "venue": "Blue Note Los Angeles",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "",
+        "tags": [],
+        "sources": [
+          "https://www.bluenote.net/losangeles/",
+          "https://www.bluenotejazz.com/la/tm-event/blacknile/"
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=Blue%20Note%20Los%20Angeles%2C%20Los%20Angeles",
+          "apple": "https://maps.apple.com/?q=Blue%20Note%20Los%20Angeles%2C%20Los%20Angeles"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-12-14-music-syd-beard-tour-c1c06c",
+        "eid": "syd-beard-tour-f53d",
+        "track": "music",
+        "category": "",
+        "name": "Syd: Beard Tour",
+        "day": "Wed",
+        "date": "2026-12-16",
+        "time": "",
+        "start": null,
+        "end": null,
+        "area": "Los Angeles",
+        "venue": "The Wiltern",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "",
+        "tags": [],
+        "sources": [
+          "https://www.wiltern.com/shows",
+          "https://www.ticketmaster.com/syd-beard-tour-los-angeles-california-12-16-2026/event/0900652E9BE25BF8"
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=The%20Wiltern%2C%20Los%20Angeles",
+          "apple": "https://maps.apple.com/?q=The%20Wiltern%2C%20Los%20Angeles"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-12-14-music-kcrw-presents-jane-lynch-s-a-s-da0fa1",
+        "eid": "kcrw-presents-jane-lynch-1687",
+        "track": "music",
+        "category": "",
+        "name": "KCRW Presents Jane Lynch's A Swingin' Little Christmas",
+        "day": "Thu",
+        "date": "2026-12-17",
+        "time": "19:00",
+        "start": null,
+        "end": null,
+        "area": "Los Angeles",
+        "venue": "Blue Note Los Angeles",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "",
+        "tags": [],
+        "sources": [
+          "https://www.bluenote.net/losangeles/",
+          {
+            "url": "https://www.bluenotejazz.com/la/tm-event/jane-lynchs-a-swingin-little-christmas/",
+            "hidden": true
+          }
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=Blue%20Note%20Los%20Angeles%2C%20Los%20Angeles",
+          "apple": "https://maps.apple.com/?q=Blue%20Note%20Los%20Angeles%2C%20Los%20Angeles"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-12-14-music-obscene-goth-industrial-ebm-da-490355",
+        "eid": "obscene-goth-industrial-17e7",
+        "track": "music",
+        "category": "",
+        "name": "Obscene (Goth / Industrial / EBM / Darkwave)",
+        "day": "Thu",
+        "date": "2026-12-17",
+        "time": "21:00",
+        "start": null,
+        "end": null,
+        "area": "Los Angeles",
+        "venue": "The Slipper Clutch",
+        "address": "351 S Broadway, Los Angeles, CA 90013, USA",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "0",
+        "tags": [],
+        "sources": [
+          {
+            "url": "https://ra.co/events/2348305",
+            "hidden": true
+          },
+          {
+            "url": "https://19hz.info/eventlisting_LosAngeles.php",
+            "hidden": true
+          }
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=The%20Slipper%20Clutch%2C%20Los%20Angeles",
+          "apple": "https://maps.apple.com/?q=The%20Slipper%20Clutch%2C%20Los%20Angeles"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "https://images.ra.co/c1eccd6e54b73b9be5bdb1633845e7c9dd794fc8.jpg",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true,
+        "lineup": [
+          {
+            "name": "Industria Nova",
+            "instagram": null
+          },
+          {
+            "name": "Damascus Knives",
+            "instagram": null
+          }
+        ]
+      },
+      {
+        "id": "2026-12-14-music-rani-s-room-la-05fc31",
+        "eid": "rani-s-room-la-8cf0",
+        "track": "music",
+        "category": "",
+        "name": "RANI's ROOM LA",
+        "day": "Thu",
+        "date": "2026-12-17",
+        "time": "20:00",
+        "start": null,
+        "end": null,
+        "area": "Los Angeles",
+        "venue": "TBA - Mid-City LA",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "10",
+        "tags": [],
+        "sources": [
+          "https://ra.co/events/2590482"
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=Los%20Angeles",
+          "apple": "https://maps.apple.com/?q=Los%20Angeles"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true,
+        "lineup": [
+          {
+            "name": "SRI (1)",
+            "instagram": null
+          },
+          {
+            "name": "SARITA LINDA",
+            "instagram": null
+          },
+          {
+            "name": "BHAOUNCEOUT",
+            "instagram": null
+          }
+        ]
+      },
+      {
+        "id": "2026-12-14-music-tell-all-your-friends-pop-punk-5b72d3",
+        "eid": "tell-all-your-friends-po-e277",
+        "track": "music",
+        "category": "",
+        "name": "Tell All Your Friends (Pop Punk & Emo Night)",
+        "day": "Thu",
+        "date": "2026-12-17",
+        "time": "21:00",
+        "start": null,
+        "end": null,
+        "area": "Los Angeles",
+        "venue": "Somewhere Special",
+        "address": "929 S Broadway, Los Angeles, CA 90015",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "0.00",
+        "tags": [],
+        "sources": [
+          "https://ra.co/events/2591115"
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=Somewhere%20Special%2C%20Los%20Angeles",
+          "apple": "https://maps.apple.com/?q=Somewhere%20Special%2C%20Los%20Angeles"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "https://images.ra.co/29e5f8ea6deb9955d7a6e8837bb323953804ecf6.png",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true,
+        "lineup": [
+          {
+            "name": "SULKFORM",
+            "instagram": null
+          }
+        ]
+      },
+      {
+        "id": "2026-12-14-music-bou-airglo-nightstalker-skanka-955e45",
+        "eid": "bou-airglo-nightstalker-6206",
+        "track": "music",
+        "category": "",
+        "name": "Bou, Airglo, Nightstalker, Skanka",
+        "day": "Fri",
+        "date": "2026-12-18",
+        "time": "22:00",
+        "start": null,
+        "end": null,
+        "area": "Los Angeles",
+        "venue": "Avalon Hollywood (Los Angeles)",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "",
+        "tags": [],
+        "sources": [
+          {
+            "url": "https://19hz.info/eventlisting_LosAngeles.php",
+            "hidden": true
+          },
+          {
+            "url": "https://www.tixr.com/groups/avalonhollywood/events/bou-210304",
+            "hidden": true
+          },
+          "https://edmtrain.com/los-angeles-ca"
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=Avalon%20Hollywood%20%28Los%20Angeles%29%2C%20Los%20Angeles",
+          "apple": "https://maps.apple.com/?q=Avalon%20Hollywood%20%28Los%20Angeles%29%2C%20Los%20Angeles"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "https://api.party-scout.app/img/los-angeles/2026-12-14/bou-airglo-nightstalker-6206.jpg",
+        "image_generated": true,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-12-14-music-bu-tea-techno-726c80",
+        "eid": "bu-tea-techno-0b0c",
+        "track": "music",
+        "category": "",
+        "name": "Bu Tea & Techno",
+        "day": "Fri",
+        "date": "2026-12-18",
+        "time": "20:00",
+        "start": null,
+        "end": null,
+        "area": "Los Angeles",
+        "venue": "Bu Tea Den",
+        "address": "2715 S Main St, Los Angeles 90007, USA",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "0",
+        "tags": [],
+        "sources": [
+          "https://ra.co/events/2588891",
+          {
+            "url": "https://19hz.info/eventlisting_LosAngeles.php",
+            "hidden": true
+          },
+          {
+            "url": "https://buteaden.com/techno?utm_source=19hz",
+            "hidden": true
+          }
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=2715%20S%20Main%20St%2C%20Los%20Angeles%2090007%2C%20USA",
+          "apple": "https://maps.apple.com/?q=2715%20S%20Main%20St%2C%20Los%20Angeles%2090007%2C%20USA"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "https://images.ra.co/658c46c8bd60313984685c9742d7bce97464abe1.png",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-12-14-music-daft-punk-night-0751f1",
+        "eid": "daft-punk-night-777d",
+        "track": "music",
+        "category": "",
+        "name": "Daft Punk Night",
+        "day": "Fri",
+        "date": "2026-12-18",
+        "time": "22:00",
+        "start": null,
+        "end": null,
+        "area": "Los Angeles",
+        "venue": "Boardner's By La Belle (Los Angeles)",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "",
+        "tags": [],
+        "sources": [
+          {
+            "url": "https://19hz.info/eventlisting_LosAngeles.php",
+            "hidden": true
+          },
+          {
+            "url": "https://www.eventbrite.com/e/daft-punk-night-club-decades-tickets-1993655298666",
+            "hidden": true
+          },
+          "https://edmtrain.com/los-angeles-ca",
+          "https://edmtrain.com/los-angeles-ca/daft-punk-night-555332"
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=Boardner%27s%20By%20La%20Belle%20%28Los%20Angeles%29%2C%20Los%20Angeles",
+          "apple": "https://maps.apple.com/?q=Boardner%27s%20By%20La%20Belle%20%28Los%20Angeles%29%2C%20Los%20Angeles"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "https://api.party-scout.app/img/los-angeles/2026-12-14/daft-punk-night-777d.jpg",
+        "image_generated": true,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-12-14-music-das-bunker-history-of-industri-595a28",
+        "eid": "das-bunker-history-of-in-c56c",
+        "track": "music",
+        "category": "",
+        "name": "Das Bunker: History Of Industrial: Assemblage 23, Dark Chisme, Anarchotech",
+        "day": "Fri",
+        "date": "2026-12-18",
+        "time": "21:00",
+        "start": null,
+        "end": null,
+        "area": "Los Angeles",
+        "venue": "Catch One (Los Angeles)",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "",
+        "tags": [],
+        "sources": [
+          {
+            "url": "https://19hz.info/eventlisting_LosAngeles.php",
+            "hidden": true
+          },
+          {
+            "url": "https://www.facebook.com/events/1131465303181563/",
+            "hidden": true
+          }
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=Catch%20One%20%28Los%20Angeles%29%2C%20Los%20Angeles",
+          "apple": "https://maps.apple.com/?q=Catch%20One%20%28Los%20Angeles%29%2C%20Los%20Angeles"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-12-14-music-electric-ave-39d6f0",
+        "eid": "electric-ave-1e17",
+        "track": "music",
+        "category": "",
+        "name": "Electric Ave",
+        "day": "Fri",
+        "date": "2026-12-18",
+        "time": "22:00",
+        "start": null,
+        "end": null,
+        "area": "Los Angeles",
+        "venue": "Los Globos (Los Angeles)",
+        "address": "3040 W SUNSET BLVD, LOS ANGELES, CA 90026",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "$15-30",
+        "tags": [],
+        "sources": [
+          {
+            "url": "https://19hz.info/eventlisting_LosAngeles.php",
+            "hidden": true
+          },
+          "https://eventsta.com/event/losglobos121826?promo=CAF&fbclid=IwY2xjawVuKZlleHRuA2FlbQIxMABwZG9mAWJyaWQRMTQ0Q2xtVWlIMUptOHIwclFzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEfRV0BjnGf0MpPG2fO0geOri173GKjtFnITFMoOUTURyBTeO06hFeL_xz9zNw_aem_wBndzJWLY0Fyx-rwVWYxcw"
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=3040%20W%20SUNSET%20BLVD%2C%20LOS%20ANGELES%2C%20CA%2090026",
+          "apple": "https://maps.apple.com/?q=3040%20W%20SUNSET%20BLVD%2C%20LOS%20ANGELES%2C%20CA%2090026"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "https://eventsta.com/api/v1/public/images/e52725fab31142d6/5e3ccbf1.png",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-12-14-music-generacion-suicida-3b2019",
+        "eid": "generacion-suicida-7eab",
+        "track": "music",
+        "category": "",
+        "name": "Generacion Suicida",
+        "day": "Fri",
+        "date": "2026-12-18",
+        "time": "20:00",
+        "start": null,
+        "end": null,
+        "area": "Los Angeles",
+        "venue": "The Redwood Bar And Grill",
+        "address": "316 W. 2nd Street, Los Angeles, CA  90012",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "",
+        "tags": [],
+        "sources": [
+          "https://ra.co/events/2564285"
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=The%20Redwood%20Bar%20And%20Grill%2C%20Los%20Angeles",
+          "apple": "https://maps.apple.com/?q=The%20Redwood%20Bar%20And%20Grill%2C%20Los%20Angeles"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-12-14-music-halloween-town-vs-christmas-to-3c14c1",
+        "eid": "halloween-town-vs-christ-2437",
+        "track": "music",
+        "category": "",
+        "name": "Halloween Town Vs Christmas Town: Xvirad, Flowr, Xoxo, Rave God, Deb Skellington",
+        "day": "Fri",
+        "date": "2026-12-18",
+        "time": "22:00",
+        "start": null,
+        "end": null,
+        "area": "Los Angeles",
+        "venue": "TBA (Los Angeles)",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "",
+        "tags": [],
+        "sources": [
+          {
+            "url": "https://19hz.info/eventlisting_LosAngeles.php",
+            "hidden": true
+          },
+          {
+            "url": "https://posh.vip/e/halloween-town-vs-christmas-town?t=flowr&utm_source=ig&utm_medium=social&utm_content=link_in_bio&fbclid=PAZXh0bgNhZW0CMTEAcGRvZgJzcnRjBmFwcF9pZA85MzY2MTk3NDMzOTI0NTkAAafsvymUBcAmMkOJY5rj7T8mIRdcHx8wwSA9W6Ow1hg7fLLorLFdIMno8INosg_aem_Yydz4yKek26izHgz_QfjoA",
+            "hidden": true
+          }
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=Los%20Angeles",
+          "apple": "https://maps.apple.com/?q=Los%20Angeles"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-12-14-music-kcrw-presents-jane-lynch-s-a-s-4d02f9",
+        "eid": "kcrw-presents-jane-lynch-103e",
+        "track": "music",
+        "category": "",
+        "name": "KCRW Presents Jane Lynch's A Swingin' Little Christmas",
+        "day": "Fri",
+        "date": "2026-12-18",
+        "time": "19:00",
+        "start": null,
+        "end": null,
+        "area": "Los Angeles",
+        "venue": "Blue Note Los Angeles",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "",
+        "tags": [],
+        "sources": [
+          "https://www.bluenote.net/losangeles/",
+          {
+            "url": "https://www.bluenotejazz.com/la/tm-event/jane-lynchs-a-swingin-little-christmas/",
+            "hidden": true
+          }
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=Blue%20Note%20Los%20Angeles%2C%20Los%20Angeles",
+          "apple": "https://maps.apple.com/?q=Blue%20Note%20Los%20Angeles%2C%20Los%20Angeles"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "https://api.party-scout.app/img/los-angeles/2026-12-14/kcrw-presents-jane-lynch-103e.jpg",
+        "image_generated": true,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-12-14-music-marten-horger-w-dj-susan-gold-97bd4e",
+        "eid": "marten-horger-w-dj-susan-6fd4",
+        "track": "music",
+        "category": "",
+        "name": "Marten Horger w/ DJ Susan,Gold Lemonade, Dayze",
+        "day": "Fri",
+        "date": "2026-12-18",
+        "time": "22:00",
+        "start": null,
+        "end": null,
+        "area": "Los Angeles",
+        "venue": "Academy Nightclub (Los Angeles)",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "",
+        "tags": [],
+        "sources": [
+          {
+            "url": "https://19hz.info/eventlisting_LosAngeles.php",
+            "hidden": true
+          },
+          {
+            "url": "https://www.tixr.com/groups/academy/events/marten-horger-w-special-guest-dj-susan-gold-lemonade-dayze-211234",
+            "hidden": true
+          },
+          "https://edmtrain.com/los-angeles-ca",
+          "https://edmtrain.com/los-angeles-ca/marten-horger-dj-susan-545131"
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=Academy%20Nightclub%20%28Los%20Angeles%29%2C%20Los%20Angeles",
+          "apple": "https://maps.apple.com/?q=Academy%20Nightclub%20%28Los%20Angeles%29%2C%20Los%20Angeles"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-12-14-music-project-x-8d35f7",
+        "eid": "project-x-c354",
+        "track": "music",
+        "category": "",
+        "name": "Project X",
+        "day": "Fri",
+        "date": "2026-12-18",
+        "time": "",
+        "start": null,
+        "end": null,
+        "area": "Los Angeles",
+        "venue": "Boardner's by La Belle",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "",
+        "tags": [],
+        "sources": [
+          "https://edmtrain.com/los-angeles-ca"
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=Boardner%27s%20by%20La%20Belle%2C%20Los%20Angeles",
+          "apple": "https://maps.apple.com/?q=Boardner%27s%20by%20La%20Belle%2C%20Los%20Angeles"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-12-14-music-tmple-ea0065",
+        "eid": "tmple-7b90",
+        "track": "music",
+        "category": "",
+        "name": "Tmple",
+        "day": "Fri",
+        "date": "2026-12-18",
+        "time": "22:00",
+        "start": null,
+        "end": null,
+        "area": "Los Angeles",
+        "venue": "The Spotlight (Los Angeles)",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "",
+        "tags": [],
+        "sources": [
+          {
+            "url": "https://19hz.info/eventlisting_LosAngeles.php",
+            "hidden": true
+          },
+          {
+            "url": "https://dice.fm/event/ok2y2g-tmple-18th-dec-the-spotlight-los-angeles-tickets",
+            "hidden": true
+          }
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=The%20Spotlight%20%28Los%20Angeles%29%2C%20Los%20Angeles",
+          "apple": "https://maps.apple.com/?q=The%20Spotlight%20%28Los%20Angeles%29%2C%20Los%20Angeles"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-12-14-music-wide-awake-18dea5",
+        "eid": "wide-awake-1fe0",
+        "track": "music",
+        "category": "",
+        "name": "Wide Awake",
+        "day": "Fri",
+        "date": "2026-12-18",
+        "time": "22:00",
+        "start": null,
+        "end": null,
+        "area": "Los Angeles",
+        "venue": "TBA (Los Angeles)",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "",
+        "tags": [],
+        "sources": [
+          {
+            "url": "https://19hz.info/eventlisting_LosAngeles.php",
+            "hidden": true
+          },
+          {
+            "url": "https://www.secrettunnel.app/event/6af42afdb33144bf60b152c6/selectTickets?promo=19hz",
+            "hidden": true
+          },
+          "https://edmtrain.com/los-angeles-ca",
+          "https://edmtrain.com/los-angeles-ca/wide-awake-2-stage-afters-markor-552294"
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=Los%20Angeles",
+          "apple": "https://maps.apple.com/?q=Los%20Angeles"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "https://api.party-scout.app/img/los-angeles/2026-12-14/wide-awake-1fe0.jpg",
+        "image_generated": true,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-12-14-music-work-presents-999999999-4-hr-s-366b75",
+        "eid": "work-presents-999999999-e4f7",
+        "track": "music",
+        "category": "",
+        "name": "WORK presents: 999999999 [4 HR Set]. JIA, & Trovarsi [LIVE]",
+        "day": "Fri",
+        "date": "2026-12-18",
+        "time": "23:00",
+        "start": null,
+        "end": null,
+        "area": "Los Angeles",
+        "venue": "TBA - Los Angeles",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "40-70",
+        "tags": [],
+        "sources": [
+          "https://ra.co/events/2586892",
+          "https://edmtrain.com/los-angeles-ca",
+          "https://edmtrain.com/los-angeles-ca/work-presents-999999999-553872"
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=Los%20Angeles",
+          "apple": "https://maps.apple.com/?q=Los%20Angeles"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "https://images.ra.co/0a8abc9f8677e7e1ebc4ca512ac137c3945b0a48.png",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true,
+        "lineup": [
+          {
+            "name": "999999999",
+            "instagram": null
+          },
+          {
+            "name": "JIA",
+            "instagram": null
+          },
+          {
+            "name": "Trovarsi",
+            "instagram": null
+          }
+        ]
+      },
+      {
+        "id": "2026-12-14-music-atara-ara-79c3b6",
+        "eid": "atara-ara-00de",
+        "track": "music",
+        "category": "",
+        "name": "Atara Ara",
+        "day": "Sat",
+        "date": "2026-12-19",
+        "time": "15:30",
+        "start": null,
+        "end": null,
+        "area": "Los Angeles",
+        "venue": "The Redwood Bar And Grill",
+        "address": "316 W. 2nd Street, Los Angeles, CA  90012",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "$10 at the door, all ages welcome",
+        "tags": [],
+        "sources": [
+          "https://ra.co/events/2580222"
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=316%20W.%202nd%20Street%2C%20Los%20Angeles%2C%20CA%20%2090012",
+          "apple": "https://maps.apple.com/?q=316%20W.%202nd%20Street%2C%20Los%20Angeles%2C%20CA%20%2090012"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-12-14-music-crank-sturgeon-misery-ritual-r-f5d7ac",
+        "eid": "crank-sturgeon-misery-ri-5b7e",
+        "track": "music",
+        "category": "",
+        "name": "Crank Sturgeon, Misery Ritual, Ritual Chair Christian Lovers, Hexpressionist, Hate Eradicator",
+        "day": "Sat",
+        "date": "2026-12-19",
+        "time": "20:00",
+        "start": null,
+        "end": null,
+        "area": "Los Angeles",
+        "venue": "Coaxial Arts (Los Angeles)",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "",
+        "tags": [],
+        "sources": [
+          {
+            "url": "https://19hz.info/eventlisting_LosAngeles.php",
+            "hidden": true
+          },
+          {
+            "url": "https://pools.events/event/AHBbCni4/crank-sturgeon-misery-ritual-ritual-chair-christian-lovers-hexpressionist-hate-eradicator/?i=u2UxBfJ2",
+            "hidden": true
+          }
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=Coaxial%20Arts%20%28Los%20Angeles%29%2C%20Los%20Angeles",
+          "apple": "https://maps.apple.com/?q=Coaxial%20Arts%20%28Los%20Angeles%29%2C%20Los%20Angeles"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "https://api.party-scout.app/img/los-angeles/2026-12-14/crank-sturgeon-misery-ri-5b7e.jpg",
+        "image_generated": true,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-12-14-music-dub-meeting-feat-imperial-soun-f4dcdd",
+        "eid": "dub-meeting-feat-imperia-b474",
+        "track": "music",
+        "category": "",
+        "name": "Dub Meeting Feat. Imperial Sound Army & Yungg Trip",
+        "day": "Sat",
+        "date": "2026-12-19",
+        "time": "20:00",
+        "start": null,
+        "end": null,
+        "area": "Los Angeles",
+        "venue": "TBA",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "",
+        "tags": [],
+        "sources": [
+          "https://ra.co/events/2590040",
+          {
+            "url": "https://19hz.info/eventlisting_LosAngeles.php",
+            "hidden": true
+          },
+          "https://tickets.dubmeeting.com/events/dubsirenhifi/2534946"
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=Los%20Angeles",
+          "apple": "https://maps.apple.com/?q=Los%20Angeles"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "https://images.ra.co/449b33fc32b0b5b61c2f9f8f350b06457e13f772.jpg",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-12-14-music-dublab-presents-commonthread-w-2f8ea2",
+        "eid": "dublab-presents-commonth-0954",
+        "track": "music",
+        "category": "",
+        "name": "DUBLAB presents: COMMONTHREAD with Eva Noxious",
+        "day": "Sat",
+        "date": "2026-12-19",
+        "time": "21:00",
+        "start": null,
+        "end": null,
+        "area": "Los Angeles",
+        "venue": "The Airliner",
+        "address": "2419 N Broadway, Los Angeles, CA 90036",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "20.00",
+        "tags": [],
+        "sources": [
+          "https://ra.co/events/2587644"
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=2419%20N%20Broadway%2C%20Los%20Angeles%2C%20CA%2090036",
+          "apple": "https://maps.apple.com/?q=2419%20N%20Broadway%2C%20Los%20Angeles%2C%20CA%2090036"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "https://images.ra.co/1219525d74c9a43ca3a28a3f3da545a95143ffb6.jpg",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true,
+        "lineup": [
+          {
+            "name": "Santiago Salazar",
+            "instagram": null
+          },
+          {
+            "name": "Yessi",
+            "instagram": null
+          },
+          {
+            "name": "Three6sashia",
+            "instagram": null
+          }
+        ]
+      },
+      {
+        "id": "2026-12-14-music-fish56octagon-in-l-a-a48016",
+        "eid": "fish56octagon-in-l-a-6a62",
+        "track": "music",
+        "category": "",
+        "name": "Fish56Octagon in L.A",
+        "day": "Sat",
+        "date": "2026-12-19",
+        "time": "22:00",
+        "start": null,
+        "end": null,
+        "area": "Los Angeles",
+        "venue": "Avalon Hollywood",
+        "address": "1735 Vine Street, Hollywood, CA 90028",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "$20+",
+        "tags": [],
+        "sources": [
+          "https://ra.co/events/2582267",
+          {
+            "url": "https://19hz.info/eventlisting_LosAngeles.php",
+            "hidden": true
+          },
+          {
+            "url": "https://www.tixr.com/groups/avalonhollywood/events/fish56octagon-210979",
+            "hidden": true
+          }
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=1735%20Vine%20Street%2C%20Hollywood%2C%20CA%2090028",
+          "apple": "https://maps.apple.com/?q=1735%20Vine%20Street%2C%20Hollywood%2C%20CA%2090028"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "https://images.ra.co/4b5aaee0f7cfaefe5d6699236e844d2fb648e862.png",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true,
+        "lineup": [
+          {
+            "name": "Fish56Octagon",
+            "instagram": null
+          }
+        ]
+      },
+      {
+        "id": "2026-12-14-music-gabber-house-6607bc",
+        "eid": "gabber-house-86fe",
+        "track": "music",
+        "category": "",
+        "name": "Gabber House",
+        "day": "Sat",
+        "date": "2026-12-19",
+        "time": "21:00",
+        "start": null,
+        "end": null,
+        "area": "Los Angeles",
+        "venue": "1156 Wall St (Los Angeles)",
+        "address": "1156 Wall Street, Los Angeles, CA 90015",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "Free-$12.51",
+        "tags": [],
+        "sources": [
+          {
+            "url": "https://19hz.info/eventlisting_LosAngeles.php",
+            "hidden": true
+          },
+          "https://www.eventbrite.com/e/gabber-house-dec-19th-tickets-2004868897843"
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=1156%20Wall%20Street%2C%20Los%20Angeles%2C%20CA%2090015",
+          "apple": "https://maps.apple.com/?q=1156%20Wall%20Street%2C%20Los%20Angeles%2C%20CA%2090015"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1198037640%2F2969212238631%2F1%2Foriginal.20261115-230713?crop=focalpoint&fit=crop&w=940&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.494&fp-y=0.197&s=47fd70315b1c9397a7d089be883cff7f",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-12-14-music-kesselhaus-183eea",
+        "eid": "kesselhaus-b4af",
+        "track": "music",
+        "category": "",
+        "name": "KESSELHAUS",
+        "day": "Sat",
+        "date": "2026-12-19",
+        "time": "23:00",
+        "start": null,
+        "end": null,
+        "area": "Los Angeles",
+        "venue": "TBA - L.A.",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "20",
+        "tags": [],
+        "sources": [
+          {
+            "url": "https://ra.co/events/2581320",
+            "hidden": true
+          },
+          {
+            "url": "https://19hz.info/eventlisting_LosAngeles.php",
+            "hidden": true
+          }
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=Los%20Angeles",
+          "apple": "https://maps.apple.com/?q=Los%20Angeles"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "https://api.party-scout.app/img/los-angeles/2026-12-14/kesselhaus-b4af.jpg",
+        "image_generated": true,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-12-14-music-kompany-drinkurwater-my-bad-da-ddff04",
+        "eid": "kompany-drinkurwater-my-eb42",
+        "track": "music",
+        "category": "",
+        "name": "Kompany, Drinkurwater, My Bad, Dareless Castle",
+        "day": "Sat",
+        "date": "2026-12-19",
+        "time": "22:00",
+        "start": null,
+        "end": null,
+        "area": "Los Angeles",
+        "venue": "Exchange (Los Angeles)",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "",
+        "tags": [],
+        "sources": [
+          {
+            "url": "https://19hz.info/eventlisting_LosAngeles.php",
+            "hidden": true
+          },
+          {
+            "url": "https://www.ticketweb.com/event/kompany-exchange-la-tickets/14372834?REFID=clientsitewp",
+            "hidden": true
+          },
+          "https://edmtrain.com/los-angeles-ca",
+          "https://edmtrain.com/los-angeles-ca/kompany-drinkurwater-544064"
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=Exchange%20%28Los%20Angeles%29%2C%20Los%20Angeles",
+          "apple": "https://maps.apple.com/?q=Exchange%20%28Los%20Angeles%29%2C%20Los%20Angeles"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "https://api.party-scout.app/img/los-angeles/2026-12-14/kompany-drinkurwater-my-eb42.jpg",
+        "image_generated": true,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-12-14-music-locky-x-ivy-50915a",
+        "eid": "locky-x-ivy-261e",
+        "track": "music",
+        "category": "",
+        "name": "Locky, X & Ivy",
+        "day": "Sat",
+        "date": "2026-12-19",
+        "time": "22:00",
+        "start": null,
+        "end": null,
+        "area": "Los Angeles",
+        "venue": "Sound Nightclub (Los Angeles)",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "",
+        "tags": [],
+        "sources": [
+          {
+            "url": "https://19hz.info/eventlisting_LosAngeles.php",
+            "hidden": true
+          },
+          {
+            "url": "https://dice.fm/event/6ae0dc713b359700011efe71",
+            "hidden": true
+          }
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=Sound%20Nightclub%20%28Los%20Angeles%29%2C%20Los%20Angeles",
+          "apple": "https://maps.apple.com/?q=Sound%20Nightclub%20%28Los%20Angeles%29%2C%20Los%20Angeles"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "https://api.party-scout.app/img/los-angeles/2026-12-14/locky-x-ivy-261e.jpg",
+        "image_generated": true,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-12-14-music-melt-raphael-carrau-clovis-cap-41adab",
+        "eid": "melt-raphael-carrau-clov-9dca",
+        "track": "music",
+        "category": "",
+        "name": "MELT: Raphael Carrau, Clovis, Capes",
+        "day": "Sat",
+        "date": "2026-12-19",
+        "time": "23:59",
+        "start": null,
+        "end": null,
+        "area": "Los Angeles",
+        "venue": "TBA",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "",
+        "tags": [],
+        "sources": [
+          {
+            "url": "https://ra.co/events/2576635",
+            "hidden": true
+          },
+          {
+            "url": "https://19hz.info/eventlisting_LosAngeles.php",
+            "hidden": true
+          }
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=Los%20Angeles",
+          "apple": "https://maps.apple.com/?q=Los%20Angeles"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "https://images.ra.co/cbec50d3676f09f1e02a30374fbd6476c3295941.jpg",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true,
+        "lineup": [
+          {
+            "name": "Raphael Carrau",
+            "instagram": null
+          },
+          {
+            "name": "Clovis",
+            "instagram": null
+          },
+          {
+            "name": "Capes",
+            "instagram": null
+          }
+        ]
+      },
+      {
+        "id": "2026-12-14-music-momentive-dlr-feat-mc-gusto-ze-974568",
+        "eid": "momentive-dlr-feat-mc-gu-9f53",
+        "track": "music",
+        "category": "",
+        "name": "Momentive: Dlr Feat. MC Gusto, Zere, Chief Jesta, Nodsy, Litha",
+        "day": "Sat",
+        "date": "2026-12-19",
+        "time": "22:00",
+        "start": null,
+        "end": null,
+        "area": "Los Angeles",
+        "venue": "TBA (Los ANgeles)",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "$29.00-$40.00",
+        "tags": [],
+        "sources": [
+          {
+            "url": "https://19hz.info/eventlisting_LosAngeles.php",
+            "hidden": true
+          },
+          "https://ticketpro.io/momentiverecordings/momentive-dlr-2026",
+          "https://ra.co/events/2558722"
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=Los%20Angeles",
+          "apple": "https://maps.apple.com/?q=Los%20Angeles"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "https://api.party-scout.app/img/los-angeles/2026-12-14/momentive-dlr-feat-mc-gu-9f53.jpg",
+        "image_generated": true,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true,
+        "lineup": [
+          {
+            "name": "DLR",
+            "instagram": null
+          },
+          {
+            "name": "MC Gusto",
+            "instagram": null
+          },
+          {
+            "name": "Litha",
+            "instagram": null
+          }
+        ]
+      },
+      {
+        "id": "2026-12-14-music-night-trip-presents-noizu-airw-ecb121",
+        "eid": "night-trip-presents-noiz-25dd",
+        "track": "music",
+        "category": "",
+        "name": "Night Trip Presents: Noizu, Airwolf Paradise, Galo",
+        "day": "Sat",
+        "date": "2026-12-19",
+        "time": "",
+        "start": null,
+        "end": null,
+        "area": "Los Angeles",
+        "venue": "Academy LA",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "",
+        "tags": [],
+        "sources": [
+          "https://edmtrain.com/los-angeles-ca",
+          "https://edmtrain.com/los-angeles-ca/night-trip-presents-noizu-554771"
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=Academy%20LA%2C%20Los%20Angeles",
+          "apple": "https://maps.apple.com/?q=Academy%20LA%2C%20Los%20Angeles"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "https://api.party-scout.app/img/los-angeles/2026-12-14/night-trip-presents-noiz-25dd.jpg",
+        "image_generated": true,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-12-14-music-paradisco-4e6c4e",
+        "eid": "paradisco-8d38",
+        "track": "music",
+        "category": "",
+        "name": "Paradisco",
+        "day": "Sat",
+        "date": "2026-12-19",
+        "time": "22:00",
+        "start": null,
+        "end": null,
+        "area": "Los Angeles",
+        "venue": "Kiss Kiss Bang Bang",
+        "address": "3531 Wilshire Blvd, Los Angeles, CA 90010, USA",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "0",
+        "tags": [],
+        "sources": [
+          "https://ra.co/events/2584271",
+          {
+            "url": "https://19hz.info/eventlisting_LosAngeles.php",
+            "hidden": true
+          }
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=3531%20Wilshire%20Blvd%2C%20Los%20Angeles%2C%20CA%2090010%2C%20USA",
+          "apple": "https://maps.apple.com/?q=3531%20Wilshire%20Blvd%2C%20Los%20Angeles%2C%20CA%2090010%2C%20USA"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "https://images.ra.co/1ea11d7135ece3d78d6de82053a58f04f5e808c5.jpg",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-12-14-music-santa-sabbath-f2379f",
+        "eid": "santa-sabbath-494d",
+        "track": "music",
+        "category": "",
+        "name": "Santa Sabbath",
+        "day": "Sat",
+        "date": "2026-12-19",
+        "time": "20:00",
+        "start": null,
+        "end": null,
+        "area": "Los Angeles",
+        "venue": "The Redwood Bar And Grill",
+        "address": "316 W. 2nd Street, Los Angeles, CA  90012",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "$10",
+        "tags": [],
+        "sources": [
+          "https://ra.co/events/2580223"
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=316%20W.%202nd%20Street%2C%20Los%20Angeles%2C%20CA%20%2090012",
+          "apple": "https://maps.apple.com/?q=316%20W.%202nd%20Street%2C%20Los%20Angeles%2C%20CA%20%2090012"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-12-14-music-welker-138870",
+        "eid": "welker-14b5",
+        "track": "music",
+        "category": "",
+        "name": "Welker",
+        "day": "Sat",
+        "date": "2026-12-19",
+        "time": "22:00",
+        "start": null,
+        "end": null,
+        "area": "Los Angeles",
+        "venue": "The Spotlight (Los Angeles)",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "",
+        "tags": [],
+        "sources": [
+          {
+            "url": "https://19hz.info/eventlisting_LosAngeles.php",
+            "hidden": true
+          },
+          {
+            "url": "https://dice.fm/event/pyxxqp-welker-19th-dec-the-spotlight-los-angeles-tickets",
+            "hidden": true
+          }
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=The%20Spotlight%20%28Los%20Angeles%29%2C%20Los%20Angeles",
+          "apple": "https://maps.apple.com/?q=The%20Spotlight%20%28Los%20Angeles%29%2C%20Los%20Angeles"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "https://api.party-scout.app/img/los-angeles/2026-12-14/welker-14b5.jpg",
+        "image_generated": true,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-12-14-music-whynotus-w-kimonos-malone-sabr-db3b07",
+        "eid": "whynotus-w-kimonos-malon-6978",
+        "track": "music",
+        "category": "",
+        "name": "Whynotus w/ Kimonos, Malone, Sabrosura Boyz, Ferra Black",
+        "day": "Sat",
+        "date": "2026-12-19",
+        "time": "22:00",
+        "start": null,
+        "end": null,
+        "area": "Los Angeles",
+        "venue": "Academy (Los Angeles)",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "",
+        "tags": [],
+        "sources": [
+          {
+            "url": "https://19hz.info/eventlisting_LosAngeles.php",
+            "hidden": true
+          },
+          {
+            "url": "https://www.ticketweb.com/event/whynotus-w-kimonos-malone-sabrosura-academy-la-tickets/14373514?REFID=clientsitewp&_gl=1*3hlvuo*_gcl_au*MTcwNjE4NTgxMS4xNzkxNTAxNzkzLjEwMjAwOTM1MjkuMTc5MjAyMzA2OC4xNzkyMDIzMDY3LjYwMzgyMjQ4My4xNzkyMDIzMDY4LjE3OTIwMjMwNjc.*_ga*OTI2OTkxNzMxLjE3OTE1MDE3OTM.*_ga_6WW85J13VG*czE3OTIwMjMwNjYkbzMkZzAkdDE3OTIwMjQ1ODEkajYwJGwwJGgxOTkxNzQ4MzUy",
+            "hidden": true
+          },
+          "https://edmtrain.com/los-angeles-ca",
+          "https://edmtrain.com/los-angeles-ca/whynotus-malone-morez-544273"
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=Academy%20%28Los%20Angeles%29%2C%20Los%20Angeles",
+          "apple": "https://maps.apple.com/?q=Academy%20%28Los%20Angeles%29%2C%20Los%20Angeles"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "https://api.party-scout.app/img/los-angeles/2026-12-14/whynotus-w-kimonos-malon-6978.jpg",
+        "image_generated": true,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-12-14-music-winter-wonderland-with-ede-inn-902037",
+        "eid": "winter-wonderland-with-e-9f78",
+        "track": "music",
+        "category": "",
+        "name": "Winter Wonderland with Ede (Innervisions), Hard To Tell (Innervisions)",
+        "day": "Sat",
+        "date": "2026-12-19",
+        "time": "22:00",
+        "start": null,
+        "end": null,
+        "area": "Los Angeles",
+        "venue": "TBA",
+        "address": "Los Angeles, California 90012",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "$15 - $45",
+        "tags": [],
+        "sources": [
+          "https://ra.co/events/2587796",
+          {
+            "url": "https://19hz.info/eventlisting_LosAngeles.php",
+            "hidden": true
+          },
+          "https://dice.fm/event/aab3nd-winter-wonderland-w-ede-innervisions-hard-to-tell-innervisions-19th-dec-venue-tba-los-angeles-los-angeles-tickets?dice_source=ee15ecdb&eventref=fb_oea"
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=Los%20Angeles%2C%20California%2090012",
+          "apple": "https://maps.apple.com/?q=Los%20Angeles%2C%20California%2090012"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "https://images.ra.co/0c92f589da3cd67ebfff556aa948727622b3c13e.png",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true,
+        "lineup": [
+          {
+            "name": "Ede",
+            "instagram": null
+          },
+          {
+            "name": "Hard To Tell",
+            "instagram": null
+          }
+        ]
+      },
+      {
+        "id": "2026-12-14-music-work-presents-999999999-invite-122d01",
+        "eid": "work-presents-999999999-6c73",
+        "track": "music",
+        "category": "",
+        "name": "WORK presents 999999999 Invites: 999999999, Annika Wolfe, Boston 168 [Live], & Kaiser",
+        "day": "Sat",
+        "date": "2026-12-19",
+        "time": "23:00",
+        "start": null,
+        "end": null,
+        "area": "Los Angeles",
+        "venue": "TBA - Los Angeles",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "40-70",
+        "tags": [],
+        "sources": [
+          {
+            "url": "https://ra.co/events/2556546",
+            "hidden": true
+          },
+          {
+            "url": "https://19hz.info/eventlisting_LosAngeles.php",
+            "hidden": true
+          }
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=Los%20Angeles",
+          "apple": "https://maps.apple.com/?q=Los%20Angeles"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "https://api.party-scout.app/img/los-angeles/2026-12-14/work-presents-999999999-6c73.jpg",
+        "image_generated": true,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-12-14-music-chrisette-michele-a-holiday-ce-acf1e4",
+        "eid": "chrisette-michele-a-holi-122b",
+        "track": "music",
+        "category": "",
+        "name": "Chrisette Michele: A Holiday Celebration",
+        "day": "Sun",
+        "date": "2026-12-20",
+        "time": "19:00",
+        "start": null,
+        "end": null,
+        "area": "Los Angeles",
+        "venue": "Blue Note Los Angeles",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "",
+        "tags": [],
+        "sources": [
+          "https://www.bluenote.net/losangeles/",
+          "https://www.bluenotejazz.com/la/tm-event/chrisette-michele-a-holiday-celebration/"
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=Blue%20Note%20Los%20Angeles%2C%20Los%20Angeles",
+          "apple": "https://maps.apple.com/?q=Blue%20Note%20Los%20Angeles%2C%20Los%20Angeles"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "https://i.ticketweb.com/i/00/13/06/68/54_Original.jpg?v=5",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-12-14-music-glow-in-the-dark-b3b698",
+        "eid": "glow-in-the-dark-ca9d",
+        "track": "music",
+        "category": "",
+        "name": "Glow in the Dark",
+        "day": "Sun",
+        "date": "2026-12-20",
+        "time": "20:00",
+        "start": null,
+        "end": null,
+        "area": "Los Angeles",
+        "venue": "The Redwood Bar And Grill",
+        "address": "316 W. 2nd Street, Los Angeles, CA  90012",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "$10",
+        "tags": [],
+        "sources": [
+          "https://ra.co/events/2580224"
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=The%20Redwood%20Bar%20And%20Grill%2C%20Los%20Angeles",
+          "apple": "https://maps.apple.com/?q=The%20Redwood%20Bar%20And%20Grill%2C%20Los%20Angeles"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-12-14-music-pouty-7c8116",
+        "eid": "pouty-e860",
+        "track": "music",
+        "category": "",
+        "name": "Pouty",
+        "day": "Sun",
+        "date": "2026-12-20",
+        "time": "20:00",
+        "start": null,
+        "end": null,
+        "area": "Los Angeles",
+        "venue": "The Redwood Bar And Grill",
+        "address": "316 W. 2nd Street, Los Angeles, CA  90012",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "$10 · 21+",
+        "tags": [],
+        "sources": [
+          "https://ra.co/events/2591187"
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=The%20Redwood%20Bar%20And%20Grill%2C%20Los%20Angeles",
+          "apple": "https://maps.apple.com/?q=The%20Redwood%20Bar%20And%20Grill%2C%20Los%20Angeles"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-12-14-music-shaun-cassidy-unwrapped-songs-8edda0",
+        "eid": "shaun-cassidy-unwrapped-3e68",
+        "track": "music",
+        "category": "",
+        "name": "Shaun Cassidy - Unwrapped: Songs & Stories for the Holidays",
+        "day": "Sun",
+        "date": "2026-12-20",
+        "time": "7pm",
+        "start": "19:00",
+        "end": null,
+        "area": "Los Angeles",
+        "venue": "The Wiltern",
+        "address": "3790 Wilshire Blvd., Los Angeles, CA 90010",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "",
+        "tags": [],
+        "sources": [
+          "https://www.wiltern.com/shows",
+          "https://www.ticketmaster.com/shaun-cassidy-unwrapped-songs-stories-for-los-angeles-california-12-20-2026/event/090064F1CC72F13B"
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=The%20Wiltern%2C%20Los%20Angeles",
+          "apple": "https://maps.apple.com/?q=The%20Wiltern%2C%20Los%20Angeles"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "https://s1.ticketm.net/dam/a/f22/1dd60ddf-4e16-4985-bfdc-b5c616b7ef22_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-12-14-music-re-frame-nimino-30dee7",
+        "eid": "re-frame-nimino-5319",
+        "track": "music",
+        "category": "",
+        "name": "Re:frame: nimino",
+        "day": "Fri",
+        "date": "2026-12-18",
+        "time": "",
+        "start": null,
+        "end": null,
+        "area": "Los Angeles",
+        "venue": "Reframe Studios Indoors",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "",
+        "tags": [],
+        "sources": [
+          "https://edmtrain.com/los-angeles-ca",
+          "https://edmtrain.com/los-angeles-ca/re-frame-nimino-538812"
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=Reframe%20Studios%20Indoors%2C%20Los%20Angeles",
+          "apple": "https://maps.apple.com/?q=Reframe%20Studios%20Indoors%2C%20Los%20Angeles"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
       }
     ],
-    "sports": []
+    "sports": [
+      {
+        "id": "2026-12-14-sports-dtla-running-group-1d5fc4",
+        "eid": "dtla-running-group-5391",
+        "track": "sports",
+        "category": "",
+        "name": "DTLA Running Group",
+        "day": "Tue",
+        "date": "2026-12-15",
+        "time": "19:00",
+        "start": null,
+        "end": null,
+        "area": "Los Angeles",
+        "venue": "The Bloc (7th St between Flower and Hope)",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "",
+        "tags": [],
+        "sources": [
+          "https://www.strava.com/clubs/dtlarunning"
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=The%20Bloc%20%287th%20St%20between%20Flower%20and%20Hope%29%2C%20Los%20Angeles",
+          "apple": "https://maps.apple.com/?q=The%20Bloc%20%287th%20St%20between%20Flower%20and%20Hope%29%2C%20Los%20Angeles"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-12-14-sports-griffith-park-hike-to-vista-vi-c0a60c",
+        "eid": "griffith-park-hike-to-vi-e50e",
+        "track": "sports",
+        "category": "",
+        "name": "Griffith Park Hike to Vista View Point- Moderate",
+        "day": "Tue",
+        "date": "2026-12-15",
+        "time": "18:30",
+        "start": null,
+        "end": null,
+        "area": "Los Angeles",
+        "venue": "Griffith Park Merry Go Round Lot 2, Merry Go Round Lot Two",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "",
+        "tags": [],
+        "sources": [
+          "https://www.meetup.com/los-angeles-hiking-group/events/317544673/"
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=Griffith%20Park%20Merry%20Go%20Round%20Lot%202%2C%20Merry%20Go%20Round%20Lot%20Two%2C%20Los%20Angeles",
+          "apple": "https://maps.apple.com/?q=Griffith%20Park%20Merry%20Go%20Round%20Lot%202%2C%20Merry%20Go%20Round%20Lot%20Two%2C%20Los%20Angeles"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-12-14-sports-queer-crush-sender-one-ww-d6e5b2",
+        "eid": "queer-crush-sender-one-w-a239",
+        "track": "sports",
+        "category": "",
+        "name": "Queer Crush @ Sender One WW",
+        "day": "Tue",
+        "date": "2026-12-15",
+        "time": "19:00",
+        "start": null,
+        "end": null,
+        "area": "Los Angeles",
+        "venue": "Sender One Climbing - Westwood, 10887 Lindbrook Dr",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "",
+        "tags": [],
+        "sources": [
+          "https://www.meetup.com/queer-crush-la/events/317481895/"
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=Sender%20One%20Climbing%20-%20Westwood%2C%2010887%20Lindbrook%20Dr%2C%20Los%20Angeles",
+          "apple": "https://maps.apple.com/?q=Sender%20One%20Climbing%20-%20Westwood%2C%2010887%20Lindbrook%20Dr%2C%20Los%20Angeles"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-12-14-sports-sierra-club-griffith-park-tues-54d8f5",
+        "eid": "sierra-club-griffith-par-16de",
+        "track": "sports",
+        "category": "",
+        "name": "Sierra Club Griffith Park Tuesday Evening Hikes",
+        "day": "Tue",
+        "date": "2026-12-15",
+        "time": "19:00",
+        "start": null,
+        "end": null,
+        "area": "Los Angeles",
+        "venue": "Merry Go Round Lot Two",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "",
+        "tags": [],
+        "sources": [
+          "https://www.meetup.com/sierra-club-griffith-park-hikes/events/316808999/"
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=Merry%20Go%20Round%20Lot%20Two%2C%20Los%20Angeles",
+          "apple": "https://maps.apple.com/?q=Merry%20Go%20Round%20Lot%20Two%2C%20Los%20Angeles"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-12-14-sports-tuesday-womens-soccer-stoner-p-2c109f",
+        "eid": "tuesday-womens-soccer-st-9478",
+        "track": "sports",
+        "category": "",
+        "name": "Tuesday Womens Soccer - Stoner Park 7:15 PM",
+        "day": "Tue",
+        "date": "2026-12-15",
+        "time": "19:15",
+        "start": null,
+        "end": null,
+        "area": "Los Angeles",
+        "venue": "Grassy Area, Southeast Corner of Stoner Park (Corner of Stoner Ave/ Missouri Ave), FREE PARKING, 1854 Stoner Ave.",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "",
+        "tags": [],
+        "sources": [
+          "https://www.meetup.com/west-la-womens-pick-up-soccer-all-levels/events/316379959/"
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=Grassy%20Area%2C%20Southeast%20Corner%20of%20Stoner%20Park%20%28Corner%20of%20Stoner%20Ave/%20Missouri%20Ave%29%2C%20FREE%20PARKING%2C%201854%20Stoner%20Ave.%2C%20Los%20Angeles",
+          "apple": "https://maps.apple.com/?q=Grassy%20Area%2C%20Southeast%20Corner%20of%20Stoner%20Park%20%28Corner%20of%20Stoner%20Ave/%20Missouri%20Ave%29%2C%20FREE%20PARKING%2C%201854%20Stoner%20Ave.%2C%20Los%20Angeles"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-12-14-sports-dtla-running-group-af0f49",
+        "eid": "dtla-running-group-9b5c",
+        "track": "sports",
+        "category": "",
+        "name": "DTLA Running Group",
+        "day": "Thu",
+        "date": "2026-12-17",
+        "time": "19:00",
+        "start": null,
+        "end": null,
+        "area": "Los Angeles",
+        "venue": "The Bloc (7th St between Flower and Hope)",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "",
+        "tags": [],
+        "sources": [
+          "https://www.strava.com/clubs/dtlarunning"
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=The%20Bloc%20%287th%20St%20between%20Flower%20and%20Hope%29%2C%20Los%20Angeles",
+          "apple": "https://maps.apple.com/?q=The%20Bloc%20%287th%20St%20between%20Flower%20and%20Hope%29%2C%20Los%20Angeles"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/103767/4124860/3/large.jpg",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-12-14-sports-sierra-club-griffith-park-thur-1ee8a5",
+        "eid": "sierra-club-griffith-par-abb6",
+        "track": "sports",
+        "category": "",
+        "name": "Sierra Club Griffith Park Thursday Evening Hikes",
+        "day": "Thu",
+        "date": "2026-12-17",
+        "time": "19:00",
+        "start": null,
+        "end": null,
+        "area": "Los Angeles",
+        "venue": "Merry Go Round Lot Two",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "Free",
+        "tags": [],
+        "sources": [
+          "https://www.meetup.com/sierra-club-griffith-park-hikes/events/316809000/"
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=Merry%20Go%20Round%20Lot%20Two%2C%20Los%20Angeles",
+          "apple": "https://maps.apple.com/?q=Merry%20Go%20Round%20Lot%20Two%2C%20Los%20Angeles"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "https://secure.meetupstatic.com/photos/event/e/b/f/highres_531243775.jpeg",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-12-14-sports-friday-easy-night-walk-around-cfa387",
+        "eid": "friday-easy-night-walk-a-28f9",
+        "track": "sports",
+        "category": "",
+        "name": "FRIDAY--Easy Night walk around Silverlake",
+        "day": "Fri",
+        "date": "2026-12-18",
+        "time": "19:15",
+        "start": null,
+        "end": null,
+        "area": "Los Angeles",
+        "venue": "Silver Lake Recreation Center, 1850 W Silver Lake Dr",
+        "address": "1850 W Silver Lake Dr, Los Angeles, CA",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "Free",
+        "tags": [],
+        "sources": [
+          "https://www.meetup.com/los-angeles-hiking-group/events/316206055/"
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=1850%20W%20Silver%20Lake%20Dr%2C%20Los%20Angeles%2C%20CA",
+          "apple": "https://maps.apple.com/?q=1850%20W%20Silver%20Lake%20Dr%2C%20Los%20Angeles%2C%20CA"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "https://secure.meetupstatic.com/photos/event/b/f/7/8/highres_505969016.jpeg",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-12-14-sports-2026-pickleball-lovers-join-ou-4bd6bc",
+        "eid": "2026-pickleball-lovers-j-6077",
+        "track": "sports",
+        "category": "",
+        "name": "2026 Pickleball Lovers!! Join Our Weekend \"Social Dinkers\" Pickleball Community!",
+        "day": "Sat",
+        "date": "2026-12-19",
+        "time": "08:00",
+        "start": null,
+        "end": null,
+        "area": "Los Angeles",
+        "venue": "6333 W 3rd St, Los Angeles, CA 90036, 6333 W 3rd St, Los Angeles, CA 90036",
+        "address": "6333 W 3rd St, Los Angeles, CA 90036, Los Angeles, Ca",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "Free",
+        "tags": [],
+        "sources": [
+          "https://www.meetup.com/meetup-group-axugemky/events/316423169/"
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=6333%20W%203rd%20St%2C%20Los%20Angeles%2C%20CA%2090036%2C%20Los%20Angeles%2C%20Ca",
+          "apple": "https://maps.apple.com/?q=6333%20W%203rd%20St%2C%20Los%20Angeles%2C%20CA%2090036%2C%20Los%20Angeles%2C%20Ca"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "https://secure.meetupstatic.com/photos/event/6/d/1/d/highres_534687933.jpeg",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-12-14-sports-explore-griffith-park-e513d2",
+        "eid": "explore-griffith-park-82e1",
+        "track": "sports",
+        "category": "",
+        "name": "Explore Griffith Park",
+        "day": "Sat",
+        "date": "2026-12-19",
+        "time": "15:30",
+        "start": null,
+        "end": null,
+        "area": "Los Angeles",
+        "venue": "Griffith Park Merry Go Round Lot 2, Merry Go Round Lot Two",
+        "address": "Merry Go Round Lot Two, LOS ANGELES, CA",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "Free",
+        "tags": [],
+        "sources": [
+          "https://www.meetup.com/los-angeles-hiking-group/events/316617076/",
+          "https://www.meetup.com/wilderness-travel-course-meetup/events/317199540/"
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=Merry%20Go%20Round%20Lot%20Two%2C%20LOS%20ANGELES%2C%20CA",
+          "apple": "https://maps.apple.com/?q=Merry%20Go%20Round%20Lot%20Two%2C%20LOS%20ANGELES%2C%20CA"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "https://secure.meetupstatic.com/photos/event/1/0/0/1/highres_525424097.jpeg",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-12-14-sports-reindeer-run-5k-10k-15k-half-m-1d30cf",
+        "eid": "reindeer-run-5k-10k-15k-f0d3",
+        "track": "sports",
+        "category": "",
+        "name": "Reindeer Run 5K/10K/15K/Half Marathon",
+        "day": "Sat",
+        "date": "2026-12-19",
+        "time": "",
+        "start": null,
+        "end": null,
+        "area": "Los Angeles",
+        "venue": "Griffith Park",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "",
+        "tags": [],
+        "sources": [
+          "https://www.runguides.com/event/35707/reindeer-run-5k-10k-15k-half-marathon-griffith-park"
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=Griffith%20Park%2C%20Los%20Angeles",
+          "apple": "https://maps.apple.com/?q=Griffith%20Park%2C%20Los%20Angeles"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "https://api.party-scout.app/img/los-angeles/2026-12-14/reindeer-run-5k-10k-15k-f0d3.jpg",
+        "image_generated": true,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-12-14-sports-winter-solstice-twilight-hike-5caa44",
+        "eid": "winter-solstice-twilight-ce48",
+        "track": "sports",
+        "category": "",
+        "name": "Winter Solstice Twilight Hike #2 (12/19)",
+        "day": "Sat",
+        "date": "2026-12-19",
+        "time": "15:30",
+        "start": null,
+        "end": null,
+        "area": "Los Angeles",
+        "venue": "Griffith Park, Los Angeles, CA 90027, USA",
+        "address": "Los Angeles, CA 90027, USA, Los Angeles, CA",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "Free",
+        "tags": [],
+        "sources": [
+          "https://www.meetup.com/socal-science-hikes/events/317234733/"
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=Los%20Angeles%2C%20CA%2090027%2C%20USA%2C%20Los%20Angeles%2C%20CA",
+          "apple": "https://maps.apple.com/?q=Los%20Angeles%2C%20CA%2090027%2C%20USA%2C%20Los%20Angeles%2C%20CA"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "https://secure.meetupstatic.com/photos/event/d/a/5/2/highres_537235890.jpeg",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      }
+    ]
   }
 }
