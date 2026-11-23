@@ -2649,23 +2649,35 @@
         "id": "2026-12-14-music-nyx-late-night-clubbing-103-sa-d0dad6",
         "eid": "nyx-late-night-clubbing-3e01",
         "track": "music",
-        "category": "",
+        "category": "Nightclub",
         "name": "NYX - LATE NIGHT CLUBBING #103 (SATURDAY) w/: Surprise Guest",
         "day": "Sat",
         "date": "2026-12-19",
-        "time": "",
-        "start": null,
-        "end": null,
-        "area": "",
+        "time": "2–6am",
+        "start": "02:00",
+        "end": "06:00",
+        "area": "SF",
         "venue": "San Francisco",
         "address": "",
-        "why": "",
-        "summary": "",
-        "promoter": "",
+        "why": "Day-of address and a strict no-photos policy create an intimate, clandestine after-hours vibe.",
+        "summary": "An invite-only late-night clubbing party billed with a “Surprise Guest” and NYX's club selectors; RSVP is required and the event address is sent the day of. House and EDM until the early hours.",
+        "promoter": "Nyx",
         "price": "",
-        "tags": [],
+        "tags": [
+          "dj",
+          "dance",
+          "club",
+          "late-night",
+          "underground",
+          "invite-only",
+          "house"
+        ],
         "sources": [
-          "https://edmtrain.com/san-francisco-ca/nyx-late-night-clubbing-103-saturday-w-surprise-guest-467555"
+          "https://edmtrain.com/san-francisco-ca/nyx-late-night-clubbing-103-saturday-w-surprise-guest-467555",
+          {
+            "url": "https://19hz.info/eventlisting_BayArea.php",
+            "hidden": true
+          }
         ],
         "tickets": [],
         "maps": {
@@ -2678,32 +2690,39 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
         "id": "2026-12-14-music-program-audio-tba-7b1a27",
         "eid": "program-audio-tba-7d7f",
         "track": "music",
-        "category": "",
+        "category": "Nightclub",
         "name": "program audio: tba",
         "day": "Sat",
         "date": "2026-12-19",
         "time": "22:00",
-        "start": null,
-        "end": null,
-        "area": "",
+        "start": "22:00",
+        "end": "04:00",
+        "area": "SoMa",
         "venue": "F8 1192 Folsom",
-        "address": "",
-        "why": "",
+        "address": "1192 Folsom St, San Francisco, CA 94103",
+        "why": "Offers a limited NOTAFLOF ticket allocation to improve access for marginalized community members.",
         "summary": "",
         "promoter": "",
         "price": "",
-        "tags": [],
+        "tags": [
+          "nightclub",
+          "dj",
+          "inclusive",
+          "timed-entry"
+        ],
         "sources": [
           "https://ra.co/events/2586782"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://ra.co/events/2586782"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=F8%201192%20Folsom",
           "apple": "https://maps.apple.com/?q=F8%201192%20Folsom"
@@ -2714,7 +2733,7 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
