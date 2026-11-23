@@ -1066,7 +1066,7 @@
         "day": "Thu",
         "date": "2026-12-03",
         "time": "7pm",
-        "start": "19:00",
+        "start": "20:00",
         "end": null,
         "area": "Los Angeles",
         "venue": "The Wiltern",
@@ -1195,7 +1195,7 @@
         "day": "Fri",
         "date": "2026-12-04",
         "time": "7pm",
-        "start": "19:00",
+        "start": "20:00",
         "end": null,
         "area": "Los Angeles",
         "venue": "The Wiltern",
@@ -1218,7 +1218,11 @@
             "hidden": true
           },
           "https://www.wiltern.com/events",
-          "https://www.ticketmaster.com/angine-de-poitrine-los-angeles-california-12-04-2026/event/090064A7ABE2D617"
+          "https://www.ticketmaster.com/angine-de-poitrine-los-angeles-california-12-04-2026/event/090064A7ABE2D617",
+          {
+            "url": "https://www.wiltern.com/shows/",
+            "hidden": true
+          }
         ],
         "tickets": [],
         "maps": {
@@ -1491,7 +1495,7 @@
         "why": "For an extended, immersive vinyl DJ set and late-night dancing.",
         "summary": "All-vinyl club night at a TBA secret DTLA location on Dec 4, 2026, featuring DJ TOOL (four-hour set) with Daura and Yessi; starts at 22:00.",
         "promoter": "",
-        "price": "",
+        "price": "$17.25-40.25",
         "tags": [
           "vinyl",
           "dj",
@@ -1777,7 +1781,7 @@
         "time": "8pm-3am",
         "start": "20:00",
         "end": "03:00",
-        "area": "Los Angeles",
+        "area": "DTLA/Los Angeles",
         "venue": "TBA Warehosue (DTLA/Los Angeles)",
         "address": "",
         "why": "For fans of heavyweight dub and live sound-system sessions in an underground warehouse setting.",
@@ -1958,7 +1962,7 @@
         "day": "Sat",
         "date": "2026-12-05",
         "time": "7pm",
-        "start": "19:00",
+        "start": "20:00",
         "end": null,
         "area": "Los Angeles",
         "venue": "The Wiltern",
@@ -1980,7 +1984,11 @@
             "url": "https://www.wiltern.com/shows",
             "hidden": true
           },
-          "https://www.ticketmaster.com/angine-de-poitrine-los-angeles-california-12-05-2026/event/090064AEEF92CF1B"
+          "https://www.ticketmaster.com/angine-de-poitrine-los-angeles-california-12-05-2026/event/090064AEEF92CF1B",
+          {
+            "url": "https://www.wiltern.com/shows/",
+            "hidden": true
+          }
         ],
         "tickets": [
           "https://www.ticketmaster.com/angine-de-poitrine-los-angeles-california-12-05-2026/event/090064AEEF92CF1B"
@@ -2015,7 +2023,7 @@
         "why": "For an extended all-night DJ set and late-night dancing in DTLA.",
         "summary": "Late-night event on 2026-12-05 at 23:00 in Downtown Los Angeles with Michael Fam performing an all-night DJ set at a TBA venue.",
         "promoter": "",
-        "price": "",
+        "price": "$17",
         "tags": [
           "dj",
           "dance",
@@ -2156,15 +2164,15 @@
         "day": "Sat",
         "date": "2026-12-05",
         "time": "18:00-22:00",
-        "start": "19:00",
-        "end": "23:00",
+        "start": "18:00",
+        "end": "22:00",
         "area": "Los Angeles",
         "venue": "Hotel Ziggy",
         "address": "8462 Sunset Blvd, West Hollywood, CA 90069",
         "why": "For a festive evening at a hotel pop-up with seasonal vibes.",
         "summary": "A winter holiday party presented by Eris Talent and Searchlight Pictures at Hotel Ziggy on December 5, 2026, starting at 7:00 PM.",
         "promoter": "",
-        "price": "25",
+        "price": "$25",
         "tags": [
           "holiday",
           "party",
@@ -2506,7 +2514,7 @@
         "why": "To connect with music-industry peers and learn about promotion opportunities.",
         "summary": "RA UNLOCKED Promoters x 6AM Group (free promoter program) takes place at Agora Records on December 5, 2026, starting at 11:00.",
         "promoter": "",
-        "price": "0",
+        "price": "Free",
         "tags": [
           "free",
           "industry",
@@ -2987,20 +2995,23 @@
         "time": "23:00-06:00",
         "start": "23:00",
         "end": "06:00",
-        "area": "Los Angeles",
+        "area": "DTLA/Los Angeles",
         "venue": "TBA - DTLA",
         "address": "",
         "why": "For an all-night downtown dance party and late hours.",
         "summary": "bodyshop is a late-night event on December 4, 2026, scheduled for 11:00 PM–6:00 AM in DTLA with the venue listed as TBA.",
         "promoter": "",
-        "price": "50",
+        "price": "$35-50",
         "tags": [
           "nightclub",
           "dj",
           "late-night"
         ],
         "sources": [
-          "https://ra.co/events/2583128"
+          {
+            "url": "https://ra.co/events/2583128",
+            "hidden": true
+          }
         ],
         "tickets": [
           "https://ra.co/events/2583128"
@@ -3132,14 +3143,14 @@
         "date": "2026-12-03",
         "time": "6pm",
         "start": "18:00",
-        "end": null,
+        "end": "21:30",
         "area": "Los Angeles",
         "venue": "El Cid - Los Angeles, CA",
         "address": "4212 W. Sunset Blvd, Los Angeles, CA",
         "why": "To see live music at a classic Los Angeles venue.",
         "summary": "A live show at El Cid in Los Angeles on December 3, 2026 billed as \"Boy 2000, Lamorn\".",
         "promoter": "",
-        "price": "",
+        "price": "$29.45",
         "tags": [
           "live",
           "music",
@@ -3618,16 +3629,16 @@
         "name": "Ravefurrest x Impact! Los Angeles",
         "day": "Sat",
         "date": "2026-12-05",
-        "time": "",
-        "start": null,
-        "end": null,
+        "time": "9pm-2am",
+        "start": "21:00",
+        "end": "02:00",
         "area": "Los Angeles",
         "venue": "Catch One",
         "address": "",
         "why": "A furry-themed, genre-mixing rave platform that spotlights hard-dance, breakcore and hyperpop-influenced sets.",
         "summary": "Ravefurrest is a touring, furry-focused hard-dance rave series that brings high-energy sets across hardcore, hard techno, breakcore and hyperpop-leaning dance styles, with an emphasis on costume-driven community and intense dancefloor energy.",
         "promoter": "",
-        "price": "",
+        "price": "$26+",
         "tags": [
           "rave",
           "hardcore",
@@ -3637,7 +3648,8 @@
         ],
         "sources": [
           "https://edmtrain.com/los-angeles-ca/ravefurrest-x-impact-los-angeles-553463",
-          "https://edmtrain.com/los-angeles-ca"
+          "https://edmtrain.com/los-angeles-ca",
+          "https://dice.fm/event/693xo7-ravefurrest-x-impact-los-angeles-5th-dec-catch-one-los-angeles-tickets?lng=en-US"
         ],
         "tickets": [],
         "maps": {
@@ -3670,7 +3682,7 @@
         "why": "A rare triple LA debut pairing a Dutch experimental techno force with Earthdog's rising NYC minimal/dubby sound.",
         "summary": "Canary Sound Werk and Earthdog Records bring Woody92, djfix, and jek for a triple LA debut, with Woody92 delivering otherworldly, texture-engulfing, psychoactive techno and djfix and jek offering minimal, dubby, progressive, trancey and tech-leaning DJ/production sets designed for non-stop dancing. The exact venue will be revealed closer to the date.",
         "promoter": "",
-        "price": "15 / 25 / 30 / 35",
+        "price": "$15 / 25 / 30 / 35",
         "tags": [
           "techno",
           "minimal",
@@ -3729,7 +3741,7 @@
         "why": "A celebrated NYC party launching its first West Coast edition with four DJs making their debut on the night’s roster.",
         "summary": "The New York monthly party heads west for its Los Angeles debut with an all‑star four‑DJ takeover—HEIDI LAWDEN, MEZ MONTY and NED & JEREMY (of NPR)—delivering dancefloor-focused sets in an elevated, club-style space with an inclusive, late-running vibe.",
         "promoter": "",
-        "price": "35",
+        "price": "$35",
         "tags": [
           "dj",
           "dance",
@@ -3782,7 +3794,7 @@
         "why": "Collector‑curated classic house played over an audiophile (Klipsch‑focused) sound setup for an intimate, home‑style dance experience.",
         "summary": "Wayne headlines another edition of the Home Party, drawing on New York’s early house dance scene and a collection of classic house records for a carefully curated, dance‑forward set. Local selectors Stacy Christine, Aiden Ramos and Dimples provide warm, hi‑fi DJ sets aimed at creating an intimate, transcendent house‑party atmosphere.",
         "promoter": "",
-        "price": "15",
+        "price": "$15",
         "tags": [
           "house",
           "dj",
@@ -3873,16 +3885,16 @@
         "name": "Bu Tea & Techno",
         "day": "Fri",
         "date": "2026-12-04",
-        "time": "20:00",
+        "time": "20:00-00:00",
         "start": "20:00",
-        "end": "00:00",
+        "end": "23:59",
         "area": "Los Angeles",
         "venue": "Bu Tea Den",
         "address": "2715 S Main St, Los Angeles 90007, USA",
         "why": "Pairs a tea-house atmosphere with a DJ-led ambient-to-techno progression.",
         "summary": "A tea-house night that shifts from ambient into driving techno, with the sound system building its way up while loose-leaf tea is served at the bar; the room stays intimate enough to sit and chat or to get up and dance. Lineups are posted to the promoter’s Instagram the day of.",
         "promoter": "",
-        "price": "0",
+        "price": "Free",
         "tags": [
           "techno",
           "dj",
@@ -3891,7 +3903,11 @@
           "intimate"
         ],
         "sources": [
-          "https://ra.co/events/2588888"
+          "https://ra.co/events/2588888",
+          {
+            "url": "https://buteaden.com/techno?utm_source=19hz",
+            "hidden": true
+          }
         ],
         "tickets": [
           "https://ra.co/events/2588888"
@@ -4059,7 +4075,7 @@
         "why": "A holiday-themed party that pairs festive glam with mischievous, heavy‑beat dancefloor energy.",
         "summary": "BÜFF returns to Long Beach for a holiday edition that leans into low lights, heavy beats and festive red/glitter looks, with music from the Perry Twins. The exact Long Beach venue will be revealed closer to the date.",
         "promoter": "",
-        "price": "15",
+        "price": "$15",
         "tags": [
           "dj",
           "dance",
@@ -4102,7 +4118,7 @@
         "why": "A fashion-meets-nightlife takeover that spotlights models, designers and creators alongside late-night DJ performances.",
         "summary": "A late-night holiday experience that blends fashion, music and art. Expect live DJ sets, red-carpet arrivals and professional photography alongside signature cocktails, VIP gifting and immersive brand activations.",
         "promoter": "",
-        "price": "20",
+        "price": "$20",
         "tags": [
           "fashion",
           "dj",
@@ -4139,9 +4155,9 @@
         "day": "Mon",
         "date": "2026-11-30",
         "time": "7:00 PM & 9:30 PM",
-        "start": null,
+        "start": "19:00",
         "end": null,
-        "area": "Hollywood",
+        "area": "Los Angeles",
         "venue": "Blue Note Los Angeles",
         "address": "",
         "why": "Features Grammy-winning and nominated players from Lettuce, Big Gigantic and Break Science.",
@@ -4167,8 +4183,8 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "https://api.party-scout.app/img/los-angeles/2026-11-30/bttrfly-00db.jpg",
-        "image_generated": false,
+        "image": "https://api.party-scout.app/img/los-angeles/2026-11-30/bttrfly-f5e1.jpg",
+        "image_generated": true,
         "popularity": 0,
         "enriched": 1,
         "active": true
@@ -6990,9 +7006,9 @@
         "day": "Wed",
         "date": "2026-12-02",
         "time": "7:00 PM & 9:30 PM (doors 5:00 / 9:00)",
-        "start": null,
+        "start": "19:00",
         "end": null,
-        "area": "West Hollywood",
+        "area": "Los Angeles",
         "venue": "Blue Note Los Angeles",
         "address": "",
         "why": "A rare duo pairing of a warm, soulful voice with one of jazz-fusion's most inventive bassists, in a seated club with full bar and dinner menu.",
@@ -7021,8 +7037,8 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "https://api.party-scout.app/img/los-angeles/2026-11-30/lau-noah-x-adam-neely-791a.jpg",
-        "image_generated": false,
+        "image": "https://api.party-scout.app/img/los-angeles/2026-11-30/lau-noah-x-adam-neely-8b35.jpg",
+        "image_generated": true,
         "popularity": 0,
         "enriched": 1,
         "active": true
@@ -7383,7 +7399,7 @@
         "time": "7pm-11pm",
         "start": "19:00",
         "end": "23:00",
-        "area": "DTLA",
+        "area": "Los Angeles",
         "venue": "Rizo Corp Gallery (Los Angeles)",
         "address": "",
         "why": "Gallery-night crowd plus a six-act house bill in a downtown art space, 7pm to 11pm.",
@@ -7415,8 +7431,8 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
-        "image_generated": false,
+        "image": "https://api.party-scout.app/img/los-angeles/2026-11-30/dtla-art-night-cloo-zele-1c87.jpg",
+        "image_generated": true,
         "popularity": 0,
         "enriched": 1,
         "active": true
@@ -7653,9 +7669,9 @@
         "day": "Thu",
         "date": "2026-12-03",
         "time": "7:00 PM & 9:30 PM",
-        "start": null,
+        "start": "19:00",
         "end": null,
-        "area": "Hollywood",
+        "area": "Los Angeles",
         "venue": "Blue Note Los Angeles",
         "address": "",
         "why": "An intimate seated show with a full dinner menu, good for a date night out.",
@@ -7684,7 +7700,7 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "https://api.party-scout.app/img/los-angeles/2026-11-30/inayah-4515.jpg",
+        "image": "https://i.ticketweb.com/i/00/13/02/87/84_Original.jpg?v=6",
         "image_generated": false,
         "popularity": 0,
         "enriched": 1,
@@ -8225,7 +8241,7 @@
         "day": "Fri",
         "date": "2026-12-04",
         "time": "7:00 PM & 9:30 PM shows (doors 5:00 / 9:00 PM)",
-        "start": null,
+        "start": "19:00",
         "end": null,
         "area": "Hollywood",
         "venue": "Blue Note Los Angeles",
@@ -8244,7 +8260,8 @@
         ],
         "sources": [
           "https://www.bluenotejazz.com/la/shows/?list_view",
-          "https://www.bluenotejazz.com/la/tm-event/gena-aka-liv-e-karriem-riggins/"
+          "https://www.bluenotejazz.com/la/tm-event/gena-aka-liv-e-karriem-riggins/",
+          "https://www.bluenotejazz.com/los-angeles/shows/"
         ],
         "tickets": [
           "https://www.ticketweb.com/event/gena-aka-live-karriem-blue-note-los-angeles-tickets/14329374?pl=bluenotela"
@@ -8327,7 +8344,7 @@
         "why": "Always features a secret guest DJ/producer and immersive heavy-bass production.",
         "summary": "A holiday-themed club night serving today’s tech-house, house, MNML and indie-dance sounds — heavy bass, deep grooves and immersive production — that always features a secret special-guest DJ or producer. Expect high-energy, naughty-or-nice holiday vibes across long late-night sets.",
         "promoter": "",
-        "price": "free w/rsvp b4 11pm / $11",
+        "price": "Free",
         "tags": [
           "tech-house",
           "house",
@@ -8347,8 +8364,8 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "https://api.party-scout.app/img/los-angeles/2026-11-30/naughty-or-nice-ugly-swe-c177.jpg",
-        "image_generated": false,
+        "image": "https://api.party-scout.app/img/los-angeles/2026-11-30/naughty-or-nice-ugly-swe-4305.jpg",
+        "image_generated": true,
         "popularity": 0,
         "enriched": 1,
         "active": true
@@ -8450,6 +8467,321 @@
         "image_generated": true,
         "popularity": 0,
         "enriched": 1,
+        "active": true
+      },
+      {
+        "id": "2026-11-30-music-vintage-culture-1e6744",
+        "eid": "vintage-culture-a8e3",
+        "track": "music",
+        "category": "",
+        "name": "Vintage Culture",
+        "day": "Fri",
+        "date": "2026-12-04",
+        "time": "",
+        "start": "21:00",
+        "end": null,
+        "area": "Los Angeles",
+        "venue": "Reframe Studios Indoors",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "",
+        "tags": [],
+        "sources": [
+          "https://edmtrain.com/tours/vintage-culture-12738"
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=Reframe%20Studios%20Indoors%2C%20Los%20Angeles",
+          "apple": "https://maps.apple.com/?q=Reframe%20Studios%20Indoors%2C%20Los%20Angeles"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "https://api.party-scout.app/img/los-angeles/2026-11-30/vintage-culture-a8e3.jpg",
+        "image_generated": true,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-11-30-music-disco-decadance-with-infinity-b34e92",
+        "eid": "disco-decadance-with-inf-d662",
+        "track": "music",
+        "category": "",
+        "name": "Disco Decadance with Infinity Edge, NAYGOD and Soso",
+        "day": "Sat",
+        "date": "2026-12-05",
+        "time": "19:00-01:00",
+        "start": "19:00",
+        "end": "01:00",
+        "area": "Los Angeles",
+        "venue": "Apotheke",
+        "address": "1746 N Spring St, Los Angeles, CA 90012",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "",
+        "tags": [],
+        "sources": [
+          "https://ra.co/events/2591054"
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=1746%20N%20Spring%20St%2C%20Los%20Angeles%2C%20CA%2090012",
+          "apple": "https://maps.apple.com/?q=1746%20N%20Spring%20St%2C%20Los%20Angeles%2C%20CA%2090012"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "https://images.ra.co/e4cf5f2c5a860adbcc5472518fc606f49cb4f0f1.jpg",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true,
+        "lineup": [
+          {
+            "name": "Infinity Edge",
+            "instagram": null
+          },
+          {
+            "name": "NAYGOD",
+            "instagram": null
+          },
+          {
+            "name": "Dirtie Blonde",
+            "instagram": null
+          }
+        ]
+      },
+      {
+        "id": "2026-11-30-music-hands-on-your-hips-316c8b",
+        "eid": "hands-on-your-hips-3807",
+        "track": "music",
+        "category": "",
+        "name": "HANDS ON YOUR HIPS",
+        "day": "Sat",
+        "date": "2026-12-05",
+        "time": "23:59-05:00",
+        "start": "23:59",
+        "end": "05:00",
+        "area": "Los Angeles",
+        "venue": "TBA - DTLA",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "$15-20",
+        "tags": [],
+        "sources": [
+          "https://ra.co/events/2590677"
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=Los%20Angeles",
+          "apple": "https://maps.apple.com/?q=Los%20Angeles"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "https://images.ra.co/000602aef699237ca18b9b8e854534b4cdf3c507.png",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-11-30-music-kenopsic-4-year-anniversary-15450c",
+        "eid": "kenopsic-4-year-annivers-f2ed",
+        "track": "music",
+        "category": "",
+        "name": "Kenopsic 4 Year Anniversary",
+        "day": "Sat",
+        "date": "2026-12-05",
+        "time": "22:30-04:30",
+        "start": "22:30",
+        "end": "04:30",
+        "area": "Los Angeles",
+        "venue": "TBA - Inland Empire (45min from LA)",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "$15-30",
+        "tags": [],
+        "sources": [
+          "https://ra.co/events/2590458"
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=Los%20Angeles",
+          "apple": "https://maps.apple.com/?q=Los%20Angeles"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "https://images.ra.co/7e902a55d3c3fd4a8de39763c1f6ffaeedc93079.jpg",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true,
+        "lineup": [
+          {
+            "name": "Aztekan",
+            "instagram": null
+          },
+          {
+            "name": "PLEASURES (US)",
+            "instagram": null
+          }
+        ]
+      },
+      {
+        "id": "2026-11-30-music-made-in-heaven-part-2-electric-db744b",
+        "eid": "made-in-heaven-part-2-el-65fc",
+        "track": "music",
+        "category": "",
+        "name": "Made In Heaven Part 2: Electric Boogaloo - Intrphaz3, Amon, Jake, Make Color, Amethmyst, Michael",
+        "day": "Sat",
+        "date": "2026-12-05",
+        "time": "7pm",
+        "start": "19:00",
+        "end": null,
+        "area": "El CEntro",
+        "venue": "Casa De Muerto (El CEntro)",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "$5",
+        "tags": [],
+        "sources": [
+          "https://www.instagram.com/twilightelcentro/p/Df5ZEQ-S9C0/"
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=Casa%20De%20Muerto%20%28El%20CEntro%29%2C%20El%20CEntro",
+          "apple": "https://maps.apple.com/?q=Casa%20De%20Muerto%20%28El%20CEntro%29%2C%20El%20CEntro"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "https://api.party-scout.app/img/los-angeles/2026-11-30/made-in-heaven-part-2-el-65fc.jpg",
+        "image_generated": true,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-11-30-music-sex-beat-49aliens-panicataxia-fc49c4",
+        "eid": "sex-beat-49aliens-panica-c5b9",
+        "track": "music",
+        "category": "",
+        "name": "Sex Beat: 49aliens, Panicataxia, Post Crucifixion",
+        "day": "Sat",
+        "date": "2026-12-05",
+        "time": "10pm-2am",
+        "start": "22:00",
+        "end": "02:00",
+        "area": "Santa Ana",
+        "venue": "LA Santa (Santa Ana)",
+        "address": "224 East 3rd Street, Santa Ana, CA 92701",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "$10+",
+        "tags": [],
+        "sources": [
+          "https://www.eventbrite.com/e/sexbeat-santa-ana-tickets-2004982059312"
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=224%20East%203rd%20Street%2C%20Santa%20Ana%2C%20CA%2092701",
+          "apple": "https://maps.apple.com/?q=224%20East%203rd%20Street%2C%20Santa%20Ana%2C%20CA%2092701"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1198206821%2F2825385066971%2F1%2Foriginal.20261118-002439?crop=focalpoint&fit=crop&w=940&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=926b83e06a424c3876647cf3e0b9d5e0",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-11-30-music-drachen-balaclava-euphorika-ju-054fb3",
+        "eid": "drachen-balaclava-euphor-469b",
+        "track": "music",
+        "category": "",
+        "name": "Drachen, Balaclava, Euphorika, Juntao, Sylknet, Master Flynn, Otomoto",
+        "day": "Sun",
+        "date": "2026-12-06",
+        "time": "2pm-8pm",
+        "start": "14:00",
+        "end": "20:00",
+        "area": "Los Angeles",
+        "venue": "TBA (Los Angeles)",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "",
+        "tags": [],
+        "sources": [
+          "https://www.instagram.com/sylknet/reel/Df0QZXvy33o/"
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=Los%20Angeles",
+          "apple": "https://maps.apple.com/?q=Los%20Angeles"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "https://api.party-scout.app/img/los-angeles/2026-11-30/drachen-balaclava-euphor-469b.jpg",
+        "image_generated": true,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-11-30-music-dub-c77d85",
+        "eid": "dub-8d54",
+        "track": "music",
+        "category": "",
+        "name": "Dub",
+        "day": "Sun",
+        "date": "2026-12-06",
+        "time": "11:55pm-5am",
+        "start": "23:55",
+        "end": "05:00",
+        "area": "Los Angeles",
+        "venue": "Afters: Richard Tha 3Rd B2B Attax, Killed Sleep, Itzy Bitzy, Shvtdwn @ TBA (Los Angeles)",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "Free",
+        "tags": [],
+        "sources": [
+          {
+            "url": "https://19hz.info/eventlisting_LosAngeles.php",
+            "hidden": true
+          }
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=Los%20Angeles",
+          "apple": "https://maps.apple.com/?q=Los%20Angeles"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "https://api.party-scout.app/img/los-angeles/2026-11-30/dub-8d54.jpg",
+        "image_generated": true,
+        "popularity": 0,
+        "enriched": 0,
         "active": true
       }
     ],
@@ -8751,7 +9083,7 @@
         "id": "2026-11-30-sports-jingle-bell-run-los-angeles-875afd",
         "eid": "jingle-bell-run-los-ange-4aa3",
         "track": "sports",
-        "category": "Sports",
+        "category": "Running",
         "name": "Jingle Bell Run - Los Angeles",
         "day": "Sat",
         "date": "2026-12-05",
@@ -8773,7 +9105,11 @@
         ],
         "sources": [
           "https://www.runguides.com/event/36214/jingle-bell-run-los-angeles",
-          "https://www.runguides.com/event/28968/jingle-bell-run-orange-county-inland-empire"
+          "https://www.runguides.com/event/28968/jingle-bell-run-orange-county-inland-empire",
+          {
+            "url": "https://www.runningintheusa.com/race/list/los%20angeles-ca/december",
+            "hidden": true
+          }
         ],
         "tickets": [],
         "maps": {
@@ -9447,7 +9783,7 @@
         "address": "1419 Colton Street,, Los Angeles, CA",
         "why": "Play fast-paced pool team games with food, music and holiday vibes.",
         "summary": "Underwater hockey at Echo Park Pool where players are grouped into pods of 3–4 and matched to form rotating teams; games are shortened to 15 minutes. Entry is $100 per player (Venmo to @Glenn-Terry-5) and the day includes catered food, non-alcoholic drinks, music, a 50/50 raffle, holiday celebrations and a toy donation drive for local children.",
-        "promoter": "",
+        "promoter": "Los Angeles Underwater Hockey Club",
         "price": "$100",
         "tags": [
           "sports",
@@ -9781,15 +10117,15 @@
         "name": "Co-Ed Pickup Soccer Los Angeles (Playa Vista)",
         "day": "Sat",
         "date": "2026-12-05",
-        "time": "09:45",
-        "start": "09:45",
+        "time": "10:45",
+        "start": "10:45",
         "end": "10:45",
         "area": "Los Angeles",
         "venue": "Playa Vista",
         "address": "",
         "why": "Multiple game sizes and easy solo sign-up make it simple for any skill level to join.",
         "summary": "Casual co‑ed pickup soccer organized via the Pezo Pickup Soccer app, open to women and men of all skill levels with 5v5, 8v8 and 11v11 game formats; reserve your place on the roster in the app.",
-        "promoter": "",
+        "promoter": "Los Angeles Co-Ed Pickup Soccer - Pezo",
         "price": "$10.99",
         "tags": [
           "sports",
@@ -9813,6 +10149,78 @@
         "image_generated": false,
         "popularity": 0,
         "enriched": 1,
+        "active": true
+      },
+      {
+        "id": "2026-11-30-sports-griffith-park-hike-to-vista-vi-86a111",
+        "eid": "griffith-park-hike-to-vi-48ce",
+        "track": "sports",
+        "category": "",
+        "name": "Griffith Park Hike to Vista View Point- Moderate",
+        "day": "Tue",
+        "date": "2026-12-01",
+        "time": "18:30",
+        "start": "18:30",
+        "end": null,
+        "area": "Los Angeles",
+        "venue": "Griffith Park Merry Go Round Lot 2, Merry Go Round Lot Two",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "Los Angeles Hiking Group",
+        "price": "",
+        "tags": [],
+        "sources": [
+          "https://www.meetup.com/los-angeles-hiking-group/events/317544648/"
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=Griffith%20Park%20Merry%20Go%20Round%20Lot%202%2C%20Merry%20Go%20Round%20Lot%20Two%2C%20Los%20Angeles",
+          "apple": "https://maps.apple.com/?q=Griffith%20Park%20Merry%20Go%20Round%20Lot%202%2C%20Merry%20Go%20Round%20Lot%20Two%2C%20Los%20Angeles"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-11-30-sports-elysian-park-in-a-minute-c2e8e9",
+        "eid": "elysian-park-in-a-minute-e835",
+        "track": "sports",
+        "category": "",
+        "name": "Elysian Park in a Minute",
+        "day": "Sun",
+        "date": "2026-12-06",
+        "time": "09:00",
+        "start": "09:00",
+        "end": null,
+        "area": "Los Angeles",
+        "venue": "Lower Angels Point, 1742 Academy Rd",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "Los Angeles Hiking Group",
+        "price": "",
+        "tags": [],
+        "sources": [
+          "https://www.meetup.com/los-angeles-hiking-group/events/317520227/"
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=Lower%20Angels%20Point%2C%201742%20Academy%20Rd%2C%20Los%20Angeles",
+          "apple": "https://maps.apple.com/?q=Lower%20Angels%20Point%2C%201742%20Academy%20Rd%2C%20Los%20Angeles"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "https://api.party-scout.app/img/los-angeles/2026-11-30/elysian-park-in-a-minute-e835.jpg",
+        "image_generated": true,
+        "popularity": 0,
+        "enriched": 0,
         "active": true
       }
     ]
