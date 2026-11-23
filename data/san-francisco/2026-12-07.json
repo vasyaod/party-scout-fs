@@ -4998,26 +4998,35 @@
         "id": "2026-12-07-music-santacon-2026-drei-crow-stu-ai-fe4e69",
         "eid": "santacon-2026-drei-crow-8b86",
         "track": "music",
-        "category": "",
+        "category": "Nightclub",
         "name": "Santacon 2026 - Drei, Crow, Stu, Aidan, Elliott, AJ",
         "day": "Sat",
         "date": "2026-12-12",
         "time": "13:00",
-        "start": null,
-        "end": null,
+        "start": "13:00",
+        "end": "18:00",
         "area": "San Francisco",
         "venue": "Public Works",
         "address": "161 Erie Street, San Francisco, CA 94103, United States",
-        "why": "",
-        "summary": "",
+        "why": "A festive, club-style showcase of emerging Bay Area DJs with dedicated lighting and visuals.",
+        "summary": "An afternoon-long dance party from the Linen Series featuring five hours of dance music from emerging Bay Area DJs. The main room will have dedicated lighting, visuals and holiday décor, two full bars and balcony/outdoor chill space; Santa hats and ugly sweaters are welcome.",
         "promoter": "",
         "price": "$25.68",
-        "tags": [],
+        "tags": [
+          "dj",
+          "dance",
+          "holiday",
+          "local",
+          "indoor"
+        ],
         "sources": [
           "https://www.eventbrite.com/e/linen-series-presents-santacon-2026-tickets-2004920124062",
           "https://ra.co/events/2589003"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://www.eventbrite.com/e/linen-series-presents-santacon-2026-tickets-2004920124062",
+          "https://ra.co/events/2589003"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=161%20Erie%20Street%2C%20San%20Francisco%2C%20CA%2094103%2C%20United%20States",
           "apple": "https://maps.apple.com/?q=161%20Erie%20Street%2C%20San%20Francisco%2C%20CA%2094103%2C%20United%20States"
@@ -5028,32 +5037,40 @@
         "image": "https://images.ra.co/a2c3cd04c33de53aa1e724cdf2fda68c9bc9277e.png",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
         "id": "2026-12-07-music-satisfaction-1b4e73",
         "eid": "satisfaction-0941",
         "track": "music",
-        "category": "",
+        "category": "Nightclub",
         "name": "SATISFACTION",
         "day": "Sat",
         "date": "2026-12-12",
         "time": "21:30",
-        "start": null,
-        "end": null,
-        "area": "San Francisco",
+        "start": "21:30",
+        "end": "02:30",
+        "area": "SoMa",
         "venue": "DNA Lounge",
         "address": "375 Eleventh Street, San Francisco, CA 94103, United States",
-        "why": "",
-        "summary": "",
+        "why": "Dedicated all-night focus on 2010–2017 EDM bangers for festival-era nostalgia.",
+        "summary": "A throwback EDM party spinning the biggest, most iconic bangers from 2010–2017 — neon and glow-stick-friendly with festival-era drops and a PLUR-style vibe all night.",
         "promoter": "",
         "price": "",
-        "tags": [],
+        "tags": [
+          "edm",
+          "throwback",
+          "dj",
+          "dance",
+          "neon"
+        ],
         "sources": [
           "https://ra.co/events/2586768"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://ra.co/events/2586768"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=375%20Eleventh%20Street%2C%20San%20Francisco%2C%20CA%2094103%2C%20United%20States",
           "apple": "https://maps.apple.com/?q=375%20Eleventh%20Street%2C%20San%20Francisco%2C%20CA%2094103%2C%20United%20States"
@@ -5064,32 +5081,39 @@
         "image": "https://images.ra.co/6b7bba1fc292e4efb1ce14a4a873b8a0212aefff.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
         "id": "2026-12-07-music-fleetwood-mac-rumours-envelop-b90a5d",
         "eid": "fleetwood-mac-rumours-en-537e",
         "track": "music",
-        "category": "",
+        "category": "Concert",
         "name": "Fleetwood Mac - Rumours (Envelop)",
         "day": "Sun",
         "date": "2026-12-13",
         "time": "14:30",
-        "start": null,
-        "end": null,
+        "start": "14:30",
+        "end": "15:45",
         "area": "San Francisco",
         "venue": "The Midway",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "900 Marin St., San Francisco, CA 94124",
+        "why": "A 32-speaker surround setup that envelops listeners in the record.",
+        "summary": "An immersive listening event presenting Fleetwood Mac’s Rumours through a 32-speaker system that surrounds you with the album’s sound.",
         "promoter": "",
-        "price": "",
-        "tags": [],
+        "price": "$27",
+        "tags": [
+          "immersive",
+          "listening-party",
+          "rock",
+          "audio"
+        ],
         "sources": [
           "https://www.eventbrite.com/e/fleetwood-mac-rumours-listen-envelop-sf-230pm-tickets-2004880388211?utm_source=themidway&utm_medium=venuewebsite"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://www.eventbrite.com/e/fleetwood-mac-rumours-listen-envelop-sf-230pm-tickets-2004880388211?utm_source=themidway&utm_medium=venuewebsite"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=The%20Midway%2C%20San%20Francisco",
           "apple": "https://maps.apple.com/?q=The%20Midway%2C%20San%20Francisco"
@@ -5097,10 +5121,10 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/san-francisco/2026-12-07/fleetwood-mac-rumours-en-537e.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       }
     ],
@@ -5822,21 +5846,27 @@
         "id": "2026-12-07-sports-squash-in-the-mission-saturday-1e25e8",
         "eid": "squash-in-the-mission-sa-6301",
         "track": "sports",
-        "category": "",
+        "category": "Sports",
         "name": "Squash in the Mission (Saturday)",
         "day": "Sat",
         "date": "2026-12-12",
         "time": "09:00",
-        "start": null,
-        "end": null,
+        "start": "09:00",
+        "end": "11:00",
         "area": "San Francisco",
         "venue": "Mission Recreation Center, 2450 Harrison St",
         "address": "2450 Harrison St, San Francisco, CA",
-        "why": "",
-        "summary": "",
+        "why": "Casual drop-in squash with a social, post-game burrito tradition.",
+        "summary": "An informal weekly community squash meetup for pickup games and social play; participants often head out for burritos afterward.",
         "promoter": "San Francisco Squash",
         "price": "Free",
-        "tags": [],
+        "tags": [
+          "sport",
+          "pickup",
+          "community",
+          "free",
+          "indoor"
+        ],
         "sources": [
           "https://www.meetup.com/san-francisco-racquet-sports/events/317540211/"
         ],
@@ -5851,28 +5881,33 @@
         "image": "https://secure.meetupstatic.com/photos/event/9/d/c/7/highres_464680391.jpeg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
         "id": "2026-12-07-sports-volleyball-training-and-playin-abab1a",
         "eid": "volleyball-training-and-92c1",
         "track": "sports",
-        "category": "",
+        "category": "Sports",
         "name": "Volleyball. Training and Playing.",
         "day": "Sat",
         "date": "2026-12-12",
         "time": "09:00",
-        "start": null,
-        "end": null,
+        "start": "09:00",
+        "end": "14:00",
         "area": "San Francisco",
         "venue": "Ocean Beach, Stairwell 17, just across from Beach Chalet, 1000 Great Hwy",
         "address": "1000 Great Hwy, San Francisco, CA",
-        "why": "",
-        "summary": "",
+        "why": "Uses VBX no-net training to give players more touches and faster improvement before open play.",
+        "summary": "Sessions begin with three short VBX training phases — a no-net system that gives players more touches and game-like repetitions — then move onto nets for open play, with additional doubles courts added as the group progresses. All levels are welcome; the emphasis is on training first to play better and building a local volleyball community.",
         "promoter": "Ocean Beach Volleyball Training and Playing. San Francisco",
         "price": "Free",
-        "tags": [],
+        "tags": [
+          "sports",
+          "outdoor",
+          "training",
+          "community"
+        ],
         "sources": [
           "https://www.meetup.com/san-francisco-volleyball-training-playing-meetup-group/events/317540110/",
           "https://www.meetup.com/san-francisco-volleyball-training-playing-meetup-group/events/317540130/"
@@ -5888,7 +5923,7 @@
         "image": "https://secure.meetupstatic.com/photos/event/9/0/5/a/highres_499116954.jpeg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       }
     ]
