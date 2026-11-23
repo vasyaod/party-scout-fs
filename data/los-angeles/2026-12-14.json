@@ -1583,21 +1583,26 @@
         "id": "2026-12-14-music-tmple-ea0065",
         "eid": "tmple-7b90",
         "track": "music",
-        "category": "",
+        "category": "Nightclub",
         "name": "Tmple",
         "day": "Fri",
         "date": "2026-12-18",
         "time": "22:00",
-        "start": null,
-        "end": null,
+        "start": "22:00",
+        "end": "03:00",
         "area": "Los Angeles",
         "venue": "The Spotlight (Los Angeles)",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "1601 North Cahuenga Boulevard, Los Angeles, California 90028",
+        "why": "Groove-first, dancefloor-focused house rather than drop-driven EDM.",
+        "summary": "Tmple headlines a house music night that favors groove-first, dancefloor-ready sets over festival-style drops. The event flyer also shows the line \"Possibly Sunny,\" though it's unclear whether that denotes a co-bill or a party name.",
         "promoter": "",
-        "price": "",
-        "tags": [],
+        "price": "$25",
+        "tags": [
+          "house",
+          "dj",
+          "dance",
+          "21+"
+        ],
         "sources": [
           {
             "url": "https://19hz.info/eventlisting_LosAngeles.php",
@@ -1608,7 +1613,9 @@
             "hidden": true
           }
         ],
-        "tickets": [],
+        "tickets": [
+          "https://dice.fm/event/ok2y2g-tmple-18th-dec-the-spotlight-los-angeles-tickets"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=The%20Spotlight%20%28Los%20Angeles%29%2C%20Los%20Angeles",
           "apple": "https://maps.apple.com/?q=The%20Spotlight%20%28Los%20Angeles%29%2C%20Los%20Angeles"
@@ -1616,31 +1623,37 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/los-angeles/2026-12-14/tmple-7b90.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
         "id": "2026-12-14-music-wide-awake-18dea5",
         "eid": "wide-awake-1fe0",
         "track": "music",
-        "category": "",
+        "category": "Nightclub",
         "name": "Wide Awake",
         "day": "Fri",
         "date": "2026-12-18",
         "time": "22:00",
-        "start": null,
-        "end": null,
+        "start": "22:00",
+        "end": "04:00",
         "area": "Los Angeles",
         "venue": "TBA (Los Angeles)",
         "address": "",
-        "why": "",
-        "summary": "",
+        "why": "Two-stage format that spots hard dance and dubstep with immersive production.",
+        "summary": "A multi-stage underground dance night mixing hard dance, techno, and dubstep across two stages, backed by heavy production and a stacked DJ lineup. The event also includes a vendor market and promises high-energy late-night beats.",
         "promoter": "",
-        "price": "",
-        "tags": [],
+        "price": "$16–$27",
+        "tags": [
+          "techno",
+          "dubstep",
+          "hard-dance",
+          "dj",
+          "vendor-market"
+        ],
         "sources": [
           {
             "url": "https://19hz.info/eventlisting_LosAngeles.php",
@@ -1662,36 +1675,44 @@
         "coords_precise": false,
         "ra": {},
         "image": "https://api.party-scout.app/img/los-angeles/2026-12-14/wide-awake-1fe0.jpg",
-        "image_generated": true,
+        "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
         "id": "2026-12-14-music-work-presents-999999999-4-hr-s-366b75",
         "eid": "work-presents-999999999-e4f7",
         "track": "music",
-        "category": "",
+        "category": "Nightclub",
         "name": "WORK presents: 999999999 [4 HR Set]. JIA, & Trovarsi [LIVE]",
         "day": "Fri",
         "date": "2026-12-18",
         "time": "23:00",
-        "start": null,
-        "end": null,
+        "start": "23:00",
+        "end": "05:00",
         "area": "Los Angeles",
         "venue": "TBA - Los Angeles",
         "address": "",
-        "why": "",
-        "summary": "",
+        "why": "An unusually long, four-hour DJ set paired with a live electronic performance and immersive lighting.",
+        "summary": "WORK presents an extended four-hour set from 999999999 alongside performances by JIA and Trovarsi (live), accompanied by a light installation from Ausgang Studio; the exact location is emailed to ticket holders about two hours before the event.",
         "promoter": "",
         "price": "40-70",
-        "tags": [],
+        "tags": [
+          "electronic",
+          "dj",
+          "live",
+          "immersive",
+          "underground"
+        ],
         "sources": [
           "https://ra.co/events/2586892",
           "https://edmtrain.com/los-angeles-ca",
           "https://edmtrain.com/los-angeles-ca/work-presents-999999999-553872"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://ra.co/events/2586892"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Los%20Angeles",
           "apple": "https://maps.apple.com/?q=Los%20Angeles"
@@ -1702,7 +1723,7 @@
         "image": "https://images.ra.co/0a8abc9f8677e7e1ebc4ca512ac137c3945b0a48.png",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true,
         "lineup": [
           {
@@ -1723,25 +1744,33 @@
         "id": "2026-12-14-music-atara-ara-79c3b6",
         "eid": "atara-ara-00de",
         "track": "music",
-        "category": "",
+        "category": "Concert",
         "name": "Atara Ara",
         "day": "Sat",
         "date": "2026-12-19",
         "time": "15:30",
-        "start": null,
-        "end": null,
-        "area": "Los Angeles",
+        "start": "15:30",
+        "end": "21:30",
+        "area": "DTLA",
         "venue": "The Redwood Bar And Grill",
         "address": "316 W. 2nd Street, Los Angeles, CA  90012",
-        "why": "",
-        "summary": "",
+        "why": "High-energy sets that fuse J‑rock flair and singalong pop‑punk with anime covers.",
+        "summary": "Atara Ara is a four-piece rock band that blends modern alternative with Japanese rock, delivering energetic, pop-punk–tinged songs and anime‑influenced visuals; their live sets mix original material with anime covers.",
         "promoter": "",
         "price": "$10 at the door, all ages welcome",
-        "tags": [],
+        "tags": [
+          "rock",
+          "j-rock",
+          "pop-punk",
+          "anime",
+          "live"
+        ],
         "sources": [
           "https://ra.co/events/2580222"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://ra.co/events/2580222"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=316%20W.%202nd%20Street%2C%20Los%20Angeles%2C%20CA%20%2090012",
           "apple": "https://maps.apple.com/?q=316%20W.%202nd%20Street%2C%20Los%20Angeles%2C%20CA%20%2090012"
@@ -1752,28 +1781,33 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
         "id": "2026-12-14-music-crank-sturgeon-misery-ritual-r-f5d7ac",
         "eid": "crank-sturgeon-misery-ri-5b7e",
         "track": "music",
-        "category": "",
+        "category": "Concert",
         "name": "Crank Sturgeon, Misery Ritual, Ritual Chair Christian Lovers, Hexpressionist, Hate Eradicator",
         "day": "Sat",
         "date": "2026-12-19",
         "time": "20:00",
-        "start": null,
-        "end": null,
+        "start": "20:00",
+        "end": "21:00",
         "area": "Los Angeles",
         "venue": "Coaxial Arts (Los Angeles)",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "1815 Main St, Los Angeles, CA 90015",
+        "why": "Misery Ritual’s first live appearance in over six years.",
+        "summary": "A night of SoCal-based harsh noise and power electronics, with Crank Sturgeon’s dada-infused electro-acoustic clangor and big cardboard fishhead theatrics. The lineup also features Misery Ritual returning to live performance after six years, plus harsh noisecore and experimental sets from Christian Lovers, Ritual Chair, Hexpressionist, and the antifascist power-electronics project Hate Eradicator.",
         "promoter": "",
-        "price": "",
-        "tags": [],
+        "price": "$17",
+        "tags": [
+          "noise",
+          "power-electronics",
+          "experimental",
+          "live"
+        ],
         "sources": [
           {
             "url": "https://19hz.info/eventlisting_LosAngeles.php",
@@ -1793,30 +1827,36 @@
         "coords_precise": false,
         "ra": {},
         "image": "https://api.party-scout.app/img/los-angeles/2026-12-14/crank-sturgeon-misery-ri-5b7e.jpg",
-        "image_generated": true,
+        "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
         "id": "2026-12-14-music-dub-meeting-feat-imperial-soun-f4dcdd",
         "eid": "dub-meeting-feat-imperia-b474",
         "track": "music",
-        "category": "",
+        "category": "Nightclub",
         "name": "Dub Meeting Feat. Imperial Sound Army & Yungg Trip",
         "day": "Sat",
         "date": "2026-12-19",
         "time": "20:00",
-        "start": null,
-        "end": null,
+        "start": "20:00",
+        "end": "03:00",
         "area": "Los Angeles",
         "venue": "TBA",
         "address": "",
-        "why": "",
-        "summary": "",
+        "why": "Immersive, heavyweight dub on custom dual stereo stacks with an international sound crew.",
+        "summary": "Dub Siren HiFi brings Imperial Sound Army from Italy to a secret downtown warehouse for a night of heavyweight roots and dub played through both stacks of their custom-built stereo sound system. Yungg Trip joins Imperial Sound Army alongside Mello Banton, Rootsman, Ryo Vibes and the Dub Siren HiFi crew, with soundsdistilled taking the closing set into jungle; the warehouse address will be released the day of the event.",
         "promoter": "",
-        "price": "",
-        "tags": [],
+        "price": "$20+",
+        "tags": [
+          "dub",
+          "reggae",
+          "sound-system",
+          "warehouse",
+          "jungle"
+        ],
         "sources": [
           "https://ra.co/events/2590040",
           {
@@ -1825,7 +1865,9 @@
           },
           "https://tickets.dubmeeting.com/events/dubsirenhifi/2534946"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://ra.co/events/2590040"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Los%20Angeles",
           "apple": "https://maps.apple.com/?q=Los%20Angeles"
@@ -1836,32 +1878,41 @@
         "image": "https://images.ra.co/449b33fc32b0b5b61c2f9f8f350b06457e13f772.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
         "id": "2026-12-14-music-dublab-presents-commonthread-w-2f8ea2",
         "eid": "dublab-presents-commonth-0954",
         "track": "music",
-        "category": "",
+        "category": "Nightclub",
         "name": "DUBLAB presents: COMMONTHREAD with Eva Noxious",
         "day": "Sat",
         "date": "2026-12-19",
         "time": "21:00",
-        "start": null,
-        "end": null,
+        "start": "21:00",
+        "end": "02:00",
         "area": "Los Angeles",
         "venue": "The Airliner",
         "address": "2419 N Broadway, Los Angeles, CA 90036",
-        "why": "",
-        "summary": "",
+        "why": "A cross-genre bill that blends classic hip‑hop and G‑funk with adventurous house, techno and crate-digging vinyl sets.",
+        "summary": "The bill pairs Eva Noxious's independent hip-hop—drawing on classic hip-hop and G-funk—with Santiago Salazar's expansive, soulful DJ sets that move through Latin house, hi‑tech jazz, Detroit techno, electro and ghetto tech. Also featured are three6sashia, an Oakland vinyl DJ who folds jazz and international sounds into groove-driven sets, and LA-based producer/DJ Yessi, whose practice spans production, composition and sound design.",
         "promoter": "",
         "price": "20.00",
-        "tags": [],
+        "tags": [
+          "hip-hop",
+          "g-funk",
+          "house",
+          "techno",
+          "dj",
+          "live"
+        ],
         "sources": [
           "https://ra.co/events/2587644"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://ra.co/events/2587644"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=2419%20N%20Broadway%2C%20Los%20Angeles%2C%20CA%2090036",
           "apple": "https://maps.apple.com/?q=2419%20N%20Broadway%2C%20Los%20Angeles%2C%20CA%2090036"
@@ -1872,7 +1923,7 @@
         "image": "https://images.ra.co/1219525d74c9a43ca3a28a3f3da545a95143ffb6.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true,
         "lineup": [
           {
@@ -3046,21 +3097,26 @@
         "id": "2026-12-14-sports-2026-pickleball-lovers-join-ou-4bd6bc",
         "eid": "2026-pickleball-lovers-j-6077",
         "track": "sports",
-        "category": "",
+        "category": "Sports",
         "name": "2026 Pickleball Lovers!! Join Our Weekend \"Social Dinkers\" Pickleball Community!",
         "day": "Sat",
         "date": "2026-12-19",
         "time": "08:00",
-        "start": null,
-        "end": null,
+        "start": "08:00",
+        "end": "14:00",
         "area": "Los Angeles",
         "venue": "6333 W 3rd St, Los Angeles, CA 90036, 6333 W 3rd St, Los Angeles, CA 90036",
         "address": "6333 W 3rd St, Los Angeles, CA 90036, Los Angeles, Ca",
-        "why": "",
-        "summary": "",
+        "why": "Rotating-partner, social-first format with beginner-friendly guides and post-game meetups.",
+        "summary": "A relaxed, beginner-friendly pickleball mixer that uses short, easygoing matches and rotating partners to help people meet; friendly players and guides are on hand to show newcomers the basics. Play is followed by a nearby post-game social, and specific court locations are shared with confirmed attendees rather than publicized in advance.",
         "promoter": "",
         "price": "Free",
-        "tags": [],
+        "tags": [
+          "sports",
+          "outdoor",
+          "social",
+          "beginner-friendly"
+        ],
         "sources": [
           "https://www.meetup.com/meetup-group-axugemky/events/316423169/"
         ],
@@ -3075,7 +3131,7 @@
         "image": "https://secure.meetupstatic.com/photos/event/6/d/1/d/highres_534687933.jpeg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
