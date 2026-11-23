@@ -2676,7 +2676,7 @@
         "id": "2026-12-14-music-chrisette-michele-a-holiday-ce-acf1e4",
         "eid": "chrisette-michele-a-holi-122b",
         "track": "music",
-        "category": "",
+        "category": "Concert",
         "name": "Chrisette Michele: A Holiday Celebration",
         "day": "Sun",
         "date": "2026-12-20",
@@ -2686,11 +2686,16 @@
         "area": "Los Angeles",
         "venue": "Blue Note Los Angeles",
         "address": "",
-        "why": "",
-        "summary": "",
+        "why": "Seasonal repertoire presented in an intimate dinner-show format.",
+        "summary": "Chrisette Michele presents a holiday-themed concert — an evening billed as a festive celebration of seasonal music and arrangements.",
         "promoter": "",
-        "price": "",
-        "tags": [],
+        "price": "$20 minimum per person (tickets via TicketWeb)",
+        "tags": [
+          "holiday",
+          "live",
+          "dinner",
+          "indoor"
+        ],
         "sources": [
           "https://www.bluenote.net/losangeles/",
           "https://www.bluenotejazz.com/la/tm-event/chrisette-michele-a-holiday-celebration/"
@@ -2706,32 +2711,38 @@
         "image": "https://i.ticketweb.com/i/00/13/06/68/54_Original.jpg?v=5",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
         "id": "2026-12-14-music-glow-in-the-dark-b3b698",
         "eid": "glow-in-the-dark-ca9d",
         "track": "music",
-        "category": "",
+        "category": "Nightclub",
         "name": "Glow in the Dark",
         "day": "Sun",
         "date": "2026-12-20",
         "time": "20:00",
-        "start": null,
-        "end": null,
-        "area": "Los Angeles",
+        "start": "20:00",
+        "end": "02:00",
+        "area": "Downtown LA",
         "venue": "The Redwood Bar And Grill",
         "address": "316 W. 2nd Street, Los Angeles, CA  90012",
         "why": "",
-        "summary": "",
+        "summary": "An electronic-music night centered on dancefloor-focused DJ sets.",
         "promoter": "",
         "price": "$10",
-        "tags": [],
+        "tags": [
+          "electronic",
+          "dj",
+          "dance"
+        ],
         "sources": [
           "https://ra.co/events/2580224"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://ra.co/events/2580224"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=The%20Redwood%20Bar%20And%20Grill%2C%20Los%20Angeles",
           "apple": "https://maps.apple.com/?q=The%20Redwood%20Bar%20And%20Grill%2C%20Los%20Angeles"
@@ -2742,7 +2753,7 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
@@ -2754,20 +2765,29 @@
         "day": "Sun",
         "date": "2026-12-20",
         "time": "20:00",
-        "start": null,
-        "end": null,
-        "area": "Los Angeles",
+        "start": "20:00",
+        "end": "02:00",
+        "area": "DTLA",
         "venue": "The Redwood Bar And Grill",
         "address": "316 W. 2nd Street, Los Angeles, CA  90012",
-        "why": "",
-        "summary": "",
+        "why": "A cheap, no-frills Sunday gig at one of downtown's most loved punk and rock dives.",
+        "summary": "Pouty plays a Sunday-night show at The Redwood Bar and Grill, the long-running DTLA dive on 2nd Street. Doors at 8 PM, 21+, $10 at the door.",
         "promoter": "",
         "price": "$10 · 21+",
-        "tags": [],
+        "tags": [
+          "live",
+          "music",
+          "live-music",
+          "dive-bar",
+          "dtla",
+          "21+"
+        ],
         "sources": [
           "https://ra.co/events/2591187"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://ra.co/events/2591187"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=The%20Redwood%20Bar%20And%20Grill%2C%20Los%20Angeles",
           "apple": "https://maps.apple.com/?q=The%20Redwood%20Bar%20And%20Grill%2C%20Los%20Angeles"
@@ -2775,34 +2795,40 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
-        "image_generated": false,
+        "image": "https://api.party-scout.app/img/los-angeles/2026-12-14/pouty-b607.jpg",
+        "image_generated": true,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
         "id": "2026-12-14-music-shaun-cassidy-unwrapped-songs-8edda0",
         "eid": "shaun-cassidy-unwrapped-3e68",
         "track": "music",
-        "category": "",
+        "category": "Concert",
         "name": "Shaun Cassidy - Unwrapped: Songs & Stories for the Holidays",
         "day": "Sun",
         "date": "2026-12-20",
         "time": "7pm",
         "start": "19:00",
         "end": null,
-        "area": "Los Angeles",
+        "area": "Koreatown",
         "venue": "The Wiltern",
         "address": "3790 Wilshire Blvd., Los Angeles, CA 90010",
         "why": "",
         "summary": "",
         "promoter": "",
-        "price": "",
-        "tags": [],
+        "price": "From ~$42 (resale listings; check Ticketmaster for face value)",
+        "tags": [
+          "holiday",
+          "live",
+          "acoustic",
+          "singer-songwriter"
+        ],
         "sources": [
           "https://www.wiltern.com/shows",
-          "https://www.ticketmaster.com/shaun-cassidy-unwrapped-songs-stories-for-los-angeles-california-12-20-2026/event/090064F1CC72F13B"
+          "https://www.ticketmaster.com/shaun-cassidy-unwrapped-songs-stories-for-los-angeles-california-12-20-2026/event/090064F1CC72F13B",
+          "https://www.eventworld.com/shaun-cassidy-los-angeles-tickets-12-20-2026/event/516344"
         ],
         "tickets": [],
         "maps": {
@@ -2815,7 +2841,7 @@
         "image": "https://s1.ticketm.net/dam/a/f22/1dd60ddf-4e16-4985-bfdc-b5c616b7ef22_TABLET_LANDSCAPE_LARGE_16_9.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
