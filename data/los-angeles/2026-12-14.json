@@ -559,7 +559,7 @@
         "id": "2026-12-14-music-gretchen-parlato-with-gerald-c-aefa73",
         "eid": "gretchen-parlato-with-ge-243a",
         "track": "music",
-        "category": "",
+        "category": "Concert",
         "name": "Gretchen Parlato with Gerald Clayton, Alan Hampton & Mark Guiliana",
         "day": "Mon",
         "date": "2026-12-14",
@@ -572,13 +572,21 @@
         "why": "",
         "summary": "",
         "promoter": "",
-        "price": "",
-        "tags": [],
+        "price": "$20 minimum per person",
+        "tags": [
+          "jazz",
+          "vocal",
+          "piano",
+          "drums",
+          "live"
+        ],
         "sources": [
           "https://www.bluenote.net/losangeles/",
           "https://www.bluenotejazz.com/la/tm-event/gretchen-parlato/"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://www.bluenotejazz.com/la/tm-event/gretchen-parlato/"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Blue%20Note%20Los%20Angeles%2C%20Los%20Angeles",
           "apple": "https://maps.apple.com/?q=Blue%20Note%20Los%20Angeles%2C%20Los%20Angeles"
@@ -586,35 +594,44 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/los-angeles/2026-12-14/gretchen-parlato-with-ge-243a.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
         "id": "2026-12-14-music-jason-achilles-c2f475",
         "eid": "jason-achilles-be50",
         "track": "music",
-        "category": "",
+        "category": "Concert",
         "name": "Jason Achilles",
         "day": "Mon",
         "date": "2026-12-14",
         "time": "20:00",
-        "start": null,
-        "end": null,
-        "area": "Los Angeles",
+        "start": "20:00",
+        "end": "02:00",
+        "area": "DTLA",
         "venue": "The Redwood Bar And Grill",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "316 W. 2nd Street, Los Angeles, CA  90012",
+        "why": "A low-key downtown dive-bar night with live music, easy to pair with dinner nearby.",
+        "summary": "Jason Achilles plays The Redwood Bar and Grill in downtown LA, a Monday night set running from 8pm until 2am.",
         "promoter": "",
         "price": "",
-        "tags": [],
+        "tags": [
+          "live",
+          "music",
+          "bar",
+          "live-music",
+          "dive-bar",
+          "dtla"
+        ],
         "sources": [
           "https://ra.co/events/2580220"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://ra.co/events/2580220"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=The%20Redwood%20Bar%20And%20Grill%2C%20Los%20Angeles",
           "apple": "https://maps.apple.com/?q=The%20Redwood%20Bar%20And%20Grill%2C%20Los%20Angeles"
@@ -625,14 +642,14 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
         "id": "2026-12-14-music-ana-gasteyer-sugar-booze-holid-a7baaf",
         "eid": "ana-gasteyer-sugar-booze-48e5",
         "track": "music",
-        "category": "",
+        "category": "Concert",
         "name": "Ana Gasteyer: Sugar & Booze Holiday Spectacular",
         "day": "Tue",
         "date": "2026-12-15",
@@ -642,11 +659,19 @@
         "area": "Los Angeles",
         "venue": "Blue Note Los Angeles",
         "address": "",
-        "why": "",
-        "summary": "",
+        "why": "A comedic, boozy holiday show from the SNL alum in an intimate jazz-club room, with dinner and drinks at your table.",
+        "summary": "Ana Gasteyer brings her holiday cabaret to Blue Note Los Angeles with two shows on Tuesday, Dec 15 (7 PM and 9:30 PM). Full bar and dinner menu; seating is first come, first served.",
         "promoter": "",
-        "price": "",
-        "tags": [],
+        "price": "$20 minimum per person",
+        "tags": [
+          "live",
+          "jazz",
+          "holiday",
+          "cabaret",
+          "comedy",
+          "live-music",
+          "dinner-show"
+        ],
         "sources": [
           "https://www.bluenote.net/losangeles/",
           "https://www.bluenotejazz.com/la/tm-event/ana-gasteyer-sugar-booze-holiday-spectacular/"
@@ -659,10 +684,10 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/los-angeles/2026-12-14/ana-gasteyer-sugar-booze-48e5.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
@@ -2546,21 +2571,30 @@
         "id": "2026-12-14-sports-dtla-running-group-1d5fc4",
         "eid": "dtla-running-group-5391",
         "track": "sports",
-        "category": "",
+        "category": "Sports",
         "name": "DTLA Running Group",
         "day": "Tue",
         "date": "2026-12-15",
         "time": "19:00",
         "start": null,
         "end": null,
-        "area": "Los Angeles",
+        "area": "DTLA",
         "venue": "The Bloc (7th St between Flower and Hope)",
         "address": "",
-        "why": "",
-        "summary": "",
+        "why": "An easy way to meet other runners and see downtown on foot after work.",
+        "summary": "Weekly evening group run from The Bloc in downtown LA, organized through the DTLA Running Group Strava club.",
         "promoter": "",
         "price": "",
-        "tags": [],
+        "tags": [
+          "free",
+          "outdoor",
+          "running",
+          "fitness",
+          "community",
+          "group run",
+          "downtown",
+          "social"
+        ],
         "sources": [
           "https://www.strava.com/clubs/dtlarunning"
         ],
@@ -2575,28 +2609,33 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
         "id": "2026-12-14-sports-griffith-park-hike-to-vista-vi-c0a60c",
         "eid": "griffith-park-hike-to-vi-e50e",
         "track": "sports",
-        "category": "",
+        "category": "Sports",
         "name": "Griffith Park Hike to Vista View Point- Moderate",
         "day": "Tue",
         "date": "2026-12-15",
         "time": "18:30",
-        "start": null,
-        "end": null,
+        "start": "18:30",
+        "end": "20:30",
         "area": "Los Angeles",
         "venue": "Griffith Park Merry Go Round Lot 2, Merry Go Round Lot Two",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "Merry Go Round Lot Two, LOS ANGELES, CA",
+        "why": "Uses a back-route through Beacon and Fern Canyon for viewpoint access and fewer crowds.",
+        "summary": "A moderate 4.5-mile hike with about 1,200 ft of elevation gain out to Vista View Point, following the Lower Beacon to Coolidge to Upper Beacon trails and returning via Fern Canyon; the walk is planned to take roughly two hours at a steady, non-competitive pace.",
         "promoter": "",
-        "price": "",
-        "tags": [],
+        "price": "Free",
+        "tags": [
+          "hiking",
+          "outdoor",
+          "free",
+          "moderate"
+        ],
         "sources": [
           "https://www.meetup.com/los-angeles-hiking-group/events/317544673/"
         ],
@@ -2608,10 +2647,10 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/los-angeles/2026-12-14/griffith-park-hike-to-vi-e50e.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
