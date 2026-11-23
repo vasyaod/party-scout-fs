@@ -4476,21 +4476,29 @@
         "id": "2026-12-07-music-robert-glasper-holiday-residen-50f85d",
         "eid": "robert-glasper-holiday-r-5d37",
         "track": "music",
-        "category": "",
+        "category": "Concert",
         "name": "Robert Glasper: Holiday Residency",
         "day": "Sat",
         "date": "2026-12-12",
         "time": "19:00",
         "start": null,
         "end": null,
-        "area": "",
+        "area": "Hollywood",
         "venue": "Blue Note Los Angeles",
         "address": "",
-        "why": "",
-        "summary": "",
+        "why": "Glasper blends jazz, R&B and hip-hop, and an intimate club room is the best way to catch him.",
+        "summary": "Pianist and producer Robert Glasper brings his holiday residency to Blue Note Los Angeles, with an early show at 7 PM.",
         "promoter": "",
-        "price": "",
-        "tags": [],
+        "price": "$20 minimum per person (plus tickets)",
+        "tags": [
+          "jazz",
+          "r&b",
+          "live",
+          "residency",
+          "live-music",
+          "seated",
+          "dinner"
+        ],
         "sources": [
           {
             "url": "https://www.bluenotejazz.com/la/tm-event/robert-glasper-holiday-residency/",
@@ -4506,30 +4514,39 @@
         "coords_precise": false,
         "ra": {},
         "image": "https://api.party-scout.app/img/los-angeles/2026-12-07/robert-glasper-holiday-r-5d37.jpg",
-        "image_generated": true,
+        "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
         "id": "2026-12-07-music-robert-glasper-holiday-residen-3b38b3",
         "eid": "robert-glasper-holiday-r-4946",
         "track": "music",
-        "category": "",
+        "category": "Concert",
         "name": "Robert Glasper: Holiday Residency",
         "day": "Sun",
         "date": "2026-12-13",
         "time": "19:00",
         "start": null,
         "end": null,
-        "area": "",
+        "area": "Hollywood",
         "venue": "Blue Note Los Angeles",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "6801 Hollywood Blvd, Los Angeles, CA 90028",
+        "why": "A rare chance to see a genre-blurring Grammy winner up close at an intimate jazz club in Hollywood.",
+        "summary": "Pianist and producer Robert Glasper brings his holiday residency to Blue Note Los Angeles for a Sunday-night set. Expect jazz, R&B and hip-hop influences in an intimate dinner-club room.",
         "promoter": "",
-        "price": "",
-        "tags": [],
+        "price": "$20 minimum per person (plus tickets)",
+        "tags": [
+          "jazz",
+          "r&b",
+          "live",
+          "holiday",
+          "residency",
+          "live-music",
+          "hollywood",
+          "dinner-show"
+        ],
         "sources": [
           {
             "url": "https://www.bluenotejazz.com/la/tm-event/robert-glasper-holiday-residency/",
@@ -4545,9 +4562,9 @@
         "coords_precise": false,
         "ra": {},
         "image": "https://api.party-scout.app/img/los-angeles/2026-12-07/robert-glasper-holiday-r-4946.jpg",
-        "image_generated": true,
+        "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
@@ -5919,26 +5936,32 @@
         "name": "Holiday Fun 5k, 10k, 15k, Half Marathon",
         "day": "Sat",
         "date": "2026-12-12",
-        "time": "",
-        "start": null,
+        "time": "7:30 AM",
+        "start": "07:30",
         "end": null,
-        "area": "Los Angeles",
-        "venue": "Los Angeles",
-        "address": "",
-        "why": "Multiple looped distances with aid stations every loop and finisher medals.",
-        "summary": "A holiday-themed, family-friendly running event offering 5K, 10K, 15K and half-marathon distances with looped courses, on-course aid stations, finisher medals, live results and free photos.",
-        "promoter": "",
-        "price": "",
+        "area": "Van Nuys",
+        "venue": "Woodley Park, Lake Balboa",
+        "address": "Woodley Park, Lake Balboa, Van Nuys, CA",
+        "why": "A festive, low-key Saturday-morning race with a medal and snacks, and group discounts for three or more people.",
+        "summary": "A holiday-themed 5K, 10K, 15K and half marathon at Woodley Park in Lake Balboa, open to runners and walkers of every level. Every entry gets a custom finisher medal, goodie bag and free race photos.",
+        "promoter": "A Better World Running",
+        "price": "$35–$50",
         "tags": [
           "running",
           "outdoor",
           "family",
-          "race"
+          "race",
+          "holiday",
+          "family-friendly",
+          "outdoors"
         ],
         "sources": [
-          "https://www.runguides.com/event/35705/holiday-fun-5k-10k-15k-half-marathon"
+          "https://www.runguides.com/event/35705/holiday-fun-5k-10k-15k-half-marathon",
+          "https://www.abetterworldrunning.com/holiday-fun-12-12-26-vn"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://www.abetterworldrunning.com/holiday-fun-12-12-26-vn"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Los%20Angeles",
           "apple": "https://maps.apple.com/?q=Los%20Angeles"
@@ -5947,7 +5970,7 @@
         "coords_precise": false,
         "ra": {},
         "image": "https://api.party-scout.app/img/los-angeles/2026-12-07/holiday-fun-5k-10k-15k-h-993b.jpg",
-        "image_generated": true,
+        "image_generated": false,
         "popularity": 0,
         "enriched": 1,
         "active": true
@@ -5956,23 +5979,30 @@
         "id": "2026-12-07-sports-run-for-breast-cancer-5k-10k-1-67d813",
         "eid": "run-for-breast-cancer-5k-a9b6",
         "track": "sports",
-        "category": "",
+        "category": "Sports",
         "name": "Run for Breast Cancer 5K/10K/13.1 - Los Angeles",
         "day": "Sat",
         "date": "2026-12-12",
-        "time": "",
+        "time": "7:30 AM & 10:30 AM waves",
         "start": null,
         "end": null,
-        "area": "",
+        "area": "Santa Monica",
         "venue": "Santa Monica",
         "address": "",
-        "why": "",
-        "summary": "",
+        "why": "Multi-distance charity run raising funds and awareness for breast cancer.",
+        "summary": "A community charity run offering 5K, 10K and 13.1-mile half‑marathon distances, plus a family 1‑mile fun run, virtual option and an eco/no‑shirt registration. The event aims to raise awareness and funds to support those affected by breast cancer and emphasizes community and inspiration.",
         "promoter": "",
-        "price": "",
-        "tags": [],
+        "price": "$33–$49",
+        "tags": [
+          "outdoor",
+          "charity",
+          "run",
+          "family",
+          "virtual"
+        ],
         "sources": [
-          "https://www.runguides.com/event/35618/run-for-breast-cancer-5k-10k-131-los-angeles"
+          "https://www.runguides.com/event/35618/run-for-breast-cancer-5k-10k-131-los-angeles",
+          "https://runsignup.com/Race/CA/LosAngeles/DecemberRunForBreastCancer5K10KLOSANGELES"
         ],
         "tickets": [],
         "maps": {
@@ -5985,32 +6015,44 @@
         "image": "https://api.party-scout.app/img/los-angeles/2026-12-07/run-for-breast-cancer-5k-a9b6.jpg",
         "image_generated": true,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
         "id": "2026-12-07-sports-santa-s-toy-trot-38d27f",
         "eid": "santa-s-toy-trot-5ca8",
         "track": "sports",
-        "category": "",
+        "category": "Sports",
         "name": "Santa's Toy Trot",
         "day": "Sun",
         "date": "2026-12-13",
-        "time": "",
-        "start": null,
+        "time": "7:00 AM",
+        "start": "07:00",
         "end": null,
-        "area": "",
-        "venue": "Santa Monica",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "area": "Santa Monica",
+        "venue": "Tongva Park",
+        "address": "1615 Ocean Ave, Santa Monica, CA 90401",
+        "why": "Low-pressure holiday run with a toy drive, and an easy 5K option for casual joggers.",
+        "summary": "Festive 5K, 10K and half-marathon along the Santa Monica beach path, starting at Tongva Park. Bring an unwrapped new toy for the toy drive.",
         "promoter": "",
-        "price": "",
-        "tags": [],
-        "sources": [
-          "https://www.runguides.com/event/28772/santas-toy-trot"
+        "price": "$23–$36",
+        "tags": [
+          "run",
+          "5k",
+          "10k",
+          "half marathon",
+          "charity",
+          "outdoor",
+          "running",
+          "holiday"
         ],
-        "tickets": [],
+        "sources": [
+          "https://www.runguides.com/event/28772/santas-toy-trot",
+          "https://runsignup.com/Race/CA/LongBeach/SantasToyTrot5K10K15KandHalfMarathon"
+        ],
+        "tickets": [
+          "https://runsignup.com/Race/CA/LongBeach/SantasToyTrot5K10K15KandHalfMarathon"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=Santa%20Monica",
           "apple": "https://maps.apple.com/?q=Santa%20Monica"
@@ -6018,10 +6060,10 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/los-angeles/2026-12-07/santa-s-toy-trot-5ca8.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       }
     ]
