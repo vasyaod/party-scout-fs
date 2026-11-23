@@ -5,7 +5,7 @@
   "location": "San Francisco & Bay Area",
   "city": "san-francisco",
   "city_label": "San Francisco",
-  "generated_at": "2026-11-16",
+  "generated_at": "2026-11-23",
   "tracks": {
     "music": [
       {
@@ -202,11 +202,15 @@
           "https://dothebay.com/events/2026/11/23/gary-numan-tickets",
           "https://www.theregencyballroom.com/events/detail?event_id=1423298",
           "https://sf.funcheap.com/gary-numan/",
-          "https://www.theregencyballroom.com/shows",
+          {
+            "url": "https://www.theregencyballroom.com/shows",
+            "hidden": true
+          },
           {
             "url": "https://dothebay.com/events",
             "hidden": true
-          }
+          },
+          "https://www.axs.com/events/1423298/gary-numan-tickets?cid=afffboea"
         ],
         "tickets": [],
         "maps": {
@@ -230,11 +234,11 @@
         "name": "Pedro the Lion",
         "day": "Mon",
         "date": "2026-11-23",
-        "time": "7:30PM",
+        "time": "20:30",
         "start": "19:30",
         "end": null,
         "area": "San Francisco",
-        "venue": "Bottom Of The Hill",
+        "venue": "Bottom of the Hill",
         "address": "1233 17th Street, San Francisco, CA 94107",
         "why": "A rare intimate club show from one of indie rock's most quietly radical songwriters, in a room that holds a few hundred.",
         "summary": "Pedro the Lion, David Bazan's long-running indie rock project, plays Bottom Of The Hill with Karli Fairbanks opening.",
@@ -251,7 +255,11 @@
         ],
         "sources": [
           "https://dothebay.com/events/2026/11/23/pedro-the-lion-tickets",
-          "http://www.bottomofthehill.com/dice/event20261123.html"
+          "http://www.bottomofthehill.com/dice/event20261123.html",
+          {
+            "url": "https://bottomofthehill.com/calendar.html",
+            "hidden": true
+          }
         ],
         "tickets": [
           "http://www.bottomofthehill.com/dice/event20261123.html"
@@ -264,7 +272,7 @@
         "coords_precise": false,
         "ra": {},
         "image": "https://api.party-scout.app/img/san-francisco/2026-11-23/pedro-the-lion-0b18.jpg",
-        "image_generated": false,
+        "image_generated": true,
         "popularity": 0,
         "enriched": 1,
         "active": true
@@ -1566,7 +1574,8 @@
           "nightlife"
         ],
         "sources": [
-          "https://sf.funcheap.com/1-drink-fridays-battle-of-the-decades-dj-party-north-beach-265/"
+          "https://sf.funcheap.com/1-drink-fridays-battle-of-the-decades-dj-party-north-beach-265/",
+          "https://sf.funcheap.com/2026/11/27/"
         ],
         "tickets": [],
         "maps": {
@@ -1590,7 +1599,7 @@
         "name": "Amtrac",
         "day": "Fri",
         "date": "2026-11-27",
-        "time": "8:00PM",
+        "time": "20:00",
         "start": "20:00",
         "end": null,
         "area": "San Francisco",
@@ -1707,7 +1716,7 @@
         "why": "To attend a lively San Francisco nightlife event and connect with the local scene.",
         "summary": "Black Ass Weekend 2026 takes place in San Francisco on November 27, 2026.",
         "promoter": "",
-        "price": "$ 20.00 - $ 135.00",
+        "price": "$20-$130",
         "tags": [
           "nightlife",
           "party"
@@ -2298,9 +2307,15 @@
           "live"
         ],
         "sources": [
-          "https://www.tixr.com/groups/publicsf/events/skream-presented-by-goldenvoice-206151",
+          {
+            "url": "https://www.tixr.com/groups/publicsf/events/skream-presented-by-goldenvoice-206151",
+            "hidden": true
+          },
           "https://ra.co/events/2538258",
-          "https://dothebay.com/events/2026/11/27/skream-presented-by-goldenvoice-tickets",
+          {
+            "url": "https://dothebay.com/events/2026/11/27/skream-presented-by-goldenvoice-tickets",
+            "hidden": true
+          },
           {
             "url": "https://19hz.info/eventlisting_BayArea.php",
             "hidden": true
@@ -2481,7 +2496,7 @@
         "name": "DeVault",
         "day": "Sat",
         "date": "2026-11-28",
-        "time": "9:00PM",
+        "time": "21:00",
         "start": "21:00",
         "end": null,
         "area": "San Francisco",
@@ -2991,7 +3006,10 @@
           "nightlife"
         ],
         "sources": [
-          "https://dice.fm/event/dkox3q-mandragora-28th-nov-halcyon-sf-san-francisco-tickets",
+          {
+            "url": "https://dice.fm/event/dkox3q-mandragora-28th-nov-halcyon-sf-san-francisco-tickets",
+            "hidden": true
+          },
           "https://halcyon-sf.com/main/tickets/#mandragora-2026-11-28",
           "https://link.dice.fm/J2f165f253fe?pid=d6c08999",
           "https://ra.co/events/2571287",
@@ -3477,7 +3495,7 @@
         "name": "Vessbroz",
         "day": "Sat",
         "date": "2026-11-28",
-        "time": "10:00PM",
+        "time": "22:00",
         "start": "22:00",
         "end": null,
         "area": "San Francisco",
@@ -4390,7 +4408,7 @@
         "name": "Gems! The Bay's Best Throwback Party",
         "day": "Fri",
         "date": "2026-11-27",
-        "time": "10:00PM",
+        "time": "22:00",
         "start": "22:00",
         "end": null,
         "area": "San Francisco",
@@ -4407,7 +4425,8 @@
           "nightlife"
         ],
         "sources": [
-          "https://dothebay.com/events/2026/11/27/gems-the-bay-s-best-throwback-party-tickets"
+          "https://dothebay.com/events/2026/11/27/gems-the-bay-s-best-throwback-party-tickets",
+          "https://dothebay.com/events/2026/11/27"
         ],
         "tickets": [],
         "maps": {
@@ -4418,7 +4437,7 @@
         "coords_precise": false,
         "ra": {},
         "image": "https://api.party-scout.app/img/san-francisco/2026-11-23/gems-the-bay-s-best-thro-99c1.jpg",
-        "image_generated": false,
+        "image_generated": true,
         "popularity": 0,
         "enriched": 1,
         "active": true
@@ -4598,7 +4617,8 @@
           {
             "url": "https://www.instagram.com/barparttime/p/DfXdjOXO_7n/",
             "hidden": true
-          }
+          },
+          "https://ra.co/events/2585919"
         ],
         "tickets": [],
         "maps": {
@@ -4995,7 +5015,7 @@
         "name": "Official Gary Numan After Party",
         "day": "Mon",
         "date": "2026-11-23",
-        "time": "9:30PM",
+        "time": "21:30",
         "start": "21:30",
         "end": "23:00",
         "area": "San Francisco",
@@ -5014,7 +5034,8 @@
         ],
         "sources": [
           "https://dothebay.com/events/2026/11/23/official-gary-numan-after-party-tickets",
-          "https://sf.funcheap.com/gary-numan/"
+          "https://sf.funcheap.com/gary-numan/",
+          "https://dothebay.com/events/2026/11/23"
         ],
         "tickets": [],
         "maps": {
@@ -5025,7 +5046,7 @@
         "coords_precise": false,
         "ra": {},
         "image": "https://api.party-scout.app/img/san-francisco/2026-11-23/official-gary-numan-afte-05d8.jpg",
-        "image_generated": false,
+        "image_generated": true,
         "popularity": 0,
         "enriched": 1,
         "active": true
@@ -5067,11 +5088,21 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "https://api.party-scout.app/img/san-francisco/2026-11-23/interzone-darkwave-tuesd-fff4.jpg",
+        "image": "https://images.ra.co/dd77081695c133fe7dfc0685e16eb190541766a7.jpg",
         "image_generated": false,
         "popularity": 0,
         "enriched": 1,
-        "active": true
+        "active": true,
+        "lineup": [
+          {
+            "name": "Hex Embrace",
+            "instagram": null
+          },
+          {
+            "name": "Byter",
+            "instagram": null
+          }
+        ]
       },
       {
         "id": "2026-11-23-music-joe-klocek-friends-bce9d6",
@@ -5836,11 +5867,21 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "https://api.party-scout.app/img/san-francisco/2026-11-23/salty-residency-friendsg-db0f.jpg",
+        "image": "https://images.ra.co/8fb62bb019569d4971a966470ccda7ce8f324091.png",
         "image_generated": false,
         "popularity": 0,
         "enriched": 1,
-        "active": true
+        "active": true,
+        "lineup": [
+          {
+            "name": "Tamer_1oc",
+            "instagram": null
+          },
+          {
+            "name": "DeepMilk",
+            "instagram": null
+          }
+        ]
       },
       {
         "id": "2026-11-23-music-steve-furey-865493",
@@ -6048,7 +6089,7 @@
         "name": "Euphoria - An EDM Tribute Party: Mikey Tan",
         "day": "Sat",
         "date": "2026-11-28",
-        "time": "",
+        "time": "22:00",
         "start": null,
         "end": null,
         "area": "SoMa",
@@ -6065,7 +6106,8 @@
           "nightclub"
         ],
         "sources": [
-          "https://edmtrain.com/san-francisco-ca/euphoria-an-edm-tribute-party-mikey-tan-552029"
+          "https://edmtrain.com/san-francisco-ca/euphoria-an-edm-tribute-party-mikey-tan-552029",
+          "https://www.tixr.com/groups/templesf/events/euphoria-an-edm-tribute-party-w-mikey-tan-214443"
         ],
         "tickets": [],
         "maps": {
@@ -6461,11 +6503,21 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "https://api.party-scout.app/img/san-francisco/2026-11-23/future-perfect-8b40.jpg",
+        "image": "https://images.ra.co/3ace4906cfd8b7eed7fa430ee23824fb2675d23d.jpg",
         "image_generated": false,
         "popularity": 0,
         "enriched": 1,
-        "active": true
+        "active": true,
+        "lineup": [
+          {
+            "name": "Entropy Worship",
+            "instagram": null
+          },
+          {
+            "name": "SeaSluxx",
+            "instagram": null
+          }
+        ]
       },
       {
         "id": "2026-11-23-music-ravi-shankar-chants-of-india-b0e130",
@@ -6507,6 +6559,670 @@
         "image_generated": false,
         "popularity": 0,
         "enriched": 1,
+        "active": true
+      },
+      {
+        "id": "2026-11-23-music-wtf-jessika-green-butterflies-1a58d8",
+        "eid": "wtf-jessika-green-butter-0f71",
+        "track": "music",
+        "category": "",
+        "name": "Wtf: Jessika, Green Butterflies, Puppet, Finishher",
+        "day": "Tue",
+        "date": "2026-11-24",
+        "time": "20:00",
+        "start": null,
+        "end": null,
+        "area": "San Francisco",
+        "venue": "The STUD",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "",
+        "tags": [],
+        "sources": [
+          "https://www.instagram.com/trowftd/p/Df3UOR2u74K/"
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=The%20STUD%2C%20San%20Francisco",
+          "apple": "https://maps.apple.com/?q=The%20STUD%2C%20San%20Francisco"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-11-23-music-bassgiving-e5d57d",
+        "eid": "bassgiving-0279",
+        "track": "music",
+        "category": "",
+        "name": "Bassgiving",
+        "day": "Wed",
+        "date": "2026-11-25",
+        "time": "",
+        "start": null,
+        "end": null,
+        "area": "San Francisco",
+        "venue": "The Great Northern",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "",
+        "tags": [],
+        "sources": [
+          "https://edmtrain.com/san-francisco-ca/bassgiving-555187"
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=The%20Great%20Northern%2C%20San%20Francisco",
+          "apple": "https://maps.apple.com/?q=The%20Great%20Northern%2C%20San%20Francisco"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-11-23-music-karaoke-night-4c981a",
+        "eid": "karaoke-night-85f3",
+        "track": "music",
+        "category": "",
+        "name": "Karaoke Night",
+        "day": "Wed",
+        "date": "2026-11-25",
+        "time": "21:00",
+        "start": null,
+        "end": null,
+        "area": "San Francisco",
+        "venue": "Club 1220",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "",
+        "tags": [],
+        "sources": [
+          "https://dothebay.com/events/2026/11/25"
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=Club%201220%2C%20San%20Francisco",
+          "apple": "https://maps.apple.com/?q=Club%201220%2C%20San%20Francisco"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-11-23-music-monarch-sf-15-year-anniversary-b0a0ff",
+        "eid": "monarch-sf-15-year-anniv-5435",
+        "track": "music",
+        "category": "",
+        "name": "Monarch SF 15 YEAR ANNIVERSARY: Joshua Iz, DJ M3, 3kelves, Mr. Matias+more",
+        "day": "Wed",
+        "date": "2026-11-25",
+        "time": "20:00",
+        "start": null,
+        "end": null,
+        "area": "San Francisco",
+        "venue": "Monarch",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "",
+        "tags": [],
+        "sources": [
+          "https://ra.co/events/2589612"
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=Monarch%2C%20San%20Francisco",
+          "apple": "https://maps.apple.com/?q=Monarch%2C%20San%20Francisco"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-11-23-music-spudsgiving-2-thanksgiving-eve-665a46",
+        "eid": "spudsgiving-2-thanksgivi-23eb",
+        "track": "music",
+        "category": "",
+        "name": "SpudsGiving 2: Thanksgiving Eve Free Baked Potato Bar + Vinyl DJs",
+        "day": "Wed",
+        "date": "2026-11-25",
+        "time": "20:00",
+        "start": null,
+        "end": null,
+        "area": "San Francisco",
+        "venue": "St Mary's Pub",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "",
+        "tags": [],
+        "sources": [
+          "https://sf.funcheap.com/2026/11/25/"
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=St%20Mary%27s%20Pub%2C%20San%20Francisco",
+          "apple": "https://maps.apple.com/?q=St%20Mary%27s%20Pub%2C%20San%20Francisco"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-11-23-music-the-annual-thanksgiving-night-f22f33",
+        "eid": "the-annual-thanksgiving-a34a",
+        "track": "music",
+        "category": "",
+        "name": "The Annual Thanksgiving Night Party - Nile, Hidra, Navii, Alex Goodcat, Mode Leeloo, Jdirra, Hnydew",
+        "day": "Thu",
+        "date": "2026-11-26",
+        "time": "21:00",
+        "start": null,
+        "end": null,
+        "area": "San Francisco",
+        "venue": "F8 1192 Folsom",
+        "address": "1192 Folsom St, San Francisco, CA 94103",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "0-15",
+        "tags": [],
+        "sources": [
+          {
+            "url": "https://ra.co/events/2585567",
+            "hidden": true
+          }
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=1192%20Folsom%20St%2C%20San%20Francisco%2C%20CA%2094103",
+          "apple": "https://maps.apple.com/?q=1192%20Folsom%20St%2C%20San%20Francisco%2C%20CA%2094103"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "https://images.ra.co/34fa91e717b85e5e6dabf7c38d0ea92b63274f61.png",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true,
+        "lineup": [
+          {
+            "name": "HIDRA",
+            "instagram": null
+          },
+          {
+            "name": "ALEX GOODCAT",
+            "instagram": null
+          },
+          {
+            "name": "Mode Leeloo",
+            "instagram": null
+          }
+        ]
+      },
+      {
+        "id": "2026-11-23-music-amtrac-seb-wildblood-f8bd17",
+        "eid": "amtrac-seb-wildblood-14ee",
+        "track": "music",
+        "category": "",
+        "name": "Amtrac & Seb Wildblood",
+        "day": "Fri",
+        "date": "2026-11-27",
+        "time": "22:00",
+        "start": null,
+        "end": null,
+        "area": "San Francisco",
+        "venue": "The Great Northern",
+        "address": "119 Utah St, San Francisco, CA 94103",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "$34.76 - 40.91",
+        "tags": [],
+        "sources": [
+          "https://ra.co/events/2588828"
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=119%20Utah%20St%2C%20San%20Francisco%2C%20CA%2094103",
+          "apple": "https://maps.apple.com/?q=119%20Utah%20St%2C%20San%20Francisco%2C%20CA%2094103"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "https://images.ra.co/00f053cd8d0da4d4a1eba8f2d5ca70866cd37062.jpg",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true,
+        "lineup": [
+          {
+            "name": "Amtrac",
+            "instagram": null
+          },
+          {
+            "name": "Seb Wildblood",
+            "instagram": null
+          }
+        ]
+      },
+      {
+        "id": "2026-11-23-music-dr-know-switch-crooks-east-bay-878d6a",
+        "eid": "dr-know-switch-crooks-ea-37cd",
+        "track": "music",
+        "category": "",
+        "name": "Dr. Know, Switch Crooks, East Bay Underground",
+        "day": "Fri",
+        "date": "2026-11-27",
+        "time": "20:30",
+        "start": null,
+        "end": null,
+        "area": "San Francisco",
+        "venue": "Bottom of the Hill",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "",
+        "tags": [],
+        "sources": [
+          {
+            "url": "https://bottomofthehill.com/calendar.html",
+            "hidden": true
+          }
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=Bottom%20of%20the%20Hill%2C%20San%20Francisco",
+          "apple": "https://maps.apple.com/?q=Bottom%20of%20the%20Hill%2C%20San%20Francisco"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "https://api.party-scout.app/img/san-francisco/2026-11-23/dr-know-switch-crooks-ea-37cd.jpg",
+        "image_generated": true,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-11-23-music-el-caballo-de-fuego-james-houd-aa9869",
+        "eid": "el-caballo-de-fuego-jame-cdfb",
+        "track": "music",
+        "category": "",
+        "name": "El Caballo De Fuego: James Houdini",
+        "day": "Fri",
+        "date": "2026-11-27",
+        "time": "21:00",
+        "start": null,
+        "end": null,
+        "area": "San Francisco",
+        "venue": "Underground",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "",
+        "tags": [],
+        "sources": [
+          "https://www.instagram.com/smokesxs/p/Df0NbS9TgwH/"
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=Underground%2C%20San%20Francisco",
+          "apple": "https://maps.apple.com/?q=Underground%2C%20San%20Francisco"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "https://api.party-scout.app/img/san-francisco/2026-11-23/el-caballo-de-fuego-jame-cdfb.jpg",
+        "image_generated": true,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-11-23-music-esc-avation-alice-stribling-e6743d",
+        "eid": "esc-avation-alice-stribl-fc64",
+        "track": "music",
+        "category": "",
+        "name": "[Esc]Avation - Alice Stribling",
+        "day": "Fri",
+        "date": "2026-11-27",
+        "time": "19:00",
+        "start": null,
+        "end": null,
+        "area": "San Francisco",
+        "venue": "El Rio",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "0",
+        "tags": [],
+        "sources": [
+          {
+            "url": "https://ra.co/events/2585931",
+            "hidden": true
+          }
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=El%20Rio%2C%20San%20Francisco",
+          "apple": "https://maps.apple.com/?q=El%20Rio%2C%20San%20Francisco"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "https://api.party-scout.app/img/san-francisco/2026-11-23/esc-avation-alice-stribl-fc64.jpg",
+        "image_generated": true,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-11-23-music-water-spirit-brizzy-chapas-dam-d1c920",
+        "eid": "water-spirit-brizzy-chap-df9d",
+        "track": "music",
+        "category": "",
+        "name": "Water Spirit, Brizzy, Chapas, Damented, Desorden, Detonatorz, Dito, Frijol, Justintime, Kndrta, Nemesis",
+        "day": "Fri",
+        "date": "2026-11-27",
+        "time": "21:00",
+        "start": null,
+        "end": null,
+        "area": "San Francisco",
+        "venue": "F8 1192 Folsom",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "",
+        "tags": [],
+        "sources": [
+          "https://posh.vip/e/blackout-67?utm_source=mood&utm_medium=referral&utm_campaign=web&utm_content=event_page"
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=F8%201192%20Folsom%2C%20San%20Francisco",
+          "apple": "https://maps.apple.com/?q=F8%201192%20Folsom%2C%20San%20Francisco"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "https://api.party-scout.app/img/san-francisco/2026-11-23/water-spirit-brizzy-chap-df9d.jpg",
+        "image_generated": true,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-11-23-music-the-cut-up-x-psyched-radio-1fc566",
+        "eid": "the-cut-up-x-psyched-rad-957c",
+        "track": "music",
+        "category": "",
+        "name": "THE CUT UP X PSYCHED RADIO",
+        "day": "Sat",
+        "date": "2026-11-28",
+        "time": "21:00",
+        "start": null,
+        "end": null,
+        "area": "San Francisco",
+        "venue": "El Rio",
+        "address": "3158 Mission St, San Francisco, CA 94110, USA",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "5",
+        "tags": [],
+        "sources": [
+          {
+            "url": "https://ra.co/events/2585928",
+            "hidden": true
+          }
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=El%20Rio%2C%20San%20Francisco",
+          "apple": "https://maps.apple.com/?q=El%20Rio%2C%20San%20Francisco"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "https://api.party-scout.app/img/san-francisco/2026-11-23/the-cut-up-x-psyched-rad-957c.jpg",
+        "image_generated": true,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true,
+        "lineup": [
+          {
+            "name": "xtcemi",
+            "instagram": null
+          },
+          {
+            "name": "Lobottomy",
+            "instagram": null
+          }
+        ]
+      },
+      {
+        "id": "2026-11-23-music-the-inciters-a-100s-txe-fit-79f6bf",
+        "eid": "the-inciters-a-100s-txe-4826",
+        "track": "music",
+        "category": "",
+        "name": "The Inciters, A-100s, Txe Fit",
+        "day": "Sat",
+        "date": "2026-11-28",
+        "time": "20:30",
+        "start": null,
+        "end": null,
+        "area": "San Francisco",
+        "venue": "Bottom of the Hill",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "",
+        "tags": [],
+        "sources": [
+          {
+            "url": "https://bottomofthehill.com/calendar.html",
+            "hidden": true
+          }
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=Bottom%20of%20the%20Hill%2C%20San%20Francisco",
+          "apple": "https://maps.apple.com/?q=Bottom%20of%20the%20Hill%2C%20San%20Francisco"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "https://api.party-scout.app/img/san-francisco/2026-11-23/the-inciters-a-100s-txe-4826.jpg",
+        "image_generated": true,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-11-23-music-kpop-rave-93e242",
+        "eid": "kpop-rave-c035",
+        "track": "music",
+        "category": "",
+        "name": "Kpop Rave",
+        "day": "Sat",
+        "date": "2026-11-28",
+        "time": "21:00",
+        "start": null,
+        "end": null,
+        "area": "San Francisco",
+        "venue": "The Valencia Room",
+        "address": "647 Valencia Street, SAN FRANCISCO, CA 94110",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "Free-$855.50",
+        "tags": [],
+        "sources": [
+          "https://www.eventbrite.com/e/kpop-rave-1128-tickets-2004872199719"
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=647%20Valencia%20Street%2C%20SAN%20FRANCISCO%2C%20CA%2094110",
+          "apple": "https://maps.apple.com/?q=647%20Valencia%20Street%2C%20SAN%20FRANCISCO%2C%20CA%2094110"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1198044231%2F319442407985%2F1%2Foriginal.20261116-015601?crop=focalpoint&fit=crop&w=940&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.483&fp-y=0.106&s=b3674d18b0d31a362aba7ecb61113dc9",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-11-23-music-sleiiigh-holiday-bar-launch-pa-09d0b6",
+        "eid": "sleiiigh-holiday-bar-lau-0fc1",
+        "track": "music",
+        "category": "",
+        "name": "Sleiiigh Holiday Bar Launch Party w/ DJs + Free Cider",
+        "day": "Sat",
+        "date": "2026-11-28",
+        "time": "16:00",
+        "start": null,
+        "end": null,
+        "area": "San Francisco",
+        "venue": "620 Jones",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "",
+        "tags": [],
+        "sources": [
+          "https://sf.funcheap.com/2026/11/28/"
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=620%20Jones%2C%20San%20Francisco",
+          "apple": "https://maps.apple.com/?q=620%20Jones%2C%20San%20Francisco"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "https://cdn.funcheap.com/wp-content/uploads/2026/11/620-SLEIIIGH.png",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-11-23-music-twerksgiving-611a15",
+        "eid": "twerksgiving-dc54",
+        "track": "music",
+        "category": "",
+        "name": "Twerksgiving",
+        "day": "Sat",
+        "date": "2026-11-28",
+        "time": "22:00",
+        "start": null,
+        "end": null,
+        "area": "San Francisco",
+        "venue": "715 Harrison",
+        "address": "715 Harrison Street, San Francisco, CA 94107",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "$13.11-856.68",
+        "tags": [],
+        "sources": [
+          "https://www.eventbrite.com/e/twerksgiving-tickets-2004571706937"
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=715%20Harrison%20Street%2C%20San%20Francisco%2C%20CA%2094107",
+          "apple": "https://maps.apple.com/?q=715%20Harrison%20Street%2C%20San%20Francisco%2C%20CA%2094107"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1197828261%2F3002118097464%2F1%2Foriginal.20261112-082840?crop=focalpoint&fit=crop&w=940&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=3f61954b7c22eb1aed3b2b04af54dbcb",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-11-23-music-sindustry-sundays-with-jordy-a-f532be",
+        "eid": "sindustry-sundays-with-j-6a29",
+        "track": "music",
+        "category": "",
+        "name": "Sindustry Sundays with Jordy and Jeff Straw",
+        "day": "Sun",
+        "date": "2026-11-29",
+        "time": "21:00",
+        "start": null,
+        "end": null,
+        "area": "San Francisco",
+        "venue": "Butter",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "$0",
+        "tags": [],
+        "sources": [
+          {
+            "url": "https://ra.co/events/2586777",
+            "hidden": true
+          }
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=Butter%2C%20San%20Francisco",
+          "apple": "https://maps.apple.com/?q=Butter%2C%20San%20Francisco"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "https://api.party-scout.app/img/san-francisco/2026-11-23/sindustry-sundays-with-j-6a29.jpg",
+        "image_generated": true,
+        "popularity": 0,
+        "enriched": 0,
         "active": true
       }
     ],
@@ -7566,7 +8282,8 @@
           "dance"
         ],
         "sources": [
-          "https://sf.funcheap.com/golden-gate-park-sunday-roller-disco-party-sf-306/"
+          "https://sf.funcheap.com/golden-gate-park-sunday-roller-disco-party-sf-306/",
+          "https://sf.funcheap.com/2026/11/29/"
         ],
         "tickets": [],
         "maps": {
@@ -7745,7 +8462,7 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "https://api.party-scout.app/img/san-francisco/2026-11-23/sundays-pick-up-soccer-i-7918.jpg",
+        "image": "https://secure.meetupstatic.com/photos/event/b/8/a/3/highres_536327267.jpeg",
         "image_generated": false,
         "popularity": 0,
         "enriched": 1,
@@ -7792,6 +8509,192 @@
         "image_generated": false,
         "popularity": 0,
         "enriched": 1,
+        "active": true
+      },
+      {
+        "id": "2026-11-23-sports-mission-5k-fun-run-0aec84",
+        "eid": "mission-5k-fun-run-7213",
+        "track": "sports",
+        "category": "",
+        "name": "Mission 5k fun run!",
+        "day": "Mon",
+        "date": "2026-11-23",
+        "time": "18:30",
+        "start": null,
+        "end": null,
+        "area": "San Francisco",
+        "venue": "Zeitgeist 199 Valencia St.",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "",
+        "tags": [],
+        "sources": [
+          "https://www.meetup.com/missionfunruns/events/317280135/"
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=Zeitgeist%20199%20Valencia%20St.%2C%20San%20Francisco",
+          "apple": "https://maps.apple.com/?q=Zeitgeist%20199%20Valencia%20St.%2C%20San%20Francisco"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-11-23-sports-when-was-the-last-time-you-pla-a52278",
+        "eid": "when-was-the-last-time-y-71da",
+        "track": "sports",
+        "category": "",
+        "name": "When was the last time you played catch?",
+        "day": "Wed",
+        "date": "2026-11-25",
+        "time": "15:00",
+        "start": null,
+        "end": null,
+        "area": "San Francisco",
+        "venue": "Philz Coffee Truck, 500 Marina Blvd",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "",
+        "tags": [],
+        "sources": [
+          {
+            "url": "https://www.meetup.com/join-catchup/events/317375228/",
+            "hidden": true
+          }
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=Philz%20Coffee%20Truck%2C%20500%20Marina%20Blvd%2C%20San%20Francisco",
+          "apple": "https://maps.apple.com/?q=Philz%20Coffee%20Truck%2C%20500%20Marina%20Blvd%2C%20San%20Francisco"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-11-23-sports-thanksgiving-morning-presidio-c079d9",
+        "eid": "thanksgiving-morning-pre-8108",
+        "track": "sports",
+        "category": "",
+        "name": "Thanksgiving Morning Presidio Overlooks and  Vistas Hike",
+        "day": "Thu",
+        "date": "2026-11-26",
+        "time": "10:00",
+        "start": null,
+        "end": null,
+        "area": "San Francisco",
+        "venue": "14th Avenue Gate Presidio Entrance, 14th Avenue and Wedemeyer",
+        "address": "14th Avenue and Wedemeyer, San Francisco, CA",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "Free",
+        "tags": [],
+        "sources": [
+          "https://www.meetup.com/san-francisco-city-steps/events/317501227/"
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=14th%20Avenue%20and%20Wedemeyer%2C%20San%20Francisco%2C%20CA",
+          "apple": "https://maps.apple.com/?q=14th%20Avenue%20and%20Wedemeyer%2C%20San%20Francisco%2C%20CA"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "https://secure.meetupstatic.com/photos/event/a/4/3/8/highres_466122040.jpeg",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-11-23-sports-turkey-day-tennis-session-1-f75a8b",
+        "eid": "turkey-day-tennis-sessio-9ef6",
+        "track": "sports",
+        "category": "",
+        "name": "🦃🎾Turkey Day Tennis Session #1🎾🦃",
+        "day": "Thu",
+        "date": "2026-11-26",
+        "time": "08:30",
+        "start": null,
+        "end": null,
+        "area": "San Francisco",
+        "venue": "Rossi Playground, 600 Arguello Blvd",
+        "address": "600 Arguello Blvd, San Francisco, CA",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "Free",
+        "tags": [],
+        "sources": [
+          "https://www.meetup.com/rossiracquetclub/events/317515048/"
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=600%20Arguello%20Blvd%2C%20San%20Francisco%2C%20CA",
+          "apple": "https://maps.apple.com/?q=600%20Arguello%20Blvd%2C%20San%20Francisco%2C%20CA"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "https://secure.meetupstatic.com/photos/event/3/6/d/8/highres_508514040.jpeg",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
+        "active": true
+      },
+      {
+        "id": "2026-11-23-sports-mission-peak-loop-trail-hiking-716f60",
+        "eid": "mission-peak-loop-trail-bfd9",
+        "track": "sports",
+        "category": "",
+        "name": "Mission Peak Loop Trail Hiking",
+        "day": "Sun",
+        "date": "2026-11-29",
+        "time": "09:00",
+        "start": null,
+        "end": null,
+        "area": "San Francisco",
+        "venue": "Safeway, 2020 Market St, San Francisco, CA 94114, USA",
+        "address": "",
+        "why": "",
+        "summary": "",
+        "promoter": "",
+        "price": "",
+        "tags": [],
+        "sources": [
+          {
+            "url": "https://www.meetup.com/sunday-hike-san-francisco/events/317425699/",
+            "hidden": true
+          }
+        ],
+        "tickets": [],
+        "maps": {
+          "google": "https://www.google.com/maps/search/?api=1&query=Safeway%2C%202020%20Market%20St%2C%20San%20Francisco%2C%20CA%2094114%2C%20USA%2C%20San%20Francisco",
+          "apple": "https://maps.apple.com/?q=Safeway%2C%202020%20Market%20St%2C%20San%20Francisco%2C%20CA%2094114%2C%20USA%2C%20San%20Francisco"
+        },
+        "coords": null,
+        "coords_precise": false,
+        "ra": {},
+        "image": "",
+        "image_generated": false,
+        "popularity": 0,
+        "enriched": 0,
         "active": true
       }
     ]
