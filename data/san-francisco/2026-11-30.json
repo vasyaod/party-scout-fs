@@ -5011,7 +5011,7 @@
         "id": "2026-11-30-music-contra-abstrakt-sonance-48ef36",
         "eid": "contra-abstrakt-sonance-1590",
         "track": "music",
-        "category": "",
+        "category": "Nightclub",
         "name": "Contra & Abstrakt Sonance",
         "day": "Fri",
         "date": "2026-12-04",
@@ -5020,12 +5020,17 @@
         "end": "01:30",
         "area": "San Jose",
         "venue": "Guildhouse (San Jose)",
-        "address": "",
-        "why": "",
-        "summary": "",
-        "promoter": "",
+        "address": "420 S. First St, San Jose, CA",
+        "why": "A heavy bass-music bill from Mighty Heavy that is worth the trip south if you like dark, weighty sound-system sets.",
+        "summary": "Mighty Heavy presents Contra with Abstrakt Sonance, Wompsta and Darkstar at Guildhouse in downtown San Jose. Bass music, 21+, 9pm to 1:30am.",
+        "promoter": "Mighty Heavy",
         "price": "$18-28",
-        "tags": [],
+        "tags": [
+          "electronic",
+          "experimental",
+          "live",
+          "sample-based"
+        ],
         "sources": [
           "https://posh.vip/f/f65ea?t=19hz"
         ],
@@ -5037,17 +5042,18 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/san-francisco/2026-11-30/contra-abstrakt-sonance-1590.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
-        "active": true
+        "enriched": 1,
+        "active": true,
+        "lineup": []
       },
       {
         "id": "2026-11-30-music-house-revolution-poe-dj-crew-o-525624",
         "eid": "house-revolution-poe-dj-30f5",
         "track": "music",
-        "category": "",
+        "category": "Nightclub",
         "name": "House Revolution: Poe, DJ Crew, Otter",
         "day": "Fri",
         "date": "2026-12-04",
@@ -5057,11 +5063,16 @@
         "area": "SF",
         "venue": "Bella (San Francisco)",
         "address": "",
-        "why": "",
-        "summary": "",
+        "why": "A pure, house-only dancefloor focused on tight DJ sets.",
+        "summary": "A house-music club night featuring DJs Poe and Otter spinning club-ready house sets across the dancefloor.",
         "promoter": "",
         "price": "Free",
-        "tags": [],
+        "tags": [
+          "house",
+          "dj",
+          "club",
+          "21+"
+        ],
         "sources": [
           "https://www.instagram.com/houserevolutionchico/reel/Df7gEmmqFFq/"
         ],
@@ -5076,32 +5087,38 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
         "id": "2026-11-30-music-program-audio-tba-47c5ed",
         "eid": "program-audio-tba-d3d0",
         "track": "music",
-        "category": "",
+        "category": "Nightclub",
         "name": "program audio: tba",
         "day": "Fri",
         "date": "2026-12-04",
         "time": "22:00-04:00",
         "start": "22:00",
         "end": "04:00",
-        "area": "SF",
+        "area": "SoMa",
         "venue": "F8 1192 Folsom",
-        "address": "",
-        "why": "",
+        "address": "1192 Folsom St, San Francisco, CA 94103",
+        "why": "A limited number of NOTAFLOF tickets are held to help members of marginalized communities attend.",
         "summary": "",
         "promoter": "",
         "price": "",
-        "tags": [],
+        "tags": [
+          "dj",
+          "nightlife",
+          "inclusive"
+        ],
         "sources": [
           "https://ra.co/events/2586780"
         ],
-        "tickets": [],
+        "tickets": [
+          "https://ra.co/events/2586780"
+        ],
         "maps": {
           "google": "https://www.google.com/maps/search/?api=1&query=F8%201192%20Folsom%2C%20SF",
           "apple": "https://maps.apple.com/?q=F8%201192%20Folsom%2C%20SF"
@@ -5112,14 +5129,14 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
         "id": "2026-11-30-music-spins-pins-amelia-great-natash-0efd3c",
         "eid": "spins-pins-amelia-great-c7af",
         "track": "music",
-        "category": "",
+        "category": "Nightclub",
         "name": "Spins & Pins: Amelia, Great, Natasha Xo, Reedemit, S2, Chunkiebeatz",
         "day": "Fri",
         "date": "2026-12-04",
@@ -5133,7 +5150,11 @@
         "summary": "",
         "promoter": "",
         "price": "",
-        "tags": [],
+        "tags": [
+          "dj",
+          "dance",
+          "bowling"
+        ],
         "sources": [
           "https://www.instagram.com/fusecollectivesf/p/Df52JAyCFem/",
           "https://edmtrain.com/san-francisco-ca/spins-and-pins-natasha-xo-555041"
@@ -5146,10 +5167,10 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
-        "image_generated": false,
+        "image": "https://api.party-scout.app/img/san-francisco/2026-11-30/spins-pins-amelia-great-b12a.jpg",
+        "image_generated": true,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {
@@ -6468,21 +6489,27 @@
         "id": "2026-11-30-sports-embarcadero-night-skate-pizza-80e204",
         "eid": "embarcadero-night-skate-849e",
         "track": "sports",
-        "category": "",
+        "category": "Sports",
         "name": "Embarcadero Night Skate & Pizza",
         "day": "Fri",
         "date": "2026-12-04",
         "time": "19:30",
         "start": "19:30",
-        "end": null,
+        "end": "21:30",
         "area": "SF",
         "venue": "Ferry Building, 1 Ferry Building",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "1 Ferry Building, San Francisco, CA",
+        "why": "App-guided one-on-one pairings that turn strangers into small skate crews before the roll and pizza.",
+        "summary": "An easygoing evening for late-night rollers: start with an hour of app-guided one-on-one chats via the Gist IRL app, then form small groups to cruise the Embarcadero waterfront and grab late-night pizza together.",
         "promoter": "Gist IRL SF",
-        "price": "",
-        "tags": [],
+        "price": "Free",
+        "tags": [
+          "free",
+          "outdoor",
+          "skate",
+          "social",
+          "food"
+        ],
         "sources": [
           {
             "url": "https://www.meetup.com/gist-irl/events/317201577/",
@@ -6497,10 +6524,10 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/san-francisco/2026-11-30/embarcadero-night-skate-849e.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       },
       {

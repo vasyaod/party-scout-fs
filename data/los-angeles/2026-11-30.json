@@ -10247,21 +10247,26 @@
         "id": "2026-11-30-sports-elysian-park-in-a-minute-c2e8e9",
         "eid": "elysian-park-in-a-minute-e835",
         "track": "sports",
-        "category": "",
+        "category": "Sports",
         "name": "Elysian Park in a Minute",
         "day": "Sun",
         "date": "2026-12-06",
         "time": "09:00",
         "start": "09:00",
-        "end": null,
+        "end": "11:00",
         "area": "Los Angeles",
         "venue": "Lower Angels Point, 1742 Academy Rd",
-        "address": "",
-        "why": "",
-        "summary": "",
+        "address": "1742 Academy Rd, Los Angeles, CA",
+        "why": "Includes a stop at the historical marker for the city's first Jewish settlement and multiple skyline lookouts.",
+        "summary": "A guided 5.5-mile hike with about 900 ft of elevation gain through Elysian Park that visits the marker for the city's first Jewish settlement, follows the walkway beside the 110, passes the Elysian Reservoir, and finishes at Angels Point with downtown skyline views, with several stops to take in the scenery.",
         "promoter": "Los Angeles Hiking Group",
-        "price": "",
-        "tags": [],
+        "price": "Free",
+        "tags": [
+          "outdoor",
+          "free",
+          "hike",
+          "history"
+        ],
         "sources": [
           "https://www.meetup.com/los-angeles-hiking-group/events/317520227/"
         ],
@@ -10274,9 +10279,9 @@
         "coords_precise": false,
         "ra": {},
         "image": "https://api.party-scout.app/img/los-angeles/2026-11-30/elysian-park-in-a-minute-e835.jpg",
-        "image_generated": true,
+        "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       }
     ]
