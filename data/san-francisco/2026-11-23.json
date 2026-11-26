@@ -3833,8 +3833,8 @@
         "area": "San Francisco",
         "venue": "San Francisco",
         "address": "",
-        "why": "For dancing, socializing, and a high-energy club atmosphere.",
-        "summary": "A late-night clubbing event scheduled in San Francisco on November 29, 2026.",
+        "why": "A numbered edition in a recurring late-night series that emphasizes high-energy, DJ-driven sets.",
+        "summary": "A late-night clubbing event presenting DJ-led, dancefloor-focused electronic sets designed for after-hours partying.",
         "promoter": "",
         "price": "Free (RSVP)",
         "tags": [
@@ -3858,7 +3858,7 @@
         "image": "https://api.party-scout.app/img/san-francisco/2026-11-23/late-night-clubbing-097-2f41.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 1,
+        "enriched": 2,
         "active": true
       },
       {
@@ -3898,7 +3898,7 @@
         "image": "https://api.party-scout.app/img/san-francisco/2026-11-23/loveberry-j-mckinnon-the-da31.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 1,
+        "enriched": 2,
         "active": true
       },
       {
@@ -3941,7 +3941,7 @@
         "image": "https://api.party-scout.app/img/san-francisco/2026-11-23/minds-without-a-face-par-6f13.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 1,
+        "enriched": 2,
         "active": true
       },
       {
@@ -3958,8 +3958,8 @@
         "area": "San Francisco",
         "venue": "Yoshi's Oakland",
         "address": "510 Embarcadero West, Oakland, CA 94607",
-        "why": "To catch a live, ticketed performance in Oakland.",
-        "summary": "Paul Taylor performs on 2026-11-29 at 510 Embarcadero West in Oakland. Tickets are priced from $40–$79.",
+        "why": "Features a chart-topping smooth-jazz saxophonist with a string of Billboard #1 hits and wide-ranging crossover collaborations.",
+        "summary": "Saxophonist Paul Taylor delivers melodic, radio-friendly smooth jazz—soulful, groove-driven instrumentals shaped by a pop and R&B crossover sensibility.",
         "promoter": "",
         "price": "$40–$79",
         "tags": [
@@ -3981,7 +3981,7 @@
         "image": "https://api.party-scout.app/img/san-francisco/2026-11-23/paul-taylor-f50a.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 1,
+        "enriched": 2,
         "active": true
       },
       {
@@ -4880,7 +4880,7 @@
         "id": "2026-11-23-music-lindy-in-the-park-swing-dance-9c2b2e",
         "eid": "lindy-in-the-park-swing-7376",
         "track": "music",
-        "category": "",
+        "category": "Festival",
         "name": "\"Lindy in the Park\" Swing Dance Party (Golden Gate Park)",
         "day": "Sun",
         "date": "2026-11-29",
@@ -4915,14 +4915,14 @@
         "image": "https://api.party-scout.app/img/san-francisco/2026-11-23/lindy-in-the-park-swing-7376.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 1,
+        "enriched": 2,
         "active": true
       },
       {
         "id": "2026-11-23-music-marcodelic-mikle-dj-lamont-dfd3db",
         "eid": "marcodelic-mikle-dj-lamo-c827",
         "track": "music",
-        "category": "",
+        "category": "Concert",
         "name": "Marcodelic, Mikle, DJ Lamont",
         "day": "Sun",
         "date": "2026-11-29",
@@ -4932,8 +4932,8 @@
         "area": "SF",
         "venue": "Hedge Coffee",
         "address": "",
-        "why": "Free DJ sets in a cozy café atmosphere.",
-        "summary": "DJs Marcodelic, Mikle, and DJ Lamont play at Hedge Coffee on November 29, 2026 at 11:00; admission is free.",
+        "why": "Daytime coffee‑shop house sets from Finnish DJs.",
+        "summary": "A daytime house session featuring Marcodelic, Mikle and DJ Lamont — DJs from Finland — delivering house sets in a relaxed coffee‑shop format.",
         "promoter": "",
         "price": "Free",
         "tags": [
@@ -4961,7 +4961,7 @@
         "image": "",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 1,
+        "enriched": 2,
         "active": true
       },
       {
@@ -9193,7 +9193,7 @@
         "image": "https://api.party-scout.app/img/san-francisco/2026-11-23/mission-peak-loop-trail-bfd9.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 1,
+        "enriched": 2,
         "active": true
       },
       {
@@ -9443,21 +9443,27 @@
         "id": "2026-11-23-sports-no-limit-holdem-private-invite-a77f05",
         "eid": "no-limit-holdem-private-0185",
         "track": "sports",
-        "category": "",
+        "category": "Sports",
         "name": "No Limit Holdem, Private, Invite Only--Seeking New Players. Sunday!",
         "day": "Sun",
         "date": "2026-11-29",
         "time": "14:00",
         "start": "14:00",
-        "end": null,
+        "end": "22:00",
         "area": "San Francisco",
         "venue": "Mission Bay",
         "address": "",
-        "why": "",
-        "summary": "",
+        "why": "Hosted by a former Celebrity Poker Showdown teaching consultant with a pro dealer and free refreshments.",
+        "summary": "A private, invite-only No Limit Hold’em home game hosted by a former Poker teaching consultant from Celebrity Poker Showdown, offering pro dealing, chips, and a regular vetted crew. The host provides free snacks and drinks, multiple screens for NFL and other sports viewing, and typically runs $100–$1,000 buy-in games.",
         "promoter": "",
-        "price": "",
-        "tags": [],
+        "price": "Free",
+        "tags": [
+          "poker",
+          "private",
+          "invite-only",
+          "cards",
+          "sports"
+        ],
         "sources": [
           "https://www.meetup.com/bay-area-poker-meetup/events/317361745/"
         ],
@@ -9469,10 +9475,10 @@
         "coords": null,
         "coords_precise": false,
         "ra": {},
-        "image": "",
+        "image": "https://api.party-scout.app/img/san-francisco/2026-11-23/no-limit-holdem-private-0185.jpg",
         "image_generated": false,
         "popularity": 0,
-        "enriched": 0,
+        "enriched": 1,
         "active": true
       }
     ]
