@@ -365,6 +365,20 @@
       "notes": "Potrero Hill rock club (1233 17th St). calendar.html is one static page of upcoming shows: 'Friday November 13 2026 8:00PM doors … $30 in advance / $35 at the door'. Plain HTTP reads it."
     },
     {
+      "id": "sf-symphony",
+      "name": "San Francisco Symphony (Davies Symphony Hall)",
+      "url": "https://www.sfsymphony.org/Calendar?view=list",
+      "city": "san-francisco",
+      "kind": "venue",
+      "use": ["listing"],
+      "track": ["music"],
+      "focus": "orchestra, holiday, film-with-live-orchestra and guest-artist concerts",
+      "fetch": ["ephemeral-RBS"],
+      "status": "active",
+      "aliases": ["sfsymphony.org"],
+      "notes": "Davies Symphony Hall, 201 Van Ness Ave (Civic Center); the SF Symphony's season calendar, which also lists its Legion of Honor chamber series. /Calendar?view=list is the upcoming list, about 3 weeks deep before a LOAD MORE RESULTS button: each show is 'DEC 6 Deck the Hall Holiday Concert Sunday, Dec 6, 2026 | 3:30 pm BUY NOW', with a per-show page at /Buy-Tickets/<season>/<slug>. Plain HTTP never reaches it: every GET is redirected to a Queue-it waiting room (waitingroom.sfsymphony.org, 'Site Safetynet'), 0 characters of text, so the pre-read judges it empty and collect reads it in the remote browser, where the waiting room passes straight through (measured 2026-11-26). The bare /Calendar is a month grid with no year on spill-over days. Registered for vasyaod/party-scout-agent#352: 'Deck the Hall Holiday Concert' (2026-12-06 3:30 pm) was on this calendar and unpublished, and no Davies Symphony Hall show had ever been published."
+    },
+    {
       "id": "stern-grove-festival",
       "name": "Stern Grove Festival",
       "url": "https://www.sterngrove.org",
